@@ -82,6 +82,9 @@ public class ediCalc
       Scanner in = new Scanner(System.in);
       System.out.print("Enter line: ");
       String lineChoice = in.nextLine();
+      String lineName = "no data, yet";
+      boolean official = false;
+      boolean saved = false;
 
       Stop [] theLine;
 
@@ -91,7 +94,7 @@ public class ediCalc
         String customStop = "";
 
         System.out.print("Line Name: ");
-        String lineName = in.nextLine();
+        lineName = in.nextLine();
         System.out.print("Creator Name: ");
         String creatorName = in.nextLine();
         String custLine = creatorName + "-" + lineName;
@@ -99,6 +102,7 @@ public class ediCalc
         if (creatorName.equals("eliot"))
         {
           custLine = lineName;
+          official = true;
         }
         
         while (!customStop.equals("-0"))
@@ -151,6 +155,7 @@ public class ediCalc
         String save = in.nextLine();
         if (save.equalsIgnoreCase("yes"))
         {
+          saved = true;
           try
           {
             File newFile1 = new File(agencyChoice + "-edi.txt");
@@ -241,6 +246,59 @@ public class ediCalc
       double edi = dist / lineDist;
       edi = ((int)(edi * 100)) / 100.00;
       System.out.println("Eliot Deviation Index: " + edi);
+
+      if (official && saved)
+      {
+        ArrayList<String> routeCode = new ArrayList<String>();
+        ArrayList<String> routeDisp = new ArrayList<String>();
+        ArrayList<String> routeEdi = new ArrayList<String>();
+
+        try
+        {
+          Scanner s = new Scanner(new File("edis/" + agencyChoice + ".txt"));
+          while (s.hasNextLine())
+          {
+            String data = s.nextLine();
+            String code = data.substring(0, data.indexOf(";"));
+            routeCode.add(code);
+            data = data.substring(data.indexOf(";") + 1);
+            String disp = data.substring(0, data.indexOf(";"));
+            routeDisp.add(disp);
+            data = data.substring(data.indexOf(";") + 1);
+            String ediA = data;
+            routeEdi.add(ediA);
+          }
+        }
+        catch (FileNotFoundException e)
+        {
+          System.out.println("Error - No EDI list file for agency.");
+        }
+
+        routeCode.add(lineName);
+        routeDisp.add(dist + "");
+        routeEdi.add(edi + "");
+
+        try
+        {
+          File newFile1 = new File("edis/" + agencyChoice + ".txt");
+          FileWriter fileWriter1 = new FileWriter(newFile1);
+
+          fileWriter1.write(routeCode.get(0) + ";" + routeDisp.get(0) + ";" + routeEdi.get(0) + "\n");
+
+          for (int b = 1; b < routeCode.size(); b++)
+          {
+            fileWriter1.append(routeCode.get(b) + ";" + routeDisp.get(b) + ";" + routeEdi.get(b) + "\n");
+          }
+
+          fileWriter1.close();
+
+          System.out.println("Line added.");
+        }
+        catch (IOException e)
+        {
+          System.out.println("Error.");
+        }
+      }
 
       System.out.print("Enter 1 to search again: ");
       cont = in.nextInt();
