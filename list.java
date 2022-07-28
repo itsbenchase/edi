@@ -43,6 +43,11 @@ public class list
 
       for (int i = 0; i < agencies.size(); i++)
       {
+        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul>");
+      }
+
+      for (int i = 0; i < agencies.size(); i++)
+      {
         fileWriter1.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
 
         ArrayList<String> stopID = new ArrayList<String>();
