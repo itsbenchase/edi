@@ -1684,7 +1684,7 @@
 16015;Hartford opp Elsie;41.82308;-71.49289;no data;0
 16020;Atwood before 1478 Atwood;41.823204;-71.498882;no data;0
 16025;Atwells after Enterprise;41.823286;-71.421234;no data;0
-16035;Sabin Midblock Ri Convention Center;41.823682;-71.416802;no data;0
+16035;Sabin Midblock RI Convention Center;41.823682;-71.416802;no data;0
 16045;Atwells before Albro;41.823454;-71.424852;no data;0
 16095;Atwells after Pequot;41.823379;-71.42285;no data;0
 16105;Atwells before De Pasquale;41.823578;-71.427056;no data;0
@@ -3601,3 +3601,18 @@
 22500;Collyer Park (R-Line);41.874945;-71.392559;r;29
 22970;Goff / Dexter;41.878511;-71.388262;r;30
 22765;Pawtucket Transit Center;41.877299;-71.383417;r;31
+20;Westerly Railroad Station;41.381108;-71.829808;95x;1
+5;Westerly Town Hall;41.377;-71.829771;95x;2
+10;Grove before Wilcox;41.378328;-71.82668;95x;3
+25;High after Grove;41.381039;-71.82572;95x;4
+56880;Rt 3 / Rt 216;41.423398;-71.786295;95x;5
+535;Ashaway Park & Ride (Hopkinton);41.450179;-71.786067;95x;6
+1945;Wyoming Park & Ride (Richmond);41.511929;-71.689852;95x;7
+3810;Exit 7 Park & Ride (West Greenwich);41.656918;-71.551444;95x;8
+16775;Memorial before Exchange;41.826556;-71.41272;95x;9
+16720;Kennedy Plaza (Stop X);41.825959;-71.412371;95x;10
+16035;Sabin Midblock RI Convention Center;41.823682;-71.416802;95x;11
+15575;Empire opp Westminster;41.821;-71.415397;95x;12
+15545;Weybosset before Richmond;41.821047;-71.412845;95x;13
+15880;Weybosset opp Eddy;41.82263;-71.41137;95x;14
+16385;Weybosset before Post Office Court;41.824459;-71.409638;95x;15

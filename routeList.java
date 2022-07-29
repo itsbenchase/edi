@@ -73,7 +73,7 @@ public class routeList
         }
         catch (FileNotFoundException e)
         {
-          System.out.println("Error 3 - No EDI file.");
+          System.out.println("Error 3 - No EDI file (" + agencies.get(i) + ")");
         }
 
         fileWriter1.append("<table><tr><th>Route Code</th><th>Displacement (mi)</th><th>Eliot Deviation Index</th></tr> \n");
