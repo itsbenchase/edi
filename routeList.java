@@ -76,7 +76,7 @@ public class routeList
           System.out.println("Error 3 - No EDI file (" + agencies.get(i) + ")");
         }
 
-        fileWriter1.append("<table><tr><th>Route Code</th><th>Displacement (mi)</th><th>Eliot Deviation Index</th></tr> \n");
+        fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length (mi)</th><th>Eliot Deviation Index</th></tr> \n");
 
         for (int j = 0; j < routeCode.size(); j++)
         {

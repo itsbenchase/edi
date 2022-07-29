@@ -250,7 +250,7 @@ public class ediCalc
       if (official && saved)
       {
         ArrayList<String> routeCode = new ArrayList<String>();
-        ArrayList<String> routeDisp = new ArrayList<String>();
+        ArrayList<String> routeDist = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
 
         try
@@ -262,8 +262,8 @@ public class ediCalc
             String code = data.substring(0, data.indexOf(";"));
             routeCode.add(code);
             data = data.substring(data.indexOf(";") + 1);
-            String disp = data.substring(0, data.indexOf(";"));
-            routeDisp.add(disp);
+            String dist2 = data.substring(0, data.indexOf(";"));
+            routeDist.add(dist2);
             data = data.substring(data.indexOf(";") + 1);
             String ediA = data;
             routeEdi.add(ediA);
@@ -283,11 +283,11 @@ public class ediCalc
           File newFile1 = new File("edis/" + agencyChoice + ".txt");
           FileWriter fileWriter1 = new FileWriter(newFile1);
 
-          fileWriter1.write(routeCode.get(0) + ";" + routeDisp.get(0) + ";" + routeEdi.get(0) + "\n");
+          fileWriter1.write(routeCode.get(0) + ";" + routeDist.get(0) + ";" + routeEdi.get(0) + "\n");
 
           for (int b = 1; b < routeCode.size(); b++)
           {
-            fileWriter1.append(routeCode.get(b) + ";" + routeDisp.get(b) + ";" + routeEdi.get(b) + "\n");
+            fileWriter1.append(routeCode.get(b) + ";" + routeDist.get(b) + ";" + routeEdi.get(b) + "\n");
           }
 
           fileWriter1.close();
