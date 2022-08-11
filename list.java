@@ -29,6 +29,7 @@ public class list
       System.out.println("Error 1 - No agencies.txt.");
     }
 
+    int stopCounter = 0; // total amount of stops
     try
     {
       File newFile1 = new File("stops.html");
@@ -73,6 +74,7 @@ public class list
             data = data.substring(data.indexOf(";") + 1);
             String lon = data;
             stopLon.add(lon);
+            stopCounter++;
           }
         }
         catch (FileNotFoundException e)
@@ -90,6 +92,7 @@ public class list
         fileWriter1.append("</table> \n");
       }
 
+      fileWriter1.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
       fileWriter1.close();
     }
     catch (IOException e)
