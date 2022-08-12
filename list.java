@@ -74,7 +74,6 @@ public class list
             data = data.substring(data.indexOf(";") + 1);
             String lon = data;
             stopLon.add(lon);
-            stopCounter++;
           }
         }
         catch (FileNotFoundException e)
@@ -87,6 +86,7 @@ public class list
         for (int j = 0; j < stopID.size(); j++)
         {
           fileWriter1.append("<tr><td style=color:red>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
+          stopCounter++;
         }
 
         fileWriter1.append("</table> \n");
