@@ -747,7 +747,7 @@
 6310;Church before W Shore;41.713219;-71.380329;no data;0
 6315;W Shore before Church;41.713251;-71.379755;no data;0
 6320;Church after Alpine;41.713482;-71.380524;no data;0
-6335;Ccri (Warwick Campus);41.712279;-71.480109;no data;0
+6335;CCRI (Warwick Campus);41.712279;-71.480109;no data;0
 6340;Strawberry Field before Carney;41.713775;-71.43112;no data;0
 6345;Main before Fatima;41.713608;-71.280653;no data;0
 6360;Jefferson after Echo;41.713408;-71.448385;no data;0
@@ -1453,7 +1453,7 @@
 13515;Warren after Evergreen;41.807568;-71.344147;no data;0
 13525;Pocasset after Sophia;41.80741;-71.456492;no data;0
 13535;Warren before Evergreen;41.807747;-71.344337;no data;0
-13550;Ccri (Providence Campus);41.808186;-71.414651;no data;0
+13550;CCRI (Providence Campus);41.808186;-71.414651;no data;0
 13555;Pocasset opp Sophia;41.807373;-71.456389;no data;0
 13565;Allens opp 253 Allens;41.80724;-71.403114;no data;0
 13575;Plainfield opp 861 Plainfield;41.808222;-71.463385;no data;0
@@ -2492,7 +2492,7 @@
 24075;Broad opp 1190 Broad;41.896008;-71.388175;no data;0
 24080;1190 Broad;41.895999;-71.388336;no data;0
 24120;Broad after High;41.898542;-71.389157;no data;0
-24155;Ccri (Lincoln Campus);41.899629;-71.453411;no data;0
+24155;CCRI (Lincoln Campus);41.899629;-71.453411;no data;0
 24205;Broad opp Currier Playlot;41.901061;-71.390954;no data;0
 24215;Opposite Davies Vocational Hs;41.902897;-71.455689;no data;0
 24216;Davies Vocational Hs;41.902752;-71.455991;no data;0
@@ -2517,12 +2517,12 @@
 24455;Broad before Forest;41.910293;-71.395007;no data;0
 24480;Broad after Dexter;41.912213;-71.396088;no data;0
 24485;Broad opp Bowen;41.912311;-71.396272;no data;0
-24495;Mendon before Ann&Hope Way;41.912111;-71.403344;no data;0
+24495;Mendon before Ann & Hope Way;41.912111;-71.403344;no data;0
 24496;Stop & Shop (Mendon Road - Cumberland);41.913654;-71.405715;no data;0
-24500;Mendon after Ann&Hope Way;41.912798;-71.403343;no data;0
+24500;Mendon after Ann & Hope Way;41.912798;-71.403343;no data;0
 24520;Broad after Cumberland;41.914093;-71.398204;no data;0
-24535;Broad after Ann&Hope Way;41.914021;-71.398349;no data;0
-24540;Ann&Hope Way after Main;41.913621;-71.399755;no data;0
+24535;Broad after Ann & Hope Way;41.914021;-71.398349;no data;0
+24540;Ann & Hope Way after Main;41.913621;-71.399755;no data;0
 24555;Mendon before Rr Tracks;41.914498;-71.40399;no data;0
 24565;Mendon before Broad;41.915774;-71.404758;no data;0
 24570;Mendon before Broad;41.915922;-71.404687;no data;0
@@ -2796,9 +2796,9 @@
 55260;Amflex after Ninety-Nine Way;41.786167;-71.511674;no data;0
 55285;Plainfield opp Neutaconkanut Recreation Center;41.810903;-71.461998;no data;0
 55290;Post opp Alhambra;41.728117;-71.438114;no data;0
-55295;Ann&Hope Way before Mendon;41.912543;-71.402047;no data;0
-55305;Ann&Hope Way after Mendon;41.912412;-71.402078;no data;0
-55310;Ann&Hope Way before Broad;41.913594;-71.399637;no data;0
+55295;Ann & Hope Way before Mendon;41.912543;-71.402047;no data;0
+55305;Ann & Hope Way after Mendon;41.912412;-71.402078;no data;0
+55310;Ann & Hope Way before Broad;41.913594;-71.399637;no data;0
 55315;Broad opp High;41.898356;-71.389098;no data;0
 55320;Collyer Park (R-Line);41.874951;-71.392292;no data;0
 55325;Pearl Street (R-Line);41.871679;-71.395277;no data;0
@@ -3017,7 +3017,7 @@
 57740;Main before Washington;41.703611;-71.524116;no data;0
 57760;Admiral Kalbfus before 3rd;41.506826;-71.319378;no data;0
 57840;Coddington opp Landings;41.518513;-71.30297;no data;0
-57870;Coddington opp Ccri Entrance;41.51835;-71.313613;no data;0
+57870;Coddington opp CCRI Entrance;41.51835;-71.313613;no data;0
 58040;Underwood after Walcott;41.877392;-71.378397;no data;0
 58045;Underwood before Grove;41.878527;-71.378151;no data;0
 58050;Rochambeau opp 405 Rochambeau;41.846061;-71.389531;no data;0
@@ -3028,7 +3028,7 @@
 58120;Elmgrove at 152 Elmgrove;41.834889;-71.391099;no data;0
 58135;Bellevue at Marble House;41.462658;-71.306564;no data;0
 58140;Gate after Sams Circle;41.60565;-71.447153;no data;0
-58145;Ccri Newport;41.517298;-71.313119;no data;0
+58145;CCRI Newport;41.517298;-71.313119;no data;0
 58150;Eddy before South;41.817831;-71.407212;no data;0
 58165;Post at 446 Post;41.75999;-71.405174;no data;0
 58175;Eddy after Rhodes;41.80847;-71.407207;no data;0
@@ -3546,7 +3546,7 @@
 73480;Newport County Dept Of Human Services;41.499428;-71.285354;no data;0
 73490;Midway before Cypress;41.760959;-71.456642;no data;0
 73495;Greystone (Lincoln);41.920775;-71.476504;no data;0
-73500;Opp Ccri Newport;41.517263;-71.312777;no data;0
+73500;Opp CCRI Newport;41.517263;-71.312777;no data;0
 73505;John Chafee before Sunset;41.513438;-71.311625;no data;0
 60001;Somerset (Park & Ride);41.727378;-71.187938;no data;0
 60002;Pettine Transit Center (Fall River);41.698321;-71.154292;no data;0
@@ -3653,3 +3653,132 @@
 30465;Rt 146a opp White;41.984682;-71.519521;59x;11
 71025;Great at 601 Great;41.998783;-71.548727;59x;12
 71005;Brigido Market Park & Ride;42.005427;-71.586513;59x;13
+73480;Newport County Dept Of Human Services;41.499428;-71.285354;68;1
+73225;First Beach;41.488889;-71.29059;68;2
+73240;Memorial after Freebody;41.483539;-71.30589;68;3
+1210;Bellevue after Downing;41.485195;-71.308685;68;4
+1305;Bellevue after Catherine;41.487183;-71.309288;68;5
+29510;Kay after Brinley;41.489681;-71.308365;68;6
+29520;Kay before Pell;41.490755;-71.307607;68;7
+1430;Broadway before Collins;41.492751;-71.310805;68;8
+1365;Marlborough before Farewell;41.491325;-71.313499;68;9
+1345;Marlborough opp Duke;41.490967;-71.315254;68;10
+1381;Newport Transit Center (Stop D);41.491792;-71.317643;68;11
+1420;Third after Bridge;41.492409;-71.318505;68;12
+1465;Third at Walnut;41.494671;-71.318955;68;13
+1530;Third before Lasalle;41.497507;-71.319305;68;14
+1600;Third after Cypress;41.499989;-71.319739;68;15
+1650;Third opp Bayside Village;41.501766;-71.320017;68;16
+1715;Third opp Naval Health Clinic;41.504382;-71.320194;68;17
+1755;Admiral Kalbfus at Admirals Gate;41.506695;-71.319325;68;18
+59300;Admiral Kalbfus after Halsey (Waste Management);41.507397;-71.314415;68;19
+1810;Admiral Kalbfus at Newport Grand;41.507618;-71.313161;68;20
+1845;Hillside / Dudley;41.508057;-71.307776;68;21
+1905;Hillside before Eisenhower;41.50976;-71.30777;68;22
+1915;Hillside before Beacon;41.512078;-71.308832;68;23
+73230;Sunset before John Chafee;41.513456;-71.311395;68;24
+73235;John Chafee before Maple;41.515901;-71.312454;68;25
+73500;Opp CCRI Newport;41.517263;-71.312777;68;26
+1380;Newport Transit Center (Stop A);41.491168;-71.317681;67;1
+1340;Marlborough before Thames;41.490833;-71.315613;67;2
+1330;Turo before Clarke;41.489786;-71.313883;67;3
+1315;Touro before High;41.48867;-71.311165;67;4
+1300;Bellevue before Church;41.48716;-71.309387;67;5
+1215;Bellevue after Pelham;41.485096;-71.308769;67;6
+1150;Bellevue at Tennis Hall Of Fame;41.482735;-71.308434;67;7
+1095;Bellevue after Bowery;41.480873;-71.308578;67;8
+1040;Bellevue after Perry;41.478981;-71.308609;67;9
+1010;Bellevue after Dixon;41.47715;-71.30809;67;10
+940;Bellevue before Narragansett;41.475525;-71.307938;67;11
+965;Narragansett opp Newport Hall;41.475494;-71.302834;67;12
+910;Ochre Point before Webster;41.474142;-71.300131;67;13
+880;Ochre Point after Leroy;41.472927;-71.300285;67;14
+850;Ochre Pont at Mcauley Hall;41.472301;-71.300026;67;15
+830;Ochre Point opp Ohare Center;41.471004;-71.299942;67;16
+790;Ochre Point before Victoria;41.470005;-71.299744;67;17
+775;Ochre Point before Ruggles;41.46883;-71.299553;67;18
+745;Ruggles at Wetmore;41.468426;-71.302917;67;19
+735;Ruggles at Carey Mansion;41.468288;-71.304314;67;20
+730;Ruggles opp Stoneacre;41.468062;-71.305747;67;21
+655;Bellevue opp Rosecliff;41.4655;-71.306946;67;22
+605;Bellevue opp Marble House;41.462387;-71.306671;67;23
+29060;Bellevue after Lakeview;41.457626;-71.306252;67;24
+56760;Bellevue opp Rough Point;41.456268;-71.306389;67;25
+72700;Bellevue at Ledge (Drop-Off Only);41.455872;-71.309479;67;26
+1382;Newport Transit Center (Stop B);41.491319;-71.317594;63;1
+1340;Marlborough before Thames;41.490833;-71.315613;63;2
+1365;Marlborough before Farewell;41.491325;-71.313499;63;3
+1375;Newport City Hall;41.491852;-71.311566;63;4
+1435;Broadway after Ayrault;41.493536;-71.309679;63;5
+1475;Broadway before Cranston;41.49503;-71.308822;63;6
+73120;Broadway before Rhode Island;41.496119;-71.308257;63;7
+1540;Broadway before Friendship;41.497991;-71.30734;63;8
+1595;Broadway before Gibbs;41.499905;-71.306231;63;9
+1625;Broadway before Brooks;41.501179;-71.305113;63;10
+1665;Broadway before County;41.502906;-71.303693;63;11
+1720;Broadway opp Canonicus;41.505018;-71.301968;63;12
+1760;Admiral Kalbfus / Rowland;41.506191;-71.302662;63;13
+1905;Hillside before Eisenhower;41.50976;-71.30777;63;14
+1915;Hillside before Beacon;41.512078;-71.308832;63;15
+1976;Hillside opp 218 Hillside;41.514642;-71.309741;63;16
+2060;Maple at Head Start Center;41.516109;-71.312361;63;17
+56765;Girard at 120 Girard;41.514639;-71.313804;63;18
+2010;Girard after Festival Field Apartments;41.511683;-71.313096;63;19
+1850;Girard before Adm Kalbfus;41.508131;-71.311664;63;20
+1830;Admiral Kalbfus opp Newport Grand;41.507899;-71.312605;63;21
+59270;Admiral Kalbfus opp Halsey (Waste Management);41.507589;-71.314548;63;22
+1865;Connell at Newport Video;41.511546;-71.318059;63;23
+1895;Newport Towne Center (Stop & Shop);41.508466;-71.316379;63;24
+1890;Newport Towne Center (Walmart);41.510635;-71.316851;63;25
+1870;Newport Towne Center (Laundromat);41.511921;-71.317341;63;26
+2020;Connell before Maple;41.515054;-71.316041;63;27
+2090;Coddington before John Chafee;41.518131;-71.313698;63;28
+2175;Coddington at Ripta Garage;41.519275;-71.309746;63;29
+2155;Coddington after Sherman;41.518879;-71.305875;63;30
+57840;Coddington opp Landings;41.518513;-71.30297;63;31
+2105;Coddington before W Main;41.518233;-71.300648;63;32
+2080;E Main opp Newport Mart;41.517094;-71.299326;63;33
+2100;E Main opp 114 E Main;41.517743;-71.297004;63;34
+2125;E Main at Shell Gas;41.518568;-71.294068;63;35
+2205;E Main before Enterprise;41.519548;-71.290906;63;36
+29505;West House;41.522395;-71.287685;63;37
+2210;E Main after Enterprise;41.519677;-71.291209;63;38
+2185;E Main before Valley;41.519101;-71.293092;63;39
+2230;Valley opp Chestnut Hill;41.520791;-71.294159;63;40
+2280;Valley opp Napa Auto;41.521838;-71.29474;63;41
+59275;Valley opp Knights Of Columbus;41.523669;-71.296706;63;42
+2305;Valley before W Main;41.523825;-71.297541;63;43
+2315;W Main after Woolsey;41.524878;-71.29768;63;44
+2365;W Main at All Saints Academy;41.527305;-71.296415;63;45
+2405;W Main at 999 W Main (Plaza);41.529581;-71.294749;63;46
+2415;W Main after Forest;41.53097;-71.293793;63;47
+2460;W Main at Middletown Square Plaza;41.532773;-71.293314;63;48
+2480;W Main at 1397 W Main;41.537388;-71.291786;63;49
+59280;Browns before Bennys;41.537856;-71.292398;63;50
+2475;Stop & Shop (West Main Road - Middletown);41.536628;-71.293327;63;51
+2515;W Main opp 1522 W Main;41.539573;-71.291406;63;52
+2550;W Main before Thelma;41.543549;-71.29165;63;53
+2570;Oxbow Apartments;41.543702;-71.292799;63;54
+11985;Cadillac opp Rodman (Colony House);41.794166;-71.416191;6;1
+58990;Roger Williams Zoo;41.789968;-71.415001;6;2
+58985;Hawthorne / Tennis Courts;41.789273;-71.412814;6;3
+12045;Broad at Prairie;41.794613;-71.410082;6;4
+12135;Broad after Early;41.795721;-71.411413;6;5
+58770;Sackett / Broad;41.795952;-71.412969;6;6
+59005;Prairie at Roger Williams Homes;41.796154;-71.410733;6;7
+12635;Prairie / Colfax;41.799407;-71.412233;6;8
+58260;Prairie / Gallup;41.800081;-71.412539;6;9
+13060;Prairie at 384 Prairie;41.803761;-71.413975;6;10
+13245;Prairie after Saratoga;41.805247;-71.414593;6;11
+72785;Prairie opp Willard;41.80771;-71.415669;6;12
+13550;CCRI (Providence Campus);41.808186;-71.414651;6;13
+14210;Prairie / Providence;41.812931;-71.41512;6;14
+14441;Point Between Beacon & Plain;41.81476;-71.414069;6;15
+59025;E Franklin / Bassett;41.815845;-71.412416;6;16
+59030;E Franklin / Broad;41.817642;-71.41562;6;17
+14965;Broad opp Fenner;41.818267;-71.415928;6;18
+15230;Broad before Chestnut;41.819912;-71.41446;6;19
+15545;Weybosset before Richmond;41.821047;-71.412845;6;20
+15880;Weybosset opp Eddy;41.82263;-71.41137;6;21
+16385;Weybosset before Post Office Court;41.824459;-71.409638;6;22
+16485;Kennedy Plaza (Stop D);41.82511;-71.411145;6;23
