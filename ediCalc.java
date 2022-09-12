@@ -136,6 +136,7 @@ public class ediCalc
               if (stops.get(i).getID().equalsIgnoreCase(customStop))
               {
                 stopCount++;
+                System.out.println("Added: " + stops.get(i).getName());
                 Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), custLine, stopCount);
                 stops.add(addStop);
                 custom.add(stops.get(i));
@@ -275,7 +276,7 @@ public class ediCalc
         }
 
         routeCode.add(lineName);
-        routeDisp.add(dist + "");
+        routeDist.add(dist + "");
         routeEdi.add(edi + "");
 
         try
