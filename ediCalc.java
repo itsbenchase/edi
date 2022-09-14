@@ -50,32 +50,6 @@ public class ediCalc
     {
       ArrayList<Stop> stops = new ArrayList<Stop>();
 
-      try
-      {
-        Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
-        while (s.hasNextLine())
-        {
-          String data = s.nextLine();
-          String id = data.substring(0, data.indexOf(";"));
-          data = data.substring(data.indexOf(";") + 1);
-          String name = data.substring(0, data.indexOf(";"));
-          data = data.substring(data.indexOf(";") + 1);
-          double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
-          data = data.substring(data.indexOf(";") + 1);
-          double lon = Double.parseDouble(data.substring(0, data.indexOf(";")));
-          data = data.substring(data.indexOf(";") + 1); // lines
-          String line = data.substring(0, data.indexOf(";"));
-          data = data.substring(data.indexOf(";") + 1);
-          int order = Integer.parseInt(data);
-
-          stops.add(new Stop(id, name, lat, lon, line, order));
-        }
-      }
-      catch (FileNotFoundException e)
-      {
-        System.out.println("Error.");
-      }
-
       // create line
       int stopCount = 0;
 
@@ -90,6 +64,31 @@ public class ediCalc
 
       if (lineChoice.equalsIgnoreCase("custom"))
       {
+        // load in only existing stops
+        try
+        {
+          Scanner s = new Scanner(new File("stops/" + agencyChoice + ".txt"));
+          while (s.hasNextLine())
+          {
+            String data = s.nextLine();
+            String id = data.substring(0, data.indexOf(";"));
+            data = data.substring(data.indexOf(";") + 1);
+            String name = data.substring(0, data.indexOf(";"));
+            data = data.substring(data.indexOf(";") + 1);
+            double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+            data = data.substring(data.indexOf(";") + 1);
+            double lon = Double.parseDouble(data);
+
+            stops.add(new Stop(id, name, lat, lon));
+          }
+        }
+        catch (FileNotFoundException e)
+        {
+          System.out.println("Error.");
+        }
+
+        ArrayList<Stop> stops2 = new ArrayList<Stop>(); // add to EDI list instead
+
         ArrayList<Stop> custom = new ArrayList<Stop>();
         String customStop = "";
 
@@ -124,7 +123,7 @@ public class ediCalc
 
             Stop addStop = new Stop(custID, custName, custLat, custLon, custLine, stopCount);
 
-            stops.add(addStop);
+            stops2.add(addStop);
             custom.add(addStop);
 
             in.nextLine(); // absorb enter
@@ -138,7 +137,7 @@ public class ediCalc
                 stopCount++;
                 System.out.println("Added: " + stops.get(i).getName());
                 Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), custLine, stopCount);
-                stops.add(addStop);
+                stops2.add(addStop);
                 custom.add(stops.get(i));
                 break;
               }          
@@ -157,16 +156,43 @@ public class ediCalc
         if (save.equalsIgnoreCase("yes"))
         {
           saved = true;
+          // loads in EDI file to add route to list, different array
+          try
+          {
+            Scanner s2 = new Scanner(new File(agencyChoice + "-edi.txt"));
+            while (s2.hasNextLine())
+            {
+              String data = s2.nextLine();
+              String id = data.substring(0, data.indexOf(";"));
+              data = data.substring(data.indexOf(";") + 1);
+              String name = data.substring(0, data.indexOf(";"));
+              data = data.substring(data.indexOf(";") + 1);
+              double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+              data = data.substring(data.indexOf(";") + 1);
+              double lon = Double.parseDouble(data.substring(0, data.indexOf(";")));
+              data = data.substring(data.indexOf(";") + 1); // lines
+              String line = data.substring(0, data.indexOf(";"));
+              data = data.substring(data.indexOf(";") + 1);
+              int order = Integer.parseInt(data);
+
+              stops2.add(new Stop(id, name, lat, lon, line, order));
+            }
+          }
+          catch (FileNotFoundException e)
+          {
+            System.out.println("Error.");
+          }
+
           try
           {
             File newFile1 = new File(agencyChoice + "-edi.txt");
             FileWriter fileWriter1 = new FileWriter(newFile1);
 
-            fileWriter1.write(stops.get(0).getID() + ";" + stops.get(0).getName() + ";" + stops.get(0).getLat() + ";" + stops.get(0).getLon() + ";" + stops.get(0).getLineEDI() + ";" + stops.get(0).getOrder() + "\n");
+            fileWriter1.write(stops2.get(0).getID() + ";" + stops2.get(0).getName() + ";" + stops2.get(0).getLat() + ";" + stops2.get(0).getLon() + ";" + stops2.get(0).getLineEDI() + ";" + stops2.get(0).getOrder() + "\n");
 
-            for (int i = 1; i < stops.size(); i++)
+            for (int i = 1; i < stops2.size(); i++)
             {
-              fileWriter1.append(stops.get(i).getID() + ";" + stops.get(i).getName() + ";" + stops.get(i).getLat() + ";" + stops.get(i).getLon() + ";" + stops.get(i).getLineEDI() + ";" + stops.get(i).getOrder() + "\n");
+              fileWriter1.append(stops2.get(i).getID() + ";" + stops2.get(i).getName() + ";" + stops2.get(i).getLat() + ";" + stops2.get(i).getLon() + ";" + stops2.get(i).getLineEDI() + ";" + stops2.get(i).getOrder() + "\n");
             }
 
             fileWriter1.close();
@@ -182,6 +208,33 @@ public class ediCalc
 
       else
       {
+        // loads in EDI file with existing routes only
+        try
+        {
+          Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
+          while (s.hasNextLine())
+          {
+            String data = s.nextLine();
+            String id = data.substring(0, data.indexOf(";"));
+            data = data.substring(data.indexOf(";") + 1);
+            String name = data.substring(0, data.indexOf(";"));
+            data = data.substring(data.indexOf(";") + 1);
+            double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+            data = data.substring(data.indexOf(";") + 1);
+            double lon = Double.parseDouble(data.substring(0, data.indexOf(";")));
+            data = data.substring(data.indexOf(";") + 1); // lines
+            String line = data.substring(0, data.indexOf(";"));
+            data = data.substring(data.indexOf(";") + 1);
+            int order = Integer.parseInt(data);
+
+            stops.add(new Stop(id, name, lat, lon, line, order));
+          }
+        }
+        catch (FileNotFoundException e)
+        {
+          System.out.println("Error.");
+        }
+
         for (int i = 0; i < stops.size(); i++)
         {
           if (stops.get(i).getLineEDI().equalsIgnoreCase(lineChoice))

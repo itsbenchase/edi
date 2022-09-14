@@ -17,6 +17,13 @@ public class Stop
     lon = lo;
     line = new ArrayList<String>();
   }
+  public Stop(String i, String n, double la, double lo)
+  {
+    id = i;
+    name = n;
+    lat = la;
+    lon = lo;
+  }
   public Stop(String i, String n, double la, double lo, String l, int o)
   {
     id = i;
