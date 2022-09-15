@@ -59,6 +59,7 @@ public class ediCalc
       String lineName = "no data, yet";
       boolean official = false;
       boolean saved = false;
+      String creatorName = "eliot"; // lazy to fix
 
       Stop [] theLine;
 
@@ -94,9 +95,7 @@ public class ediCalc
 
         System.out.print("Line Name: ");
         lineName = in.nextLine();
-        System.out.print("Creator Name: ");
-        String creatorName = in.nextLine();
-        String custLine = creatorName + "-" + lineName;
+        String custLine = lineName;
 
         if (creatorName.equals("eliot"))
         {
