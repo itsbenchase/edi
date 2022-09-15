@@ -1,3 +1,520 @@
+5023;Clinton & Washington;41.883314;-87.641313;130;1
+18125;Clinton & Madison;41.881739;-87.64128;130;2
+4992;Clinton & Quincy;41.878741;-87.641171;130;3
+14461;Jackson & Chicago River;41.878005;-87.638306;130;4
+68;Jackson & Franklin;41.878051;-87.635401;130;5
+69;Jackson & Financial Place;41.878081;-87.632868;130;6
+1871;Clark & Van Buren;41.876645;-87.630843;130;7
+1431;State & Harrison / Ida B Wells Drive ;41.874997;-87.627696;130;8
+17590;State & Polk;41.872057;-87.627666;130;9
+17592;State & 9th Street;41.870328;-87.627627;130;10
+15563;State & 11th Street;41.869059;-87.627607;130;11
+316;Roosevelt & State;41.867287;-87.627111;130;12
+15362;Roosevelt & Michigan / Indiana;41.867339;-87.623257;130;13
+4873;Soldier Field & Field Museum;41.864793;-87.615689;130;14
+4591;Solidarity Drive & Aquarium;41.866074;-87.612958;130;15
+17234;Solidarity Dr & Lynn White Drive;41.866174;-87.609768;130;16
+4877;Solidarity Dr & Planetarium;41.866145;-87.607853;130;17
+13155;Desplaines & Harrison Terminal;41.874443;-87.644346;125;1
+14210;Canal & Harrison;41.874628;-87.639505;125;2
+6351;Canal & Van Buren;41.877;-87.639438;125;3
+5009;Canal & Adams;41.879195;-87.63946;125;4
+5027;Canal & Madison;41.882104;-87.639602;125;5
+5028;Canal & Randolph;41.884336;-87.639707;125;6
+3946;Wacker (Upper) & Lake;41.88601;-87.636487;125;7
+4626;Orleans & Merchandise Mart;41.888552;-87.636751;125;8
+4627;Orleans & Hubbard;41.889821;-87.636893;125;9
+14762;Orleans & Grand;41.891742;-87.636929;125;10
+15109;Ohio & State;41.8924;-87.627841;125;11
+1124;Michigan & Ontario;41.893194;-87.624089;125;12
+1125;Michigan & Huron;41.894798;-87.624104;125;13
+1126;Michigan & Chicago;41.896535;-87.624133;125;14
+18224;Mies Van Der Rohe & Pearson;41.897481;-87.621779;125;15
+5019;Chestnut & Mies Van Der Rohe;41.89846;-87.622673;125;16
+18252;Union Station Transit Center;41.877846;-87.639879;124;1
+5027;Canal & Madison;41.882104;-87.639602;124;2
+445;Washington & Franklin;41.883128;-87.635516;124;3
+446;Washington & Lasalle;41.883137;-87.632625;124;4
+18122;Washington & Clark / Dearborn;41.883147;-87.630196;124;5
+448;Washington & State;41.88317;-87.627497;124;6
+14482;Randolph & Michigan;41.884286;-87.62362;124;7
+5509;Columbus (Mid) & E. Wacker;41.887356;-87.620595;124;8
+5510;Columbus & North Water;41.889431;-87.620268;124;9
+5511;Columbus & Illinois;41.890852;-87.62008;124;10
+754;Illinois & McClurg;41.891002;-87.61786;124;11
+755;Illinois & Peshtigo;41.891042;-87.615376;124;12
+756;Illinois & Lake Shore;41.891025;-87.613148;124;13
+14161;Navy Pier Terminal;41.892298;-87.609996;124;14
+67;Jackson & Canal;41.877997;-87.639776;121;1
+14567;S. Water (Lower) & Michigan;41.886737;-87.625296;121;2
+6583;Michigan (Lower) & E. Wacker;41.888056;-87.624451;121;3
+6584;Michigan (Lower) & Hubbard;41.890186;-87.623967;121;4
+6585;Michigan (Lower) & Illinois;41.890837;-87.623994;121;5
+17071;Illinois (Lower) & St. Clair;41.890948;-87.622124;121;6
+593;Fairbanks & Erie;41.894081;-87.620224;121;7
+595;Fairbanks & Superior;41.895689;-87.620285;121;8
+596;Fairbanks & Chicago;41.896645;-87.620311;121;9
+6579;Canal & Randolph / Washington;41.883542;-87.639864;120;1
+14567;S. Water (Lower) & Michigan;41.886737;-87.625296;120;2
+6583;Michigan (Lower) & E. Wacker;41.888056;-87.624451;120;3
+6584;Michigan (Lower) & Hubbard;41.890186;-87.623967;120;4
+6585;Michigan (Lower) & Illinois;41.890837;-87.623994;120;5
+17071;Illinois (Lower) & St. Clair;41.890948;-87.622124;120;6
+17926;McClurg & Grand;41.891711;-87.617607;120;7
+17743;McClurg & Ontario;41.89338;-87.61765;120;8
+17742;McClurg & Huron;41.894961;-87.617674;120;9
+14097;Paulina & Howard Terminal;42.018743;-87.672906;97;1
+3513;Howard & Chicago Avenue;42.019476;-87.676184;97;2
+3514;Howard & Clyde;42.019501;-87.677882;97;3
+3515;Howard & Custer;42.019502;-87.680281;97;4
+3516;Howard & Elmwood;42.01955;-87.682695;97;5
+3517;Howard & Ridge;42.019552;-87.684398;97;6
+3518;Howard & Barton;42.0196;-87.688478;97;7
+3519;Howard & Western / Asbury;42.019599;-87.689986;97;8
+3520;Howard & Ashland;42.019522;-87.693173;97;9
+3522;Howard & Dewey;42.019467;-87.696183;97;10
+3523;Howard & California / Dodge;42.019399;-87.699421;97;11
+3524;Dodge & Brummel;42.0212;-87.699391;97;12
+3525;Dodge & Mulford;42.022956;-87.699426;97;13
+3526;Dodge & Kirk;42.024723;-87.699365;97;14
+3527;Oakton & Dodge;42.026627;-87.699737;97;15
+3529;Oakton & Hartrey;42.02655;-87.704034;97;16
+3530;2310 W Oakton;42.02655;-87.70555;97;17
+3532;Oakton & McCormick;42.02645;-87.711498;97;18
+3534;Oakton & St. Louis;42.026384;-87.715587;97;19
+3535;Oakton & Central Park;42.026385;-87.718387;97;20
+3536;Oakton & Lawndale;42.026384;-87.720688;97;21
+3537;Oakton & Hamlin;42.026383;-87.723187;97;22
+3538;Oakton & East Prairie;42.026296;-87.725388;97;23
+3539;Oakton & Crawford;42.026291;-87.728019;97;24
+3540;Oakton & Karlov;42.026292;-87.730319;97;25
+3541;Oakton & Keeler;42.026289;-87.732861;97;26
+3542;Oakton & Kildare;42.02629;-87.735221;97;27
+3543;Oakton & Kostner;42.026291;-87.737518;97;28
+3544;Oakton & Kilbourn;42.02629;-87.739921;97;29
+3545;Oakton & Kenton;42.026336;-87.742585;97;30
+3546;Oakton & Knox;42.02635;-87.743702;97;31
+3547;Oakton & Keating;42.026334;-87.746239;97;32
+15078;Oakton & Lacrosse;42.026321;-87.748727;97;33
+3550;Oakton & Lincoln;42.026419;-87.754441;97;34
+3551;Lincoln & Niles Center;42.027763;-87.754471;97;35
+3552;8200 N Niles Center;42.029772;-87.753316;97;36
+3553;Niles Center & Madison;42.031746;-87.752134;97;37
+3554;Niles Center & Main;42.033384;-87.751147;97;38
+3556;Niles Center & Wright Terrace;42.03621;-87.749865;97;39
+17851;Niles Center & Greenleaf;42.037405;-87.749278;97;40
+3558;Niles Center & Crain;42.038864;-87.748766;97;41
+3560;Dempster & Bronx;42.040874;-87.750472;97;42
+14166;Skokie Yellow Line Station;42.039995;-87.752287;97;43
+3563;Bronx & Dempster;42.040924;-87.750488;97;44
+3565;Bronx & Grove;42.044313;-87.750463;97;45
+3566;Bronx & Davis;42.04619;-87.750454;97;46
+3567;Gross Point & Church;42.047981;-87.748671;97;47
+3568;Skokie Blvd & Gross Point;42.050178;-87.746765;97;48
+3569;Skokie Blvd & Emerson;42.05212;-87.74669;97;49
+3570;Skokie Blvd & Foster;42.053586;-87.746705;97;50
+3571;Golf Road & Skokie Blvd;42.055421;-87.747748;97;51
+3572;Golf Road & Lamon;42.055392;-87.74949;97;52
+3573;Golf Road & Lavergne;42.055453;-87.751295;97;53
+3574;Old Orchard Mall - Macys;42.059446;-87.75027;97;54
+3575;Old Orchard Mall - Bloomingdales;42.060889;-87.750755;97;55
+1483;Western Brown Line Station;41.966052;-87.688552;11;1
+14592;Western & Lawrence;41.968857;-87.688769;11;2
+1486;Ainslie & Western;41.970461;-87.689449;11;3
+1487;Lincoln & Argyle;41.971918;-87.690546;11;4
+1488;Lincoln & Winnemac;41.972931;-87.691278;11;5
+1489;Lincoln & Carmen;41.973948;-87.691897;11;6
+17585;Lincoln & Foster;41.976172;-87.692264;11;7
+1491;Lincoln & Berwyn;41.977658;-87.692505;11;8
+1492;Lincoln & Balmoral;41.979485;-87.692666;11;9
+1493;Lincoln & Catalpa;41.98124;-87.692737;11;10
+1494;Lincoln & Bryn Mawr;41.983049;-87.694736;11;11
+1495;Lincoln & Washtenaw;41.984337;-87.69695;11;12
+15227;Lincoln & California;41.985894;-87.699615;11;13
+1497;Lincoln & Francisco;41.986924;-87.701378;11;14
+1498;Lincoln & Richmond;41.98796;-87.70315;11;15
+1499;Lincoln & Sacramento;41.988701;-87.704385;11;16
+1500;Lincoln & Whipple;41.989377;-87.705451;11;17
+1502;Lincoln & Peterson;41.990236;-87.706879;11;18
+1503;Lincoln & Kedzie;41.991414;-87.70885;11;19
+1504;Lincoln & Jersey;41.993064;-87.711413;11;20
+1505;Lincoln & McCormick / Kimball;41.994483;-87.713668;11;21
+17560;McCormick & Lincoln;41.995207;-87.713184;11;22
+1507;McCormick & Devon;41.997158;-87.711505;11;23
+12031;Kedzie & Devon;41.997577;-87.709257;11;24
+15048;Kedzie & Arthur;41.999133;-87.709263;11;25
+12032;Kedzie & Albion;42.001252;-87.709289;11;26
+12033;Kedzie & Pratt;42.004575;-87.709218;11;27
+12034;6833 N Kedzie;42.005452;-87.70919;11;28
+12035;6933 N Kedzie;42.007351;-87.709137;11;29
+12037;7061 N Kedzie;42.010667;-87.70903;11;30
+15046;Kedzie & Touhy;42.01205;-87.708969;11;31
+14747;Kedzie & Jarvis;42.015438;-87.708639;11;32
+14748;Kedzie & Birchwood;42.017238;-87.708598;11;33
+15534;Howard & Kedzie;42.019192;-87.709257;11;34
+11859;Howard & McCormick Terminal;42.018948;-87.711018;11;35
+5019;Chestnut & Mies Van Der Rohe;41.89846;-87.622673;10;1
+1098;Michigan & Pearson;41.897731;-87.624234;10;2
+14488;Michigan & Superior;41.895823;-87.624423;10;3
+1100;Michigan & Erie;41.894283;-87.624364;10;4
+1101;Michigan & Ohio;41.892691;-87.624328;10;5
+1102;Michigan & Illinois;41.891032;-87.624293;10;6
+1103;Michigan & Hubbard (Wrigley Bldg.);41.889894;-87.624244;10;7
+1421;Wacker (Upper) & Michigan;41.88836;-87.625055;10;8
+1423;State & Lake;41.885893;-87.628053;10;9
+1425;State & Washington;41.883371;-87.627972;10;10
+1427;State & Monroe;41.880856;-87.627834;10;11
+1429;State & Jackson;41.878318;-87.62777;10;12
+1430;State & Van Buren;41.876993;-87.627764;10;13
+1431;State & Harrison / Ida B Wells Drive ;41.874997;-87.627696;10;14
+14645;Balbo & State;41.873049;-87.627285;10;15
+4870;Balbo & Michigan;41.873101;-87.62358;10;16
+4871;Balbo & Columbus;41.87315;-87.620852;10;17
+4872;1100 S Columbus (Pedestrian Underpass);41.870372;-87.620749;10;18
+10565;Museum of Science & Industry;41.791666;-87.583532;10;19
+153;Harrison & Central Terminal;41.872683;-87.7648;7;1
+154;Harrison & Lotus;41.872803;-87.761654;7;2
+155;5400 W Harrison;41.8729;-87.759367;7;3
+156;Harrison & Lockwood;41.872855;-87.75752;7;4
+157;Harrison & Laramie;41.872883;-87.754491;7;5
+158;Harrison & Leamington;41.872893;-87.753185;7;6
+159;Harrison & Lavergne;41.873002;-87.749208;7;7
+160;Harrison & Cicero;41.873065;-87.745146;7;8
+161;Harrison & Kilpatrick;41.873099;-87.742661;7;9
+162;4630 W Harrison;41.873198;-87.740893;7;10
+163;Harrison & Kolmar;41.873205;-87.739488;7;11
+164;Harrison & Kilbourn;41.873213;-87.737949;7;12
+165;Harrison & Kostner;41.873764;-87.735496;7;13
+166;Kostner & Lexington;41.871629;-87.735223;7;14
+167;Fifth Avenue & Kostner;41.870263;-87.734952;7;15
+168;Fifth Avenue & Kildare;41.8709;-87.732701;7;16
+169;Fifth Avenue & Keeler;41.8716;-87.730102;7;17
+170;Fifth Avenue & Karlov;41.872297;-87.727603;7;18
+171;Fifth Avenue & Pulaski;41.872896;-87.725571;7;19
+172;Harrison & Springfield;41.873419;-87.723087;7;20
+174;Harrison & Independence;41.873457;-87.719565;7;21
+175;Harrison & Lawndale;41.873469;-87.718216;7;22
+15170;Harrison & Central Park;41.873474;-87.715557;7;23
+177;Harrison & St. Louis;41.873541;-87.713327;7;24
+178;Harrison & Homan;41.873566;-87.71088;7;25
+179;Harrison & Spaulding;41.873602;-87.708461;7;26
+14838;Harrison & Kedzie;41.873613;-87.705792;7;27
+181;Harrison & Albany;41.873652;-87.703514;7;28
+182;Harrison & Sacramento;41.87369;-87.701049;7;29
+183;Harrison & Francisco;41.873716;-87.698661;7;30
+17279;Harrison & California;41.873733;-87.695874;7;31
+185;Harrison & Washtenaw;41.873755;-87.693779;7;32
+186;Harrison & Maplewood;41.873785;-87.690705;7;33
+187;Harrison & Campbell;41.873804;-87.688797;7;34
+188;Harrison & Western;41.873823;-87.686408;7;35
+189;Harrison & Oakley;41.873882;-87.683913;7;36
+190;Harrison & Leavitt;41.873911;-87.681449;7;37
+191;Harrison & Hoyne;41.87395;-87.67899;7;38
+18129;Harrison & Damen;41.873976;-87.676221;7;39
+17074;Harrison & Ogden;41.874;-87.674543;7;40
+15785;Wood & Harrison;41.873935;-87.67163;7;41
+6691;Polk Pink Line Station;41.871522;-87.669706;7;42
+18486;Harrison & Paulina;41.874093;-87.668798;7;43
+193;Harrison & Ashland;41.874106;-87.666794;7;44
+18336;Harrison & Loomis;41.874142;-87.661588;7;45
+18339;Harrison & Throop;41.874105;-87.659434;7;46
+198;Harrison & Racine;41.874191;-87.657167;7;47
+200;Harrison & Morgan;41.874283;-87.651938;7;48
+201;900 W Harrison;41.874341;-87.649132;7;49
+6347;Harrison & Halsted;41.874272;-87.647481;7;50
+14210;Canal & Harrison;41.874628;-87.639505;7;51
+6351;Canal & Van Buren;41.877;-87.639438;7;52
+14461;Jackson & Chicago River;41.878005;-87.638306;7;53
+68;Jackson & Franklin;41.878051;-87.635401;7;54
+69;Jackson & Financial Place;41.878081;-87.632868;7;55
+70;Jackson & Dearborn;41.878121;-87.629467;7;56
+71;Jackson & State;41.878141;-87.627899;7;57
+72;Jackson & Wabash;41.878208;-87.625752;7;58
+73;Michigan & Van Buren / Ida B. Wells;41.876271;-87.624396;7;59
+74;Congress Plaza & Michigan;41.874858;-87.623551;7;60
+17868;79th Street & Lake Shore Drive;41.751875;-87.54491;6;1
+7022;S. Shore Drive & 79th Street;41.752234;-87.548232;6;2
+7023;S. Shore Drive & Cheltenham;41.753632;-87.549737;6;3
+7024;S. Shore Drive & 78th Street;41.755526;-87.551773;6;4
+7025;S. Shore Drive & 77th Street;41.757289;-87.553674;6;5
+7026;S. Shore Drive & 76th Street;41.759025;-87.555541;6;6
+7027;S. Shore Drive & 75th Street;41.760792;-87.557309;6;7
+7028;S. Shore Drive & 74th Street;41.762497;-87.558992;6;8
+7029;S. Shore Drive & 73rd Street;41.764215;-87.560688;6;9
+7030;S. Shore Drive & 72nd Street;41.765973;-87.562429;6;10
+7031;S. Shore Drive & Coles;41.766372;-87.564868;6;11
+7032;S. Shore Drive & 71st Street;41.766887;-87.566352;6;12
+7033;S. Shore Drive & 70th Street;41.768314;-87.566434;6;13
+7034;S. Shore Drive & 69th Street;41.77;-87.566426;6;14
+7035;S. Shore Drive & 68th Street;41.771937;-87.566529;6;15
+15391;67th Street & Oglesby;41.773596;-87.568204;6;16
+7038;67th Street & Crandon;41.773577;-87.56996;6;17
+15147;67th Street & Paxton;41.773554;-87.571845;6;18
+7040;67th Street & Clyde;41.77353;-87.573992;6;19
+5311;67th Street & Jeffery;41.773524;-87.576801;6;20
+5312;67th Street & Bennett;41.77349;-87.579063;6;21
+5313;67th Street & Cregier;41.773446;-87.581408;6;22
+5314;67th Street & East End;41.773418;-87.583831;6;23
+5315;67th Street & Cornell Drive;41.773392;-87.585637;6;24
+5316;Stony Island & Marquette Rd;41.77507;-87.586116;6;25
+5317;Stony Island & 65th Street;41.777028;-87.586195;6;26
+5318;Stony Island & 64th Street;41.778764;-87.586331;6;27
+5320;Stony Island & 63rd Street;41.780472;-87.586351;6;28
+1510;Stony Island & 62nd Street;41.782819;-87.586429;6;29
+1511;Stony Island & 61st Street;41.783872;-87.586448;6;30
+1512;Stony Island & 60th Street;41.786018;-87.586492;6;31
+1513;Stony Island & 59th Street;41.788084;-87.586533;6;32
+1514;5800 S Stony Island;41.78962;-87.586575;6;33
+1515;Stony Island & 57th Drive;41.79134;-87.58663;6;34
+1517;S Hyde Park & 56th Street;41.793316;-87.583802;6;35
+1518;S Hyde Park & 55th Street;41.795429;-87.58388;6;36
+1519;5440 S S Hyde Park;41.796788;-87.583899;6;37
+1520;S Hyde Park & 54th Street;41.79835;-87.583949;6;38
+1521;S Hyde Park & 53rd Street;41.799468;-87.583961;6;39
+1522;5200 S S Hyde Park;41.800847;-87.584425;6;40
+1523;E Hyde Park & East End;41.802566;-87.585707;6;41
+1524;E Hyde Park & Cornell;41.802537;-87.58671;6;42
+5037;Lake Park & E. Hyde Park Blvd;41.802873;-87.587888;6;43
+7137;5000 S Lake Park;41.804448;-87.588516;6;44
+5038;Lake Park & 49th Street;41.805805;-87.589125;6;45
+5039;Lake Park & 48th Street;41.808023;-87.5905;6;46
+5040;Lake Park & 47th Street Terminal;41.809135;-87.591638;6;47
+14483;1100 S Columbus (Pedestrian Underpass);41.86936;-87.620355;6;48
+4883;Balbo & Columbus;41.873264;-87.621002;6;49
+4884;Balbo & Michigan;41.873221;-87.623938;6;50
+14485;Michigan & Ida B Wells Drive;41.87554;-87.624126;6;51
+76;Michigan & Jackson;41.878135;-87.624193;6;52
+15241;Michigan & Monroe;41.880665;-87.624187;6;53
+2188;Michigan & Madison;41.882367;-87.624205;6;54
+1119;Michigan & Randolph;41.884688;-87.624318;6;55
+1120;Michigan & South Water;41.8867;-87.624384;6;56
+1121;Michigan & E. Wacker;41.888076;-87.624425;6;57
+3954;Wacker (Upper) & Columbus;41.887792;-87.620967;6;58
+2841;Cottage Grove & 115th Street;41.685588;-87.6115;4;1
+18241;115th Street Metra Station;41.685597;-87.612326;4;2
+14050;King Drive & 113th Street;41.689028;-87.61318;4;3
+14051;King Drive & 112th Street;41.690863;-87.613225;4;4
+14052;King Drive & 111th Street;41.692638;-87.61329;4;5
+2893;111th Street & Vernon;41.692671;-87.612263;4;6
+17676;Cottage Grove & 111th Street;41.693101;-87.609666;4;7
+2962;11000 S Cottage Grove;41.694642;-87.609317;4;8
+15157;Cottage Grove & 109th Street;41.696508;-87.608899;4;9
+2964;Cottage Grove & 108th Street;41.698071;-87.608518;4;10
+14553;Cottage Grove & 107th Street;41.700204;-87.608053;4;11
+2966;Cottage Grove & 106th Street;41.701877;-87.607687;4;12
+2967;Cottage Grove & 105th Street;41.703692;-87.607248;4;13
+2968;Cottage Grove & 104th Street;41.705528;-87.606838;4;14
+15033;Cottage Grove & 103rd Street;41.707818;-87.606337;4;15
+2970;10200 S Cottage Grove;41.709194;-87.606026;4;16
+2971;Cottage Grove & 101st Street;41.71118;-87.605586;4;17
+2972;Cottage Grove & 100th Street;41.712749;-87.605212;4;18
+2973;Cottage Grove & 99th Street;41.71463;-87.60476;4;19
+2974;Cottage Grove & 98th Street;41.716546;-87.604359;4;20
+2975;9700 S Cottage Grove;41.718343;-87.603954;4;21
+2976;9600 S Cottage Grove;41.720194;-87.603516;4;22
+2977;Cottage Grove & 95th Street;41.72152;-87.603212;4;23
+2462;Cottage Grove & 95th Street;41.722402;-87.60436;4;24
+2464;Cottage Grove & 93rd Street;41.725524;-87.604434;4;25
+2465;Cottage Grove & 92nd Street;41.727423;-87.604492;4;26
+2466;Cottage Grove & 91st Street;41.729275;-87.604519;4;27
+2467;Cottage Grove & 90th Street;41.731089;-87.604558;4;28
+2468;Cottage Grove & 89th Street;41.732937;-87.604601;4;29
+2469;Cottage Grove & 88th Street;41.734725;-87.604648;4;30
+2470;Cottage Grove & 87th Street;41.736538;-87.604694;4;31
+2471;Cottage Grove & 86th Street;41.738364;-87.604742;4;32
+2472;Cottage Grove & 85th Street;41.740251;-87.604795;4;33
+2473;Cottage Grove & 84th Street;41.742029;-87.604845;4;34
+2474;Cottage Grove & 83rd Street;41.743928;-87.604854;4;35
+2475;Cottage Grove & 82nd Street;41.74578;-87.60493;4;36
+14952;Cottage Grove & 81st Street;41.747937;-87.605023;4;37
+2477;Cottage Grove & 80th Street;41.74905;-87.605054;4;38
+2478;Cottage Grove & 79th Street;41.751159;-87.605109;4;39
+2479;Cottage Grove & 78th Street;41.753054;-87.605095;4;40
+17103;Cottage Grove & 77th Street;41.754878;-87.605438;4;41
+2481;Cottage Grove & 76th Street;41.756681;-87.605206;4;42
+14572;Cottage Grove & 75th Street;41.758865;-87.605318;4;43
+2483;Cottage Grove & 74th Street;41.760332;-87.605325;4;44
+2484;Cottage Grove & 73rd Street;41.762149;-87.605375;4;45
+2485;Cottage Grove & Anthony;41.763377;-87.605401;4;46
+14573;Cottage Grove & 71st Street / South Chicago;41.766173;-87.60547;4;47
+2487;7000 S Cottage Grove;41.767531;-87.605527;4;48
+2488;Cottage Grove & 69th Street;41.769434;-87.605572;4;49
+2489;Cottage Grove & 68th Street;41.771303;-87.605616;4;50
+18005;Cottage Grove & 67th Street;41.773314;-87.605638;4;51
+2491;Cottage Grove & Marquette Rd;41.774873;-87.605692;4;52
+18006;Cottage Grove & 65th Street;41.777012;-87.605745;4;53
+18007;Cottage Grove & 64th Street;41.778779;-87.605788;4;54
+17572;Cottage Grove & 63rd Street (Green Line);41.780568;-87.605819;4;55
+2495;Cottage Grove & 62nd Street;41.782156;-87.605858;4;56
+2496;Cottage Grove & 61st Street;41.783974;-87.605878;4;57
+2497;Cottage Grove & 60th Street;41.785737;-87.605934;4;58
+2498;Cottage Grove & 59th Street;41.787631;-87.605972;4;59
+2499;Cottage Grove & 58th Street;41.789399;-87.606023;4;60
+15164;Cottage Grove & 57th Street;41.791632;-87.606068;4;61
+2501;Cottage Grove & 56th Street;41.793092;-87.606104;4;62
+15148;Cottage Grove & 55th Street;41.795231;-87.606148;4;63
+2503;Cottage Grove & 54th Street;41.796577;-87.6062;4;64
+2504;Cottage Grove & 53rd Street;41.798549;-87.606224;4;65
+2505;Cottage Grove & 52nd Street;41.800333;-87.60627;4;66
+2506;Cottage Grove & Drexel Square Drive;41.801303;-87.606265;4;67
+2507;Cottage Grove & 51st Street;41.802478;-87.606298;4;68
+2508;Cottage Grove & 50th Street;41.803938;-87.60634;4;69
+2509;Cottage Grove & 49th Street;41.805728;-87.60639;4;70
+2510;Cottage Grove & 48th Street;41.807588;-87.606432;4;71
+14574;Cottage Grove & 47th Street;41.809748;-87.606462;4;72
+15932;Cottage Grove & 46th Street;41.811522;-87.606495;4;73
+2513;Cottage Grove & 45th Street;41.813045;-87.60656;4;74
+2514;Cottage Grove & 44th Street;41.814798;-87.606592;4;75
+2515;Cottage Grove & 43rd Street;41.816707;-87.60661;4;76
+2516;Cottage Grove & 42nd Street;41.818463;-87.606685;4;77
+2517;Cottage Grove & 41st Street;41.820363;-87.606745;4;78
+2518;Cottage Grove & 40th Street;41.821357;-87.606772;4;79
+2519;Cottage Grove & Oakwood;41.822575;-87.606785;4;80
+2520;Cottage Grove & Pershing;41.824285;-87.606979;4;81
+15866;Cottage Grove & 38th Street;41.826227;-87.607965;4;82
+2522;Cottage Grove & 37th Street;41.827593;-87.608677;4;83
+2523;Cottage Grove & 36th Street;41.829036;-87.609416;4;84
+2524;Cottage Grove & 35th Street;41.831086;-87.610479;4;85
+7629;35th Street & Cottage Grove;41.831322;-87.611825;4;86
+2527;Lake Meadows Shopping Center;41.831283;-87.614975;4;87
+2528;35th Street & King Drive;41.831268;-87.616645;4;88
+7631;35th Street & Giles;41.831148;-87.619243;4;89
+15314;Indiana & 35th Street;41.831316;-87.621677;4;90
+1560;Indiana & 34th Street;41.832975;-87.621707;4;91
+16119;Indiana & 33rd Boulevard;41.834949;-87.621752;4;92
+1562;Indiana & 32nd Street;41.83643;-87.621758;4;93
+1563;Indiana & 31st Street;41.838248;-87.621825;4;94
+1564;3000 S Michigan;41.840602;-87.623115;4;95
+1565;Michigan & 29th Street;41.841882;-87.62324;4;96
+1566;Michigan & 28th Street;41.84363;-87.623248;4;97
+1567;Michigan & 26th Street;41.845888;-87.62332;4;98
+1568;Michigan & 25th Street;41.847313;-87.6235;4;99
+15313;Michigan & 24th Street;41.849461;-87.623603;4;100
+1570;Michigan & 23rd Street;41.851149;-87.623586;4;101
+15312;Michigan & Cermak;41.853186;-87.623709;4;102
+1573;Michigan & 21st Street;41.854521;-87.623741;4;103
+1574;Michigan & Cullerton;41.85571;-87.62377;4;104
+1575;Michigan & 18th Street;41.858127;-87.623827;4;105
+14760;Michigan & 16th Street;41.860502;-87.62388;4;106
+18318;Michigan & 14th Street;41.864508;-87.623959;4;107
+1579;Michigan & 13th Street;41.865984;-87.623999;4;108
+1580;Michigan & Roosevelt;41.867893;-87.623964;4;109
+1581;Michigan & 11th Street;41.869145;-87.623965;4;110
+1582;Michigan & 9th Street;41.870503;-87.624006;4;111
+1583;Michigan & 8th Street;41.871787;-87.624034;4;112
+1584;Michigan & Balbo;41.873395;-87.624082;4;113
+14485;Michigan & Ida B Wells Drive;41.87554;-87.624126;4;114
+76;Michigan & Jackson;41.878135;-87.624193;4;115
+15241;Michigan & Monroe;41.880665;-87.624187;4;116
+2188;Michigan & Madison;41.882367;-87.624205;4;117
+14482;Randolph & Michigan;41.884286;-87.62362;4;118
+2530;Columbus & Randolph;41.88478;-87.620513;4;119
+14222;Wacker (Upper) & Columbus;41.88809;-87.620844;4;120
+15999;State & 95th Street;41.721431;-87.623629;3;1
+2816;Michigan & 95th Street;41.721676;-87.620736;3;2
+2817;95th Street & Indiana;41.721703;-87.619112;3;3
+2818;95th Street & Forest;41.721747;-87.616664;3;4
+2106;King Drive & 94th Street;41.723763;-87.614027;3;5
+2107;King Drive & 93rd Street;41.725655;-87.614069;3;6
+2108;King Drive & Burnside;41.72697;-87.614183;3;7
+2109;King Drive & 91st Street;41.729255;-87.614242;3;8
+2110;King Drive & 90th Street;41.731109;-87.614278;3;9
+18432;King Drive & 89th Street;41.732669;-87.614244;3;10
+2112;King Drive & 88th Street;41.734692;-87.61433;3;11
+2113;King Drive & 87th Street;41.736682;-87.614462;3;12
+2114;King Drive & 86th Street;41.738367;-87.614406;3;13
+2115;King Drive & 85th Street;41.740209;-87.614472;3;14
+2116;King Drive & 84th Street;41.7421;-87.614501;3;15
+2117;King Drive & 83rd Street;41.743879;-87.614515;3;16
+2118;King Drive & 82nd Street;41.745748;-87.614611;3;17
+2119;King Drive & 81st Street;41.747627;-87.614804;3;18
+2120;King Drive & 80th Street;41.749379;-87.614835;3;19
+2121;King Drive & 79th Street;41.751307;-87.614872;3;20
+2122;King Drive & 78th Street;41.753075;-87.614905;3;21
+2123;King Drive & 77th Street;41.754835;-87.614837;3;22
+2124;King Drive & 76th Street;41.756674;-87.614928;3;23
+2125;King Drive & 75th Street;41.758598;-87.615035;3;24
+2126;King Drive & 74th Street;41.760397;-87.615109;3;25
+17381;King Drive & 73rd Street;41.761942;-87.615119;3;26
+2128;King Drive & 72nd Street;41.764029;-87.615175;3;27
+2129;King Drive & 71st Street;41.765832;-87.615132;3;28
+2130;King Drive & 70th Street;41.767661;-87.615153;3;29
+2131;King Drive & 69th Street;41.769472;-87.615277;3;30
+2132;King Drive & Anthony;41.770453;-87.615315;3;31
+2133;King Drive & Marquette Rd / S. Chicago;41.772644;-87.615351;3;32
+2134;King Drive & Marquette Rd;41.773138;-87.615363;3;33
+2135;King Drive & 66th Street;41.774971;-87.615402;3;34
+2136;King Drive & 65th Street;41.77671;-87.615453;3;35
+2137;King Drive & 64th Street;41.778307;-87.615497;3;36
+2138;King Drive & 63rd Street (Green Line);41.780437;-87.615538;3;37
+2139;King Drive & 62nd Street;41.782231;-87.615599;3;38
+2140;King Drive & 61st Street;41.78405;-87.615641;3;39
+2141;King Drive & 60th Street;41.785625;-87.615682;3;40
+2142;King Drive & 59th Street;41.787657;-87.615706;3;41
+2143;King Drive & 58th Street;41.789307;-87.615765;3;42
+15486;King Drive & 57th Street;41.791284;-87.61582;3;43
+2145;King Drive & 56th Street;41.793111;-87.615869;3;44
+2146;King Drive & Garfield;41.794402;-87.615899;3;45
+2147;King Drive & Garfield;41.795023;-87.615915;3;46
+2148;King Drive & 54th Street;41.796805;-87.615961;3;47
+2149;King Drive & 53rd Street;41.798417;-87.615982;3;48
+2150;5200 S King Drive;41.800254;-87.616048;3;49
+2151;King Drive & 51st Street;41.802359;-87.616011;3;50
+2152;King Drive & 50th Street;41.804078;-87.616316;3;51
+2153;King Drive & 49th Street;41.805855;-87.616376;3;52
+2154;King Drive & 48th Street;41.807771;-87.616428;3;53
+2155;King Drive & 47th Street;41.809627;-87.616497;3;54
+2156;King Drive & 46th Street;41.811381;-87.616544;3;55
+2157;King Drive & 45th Street;41.813172;-87.616509;3;56
+2158;King Drive & 44th Street;41.814963;-87.616619;3;57
+2159;King Drive & 43rd Street;41.81688;-87.616485;3;58
+2160;King Drive & 42nd Street;41.818608;-87.616726;3;59
+2161;King Drive & 41st Street;41.820418;-87.616757;3;60
+2162;King Drive & Oakwood Boulevard;41.822574;-87.61684;3;61
+2163;King Drive & Pershing;41.82394;-87.616898;3;62
+2164;King Drive & 38th Street;41.825736;-87.61693;3;63
+2165;King Drive & 37th Street;41.827636;-87.616957;3;64
+2166;3600 S King Drive;41.8292;-87.617008;3;65
+2167;King Drive & 35th Street;41.831466;-87.616853;3;66
+2168;King Drive & 33rd Place;41.833485;-87.616902;3;67
+2169;King Drive & 33rd Street;41.83495;-87.616934;3;68
+2170;King Drive & 32nd Street;41.836784;-87.616966;3;69
+2171;King Drive & 31st Street;41.838294;-87.617028;3;70
+2178;King Drive & 30th Street;41.839725;-87.617077;3;71
+2179;King Drive & 29th Street;41.84229;-87.61717;3;72
+2180;2800 S King Drive;41.84335;-87.61713;3;73
+2181;King Drive & 26th Street;41.845508;-87.61722;3;74
+17397;King Drive & 25th Street;41.847658;-87.617292;3;75
+14559;McCormick Place;41.851536;-87.618849;3;76
+18353;Cermak & Prairie;41.853027;-87.620833;3;77
+15312;Michigan & Cermak;41.853186;-87.623709;3;78
+1573;Michigan & 21st Street;41.854521;-87.623741;3;79
+1574;Michigan & Cullerton;41.85571;-87.62377;3;80
+1575;Michigan & 18th Street;41.858127;-87.623827;3;81
+14760;Michigan & 16th Street;41.860502;-87.62388;3;82
+18318;Michigan & 14th Street;41.864508;-87.623959;3;83
+1579;Michigan & 13th Street;41.865984;-87.623999;3;84
+1580;Michigan & Roosevelt;41.867893;-87.623964;3;85
+1581;Michigan & 11th Street;41.869145;-87.623965;3;86
+1582;Michigan & 9th Street;41.870503;-87.624006;3;87
+1583;Michigan & 8th Street;41.871787;-87.624034;3;88
+1584;Michigan & Balbo;41.873395;-87.624082;3;89
+14485;Michigan & Ida B Wells Drive;41.87554;-87.624126;3;90
+76;Michigan & Jackson;41.878135;-87.624193;3;91
+15241;Michigan & Monroe;41.880665;-87.624187;3;92
+2188;Michigan & Madison;41.882367;-87.624205;3;93
+1119;Michigan & Randolph;41.884688;-87.624318;3;94
+1120;Michigan & South Water;41.8867;-87.624384;3;95
+1121;Michigan & E. Wacker;41.888076;-87.624425;3;96
+1122;Michigan & Hubbard (Tribune Bldg.);41.890205;-87.623969;3;97
+1123;Michigan & Grand;41.891769;-87.624034;3;98
+1124;Michigan & Ontario;41.893194;-87.624089;3;99
+1125;Michigan & Huron;41.894798;-87.624104;3;100
+1126;Michigan & Chicago;41.896535;-87.624133;3;101
+15282;Chicago & Mies Van Der Rohe;41.896671;-87.621958;3;102
+582;Chicago & Fairbanks;41.896716;-87.62053;3;103
+584;Fairbanks & Huron;41.895127;-87.620375;3;104
+593;Fairbanks & Erie;41.894081;-87.620224;3;105
 41170;Garfield (Red);41.79542;-87.631157;hunt;1
 10575;55th Street & Ellis;41.7951122;-87.6010216;hunt;2
 7131;Lake Park & 56th Street;41.7936231;-87.5877393;hunt;3
@@ -462,57 +979,3 @@
 755;Illinois & Peshtigo;41.891042;-87.615376;2;40
 756;Illinois & Lake Shore;41.8910251;-87.6131476;2;41
 18620;Navy Pier Terminal;41.892654;-87.6110984;2;42
-14097;Paulina & Howard Terminal;42.0187426;-87.672906;97;1
-3513;Howard & Chicago Avenue;42.019476;-87.6761842;97;2
-3514;Howard & Clyde;42.019501;-87.677882;97;3
-3515;Howard & Custer;42.0195022;-87.6802805;97;4
-3516;Howard & Elmwood;42.0195498;-87.6826949;97;5
-3517;Howard & Ridge;42.0195519;-87.684398;97;6
-3518;Howard & Barton;42.0196003;-87.6884777;97;7
-3519;Howard & Western / Asbury;42.0195988;-87.6899856;97;8
-3520;Howard & Ashland;42.0195224;-87.6931727;97;9
-3522;Howard & Dewey;42.0194668;-87.6961828;97;10
-3523;Howard & California / Dodge;42.0193992;-87.6994214;97;11
-3524;Dodge & Brummel;42.0211995;-87.6993905;97;12
-3525;Dodge & Mulford;42.0229555;-87.6994255;97;13
-3526;Dodge & Kirk;42.0247225;-87.6993645;97;14
-3527;Oakton & Dodge;42.0266273;-87.6997371;97;15
-3529;Oakton & Hartrey;42.0265502;-87.7040341;97;16
-3530;2310 W Oakton;42.0265502;-87.7055503;97;17
-3532;Oakton & McCormick;42.0264501;-87.7114982;97;18
-3534;Oakton & St. Louis;42.026384;-87.7155872;97;19
-3535;Oakton & Central Park;42.026385;-87.7183872;97;20
-3536;Oakton & Lawndale;42.026384;-87.7206882;97;21
-3537;Oakton & Hamlin;42.026383;-87.7231872;97;22
-3538;Oakton & East Prairie;42.026296;-87.725388;97;23
-3539;Oakton & Crawford;42.0262908;-87.7280185;97;24
-3540;Oakton & Karlov;42.0262918;-87.7303185;97;25
-3541;Oakton & Keeler;42.0262891;-87.7328607;97;26
-3542;Oakton & Kildare;42.0262898;-87.7352205;97;27
-3543;Oakton & Kostner;42.0262908;-87.7375175;97;28
-3544;Oakton & Kilbourn;42.0262898;-87.7399205;97;29
-3545;Oakton & Kenton;42.0263355;-87.7425851;97;30
-3546;Oakton & Knox;42.0263496;-87.7437016;97;31
-3547;Oakton & Keating;42.0263343;-87.7462385;97;32
-15078;Oakton & Lacrosse;42.0263206;-87.7487268;97;33
-3550;Oakton & Lincoln;42.0264186;-87.7544406;97;34
-3551;Lincoln & Niles Center;42.0277629;-87.7544714;97;35
-3552;8200 N Niles Center;42.0297722;-87.7533161;97;36
-3553;Niles Center & Madison;42.0317457;-87.7521341;97;37
-3554;Niles Center & Main;42.0333838;-87.7511468;97;38
-3556;Niles Center & Wright Terrace;42.0362104;-87.7498651;97;39
-17851;Niles Center & Greenleaf;42.0374047;-87.749278;97;40
-3558;Niles Center & Crain;42.038864;-87.7487664;97;41
-3560;Dempster & Bronx;42.0408739;-87.7504718;97;42
-14166;Skokie Yellow Line Station;42.039995;-87.7522867;97;43
-3563;Bronx & Dempster;42.0409244;-87.7504879;97;44
-3565;Bronx & Grove;42.0443133;-87.750463;97;45
-3566;Bronx & Davis;42.0461903;-87.750454;97;46
-3567;Gross Point & Church;42.047981;-87.748671;97;47
-3568;Skokie Blvd & Gross Point;42.0501784;-87.7467652;97;48
-3569;Skokie Blvd & Emerson;42.0521198;-87.7466902;97;49
-3570;Skokie Blvd & Foster;42.0535861;-87.7467051;97;50
-3571;Golf Road & Skokie Blvd;42.0554209;-87.7477479;97;51
-3572;Golf Road & Lamon;42.0553915;-87.7494904;97;52
-3573;Golf Road & Lavergne;42.0554529;-87.7512948;97;53
-3574;Old Orchard Mall - Macys;42.0594464;-87.7502704;97;54
