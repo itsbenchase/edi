@@ -45,12 +45,23 @@ public class list
 
       for (int i = 0; i < agencies.size(); i++)
       {
-        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul>");
+        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=stops/" + agencies.get(i) + ".html>" + fullAgencies.get(i) + "</a></ul>");
       }
 
       for (int i = 0; i < agencies.size(); i++)
       {
-        fileWriter1.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
+        File newFile2 = new File("stops/" + agencies.get(i) + ".html");
+        FileWriter fileWriter2 = new FileWriter(newFile2);
+
+        fileWriter2.write("<title>" + fullAgencies.get(i) + "- Eliot Deviation Index</title> \n");
+        fileWriter2.append("<link rel=stylesheet href=../style.css> \n");
+        fileWriter2.append("<ul><li><a href=../index.html>Home</a></li>");
+        fileWriter2.append("<li><a href=../stops.html class=active>Stop Listing</a></li> \n");
+        fileWriter2.append("<li><a href=../routes.html>Route Listing</a></li> \n");
+        fileWriter2.append("<li><a href=../calculator.html>Calculator</a></li></ul> \n");
+        fileWriter2.append("<h1>Stop Listing</h1> \n");
+
+        fileWriter2.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
 
         ArrayList<String> stopID = new ArrayList<String>();
         ArrayList<String> stopName = new ArrayList<String>();
@@ -81,15 +92,15 @@ public class list
           System.out.println("Error 3 - No EDI file.");
         }
 
-        fileWriter1.append("<table><tr><th>Stop ID</th><th>Stop Name</th><th>Stop Latitude</th><th>Stop Longitude</th></tr> \n");
+        fileWriter2.append("<table><tr><th>Stop ID</th><th>Stop Name</th><th>Stop Latitude</th><th>Stop Longitude</th></tr> \n");
 
         for (int j = 0; j < stopID.size(); j++)
         {
-          fileWriter1.append("<tr><td style=color:red>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
+          fileWriter2.append("<tr><td style=color:red>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
           stopCounter++;
         }
 
-        fileWriter1.append("</table> \n");
+        fileWriter2.append("</table> \n");
       }
 
       fileWriter1.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
