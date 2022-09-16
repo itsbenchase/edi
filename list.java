@@ -30,27 +30,24 @@ public class list
     }
 
     int stopCounter = 0; // total amount of stops
-    try
+
+    for (int i = 0; i < agencies.size(); i++)
     {
-      File newFile1 = new File("stops.html");
-      FileWriter fileWriter1 = new FileWriter(newFile1);
-
-      fileWriter1.write("<title>Stop Listing - Eliot Deviation Index</title> \n");
-      fileWriter1.append("<link rel=stylesheet href=style.css> \n");
-      fileWriter1.append("<ul><li><a href=index.html>Home</a></li>");
-      fileWriter1.append("<li><a href=stops.html class=active>Stop Listing</a></li> \n");
-      fileWriter1.append("<li><a href=routes.html>Route Listing</a></li> \n");
-      fileWriter1.append("<li><a href=calculator.html>Calculator</a></li></ul> \n");
-      fileWriter1.append("<h1>Stop Listing</h1> \n");
-
-      for (int i = 0; i < agencies.size(); i++)
+      try
       {
-        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul>");
-      }
+        int agencyStops = 0; // agency stop counter
+        File newFile1 = new File("stops/" + agencies.get(i) + ".html");
+        FileWriter fileWriter1 = new FileWriter(newFile1);
 
-      for (int i = 0; i < agencies.size(); i++)
-      {
-        fileWriter1.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
+        fileWriter1.write("<title>" + fullAgencies.get(i) + " Stops - Eliot Deviation Index</title> \n");
+        fileWriter1.append("<link rel=stylesheet href=../style.css> \n");
+        fileWriter1.append("<ul><li><a href=../index.html>Home</a></li>");
+        fileWriter1.append("<li><a href=../stops.html class=active>Stop Listing</a></li> \n");
+        fileWriter1.append("<li><a href=../routes.html>Route Listing</a></li> \n");
+        fileWriter1.append("<li><a href=../calculator.html>Calculator</a></li></ul> \n");
+        fileWriter1.append("<h1>Stop Listing</h1> \n");
+
+        fileWriter1.append("<h3>" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
 
         ArrayList<String> stopID = new ArrayList<String>();
         ArrayList<String> stopName = new ArrayList<String>();
@@ -78,7 +75,7 @@ public class list
         }
         catch (FileNotFoundException e)
         {
-          System.out.println("Error 3 - No EDI file.");
+          System.out.println("Error 2 - No stop file.");
         }
 
         fileWriter1.append("<table><tr><th>Stop ID</th><th>Stop Name</th><th>Stop Latitude</th><th>Stop Longitude</th></tr> \n");
@@ -86,18 +83,46 @@ public class list
         for (int j = 0; j < stopID.size(); j++)
         {
           fileWriter1.append("<tr><td style=color:red>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
+          agencyStops++;
           stopCounter++;
         }
 
         fileWriter1.append("</table> \n");
+        fileWriter1.append("<p><b>Agency Stops:</b> " + agencyStops + "</p>");
+        fileWriter1.flush();
+        fileWriter1.close();
+      }
+      catch (IOException e)
+      {
+        System.out.println("Error 3 - Can't save stops.");
+      }
+    }
+
+    try
+    {
+      File newFile2 = new File("stops.html");
+      FileWriter fileWriter2 = new FileWriter(newFile2);
+      fileWriter2.write("<title>Stop Listing - Eliot Deviation Index</title> \n");
+      fileWriter2.append("<link rel=stylesheet href=style.css> \n");
+      fileWriter2.append("<ul><li><a href=index.html>Home</a></li>");
+      fileWriter2.append("<li><a href=stops.html class=active>Stop Listing</a></li> \n");
+      fileWriter2.append("<li><a href=routes.html>Route Listing</a></li> \n");
+      fileWriter2.append("<li><a href=calculator.html>Calculator</a></li></ul> \n");
+      fileWriter2.append("<h1>Stop Listing</h1> \n");
+      fileWriter2.append("<p> \n");
+
+      for (int a = 0; a < agencies.size(); a++)
+      {
+        fileWriter2.append("<ul class=bullet style=background-color:#d9ffde><a href=stops/" + agencies.get(a) + ".html>" + fullAgencies.get(a) + "</a></ul>");
       }
 
-      fileWriter1.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
-      fileWriter1.close();
+      fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
+      fileWriter2.flush();
+      fileWriter2.close();
     }
-    catch (IOException e)
+    catch (Exception e)
     {
-      System.out.println("Error 2 - Can't save stops.");
+      System.out.println("Error 4 - Can't create stop home page.");
     }
   }
 }
