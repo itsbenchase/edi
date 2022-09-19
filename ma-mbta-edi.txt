@@ -1,3 +1,72 @@
+hsmnl;Heath Street;42.328316;-71.110252;Green E;1
+bckhl;Back of the Hill;42.330139;-71.111313;Green E;2
+rvrwy;Riverway;42.331684;-71.111931;Green E;3
+mispk;Mission Park;42.333195;-71.109756;Green E;4
+fenwd;Fenwood Road;42.333706;-71.105728;Green E;5
+brmnl;Brigham Circle;42.334229;-71.104609;Green E;6
+lngmd;Longwood Medical Area;42.33596;-71.100052;Green E;7
+mfa;Museum of Fine Arts;42.337711;-71.095512;Green E;8
+nuniv;Northeastern University;42.340401;-71.088806;Green E;9
+symcl;Symphony;42.342687;-71.085056;Green E;10
+prmnl;Prudential;42.34557;-71.081696;Green E;11
+coecl;Copley;42.349974;-71.077447;Green E;12
+armnl;Arlington;42.351902;-71.070893;Green E;13
+boyls;Boylston;42.35302;-71.06459;Green E;14
+pktrm;Park Street;42.356395;-71.062424;Green E;15
+gover;Government Center;42.359705;-71.059215;Green E;16
+haecl;Haymarket;42.363021;-71.05829;Green E;17
+north;North Station;42.365577;-71.06129;Green E;18
+spmnl;Science Park/West End;42.366664;-71.067666;Green E;19
+lech;Lechmere;42.370772;-71.076536;Green E;20
+river;Riverside;42.337352;-71.252685;Green D;1
+woodl;Woodland;42.332902;-71.243362;Green D;2
+waban;Waban;42.325845;-71.230609;Green D;3
+eliot;Eliot;42.319045;-71.216684;Green D;4
+newtn;Newton Highlands;42.322381;-71.205509;Green D;5
+newto;Newton Centre;42.329443;-71.192414;Green D;6
+chhil;Chestnut Hill;42.326753;-71.164699;Green D;7
+rsmnl;Reservoir;42.335088;-71.148758;Green D;8
+bcnfd;Beaconsfield;42.335765;-71.140455;Green D;9
+brkhl;Brookline Hills;42.331316;-71.126683;Green D;10
+bvmnl;Brookline Village;42.332608;-71.116857;Green D;11
+longw;Longwood;42.341702;-71.109956;Green D;12
+fenwy;Fenway;42.345403;-71.104213;Green D;13
+kencl;Kenmore;42.348949;-71.095169;Green D;14
+hymnl;Hynes Convention Center;42.347888;-71.087903;Green D;15
+coecl;Copley;42.349974;-71.077447;Green D;16
+armnl;Arlington;42.351902;-71.070893;Green D;17
+boyls;Boylston;42.35302;-71.06459;Green D;18
+pktrm;Park Street;42.356395;-71.062424;Green D;19
+gover;Government Center;42.359705;-71.059215;Green D;20
+haecl;Haymarket;42.363021;-71.05829;Green D;21
+north;North Station;42.365577;-71.06129;Green D;22
+spmnl;Science Park/West End;42.366664;-71.067666;Green D;23
+lech;Lechmere;42.370772;-71.076536;Green D;24
+unsqu;Union Square;42.377359;-71.094761;Green D;25
+nubn;Nubian;42.329789;-71.083887;1;1
+1;Washington St opp Ruggles St;42.330957;-71.082754;1;2
+2;Washington St @ Melnea Cass Blvd;42.332324;-71.081252;1;3
+6;Melnea Cass Blvd @ Harrison Ave;42.332016;-71.079576;1;4
+10003;Albany St opp Randall St;42.331591;-71.076237;1;5
+57;Massachusetts Ave @ Albany St;42.333825;-71.073541;1;6
+58;Massachusetts Ave @ Harrison Ave;42.334948;-71.074931;1;7
+10590;Massachusetts Ave @ Washington St;42.336621;-71.076956;1;8
+87;Massachusetts Ave @ Tremont St;42.339459;-71.080362;1;9
+188;Massachusetts Ave @ Massachusetts Ave Station;42.34157;-71.083092;1;10
+89;Massachusetts Ave @ St Botolph St;42.342303;-71.084121;1;11
+91;Massachusetts Ave @ Clearway St;42.345331;-71.086739;1;12
+93;Massachusetts Ave @ Newbury St;42.348005;-71.088033;1;13
+95;Massachusetts Ave @ Beacon St;42.350773;-71.089334;1;14
+97;77 Massachusetts Ave;42.359349;-71.093716;1;15
+99;Massachusetts Ave @ Albany St;42.360758;-71.095722;1;16
+101;Massachusetts Ave @ Sidney St;42.362988;-71.099486;1;17
+102;Massachusetts Ave @ Prospect St;42.365291;-71.103404;1;18
+104;Massachusetts Ave @ Bigelow St;42.366779;-71.105813;1;19
+106;Massachusetts Ave @ Hancock St;42.36839;-71.108618;1;20
+107;Massachusetts Ave @ Dana St;42.369265;-71.110773;1;21
+108;Massachusetts Ave @ Trowbridge St;42.37027;-71.112998;1;22
+109;Massachusetts Ave @ Bow St;42.372099;-71.115371;1;23
+110;Massachusetts Ave @ Holyoke St;42.373259;-71.118124;1;24
 30249;Northern Ave @ Tide St;42.34508;-71.031986;4-e;1
 30256;Drydock Ave @ Harbor St;42.344669;-71.037379;4-e;2
 210;Summer St @ Drydock Ave;42.344381;-71.039016;4-e;3
@@ -23,42 +92,6 @@
 243;Northern Ave @ D St;42.348881;-71.039227;4-w;8
 247;Northern Ave @ Harbor St;42.346634;-71.035301;4-w;9
 30249;Northern Ave @ Tide St;42.34508;-71.031986;4-w;10
-sstat;South Station;42.352271;-71.055242;Foxboro;1
-bbsta;Back Bay;42.34735;-71.075727;Foxboro;2
-rugg;Ruggles;42.336377;-71.088961;Foxboro;3
-nec-2203;Hyde Park;42.25503;-71.125526;Foxboro;4
-db-0095;Readville;42.238405;-71.133246;Foxboro;5
-fb-0109;Endicott;42.233249;-71.158647;Foxboro;6
-fb-0118;Dedham Corporate Center;42.227079;-71.174254;Foxboro;7
-fb-0125;Islington;42.22105;-71.183961;Foxboro;8
-fb-0143;Norwood Depot;42.196857;-71.196688;Foxboro;9
-fb-0148;Norwood Central;42.188775;-71.199665;Foxboro;10
-fb-0166;Windsor Gardens;42.172127;-71.219366;Foxboro;11
-fs-0049;Foxboro;42.095056;-71.261515;Foxboro;12
-nubn;Nubian;42.329789;-71.083887;1;1
-1;Washington St opp Ruggles St;42.330957;-71.082754;1;2
-2;Washington St @ Melnea Cass Blvd;42.332324;-71.081252;1;3
-6;Melnea Cass Blvd @ Harrison Ave;42.332016;-71.079576;1;4
-10003;Albany St opp Randall St;42.331591;-71.076237;1;5
-57;Massachusetts Ave @ Albany St;42.333825;-71.073541;1;6
-58;Massachusetts Ave @ Harrison Ave;42.334948;-71.074931;1;7
-10590;Massachusetts Ave @ Washington St;42.336621;-71.076956;1;8
-87;Massachusetts Ave @ Tremont St;42.339459;-71.080362;1;9
-188;Massachusetts Ave @ Massachusetts Ave Station;42.34157;-71.083092;1;10
-89;Massachusetts Ave @ St Botolph St;42.342303;-71.084121;1;11
-91;Massachusetts Ave @ Clearway St;42.345331;-71.086739;1;12
-93;Massachusetts Ave @ Newbury St;42.348005;-71.088033;1;13
-95;Massachusetts Ave @ Beacon St;42.350773;-71.089334;1;14
-97;77 Massachusetts Ave;42.359349;-71.093716;1;15
-99;Massachusetts Ave @ Albany St;42.360758;-71.095722;1;16
-101;Massachusetts Ave @ Sidney St;42.362988;-71.099486;1;17
-102;Massachusetts Ave @ Prospect St;42.365291;-71.103404;1;18
-104;Massachusetts Ave @ Bigelow St;42.366779;-71.105813;1;19
-106;Massachusetts Ave @ Hancock St;42.36839;-71.108618;1;20
-107;Massachusetts Ave @ Dana St;42.369265;-71.110773;1;21
-108;Massachusetts Ave @ Trowbridge St;42.37027;-71.112998;1;22
-109;Massachusetts Ave @ Bow St;42.372099;-71.115371;1;23
-110;Massachusetts Ave @ Holyoke St;42.373259;-71.118124;1;24
 16535;Otis St @ Summer St;42.354243;-71.058557;7;1
 6564;Summer St @ South Station - Red Line entrance;42.352253;-71.054774;7;2
 888;Summer St @ Melcher St;42.350437;-71.050865;7;3
@@ -760,6 +793,18 @@ fr-3338;Wachusett;42.553477;-71.848488;Fitchburg;19
 fr-0098;Waltham;42.374269;-71.235598;Fitchburg;5
 fr-0074;Waverley;42.3876;-71.190744;Fitchburg;4
 fr-0219;West Concord;42.457043;-71.392892;Fitchburg;12
+sstat;South Station;42.352271;-71.055242;Foxboro;1
+bbsta;Back Bay;42.34735;-71.075727;Foxboro;2
+rugg;Ruggles;42.336377;-71.088961;Foxboro;3
+nec-2203;Hyde Park;42.25503;-71.125526;Foxboro;4
+db-0095;Readville;42.238405;-71.133246;Foxboro;5
+fb-0109;Endicott;42.233249;-71.158647;Foxboro;6
+fb-0118;Dedham Corporate Center;42.227079;-71.174254;Foxboro;7
+fb-0125;Islington;42.22105;-71.183961;Foxboro;8
+fb-0143;Norwood Depot;42.196857;-71.196688;Foxboro;9
+fb-0148;Norwood Central;42.188775;-71.199665;Foxboro;10
+fb-0166;Windsor Gardens;42.172127;-71.219366;Foxboro;11
+fs-0049;Foxboro;42.095056;-71.261515;Foxboro;12
 bbsta;Back Bay;42.34735;-71.075727;Franklin;2
 fb-0118;Dedham Corporate Center;42.227079;-71.174254;Franklin;7
 fb-0109;Endicott;42.233249;-71.158647;Franklin;6
@@ -819,49 +864,6 @@ stpul;Saint Paul Street;42.343327;-71.116997;Green C;11
 sumav;Summit Avenue;42.34111;-71.12561;Green C;13
 tapst;Tappan Street;42.338459;-71.138702;Green C;17
 bcnwa;Washington Square;42.339394;-71.13533;Green C;16
-armnl;Arlington;42.351902;-71.070893;Green D;6
-bcnfd;Beaconsfield;42.335765;-71.140455;Green D;14
-boyls;Boylston;42.35302;-71.06459;Green D;5
-brkhl;Brookline Hills;42.331316;-71.126683;Green D;13
-bvmnl;Brookline Village;42.332608;-71.116857;Green D;12
-chhil;Chestnut Hill;42.326753;-71.164699;Green D;16
-coecl;Copley;42.349974;-71.077447;Green D;7
-eliot;Eliot;42.319045;-71.216684;Green D;19
-fenwy;Fenway;42.345403;-71.104213;Green D;10
-gover;Government Center;42.359705;-71.059215;Green D;3
-haecl;Haymarket;42.363021;-71.05829;Green D;2
-hymnl;Hynes Convention Center;42.347888;-71.087903;Green D;8
-kencl;Kenmore;42.348949;-71.095169;Green D;9
-longw;Longwood;42.341702;-71.109956;Green D;11
-newto;Newton Centre;42.329443;-71.192414;Green D;17
-newtn;Newton Highlands;42.322381;-71.205509;Green D;18
-north;North Station;42.365577;-71.06129;Green D;1
-pktrm;Park Street;42.356395;-71.062424;Green D;4
-rsmnl;Reservoir;42.335088;-71.148758;Green D;15
-river;Riverside;42.337352;-71.252685;Green D;22
-waban;Waban;42.325845;-71.230609;Green D;20
-woodl;Woodland;42.332902;-71.243362;Green D;21
-armnl;Arlington;42.351902;-71.070893;Green E;9
-bckhl;Back of the Hill;42.330139;-71.111313;Green E;20
-boyls;Boylston;42.35302;-71.06459;Green E;8
-brmnl;Brigham Circle;42.334229;-71.104609;Green E;16
-coecl;Copley;42.349974;-71.077447;Green E;10
-fenwd;Fenwood Road;42.333706;-71.105728;Green E;17
-gover;Government Center;42.359705;-71.059215;Green E;6
-haecl;Haymarket;42.363021;-71.05829;Green E;5
-hsmnl;Heath Street;42.328316;-71.110252;Green E;21
-lech;Lechmere;42.370772;-71.076536;Green E;2
-lngmd;Longwood Medical Area;42.33596;-71.100052;Green E;15
-mispk;Mission Park;42.333195;-71.109756;Green E;18
-mfa;Museum of Fine Arts;42.337711;-71.095512;Green E;14
-north;North Station;42.365577;-71.06129;Green E;4
-nuniv;Northeastern University;42.340401;-71.088806;Green E;13
-pktrm;Park Street;42.356395;-71.062424;Green E;7
-prmnl;Prudential;42.34557;-71.081696;Green E;11
-rvrwy;Riverway;42.331684;-71.111931;Green E;19
-spmnl;Science Park/West End;42.366664;-71.067666;Green E;3
-symcl;Symphony;42.342687;-71.085056;Green E;12
-unsqu;Union Square;42.377359;-71.094761;Green E;1
 grb-0199;Cohasset;42.24421;-70.837529;Greenbush;8
 grb-0146;East Weymouth;42.2191;-70.9214;Greenbush;5
 grb-0276;Greenbush;42.178776;-70.746641;Greenbush;10

@@ -29,6 +29,7 @@ public class ediCalc
     System.out.println("- Enter \"custom\" when prompted for the line.");
     System.out.println("- Enter the stop IDs in order. A full list can be found at edi.benchase.info/stops.html.");
     System.out.println("- Enter \"-1\" to add a custom stop.");
+    System.out.println("- Enter \"-2\" to remove the last stop added.");
     System.out.println("- Enter \"-0\" after the last stop is added.");
 
     System.out.println("");
@@ -126,6 +127,13 @@ public class ediCalc
             custom.add(addStop);
 
             in.nextLine(); // absorb enter
+          }
+          if (customStop.equals("-2"))
+          {
+            System.out.println(custom.get(custom.size() - 1).getName() + " (" + custom.get(custom.size() - 1).getID() + ") removed.");
+            stops2.remove(stops2.size() - 1);
+            custom.remove(custom.size() - 1);
+            stopCount--;
           }
           else
           {

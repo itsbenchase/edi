@@ -1,3 +1,645 @@
+59915;Walmart (Cranston);41.787536;-71.499027;88;1
+73255;Belmont Ave;41.800272;-71.496173;88;2
+12710;Simmons Village;41.802157;-71.494767;88;3
+6335;CCRI (Warwick Campus);41.712279;-71.480109;22;1
+6790;Greenwich before Rome;41.718285;-71.463652;22;2
+6960;Greenwich after Naples;41.719973;-71.464537;22;3
+72740;Greenwich before Metro Blvd;41.721269;-71.465754;22;4
+7120;Lambert Lind after Shalom;41.723331;-71.468532;22;5
+7230;Lambert Lind before Greenwich Village Apartments;41.725114;-71.471628;22;6
+7075;Warwick Mall opp Theatres;41.721933;-71.474838;22;7
+7710;Oaklawn after Bateman;41.732949;-71.477142;22;8
+7760;Mayfield after Oaklawn;41.734011;-71.476916;22;9
+7825;Mayfield after Eileen;41.734488;-71.470174;22;10
+7965;East before Castle;41.736259;-71.466529;22;11
+8065;East after Forest;41.739063;-71.462698;22;12
+59195;Pontiac after Howard;41.74101;-71.460502;22;13
+8265;Pontiac before Kenney;41.74358;-71.456612;22;14
+8395;Pontiac after Slater;41.746957;-71.453756;22;15
+8780;Pontiac before Sockanosset Cross;41.751645;-71.451527;22;16
+8870;Pontiac after Pettaconsett;41.753586;-71.449001;22;17
+9125;Pontiac at 988 Pontiac;41.757573;-71.445425;22;18
+9350;Pontiac before Garden City Drive;41.760252;-71.442922;22;19
+73455;Pontiac before Hersey;41.762477;-71.442251;22;20
+9560;Pontiac after Euston;41.763181;-71.44193;22;21
+9660;Pontiac before Holburn;41.764239;-71.441427;22;22
+9785;Pontiac opp Keith;41.766565;-71.440423;22;23
+9900;Pontiac before Rockland;41.76838;-71.439197;22;24
+10190;Pontiac between Hodsell & Colonial;41.772175;-71.436888;22;25
+10380;Pontiac at Citgo Gas;41.774305;-71.43724;22;26
+59220;Rolfe opp Post Office;41.776585;-71.436481;22;27
+10660;Rolfe before Park;41.778294;-71.435852;22;28
+10780;Pontiac / Park;41.779215;-71.43527;22;29
+10940;Pontiac opp Mauran;41.781261;-71.431801;22;30
+11155;Pontiac after Brandon;41.78459;-71.43109;22;31
+59215;Pontiac after Paine;41.786229;-71.431523;22;32
+11310;Pontiac after Rutherglen;41.787531;-71.431435;22;33
+11780;Reservoir after Ardoene;41.791778;-71.427989;22;34
+73195;Narragansett Ave. at Ardone Park;41.790715;-71.424924;22;35
+11510;Elmwood after Cadillac;41.789452;-71.421333;22;36
+11725;Elmwood opp 705 Elmwood (RIPTA - Elmwood Garage);41.79199;-71.422752;22;37
+11925;Elmwood after Warrington;41.793628;-71.423666;22;38
+12105;Elmwood before Lenox;41.795032;-71.424457;22;39
+12400;Elmwood before Ontario;41.797604;-71.425834;22;40
+12625;Elmwood opp Redwing;41.799314;-71.42633;22;41
+12800;Elmwood opp Hawthorne;41.801019;-71.426316;22;42
+13050;Elmwood at Mawney;41.803576;-71.425615;22;43
+72270;Elmwood before Princeton;41.805262;-71.425183;22;44
+13405;Elmwood before Plenty;41.80709;-71.42475;22;45
+13795;Elmwood after W Friendship;41.810159;-71.423752;22;46
+14125;Elmwood before Bridgham;41.812445;-71.422221;22;47
+14365;Trinity Square;41.81351;-71.421527;22;48
+58415;Broad before Lockwood;41.815222;-71.420668;22;49
+14825;Broad St before Cahir St;41.816711;-71.418241;22;50
+14965;Broad opp Fenner;41.818267;-71.415928;22;51
+15230;Broad before Chestnut;41.819912;-71.41446;22;52
+15545;Weybosset before Richmond;41.821047;-71.412845;22;53
+15880;Weybosset opp Eddy;41.82263;-71.41137;22;54
+16385;Weybosset before Post Office Court;41.824459;-71.409638;22;55
+16435;Kennedy Plaza (Stop C);41.824873;-71.411466;22;56
+6335;CCRI (Warwick Campus);41.712279;-71.480109;21;1
+6900;Rhode Island Mall;41.719637;-71.482534;21;2
+6790;Greenwich before Rome;41.718285;-71.463652;21;3
+6960;Greenwich after Naples;41.719973;-71.464537;21;4
+72740;Greenwich before Metro Blvd;41.721269;-71.465754;21;5
+7120;Lambert Lind after Shalom;41.723331;-71.468532;21;6
+7230;Lambert Lind before Greenwich Village Apartments;41.725114;-71.471628;21;7
+7075;Warwick Mall opp Theatres;41.721933;-71.474838;21;8
+7710;Oaklawn after Bateman;41.732949;-71.477142;21;9
+7760;Mayfield after Oaklawn;41.734011;-71.476916;21;10
+7825;Mayfield after Eileen;41.734488;-71.470174;21;11
+7965;East before Castle;41.736259;-71.466529;21;12
+8065;East after Forest;41.739063;-71.462698;21;13
+51085;Howard opp 16 Howard;41.742584;-71.462781;21;14
+8250;Howard before Regan;41.74472;-71.464708;21;15
+8415;Howard before Cherrydale;41.746653;-71.466493;21;16
+8510;Traffic Tribunal;41.748214;-71.467149;21;17
+8455;New London after Howard;41.747932;-71.468295;21;18
+72365;New London after Chapel View;41.756357;-71.461752;21;19
+9090;Midway after Sockanossett;41.75734;-71.457899;21;20
+73490;Midway before Cypress;41.760959;-71.456642;21;21
+50815;Midway at Garden City Center;41.762559;-71.456916;21;22
+72690;Gardern City Dr before Wayside;41.765229;-71.458162;21;23
+9905;Reservoir at 1200 Reservoir;41.768399;-71.455966;21;24
+9995;Reservoir opp McDonalds;41.77181;-71.452731;21;25
+10120;Reservoir before Bridgeton;41.773259;-71.451308;21;26
+10405;Reservoir before Nowell;41.774768;-71.449806;21;27
+10475;Reservoir at Hemalin;41.776264;-71.448014;21;28
+10640;Reservoir before Auburn;41.777785;-71.445905;21;29
+10850;Reservoir before Blaisdell;41.779723;-71.443198;21;30
+10935;Reservoir before Norfolk;41.780851;-71.441576;21;31
+10975;Reservoir before High School Avenue;41.781909;-71.440159;21;32
+11065;Reservoir before Beckwith;41.784189;-71.43697;21;33
+11170;Reservoir after Preston;41.785148;-71.435549;21;34
+11330;Pontiac before Richfield;41.78614;-71.431645;21;35
+16775;Memorial before Exchange;41.826556;-71.41272;21;36
+16435;Kennedy Plaza (Stop C);41.824873;-71.411466;21;37
+16435;Kennedy Plaza (Stop C);41.824873;-71.411466;20;1
+16000;Washington St before Snow St;41.822758;-71.415378;20;2
+15575;Empire opp Westminster;41.821;-71.415397;20;3
+15025;Broad before Fenner;41.818517;-71.415767;20;4
+14785;Broad St after Cahir St;41.81683;-71.418436;20;5
+14520;Broad after Lockwood;41.815198;-71.420822;20;6
+14380;Broad opp Somerset (McDonalds);41.813774;-71.421667;20;7
+14140;Elmwood after Bridgham;41.81253;-71.422375;20;8
+59350;Elmwood before W Friendship;41.810152;-71.423961;20;9
+72230;Elmwood after Hanover;41.807309;-71.424877;20;10
+72240;Elmwood opp Moore;41.804832;-71.425529;20;11
+13035;Elmwood before Burnett;41.803271;-71.425915;20;12
+72250;Elmwood before Hawthorne;41.800859;-71.426567;20;13
+12265;Elmwood before Atlantic;41.796565;-71.42556;20;14
+72260;Elmwood at 635 Elmwood (Furnace & Duct Supply Co.);41.794745;-71.424544;20;15
+11900;Elmwood opp Warrington;41.793255;-71.423714;20;16
+11740;Elmwood opp Thackery;41.791843;-71.422927;20;17
+11530;Elmwood after Hempstead;41.789448;-71.421643;20;18
+11250;Elmwood at Roger Williams Park;41.785939;-71.41963;20;19
+11080;Elmwood after Carlisle;41.784115;-71.418934;20;20
+10985;Elmwood after Whitney;41.781914;-71.419648;20;21
+10910;Elmwood before Dixon;41.78038;-71.420254;20;22
+10620;Elmwood before Spooner;41.77819;-71.421015;20;23
+10525;Elmwood after Park;41.775982;-71.421745;20;24
+10345;Elmwood after Fenner;41.773657;-71.422585;20;25
+10055;Elmwood Midblock Pricerite;41.771058;-71.423531;20;26
+9855;Elmwood after Sharon;41.768372;-71.424568;20;27
+9680;Elmwood before Third;41.764814;-71.425574;20;28
+9535;Elmwood before Wellington;41.762369;-71.42518;20;29
+9390;Elmwood after First;41.761009;-71.424955;20;30
+9075;Elmwood before Second;41.759446;-71.424686;20;31
+9025;Elmwood Midblock 1884 Elmwood;41.756268;-71.424124;20;32
+8850;Elmwood before Fifth;41.753867;-71.423686;20;33
+59140;Elmwood before Sixth;41.752122;-71.423416;20;34
+8615;Elmwood before Post;41.749567;-71.422972;20;35
+8555;Post before Harrington;41.748344;-71.423346;20;36
+8390;Post between Pettaconsett & Norwood;41.7467;-71.42602;20;37
+8290;Post between Elm & Chestnut;41.744846;-71.428289;20;38
+8050;Post after Lincoln;41.738511;-71.43356;20;39
+7880;Post opp Barden;41.735521;-71.435261;20;40
+7660;Post between Guilford & Airport Rd;41.732385;-71.436698;20;41
+27215;Post after Elkland;41.730162;-71.437505;20;42
+7315;Post at Sky Bridge;41.726765;-71.438901;20;43
+7170;Post at Radisson;41.724855;-71.439835;20;44
+7005;Post opp 2222 Post;41.721547;-71.441825;20;45
+7265;TF Green Airport (Arrivals);41.725802;-71.436997;20;46
+7315;Post at Sky Bridge;41.726765;-71.438901;20;47
+7170;Post at Radisson;41.724855;-71.439835;20;48
+7005;Post opp 2222 Post;41.721547;-71.441825;20;49
+6765;Post before Elaine;41.718221;-71.443808;20;50
+6555;New England Tech;41.71524;-71.444382;20;51
+11195;Amflex before Comstock;41.785283;-71.51558;19;1
+55525;Comstock opp Plainfield;41.78798;-71.516042;19;2
+11465;Plainfield after Sailor;41.788703;-71.507889;19;3
+11620;Plainfield before Independence;41.789674;-71.501118;19;4
+59920;Walmart Svc Rd after Citizens Bank;41.789003;-71.500793;19;5
+59915;Walmart (Cranston);41.787536;-71.499027;19;6
+59830;Walmart Service Road opp Citizens Bank;41.789298;-71.500456;19;7
+11735;Plainfield opp Nardolillo;41.791011;-71.496814;19;8
+11760;Plainfield after Plainfield Circle;41.791451;-71.489921;19;9
+11950;Plainfield at Yeoman;41.793605;-71.486724;19;10
+12210;Plainfield before Clemence;41.796184;-71.482101;19;11
+12275;Plainfield at 1350 Plainfield;41.79664;-71.480483;19;12
+12355;Plainfield opp School;41.797291;-71.478887;19;13
+12450;Plainfield at 1244 Plainfield;41.798047;-71.475836;19;14
+12575;Plainfield at 1192 Plainfield;41.798657;-71.473367;19;15
+12775;Plainfield at Evans;41.800673;-71.470076;19;16
+12915;Plainfield opp Morgan;41.802246;-71.46898;19;17
+13165;Plainfield before Coolidge;41.804646;-71.466664;19;18
+13450;Plainfield before Farmington;41.806941;-71.46413;19;19
+13575;Plainfield opp 861 Plainfield;41.808222;-71.463385;19;20
+55285;Plainfield opp Neutaconkanut Recreation Center;41.810903;-71.461998;19;21
+14130;Plainfield before Daniel;41.812355;-71.460281;19;22
+14205;Plainfield opp Merino;41.81283;-71.457673;19;23
+14300;Plainfield after Rye;41.813287;-71.454278;19;24
+14310;Plainfield opp Dewey;41.813532;-71.452358;19;25
+14345;Plainfield before Webster;41.813611;-71.450968;19;26
+14350;Plainfield after Pocasset;41.813941;-71.447647;19;27
+14470;Plainfield before Pilsudski;41.814852;-71.446447;19;28
+71000;Plainfield after Atwood;41.816184;-71.444622;19;29
+14655;Westminster after Manton;41.816645;-71.442574;19;30
+72330;Westminster at 1834 Westminster;41.816212;-71.440336;19;31
+14535;Westminster Midblock Rt 10;41.815767;-71.437746;19;32
+14615;Westminster before Parade;41.816246;-71.433725;19;33
+14685;Westminster before Harrison;41.816735;-71.429806;19;34
+14800;Westminster opp Knight;41.817116;-71.425997;19;35
+14835;Westminster before Cranston;41.817289;-71.422866;19;36
+14950;Westminster opp Providence School Department;41.817798;-71.421032;19;37
+15000;Westminster before John J Partington;41.818589;-71.419261;19;38
+15285;E Franklin before Washington;41.819907;-71.418431;19;39
+15610;Washington before Greene;41.821126;-71.417253;19;40
+72100;Washington before Clemence;41.823231;-71.414454;19;41
+16435;Kennedy Plaza (Stop C);41.824873;-71.411466;19;42
+12120;Dyer before Chestnut Hill;41.795707;-71.457319;18;1
+29215;Chestnut Hill at 116 Chestnut Hill;41.795859;-71.455072;18;2
+59825;Laurel Hill opp Cliff;41.797182;-71.452351;18;3
+12560;Laurel Hill after Elwyn;41.798533;-71.452277;18;4
+12735;Laurel Hill before Argyle;41.800281;-71.452139;18;5
+12795;Laurel Hill after Wales;41.801306;-71.452015;18;6
+12965;Laurel Hill after Heather;41.80302;-71.451955;18;7
+13120;Laurel Hill before Wakefield;41.804054;-71.451888;18;8
+13360;Laurel Hill before Union;41.805878;-71.452174;18;9
+13365;Union before Terrace;41.806183;-71.450167;18;10
+13415;Union before Webster;41.806767;-71.447699;18;11
+13480;Union opp Priscilla;41.807256;-71.445845;18;12
+13585;Union opp Cumerford;41.808006;-71.442975;18;13
+13695;Union after Linwood;41.809;-71.439278;18;14
+13870;Ellery before Rosedale;41.810339;-71.43821;18;15
+14025;Chapin before Messer;41.811766;-71.435778;18;16
+14015;Cranston after Parade;41.811908;-71.430821;18;17
+14230;Cranston before Harrison;41.812982;-71.428786;18;18
+14435;Cranston before Dodge;41.814467;-71.425921;18;19
+14475;Cranston at 57 Cranston;41.816369;-71.423389;18;20
+14950;Westminster opp Providence School Department;41.817798;-71.421032;18;21
+15000;Westminster before John J Partington;41.818589;-71.419261;18;22
+15285;E Franklin before Washington;41.819907;-71.418431;18;23
+15610;Washington before Greene;41.821126;-71.417253;18;24
+72100;Washington before Clemence;41.823231;-71.414454;18;25
+16590;Kennedy Plaza (Stop I);41.825429;-71.411248;18;26
+8035;Jefferson after Bay State;41.738297;-71.439628;14-newport;1
+7925;Jefferson after Service;41.736482;-71.440274;14-newport;2
+7860;Jefferson at 443 Jefferson;41.735388;-71.440718;14-newport;3
+7690;Jefferson at 555 Jefferson;41.732704;-71.441609;14-newport;4
+7600;Jefferson before Quimby;41.731359;-71.442128;14-newport;5
+7430;Jefferson after Thurber;41.72841;-71.443196;14-newport;6
+7385;Jefferson Opposite 700 Jefferson;41.727256;-71.443624;14-newport;7
+7235;Jefferson / Brownell;41.72485;-71.444538;14-newport;8
+7025;Jefferson opp 1000 Jefferson;41.721345;-71.445834;14-newport;9
+6885;Jefferson / Williamsburg;41.719553;-71.446465;14-newport;10
+6750;Jefferson opp Thrift Store;41.717416;-71.447132;14-newport;11
+58290;Jefferson before Echo;41.715019;-71.447807;14-newport;12
+6360;Jefferson after Echo;41.713408;-71.448385;14-newport;13
+6205;Jefferson before Gillmore;41.71233;-71.448791;14-newport;14
+6335;CCRI (Warwick Campus);41.712279;-71.480109;14-newport;15
+5930;Commonwealth at 400 Commonwealth;41.708272;-71.484494;14-newport;16
+5785;Tollgate after Hilary;41.706366;-71.481785;14-newport;17
+5715;Tollgate opp Kent Hospital;41.705063;-71.479111;14-newport;18
+5505;Tollgate after Craig;41.702769;-71.4747;14-newport;19
+5330;Tollgate at 250 Tollgate;41.701448;-71.471762;14-newport;20
+5205;Tollgate opp Emily;41.700128;-71.467716;14-newport;21
+72685;Tollgate before Centerville;41.698666;-71.465088;14-newport;22
+55745;Veterans Memorial before Greenwich;41.698928;-71.46183;14-newport;23
+5140;Post after Centerville;41.698343;-71.459964;14-newport;24
+27225;Post at 3399 Post;41.696412;-71.459086;14-newport;25
+58495;Post at 3445 Post;41.695466;-71.458247;14-newport;26
+4945;Post opp Brand;41.693736;-71.456644;14-newport;27
+4765;Post after Robin Hill;41.690778;-71.456403;14-newport;28
+4645;Post before Shenadoah;41.688814;-71.455842;14-newport;29
+4580;Post at 3791 Post;41.686872;-71.454709;14-newport;30
+4500;Post after Valentine;41.685612;-71.453747;14-newport;31
+4465;Post before Island View;41.684262;-71.452354;14-newport;32
+4400;Post opp 4060 Post;41.680266;-71.449851;14-newport;33
+4335;Post after Crestwood;41.679097;-71.449273;14-newport;34
+4260;Post at Highpoint;41.676914;-71.448622;14-newport;35
+4205;Post before Wolverstone;41.67447;-71.448359;14-newport;36
+58505;Post at 4365 Post;41.672067;-71.448136;14-newport;37
+27230;Post before Hesper;41.669111;-71.448835;14-newport;38
+4055;Post at 4575 Post;41.666283;-71.450005;14-newport;39
+4015;Main after Post;41.663729;-71.450203;14-newport;40
+3920;Main after Church;41.661607;-71.450069;14-newport;41
+3885;Main before Pierce;41.658975;-71.450268;14-newport;42
+3840;Main opp Union;41.65792;-71.451392;14-newport;43
+3805;Main opp Bridge;41.656881;-71.452515;14-newport;44
+3765;Main before First;41.655688;-71.453711;14-newport;45
+3740;Main before Third;41.654247;-71.454834;14-newport;46
+3720;Main before Sixth;41.652498;-71.456194;14-newport;47
+3695;Main after 1003 Main;41.650827;-71.457636;14-newport;48
+3665;Post before 5329 Post;41.64847;-71.459995;14-newport;49
+3650;Post after Crossways;41.647525;-71.461489;14-newport;50
+3640;Post before Overfield;41.645988;-71.463324;14-newport;51
+3635;Post after Victory;41.643158;-71.46582;14-newport;52
+3642;Post at 5627 Post;41.641867;-71.467425;14-newport;53
+3637;Post after Grandview;41.639686;-71.468924;14-newport;54
+3620;Post at 5805 Post;41.637544;-71.468649;14-newport;55
+3615;Post before Franklin;41.635591;-71.46826;14-newport;56
+3605;Post after Frenchtown;41.633667;-71.468373;14-newport;57
+3595;Post opp Jts Building Supply;41.632251;-71.466835;14-newport;58
+3555;Post at 6145 Post;41.62958;-71.46335;14-newport;59
+3525;Post opp Essex;41.627417;-71.461362;14-newport;60
+3435;Post opp Peachtree;41.62153;-71.458508;14-newport;61
+3375;Post after Kingstown Plaza Entrance;41.616003;-71.457993;14-newport;62
+3295;Post at 6851 Post;41.611185;-71.457249;14-newport;63
+3250;Post before Devils Foot;41.607346;-71.455929;14-newport;64
+70210;Gate at Kohls;41.605761;-71.451412;14-newport;65
+70205;Gate at Iafrate;41.605977;-71.449669;14-newport;66
+58140;Gate after Sams Circle;41.60565;-71.447153;14-newport;67
+3250;Post before Devils Foot;41.607346;-71.455929;14-newport;68
+3180;Post at 7277 Post;41.600791;-71.454867;14-newport;69
+73170;Post after Morningside Dr;41.597177;-71.455493;14-newport;70
+3115;7565 Post;41.592485;-71.45684;14-newport;71
+3085;Post before Oakdale;41.590321;-71.457545;14-newport;72
+3045;Post opp 7760 Post;41.586856;-71.45845;14-newport;73
+3010;Post before Huling;41.58539;-71.458818;14-newport;74
+2935;Post before Intrepid;41.577912;-71.460353;14-newport;75
+2925;Post before Juniper;41.575742;-71.461147;14-newport;76
+2900;Post after Summit View;41.572507;-71.462092;14-newport;77
+58525;Post opp 130 Post;41.570774;-71.461408;14-newport;78
+58530;Post at 209 Post;41.5689;-71.461813;14-newport;79
+70220;Phillips at 320 Phillips;41.566098;-71.462826;14-newport;80
+58540;Phillips opp Boone;41.56766;-71.456948;14-newport;81
+2780;Boston Neck at 45 Boston Neck;41.567678;-71.451148;14-newport;82
+70600;Rt 1A & Rt 138 Park & Ride;41.527039;-71.425481;14-newport;83
+2361;Tashtassuck after Helm;41.525593;-71.385276;14-newport;84
+57405;North at 83 North;41.500844;-71.374775;14-newport;85
+72180;North before Watson;41.49815;-71.374706;14-newport;86
+1505;North at 1 North;41.496551;-71.374702;14-newport;87
+1495;Narragansett after Howland;41.496193;-71.371722;14-newport;88
+57510;Narragansett after Green;41.496246;-71.36939;14-newport;89
+1526;Conanicus after Narragansett;41.496596;-71.367009;14-newport;90
+1745;Conanicus before Mt Hope;41.504757;-71.364472;14-newport;91
+58575;Farewell after Long Lane;41.499051;-71.317134;14-newport;92
+1381;Newport Transit Center (Stop D);41.491792;-71.317643;14-newport;93
+72170;Kennedy Plaza (Stop Z);41.826001;-71.4117;14-narragansett;1
+8770;Jefferson before Cypress;41.752742;-71.435568;14-narragansett;2
+8710;Jefferson before Chestnut;41.75085;-71.435047;14-narragansett;3
+8610;Jefferson before Maple;41.748899;-71.43576;14-narragansett;4
+8365;Jefferson opp 100 Jefferson;41.745986;-71.436824;14-narragansett;5
+8230;Jefferson before Lincoln;41.742724;-71.437983;14-narragansett;6
+8145;Jefferson at 245 Jefferson;41.741114;-71.438565;14-narragansett;7
+8105;Jefferson before Vermont;41.739851;-71.439109;14-narragansett;8
+8035;Jefferson after Bay State;41.738297;-71.439628;14-narragansett;9
+7925;Jefferson after Service;41.736482;-71.440274;14-narragansett;10
+7860;Jefferson at 443 Jefferson;41.735388;-71.440718;14-narragansett;11
+7690;Jefferson at 555 Jefferson;41.732704;-71.441609;14-narragansett;12
+7600;Jefferson before Quimby;41.731359;-71.442128;14-narragansett;13
+7430;Jefferson after Thurber;41.72841;-71.443196;14-narragansett;14
+7385;Jefferson Opposite 700 Jefferson;41.727256;-71.443624;14-narragansett;15
+7235;Jefferson / Brownell;41.72485;-71.444538;14-narragansett;16
+7025;Jefferson opp 1000 Jefferson;41.721345;-71.445834;14-narragansett;17
+6885;Jefferson / Williamsburg;41.719553;-71.446465;14-narragansett;18
+6750;Jefferson opp Thrift Store;41.717416;-71.447132;14-narragansett;19
+58290;Jefferson before Echo;41.715019;-71.447807;14-narragansett;20
+6360;Jefferson after Echo;41.713408;-71.448385;14-narragansett;21
+6205;Jefferson before Gillmore;41.71233;-71.448791;14-narragansett;22
+6335;CCRI (Warwick Campus);41.712279;-71.480109;14-narragansett;23
+5930;Commonwealth at 400 Commonwealth;41.708272;-71.484494;14-narragansett;24
+5785;Tollgate after Hilary;41.706366;-71.481785;14-narragansett;25
+5715;Tollgate opp Kent Hospital;41.705063;-71.479111;14-narragansett;26
+5505;Tollgate after Craig;41.702769;-71.4747;14-narragansett;27
+5330;Tollgate at 250 Tollgate;41.701448;-71.471762;14-narragansett;28
+5205;Tollgate opp Emily;41.700128;-71.467716;14-narragansett;29
+72685;Tollgate before Centerville;41.698666;-71.465088;14-narragansett;30
+55745;Veterans Memorial before Greenwich;41.698928;-71.46183;14-narragansett;31
+5140;Post after Centerville;41.698343;-71.459964;14-narragansett;32
+27225;Post at 3399 Post;41.696412;-71.459086;14-narragansett;33
+58495;Post at 3445 Post;41.695466;-71.458247;14-narragansett;34
+4945;Post opp Brand;41.693736;-71.456644;14-narragansett;35
+4765;Post after Robin Hill;41.690778;-71.456403;14-narragansett;36
+4645;Post before Shenadoah;41.688814;-71.455842;14-narragansett;37
+4580;Post at 3791 Post;41.686872;-71.454709;14-narragansett;38
+4500;Post after Valentine;41.685612;-71.453747;14-narragansett;39
+4465;Post before Island View;41.684262;-71.452354;14-narragansett;40
+4400;Post opp 4060 Post;41.680266;-71.449851;14-narragansett;41
+4335;Post after Crestwood;41.679097;-71.449273;14-narragansett;42
+4260;Post at Highpoint;41.676914;-71.448622;14-narragansett;43
+4205;Post before Wolverstone;41.67447;-71.448359;14-narragansett;44
+58505;Post at 4365 Post;41.672067;-71.448136;14-narragansett;45
+27230;Post before Hesper;41.669111;-71.448835;14-narragansett;46
+4055;Post at 4575 Post;41.666283;-71.450005;14-narragansett;47
+4015;Main after Post;41.663729;-71.450203;14-narragansett;48
+3920;Main after Church;41.661607;-71.450069;14-narragansett;49
+3885;Main before Pierce;41.658975;-71.450268;14-narragansett;50
+3840;Main opp Union;41.65792;-71.451392;14-narragansett;51
+3805;Main opp Bridge;41.656881;-71.452515;14-narragansett;52
+3765;Main before First;41.655688;-71.453711;14-narragansett;53
+3740;Main before Third;41.654247;-71.454834;14-narragansett;54
+3720;Main before Sixth;41.652498;-71.456194;14-narragansett;55
+3695;Main after 1003 Main;41.650827;-71.457636;14-narragansett;56
+3665;Post before 5329 Post;41.64847;-71.459995;14-narragansett;57
+3650;Post after Crossways;41.647525;-71.461489;14-narragansett;58
+3640;Post before Overfield;41.645988;-71.463324;14-narragansett;59
+3635;Post after Victory;41.643158;-71.46582;14-narragansett;60
+3642;Post at 5627 Post;41.641867;-71.467425;14-narragansett;61
+3637;Post after Grandview;41.639686;-71.468924;14-narragansett;62
+3620;Post at 5805 Post;41.637544;-71.468649;14-narragansett;63
+3615;Post before Franklin;41.635591;-71.46826;14-narragansett;64
+3605;Post after Frenchtown;41.633667;-71.468373;14-narragansett;65
+3595;Post opp Jts Building Supply;41.632251;-71.466835;14-narragansett;66
+3555;Post at 6145 Post;41.62958;-71.46335;14-narragansett;67
+3525;Post opp Essex;41.627417;-71.461362;14-narragansett;68
+3435;Post opp Peachtree;41.62153;-71.458508;14-narragansett;69
+3375;Post after Kingstown Plaza Entrance;41.616003;-71.457993;14-narragansett;70
+3295;Post at 6851 Post;41.611185;-71.457249;14-narragansett;71
+3250;Post before Devils Foot;41.607346;-71.455929;14-narragansett;72
+70210;Gate at Kohls;41.605761;-71.451412;14-narragansett;73
+70205;Gate at Iafrate;41.605977;-71.449669;14-narragansett;74
+58140;Gate after Sams Circle;41.60565;-71.447153;14-narragansett;75
+3250;Post before Devils Foot;41.607346;-71.455929;14-narragansett;76
+3180;Post at 7277 Post;41.600791;-71.454867;14-narragansett;77
+73170;Post after Morningside Dr;41.597177;-71.455493;14-narragansett;78
+3115;7565 Post;41.592485;-71.45684;14-narragansett;79
+3085;Post before Oakdale;41.590321;-71.457545;14-narragansett;80
+3045;Post opp 7760 Post;41.586856;-71.45845;14-narragansett;81
+3010;Post before Huling;41.58539;-71.458818;14-narragansett;82
+2935;Post before Intrepid;41.577912;-71.460353;14-narragansett;83
+2925;Post before Juniper;41.575742;-71.461147;14-narragansett;84
+2900;Post after Summit View;41.572507;-71.462092;14-narragansett;85
+58525;Post opp 130 Post;41.570774;-71.461408;14-narragansett;86
+58530;Post at 209 Post;41.5689;-71.461813;14-narragansett;87
+70220;Phillips at 320 Phillips;41.566098;-71.462826;14-narragansett;88
+58540;Phillips opp Boone;41.56766;-71.456948;14-narragansett;89
+2780;Boston Neck at 45 Boston Neck;41.567678;-71.451148;14-narragansett;90
+70600;Rt 1A & Rt 138 Park & Ride;41.527039;-71.425481;14-narragansett;91
+2325;Boston Neck before Barbers Heights;41.524298;-71.424082;14-narragansett;92
+60085;Boston Neck after Snuff Mill;41.522244;-71.42384;14-narragansett;93
+2245;Boston Neck after Homestead;41.521254;-71.424046;14-narragansett;94
+60090;Boston Neck opp 2080 Boston Neck;41.519246;-71.424093;14-narragansett;95
+2065;Boston Neck opp Charlotte;41.516749;-71.423412;14-narragansett;96
+1880;Boston Neck after Ferry;41.507661;-71.425119;14-narragansett;97
+1730;Boston Neck before Miner;41.505015;-71.42862;14-narragansett;98
+1660;Boston Neck before Indian;41.502256;-71.43213;14-narragansett;99
+1615;Boston Neck before Riverdell;41.500993;-71.433797;14-narragansett;100
+1545;Boston Neck before Pettaquamscutt Lake;41.497968;-71.436521;14-narragansett;101
+1450;Boston Lake before Edgewater;41.494847;-71.437896;14-narragansett;102
+1400;Boston Neck before Bridgetown;41.492409;-71.43815;14-narragansett;103
+58555;Boston Neck at 1174 Boston Neck;41.490069;-71.437921;14-narragansett;104
+1295;Boston Neck opp 1141 Boston Neck;41.488035;-71.437646;14-narragansett;105
+1245;Boston Neck opp Gardenia;41.485199;-71.437187;14-narragansett;106
+1165;Boston Neck before Mountview;41.483023;-71.436962;14-narragansett;107
+58560;Boston Neck after Wampum;41.481008;-71.436697;14-narragansett;108
+1060;Boston Neck before Conanicus;41.479533;-71.436402;14-narragansett;109
+975;Boston Neck before Emery;41.478025;-71.435953;14-narragansett;110
+890;Boston Neck at 904 Boston Neck;41.475633;-71.435242;14-narragansett;111
+780;Boston Neck after Marian;41.473037;-71.434068;14-narragansett;112
+665;Boston Neck before West Bay;41.469251;-71.433902;14-narragansett;113
+645;Boston Neck at 750 Boston Neck;41.46719;-71.433588;14-narragansett;114
+635;Boston Neck opp Anawan Cliff;41.461219;-71.433642;14-narragansett;115
+565;Boston Neck / Old Boston Neck;41.458531;-71.43584;14-narragansett;116
+525;Boston Neck opp 483 Boston Neck;41.455159;-71.440324;14-narragansett;117
+70230;Boston Neck before Middlebridge;41.453452;-71.442568;14-narragansett;118
+500;Boston Neck after Starr;41.447528;-71.451146;14-narragansett;119
+480;Boston Neck before Castle;41.446273;-71.451315;14-narragansett;120
+465;Boston Neck before Starr Drive W;41.444039;-71.450734;14-narragansett;121
+380;Boston Neck / Wood;41.440427;-71.451033;14-narragansett;122
+305;Boston Neck - North Beach Cabanas Gate 7;41.438178;-71.453131;14-narragansett;123
+295;Boston Neck - North Beach Entrance;41.437274;-71.454592;14-narragansett;124
+255;Boston Neck - North Beach South Pavilion;41.435296;-71.456552;14-narragansett;125
+70235;Narragansett after Boston Neck;41.433942;-71.458111;14-narragansett;126
+58565;Narragansett before Caswell;41.43323;-71.460175;14-narragansett;127
+190;Kingstown after Caswell;41.431088;-71.460146;14-narragansett;128
+140;Boon before Central;41.429057;-71.458806;14-narragansett;129
+120;Boon after Rodman;41.427139;-71.45946;14-narragansett;130
+90;Boon before Congdon;41.425519;-71.460099;14-narragansett;131
+50;Boon opp Perkins;41.424357;-71.46062;14-narragansett;132
+65;S Pier after Summer;41.424603;-71.462071;14-narragansett;133
+80;S Pier before Frank Low;41.425305;-71.463625;14-narragansett;134
+95;S Pier opp 172 S Pier;41.426203;-71.467536;14-narragansett;135
+125;S Pier at Narragansett Middle School;41.427791;-71.472088;14-narragansett;136
+155;S Pier before Lakewood;41.42984;-71.47616;14-narragansett;137
+56980;Point Judith before Salt Pond Plaza;41.429183;-71.480964;14-narragansett;138
+130;Salt Pond Shopping Plaza (Stop & Shop);41.428201;-71.483328;14-narragansett;139
+59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;Qx;1
+72460;Broadway after May;41.881567;-71.377756;Qx;2
+16720;Kennedy Plaza (Stop X);41.825959;-71.412371;Qx;3
+12582;Garfield at Lowes;41.795793;-71.444103;Qx;4
+70805;Stop & Shop (Garfield Street - Cranston);41.795583;-71.444092;Qx;5
+11150;Reservoir before Sprague;41.785342;-71.435594;Qx;6
+11040;Reservoir before Legion;41.783258;-71.438533;Qx;7
+11005;Reservoir before Lambert;41.782552;-71.439453;Qx;8
+10925;Reservoir after Leyden;41.781008;-71.441687;Qx;9
+10830;Reservoir before Calaman;41.779835;-71.443218;Qx;10
+10695;Reservoir before Riverfarm;41.77805;-71.445688;Qx;11
+10530;Reservoir before Lockmere;41.776643;-71.447648;Qx;12
+10415;Reservoir at 989 Reservoir;41.774764;-71.449954;Qx;13
+10310;Reservoir at McDonalds;41.771825;-71.452812;Qx;14
+9955;Reservoir before Rangely;41.769468;-71.455112;Qx;15
+9835;Reservoir after Woodbridge (Chelo's);41.766703;-71.457859;Qx;16
+9400;Midway at Garden City Center;41.762554;-71.457072;Qx;17
+73210;60 Compass Circle;41.604698;-71.464976;Qx;18
+72956;Gate Rd opp Kohl's;41.605559;-71.451342;Qx;19
+73015;Davisville before Thompson;41.615077;-71.421608;Qx;20
+72935;Commerce Park at 370 Commerce Park;41.605127;-71.437466;Qx;21
+72940;Commerce Park after Job Lot Way;41.603884;-71.439361;Qx;22
+72950;Circuit at 51 Circuit;41.59187;-71.433044;Qx;23
+72951;Circuit at 201 Circuit;41.587359;-71.43176;Qx;24
+72952;Circuit at 275 Circuit;41.587566;-71.429386;Qx;25
+72953;Burlingham at Electric Boat;41.589907;-71.428636;Qx;26
+72955;Roger Williams after Belver;41.592126;-71.427834;Qx;27
+72954;Roger Williams And Eccleston;41.589214;-71.417012;Qx;28
+16035;Sabin Midblock RI Convention Center;41.823682;-71.416802;10x;1
+15575;Empire opp Westminster;41.821;-71.415397;10x;2
+15545;Weybosset before Richmond;41.821047;-71.412845;10x;3
+15880;Weybosset opp Eddy;41.82263;-71.41137;10x;4
+16385;Weybosset before Post Office Court;41.824459;-71.409638;10x;5
+16720;Kennedy Plaza (Stop X);41.825959;-71.412371;10x;6
+15495;Hartford at 985 Hartford;41.821079;-71.480976;10x;7
+15680;Hartford opp Borden;41.821961;-71.483927;10x;8
+15750;Hartford before Dix;41.822458;-71.486691;10x;9
+15960;Hartford before Tara;41.823067;-71.48987;10x;10
+15080;Hartford after Elsie;41.823324;-71.493077;10x;11
+16115;Hartford at 1357 Hartford;41.823619;-71.497234;10x;12
+70885;Hartford at I-295;41.827641;-71.51275;10x;13
+17360;Hartford at Trinity Church;41.830778;-71.528791;10x;14
+17330;Hartford after Belfield;41.830359;-71.530992;10x;15
+17275;Hartford before Reservoir;41.829486;-71.53711;10x;16
+17420;Hartford before Earhart;41.8312;-71.54323;10x;17
+17300;Hartford after Corona;41.83186;-71.545336;10x;18
+17790;Hartford after Brown;41.832796;-71.549487;10x;19
+17960;Hartford after Pine Grove;41.833226;-71.553395;10x;20
+18025;Hartford after 2741 Hartford;41.833563;-71.558359;10x;21
+18150;Hartford opp 2828 Hartford;41.834194;-71.561531;10x;22
+18240;Hartford after Hopkins;41.834999;-71.566916;10x;23
+18340;Hartford opp Scituate Village;41.835483;-71.573208;10x;24
+18045;Danielson after 33 Danielson;41.834092;-71.578835;10x;25
+17760;Danielson Midblock Institute;41.832232;-71.582295;10x;26
+17545;Danielson opp Sholes;41.831831;-71.583935;10x;27
+17580;Danielson at 155 Danielson;41.832353;-71.588693;10x;28
+17770;Danielson after North Scituate Fire Dept;41.83287;-71.591366;10x;29
+17705;Danielson Midblock Springbrook;41.832747;-71.601287;10x;30
+17485;Danielson at State Police Complex;41.831913;-71.6041;10x;31
+17486;Danielson after Battey Meetinghouse;41.831301;-71.606475;10x;32
+17555;Danielson after Rockland;41.83196;-71.611727;10x;33
+17556;Danielson before 443 Danielson;41.831699;-71.615239;10x;34
+17520;Danielson at 449 Danielson;41.831575;-71.616911;10x;35
+17295;Danielson at 575 Danielson;41.830655;-71.628416;10x;36
+16920;Danielson before St Mary;41.826874;-71.639343;10x;37
+16960;Danielson before Suddard;41.827734;-71.647668;10x;38
+16961;Danielson after 857 Danielson;41.827388;-71.653399;10x;39
+15685;Danielson before Rt 102;41.825538;-71.669228;10x;40
+15686;Chopmist Hill Fire Station;41.815825;-71.663517;10x;41
+16035;Sabin Midblock RI Convention Center;41.823682;-71.416802;9x;1
+15575;Empire opp Westminster;41.821;-71.415397;9x;2
+15545;Weybosset before Richmond;41.821047;-71.412845;9x;3
+15880;Weybosset opp Eddy;41.82263;-71.41137;9x;4
+16385;Weybosset before Post Office Court;41.824459;-71.409638;9x;5
+16720;Kennedy Plaza (Stop X);41.825959;-71.412371;9x;6
+72900;Citizens Bank Johnston;41.856402;-71.515482;9x;7
+58310;Putnam Pike before Levi Lane;41.870246;-71.521843;9x;8
+22040;Putnam at Apple Valley Mall;41.870232;-71.529326;9x;9
+21835;Stop & Shop (Putnam Pike - Smithfield);41.868633;-71.532351;9x;10
+70800;Commerce before Putnam;41.869416;-71.534554;9x;11
+22005;Putnam opp 458 Putnam;41.870292;-71.534791;9x;12
+22020;Putnam opp Maplecrest;41.870316;-71.54171;9x;13
+22150;Putnam / Pleasant View;41.870961;-71.549715;9x;14
+22170;Putnam at 595 Putnam;41.871427;-71.552353;9x;15
+51125;Putnam after Austin;41.872729;-71.554786;9x;16
+22320;Putnam opp St Phillips School;41.873745;-71.558677;9x;17
+22505;Putnam opp Arthur;41.874688;-71.562163;9x;18
+58315;Putnam opp 668 Putnam;41.875946;-71.565998;9x;19
+58320;Putnam at 711 Putnam;41.876701;-71.568568;9x;20
+22810;Putnam before W Greenville;41.877619;-71.570887;9x;21
+60140;Putnam opp 781 Putnam;41.878918;-71.574405;9x;22
+22840;Putnam before 735 Putnam;41.880604;-71.577826;9x;23
+60145;Putnam at Powder Mill Creamery;41.88199;-71.57946;9x;24
+23490;Putnam opp Lakeside Motel;41.884829;-71.584426;9x;25
+23650;Putnam at 185 Putnam;41.887661;-71.595558;9x;26
+23765;Putnam at Harmony Market Place;41.895079;-71.612363;9x;27
+24040;Putnam before Absalona Hill;41.896208;-71.617391;9x;28
+24060;Putnam before Gentleman Farmer;41.897236;-71.629107;9x;29
+72925;Putnam at 765 Putnam;41.900036;-71.631788;9x;30
+24295;Putnam opp Pinewood Park;41.904951;-71.647324;9x;31
+24330;Putnam at 895 Putnam;41.905214;-71.651517;9x;32
+51140;Putnam after Highland Lake;41.9055;-71.654512;9x;33
+58325;Putnam opp Dunkin Donuts;41.906577;-71.660221;9x;34
+24430;Putnam after Chestnut Hill;41.908684;-71.667703;9x;35
+58330;Putnam opp Radio Tower;41.910059;-71.668163;9x;36
+24440;Putnam after Douglas Hook;41.91279;-71.669082;9x;37
+51145;Rt 102 after Rt 44;41.916166;-71.671487;9x;38
+51095;Rt 102 opp Pine Meadow;41.92128;-71.670457;9x;39
+60150;Rt 102 opp Cross;41.926549;-71.669426;9x;40
+24840;Lapham Farm / Victory;41.94286;-71.658163;9x;41
+58335;Victory Hwy at 545 Victory Hwy;41.944144;-71.655121;9x;42
+24870;Victory Hway / Sandhill;41.947762;-71.648949;9x;43
+58340;Victory Hwy at 849 Victory Hwy;41.949893;-71.648367;9x;44
+58345;Victory Hwy opp 908 Victory Hwy;41.951463;-71.649122;9x;45
+58350;Central at 520 Central;41.957761;-71.656284;9x;46
+24990;Central before Corrie;41.958644;-71.65894;9x;47
+25035;Central after Lynne;41.961144;-71.66346;9x;48
+58360;Main before Chapel;41.965921;-71.676945;9x;49
+25085;Chapel after Main;41.966521;-71.67946;9x;50
+73045;Chapel before Foster;41.967565;-71.682454;9x;51
+58365;Chapel at Sunoco;41.968536;-71.687459;9x;52
+25102;Chapel opp 67 Chapel;41.966879;-71.691109;9x;53
+25010;Main opp Elm;41.960349;-71.700104;9x;54
+58370;Main opp Albee;41.958763;-71.701371;9x;55
+24972;Bridgeway before Sayles;41.957121;-71.70219;9x;56
+70330;Sayles after Bridgeway;41.956494;-71.702677;9x;57
+4940;Warwick Neck between Barton & Meadowview;41.695293;-71.379216;4;1
+5075;Warwick Neck / Crossroad;41.696548;-71.379252;4;2
+5120;Warwick Neck / Studley;41.698329;-71.37976;4;3
+72665;Samuel Gorton after Warwick Neck;41.699508;-71.380684;4;4
+5285;Samuel Gorton / Palmer;41.701141;-71.376072;4;5
+55195;Longmeadow opp Draper;41.704109;-71.373944;4;6
+72470;Tidewater / Longmeadow;41.705996;-71.371295;4;7
+72475;Tidewater after Whipple;41.708386;-71.373265;4;8
+72480;Tidewater after River Vue;41.7114;-71.374942;4;9
+6520;W Shore before Tidewater;41.714579;-71.377327;4;10
+6705;W Shore before Bush;41.716769;-71.375613;4;11
+6815;W Shore at 1026 W Shore;41.718267;-71.376261;4;12
+7010;W Shore after Troy;41.721169;-71.378498;4;13
+72515;W Shore at Woodbury;41.722665;-71.380406;4;14
+7245;W Shore before Allard;41.723958;-71.382405;4;15
+7280;W Shore after Royal;41.724913;-71.383929;4;16
+7340;W Shore / Cambridge;41.726997;-71.387868;4;17
+7445;W Shore at 456 W Shore;41.728531;-71.391317;4;18
+7505;W Shore / Circuit;41.72988;-71.394684;4;19
+7555;W Shore at 314 W Shore;41.730568;-71.396271;4;20
+7605;W Shore / Twin Oak;41.731424;-71.398145;4;21
+7670;W Shore opp Delwood;41.732495;-71.400523;4;22
+7745;W Shore at 50 W Shore;41.733628;-71.404553;4;23
+7765;Warwick at 1543 Warwick;41.734493;-71.407268;4;24
+7915;Warwick before Squantum;41.736386;-71.407941;4;25
+8040;Warwick before Manor;41.73857;-71.408084;4;26
+8150;Warwick before Namquid;41.741137;-71.407827;4;27
+8245;Warwick after Mianonomo;41.743717;-71.407144;4;28
+8305;Narragansett before Stoddard;41.745178;-71.405759;4;29
+8330;Narragansett after Creed;41.745474;-71.403913;4;30
+8370;Narragansett before Kendall;41.746094;-71.399959;4;31
+8445;Narragansett before Spring Green;41.746818;-71.395409;4;32
+8545;Narragansett before Howie;41.748571;-71.391115;4;33
+8585;Narragansett after Parkside;41.748741;-71.387351;4;34
+8640;Narragansett opp Carrie Brown;41.748792;-71.385099;4;35
+8695;Narragansett / Country Club;41.750108;-71.383491;4;36
+8775;Narragansett opp Gillooly;41.752268;-71.383611;4;37
+8900;Narragansett opp Bentley;41.754093;-71.385485;4;38
+8985;Narragansett after 400 Narragansett;41.755304;-71.387681;4;39
+9070;Narragansett after Longwood;41.75675;-71.388619;4;40
+9415;Narragansett after Spring Garden;41.761546;-71.389585;4;41
+9495;Narragansett after E View;41.762532;-71.389821;4;42
+58880;Broad after Shelton;41.766132;-71.390903;4;43
+59950;Broad opp 2131 Broad;41.76735;-71.391503;4;44
+9875;Broad after Circuit;41.768028;-71.391892;4;45
+10075;Broad before Berwick;41.771178;-71.394366;4;46
+10145;Broad before Rosewood;41.772517;-71.395991;4;47
+10390;Broad after Shaw;41.774879;-71.398444;4;48
+10685;Norwood after Broad;41.778068;-71.399879;4;49
+10755;Norwood before Pawtuxet;41.778719;-71.396304;4;50
+10790;Norwood at 90 Norwood;41.779128;-71.394174;4;51
+10890;Narragansett after Grand;41.781005;-71.393224;4;52
+11060;Narragansett before Narragansett St;41.783962;-71.394186;4;53
+11210;Narragansett after Harborside;41.785919;-71.394861;4;54
+11355;Narragansett before Washington;41.787848;-71.395527;4;55
+11555;Allens at 934 Allens;41.789668;-71.396096;4;56
+11680;Allens after Carolina;41.792002;-71.396902;4;57
+12050;Allens opp Ellenfield;41.794334;-71.397665;4;58
+12325;Allens after 642 Allens;41.796985;-71.398597;4;59
+12910;Allens at I-95 North [On-Ramp];41.800844;-71.400272;4;60
+13125;Allens / Lehigh;41.802181;-71.400865;4;61
+13430;Allens / Warren;41.803501;-71.401474;4;62
+13565;Allens opp 253 Allens;41.80724;-71.403114;4;63
+14005;Eddy at Hospital District;41.811233;-71.407055;4;64
+72340;Eddy after South;41.818217;-71.407329;4;65
+72345;Dyer after Ship;41.819679;-71.407948;4;66
+72350;Dorrance before Pine;41.822417;-71.409918;4;67
+16475;Kennedy Plaza (Stop G);41.825058;-71.411761;4;68
+30;Park Row West before Railroad;41.828991;-71.412151;4;69
 4600;Oakland Beach / Suburban;41.686606;-71.398111;3;1
 4655;Oakland Beach at 742 Oakland Beach;41.688743;-71.398102;3;2
 4775;Oakland Beach / Kenway;41.691568;-71.398071;3;3
@@ -306,8 +948,6 @@
 11620;Plainfield before Independence;41.789674;-71.501118;89;25
 59920;Walmart Svc Rd after Citizens Bank;41.789003;-71.500793;89;26
 59915;Walmart (Cranston);41.787536;-71.499027;89;27
-12710;Simmons Village;41.802157;-71.494767;88;1
-59915;Walmart (Cranston);41.787536;-71.499027;88;2
 50830;Diamond Hill (McDonalds);42.015802;-71.471549;87-w;1
 50290;Diamond Hill at Diamond Hill Plaza;42.015216;-71.472045;87-w;2
 72875;Job Lot (Woonsocket);42.013874;-71.471004;87-w;3
