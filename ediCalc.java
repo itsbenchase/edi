@@ -38,9 +38,45 @@ public class ediCalc
     System.out.println("- Eliot");
 
     System.out.println("");
+    agency();
+  }
+
+  public static void agency()
+  {
+    Scanner a = new Scanner(System.in);
     System.out.print("Agency: ");
+
+    // check if valid agency
+    ArrayList<String> agencies = new ArrayList<String>();
+    try
+    {
+      Scanner s = new Scanner(new File("agencies.txt"));
+      while (s.hasNextLine())
+      {
+        String data = s.nextLine();
+        agencies.add(data.substring(0, data.indexOf(";")));
+      }
+    }
+    catch (FileNotFoundException e)
+    {
+      System.out.println("Error.");
+    }
+
     agencyChoice = a.nextLine();
-    edi();
+    boolean actualAgency = false;
+    for (int i = 0; i < agencies.size(); i++)
+    {
+      if (agencies.get(i).equalsIgnoreCase(agencyChoice))
+      {
+        actualAgency = true;
+        edi();
+      }
+    }
+    if (!actualAgency)
+    {
+      System.out.print("Invalid agency. ");
+      agency();
+    }
   }
 
   public static void edi()
