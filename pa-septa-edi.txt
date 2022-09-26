@@ -1,3 +1,595 @@
+954;City Line Loop;40.064401;-74.981369;129;1
+21120;Bristol Pk & Edgewood Av;40.065436;-74.976194;129;2
+21121;Bristol Pk & Tennis Av;40.066486;-74.972769;129;3
+21122;Bristol Pk & Buttonwood Av;40.067479;-74.970941;129;4
+32036;Bristol Pk & Kings Ln;40.069024;-74.968861;129;5
+21124;Bristol Pk & Penn St;40.070348;-74.967185;129;6
+17064;Bristol Pk & Biddle Ln - MBFS;40.071431;-74.965534;129;7
+29631;Bristol Pk & Woodhaven Rd - MBNS;40.072069;-74.964311;129;8
+410;Philadelphia Mills & Marshalls;40.085833;-74.96447;129;9
+17062;Franklin Mills Dr & Knights Rd;40.091495;-74.965356;129;10
+30677;Knights & Mechanicsville Rd - MBNS;40.092745;-74.963029;129;11
+31298;Knights Rd & Franklin Mills Circle;40.095204;-74.959664;129;12
+17061;Knights Rd & Plum Av;40.09768;-74.958003;129;13
+23370;Knights Rd & Lakewood Av;40.099654;-74.956097;129;14
+21127;Knights Rd & Dunks Ferry Rd - FS;40.101307;-74.95411;129;15
+21128;Knights Rd & McKinley Av - FS;40.103067;-74.952264;129;16
+21129;Knights Rd & Street Rd - FS;40.105522;-74.949975;129;17
+21130;Knights Rd & Byberry Rd;40.110804;-74.944898;129;18
+29632;Byberry Rd & Knights Rd - MBFS;40.11028;-74.94328;129;19
+21131;Byberry Rd & Hulmeville Rd - FS;40.108351;-74.936133;129;20
+29633;Byberry Rd & Bridgewater Rd - MBNS;40.108231;-74.930655;129;21
+21132;Byberry Rd & Adams Rd;40.110028;-74.926855;129;22
+21134;Adams Rd & Adams Cr;40.108612;-74.92316;129;23
+21135;Adams Rd & Ford Rd;40.106434;-74.920844;129;24
+29634;Ford Rd & Bridgewater Rd - MBNS;40.10717;-74.926484;129;25
+30711;Ford Rd & Bridgewater Rd;40.107615;-74.928398;129;26
+21138;Bridgewater Rd & Deerfield Dr;40.105936;-74.928067;129;27
+21139;Bridgewater Rd & Winchester Rd;40.102554;-74.925996;129;28
+21141;Bensalem Blvd & Roberts Rd;40.099313;-74.919108;129;29
+21142;Bensalem Blvd & Farley Rd;40.105695;-74.914873;129;30
+28517;Bensalem Blvd & Jason Dr;40.108214;-74.91321;129;31
+21143;Bensalem Blvd & Mt Vernon Rd - FS;40.110662;-74.911559;129;32
+28520;Bensalem Blvd & Portside Dr;40.113217;-74.909931;129;33
+21144;Bensalem Blvd & Flushing Rd;40.114579;-74.909069;129;34
+21145;Bensalem Blvd & Gibson Rd;40.120145;-74.905975;129;35
+1789;Bensalem Blvd & New Falls Rd;40.123539;-74.904316;129;36
+32032;Newportville Rd & Lower Rd - FS;40.123272;-74.900293;129;37
+21147;Newportville Rd & Hazel Rd;40.117543;-74.902703;129;38
+31446;Newportville Rd & Willow Av;40.115373;-74.902435;129;39
+32020;Green Ln & Mitchell Rd;40.127917;-74.854232;129;40
+32031;Crossings Dr & Newportville Rd - 1 MBFS;40.113176;-74.900131;129;41
+32027;Crossings Dr & Frost Rd;40.115263;-74.897524;129;42
+31765;Frost Rd & Sinclair Rd;40.116359;-74.894912;129;43
+21149;Ford Rd & Pearl Buck Rd;40.119235;-74.89115;129;44
+32037;Ford Rd & Wharton Rd;40.121434;-74.885842;129;45
+21152;Rittenhouse Cr 180;40.116751;-74.886387;129;46
+30712;Rittenhouse Circle 200;40.114465;-74.886333;129;47
+28531;Rittenhouse Cr & Wharton Rd;40.116898;-74.883261;129;48
+28308;Veterans Hwy & Rockview Dr - FS;40.111042;-74.879163;129;49
+1784;Bucks County Office Center;40.110267;-74.877323;129;50
+28308;Veterans Hwy & Rockview Dr - FS;40.111042;-74.879163;129;51
+1783;Bristol Park Shopping Center;40.101309;-74.871972;129;52
+28317;Bath St & Howell St;40.10083;-74.862722;129;53
+28318;Bath St & Mifflin St;40.099479;-74.861963;129;54
+1777;Mill St & Old US 13;40.096739;-74.860068;129;55
+30923;Old US 13 & Market St;40.097001;-74.858859;129;56
+30924;Pond St & Mulberry St - MBFS;40.098062;-74.85659;129;57
+21161;Beaver St & Canal St;40.10062;-74.85586;129;58
+1793;Beaver St & Prospect St;40.103627;-74.855611;129;59
+21162;Beaver St & Garden St - MBNS;40.104332;-74.855558;129;60
+21163;Beaver St & 4th St - FS;40.108043;-74.855043;129;61
+28536;Beaver St & Bristol Pk;40.110603;-74.854667;129;62
+21164;Beaver Dam Rd & Schumacher Dr;40.113939;-74.854179;129;63
+21165;Beaver Dam Rd & Lakeland Av;40.116231;-74.853853;129;64
+32025;Beaver Dam Rd & Plymouth Av;40.118995;-74.851238;129;65
+32024;Elwood Av & Green Ln;40.119114;-74.846017;129;66
+32022;Green Ln & N Fleetwing Dr - FS;40.125927;-74.852532;129;67
+32023;Green Ln & Mitchell Rd;40.127898;-74.854043;129;68
+21170;Green Ln & N Fleetwing Dr;40.1296;-74.85532;129;69
+1794;Mill Creek Rd & Green Ln - FS;40.133177;-74.858736;129;70
+21171;Mill Creek Rd & Blue Ridge Pass - FS;40.130171;-74.863141;129;71
+28539;Mill Creek Rd & Bristol-Oxford Valley Rd;40.127759;-74.866676;129;72
+29636;Bristol-Oxford Valley Rd & Brittany Dr;40.130205;-74.868929;129;73
+21172;Bristol Oxford Valley Rd & Border Rock Rd;40.132338;-74.870783;129;74
+21173;Bristol-Oxford Valley Rd & Cinder Ln;40.1366;-74.873816;129;75
+21174;New Falls Rd & Bristol Oxford Valley Rd - FS;40.140757;-74.875347;129;76
+28540;New Falls Rd & Plumbridge Dr;40.139604;-74.877013;129;77
+28541;New Falls Rd & Petunia Rd;40.13846;-74.878739;129;78
+28542;New Falls Rd & Plumtree Rd - MBNS;40.136757;-74.881215;129;79
+21177;New Falls Rd & Veterans Hwy;40.134584;-74.884333;129;80
+32019;New Falls Rd & Veterans Hwy - FS;40.134034;-74.885107;129;81
+21178;New Falls Rd & Durham Rd;40.132393;-74.887511;129;82
+21179;Durham Rd & S Tanglewood Dr - FS;40.133481;-74.889219;129;83
+29638;Durham Rd & Green Meadow Dr;40.139537;-74.890429;129;84
+21181;Durham Rd & Frosty Hollow Rd - FS;40.143756;-74.891842;129;85
+29639;Durham Rd & Hollybrook Rd;40.148835;-74.893888;129;86
+21182;Durham Rd & Sandybrook Dr - MBNS;40.151224;-74.895172;129;87
+31609;Durham Rd & Trenton Rd;40.153926;-74.89668;129;88
+21184;Durham Rd & Delaware Av;40.158192;-74.903008;129;89
+30713;Durham Rd & Woodland Av;40.158465;-74.908465;129;90
+1795;Durham Rd & Lincoln Hwy;40.159207;-74.910923;129;91
+29613;Lincoln Hwy & Linden Av - FS;40.160818;-74.909739;129;92
+29614;Lincoln Hwy & Linden Av - MBFS;40.163324;-74.905031;129;93
+21187;Lincoln Hwy & Highland Park Wy - FS;40.168052;-74.895959;129;94
+21188;Lincoln Hwy & Highland Park Wy - MBFS;40.169836;-74.893553;129;95
+29615;Lincoln Hwy & Highland Park Way - MBNS;40.170876;-74.892384;129;96
+29616;Lincoln Hwy & Woodbourne Rd - MBNS;40.174444;-74.887773;129;97
+28393;Lincoln Hwy & Woodbourne Rd - FS;40.177059;-74.883654;129;98
+31543;Mall Blvd & Lincoln Hwy;40.178783;-74.877718;129;99
+332;Oxford Valley Mall & J C Penney;40.182396;-74.881256;129;100
+1148;69th St Transportation Center South Terminal;39.962079;-75.258284;107;1
+19613;69th St & Ludlow St - FS;39.960893;-75.25896;107;2
+19614;69th St Blvd & Chestnut St;39.959;-75.25848;107;3
+30515;69th St Blvd & Sansom St;39.957893;-75.258211;107;4
+19615;69th St & Walnut St;39.956581;-75.257919;107;5
+32291;Walnut St & Richfield Rd;39.956798;-75.260068;107;6
+32292;Walnut St & Copley Rd;39.957069;-75.262134;107;7
+19194;Long Ln & Bradford Rd;39.955072;-75.264418;107;8
+19104;Long Ln & Pine St;39.953742;-75.263807;107;9
+22187;Marshall Rd & Long Ln - FS;39.952537;-75.263928;107;10
+26123;Marshall Rd & Sherbrook Blvd;39.951487;-75.26628;107;11
+19106;Marshall Rd & Wycombe Av;39.951276;-75.268489;107;12
+19107;Marshall Rd & Braddock Av - FS;39.951137;-75.271441;107;13
+29752;Marshall Rd & Jackson Av;39.950265;-75.273451;107;14
+19108;Marshall Rd & Clearbrook Av;39.949526;-75.275117;107;15
+19110;Marshall Rd & Lincoln Av;39.948485;-75.277529;107;16
+19111;Marshall Rd & Owen Av- FS;39.947541;-75.279727;107;17
+19112;Marshall Rd & Windermere Av;39.946562;-75.282008;107;18
+19113;Marshall Rd & Lakeview Av;39.945939;-75.283462;107;19
+19114;Marshall Rd & Mansfield Av - FS;39.945218;-75.285116;107;20
+31310;Marshall Rd & Eldon Av - FS;39.944159;-75.287657;107;21
+19115;Marshall Rd & Shadeland Av;39.943251;-75.289678;107;22
+19116;Marshall Rd & Sloan St;39.942405;-75.291486;107;23
+2029;Burmont Rd & Marshall Rd - FS;39.941006;-75.293768;107;24
+19117;Burmont Rd & Plumstead Av;39.939872;-75.292884;107;25
+19118;Burmont Rd & Berkley Av;39.938443;-75.291801;107;26
+19119;Burmont Rd & Mary St;39.937183;-75.290764;107;27
+2035;Burmont Rd & Dennison Av;39.936128;-75.289231;107;28
+29766;Dennison Av & Abbey Terrace;39.936305;-75.287153;107;29
+29767;Shadeland Av & Bryn Mawr Av;39.937562;-75.286525;107;30
+20427;Shadeland Av & Berkley Av;39.939741;-75.28776;107;31
+29750;Shadeland & Plumstead Av;39.94151;-75.28876;107;32
+19261;Shadeland Av & Marshall Rd;39.942992;-75.289584;107;33
+19116;Marshall Rd & Sloan St;39.942405;-75.291486;107;34
+2029;Burmont Rd & Marshall Rd - FS;39.941006;-75.293768;107;35
+19127;Garrett Rd & Burmont Rd - FS;39.94417;-75.297705;107;36
+19128;Garrett Rd & Morgan Av;39.943431;-75.299289;107;37
+19129;Garrett Rd & Childs Av;39.941988;-75.301984;107;38
+19130;Westpark Ln & Bishop Av - FS;39.934926;-75.308773;107;39
+19131;Westpark Ln & Grammercy Dr - FS;39.934059;-75.307665;107;40
+19132;Westpark Ln & Crestwood Dr;39.932783;-75.30736;107;41
+31001;Westbrook Dr & Springfield Rd;39.930722;-75.308615;107;42
+19134;Bishop Av & Shipley Ln;39.929538;-75.310777;107;43
+19135;Bishop Av & Delmar Dr;39.927066;-75.310958;107;44
+19136;Baltimore Pk & Bishop Av - FS;39.924852;-75.310195;107;45
+19137;Baltimore Pk & Delmar Dr - FS;39.925697;-75.307643;107;46
+2042;Baltimore Pike & Oak Av - MBNS;39.927014;-75.303462;107;47
+29753;Oak Av & Cambridge Circle;39.926656;-75.302341;107;48
+19138;Oak Av & Broadway Av - FS;39.925048;-75.300999;107;49
+19139;Oak Av & Bunting Ln;39.923404;-75.299916;107;50
+2072;Oak Av & Boro Rd;39.921663;-75.29901;107;51
+19140;Oak Av & Providence Rd - FS;39.919368;-75.297881;107;52
+19141;Oak Av & Green Ln;39.917117;-75.296103;107;53
+19142;Oak Av & Magnolia Av;39.91617;-75.294476;107;54
+19143;Rively Av & Oak Ln - FS;39.914874;-75.292708;107;55
+19145;Beech Av & Madison Av - FS;39.914431;-75.295813;107;56
+19146;Beech Av & Maple Av;39.913808;-75.297218;107;57
+19147;Beech Av & Ashland Av;39.912187;-75.300703;107;58
+19148;Ashland Av & Glenhaven Rd;39.910704;-75.29923;107;59
+19150;Ashland Av & Stratford Rd;39.909587;-75.297816;107;60
+19151;Ashland Av & Garfield Av;39.907943;-75.295778;107;61
+32270;Ashland Av & MacDade Blvd;39.905297;-75.292608;107;62
+9941;MacDade Blvd & Gardner Av;39.904175;-75.294357;107;63
+31402;MacDade Blvd & Knowles Av;39.903409;-75.296081;107;64
+9934;MacDade Blvd & Dalmas Av;39.90218;-75.298727;107;65
+20145;South Av & MacDade Blvd - FS;39.901184;-75.302292;107;66
+19155;South Av & Academy Av;39.903283;-75.303952;107;67
+19159;South Av & Wakefield Dr;39.904239;-75.304671;107;68
+19160;South Av & Grand Av - MBFS;39.906624;-75.306508;107;69
+19161;South Av & Armstrong Av;39.908035;-75.307567;107;70
+19162;South Av & Quaint St - MBFS;39.910204;-75.308307;107;71
+19163;South Av & Copper Beech Ln;39.911713;-75.308765;107;72
+19164;Franklin Av & South Av - MBFS;39.913196;-75.310356;107;73
+19165;Franklin Av & Dale Rd - FS;39.912422;-75.312564;107;74
+19166;Franklin Av & Quaint St;39.911612;-75.314772;107;75
+19168;Franklin Av & Secane Rd - MBFS;39.909751;-75.319897;107;76
+19169;Franklin Av & Amosland Av;39.908415;-75.323216;107;77
+19170;Franklin Av & Kedron Av;39.906837;-75.325555;107;78
+2074;Woodland Av & Morton Av - MBNS;39.907936;-75.32704;107;79
+19171;Woodland Av & School St;39.909928;-75.329339;107;80
+32068;Woodland Av & Walnut St;39.912875;-75.331577;107;81
+19173;Woodland Av & Greenbriar Ln;39.915313;-75.332731;107;82
+19174;Baltimore Pk & Thomson Av - FS;39.915602;-75.3379;107;83
+31863;Baltimore Pk & Church Rd - NS;39.915113;-75.339836;107;84
+31864;Baltimore Pk & Riverview Rd - MBNS;39.914481;-75.342575;107;85
+19177;Baltimore Pk & Chester Rd - FS;39.914054;-75.344771;107;86
+19178;Baltimore Pk & Sproul Rd - MBNS;39.913815;-75.346978;107;87
+2047;Springfield Mall - east;39.914013;-75.350731;107;88
+19179;Sproul Rd & Thomson Av - FS;39.922722;-75.348172;107;89
+19180;Sproul Rd & Gleaves Rd - MBFS;39.928087;-75.350385;107;90
+19181;Sproul Rd & Kennerly Rd;39.929578;-75.351033;107;91
+19182;Sproul Rd & Woodland Av;39.933666;-75.352221;107;92
+19183;Sproul Rd & State Rd - MBNS;39.936111;-75.351439;107;93
+15383;Sproul Rd & Martens Ln - FS;39.939689;-75.349688;107;94
+19184;Sproul Rd & Old Marple Rd - FS;39.942063;-75.349354;107;95
+19187;Sproul Rd & Crum Creek Rd - MBNS;39.953819;-75.352518;107;96
+19188;Reed Rd & Sproul Rd - MBFS;39.958076;-75.352655;107;97
+19190;Parkway Dr & Reed Rd - MBFS;39.960618;-75.349688;107;98
+19191;Parkway Dr & Westbourne Dr - MBNS;39.961466;-75.350915;107;99
+19193;Parkway Dr & Donna Cir;39.963476;-75.352992;107;100
+2093;Lawrence Park Shopping Center;39.962129;-75.354103;107;101
+388;Frankford Transportation Center - Rt 88;40.024223;-75.077949;88-hospital;1
+22335;Bustleton Av & Cheltenham Av - FS;40.027144;-75.07537;88-hospital;2
+22336;Bustleton Av & Van Kirk St;40.028212;-75.074466;88-hospital;3
+326;Bustleton Av & Comly St - FS;40.029915;-75.073642;88-hospital;4
+22337;Bustleton Av & Benner St;40.031252;-75.07302;88-hospital;5
+1107;Bustleton Av & Devereux Av;40.03266;-75.072269;88-hospital;6
+22338;Devereux Av & Leonard St;40.031754;-75.070665;88-hospital;7
+22339;Devereux Av & Farnsworth St;40.03083;-75.06905;88-hospital;8
+22340;Devereux Av & Revere St;40.029924;-75.067412;88-hospital;9
+22341;Devereux Av & Brous Av;40.029071;-75.065785;88-hospital;10
+1108;Battersby St & Devereux Av - FS;40.028262;-75.063826;88-hospital;11
+15831;Battersby St & Harbison Av;40.029214;-75.062947;88-hospital;12
+22342;Battersby St & Levick St;40.030567;-75.061663;88-hospital;13
+22343;Battersby St & Hellerman St;40.031804;-75.060474;88-hospital;14
+22344;Battersby St & Magee St;40.033051;-75.059309;88-hospital;15
+20388;Hawthorne St & Magee Av - FS;40.03234;-75.057504;88-hospital;16
+22345;Hawthorne St & Unruh Av;40.033399;-75.056517;88-hospital;17
+22346;Hawthorne St & Knorr St;40.034654;-75.05534;88-hospital;18
+22347;Hawthorne St & Longshore Av;40.035891;-75.054163;88-hospital;19
+22348;Hawthorne St & Tyson Av;40.037102;-75.05301;88-hospital;20
+22349;Hawthorne St & Princeton Av;40.038357;-75.051833;88-hospital;21
+22350;Hawthorne St & Saint Vincent St;40.039594;-75.050656;88-hospital;22
+1109;Hawthorne St & Cottman Av;40.041258;-75.049051;88-hospital;23
+22352;Cottman Av & Sackett St;40.040513;-75.047565;88-hospital;24
+22351;Rowland Av & Teesdale St;40.039782;-75.045193;88-hospital;25
+22353;Rowland Av & Ryan Av;40.040214;-75.043429;88-hospital;26
+22354;Rowland Av & Aldine St;40.040569;-75.042505;88-hospital;27
+22355;Rowland Av & Vista St;40.041685;-75.040027;88-hospital;28
+22356;Rowland Av & Oakmont St;40.042475;-75.03832;88-hospital;29
+22357;Rowland Av & Sheffield St;40.043308;-75.03653;88-hospital;30
+22358;Rowland Av & Lansing St;40.043919;-75.035155;88-hospital;31
+22359;Rowland Av & Ashville St;40.0447;-75.033531;88-hospital;32
+22360;Rowland Av & Rhawn St;40.045577;-75.031599;88-hospital;33
+22361;Rowland Av & Fuller St;40.046694;-75.029157;88-hospital;34
+22362;Rowland Av & Welsh Rd;40.047961;-75.026335;88-hospital;35
+22363;Welsh Rd & Winchester Av;40.05072;-75.026675;88-hospital;36
+22364;Welsh Rd & Wilson St;40.051918;-75.027058;88-hospital;37
+22365;Welsh Rd & Colfax St;40.054482;-75.027931;88-hospital;38
+1111;Welsh Rd & Holme Av;40.056099;-75.028466;88-hospital;39
+22368;Welsh Rd & Old Ashton Rd - FS;40.057618;-75.028978;88-hospital;40
+22369;Welsh Rd & Tolbut St;40.06064;-75.027896;88-hospital;41
+27758;Welsh Rd & Tolbut St - MBFS;40.061988;-75.028007;88-hospital;42
+22370;Welsh Rd & Michael Rd;40.063238;-75.02813;88-hospital;43
+22371;Welsh Rd & Shipley Rd;40.064747;-75.028275;88-hospital;44
+22372;Welsh Rd & Willits Rd;40.06713;-75.028297;88-hospital;45
+22373;Willits Rd & Dewees St;40.068179;-75.029557;88-hospital;46
+22374;Welsh Rd & Blue Grass Rd;40.070192;-75.031202;88-hospital;47
+22375;Welsh Rd & Leonard St;40.072134;-75.032847;88-hospital;48
+19279;Welsh Rd & Roosevelt Blvd - MBNS;40.073691;-75.034187;88-hospital;49
+27759;Welsh Rd & Roosevelt Blvd - FS;40.07498;-75.035292;88-hospital;50
+22376;Welsh Rd & Nester St;40.076651;-75.035981;88-hospital;51
+22377;Welsh Rd & Old Newtown Rd;40.078992;-75.036654;88-hospital;52
+30221;Welsh Rd & Old Bustleton Av;40.082449;-75.037652;88-hospital;53
+22379;Welsh Rd & Bustleton Av;40.083941;-75.038094;88-hospital;54
+22380;Bustleton Av & Scotchbrook Dr;40.082637;-75.040538;88-hospital;55
+22381;Scotchbrook Dr & Banes St;40.083165;-75.041221;88-hospital;56
+1114;Banes St & Welsh Rd;40.085382;-75.039375;88-hospital;57
+22382;Welsh Rd & Grant Av;40.086939;-75.040692;88-hospital;58
+22384;Grant Av & Northeast Av;40.088466;-75.043902;88-hospital;59
+22385;Welsh Rd & Rising Sun Av;40.091055;-75.046893;88-hospital;60
+22387;Alburger Av & Welsh Rd - MBFS;40.092863;-75.048501;88-hospital;61
+22388;Alburger Av & Verree Rd;40.094735;-75.050601;88-hospital;62
+22389;Alburger Av & Spring View Rd;40.09731;-75.055214;88-hospital;63
+22390;Alburger Av & Darlington Rd;40.097983;-75.059577;88-hospital;64
+27761;Darlington Rd & Flagstaff Rd;40.100146;-75.057329;88-hospital;65
+22392;Darlington Rd & Strafford Dr;40.102538;-75.054524;88-hospital;66
+1115;Darlington Rd & Welsh Rd;40.104226;-75.051923;88-hospital;67
+22394;Welsh Rd & Laramie Rd;40.105889;-75.052743;88-hospital;68
+22395;Pine Rd & Welsh Rd - FS;40.107598;-75.054036;88-hospital;69
+22396;Moreland Rd & Pine Rd - FS;40.106058;-75.058506;88-hospital;70
+22398;Moreland Rd & Winthrop Rd;40.107978;-75.06175;88-hospital;71
+22399;Moreland Rd & Heritage Rd - FS;40.112041;-75.068582;88-hospital;72
+25497;Huntingdon Pk & Welsh Rd;40.114868;-75.070876;88-hospital;73
+1116;Huntingdon Pk & Bethayres Station;40.118009;-75.067546;88-hospital;74
+23718;Huntingdon Pk & Welsh Rd;40.115046;-75.07097;88-hospital;75
+23633;Huntingdon Pk & Moreland Rd;40.114255;-75.072074;88-hospital;76
+22402;Huntingdon Pk & Meadowbrook Dr;40.111651;-75.075898;88-hospital;77
+1117;Huntingdon Pk & Holy Redeemer Hosp - FS;40.10903;-75.080408;88-hospital;78
+388;Frankford Transportation Center - Rt 88;40.024223;-75.077949;88-gregg;1
+22335;Bustleton Av & Cheltenham Av - FS;40.027144;-75.07537;88-gregg;2
+22336;Bustleton Av & Van Kirk St;40.028212;-75.074466;88-gregg;3
+326;Bustleton Av & Comly St - FS;40.029915;-75.073642;88-gregg;4
+22337;Bustleton Av & Benner St;40.031252;-75.07302;88-gregg;5
+1107;Bustleton Av & Devereux Av;40.03266;-75.072269;88-gregg;6
+22338;Devereux Av & Leonard St;40.031754;-75.070665;88-gregg;7
+22339;Devereux Av & Farnsworth St;40.03083;-75.06905;88-gregg;8
+22340;Devereux Av & Revere St;40.029924;-75.067412;88-gregg;9
+22341;Devereux Av & Brous Av;40.029071;-75.065785;88-gregg;10
+1108;Battersby St & Devereux Av - FS;40.028262;-75.063826;88-gregg;11
+15831;Battersby St & Harbison Av;40.029214;-75.062947;88-gregg;12
+22342;Battersby St & Levick St;40.030567;-75.061663;88-gregg;13
+22343;Battersby St & Hellerman St;40.031804;-75.060474;88-gregg;14
+22344;Battersby St & Magee St;40.033051;-75.059309;88-gregg;15
+20388;Hawthorne St & Magee Av - FS;40.03234;-75.057504;88-gregg;16
+22345;Hawthorne St & Unruh Av;40.033399;-75.056517;88-gregg;17
+22346;Hawthorne St & Knorr St;40.034654;-75.05534;88-gregg;18
+22347;Hawthorne St & Longshore Av;40.035891;-75.054163;88-gregg;19
+22348;Hawthorne St & Tyson Av;40.037102;-75.05301;88-gregg;20
+22349;Hawthorne St & Princeton Av;40.038357;-75.051833;88-gregg;21
+22350;Hawthorne St & Saint Vincent St;40.039594;-75.050656;88-gregg;22
+1109;Hawthorne St & Cottman Av;40.041258;-75.049051;88-gregg;23
+22352;Cottman Av & Sackett St;40.040513;-75.047565;88-gregg;24
+22351;Rowland Av & Teesdale St;40.039782;-75.045193;88-gregg;25
+22353;Rowland Av & Ryan Av;40.040214;-75.043429;88-gregg;26
+22354;Rowland Av & Aldine St;40.040569;-75.042505;88-gregg;27
+22355;Rowland Av & Vista St;40.041685;-75.040027;88-gregg;28
+22356;Rowland Av & Oakmont St;40.042475;-75.03832;88-gregg;29
+22357;Rowland Av & Sheffield St;40.043308;-75.03653;88-gregg;30
+22358;Rowland Av & Lansing St;40.043919;-75.035155;88-gregg;31
+22359;Rowland Av & Ashville St;40.0447;-75.033531;88-gregg;32
+22360;Rowland Av & Rhawn St;40.045577;-75.031599;88-gregg;33
+22361;Rowland Av & Fuller St;40.046694;-75.029157;88-gregg;34
+22362;Rowland Av & Welsh Rd;40.047961;-75.026335;88-gregg;35
+22363;Welsh Rd & Winchester Av;40.05072;-75.026675;88-gregg;36
+22364;Welsh Rd & Wilson St;40.051918;-75.027058;88-gregg;37
+22365;Welsh Rd & Colfax St;40.054482;-75.027931;88-gregg;38
+1111;Welsh Rd & Holme Av;40.056099;-75.028466;88-gregg;39
+22366;Holme Av & Arthur St;40.056332;-75.025839;88-gregg;40
+22367;Holme Av & Longford St - FS;40.056364;-75.021936;88-gregg;41
+1112;Holme Av & Pennypack St;40.056346;-75.019346;88-gregg;42
+25904;Holme Av & Willits Rd;40.056352;-75.012936;88-gregg;43
+32472;Willits Rd & Crispin Dr;40.054755;-75.010439;88-gregg;44
+32473;Crispin Dr & Dartmouth Pl;40.053598;-75.01138;88-gregg;45
+32474;Crispin Dr & Harvard Pl;40.052619;-75.012272;88-gregg;46
+32476;Crispin Dr & Pennypack St;40.050264;-75.015278;88-gregg;47
+32477;Pennypack St & Sycamore Dr - FS;40.048518;-75.013739;88-gregg;48
+21843;Frankford Av & Pennypack St - FS;40.048266;-75.012972;88-gregg;49
+21844;Frankford Av & Megargee St - MBFS;40.049084;-75.011926;88-gregg;50
+21845;Frankford Av & Placid St;40.050524;-75.01018;88-gregg;51
+21846;Frankford Av & Tolbut St;40.051404;-75.009063;88-gregg;52
+1227;Frankford Av & Gregg St Loop;40.053917;-75.005394;88-gregg;53
+21969;Frankford Transportation Center - Rt 84;40.023801;-75.076994;84;1
+15803;Bridge St & Darrah St;40.022541;-75.076161;84;2
+15804;Bridge St & Duffield St;40.021547;-75.075102;84;3
+15805;Bridge St & Hawthorne St - FS;40.020786;-75.074432;84;4
+15806;Bridge St & Charles St;40.019668;-75.073492;84;5
+15807;Bridge St & Edrick St - FS;40.018094;-75.072377;84;6
+15808;Bridge St & Cottage St;40.016995;-75.071945;84;7
+15809;Bridge St & Jackson St;40.015967;-75.071548;84;8
+15810;Bridge St & Dittman St;40.014395;-75.070965;84;9
+487;Bridge St & Torresdale Av;40.013332;-75.070568;84;10
+22472;Bridge St & Harbison Av;40.011831;-75.069997;84;11
+22473;Bridge St & Eadom St - FS;40.009785;-75.069404;84;12
+22492;Tacony St & Bridge St - FS;40.008631;-75.068417;84;13
+22496;Tacony St & Fraley St;40.009511;-75.064194;84;14
+22500;Tacony St & Carver St;40.011045;-75.060617;84;15
+22501;Tacony St & Van Kirk St;40.012315;-75.05853;84;16
+1089;Tacony St & Comly St;40.013727;-75.056005;84;17
+22502;Tacony St & Comly St - MBFS;40.014836;-75.053789;84;18
+22504;Tacony St & Devereux St - FS;40.015607;-75.052036;84;19
+22505;Tacony St & Robbins Av;40.016477;-75.050353;84;20
+22508;Milnor St & Levick St;40.01602;-75.047069;84;21
+22510;State Rd & Elbridge St - FS;40.018046;-75.047047;84;22
+22514;State Rd & Magee Av - FS;40.019279;-75.044605;84;23
+22516;State Rd & Unruh Av;40.020015;-75.042994;84;24
+22519;State Rd & Knorr St;40.020569;-75.04026;84;25
+22527;State Rd & Milnor St;40.021829;-75.037807;84;26
+22528;State Rd & Friendship St;40.024255;-75.034543;84;27
+31196;Cottman Av & State Rd - FS;40.026049;-75.031802;84;28
+22532;Cottman Av & Edmund St;40.028555;-75.033845;84;29
+1090;Torresdale Av & Cottman Av - FS;40.030174;-75.034947;84;30
+22533;Torresdale Av & Bleigh Av;40.031416;-75.032505;84;31
+22534;Torresdale Av & Shelmire Av;40.032223;-75.030964;84;32
+22536;Torresdale Av & Sheffield Av;40.033137;-75.029185;84;33
+22540;Torresdale Av & Hartel Av;40.034033;-75.027442;84;34
+22541;Torresdale Av & Decatur St;40.034609;-75.026328;84;35
+22542;Torresdale Av & Rhawn St;40.035159;-75.025273;84;36
+22543;Rhawn St & Tulip St;40.033433;-75.024041;84;37
+1091;Rhawn St & State Rd;40.031782;-75.022373;84;38
+22548;State Rd & Rhawn Corrections - 1 MBFS;40.032516;-75.019353;84;39
+22551;State Rd & Rhawn Corrections - 2 MBFS;40.033803;-75.017052;84;40
+30985;State Rd & Ashburner St - 1 MBNS;40.034637;-75.015557;84;41
+22554;State Rd & Ashburner St - 2 MBNS;40.035542;-75.013932;84;42
+22555;State Rd & Ashburner St;40.036926;-75.011394;84;43
+27731;State Rd & Ashburner St - MBFS;40.03821;-75.008609;84;44
+22556;State Rd & Pennypack St;40.040019;-75.004909;84;45
+27732;State Rd & Pennypack St - MBFS;40.043558;-74.998562;84;46
+1092;State Rd & Linden  Av;40.045892;-74.994539;84;47
+22557;State Rd & Arendell Av;40.046859;-74.992854;84;48
+22558;State Rd & Delaire Rd - FS;40.048438;-74.990101;84;49
+22559;State Rd & Convent Ln;40.04961;-74.988273;84;50
+27733;State Rd & James St;40.05134;-74.985424;84;51
+22560;State Rd & Fitler St;40.051855;-74.984569;84;52
+22561;Grant Av & State Rd - FS;40.05351;-74.983093;84;53
+1093;Grant Av & James St - FS;40.054396;-74.983809;84;54
+22562;Grant Av & Torresdale Av;40.058096;-74.987736;84;55
+7523;Frankford Av & Grant Av - FS;40.060603;-74.989991;84;56
+21876;Frankford Av & Stevenson St;40.061552;-74.988424;84;57
+21877;Frankford Av & Carteret Dr;40.062404;-74.987059;84;58
+1094;Morrell Av & Frankford Av - FS;40.063667;-74.985667;84;59
+22563;Morrell Av & Crestmont Av - MBNS;40.064822;-74.986653;84;60
+22564;Morrell Av & Crown Av;40.067728;-74.988303;84;61
+22566;Morrell Av & Crown Av;40.071546;-74.987605;84;62
+22568;Morrell Av & Keswick Rd;40.074657;-74.989124;84;63
+22570;Keswick Rd & Red Lion Rd;40.075679;-74.987639;84;64
+22571;Red Lion Rd & Waldemire Rd;40.074312;-74.984738;84;65
+27734;Red Lion Rd & Waldemire Rd - MBFS;40.073638;-74.983547;84;66
+27735;Red Lion Rd & Knights Rd - MBNS;40.07266;-74.982205;84;67
+22572;Red Lion Rd & Knights Rd;40.072118;-74.981495;84;68
+22575;Knights Rd & Ellicott Rd;40.074553;-74.979744;84;69
+22576;Knights Rd & Dundee Av;40.075649;-74.979229;84;70
+22936;Kinghts Rd & Dorchester Rd;40.076843;-74.978665;84;71
+22577;Knights Rd & Dorchester Rd - MBFS;40.078616;-74.977944;84;72
+22578;Knights Rd & Chalfont Dr;40.080327;-74.977176;84;73
+22579;Knights Rd & Patrician Dr;40.08135;-74.976152;84;74
+1524;Knights Rd & Lancelot Pl - MBFS;40.083067;-74.974686;84;75
+22581;Knights Rd & Fairdale Rd;40.084376;-74.97366;84;76
+22582;Knights Rd & Woodhaven Rd;40.086645;-74.971871;84;77
+22583;Knights Rd & Woodhaven Rd - FS;40.087926;-74.970609;84;78
+27736;Knights Rd & Liberty Bell Blvd;40.088725;-74.969515;84;79
+22584;Knights Rd & Nanton Dr;40.089871;-74.967911;84;80
+1095;Knights Rd & Franklin Mill Blvd;40.091416;-74.965724;84;81
+22585;Franklin Mills & Design Center Dr;40.090806;-74.965006;84;82
+23734;Franklin Mills & Design Ctr - MBFS;40.089512;-74.964967;84;83
+21118;Franklin Mills & Liberty Bell Blvd;40.088292;-74.965791;84;84
+21117;Phila Mills & Liberty Bell - MBFS;40.086811;-74.96586;84;85
+410;Philadelphia Mills & Marshalls;40.085833;-74.96447;84;86
+22586;Franklin Mills & Design Center Dr;40.090635;-74.964628;84;87
+17062;Franklin Mills Dr & Knights Rd;40.091495;-74.965356;84;88
+22587;Academy Rd & Biscayne Dr - FS;40.092533;-74.966178;84;89
+22588;Academy Rd & Bandon Dr;40.093644;-74.967188;84;90
+22589;Academy Rd & Nanton Dr;40.094791;-74.96853;84;91
+1475;Academy Rd & Torrey Rd;40.096513;-74.970885;84;92
+22590;Academy Rd & Medford Rd;40.096611;-74.975689;84;93
+23736;Byberry Rd & Academy Rd - FS;40.096258;-74.976827;84;94
+22592;Byberry Rd & Medford Rd;40.098394;-74.977677;84;95
+22593;Byberry Rd & Dunks Ferry Rd;40.099136;-74.977992;84;96
+22600;Byberry Rd & Barbary Rd - FS;40.100747;-74.979786;84;97
+22601;Byberry Rd & Thornton Rd;40.102435;-74.981865;84;98
+23739;Byberry Rd & Townsend Rd;40.103663;-74.983277;84;99
+22602;Townsend Rd & Byberry Rd - MBFS;40.104479;-74.982018;84;100
+23054;Townsend Rd & Old Townsend Rd;40.105392;-74.980047;84;101
+22603;Townsend Rd & McNulty Rd;40.106813;-74.978098;84;102
+22604;McNulty Rd & Commerce Way;40.1089;-74.980144;84;103
+22605;McNulty Rd & Black Lake Pl;40.10974;-74.983002;84;104
+10485;McNulty Rd & Southampton Rd;40.109717;-74.986601;84;105
+1476;Southhampton Rd & Roosevelt - MBNS;40.112726;-74.986878;84;106
+1096;Southhampton Rd & Roosevelt Blvd - FS;40.114695;-74.988392;84;107
+31092;Southhampton Rd & Roosevelt Blvd - MBFS;40.115663;-74.989546;84;108
+27738;Southampton Rd & Arbours Way;40.116613;-74.990701;84;109
+1487;Southampton Rd & Carter Rd;40.118675;-74.99341;84;110
+22606;Southampton Rd & Endicott St;40.119922;-74.995131;84;111
+22607;Southampton Rd & London Rd;40.120783;-74.996345;84;112
+22608;Southampton Rd & Kovats Dr;40.122299;-74.998632;84;113
+23324;Southampton Rd & Theresa Dr;40.123278;-75.000248;84;114
+20375;Worthington Rd & Southampton Rd - FS;40.123872;-75.001913;84;115
+22609;Worthington Rd & Napier St;40.122316;-75.003438;84;116
+22610;Worthington Rd & Michelle Dr;40.12139;-75.004343;84;117
+22611;Worthington Rd & Lindenhurst St;40.120056;-75.005665;84;118
+22612;Worthington Rd & Byberry Rd;40.118722;-75.006998;84;119
+22613;Byberry Rd & Stevens Rd;40.11988;-75.00898;84;120
+22614;Byberry Rd & Kelvin Av;40.120696;-75.010348;84;121
+22615;Byberry Rd & Lindsay St;40.121495;-75.011729;84;122
+22616;Byberry Rd & Proctor Rd;40.122294;-75.013062;84;123
+22617;Byberry Rd & Lewis St;40.122958;-75.014182;84;124
+22618;Byberry Rd & Depue Av;40.125014;-75.017662;84;125
+22619;Byberry Rd & Audubon - MBFS;40.127204;-75.021343;84;126
+22620;Byberry Rd & Blakeslee Dr;40.128236;-75.023089;84;127
+22621;Philmont Av & Byberry Rd - FS;40.129338;-75.024314;84;128
+22622;Philmont Av & Cardella St;40.129238;-75.021059;84;129
+22623;Philmont Av & Erwin St;40.12997;-75.018392;84;130
+22624;Philmont Av & Napier St;40.130447;-75.016838;84;131
+22625;Philmont Av & Barcalow St;40.130816;-75.015119;84;132
+30819;Philmont Av & Overhill Av;40.131613;-75.013126;84;133
+26143;Bustleton Av & Southampton Rd;40.132935;-75.010845;84;134
+26144;Bustleton Av & Southampton Rd - MBFS;40.133602;-75.009989;84;135
+1097;County Line Rd & Bustleton Av - FS;40.134851;-75.009792;84;136
+31308;Oregon Av & Broad St;39.916762;-75.171603;68;1
+5140;Broad St & Bigler St;39.914398;-75.172013;68;2
+17203;Broad St & Pollack St;39.913194;-75.17243;68;3
+30188;Packer Av & Broad St - FS;39.911524;-75.171787;68;4
+29446;Packer Av & 13th St;39.91137;-75.170513;68;5
+29432;10th St & Packer Av - FS;39.911225;-75.165473;68;6
+24617;10th St & Bigler St;39.913224;-75.165066;68;7
+986;10th St & Oregon Av;39.915775;-75.164501;68;8
+24360;Oregon Av & 11th St;39.91626;-75.165975;68;9
+24361;Oregon Av & 12th St;39.916451;-75.167532;68;10
+24362;Oregon Av & 13th St;39.916659;-75.16909;68;11
+103;Oregon Av & Broad St;39.916922;-75.171166;68;12
+24618;Moyamensing Av & 15th St;39.916846;-75.172972;68;13
+24619;Moyamensing Av & 16th St;39.916242;-75.174662;68;14
+24620;Moyamensing Av & 17th St;39.915718;-75.175998;68;15
+15402;Moyamensing Av & 18th St;39.914821;-75.17822;68;16
+21212;Moyamensing Av & 19th St;39.914306;-75.17952;68;17
+988;Moyamensing Av & 20th St;39.913383;-75.181754;68;18
+29433;Penrose Av & 20th St - FS;39.912538;-75.183161;68;19
+30189;Penrose Av & Hartranft St;39.910713;-75.185705;68;20
+29434;Penrose Av & Pattison Av;39.907856;-75.189857;68;21
+29922;26th St & Tastykake - 1;39.898474;-75.193228;68;22
+31590;26th St & Tastykake - 2;39.895812;-75.191844;68;23
+31591;26th St & Tastykake - 3;39.898536;-75.193098;68;24
+29434;Penrose Av & Pattison Av;39.907856;-75.189857;68;25
+29439;Island Av & Penrose Av - MBFS;39.888467;-75.233187;68;26
+30190;Island Av & Escort Av - MBNS;39.886466;-75.232084;68;27
+31475;Island Av & Escort Av;39.883965;-75.230864;68;28
+29440;Island Av & Escort Av - MBFS;39.882518;-75.230172;68;29
+29441;Enterprise Av & Executive Av;39.882165;-75.226633;68;30
+30362;Hog Island Rd & Corporate Aviation - Gate #1;39.864499;-75.235293;68;31
+19679;Hog Island Rd & UPS Employment - FS;39.861966;-75.242247;68;32
+30360;UPS Customer Center - Gate #3;39.859775;-75.24552;68;33
+811;Hog Island Rd at UPS Lot;39.858096;-75.257023;68;34
+29448;Tinicum Island Rd & Stevens Dr;39.864553;-75.274475;68;35
+19545;1000 Tinicum Island Rd;39.870136;-75.27083;68;36
+30867;Tinicum Island Rd & Scott Way - MBNS;39.874682;-75.26688;68;37
+19546;Tinicum Island Rd & Scott Way;39.873472;-75.262884;68;38
+19549;Bartram Av & 90th St;39.88503;-75.25015;68;39
+19550;89th St & Bartram Av - FS;39.886027;-75.24885;68;40
+617;PNC Center;39.886344;-75.246006;68;41
+32120;Tinicum Blvd & 86th St - MBFS;39.888717;-75.244879;68;42
+30159;Bartram Av & 84th St - MBNS;39.890732;-75.244012;68;43
+29438;Bartram Av & 84th St - MBFS;39.893154;-75.239806;68;44
+29457;Holstein Av & Bartram Av - FS;39.896187;-75.233485;68;45
+32121;Holstein Av & 78th St;39.898006;-75.232264;68;46
+32122;Holstein Av & 76th St;39.900644;-75.229932;68;47
+32123;Holstein Av & 74th St;39.903086;-75.227719;68;48
+32124;70th St & Norwitch Dr;39.907138;-75.227884;68;49
+29392;Lindbergh Blvd & 71st St;39.910232;-75.231877;68;50
+24945;Lindbergh Blvd & 72nd St;39.9091;-75.233025;68;51
+29393;Lindbergh Blvd & 73rd St;39.907924;-75.234102;68;52
+24946;Lindbergh Blvd & 74th St - FS;39.906302;-75.235664;68;53
+29394;Lindbergh Blvd & Suffolk Av - FS;39.904575;-75.238772;68;54
+32125;Island Av & 76th St;39.907203;-75.240984;68;55
+31775;Island Av & Buist Av - 2 bus;39.911293;-75.242578;68;56
+32126;Island Av & Theodore St;39.912444;-75.242953;68;57
+29961;Island Av & Woodland Av;39.917135;-75.246187;68;58
+32127;Cobbs Creek Pkwy & Upland St;39.920732;-75.246579;68;59
+1144;Church Ln & Chester Av - FS;39.926773;-75.246162;68;60
+19590;Church Ln & MacDade Blvd;39.928389;-75.2465;68;61
+19591;Church Ln & Rader Av;39.929399;-75.247171;68;62
+19592;Church Ln & Darnell Av;39.930551;-75.248053;68;63
+19593;Church Ln & Parmley Av;39.932061;-75.249218;68;64
+19594;Church Ln & Guenther Av;39.933339;-75.250183;68;65
+19595;Church Ln & Whitby Av;39.934116;-75.250771;68;66
+19596;Church Ln & Longacre Blvd;39.935456;-75.251795;68;67
+19597;Church Ln & Baily Rd;39.936529;-75.253339;68;68
+19598;Church Ln & Myra Av;39.937897;-75.254989;68;69
+19599;Church Ln & Penn St;39.938871;-75.255777;68;70
+15002;Church Ln & Baltimore Av;39.940942;-75.256056;68;71
+19600;Long Ln & Oak Av - MBNS;39.944709;-75.256377;68;72
+19601;Long Ln & Atlantic Av;39.945665;-75.257567;68;73
+19602;Long Ln & Emerson Av;39.946041;-75.258027;68;74
+19603;Long Ln & Glenwood Av - FS;39.947382;-75.259701;68;75
+19604;Long Ln & Clinton Rd;39.948561;-75.26076;68;76
+19605;Long Ln & Guilford Rd;39.950071;-75.26182;68;77
+19606;Long Ln & Grace Rd;39.951777;-75.263032;68;78
+19607;Grace Rd & Marshall Rd;39.952963;-75.26238;68;79
+19608;Marshall Rd & Hampden Rd;39.95323;-75.26134;68;80
+22106;Marshall Rd & Millbank Rd - FS;39.953451;-75.259899;68;81
+1146;69th Street Blvd & Marshall Rd - FS;39.95419;-75.258503;68;82
+19610;69th St & Walnut St - FS;39.956661;-75.257754;68;83
+29816;69th St & Sansom St;39.957697;-75.257987;68;84
+19611;69th St & Chestnut St;39.958777;-75.258256;68;85
+19612;69th St & Ludlow St;39.961027;-75.258818;68;86
+1148;69th St Transportation Center South Terminal;39.962079;-75.258284;68;87
+220;Arrott Transportation Center;40.016869;-75.084202;59;1
+18072;Penn St & Foulkrod St;40.018708;-75.084324;59;2
+20443;Oxford Av & Harrison St;40.020323;-75.084233;59;3
+20444;Oxford Av & Wakeling St;40.022304;-75.08433;59;4
+11528;Oxford Av & Dyre St;40.024063;-75.084428;59;5
+11552;Oxford Av & Pratt St;40.026206;-75.084796;59;6
+11526;Oxford Av & Bridge St;40.028403;-75.08527;59;7
+20448;Oxford Av & Sanger St;40.030223;-75.084966;59;8
+20445;Oxford Av & Roosevelt Blvd;40.030936;-75.08482;59;9
+20446;Castor Av & Van Kirk St;40.033146;-75.083367;59;10
+20447;Castor Av & Comly St;40.034374;-75.082203;59;11
+5239;Castor Av & Benner St;40.035629;-75.081003;59;12
+5622;Castor Av & Devereaux Av;40.036858;-75.079826;59;13
+5642;Castor Av & Robbins Av;40.038077;-75.078638;59;14
+886;Castor Av & Levick St;40.039306;-75.077461;59;15
+5626;Castor Av & Hellerman St;40.040561;-75.076237;59;16
+20449;Castor Av & Everett Av;40.041771;-75.075084;59;17
+20450;Castor Av & Unruh Av;40.043053;-75.073837;59;18
+5632;Castor Av & Knorr St;40.044281;-75.07266;59;19
+5635;Castor Av & Longshore Av;40.045528;-75.071459;59;20
+5648;Castor Av & Tyson Av;40.046711;-75.070295;59;21
+5641;Castor Av & Princeton Av;40.047993;-75.069082;59;22
+5646;Castor Av & Saint Vincent St;40.049248;-75.067882;59;23
+887;Castor Av & Cottman Av;40.051019;-75.066158;59;24
+20451;Castor Av & Bleigh Av;40.052924;-75.064292;59;25
+20452;Castor Av & Shelmire Av;40.054179;-75.063114;59;26
+20453;Castor Av & Glendale Av;40.055763;-75.061616;59;27
+20454;Castor Av & Napfle Av;40.056644;-75.060784;59;28
+20455;Castor Av & Hartel Av;40.057926;-75.059583;59;29
+20456;Castor Av & Borbeck St;40.059172;-75.058406;59;30
+20457;Castor Av & Loney St;40.060418;-75.057228;59;31
+20458;Castor Av & Rhawn St;40.061655;-75.056063;59;32
+20459;Castor Av & Stanwood St;40.062893;-75.054897;59;33
+20460;Castor Av & Arthur St;40.063498;-75.054326;59;34
+20461;Castor Av & Solly Av;40.064139;-75.05372;59;35
+20462;Castor Av & Hoffnagle St;40.065394;-75.052542;59;36
+30230;Bells Corner Loop;40.066078;-75.051628;59;37
 220;Arrott Transportation Center;40.016869;-75.084202;89;1
 17615;Arrott St & Leiper St;40.017927;-75.086195;89;2
 17616;Arrott St & Oakland St;40.01921;-75.088446;89;3
