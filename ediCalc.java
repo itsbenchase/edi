@@ -1,9 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
-import java.io.IOException;
 
 // the thing that calculates the Eliot Deviation Index
 
@@ -65,7 +63,7 @@ public class ediCalc
         agencies.add(data.substring(0, data.indexOf(";")));
       }
     }
-    catch (FileNotFoundException e)
+    catch (Exception e)
     {
       System.out.println("Error.");
     }
@@ -128,7 +126,7 @@ public class ediCalc
             stops.add(new Stop(id, name, lat, lon));
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }
@@ -236,7 +234,7 @@ public class ediCalc
               stops2.add(new Stop(id, name, lat, lon, line, order));
             }
           }
-          catch (FileNotFoundException e)
+          catch (Exception e)
           {
             System.out.println("Error.");
           }
@@ -258,7 +256,7 @@ public class ediCalc
 
             System.out.println("Line added.");
           }
-          catch (IOException e)
+          catch (Exception e)
           {
             System.out.println("Error.");
           }
@@ -290,7 +288,7 @@ public class ediCalc
             stops.add(new Stop(id, name, lat, lon, line, order));
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }
@@ -351,7 +349,7 @@ public class ediCalc
             stops.add(new Stop(id, name, lat, lon, line, order));
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }
@@ -418,7 +416,7 @@ public class ediCalc
             stops.add(new Stop(id, name, lat, lon, line, order));
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }
@@ -522,7 +520,7 @@ public class ediCalc
             routeEdi.add(ediA);
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error, no EDI list file for agency " + agencyChoice + "."); // expected error if first route
         }
@@ -548,7 +546,7 @@ public class ediCalc
 
           System.out.println("Line added.");
         }
-        catch (IOException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }

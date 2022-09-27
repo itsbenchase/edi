@@ -104,6 +104,7 @@ public class ediCalc
       if (agencyChoice.equalsIgnoreCase("il-cta") && lineChoice.equalsIgnoreCase("hunt"))
       {
         october();
+        break;
       }
 
       if (lineChoice.equalsIgnoreCase("custom"))
@@ -203,7 +204,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
+          Scanner s = new Scanner(new URL("https://edi.benchase.info/" + agencyChoice + "-edi.txt").openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -222,7 +223,7 @@ public class ediCalc
             stops.add(new Stop(id, name, lat, lon, line, order));
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }
@@ -264,7 +265,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
+          Scanner s = new Scanner(new URL("https://edi.benchase.info/" + agencyChoice + "-edi.txt").openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -283,7 +284,7 @@ public class ediCalc
             stops.add(new Stop(id, name, lat, lon, line, order));
           }
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
           System.out.println("Error.");
         }
@@ -377,11 +378,6 @@ public class ediCalc
             theLine[stops.get(i).getOrder() - 1] = stops.get(i);
           }
         }
-      }
-
-      for (int i = 0; i < theLine.length; i++)
-      {
-        System.out.println("- " + theLine[i].getName() + " (" + theLine[i].getID() + ")");
       }
 
       // rolling EDI for each stop added
