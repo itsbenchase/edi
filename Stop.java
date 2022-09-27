@@ -1,14 +1,17 @@
+// Stop class, anything and everything a stop has.
 import java.util.ArrayList;
 
 public class Stop
 {
-  private String id;
-  private String name;
-  private double lat;
-  private double lon;
-  private int order;
-  private String lineEDI;
-  private ArrayList<String> line;
+  private String id; // stop id
+  private String name; // stop name
+  private double lat; // stop latitude
+  private double lon; // stop longitude
+  private int order; // order in line
+  private String lineEDI; // line stop is on
+  private ArrayList<String> line; // not used in EDI (Fixing Fare Zones only)
+
+  // this is a generic class used in both EDI and Fixing Fare Zones.
 
   public Stop(String n, double la, double lo)
   {

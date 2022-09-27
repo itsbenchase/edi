@@ -1,3 +1,4 @@
+// generates routes.html
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
@@ -26,9 +27,10 @@ public class routeList
     }
     catch (FileNotFoundException e)
     {
-      System.out.println("Error 1 - No agencies.txt.");
+      System.out.println("Error, no agencies.txt.");
     }
 
+    // creates page
     try
     {
       File newFile1 = new File("routes.html");
@@ -42,11 +44,13 @@ public class routeList
       fileWriter1.append("<li><a href=calculator.html>Calculator</a></li></ul> \n");
       fileWriter1.append("<h1>Route Listing</h1> \n");
 
+      // listing with links at top
       for (int i = 0; i < agencies.size(); i++)
       {
         fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul>");
       }
 
+      // loop to list routes
       for (int i = 0; i < agencies.size(); i++)
       {
         fileWriter1.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
@@ -55,6 +59,7 @@ public class routeList
         ArrayList<String> routeDisp = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
 
+        // takes routes from /edi folder
         try
         {
           Scanner s = new Scanner(new File("edis/" + agencies.get(i) + ".txt"));
@@ -73,11 +78,12 @@ public class routeList
         }
         catch (FileNotFoundException e)
         {
-          System.out.println("Error 3 - No EDI file (" + agencies.get(i) + ")");
+          System.out.println("Error, no EDI file (" + agencies.get(i) + ")"); // expected error if no routes in database.
         }
 
         fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length (mi)</th><th>Eliot Deviation Index</th></tr> \n");
 
+        // route table created
         for (int j = 0; j < routeCode.size(); j++)
         {
           fileWriter1.append("<tr><td style=color:red>" + routeCode.get(j) + "</td><td>" + routeDisp.get(j) + "</td><td>" + routeEdi.get(j) + "</td></tr> \n");
@@ -90,7 +96,7 @@ public class routeList
     }
     catch (IOException e)
     {
-      System.out.println("Error 2 - Can't save routes.");
+      System.out.println("Error, can't save routes.");
     }
   }
 }

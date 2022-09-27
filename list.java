@@ -1,3 +1,4 @@
+// generates stop listing on website
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
@@ -26,13 +27,14 @@ public class list
     }
     catch (FileNotFoundException e)
     {
-      System.out.println("Error 1 - No agencies.txt.");
+      System.out.println("Error, no agencies.txt.");
     }
 
     int stopCounter = 0; // total amount of stops
 
     for (int i = 0; i < agencies.size(); i++)
     {
+      // creates each agency page
       try
       {
         int agencyStops = 0; // agency stop counter
@@ -56,6 +58,7 @@ public class list
 
         try
         {
+          // port .txt list to webpage
           Scanner s = new Scanner(new File("stops/" + agencies.get(i) + ".txt"));
           while (s.hasNextLine())
           {
@@ -75,7 +78,7 @@ public class list
         }
         catch (FileNotFoundException e)
         {
-          System.out.println("Error 2 - No stop file.");
+          System.out.println("Error, no stop file for " + agencies.get(i) ".");
         }
 
         fileWriter1.append("<table><tr><th>Stop ID</th><th>Stop Name</th><th>Stop Latitude</th><th>Stop Longitude</th></tr> \n");
@@ -94,10 +97,11 @@ public class list
       }
       catch (IOException e)
       {
-        System.out.println("Error 3 - Can't save stops.");
+        System.out.println("Error, can't save stops for " + agencies.get(i) + ".");
       }
     }
 
+    // main stops home page
     try
     {
       File newFile2 = new File("stops.html");
@@ -122,7 +126,7 @@ public class list
     }
     catch (Exception e)
     {
-      System.out.println("Error 4 - Can't create stop home page.");
+      System.out.println("Error, can't create stop home page.");
     }
   }
 }
