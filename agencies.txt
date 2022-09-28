@@ -1,11 +1,14 @@
 ct-9town;9 Town Transit
-ma-bat;Brockton Area Transit Authority
+ny-beeline;Bee-Line Bus System
 ma-brta;Berkshire Regional Transit Authority
+ma-bat;Brockton Area Transit Authority
 ma-cata;Cape Ann Transit Authority
 ma-ccrta;Cape Cod Regional Transit Authority
 il-cta;Chicago Transit Authority
+ny-longbeach;City of Long Beach, New York
 ct-ct;CTtransit
 il-dekalb;DeKalb Public Transit
+ny-dutchess;Dutchess County Public Transit
 ma-frta;Franklin Regional Transit Authority
 ma-gatra;Greater Attleboro-Taunton Regional Transit Authority
 ct-gbt;Greater Bridgeport Transit
@@ -15,9 +18,11 @@ ma-mart;Montachusett Regional Transit Authority
 ma-mbta;Massachusetts Bay Transportation Authority
 ma-mvrta;Merrimack Valley Regional Transit Authority
 ma-mwrta;MetroWest Regional Transit Authority
+ny-mta;Metropolitan Transportation Authority
 ct-mat;Middletown Area Transit
 wi-mcts;Milwaukee County Transit System
 ma-nrta;Nantucket Regional Transit Authority
+ny-nice;Nassau Inter-County Express
 nj-njt;New Jersey Transit
 il-pace;Pace Suburban Bus
 ma-pvta;Pioneer Valley Transit Authority
@@ -26,7 +31,9 @@ pa-prt;Pittsburgh Regional Transit
 ct-seat;South East Area Transit District
 pa-septa;Southeastern Pennsylvania Transportation Authority
 ma-srta;Southeastern Regional Transit Authority
+ny-sct;Suffolk County Transit
 on-thunderbay;Thunder Bay Transit
+ny-tor;Transport of Rockland
 ca-unitrans;Unitrans
 pa-uppermerion;Upper Merion Township
 ma-vta;Vineyard Transit Authority
