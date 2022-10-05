@@ -65,7 +65,7 @@ public class ediCalc
     }
     catch (Exception e)
     {
-      System.out.println("Error.");
+      System.out.println("Error - no agencies.");
     }
 
     agencyChoice = a.nextLine();
@@ -128,7 +128,7 @@ public class ediCalc
         }
         catch (Exception e)
         {
-          System.out.println("Error.");
+          System.out.println("Error. can't load stops");
         }
 
         ArrayList<Stop> stops2 = new ArrayList<Stop>(); // add to EDI list instead
