@@ -488,6 +488,12 @@ public class ediCalc
       // calculate the edi
       double edi = dist / lineDist;
       edi = ((int)(edi * 100)) / 100.00;
+
+      if (edi < 1) // case for the 0.9x
+      {
+        edi = 1.0;
+      }
+
       System.out.println("Eliot Deviation Index: " + edi);
 
       // this is when things get added to site listing
@@ -594,6 +600,12 @@ public class ediCalc
     // calculate the edi
     double edi = dist / lineDist;
     edi = ((int)(edi * 100)) / 100.00;
+
+    if (edi < 1) // case for the 0.9x
+    {
+      edi = 1.0;
+    }
+
     System.out.println(edi + ")");
   }
 }
