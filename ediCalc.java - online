@@ -64,7 +64,7 @@ public class ediCalc
     }
     catch (Exception e)
     {
-      System.out.println("Error.");
+      System.out.println("Error - no agencies.");
     }
 
     agencyChoice = a.nextLine();
@@ -101,12 +101,6 @@ public class ediCalc
 
       Stop [] theLine;
 
-      if (agencyChoice.equalsIgnoreCase("il-cta") && lineChoice.equalsIgnoreCase("hunt"))
-      {
-        october();
-        break;
-      }
-
       if (lineChoice.equalsIgnoreCase("custom"))
       {
         // load in only existing stops
@@ -129,16 +123,13 @@ public class ediCalc
         }
         catch (Exception e)
         {
-          System.out.println("Error.");
+          System.out.println("Error - can't load stops.");
         }
         ArrayList<Stop> custom = new ArrayList<Stop>();
         String customStop = "";
 
         System.out.print("Line Name: ");
         String lineName = in.nextLine();
-        System.out.print("Creator Name: ");
-        String creatorName = in.nextLine();
-        String custLine = creatorName + "-" + lineName;
         
         while (!customStop.equals("-0"))
         {
@@ -157,7 +148,7 @@ public class ediCalc
             System.out.print("New Stop Longitude: ");
             double custLon = in.nextDouble();
 
-            Stop addStop = new Stop(custID, custName, custLat, custLon, custLine, stopCount);
+            Stop addStop = new Stop(custID, custName, custLat, custLon, lineName, stopCount);
 
             stops.add(addStop);
             custom.add(addStop);
@@ -178,7 +169,7 @@ public class ediCalc
               {
                 stopCount++;
                 System.out.println("Added: " + stops.get(i).getName());
-                Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), custLine, stopCount);
+                Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), lineName, stopCount);
                 stops.add(addStop);
                 custom.add(stops.get(i));
                 break;

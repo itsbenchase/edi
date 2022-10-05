@@ -140,7 +140,7 @@
 1704;Airport Rd @ Cherry Rd;39.673430;-75.629448
 231;Airport Rd @ Churchmans Rd;39.677584;-75.625494
 238;Airport Rd @ Churchmans Rd;39.677343;-75.625340
-3697;Airport Rd @ Dmv;39.674815;-75.628258
+3697;Airport Rd @ DMV;39.674815;-75.628258
 1715;Airport Rd @ Edinburgh Dr;39.669742;-75.632877
 1701;Airport Rd @ Mowery Rd;39.681741;-75.621496
 1717;Airport Rd @ Prestwick Dr;39.673293;-75.629326
@@ -249,9 +249,12 @@
 459;Bridgeville Stsc at Mill/cannon St;38.743367;-75.605168
 4077;Broad St @ Church St;39.556814;-75.650814
 4082;Broad St @ Crawford St;39.451067;-75.716968
+4059;Broad St @ Crawford St;39.451245;-75.717238
 4085;Broad St @ Greenlawn Blvd;39.458084;-75.719310
+4056;Broad St @ Greenlawn Blvd;39.456603;-75.719022
 4084;Broad St @ Shallcross Pl;39.453724;-75.717848
-3145;Brookmont Dr oppp Royal Farms;39.622908;-75.687532
+4057;Broad St @ Shallcross Pl;39.453831;-75.718106
+3145;Brookmont Dr opp Royal Farms;39.622908;-75.687532
 3631;Brookmont Farms @ E-z Waymart;39.622527;-75.687431
 1350;Broom St & Lancaster Ave;39.743655;-75.567781
 256;Broom St @ 19th St;39.760186;-75.549385
@@ -288,6 +291,7 @@
 822;Carr Rd opp Hillside Ave;39.785748;-75.486820
 97;Casino at Delaware Park;39.704205;-75.671424
 4078;Catherine St @ Main St;39.449580;-75.712680
+4063;Catherine St @ Main St;39.449758;-75.712494
 2827;Center Dr & Metro Food Mkt;39.170189;-75.515517
 2833;Center Dr & Olive Garden;39.171149;-75.517299
 3207;Center Dr opp Metro Food Market;39.170048;-75.515663
@@ -356,7 +360,7 @@
 279;Chestnut Hill Rd opp Salem Chrh Rd;39.676607;-75.700438
 2354;Chestnut Hill Rd opp Todd Ln;39.673333;-75.706706
 4046;Chestnut St @ River Plaza Shop Ctr;39.663780;-75.566427
-4049;Chestnut St oppp River Plaza Shop Ctr;39.663691;-75.566215
+4049;Chestnut St opp River Plaza Shop Ctr;39.663691;-75.566215
 3385;Childrens Dr @ Rockland Rd;39.782860;-75.554496
 275;Christiana Hospital (Parking Garage);39.689170;-75.669875
 1711;Christiana Mall (Target);39.679634;-75.650307
@@ -375,11 +379,11 @@
 2164;Christiana Rd @ Rambleton Dr;39.664150;-75.622803
 2131;Christiana Rd @ Sally Mae Bldg;39.665164;-75.615020
 1712;Christiana Rd @ Wedgefield Dr;39.662375;-75.644895
+4031;Christiana Rd opp 273 / 7 P & R;39.660714;-75.653994
 2160;Christiana Rd opp Georgetown Apts;39.663292;-75.632586
 2138;Christiana Rd opp Saddlebrook;39.663150;-75.636902
 2166;Christiana Rd opp Sally Mae Bldg;39.664924;-75.614619
 1710;Christiana Rd opp Wedgefield Dr;39.662653;-75.644333
-4031;Christiana Rd oppp 273 / 7 P & R;39.660714;-75.653994
 3243;Christiana Retail Ctr @ Pier 1;39.674893;-75.650165
 3244;Christiana Retail Ctr opp Pier 1;39.674394;-75.650156
 3317;Christiana Town Ctr @ Boscovs;39.668315;-75.664828
@@ -651,6 +655,7 @@
 233;DE 273 & DE 7 Park & Ride;39.661610;-75.654566
 4115;DE 896 / 4 Park & Ride (Outside);39.658152;-75.749942
 180;DE 896 @ DE 4 Park & Ride (Inside);39.657875;-75.750176
+3964;DMV Wilmington;39.714265;-75.564352
 365;Danner Campus @ Deldot Admin Empent;39.147951;-75.503951
 3289;Danner Campus opp Deldot Admin Emp;39.148028;-75.503856
 751;Darley Rd @ Lenape Way;39.806914;-75.456040
@@ -698,7 +703,7 @@
 341;Delaware Ave-new @ Newark Hs Pedx;39.681078;-75.740305
 2434;Delaware Ave-new @ S College Ave;39.681739;-75.751912
 4043;Delaware Park @ Stables;39.707761;-75.661948
-95;Delaware Park oppp Stables;39.707921;-75.662275
+95;Delaware Park opp Stables;39.707921;-75.662275
 4036;Delaware St @ 10th St;39.663770;-75.573202
 4048;Delaware St @ Washington St;39.664013;-75.577531
 4035;Delaware St opp 10th St;39.663948;-75.573155
@@ -723,7 +728,6 @@
 622;Division St opp Kent Av;39.162773;-75.520618
 3436;Division St opp Kirkwood St;39.160331;-75.531489
 3511;Division St opp Ridgly St;39.159373;-75.535631
-3964;Dmv Wilmington;39.714265;-75.564352
 3791;Dover Air Base Visitor Ctr;39.122749;-75.477998
 383;Dover Downs & On Site;39.187624;-75.533479
 4097;Dover High School;39.156947;-75.574702
@@ -801,9 +805,9 @@
 3316;Edinburgh Dr @ Chiming Rd;39.668602;-75.632733
 2201;Edinburgh Dr @ Freeport Rd;39.667847;-75.630449
 2186;Edinburgh Dr @ Frenchtown Rd;39.664269;-75.630001
+2199;Edinburgh Dr opp Bellamy Dr;39.665073;-75.629957
 3319;Edinburgh Dr opp Chiming Rd;39.668647;-75.632545
 2184;Edinburgh Dr opp Freeport Rd;39.667687;-75.630519
-2199;Edinburgh Dr oppp Bellamy Dr;39.665073;-75.629957
 2902;Enterprise Place @ Easter Seals;39.152563;-75.547436
 2012;Erickson Ave @ Becket Ct;39.781429;-75.695981
 3134;Fairplay Station;39.693817;-75.672297
@@ -921,6 +925,7 @@
 2579;Governors Square Shopping Center;39.632967;-75.663826
 3496;Governors Square Shopping Center;39.633583;-75.663593
 4081;Green St @ Broad St;39.448678;-75.716112
+4060;Green St @ Cox St;39.448610;-75.714728
 1124;Greenbank Rd @ Albertson Blvd;39.738551;-75.626367
 2489;Greenbank Rd @ Albertson Blvd;39.738667;-75.626203
 2490;Greenbank Rd @ Greenbank Apt;39.738904;-75.628134
@@ -1634,6 +1639,7 @@
 2009;Old Lancaster Pk opp Wells Fargo;39.786113;-75.693375
 2745;Old North Rd & Caesar Rod Hs;39.118359;-75.542997
 3180;Op York Beach Mall;38.510354;-75.054459
+4095;Opp Eagle Meadows;39.106441;-75.506946
 1385;Orange St @ 2nd St;39.739138;-75.553743
 1386;Orange St @ 4th St;39.740356;-75.552807
 1;Orange St @ 5th St;39.742018;-75.551716
@@ -1753,14 +1759,14 @@
 3748;Plum Dr @ Apple Run;39.065471;-75.531338
 3747;Plum Dr @ Cherry Dr East;39.063467;-75.530538
 204;Polly Drummond Shopping Center;39.718517;-75.709555
-3354;Polytech at Walnut ShaDE Rd;39.073502;-75.547394
+3354;Polytech at Walnut Shade Rd;39.073502;-75.547394
 3216;Port Of Wilmington;39.716930;-75.532390
 562;President Dr @ Bay Rd;39.144190;-75.499348
 88;Prices Corner Park & Ride;39.736854;-75.621993
 105;Prices Corner Park & Ride;39.736132;-75.621803
 2231;Prospect Dr @ Bldg 1258;39.765048;-75.491041
 3268;Public Safety Blvd @ Central Dist;39.150344;-75.510979
-3269;Public Safety Blvd @ Kent Co Ems;39.150439;-75.511122
+3269;Public Safety Blvd @ Kent Co EMS;39.150439;-75.511122
 2890;Queen St & Bank Lane;39.155153;-75.528773
 2889;Queen St & Loockerman St;39.156704;-75.529372
 2891;Queen St & Water St;39.154127;-75.528375
@@ -1768,7 +1774,7 @@
 2863;Queen St @ Queen Manor Apts;39.154706;-75.528406
 3849;Queen St @ Reed St Nb;39.158853;-75.530054
 3780;Queen St @ Reed St Sb;39.158594;-75.530016
-4080;Ramunno Dr @ Ash Blvd;;
+4080;Ramunno Dr @ Ash Blvd;34.459056;-75.728960
 4088;Ramunno Dr @ Lisa La;39.457084;-75.729228
 4089;Ramunno Dr @ Louis La;39.453970;-75.729131
 3722;Ramunno Dr @ Louis Ln;39.453989;-75.728943
@@ -1848,12 +1854,12 @@
 342;S College Ave @ Ped X Amstel Ave;39.680112;-75.753652
 1846;S College Ave @ Ritter Ln;39.672116;-75.753494
 1845;S College Ave @ W Park Pl;39.674044;-75.753575
+4086;S College Ave opp Discovery Blvd;39.663883;-75.752288
 2667;S College Ave opp Four Seasons Pkwy;39.626198;-75.743801
 188;S College Ave opp Friendlys;39.650685;-75.749140
 2606;S College Ave opp Glasgow Hs;39.630845;-75.743973
 181;S College Ave opp Inspiration Blvd;39.666533;-75.752631
 1801;S College Ave opp Ritter Ln;39.671983;-75.753352
-4086;S College Ave oppp Discovery Blvd;39.663883;-75.752288
 2810;S Little Crk Rd & Cntry Village Ap;39.157190;-75.503470
 579;S Little Crk Rd & Roberta Av;39.156935;-75.500636
 375;S Little Crk Rd & Tudor Ind Park;39.156818;-75.498301
@@ -1925,7 +1931,7 @@
 461;Seaford Village SC Roses / Dollar Store;38.660423;-75.596159
 2972;Seaford Village Sc Dialysis Center;38.657265;-75.595965
 2996;Seashore Hwy @ Del Tech;38.698446;-75.404369
-4024;Seashore Hwy oppp Del Tech;38.698473;-75.405228
+4024;Seashore Hwy opp Del Tech;38.698473;-75.405228
 3055;Shipley Rd @ Burnett Dr;39.825628;-75.534460
 2658;Shipley Rd @ Cross Country Rd;39.815726;-75.535575
 3051;Shipley Rd @ Drexel Dr;39.818137;-75.535099
@@ -2048,23 +2054,11 @@
 585;Townsend Blvd & US 13;39.175193;-75.521501
 628;Townsend Blvd Btwn #851&847;39.178103;-75.518666
 2170;Traders La @ Bjs;39.667931;-75.599408
-2126;Traders La oppp Bjs;39.667913;-75.599514
-3277;Transportation Cir @ Dmv;39.148384;-75.507204
-3275;Transportation Cir opp Dmv Admin Bld;39.148588;-75.507056
+2126;Traders La opp Bjs;39.667913;-75.599514
+3277;Transportation Cir @ DMV;39.148384;-75.507204
+3275;Transportation Cir opp DMV Admin Bld;39.148588;-75.507056
 3258;Trinity Church P-n-r & On-site;39.821664;-75.482480
 3881;Tull St at Sussex Ave Meadow Bridge Apts;38.648007;-75.633088
-3332;US40 @ Biddle Ave;39.603660;-75.754333
-308;US40 @ Brookmont Dr;39.621571;-75.687496
-3333;US40 @ Deer Park Plaza;39.603577;-75.758316
-309;US40 @ Glasgow Dr;39.620682;-75.689928
-319;US40 @ Glendale Blvd;39.627923;-75.670043
-3334;US40 @ La Grange Parkway;39.603964;-75.763219
-316;US40 @ Porter Rd;39.618771;-75.694133
-310;US40 @ Salem Church Rd;39.618408;-75.695824
-311;US40 @ Scotland Dr;39.610942;-75.705524
-315;US40 @ Scotland Dr;39.611671;-75.703704
-318;US40 opp Brookmont Dr;39.621322;-75.686949
-320;US40 opp Governors Sq Ent;39.631516;-75.661833
 647;US 9 & Arbys;38.750062;-75.168962
 439;US 9 & DE5;38.724753;-75.286366
 434;US 9 & DE 5;38.724691;-75.286215
@@ -2106,6 +2100,7 @@
 2845;US 13 & Rustic Ln;39.194326;-75.547410
 2776;US 13 & Shamrock Ave;39.119215;-75.534278
 476;US 13 & Smyrna Lepsic Rd;39.290914;-75.596539
+2829;US 13 & Townsend Blvd;39.175441;-75.523333
 3811;US 13 @  opp Jerome Dr;39.217381;-75.573808
 3800;US 13 @ Big Oak Rd;39.269347;-75.588428
 534;US 13 @ Camden Wyoming Ave;39.114683;-75.537057
@@ -2133,15 +2128,16 @@
 3753;US 13 @ Rubeon May Allens Tp;39.034457;-75.561049
 3755;US 13 @ S Erin Ave;39.012258;-75.567724
 3758;US 13 @ Shaw Ave;38.928209;-75.567132
+2846;US 13 @ Smith St;39.197445;-75.551748
 482;US 13 @ Smyrna Lepsic Rd;39.292143;-75.596751
 3564;US 13 @ Spring Meadows Dr;39.249755;-75.587013
 3408;US 13 @ Voshells Mill Rd;39.104297;-75.541291
 3598;US 13 Dovemall @ Back Ent Dovecom;39.191330;-75.538241
-3766;US 13 Opp Rubeon May Dr;39.034417;-75.560572
 3286;US 13 W Rustic Lane;39.193497;-75.546993
 3635;US 13 Walmart Cheswold;39.215987;-75.572733
 3768;US 13 at Crestwood Dr;39.054929;-75.555679
 3767;US 13 at Irish Hill Rd;39.040858;-75.558638
+3765;US 13 at Killens Pond Rd;38.985600;-75.567252
 673;US 13 at Kw Blvd Near Sams Club;39.196365;-75.550944
 3904;US 13 at National Blvd Yoder Overhead Door Co;38.549183;-75.556633
 3355;US 13 at SR 12 Felton;39.005905;-75.569527
@@ -2150,6 +2146,7 @@
 3801;US 13 opp Chestnut St;39.299361;-75.601162
 3751;US 13 opp Crestwood Dr;39.055233;-75.556288
 3501;US 13 opp Elm St and The Sunrise Motel;38.673187;-75.592205
+3766;US 13 opp Rubeon May Dr;39.034417;-75.560572
 2998;US 13 opp Shamrock Ave;39.119868;-75.534543
 2979;US 13A & Sussex Manor Tp;38.611145;-75.597507
 3547;US 13A opp Skate World;38.593994;-75.589230
@@ -2158,34 +2155,47 @@
 2554;US 40 @ Becks Woods Dr;39.616294;-75.699036
 3235;US 40 @ BellwooDE Dr;39.606166;-75.736109
 3624;US 40 @ Best Western Plus Hotel;39.638752;-75.650291
+3332;US 40 @ Biddle Ave;39.603660;-75.754333
 2556;US 40 @ Broadleaf Dr;39.608030;-75.719467
+308;US 40 @ Brookmont Dr;39.621571;-75.687496
 322;US 40 @ Buckley Blvd;39.640308;-75.646839
 2560;US 40 @ Church Rd;39.622759;-75.683046
+3333;US 40 @ Deer Park Plaza;39.603577;-75.758316
 4017;US 40 @ Elizabeth Plaza;39.623674;-75.680741
 2581;US 40 @ Fairwinds Trailer Park;39.644253;-75.639588
 2583;US 40 @ Fir Ave;39.646186;-75.636949
 314;US 40 @ Fox Run Shop Ctr;39.608063;-75.714443
 3470;US 40 @ Glasgow Ave;39.605656;-75.746062
+309;US 40 @ Glasgow Dr;39.620682;-75.689928
+319;US 40 @ Glendale Blvd;39.627923;-75.670043
 3551;US 40 @ Governors Sq Plaza 2;39.630160;-75.665637
 306;US 40 @ Governors Square;39.631317;-75.663102
 2584;US 40 @ Holly Ave;39.644600;-75.639777
+3334;US 40 @ La Grange Parkway;39.603964;-75.763219
 3468;US 40 @ Old Town Hall Ctr;39.624546;-75.679655
 3819;US 40 @ Peoples Plaza West Entrance;39.604209;-75.749635
 3331;US 40 @ Perch Creek Dr;39.603826;-75.764582
+316;US 40 @ Porter Rd;39.618771;-75.694133
 2558;US 40 @ Rickey Blvd;39.608577;-75.710658
 4018;US 40 @ Rockwood Rd;39.625155;-75.677044
+310;US 40 @ Salem Church Rd;39.618408;-75.695824
+311;US 40 @ Scotland Dr;39.610942;-75.705524
+315;US 40 @ Scotland Dr;39.611671;-75.703704
 312;US 40 @ Sunset Lake Rd;39.608324;-75.716177
 2552;US 40 @ Walther Rd;39.627881;-75.671400
 2553;US 40 @ Wellington Dr;39.622684;-75.684401
 4073;US 40 @ Wilton Blvd;39.651759;-75.620622
 2559;US 40 opp Becks Woods;39.614864;-75.700111
 2557;US 40 opp Broadleaf Dr;39.607611;-75.720070
+318;US 40 opp Brookmont Dr;39.621322;-75.686949
 324;US 40 opp Buckley Blvd;39.640477;-75.647264
 2582;US 40 opp Fir Ave;39.646260;-75.636080
 4113;US 40 opp Glasgow Dr;39.619740;-75.691433
+320;US 40 opp Governors Sq Ent;39.631516;-75.661833
 2555;US 40 opp Rickey Blvd;39.608920;-75.710839
 4074;US 40 opp Wilton Blvd;39.650479;-75.622699
 640;US 113 & Georgetown Plaza SC;38.680245;-75.394852
+3592;US 113 / DE 1 @ Spring Hill Dr;38.966882;-75.432225
 3604;US 113 @ Cicadia Ln (Rd 403);38.966060;-75.432348
 3590;US 113 @ Georgetown Professional Plaza;38.704226;-75.402114
 3629;US 113 @ Johnson Rd;38.868489;-75.439590
@@ -2195,7 +2205,6 @@
 3542;US 113 @ Super 8 Motel;38.949277;-75.425918
 3298;US 113 Express Only @ Sr 16;38.807333;-75.438467
 657;US 113 opp Georgetown Plaza;38.680945;-75.394813
-3592;US 113/sr 1 @ Spring Hill Dr;38.966882;-75.432225
 2928;Union St & Magnolia St;38.778696;-75.310969
 2960;Union St & Magnolia St;38.778684;-75.311160
 962;Union St @ 2nd St;39.747726;-75.574146
@@ -2209,9 +2218,6 @@
 3853;Union St at Bay Rd;38.783684;-75.313760
 2195;University Plz @ Burlington Fac;39.666418;-75.669412
 2189;University Plz opp Burlington Fac;39.666561;-75.669366
-2829;Us 13 & Townsend Blvd;39.175441;-75.523333
-3765;Us 13 at Killens Pond Rd;38.985600;-75.567252
-2846;Usrt13 @ Smith St;39.197445;-75.551748
 1599;Van Buren St @ 26th St;39.760888;-75.540630
 1598;Van Buren St @ 28th St;39.761712;-75.538806
 1597;Van Buren St @ 30th St;39.762669;-75.536664
@@ -2340,8 +2346,8 @@
 174;Wilmington Rd @ Meggisson Av;39.674448;-75.561013
 1744;Wilmington Rd opp Baldt Ave;39.671783;-75.560883
 1675;Wilmington Rd opp E 6th St;39.668080;-75.560768
-4050;Wilmington Tc (Inside);39.737157;-75.549397
-4051;Wilmington Tc (Outside);39.737398;-75.549716
+4050;Wilmington TC (Inside);39.737157;-75.549397
+4051;Wilmington TC (Outside);39.737398;-75.549716
 3835;Wilmington University Complex;39.625996;-75.675978
 3907;Wilson St at Daniels St Carvel Gardens;38.566463;-75.570205
 3906;Wilson St at Daniels St opp Carvel Gardens;38.566294;-75.570321
@@ -2359,9 +2365,3 @@
 3346;Wyoming Rd opp DE Technology Park;39.679387;-75.733140
 213;Yorklyn Rd @ Lancaster Pk;39.788452;-75.696469
 215;Yorklyn Rd @ Lancaster Pk;39.788270;-75.696447
-4059;broad St @ Crawford St;39.451245;-75.717238
-4056;broad St @ Greenlawn Blvd;39.456603;-75.719022
-4057;broad St @ Shallcross Pl;39.453831;-75.718106
-4063;catherine St @ Main St;39.449758;-75.712494
-4060;green St @ Cox St;39.448610;-75.714728
-4095;opp Eagle Meadows;39.106441;-75.506946

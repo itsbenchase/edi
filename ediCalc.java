@@ -138,13 +138,7 @@ public class ediCalc
 
         System.out.print("Line Name: ");
         lineName = in.nextLine();
-        String custLine = lineName;
-
-        if (creatorName.equals("eliot")) // unused. i'm lazy.
-        {
-          custLine = lineName;
-          official = true;
-        }
+        official = true;
         
         while (!customStop.equals("-0"))
         {
@@ -164,7 +158,7 @@ public class ediCalc
             System.out.print("New Stop Longitude: ");
             double custLon = in.nextDouble();
 
-            Stop addStop = new Stop(custID, custName, custLat, custLon, custLine, stopCount);
+            Stop addStop = new Stop(custID, custName, custLat, custLon, lineName, stopCount);
 
             stops2.add(addStop);
             custom.add(addStop);
@@ -188,7 +182,7 @@ public class ediCalc
               {
                 stopCount++;
                 System.out.print("Added: " + stops.get(i).getName() + " "); // space for the stupidity
-                Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), custLine, stopCount);
+                Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), lineName, stopCount);
                 stops2.add(addStop);
                 custom.add(stops.get(i));
                 break;
