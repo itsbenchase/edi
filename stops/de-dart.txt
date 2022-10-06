@@ -513,6 +513,7 @@
 3295;DE 1 @ Comfort Inn;38.725397;-75.126074
 3739;DE 1 @ Community Bank;38.743569;-75.151211
 3489;DE 1 @ Fenwick Isld State Park;38.472331;-75.051480
+3647;DE 1 @ Fred Hudson Rd;38.555114;-75.060148
 3294;DE 1 @ Hampton Inn;38.732509;-75.135209
 399;DE 1 @ Houston St;38.698006;-75.076466
 3166;DE 1 @ Indian River Campground;38.605817;-75.063556
@@ -531,6 +532,7 @@
 3837;DE 1 at Pelican Square Sc;38.737309;-75.142396
 3181;DE 1 opp Evergreen Rd;38.521330;-75.054995
 3488;DE 1 opp Fenwick Isld State Park;38.472047;-75.051922
+3648;DE 1 opp Fred Hudson Rd;38.555435;-75.059751
 3939;DE 1 opp Old Landing Rd;38.727674;-75.128359
 423;DE 1 opp Reho Mall;38.729228;-75.130301
 3987;DE 4 & Delaware Park Dr;39.693603;-75.668024
@@ -617,9 +619,11 @@
 3565;DE 23 @ Fairfield;38.622970;-75.130754
 3485;DE 23 @ Greens Way Baywood Gr;38.633004;-75.183674
 3567;DE 23 @ Harbor Rd Malone Bay Sd;38.624672;-75.120718
+3655;DE 23 @ Jasper View Rd;38.625331;-75.103143
 3480;DE 23 @ Mallard Rd Dockside;38.625105;-75.107840
 3486;DE 23 @ Nannyberry Rd/pot Nets;38.629087;-75.169529
 3481;DE 23 @ Pine Cone Dr (Coveside);38.624809;-75.111828
+3477;DE 23 @ Pot Nets Rd;38.628286;-75.161570
 3597;DE 23 @ Radie Kay Ln Leisure Pt;38.628569;-75.166876
 3483;DE 23 @ Ridgewood Rd;38.628454;-75.163659
 3487;DE 23 @ Sharkstooth;38.624994;-75.107881
@@ -629,6 +633,7 @@
 663;DE 23 opp Long Neck S P;38.632156;-75.180433
 3479;DE 23 opp Pine Cone Dr;38.624686;-75.111881
 3484;DE 23 opp Pot Nets Lakeside;38.629276;-75.169562
+3594;DE 23 opp Radie Kay Ln Leisure Pt;38.628799;-75.168474
 662;DE 24 & Ent Holly Lake Camp;38.658573;-75.189366
 665;DE 24 & Love Crk Marina;38.702115;-75.163746
 442;DE 24 & Peddlers Village;38.699212;-75.170624
@@ -672,7 +677,6 @@
 3173;De1 & York Beach Mall;38.510358;-75.054896
 3172;De1 at Evergreen Rd;38.519609;-75.055334
 3174;De1 opp Lewes St;38.467273;-75.051953
-3477;Del 23 @ Pot Nets Rd;38.628286;-75.161570
 4010;Del Tech Stanton-on Site;39.689236;-75.648982
 4076;Delaware  St @ Broad St;39.555594;-75.649659
 495;Delaware Ave & Clark St;38.923898;-75.577021
@@ -707,10 +711,6 @@
 4036;Delaware St @ 10th St;39.663770;-75.573202
 4048;Delaware St @ Washington St;39.664013;-75.577531
 4035;Delaware St opp 10th St;39.663948;-75.573155
-3647;Delrt1 @ Fred Hudson Rd;38.555114;-75.060148
-3648;Delrt1 opp Fred Hudson Rd;38.555435;-75.059751
-3655;Delrt23 @ Jasper View Rd;38.625331;-75.103143
-3594;Delrt23 opp Radie Kay Ln Leisure Pt;38.628799;-75.168474
 2847;Dennys Rd & Comcast Cable US 13;39.201406;-75.561023
 2849;Dennys Rd opp Comcast CableUS 13;39.201073;-75.561039
 195;Dept Of Health & Social Services;39.700151;-75.575032
