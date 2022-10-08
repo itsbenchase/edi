@@ -98,6 +98,7 @@ public class ediCalc
       Scanner in = new Scanner(System.in);
       System.out.print("Enter line: ");
       String lineChoice = in.nextLine();
+      boolean export = false;
 
       Stop [] theLine;
 
@@ -186,6 +187,12 @@ public class ediCalc
         for (int i = 0; i < custom.size(); i++)
         {
           theLine[i] = custom.get(i);
+        }
+
+        System.out.print("Export line? ");
+        if (in.nextLine().equalsIgnoreCase("yes"))
+        {
+          export = true;
         }      
       }
 
@@ -422,6 +429,16 @@ public class ediCalc
         edi = 1.0;
       }
       System.out.println("Eliot Deviation Index: " + edi);
+
+      if (export)
+      {
+        System.out.println("Export File (copy below this line):");
+        for (int i = 0; i < theLine.length; i++)
+        {
+          System.out.println(theLine[i].getID());
+        }
+        System.out.println("-0");
+      }
 
       System.out.print("Enter 1 to search again: ");
       cont = in.nextInt();

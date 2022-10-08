@@ -102,7 +102,7 @@ public class ediCalc
       String lineName = "no data, yet";
       boolean official = false;
       boolean saved = false; // updates when asked to save
-      String creatorName = "eliot"; // lazy to fix
+      boolean export = false; // export for sumbission
 
       Stop [] theLine;
 
@@ -112,6 +112,7 @@ public class ediCalc
         try
         {
           Scanner s = new Scanner(new File("stops/" + agencyChoice + ".txt"));
+          //int z = 0; // debugging in case of issue
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -122,7 +123,8 @@ public class ediCalc
             double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
             data = data.substring(data.indexOf(";") + 1);
             double lon = Double.parseDouble(data);
-
+            //z++;
+            //System.out.println(z);
             stops.add(new Stop(id, name, lat, lon));
           }
         }
@@ -254,6 +256,12 @@ public class ediCalc
           {
             System.out.println("Error.");
           }
+        }
+
+        System.out.print("Export line? ");
+        if (in.nextLine().equalsIgnoreCase("yes"))
+        {
+          export = true;
         }
       }
 
@@ -550,6 +558,16 @@ public class ediCalc
         {
           System.out.println("Error.");
         }
+      }
+
+      if (export)
+      {
+        System.out.println("Export File (copy below this line):");
+        for (int i = 0; i < theLine.length; i++)
+        {
+          System.out.println(theLine[i].getID());
+        }
+        System.out.println("-0");
       }
 
       System.out.print("Enter 1 to search again: ");
