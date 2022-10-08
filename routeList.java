@@ -49,6 +49,8 @@ public class routeList
       {
         fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul>");
       }
+      
+      int routeCount = 0;
 
       // loop to list routes
       for (int i = 0; i < agencies.size(); i++)
@@ -74,6 +76,7 @@ public class routeList
             data = data.substring(data.indexOf(";") + 1);
             String edi = data;
             routeEdi.add(edi);
+            routeCount++;
           }
         }
         catch (FileNotFoundException e)
@@ -92,6 +95,7 @@ public class routeList
         fileWriter1.append("</table> \n");
       }
 
+      fileWriter1.append("<p><b>Route Count: </b> " + routeCount + "</p>");   
       fileWriter1.close();
     }
     catch (IOException e)

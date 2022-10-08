@@ -740,8 +740,8 @@
 6000914;34th St S + S Wakefield St;38.834337;-77.090914
 1001531;35th St NW + Dent Pl NW;38.911579;-77.069289
 1001354;35th St NW + N St NW;38.906649;-77.068881
-1001575;35th St NW + ReServoir Rd NW;38.912883;-77.069187
-1003200;35th St NW + ReServoir Rd NW;38.912814;-77.069333
+1001575;35th St NW + Reservoir Rd NW;38.912883;-77.069187
+1003200;35th St NW + Reservoir Rd NW;38.912814;-77.069333
 1001614;35th St NW + S St NW;38.914747;-77.069261
 1001638;35th St NW + T St NW;38.915643;-77.069442
 6000003;36th St + Utah St;38.830058;-77.089526
@@ -2303,7 +2303,7 @@ D05;Capitol South Metrorail Station;38.885073;-77.005215
 3003448;Cherry Ln + Cherry Lane Ct;39.088844;-76.854934
 3003427;Cherry Ln + Laurel Bowie Rd;39.085646;-76.849134
 3003449;Cherry Ln + Laurel Bowie Rd;39.085316;-76.848993
-3002413;Cherrywood La + #6500 U.s.court HouSE;39.010428;-76.895292
+3002413;Cherrywood La + #6500 U.s.court House;39.010428;-76.895292
 3002309;Cherrywood Ln + #5510;38.999467;-76.911841
 3002337;Cherrywood Ln + Breezewood Dr;39.002051;-76.909742
 3002372;Cherrywood Ln + Cherrywood Ct;39.004906;-76.907623
@@ -2612,7 +2612,7 @@ E04;Columbia Heights Metrorail Station;38.927502;-77.032521
 5004406;Commercial Dr + Industrial Rd;38.799957;-77.182717
 1003671;Commodore Joshua Barney Dr NE + Recreation Center;38.926983;-76.956317
 1003670;Commodore Joshua Barney Dr NE + Recreation Center;38.926899;-76.956498
-1003635;Commodore Joshua Barney Dr NE + Wesley HouSE;38.925058;-76.955524
+1003635;Commodore Joshua Barney Dr NE + Wesley House;38.925058;-76.955524
 5000558;Commonwealth Blvd + Coleridge Dr;38.814074;-77.285819
 5000562;Commonwealth Blvd + Commonwealth Ct;38.814399;-77.308072
 5000561;Commonwealth Blvd + Dequincey Dr;38.814371;-77.287581
@@ -5036,7 +5036,7 @@ D12;Landover Metrorail Station;38.933504;-76.891265
 5001793;Leesville Blvd + Ivor St;38.799256;-77.201003
 5001779;Leesville Blvd + Kathleen Pl;38.800511;-77.205425
 5001794;Leesville Blvd + Kathleen Pl;38.800698;-77.205440
-2000944;Leisure World + Club HouSE;39.100855;-77.073162
+2000944;Leisure World + Club House;39.100855;-77.073162
 3000290;Leyte Dr + #6902;38.794391;-76.991630
 3000291;Leyte Dr + #6903;38.794416;-76.991777
 3000281;Leyte Dr + Lindsay Rd;38.793238;-76.992144
@@ -5295,9 +5295,9 @@ N11;Loudoun Gateway Metrorail Station;38.992040;-77.460685
 1001654;Macarthur Blvd NW + Our Lady Of Victory Church;38.916354;-77.095279
 1001408;Macarthur Blvd NW + Q St NW;38.909109;-77.087195
 1001409;Macarthur Blvd NW + Q St NW;38.908906;-77.086178
-1001615;Macarthur Blvd NW + ReServoir Rd NW;38.914700;-77.093089
-1001616;Macarthur Blvd NW + ReServoir Rd NW;38.914654;-77.092810
-1001648;Macarthur Blvd NW + ReServoir Rd NW;38.915975;-77.095260
+1001615;Macarthur Blvd NW + Reservoir Rd NW;38.914700;-77.093089
+1001616;Macarthur Blvd NW + Reservoir Rd NW;38.914654;-77.092810
+1001648;Macarthur Blvd NW + Reservoir Rd NW;38.915975;-77.095260
 1001671;Macarthur Blvd NW + U St NW;38.916818;-77.096187
 1001692;Macarthur Blvd NW + U St NW;38.917212;-77.096225
 1001707;Macarthur Blvd NW + V St NW;38.917815;-77.097573
@@ -7356,16 +7356,16 @@ D07;Potomac Ave Metrorail Station;38.881271;-76.985580
 5000674;Ravensworth Rd + Rawlins Rd;38.824606;-77.201262
 5000678;Ravensworth Rd + Rawlins Rd;38.824755;-77.200925
 5000607;Ravensworth Rd + Rocart Dr;38.820903;-77.203796
-1001556;ReServoir Rd NW + 35th St NW;38.912725;-77.069724
-1001554;ReServoir Rd NW + 37th St NW;38.912665;-77.072469
-1001552;ReServoir Rd NW + 38th St NW;38.912664;-77.074594
-1001553;ReServoir Rd NW + 44th St NW;38.912602;-77.081149
-1001562;ReServoir Rd NW + French Embassy;38.912631;-77.078408
-1001563;ReServoir Rd NW + French Embassy;38.912762;-77.078223
-1001551;ReServoir Rd NW + G.u. Entr;38.912543;-77.074537
-1001555;ReServoir Rd NW + Georgetown Medical School;38.912712;-77.076533
-1001560;ReServoir Rd NW + Georgetown Medical School;38.912597;-77.076934
-1001569;ReServoir Rd NW + Hoban Rd NW;38.912773;-77.082376
+1001556;Reservoir Rd NW + 35th St NW;38.912725;-77.069724
+1001554;Reservoir Rd NW + 37th St NW;38.912665;-77.072469
+1001552;Reservoir Rd NW + 38th St NW;38.912664;-77.074594
+1001553;Reservoir Rd NW + 44th St NW;38.912602;-77.081149
+1001562;Reservoir Rd NW + French Embassy;38.912631;-77.078408
+1001563;Reservoir Rd NW + French Embassy;38.912762;-77.078223
+1001551;Reservoir Rd NW + G.u. Entr;38.912543;-77.074537
+1001555;Reservoir Rd NW + Georgetown Medical School;38.912712;-77.076533
+1001560;Reservoir Rd NW + Georgetown Medical School;38.912597;-77.076934
+1001569;Reservoir Rd NW + Hoban Rd NW;38.912773;-77.082376
 2000499;Reedie Dr + Fern St;39.039001;-77.049399
 3004001;Regency Ln + #5745;38.843187;-76.908188
 3004002;Regency Ln + #5745;38.843326;-76.908150
@@ -8012,7 +8012,7 @@ C05;Rosslyn Metrorail Station;38.896034;-77.070838
 5000983;S Jefferson St + Second Entrance To Shopping Cent;38.848597;-77.117958
 6000328;S Joyce St + Columbia Pike;38.869139;-77.064116
 6000331;S Joyce St + Columbia Pike;38.869434;-77.064056
-6000801;S Joyce St + James at River HouSE;38.864376;-77.063415
+6000801;S Joyce St + James at River House;38.864376;-77.063415
 6000097;S Kenmore St + 22nd St S;38.849502;-77.085473
 6000098;S Kenmore St + 22nd St S;38.849727;-77.085448
 6000086;S Kenmore St + 24th St;38.848255;-77.084641
@@ -8544,7 +8544,7 @@ N04;Spring Hill Metrorail Station;38.929212;-77.241891
 1003229;Stadium Armory Station + Bus Bay E;38.888803;-76.977136
 3004294;Stadium Dr + Smith Performing Arts Center;38.991749;-76.950229
 3004295;Stadium Dr + Stadium Pkg Garage;38.991879;-76.947752
-3004296;Stadium Dr + Varsity Team HouSE;38.990599;-76.945490
+3004296;Stadium Dr + Varsity Team House;38.990599;-76.945490
 D08;Stadium-Armory Metrorail Station;38.886927;-76.977074
 1003230;Stadium-armory + Bus Bay G;38.889167;-76.977142
 1002977;Stadium-armory Station + Bus Bay D;38.888622;-76.977134
