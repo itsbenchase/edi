@@ -78,7 +78,7 @@ public class list
         }
         catch (FileNotFoundException e)
         {
-          System.out.println("Error, no stop file for " + agencies.get(i) ".");
+          System.out.println("Error, no stop file for " + agencies.get(i) + ".");
         }
 
         fileWriter1.append("<table><tr><th>Stop ID</th><th>Stop Name</th><th>Stop Latitude</th><th>Stop Longitude</th></tr> \n");
@@ -94,6 +94,7 @@ public class list
         fileWriter1.append("<p><b>Agency Stops:</b> " + agencyStops + "</p>");
         fileWriter1.flush();
         fileWriter1.close();
+        System.out.println("Agency Stops (" + agencies.get(i) + "): " + agencyStops);
       }
       catch (IOException e)
       {
@@ -123,6 +124,7 @@ public class list
       fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
       fileWriter2.flush();
       fileWriter2.close();
+      System.out.println("Stop Count: " + stopCounter);
     }
     catch (Exception e)
     {

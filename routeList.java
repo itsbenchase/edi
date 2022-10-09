@@ -60,6 +60,7 @@ public class routeList
         ArrayList<String> routeCode = new ArrayList<String>();
         ArrayList<String> routeDisp = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
+        int agencyCount = 0;
 
         // takes routes from /edi folder
         try
@@ -77,11 +78,12 @@ public class routeList
             String edi = data;
             routeEdi.add(edi);
             routeCount++;
+            agencyCount++;
           }
         }
         catch (FileNotFoundException e)
         {
-          System.out.println("Error, no EDI file (" + agencies.get(i) + ")"); // expected error if no routes in database.
+          // System.out.println("Error, no EDI file (" + agencies.get(i) + ")"); // expected error if no routes in database.
         }
 
         fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length (mi)</th><th>Eliot Deviation Index</th></tr> \n");
@@ -93,10 +95,12 @@ public class routeList
         }
 
         fileWriter1.append("</table> \n");
+        System.out.println("Agency Routes (" + agencies.get(i) + "): " + agencyCount);
       }
 
       fileWriter1.append("<p><b>Route Count: </b> " + routeCount + "</p>");   
       fileWriter1.close();
+      System.out.println("Route Count: " + routeCount);
     }
     catch (IOException e)
     {
