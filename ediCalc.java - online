@@ -430,6 +430,11 @@ public class ediCalc
       }
       System.out.println("Eliot Deviation Index: " + edi);
 
+      // stop spacing
+      double avgStop = dist / theLine.length;
+      avgStop = ((int)(avgStop * 100)) / 100.00;
+      System.out.println("Average Stop Spacing: " + avgStop + " miles");
+
       if (export)
       {
         System.out.println("Export File (copy below this line):");

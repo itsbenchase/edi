@@ -504,6 +504,11 @@ public class ediCalc
 
       System.out.println("Eliot Deviation Index: " + edi);
 
+      // stop spacing
+      double avgStop = dist / theLine.length;
+      avgStop = ((int)(avgStop * 100)) / 100.00;
+      System.out.println("Average Stop Spacing: " + avgStop + " miles");
+
       // this is when things get added to site listing
       if (official && saved)
       {
