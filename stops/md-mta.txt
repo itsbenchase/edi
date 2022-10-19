@@ -33,10 +33,10 @@
 11798;12th St & E St NW Nb;38.896037;-77.027948
 11581;12th St & G St NW Nb;38.898508;-77.028039
 11791;13th St & H St NW Sb;38.899535;-77.029728
-13639;14 Th St & F St NW;38.897597;-77.032021
 11756;14th St & Constitution Ave NW Nb;38.892107;-77.031753
 11646;14th St & Constitution Ave NW Sb;38.892189;-77.031834
 11757;14th St & E & Penn Ave NW Mid Nb;38.895708;-77.031814
+13639;14th St & F St NW;38.897597;-77.032021
 11769;14th St & Pennsylvania Ave NW Sb;38.896329;-77.032093
 11801;15th St & M & Massachusetts Ave NW Mid Nb;38.906111;-77.034380
 11909;16th St & Aspen St NW Nb;38.973158;-77.036147
@@ -174,8 +174,8 @@
 2843;1257 Ritchie Hwy Nb;39.046375;-76.517798
 4702;1305 Woodington Rd Mb Nb;39.302732;-76.686710
 12676;1400 Cherry Hill Rd;39.252253;-76.633191
+12251;1400 Crain Hwy Sb;39.186994;-76.613835
 4219;1400 Joh Ave Eb;39.261065;-76.671479
-12251;1400crain Hwy Sb;39.186994;-76.613835
 4922;1401 Cherry Hill Rd Ns;39.252951;-76.633849
 3287;1506 Woodlawn Dr opp Nb;39.308456;-76.734463
 12352;1627 Joppa Rd Wb;39.396998;-76.564909
@@ -410,7 +410,7 @@ s7008;Baltimore Highlands;39.235123;-76.632927
 56;Baltimore St & Arlington Ave;39.288614;-76.635548
 12320;Baltimore St & Arlington Ave Wb;39.288761;-76.634963
 10568;Baltimore St & Baltimore Arena;39.289239;-76.618522
-10407;Baltimore St & Bernice Avewb;39.285954;-76.669639
+10407;Baltimore St & Bernice Ave Wb;39.285954;-76.669639
 3734;Baltimore St & Calhoun St Eb;39.288422;-76.639763
 3910;Baltimore St & Calhoun St Wb;39.288579;-76.639171
 814;Baltimore St & Calvert St Fs Eb;39.289581;-76.612053
@@ -438,8 +438,8 @@ s7008;Baltimore Highlands;39.235123;-76.632927
 67;Baltimore St & Light St Mb Eb;39.289464;-76.614567
 14194;Baltimore St & Linwood Ave;39.292185;-76.575933
 8601;Baltimore St & Linwood Ave Wb;39.292313;-76.576006
-59;Baltimore St & Mlk Blvd;39.288950;-76.628363
-3904;Baltimore St & Mlk Blvd Fs Wb;39.289057;-76.628532
+59;Baltimore St & MLK Blvd;39.288950;-76.628363
+3904;Baltimore St & MLK Blvd Fs Wb;39.289057;-76.628532
 62;Baltimore St & Paca St;39.289199;-76.622481
 3735;Baltimore St & Pine St Fs Eb;39.289013;-76.626443
 58;Baltimore St & Poppleton St;39.288756;-76.632517
@@ -659,9 +659,9 @@ s7008;Baltimore Highlands;39.235123;-76.632927
 10447;Boston St & Kenwood Ave Wb;39.278595;-76.576478
 10431;Boston St & Montford Ave Eb;39.282126;-76.583058
 12308;Boston St & Montford Ave Wb;39.282310;-76.582937
-10432;Boston St & O'donnell St Eb;39.279616;-76.578831
-10448;Boston St & O'donnellst Wb;39.279602;-76.578279
-12309;Boston St & The Can Cowb;39.280826;-76.580510
+10432;Boston St & O'Donnell St Eb;39.279616;-76.578831
+10448;Boston St & O'Donnell St Wb;39.279602;-76.578279
+12309;Boston St & The Can Co Wb;39.280826;-76.580510
 11991;Bowie State MARC Nb;39.020792;-76.762049
 11986;Bowie State MARC Sb;39.020900;-76.762071
 897;Bowleys Ln & Claybury Ave Op Sb;39.317971;-76.550540
@@ -682,7 +682,7 @@ s7008;Baltimore Highlands;39.235123;-76.632927
 11478;Brierhill Dr & Chambers Cir S Sb;39.532853;-76.322987
 11498;Brierhill Dr & Todd Rd Nb;39.540019;-76.324909
 11476;Brierhill Dr & Todd Rd Sb;39.540065;-76.325291
-11613;Bristol P&r MD 4 & Md258;38.791853;-76.670125
+11613;Bristol P&R MD 4 & MD 258;38.791853;-76.670125
 13340;Broadway & Ashland Sb;39.300812;-76.594569
 14160;Broadway & Baltimore St Sb Ns;39.291653;-76.594051
 3196;Broadway & Biddle St Fs Sb;39.304054;-76.594813
@@ -713,7 +713,7 @@ s7008;Baltimore Highlands;39.235123;-76.632927
 1750;Bus Stop At Timonium Fairgrounds Light Rail Station Sb;39.448595;-76.635531
 13699;Bush St & Russell St Eb;39.272634;-76.630487
 14119;Bwi Business District Light Rail Station Bay 1;39.191634;-76.673766
-12461;Bwi Marshall Marc Station Sb;39.192581;-76.694242
+12461;Bwi Marshall MARC Station Sb;39.192581;-76.694242
 11993;Bwi Rail Station MARC Nb;39.192327;-76.694560
 11984;Bwi Rail Station MARC Sb;39.192280;-76.694726
 3317;Bwi Southwest Airlines Eb;39.181155;-76.671752
@@ -799,12 +799,12 @@ s7013;Camden Station;39.283745;-76.619713
 4210;Caton Ave & Wilkens Ave Fs Sb;39.272984;-76.671095
 4266;Caton Ave & Wilkens Ave Nb;39.273219;-76.670979
 4209;Caton Ave & Wilkens Ave Sb;39.274444;-76.671615
-7027;Ccbc Catonsville Lot 2;39.254787;-76.734418
-7026;Ccbc Catonsville Lot 5;39.253784;-76.736747
-7025;Ccbc Catonsville Lot 7;39.250807;-76.736865
-8657;Ccbc Dundalk Entrance Nb;39.263679;-76.515287
-3822;Ccbc Dundalk Parking Lot 2;39.266502;-76.514194
-5687;Ccbc Essex Loop;39.353654;-76.482796
+7027;CCBC Catonsville Lot 2;39.254787;-76.734418
+7026;CCBC Catonsville Lot 5;39.253784;-76.736747
+7025;CCBC Catonsville Lot 7;39.250807;-76.736865
+8657;CCBC Dundalk Entrance Nb;39.263679;-76.515287
+3822;CCBC Dundalk Parking Lot 2;39.266502;-76.514194
+5687;CCBC Essex Loop;39.353654;-76.482796
 354;Cedar Garden Rd & Bethnal Rd Wb;39.275763;-76.690065
 223;Cedar Garden Rd & Lucia Ave Eb;39.276062;-76.691576
 355;Cedar Garden Rd & Thornfield Rd Wb;39.276587;-76.692469
@@ -956,6 +956,7 @@ s7023;Cold Spring Lane;39.344097;-76.647903
 7674;Cold Spring Lane (Southbound);39.343750;-76.647865
 5606;Cold Spring Ln & Alhambra Ave Eb;39.346010;-76.607151
 5653;Cold Spring Ln & Alhambra Ave Fs Wb;39.346157;-76.607497
+12656;Cold Spring Ln & Atwick Rd Eb;39.344739;-76.629014
 8946;Cold Spring Ln & Charles St Eb;39.345254;-76.622342
 10352;Cold Spring Ln & Charles St Wb;39.345496;-76.621359
 5661;Cold Spring Ln & Cold Spring Light Rail Station Mid Wb;39.345181;-76.648159
@@ -995,7 +996,6 @@ s7023;Cold Spring Lane;39.344097;-76.647903
 5657;Cold Spring Ln & Wilmslow Rd Wb;39.344926;-76.628290
 5605;Cold Spring Ln & York Rd Eb Fs;39.346103;-76.609303
 5654;Cold Spring Ln & York Rd Wb;39.346242;-76.609107
-12656;Cold Spring Ln& Atwick Rd Eb;39.344739;-76.629014
 10880;Cold Spring Metro Bus Loop;39.336199;-76.672242
 14111;Cold Spring Metro Station Bay 1;39.336492;-76.672803
 11803;Colesville Rd & Fenton St NW Nb;38.997987;-77.026707
@@ -1261,8 +1261,8 @@ s7018;Cultural Center / State Center;39.303680;-76.620453
 1980;Dundalk Ave & Mcshane Way;39.246424;-76.516240
 1977;Dundalk Ave & Mornington Rd;39.255045;-76.522876
 1990;Dundalk Ave & Murray Point Rd;39.244439;-76.505837
-2017;Dundalk Ave & O'donnell St Nb;39.281574;-76.535204
-1924;Dundalk Ave & O'donnell St Sb;39.281860;-76.535896
+2017;Dundalk Ave & O'Donnell St Nb;39.281574;-76.535204
+1924;Dundalk Ave & O'Donnell St Sb;39.281860;-76.535896
 1931;Dundalk Ave & Peach Orchard Rd;39.244190;-76.502063
 8600;Dundalk Ave & Peach Orchard Rd;39.243910;-76.498256
 2014;Dundalk Ave & Roberts Ave;39.274976;-76.531945
@@ -1289,12 +1289,12 @@ s7018;Cultural Center / State Center;39.303680;-76.620453
 2427;East Ave & Gough St Nb;39.288354;-76.571546
 2706;East Ave & Gough St Sb;39.288608;-76.571743
 2704;East Ave & Lombard St Sb;39.291311;-76.571916
-2422;East Ave & O'donnell St Nb;39.280250;-76.571029
-2714;East Ave & O'donnell St Sb;39.280481;-76.571225
+2422;East Ave & O'Donnell St Nb;39.280250;-76.571029
+2714;East Ave & O'Donnell St Sb;39.280481;-76.571225
 5515;East Dr & Sulphur Spring Rd Fs Nb;39.247752;-76.693718
 10439;East St & Lombard St Nb;39.291103;-76.571721
 12292;Eastbourne Ave & Clinton St Wb;39.272678;-76.568770
-7566;Eastern & Martin State Airport Marc Eb;39.338382;-76.419921
+7566;Eastern & Martin State Airport MARC Eb;39.338382;-76.419921
 7596;Eastern Ave & 45th St Eb;39.287927;-76.530305
 4617;Eastern Ave & 45th St Wb;39.288160;-76.530288
 7587;Eastern Ave & 54th St Wb;39.295114;-76.511624
@@ -1376,7 +1376,7 @@ s7018;Cultural Center / State Center;39.303680;-76.620453
 4598;Eastern Blvd & Mace Ave Wb;39.307283;-76.478899
 10539;Eastern Blvd & Marlyn Ave Fs Eb;39.312562;-76.464936
 4591;Eastern Blvd & Marlyn Ave Wb;39.312858;-76.465109
-4769;Eastern Blvd & Martin State Airport Marc Station Wb;39.338382;-76.419921
+4769;Eastern Blvd & Martin State Airport MARC Station Wb;39.338382;-76.419921
 7599;Eastern Blvd & Old Eastern Ave;39.312690;-76.464810
 4773;Eastern Blvd & Old Eastern Ave Wb;39.326545;-76.444422
 4774;Eastern Blvd & Orville Rd Wb;39.323836;-76.448789
@@ -1592,7 +1592,7 @@ s7018;Cultural Center / State Center;39.303680;-76.620453
 7198;Eutaw St & Lexington St Fs Nb;39.291667;-76.620931
 5193;Eutaw St & Madison Ave Sb;39.299015;-76.621599
 7201;Eutaw St & Madison St Nb;39.298821;-76.621394
-12651;Eutaw St & Mlk Blvd Nb;39.299926;-76.621484
+12651;Eutaw St & MLK Blvd Nb;39.299926;-76.621484
 1870;Eutaw St & Mulberry St Sb;39.293987;-76.621342
 1864;Eutaw St & Preston St Fs Sb;39.301163;-76.623054
 5232;Eutaw St & Preston St Nb;39.301371;-76.622795
@@ -1852,7 +1852,7 @@ s7002;Ferndale;39.183651;-76.640160
 758;Frederick Douglass High School;39.315399;-76.654035
 11944;Frederick MARC Eb;39.412740;-77.405563
 11972;Frederick MARC Wb;39.412722;-77.405447
-13713;Frederick Marc Station (Bus);39.411632;-77.405285
+13713;Frederick MARC Station (Bus);39.411632;-77.405285
 190;Frederick Rd & Beaumont Ave;39.270221;-76.739506
 369;Frederick Rd & Belle Grove Rd Wb;39.277584;-76.711953
 12241;Frederick Rd & Boswell Rd Wb;39.280947;-76.704469
@@ -2285,7 +2285,7 @@ s7012;Hamburg Street;39.278946;-76.619904
 589;Hillsway Ave & Wentworth Rd Nb;39.375289;-76.568265
 3566;Hillsway Ave & Wentworth Rd Sb;39.375997;-76.568383
 7052;Hilltop Cir & Administration Building Nb;39.252938;-76.714604
-10964;Hilltop Cir & Commons Dr (Umbc) Sb;39.252489;-76.708928
+10964;Hilltop Cir & Commons Dr (UMBC) Sb;39.252489;-76.708928
 10963;Hilltop Cir& Center Rd Sb;39.258470;-76.708062
 6501;Hilton Rd & Barrington Rd Nb;39.327866;-76.669487
 6379;Hilton Rd & Barrington Rd Sb;39.328322;-76.669488
@@ -2799,7 +2799,7 @@ s7005;Linthicum;39.202332;-76.655357
 1342;Lombard St & Howard St;39.287717;-76.618978
 1339;Lombard St & Light St;39.287880;-76.613375
 1336;Lombard St & Market Pl;39.287992;-76.607430
-2185;Lombard St & Mlk Blvd;39.287332;-76.627704
+2185;Lombard St & MLK Blvd;39.287332;-76.627704
 294;Lombard St & Mount St Wb;39.286390;-76.643163
 297;Lombard St & Payson St Wb;39.286181;-76.647743
 10535;Lombard St & Ponca St Fs Eb;39.291770;-76.554992
@@ -3022,7 +3022,7 @@ e0007;Mondawmin Metro Entrance;39.317664;-76.652234
 7503;Mondawmin Station (Metro) Sb;39.318333;-76.653735
 11945;Monocacy MARC Eb;39.383596;-77.393877
 11971;Monocacy MARC Wb;39.383560;-77.393761
-11913;Monocacy Marc Station (Bus);39.382827;-77.394387
+11913;Monocacy MARC Station (Bus);39.382827;-77.394387
 6455;Monroe St & Carroll St Nb;39.274136;-76.640450
 6438;Monroe St & Carroll St opp Sb;39.274252;-76.640866
 13824;Monroe St & Edmondson Ave Sb;39.295201;-76.647354
@@ -3266,12 +3266,12 @@ s7006;North Linthicum;39.214344;-76.646080
 s7007;Nursery Road;39.221573;-76.641403
 7632;Nursery Road (Northbound);39.221882;-76.641197
 7692;Nursery Road (Southbound);39.221256;-76.641632
-13732;O'donnell St & Dean St;39.280658;-76.565660
-13733;O'donnell St & Dean St;39.280525;-76.565485
-13716;O'donnell St & Macon St;39.280776;-76.556804
-13717;O'donnell St & Macon St;39.280931;-76.557162
-3861;O'donnell St Cutoff & Travel Center;39.278760;-76.547316
-12420;O'donnell St Cutoff & Travel Center;39.278529;-76.547301
+13732;O'Donnell St & Dean St;39.280658;-76.565660
+13733;O'Donnell St & Dean St;39.280525;-76.565485
+13716;O'Donnell St & Macon St;39.280776;-76.556804
+13717;O'Donnell St & Macon St;39.280931;-76.557162
+3861;O'Donnell St Cutoff & Travel Center;39.278760;-76.547316
+12420;O'Donnell St Cutoff & Travel Center;39.278529;-76.547301
 11906;Oakland Mills & Village Ctr Nb;39.209950;-76.846823
 11810;Oakland Mills & Village Ctr Sb;39.209852;-76.846892
 2796;Oakwood Rd & Mary Ln Nb;39.148588;-76.619398
@@ -3489,7 +3489,7 @@ s7020;Penn Station;39.307823;-76.616173
 6895;Pennington Ave & Ordnance Rd Nb;39.209534;-76.585048
 12710;Pennington Ave & Ordnance Rd Sb;39.210161;-76.585773
 1250;Pennsylvania & Hoffman opp Sb;39.298638;-76.628584
-1252;Pennsylvania & Mlk Blvd Sb;39.296789;-76.626282
+1252;Pennsylvania & MLK Blvd Sb;39.296789;-76.626282
 1251;Pennsylvania & Preston Sb;39.297911;-76.627677
 1253;Pennsylvania & Saint Mary;39.295671;-76.625039
 14155;Pennsylvania & Saint Mary St;39.295523;-76.624706
@@ -3501,12 +3501,14 @@ s7020;Penn Station;39.307823;-76.616173
 11579;Pennsylvania Ave & 10th St NW Wb;38.894171;-77.025581
 11759;Pennsylvania Ave & 12th St NW Eb;38.894840;-77.028378
 11580;Pennsylvania Ave & 12th St NW Wb;38.895319;-77.028582
+1367;Pennsylvania Ave & Clifton Ave Nb;39.312326;-76.645063
 1364;Pennsylvania Ave & Cumberland St Nb;39.309456;-76.641656
 1238;Pennsylvania Ave & Cumberland St Sb;39.309434;-76.641841
 1369;Pennsylvania Ave & Fulton Ave Nb;39.313062;-76.645941
 1352;Pennsylvania Ave & Hoffman Mb Nb;39.298951;-76.628827
 1245;Pennsylvania Ave & Laurens St Fs Sb;39.304038;-76.635359
-1351;Pennsylvania Ave & Mlk Blvd Fs Nb;39.296958;-76.626351
+1357;Pennsylvania Ave & Laurens St Nb;39.304149;-76.635285
+1351;Pennsylvania Ave & MLK Blvd Fs Nb;39.296958;-76.626351
 1247;Pennsylvania Ave & Mosher St Nb;39.301805;-76.632384
 10477;Pennsylvania Ave & Mosher St Sb;39.302006;-76.632858
 1365;Pennsylvania Ave & North Ave Nb;39.309852;-76.642136
@@ -3517,13 +3519,11 @@ s7020;Penn Station;39.307823;-76.616173
 1236;Pennsylvania Ave & Retreat St Sb;39.311818;-76.644694
 12687;Pennsylvania Ave & Washington Ave;39.400968;-76.606362
 13638;Pennsylvania Ave Between 4th & 6th St NW (Canadian Embassy);38.892480;-77.018326
-1367;Pennsylvania Ave& Clifton Ave Nb;39.312326;-76.645063
-1357;Pennsylvania Ave& Laurens St Nb;39.304149;-76.635285
 s7032;Pepper Road;39.492107;-76.656273
 7661;Pepper Road (Northbound);39.492168;-76.655678
 7664;Pepper Road (Southbound);39.492104;-76.656693
 10791;Perry Hall Blvd & Haylock Ct;39.407985;-76.462255
-11976;Perryville Marc;39.558089;-76.073180
+11976;Perryville MARC;39.558089;-76.073180
 12058;Phelps Luck Dr & High Tor Hill Nb;39.224404;-76.817861
 11932;Phelps Luck Dr & High Tor Hill Opp;39.224283;-76.818018
 11934;Phelps Luck Dr & Sheerock Ct Sb;39.216212;-76.821433
@@ -3599,7 +3599,7 @@ s7032;Pepper Road;39.492107;-76.656273
 1267;Pratt St & Light St;39.286447;-76.614044
 1276;Pratt St & Lloyd Fs Eb;39.288291;-76.600423
 1271;Pratt St & Market Pl;39.286701;-76.606248
-11121;Pratt St & Mlk Blvd;39.285980;-76.628176
+11121;Pratt St & MLK Blvd;39.285980;-76.628176
 273;Pratt St & Mount St Eb;39.285251;-76.643730
 12670;Pratt St & Parkin St;39.285884;-76.630048
 1284;Pratt St & Patterson Park Ave Eb;39.289545;-76.584748
@@ -4001,7 +4001,7 @@ e0005;Rogers Ave Metro Entrance;39.344899;-76.692563
 2941;Rolling Rd & Rolling Bend Rd Fs Nb;39.310901;-76.754229
 3664;Rolling Rd & Rolling Bend Rd Fs Sb;39.310159;-76.753955
 12212;Rolling Rd & Rollingwood Rd Sb;39.270646;-76.756874
-391;Rolling Rd & Rollingwood Rdwb;39.271366;-76.756749
+391;Rolling Rd & Rollingwood Rd Wb;39.271366;-76.756749
 13538;Rolling Rd & Roxy Dr Fs Sb;39.344070;-76.764209
 6988;Rolling Rd & Sandown Cir Fs Sb;39.324881;-76.759323
 7087;Rolling Rd & Tudsbury Rd Nb;39.325627;-76.759100
@@ -4011,6 +4011,7 @@ e0005;Rogers Ave Metro Entrance;39.344899;-76.692563
 6986;Rolling Rd & Windsor Blvd Fs Sb;39.333319;-76.759836
 13740;Rolling Rd & Windsor Blvd Nb;39.333363;-76.759628
 4780;Rossville Blvd & Citation Rd Nb;39.335375;-76.478424
+6637;Rossville Blvd & Citation Rd Sb;39.335718;-76.479094
 6523;Rossville Blvd & Kelso Dr Fs Nb;39.334243;-76.477001
 6639;Rossville Blvd & Kelso Dr Fs opp Sb;39.333574;-76.476426
 6521;Rossville Blvd & Orems Rd Nb;39.330631;-76.472449
@@ -4021,7 +4022,6 @@ e0005;Rogers Ave Metro Entrance;39.344899;-76.692563
 12185;Rossville Blvd & Square Ridge Rd Nb;39.344350;-76.487271
 4783;Rossville Blvd & Yellow Brick Rd Fs Nb;39.338692;-76.483741
 6635;Rossville Blvd & Yellow Brick Rd Fs Sb;39.338141;-76.482840
-6637;Rossville Blvd& Citation Rd Sb;39.335718;-76.479094
 5225;Round Rd & Booker Dr Fs;39.247128;-76.627943
 5224;Round Rd & Bridgeview Rd Nb;39.245423;-76.626623
 4926;Round Rd & Bridgeview Rd Sb;39.245534;-76.627042
@@ -4089,8 +4089,8 @@ e0005;Rogers Ave Metro Entrance;39.344899;-76.692563
 3215;Saratoga St & Howard St Wb;39.292970;-76.619492
 7192;Saratoga St & Lexington St;39.291234;-76.607902
 3036;Saratoga St & Libertyst Eb;39.292921;-76.616947
-12570;Saratoga St & Mlk Blvd Eb;39.292625;-76.628409
-3222;Saratoga St & Mlk Blvd Fs Wb;39.292745;-76.628249
+12570;Saratoga St & MLK Blvd Eb;39.292625;-76.628409
+3222;Saratoga St & MLK Blvd Fs Wb;39.292745;-76.628249
 3031;Saratoga St & Paca St Eb;39.292705;-76.622656
 3218;Saratoga St & Paca St Wb;39.292876;-76.622226
 3035;Saratoga St & Park Ave Eb;39.292888;-76.618443
@@ -4207,7 +4207,7 @@ e0013w;Shot Tower Metro West Entrance;39.289423;-76.606566
 11838;Snowden River & Oakland Mills Wb;39.178942;-76.828642
 11836;Snowden River Park & Ride;39.192988;-76.811181
 2572;Social Security Terminial;39.310293;-76.731848
-10610;Sollers Point Rd & Ccbc Dundalk Sb;39.263574;-76.515408
+10610;Sollers Point Rd & CCBC Dundalk Sb;39.263574;-76.515408
 13730;Sollers Point Rd & Merritt Ave;39.260194;-76.512172
 1934;Sollers Point Rd & Pine St;39.244104;-76.509882
 12201;Sollers Point Rd & Robinwood Rd;39.261439;-76.513047
@@ -4226,7 +4226,7 @@ e0013w;Shot Tower Metro West Entrance;39.289423;-76.606566
 10473;St Agnes Ln & Masefield Rd Nb;39.293659;-76.718854
 3682;St Agnes Ln & Masefield Rd Sb;39.293988;-76.718731
 3962;St Agnes Ln Between Masefield Rd & Harwall Rd Nb;39.294231;-76.718235
-11749;St Charles Mall & Jc Penney;38.617645;-76.928972
+11749;St Charles Mall & JC Penney;38.617645;-76.928972
 11681;St Charles Town Plaza (Jo-ann's);38.611021;-76.932123
 12026;St Denis MARC Nb;39.224047;-76.704818
 12007;St Denis MARC Sb;39.224119;-76.704841
@@ -4265,7 +4265,7 @@ e0010;State Center Metro Entrance;39.301862;-76.622780
 4414;Stokes Dr & Wildwood Pkwy;39.302668;-76.685269
 11550;Suitland Federal Ctr At Gate 7;38.846023;-76.930713
 11551;Suitland Metro Station;38.845251;-76.932590
-11573;Sunderland P&r (Md-2 Near Md-4 & Md-262);38.664203;-76.604428
+11573;Sunderland P&R (MD 2 near MD 4 & MD 262);38.664203;-76.604428
 13339;Swan Creek & Cabot Dr Nb;39.194864;-76.551343
 13517;Swan Creek Dr & Kembo Rd Fs;39.192834;-76.551285
 10584;Talmudical Academy;39.369253;-76.747113
@@ -4367,8 +4367,8 @@ s7027;Timonium;39.433868;-76.628181
 11845;Twin Rivers Rd & Trumpeter Rd opp Wb;39.219370;-76.870240
 11538;US 40 & Bata Blvd Eb;39.468849;-76.238342
 11526;US 40 & Bata Blvd Wb;39.470161;-76.236376
-11521;US 40 & Bel Air Ave (Aberdeen Marc);39.509031;-76.164009
-11543;US 40 & Bel Air Ave (Aberdeen Marc) Eb;39.508649;-76.163829
+11521;US 40 & Bel Air Ave (Aberdeen MARC);39.509031;-76.164009
+11543;US 40 & Bel Air Ave (Aberdeen MARC) Eb;39.508649;-76.163829
 11533;US 40 & Ebenezer Rd Eb;39.380692;-76.426726
 11531;US 40 & Ebenezer Rd Wb;39.380895;-76.426945
 11534;US 40 & Joppa Farm Rd Eb;39.421985;-76.372619
@@ -4378,7 +4378,7 @@ s7027;Timonium;39.433868;-76.628181
 11537;US 40 & Long Bar Harbor Rd Eb;39.460242;-76.254927
 11527;US 40 & Long Bar Harbor Rd Wb;39.458983;-76.258338
 11540;US 40 & MD 7 & MD 159 Eb;39.488981;-76.196022
-11524;US 40 & MD 7 MD 159 Wb;39.489223;-76.196332
+11524;US 40 & MD 7 & MD 159 Wb;39.489223;-76.196332
 11528;US 40 & Paul Martin Dr Wb;39.435315;-76.315407
 11536;US 40 & Paul Martin Dr opp Eb;39.435022;-76.315674
 11522;US 40 & Plater St Wb;39.505350;-76.166228
@@ -4388,8 +4388,8 @@ s7027;Timonium;39.433868;-76.628181
 32497;US 40 & West Shores;39.441407;-76.292677
 11535;US 40 & Woodbridge Ctr Way Eb;39.433592;-76.325123
 11529;US 40 & Woodbridge Ctr Way Wb;39.433914;-76.324659
-14087;Um Medical Center Bay 1;39.289085;-76.624884
-14086;Um Medical Center On-street Stop;39.289133;-76.623864
+14087;UM Medical Center Bay 1;39.289085;-76.624884
+14086;UM Medical Center On-street Stop;39.289133;-76.623864
 10494;Union Ave & Ash St Fs Eb;39.332011;-76.640635
 11519;Union Ave & Green St Nb;39.549941;-76.091627
 11545;Union Ave & Green St Sb;39.549771;-76.091691
@@ -4400,22 +4400,22 @@ s7027;Timonium;39.433868;-76.628181
 4159;University Pkwy & 39th St Wb;39.335951;-76.622808
 4154;University Pkwy & Calvert St Fs Wb;39.331141;-76.615441
 4317;University Pkwy & Canterbury Rd opp Sb;39.334451;-76.621060
+10746;University Pkwy & Canterbury Rd Wb;39.334167;-76.620128
 6678;University Pkwy & Charles St Sb;39.332761;-76.618498
+10745;University Pkwy & Charles St Wb;39.332527;-76.617634
 4321;University Pkwy & Guilford Ave Eb;39.329915;-76.613787
+4153;University Pkwy & Guilford Ave Wb;39.330042;-76.613715
 3656;University Pkwy & Saint Paul St Sb;39.331533;-76.616524
 4316;University Pkwy & San Martin Dr Sb;39.335765;-76.623075
 6709;University Pkwy & Somerset Rd Nb;39.341808;-76.634317
 10744;University Pkwy & St Paul St Wb;39.331927;-76.616689
-10746;University Pkwy& Canterbury Rd Wb;39.334167;-76.620128
-10745;University Pwky & Charles St Wb;39.332527;-76.617634
-4153;University Pwky& Guilford Ave Wb;39.330042;-76.613715
 s0009;Upton Metro;39.305318;-76.636720
 ev0009;Upton Metro Elevator;39.304132;-76.635627
 e0009;Upton Metro Entrance;39.303882;-76.635773
 7515;Upton Station (Metro) Nb;39.304754;-76.636118
 7505;Upton Station (Metro) Sb;39.304106;-76.634812
 11914;Urbana Park & Ride Lot;39.323398;-77.355571
-11690;Us 301 P & R & Smallwood Dr;38.612843;-76.925112
+11690;US 301 P & R & Smallwood Dr;38.612843;-76.925112
 4260;Vero Rd & Joh Ave Fs Wb;39.262364;-76.675454
 10763;Veterans Park Loop & Dundalk Ave;39.256945;-76.523294
 10944;Virginia Ave & Annapolis Rd Fs Wb;39.234880;-76.641888
@@ -4492,7 +4492,7 @@ s7029;Warren Road;39.475903;-76.653755
 12129;Washington Blvd & Port Capital Dr;39.174674;-76.778568
 12416;Washington Blvd & Ridge Ave Eb;39.239858;-76.681140
 12415;Washington Blvd & Ridge Ave Wb;39.240365;-76.680806
-2206;Washington Blvd & Rr Tracks Wb;39.274614;-76.643165
+2206;Washington Blvd & RR Tracks Wb;39.274614;-76.643165
 2211;Washington Blvd & Spence St Fs Sb;39.268221;-76.650846
 11881;Washington Blvd & Troy Hill Dr Nb;39.194749;-76.746527
 12077;Washington Blvd & Troy Hill Dr Sb;39.194244;-76.747827
@@ -4529,10 +4529,10 @@ s7029;Warren Road;39.475903;-76.653755
 6824;Wells St & Charles St Wb;39.268428;-76.613654
 11995;West Baltimore MARC Nb;39.293344;-76.653102
 11981;West Baltimore MARC Sb;39.293380;-76.653171
-14107;West Baltimore Marc Station Bay 1;39.293096;-76.652258
-14108;West Baltimore Marc Station Bay 2;39.293025;-76.652256
-14109;West Baltimore Marc Station Bay 3;39.293206;-76.652720
-14110;West Baltimore Marc Station Bay 4;39.293022;-76.652146
+14107;West Baltimore MARC Station Bay 1;39.293096;-76.652258
+14108;West Baltimore MARC Station Bay 2;39.293025;-76.652256
+14109;West Baltimore MARC Station Bay 3;39.293206;-76.652720
+14110;West Baltimore MARC Station Bay 4;39.293022;-76.652146
 10397;West Campus Dr & Fine Arts Building Wb;39.048695;-76.517510
 s0006;West Cold Spring Metro;39.336464;-76.672632
 ev0006e;West Cold Spring Metro East Elevator;39.336087;-76.672090
