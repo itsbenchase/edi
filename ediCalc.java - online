@@ -98,6 +98,7 @@ public class ediCalc
       Scanner in = new Scanner(System.in);
       System.out.print("Enter line: ");
       String lineChoice = in.nextLine();
+      
       boolean export = false;
 
       Stop [] theLine;
@@ -180,7 +181,7 @@ public class ediCalc
           if (!customStop.equals("-0"))
           {
             rollingEDI(custom); // this is where shit gets stupid
-          }
+          }     
         }
 
         theLine = new Stop[custom.size()];
@@ -188,12 +189,14 @@ public class ediCalc
         {
           theLine[i] = custom.get(i);
         }
+        
+        System.out.println("Please only use the export feature if you intend to have an official route added to the database. Abuse of this feature will result in being blocked from submitting routes.");
 
         System.out.print("Export line? ");
         if (in.nextLine().equalsIgnoreCase("yes"))
         {
           export = true;
-        }      
+        }
       }
 
       // segments of routes
@@ -231,6 +234,7 @@ public class ediCalc
         int startStop = in.nextInt();
         System.out.print("Ending stop: ");
         int endStop = in.nextInt();
+        
 
         // check if in part of line desired
         for (int i = 0; i < stops.size(); i++)
@@ -289,6 +293,7 @@ public class ediCalc
 
         System.out.print("Enter line: ");
         lineChoice = in.nextLine();
+        
 
         for (int i = 0; i < stops.size(); i++)
         {
@@ -390,6 +395,8 @@ public class ediCalc
         rollingEDI(custom2);
       }
 
+      
+
       // haversine formula loop
       double dist = 0;
       for (int i = 1; i < theLine.length; i++)
@@ -406,7 +413,7 @@ public class ediCalc
 
         dist += c * r;
       }
-      dist = ((int)(dist * 100)) / 100.00;
+      dist = Math.round(dist * 100.0) / 100.0;
       System.out.println("Distance: " + dist + " miles");
 
       // full line haversine
@@ -423,7 +430,7 @@ public class ediCalc
 
       // calculate the edi
       double edi = dist / lineDist;
-      edi = ((int)(edi * 100)) / 100.00;
+      edi = Math.round(edi * 100.0) / 100.0;
       if (edi < 1) // case for the 0.9x
       {
         edi = 1.0;
@@ -431,8 +438,8 @@ public class ediCalc
       System.out.println("Eliot Deviation Index: " + edi);
 
       // stop spacing
-      double avgStop = dist / theLine.length;
-      avgStop = ((int)(avgStop * 100)) / 100.00;
+      double avgStop = dist / (theLine.length - 1);
+      avgStop = Math.round(avgStop * 100.0) / 100.0;
       System.out.println("Average Stop Spacing: " + avgStop + " miles");
 
       if (export)
@@ -475,7 +482,7 @@ public class ediCalc
 
       dist += c * r;
     }
-    dist = ((int)(dist * 100)) / 100.00;
+    dist = Math.round(dist * 100.0) / 100.0;
     System.out.print("(" + theLine.length + ", " + dist + ", ");
 
     // full line haversine
@@ -492,7 +499,7 @@ public class ediCalc
 
     // calculate the edi
     double edi = dist / lineDist;
-    edi = ((int)(edi * 100)) / 100.00;
+    edi = Math.round(edi * 100.0) / 100.0;
     if (edi < 1) // case for the 0.9x
     {
       edi = 1.0;
