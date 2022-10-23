@@ -489,8 +489,6 @@ public class ediCalc
 
         dist += c * r;
       }
-      dist = Math.round(dist * 100.0) / 100.0;
-      System.out.println("Distance: " + dist + " miles");
 
       // full line haversine
       double firstLon = Math.toRadians(Math.abs(theLine[0].getLon()));
@@ -513,11 +511,14 @@ public class ediCalc
         edi = 1.0;
       }
 
-      System.out.println("Eliot Deviation Index: " + edi);
-
-      // stop spacing
+      // assorted calcs
+      dist = Math.round(dist * 100.0) / 100.0;
       double avgStop = dist / (theLine.length - 1);
       avgStop = Math.round(avgStop * 100.0) / 100.0;
+
+      // display rounded info
+      System.out.println("Distance: " + dist + " miles");
+      System.out.println("Eliot Deviation Index: " + edi);
       System.out.println("Average Stop Spacing: " + avgStop + " miles");
 
       
@@ -620,8 +621,6 @@ public class ediCalc
 
       dist += c * r;
     }
-    dist = Math.round(dist * 100.0) / 100.0;
-    System.out.print("(" + theLine.length + ", " + dist + ", ");
 
     // full line haversine
     double firstLon = Math.toRadians(Math.abs(theLine[0].getLon()));
@@ -644,6 +643,8 @@ public class ediCalc
       edi = 1.0;
     }
 
+    dist = Math.round(dist * 100.0) / 100.0;
+    System.out.print("(" + theLine.length + ", " + dist + ", ");
     System.out.println(edi + ")");
   }
 }
