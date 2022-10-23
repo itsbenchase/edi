@@ -205,7 +205,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/" + agencyChoice + "-edi.txt").openStream());
+          Scanner s = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -267,7 +267,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/" + agencyChoice + "-edi.txt").openStream());
+          Scanner s = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -335,7 +335,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/" + agencyChoice + "-edi.txt").openStream());
+          Scanner s = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();

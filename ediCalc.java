@@ -216,7 +216,7 @@ public class ediCalc
           // loads in EDI file to add route to list, different array
           try
           {
-            Scanner s2 = new Scanner(new File(agencyChoice + "-edi.txt"));
+            Scanner s2 = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
             while (s2.hasNextLine())
             {
               String data = s2.nextLine();
@@ -243,7 +243,7 @@ public class ediCalc
           // adds list to -edi file, allows it to be read by calculator
           try
           {
-            File newFile1 = new File(agencyChoice + "-edi.txt");
+            File newFile1 = new File("files/" + agencyChoice + "-edi.txt");
             FileWriter fileWriter1 = new FileWriter(newFile1);
 
             fileWriter1.write(stops2.get(0).getID() + ";" + stops2.get(0).getName() + ";" + stops2.get(0).getLat() + ";" + stops2.get(0).getLon() + ";" + stops2.get(0).getLineEDI() + ";" + stops2.get(0).getOrder() + "\n");
@@ -278,7 +278,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
+          Scanner s = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -341,7 +341,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
+          Scanner s = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -410,7 +410,7 @@ public class ediCalc
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new File(agencyChoice + "-edi.txt"));
+          Scanner s = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
           while (s.hasNextLine())
           {
             String data = s.nextLine();
