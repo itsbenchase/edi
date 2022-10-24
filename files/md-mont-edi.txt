@@ -1,3 +1,491 @@
+26330;Takoma Station & Bay H;38.975629;-77.017007;16;1
+20742;Carroll Ave & Maple Ave;38.974798;-77.014506;16;2
+20744;Carroll Ave & Laurel Ave;38.97466;-77.012549;16;3
+20746;Carroll Ave & Tulip Ave;38.97517;-77.01004;16;4
+29684;Carroll Ave & Columbia Ave;38.975863;-77.009033;16;5
+20748;Carroll Ave & Philadelphia Ave;38.977577;-77.007553;16;6
+29002;Carroll Ave & Grant Ave;38.977955;-77.006317;16;7
+14859;Ethan Allen Ave & Carroll Ave;38.978123;-77.005767;16;8
+29004;Ethan Allen Ave & Jackson Ave;38.977943;-77.001801;16;9
+29006;Ethan Allen Ave & Prince Georges Ave;38.976918;-76.998524;16;10
+29008;Ethan Allen Ave & Elm Ave;38.9762;-76.996986;16;11
+29010;New Hampshire Ave & East West Hwy;38.976063;-76.99324;16;12
+29012;New Hampshire Ave & Kentland Ave;38.977066;-76.992195;16;13
+29014;New Hampshire Ave & Larch Ave;38.977856;-76.991463;16;14
+29018;New Hampshire Ave & Sligo Creek Pwy;38.979498;-76.990193;16;15
+29020;New Hampshire Ave & Erskine St;38.981199;-76.988937;16;16
+29022;New Hampshire Ave & Merwood Dr;38.983105;-76.988266;16;17
+29024;New Hampshire Ave & Kingswood Dr;38.984388;-76.988109;16;18
+14529;New Hampshire Ave & University Blvd;38.987238;-76.987781;16;19
+26690;Takoma-langley Transit Center & Bay A;38.989889;-76.98849;16;20
+24452;New Hampshire Ave & Merrimac Dr;38.992627;-76.986629;16;21
+27734;New Hampshire Ave & @ 8229;38.994571;-76.985623;16;22
+24454;New Hampshire Ave & Quebec St;38.996135;-76.984779;16;23
+25686;Ruatan St & New Hampshire Ave;38.999435;-76.983696;16;24
+27700;11th Ave & Quebec Terr;39.000408;-76.985107;16;25
+25102;Quebec Ter & @ 1020;39.000378;-76.988029;16;26
+25104;Quebec Terr & Ruatan St;38.999035;-76.98952;16;27
+25688;Ruatan St & 11th Ave;38.997152;-76.990713;16;28
+27704;11th Ave & Carroll Ave;38.996797;-76.991683;16;29
+20772;Carroll Ave & Piney Branch Rd;38.999157;-76.990914;16;30
+24926;Piney Branch Rd & Carroll Ave;38.999996;-76.990959;16;31
+24928;Piney Branch Rd & Kodiak Dr;38.999859;-76.992377;16;32
+27996;Piney Branch Rd & University Blvd;38.999789;-76.993942;16;33
+24930;Piney Branch Rd & University Blvd;38.999542;-76.996178;16;34
+24932;Piney Branch Rd & Barron St;38.999306;-76.997056;16;35
+24934;Piney Branch Rd & Garland Ave;38.998788;-76.999078;16;36
+10055;Piney Branch Rd & Arliss St;38.998545;-77.000799;16;37
+24936;Piney Branch Rd & Greenwood Ave;38.998424;-77.002807;16;38
+24938;Piney Branch Rd & Flower Ave;38.998187;-77.004051;16;39
+24940;Piney Branch Rd & Manchester Rd;38.99721;-77.005031;16;40
+24942;Piney Branch Rd & Park Crest Dr;38.994402;-77.008412;16;41
+24944;Piney Branch Rd & Dale Dr;38.99387;-77.008971;16;42
+24946;Piney Branch Rd & Silver Spring Ave;38.992581;-77.009743;16;43
+24948;Piney Branch Rd & Sligo Ave;38.991692;-77.010139;16;44
+26058;Sligo Ave & Valley St;38.991415;-77.01239;16;45
+26060;Sligo Ave & Schrider St;38.991264;-77.014113;16;46
+26062;Sligo Ave & Carroll Ln;38.990848;-77.016372;16;47
+26064;Sligo Ave & Chesapeake Ave;38.990216;-77.018882;16;48
+26066;Sligo Ave & Grove St;38.990197;-77.021638;16;49
+26068;Sligo Ave & Fenton St;38.990244;-77.023402;16;50
+22164;Fenton St & Silver Spring Ave;38.991501;-77.023925;16;51
+22166;Fenton St & Thayer Ave;38.992877;-77.024011;16;52
+22168;Fenton St & Bonifant St;38.994221;-77.024022;16;53
+22170;Fenton St & Wayne Ave;38.995226;-77.024256;16;54
+14874;Fenton St & Ellsworth Dr;38.997147;-77.025772;16;55
+17604;Silver Spring Station & Bay 108;38.993604;-77.030154;16;56
+15182;Germantown Transit Center & Bay B;39.183024;-77.261032;98-soccerplex;1
+21528;Crystal Rock Dr & Century Blvd;39.18343;-77.263779;98-soccerplex;2
+25288;Rexmore Dr & Pinnacle Dr;39.184601;-77.264923;98-soccerplex;3
+23684;Locbury Dr & Locbury Cir;39.185551;-77.265793;98-soccerplex;4
+23686;Locbury Dr & Locbury Ct;39.187195;-77.266365;98-soccerplex;5
+23688;Locbury Dr & Water Row Terr;39.188479;-77.267385;98-soccerplex;6
+27012;Waters Landing Dr & Alderleaf Dr;39.189599;-77.26821;98-soccerplex;7
+27014;Waters Landing Dr & Pickering Pl;39.190062;-77.270207;98-soccerplex;8
+27016;Waters Landing Dr & Bargene Way;39.191086;-77.270988;98-soccerplex;9
+17181;Father Hurley Blvd & @ 21000;39.190178;-77.273827;98-soccerplex;10
+22146;Father Hurley Blvd & Beaconfield Dr;39.189554;-77.273502;98-soccerplex;11
+27682;Wynnfield Dr & Shipley Terr;39.186333;-77.274666;98-soccerplex;12
+27684;Wynnfield Dr & Waldorf Dr;39.186157;-77.276739;98-soccerplex;13
+27686;Wynnfield Dr & Walnutwood Ln;39.185726;-77.279022;98-soccerplex;14
+27688;Wynnfield Dr & Laurel Hill Way;39.185429;-77.281174;98-soccerplex;15
+15138;Wynnfield Dr & Wanegarden Dr;39.185836;-77.28264;98-soccerplex;16
+15114;Wanegarden Dr & Lake Seneca Es;39.183678;-77.284615;98-soccerplex;17
+26892;Wanegarden Dr & Wanegarden Ct;39.183408;-77.286507;98-soccerplex;18
+26894;Wanegarden Dr & Lake Park Dr;39.182498;-77.289711;98-soccerplex;19
+27412;Wisteria Dr & Webster Ct;39.180176;-77.287506;98-soccerplex;20
+27414;Wisteria Dr & Teakwood Ln;39.180146;-77.283818;98-soccerplex;21
+27416;Wisteria Dr & Wintersspoon (W) Ln;39.181214;-77.280759;98-soccerplex;22
+27418;Wisteria Dr & Larentia Dr;39.181778;-77.279045;98-soccerplex;23
+27420;Wisteria Dr & Waldorf Dr;39.182035;-77.277241;98-soccerplex;24
+14559;Wisteria Dr & Waters Dr;39.178708;-77.273293;98-soccerplex;25
+17099;Waterford Hills Blvd & Carlow Point Cir;39.177971;-77.277473;98-soccerplex;26
+17537;Father Hurley Blvd & Lullaby Rd;39.176694;-77.282609;98-soccerplex;27
+29486;Father Hurley Blvd & Sawyer Terr;39.171418;-77.283795;98-soccerplex;28
+29488;Father Hurley Blvd & Hopkins Rd;39.169504;-77.283101;98-soccerplex;29
+29490;Hopkins Rd & Lark Song Dr;39.168766;-77.284882;98-soccerplex;30
+29492;Hopkins Rd & Crosstie Dr;39.168902;-77.287056;98-soccerplex;31
+29494;Hopkins Rd & Steeple Rd;39.16941;-77.289133;98-soccerplex;32
+29496;Steeple Rd & Highstream Dr;39.170945;-77.288952;98-soccerplex;33
+29498;Steeple Rd & Gallop Dr;39.172429;-77.289322;98-soccerplex;34
+29500;Steeple Rd & Steeple Pl;39.173318;-77.290914;98-soccerplex;35
+29502;Steeple Rd & Furlong Rd;39.174045;-77.293942;98-soccerplex;36
+29504;Steeple Rd & Marksburg Ct;39.172618;-77.296701;98-soccerplex;37
+29506;Clopper Rd & Festival Way;39.17126;-77.297874;98-soccerplex;38
+29508;Clopper Rd & Etetnity Rd;39.170066;-77.296966;98-soccerplex;39
+16090;Richter Farm Rd & Clopper Rd;39.169566;-77.297249;98-soccerplex;40
+15050;Richter Farm Rd & Autumn Crest Rd;39.1674;-77.29825;98-soccerplex;41
+15052;Richter Farm Rd & Kings Crossing Blvd;39.16447;-77.296392;98-soccerplex;42
+15054;Richter Farm Rd & Ashleigh Green Rd;39.159423;-77.295625;98-soccerplex;43
+15056;Richter Farm Rd & Rim Fire Ct;39.157616;-77.296745;98-soccerplex;44
+15058;Richter Farm Rd & Avatar Ln;39.154324;-77.297714;98-soccerplex;45
+15060;Richter Farm Rd & Schaeffer Rd;39.152555;-77.296508;98-soccerplex;46
+17529;Central Park Cir & @ Championship Stadium;39.151245;-77.310272;98-soccerplex;47
+17511;Central Park Cir & Central Park Cir;39.151245;-77.303246;98-soccerplex;48
+17519;Schaeffer Rd & Richter Farm Rd;39.152557;-77.295765;98-soccerplex;49
+17520;Schaeffer Rd & Northern Dancer Ln;39.154182;-77.294052;98-soccerplex;50
+17524;Schaeffer Rd & Tatani Dr;39.155934;-77.292756;98-soccerplex;51
+17522;Schaeffer Rd & Tapwood Rd;39.158775;-77.290512;98-soccerplex;52
+17526;Schaeffer Rd & Leaman Farm Rd;39.162053;-77.287327;98-soccerplex;53
+17452;Kingsview Park & Ride & Clopper Rd;39.161121;-77.280583;98-soccerplex;54
+15182;Germantown Transit Center & Bay B;39.183024;-77.261032;98-gcc;1
+21528;Crystal Rock Dr & Century Blvd;39.18343;-77.263779;98-gcc;2
+25288;Rexmore Dr & Pinnacle Dr;39.184601;-77.264923;98-gcc;3
+23684;Locbury Dr & Locbury Cir;39.185551;-77.265793;98-gcc;4
+23686;Locbury Dr & Locbury Ct;39.187195;-77.266365;98-gcc;5
+23688;Locbury Dr & Water Row Terr;39.188479;-77.267385;98-gcc;6
+27012;Waters Landing Dr & Alderleaf Dr;39.189599;-77.26821;98-gcc;7
+27014;Waters Landing Dr & Pickering Pl;39.190062;-77.270207;98-gcc;8
+27016;Waters Landing Dr & Bargene Way;39.191086;-77.270988;98-gcc;9
+17181;Father Hurley Blvd & @ 21000;39.190178;-77.273827;98-gcc;10
+22146;Father Hurley Blvd & Beaconfield Dr;39.189554;-77.273502;98-gcc;11
+27682;Wynnfield Dr & Shipley Terr;39.186333;-77.274666;98-gcc;12
+27684;Wynnfield Dr & Waldorf Dr;39.186157;-77.276739;98-gcc;13
+27686;Wynnfield Dr & Walnutwood Ln;39.185726;-77.279022;98-gcc;14
+27688;Wynnfield Dr & Laurel Hill Way;39.185429;-77.281174;98-gcc;15
+15138;Wynnfield Dr & Wanegarden Dr;39.185836;-77.28264;98-gcc;16
+15114;Wanegarden Dr & Lake Seneca Es;39.183678;-77.284615;98-gcc;17
+26892;Wanegarden Dr & Wanegarden Ct;39.183408;-77.286507;98-gcc;18
+26894;Wanegarden Dr & Lake Park Dr;39.182498;-77.289711;98-gcc;19
+27412;Wisteria Dr & Webster Ct;39.180176;-77.287506;98-gcc;20
+27414;Wisteria Dr & Teakwood Ln;39.180146;-77.283818;98-gcc;21
+27416;Wisteria Dr & Wintersspoon (W) Ln;39.181214;-77.280759;98-gcc;22
+27418;Wisteria Dr & Larentia Dr;39.181778;-77.279045;98-gcc;23
+27420;Wisteria Dr & Waldorf Dr;39.182035;-77.277241;98-gcc;24
+14559;Wisteria Dr & Waters Dr;39.178708;-77.273293;98-gcc;25
+17099;Waterford Hills Blvd & Carlow Point Cir;39.177971;-77.277473;98-gcc;26
+17537;Father Hurley Blvd & Lullaby Rd;39.176694;-77.282609;98-gcc;27
+29486;Father Hurley Blvd & Sawyer Terr;39.171418;-77.283795;98-gcc;28
+29488;Father Hurley Blvd & Hopkins Rd;39.169504;-77.283101;98-gcc;29
+29490;Hopkins Rd & Lark Song Dr;39.168766;-77.284882;98-gcc;30
+29492;Hopkins Rd & Crosstie Dr;39.168902;-77.287056;98-gcc;31
+29494;Hopkins Rd & Steeple Rd;39.16941;-77.289133;98-gcc;32
+29496;Steeple Rd & Highstream Dr;39.170945;-77.288952;98-gcc;33
+29498;Steeple Rd & Gallop Dr;39.172429;-77.289322;98-gcc;34
+29500;Steeple Rd & Steeple Pl;39.173318;-77.290914;98-gcc;35
+29502;Steeple Rd & Furlong Rd;39.174045;-77.293942;98-gcc;36
+29504;Steeple Rd & Marksburg Ct;39.172618;-77.296701;98-gcc;37
+29506;Clopper Rd & Festival Way;39.17126;-77.297874;98-gcc;38
+29508;Clopper Rd & Etetnity Rd;39.170066;-77.296966;98-gcc;39
+16090;Richter Farm Rd & Clopper Rd;39.169566;-77.297249;98-gcc;40
+15050;Richter Farm Rd & Autumn Crest Rd;39.1674;-77.29825;98-gcc;41
+15052;Richter Farm Rd & Kings Crossing Blvd;39.16447;-77.296392;98-gcc;42
+15054;Richter Farm Rd & Ashleigh Green Rd;39.159423;-77.295625;98-gcc;43
+15056;Richter Farm Rd & Rim Fire Ct;39.157616;-77.296745;98-gcc;44
+15058;Richter Farm Rd & Avatar Ln;39.154324;-77.297714;98-gcc;45
+15060;Richter Farm Rd & Schaeffer Rd;39.152555;-77.296508;98-gcc;46
+17519;Schaeffer Rd & Richter Farm Rd;39.152557;-77.295765;98-gcc;47
+17520;Schaeffer Rd & Northern Dancer Ln;39.154182;-77.294052;98-gcc;48
+17524;Schaeffer Rd & Tatani Dr;39.155934;-77.292756;98-gcc;49
+17522;Schaeffer Rd & Tapwood Rd;39.158775;-77.290512;98-gcc;50
+17526;Schaeffer Rd & Leaman Farm Rd;39.162053;-77.287327;98-gcc;51
+29514;Clopper Rd & Schaffer Rd;39.163601;-77.284935;98-gcc;52
+16070;Kingsview Rd & Germantown Community Center;39.16571;-77.285565;98-gcc;53
+29514;Clopper Rd & Schaffer Rd;39.163601;-77.284935;98-gcc;54
+17452;Kingsview Park & Ride & Clopper Rd;39.161121;-77.280583;98-gcc;55
+15182;Germantown Transit Center & Bay B;39.183024;-77.261032;98;1
+21528;Crystal Rock Dr & Century Blvd;39.18343;-77.263779;98;2
+25288;Rexmore Dr & Pinnacle Dr;39.184601;-77.264923;98;3
+23684;Locbury Dr & Locbury Cir;39.185551;-77.265793;98;4
+23686;Locbury Dr & Locbury Ct;39.187195;-77.266365;98;5
+23688;Locbury Dr & Water Row Terr;39.188479;-77.267385;98;6
+27012;Waters Landing Dr & Alderleaf Dr;39.189599;-77.26821;98;7
+27014;Waters Landing Dr & Pickering Pl;39.190062;-77.270207;98;8
+27016;Waters Landing Dr & Bargene Way;39.191086;-77.270988;98;9
+17181;Father Hurley Blvd & @ 21000;39.190178;-77.273827;98;10
+22146;Father Hurley Blvd & Beaconfield Dr;39.189554;-77.273502;98;11
+27682;Wynnfield Dr & Shipley Terr;39.186333;-77.274666;98;12
+27684;Wynnfield Dr & Waldorf Dr;39.186157;-77.276739;98;13
+27686;Wynnfield Dr & Walnutwood Ln;39.185726;-77.279022;98;14
+27688;Wynnfield Dr & Laurel Hill Way;39.185429;-77.281174;98;15
+15138;Wynnfield Dr & Wanegarden Dr;39.185836;-77.28264;98;16
+15114;Wanegarden Dr & Lake Seneca Es;39.183678;-77.284615;98;17
+26892;Wanegarden Dr & Wanegarden Ct;39.183408;-77.286507;98;18
+26894;Wanegarden Dr & Lake Park Dr;39.182498;-77.289711;98;19
+27412;Wisteria Dr & Webster Ct;39.180176;-77.287506;98;20
+27414;Wisteria Dr & Teakwood Ln;39.180146;-77.283818;98;21
+27416;Wisteria Dr & Wintersspoon (W) Ln;39.181214;-77.280759;98;22
+27418;Wisteria Dr & Larentia Dr;39.181778;-77.279045;98;23
+27420;Wisteria Dr & Waldorf Dr;39.182035;-77.277241;98;24
+14559;Wisteria Dr & Waters Dr;39.178708;-77.273293;98;25
+17099;Waterford Hills Blvd & Carlow Point Cir;39.177971;-77.277473;98;26
+17537;Father Hurley Blvd & Lullaby Rd;39.176694;-77.282609;98;27
+29486;Father Hurley Blvd & Sawyer Terr;39.171418;-77.283795;98;28
+29488;Father Hurley Blvd & Hopkins Rd;39.169504;-77.283101;98;29
+29490;Hopkins Rd & Lark Song Dr;39.168766;-77.284882;98;30
+29492;Hopkins Rd & Crosstie Dr;39.168902;-77.287056;98;31
+29494;Hopkins Rd & Steeple Rd;39.16941;-77.289133;98;32
+29496;Steeple Rd & Highstream Dr;39.170945;-77.288952;98;33
+29498;Steeple Rd & Gallop Dr;39.172429;-77.289322;98;34
+29500;Steeple Rd & Steeple Pl;39.173318;-77.290914;98;35
+29502;Steeple Rd & Furlong Rd;39.174045;-77.293942;98;36
+29504;Steeple Rd & Marksburg Ct;39.172618;-77.296701;98;37
+29506;Clopper Rd & Festival Way;39.17126;-77.297874;98;38
+29508;Clopper Rd & Etetnity Rd;39.170066;-77.296966;98;39
+16090;Richter Farm Rd & Clopper Rd;39.169566;-77.297249;98;40
+15050;Richter Farm Rd & Autumn Crest Rd;39.1674;-77.29825;98;41
+15052;Richter Farm Rd & Kings Crossing Blvd;39.16447;-77.296392;98;42
+15054;Richter Farm Rd & Ashleigh Green Rd;39.159423;-77.295625;98;43
+15056;Richter Farm Rd & Rim Fire Ct;39.157616;-77.296745;98;44
+15058;Richter Farm Rd & Avatar Ln;39.154324;-77.297714;98;45
+15060;Richter Farm Rd & Schaeffer Rd;39.152555;-77.296508;98;46
+17519;Schaeffer Rd & Richter Farm Rd;39.152557;-77.295765;98;47
+17520;Schaeffer Rd & Northern Dancer Ln;39.154182;-77.294052;98;48
+17524;Schaeffer Rd & Tatani Dr;39.155934;-77.292756;98;49
+17522;Schaeffer Rd & Tapwood Rd;39.158775;-77.290512;98;50
+17526;Schaeffer Rd & Leaman Farm Rd;39.162053;-77.287327;98;51
+17452;Kingsview Park & Ride & Clopper Rd;39.161121;-77.280583;98;52
+15182;Germantown Transit Center & Bay B;39.183024;-77.261032;98-clopper;1
+21528;Crystal Rock Dr & Century Blvd;39.18343;-77.263779;98-clopper;2
+25288;Rexmore Dr & Pinnacle Dr;39.184601;-77.264923;98-clopper;3
+23684;Locbury Dr & Locbury Cir;39.185551;-77.265793;98-clopper;4
+23686;Locbury Dr & Locbury Ct;39.187195;-77.266365;98-clopper;5
+23688;Locbury Dr & Water Row Terr;39.188479;-77.267385;98-clopper;6
+27012;Waters Landing Dr & Alderleaf Dr;39.189599;-77.26821;98-clopper;7
+27014;Waters Landing Dr & Pickering Pl;39.190062;-77.270207;98-clopper;8
+27016;Waters Landing Dr & Bargene Way;39.191086;-77.270988;98-clopper;9
+17181;Father Hurley Blvd & @ 21000;39.190178;-77.273827;98-clopper;10
+22146;Father Hurley Blvd & Beaconfield Dr;39.189554;-77.273502;98-clopper;11
+27682;Wynnfield Dr & Shipley Terr;39.186333;-77.274666;98-clopper;12
+27684;Wynnfield Dr & Waldorf Dr;39.186157;-77.276739;98-clopper;13
+27686;Wynnfield Dr & Walnutwood Ln;39.185726;-77.279022;98-clopper;14
+27688;Wynnfield Dr & Laurel Hill Way;39.185429;-77.281174;98-clopper;15
+15138;Wynnfield Dr & Wanegarden Dr;39.185836;-77.28264;98-clopper;16
+15114;Wanegarden Dr & Lake Seneca Es;39.183678;-77.284615;98-clopper;17
+26892;Wanegarden Dr & Wanegarden Ct;39.183408;-77.286507;98-clopper;18
+26894;Wanegarden Dr & Lake Park Dr;39.182498;-77.289711;98-clopper;19
+27412;Wisteria Dr & Webster Ct;39.180176;-77.287506;98-clopper;20
+27414;Wisteria Dr & Teakwood Ln;39.180146;-77.283818;98-clopper;21
+27416;Wisteria Dr & Wintersspoon (W) Ln;39.181214;-77.280759;98-clopper;22
+27418;Wisteria Dr & Larentia Dr;39.181778;-77.279045;98-clopper;23
+27420;Wisteria Dr & Waldorf Dr;39.182035;-77.277241;98-clopper;24
+14559;Wisteria Dr & Waters Dr;39.178708;-77.273293;98-clopper;25
+17099;Waterford Hills Blvd & Carlow Point Cir;39.177971;-77.277473;98-clopper;26
+17537;Father Hurley Blvd & Lullaby Rd;39.176694;-77.282609;98-clopper;27
+29486;Father Hurley Blvd & Sawyer Terr;39.171418;-77.283795;98-clopper;28
+29488;Father Hurley Blvd & Hopkins Rd;39.169504;-77.283101;98-clopper;29
+29490;Hopkins Rd & Lark Song Dr;39.168766;-77.284882;98-clopper;30
+29492;Hopkins Rd & Crosstie Dr;39.168902;-77.287056;98-clopper;31
+29494;Hopkins Rd & Steeple Rd;39.16941;-77.289133;98-clopper;32
+29496;Steeple Rd & Highstream Dr;39.170945;-77.288952;98-clopper;33
+29498;Steeple Rd & Gallop Dr;39.172429;-77.289322;98-clopper;34
+29500;Steeple Rd & Steeple Pl;39.173318;-77.290914;98-clopper;35
+29502;Steeple Rd & Furlong Rd;39.174045;-77.293942;98-clopper;36
+29504;Steeple Rd & Marksburg Ct;39.172618;-77.296701;98-clopper;37
+29506;Clopper Rd & Festival Way;39.17126;-77.297874;98-clopper;38
+29508;Clopper Rd & Etetnity Rd;39.170066;-77.296966;98-clopper;39
+16090;Richter Farm Rd & Clopper Rd;39.169566;-77.297249;98-clopper;40
+15050;Richter Farm Rd & Autumn Crest Rd;39.1674;-77.29825;98-clopper;41
+15052;Richter Farm Rd & Kings Crossing Blvd;39.16447;-77.296392;98-clopper;42
+15054;Richter Farm Rd & Ashleigh Green Rd;39.159423;-77.295625;98-clopper;43
+15056;Richter Farm Rd & Rim Fire Ct;39.157616;-77.296745;98-clopper;44
+15058;Richter Farm Rd & Avatar Ln;39.154324;-77.297714;98-clopper;45
+15060;Richter Farm Rd & Schaeffer Rd;39.152555;-77.296508;98-clopper;46
+17519;Schaeffer Rd & Richter Farm Rd;39.152557;-77.295765;98-clopper;47
+17520;Schaeffer Rd & Northern Dancer Ln;39.154182;-77.294052;98-clopper;48
+17524;Schaeffer Rd & Tatani Dr;39.155934;-77.292756;98-clopper;49
+17522;Schaeffer Rd & Tapwood Rd;39.158775;-77.290512;98-clopper;50
+17526;Schaeffer Rd & Leaman Farm Rd;39.162053;-77.287327;98-clopper;51
+27782;Clopper Rd & Kingsview Park & Ride;39.16132;-77.280155;98-clopper;52
+21018;Clopper Rd & Great Seneca Hwy;39.158708;-77.274792;98-clopper;53
+21020;Clopper Rd & Timko Ln;39.15794;-77.272636;98-clopper;54
+21022;Clopper Rd & Metz Dr;39.157695;-77.270988;98-clopper;55
+21070;Clopper Rd & Mateny Rd;39.156569;-77.266278;98-clopper;56
+29860;Mateny Rd & Sutherby Ln;39.157638;-77.266229;98-clopper;57
+29862;Mateny Rd & Terragon Way;39.159093;-77.266915;98-clopper;58
+29864;Mateny Rd & Sparrows Point Pl;39.160759;-77.26812;98-clopper;59
+17514;Cinnamon Dr & Mustard Seed Ct;39.162544;-77.268766;98-clopper;60
+17515;Cinnamon Dr & Turmeric Ct;39.162762;-77.267197;98-clopper;61
+17516;Cinnamon Dr & Sage Way;39.162209;-77.265068;98-clopper;62
+17517;Cinnamon Dr & Bay Leaf Way;39.16031;-77.262978;98-clopper;63
+26580;Twinbrook Station & Bay C - East;39.062016;-77.119797;10;1
+28420;Parklawn Dr & Washington Ave;39.061466;-77.115371;10;2
+28422;Parklawn Dr & Parklawn Bldg;39.061375;-77.113083;10;3
+28426;Parklawn Dr & Wilkins Ave;39.060435;-77.111684;10;4
+28428;Parklawn Dr & @ 12224;39.057897;-77.110399;10;5
+28430;Parklawn Dr & Wilkins Ave;39.056549;-77.108976;10;6
+28432;Parklawn Dr & Braxfield Ct;39.055908;-77.107567;10;7
+28434;Parklawn Dr & Randolph Rd;39.054516;-77.106939;10;8
+28436;Randolph Rd & Putnam Rd;39.053492;-77.103437;10;9
+28438;Randolph Rd & Hunters Ln;39.053667;-77.099519;10;10
+28440;Randolph Rd & Rockinghorse Rd;39.053838;-77.094461;10;11
+28442;Randolph Rd & Dewey Rd;39.053312;-77.089785;10;12
+28444;Randolph Rd & Colin Rd;39.053405;-77.087583;10;13
+28446;Randolph Rd & Charles Rd;39.054345;-77.086264;10;14
+28448;Randolph Rd & Bennion Rd;39.055069;-77.083969;10;15
+28452;Randolph Rd & Colie Dr;39.057304;-77.080139;10;16
+28454;Randolph Rd & Bushey Dr;39.057377;-77.078201;10;17
+28456;Randolph Rd & Connecticut Ave;39.057114;-77.073976;10;18
+28458;Randolph Rd & Goodhill Rd;39.057998;-77.071432;10;19
+28460;Randolph Rd & Dalewood Dr;39.058978;-77.069431;10;20
+28462;Randolph Rd & Bluhill Rd;39.058979;-77.065285;10;21
+28464;Randolph Rd & Lindell St;39.059202;-77.06226;10;22
+28466;Randolph Rd & Terrapin Rd;39.059181;-77.058884;10;23
+28468;Randolph Rd & Livingston St;39.058308;-77.055699;10;24
+28469;Randolph Rd & Grandview Ave;39.057393;-77.051685;10;25
+22790;Georgia Ave & Randolph Rd;39.058914;-77.049868;10;26
+29190;Glenmont Station & Bay F;39.061839;-77.052557;10;27
+28472;Randolph Rd & Georgia Ave;39.058149;-77.049003;10;28
+28474;Randolph Rd & Glenmont Cir;39.059177;-77.047318;10;29
+28476;Randolph Rd & Glenallan Ave;39.060646;-77.044434;10;30
+28478;Randolph Rd & Heurich Rd;39.062224;-77.041955;10;31
+28480;Randolph Rd & Garden Gate Rd;39.063881;-77.039442;10;32
+28482;Randolph Rd & Tivoli Lake Blvd;39.065976;-77.033845;10;33
+28484;Randolph Rd & Kemp Mill Rd;39.066377;-77.029874;10;34
+28486;Randolph Rd & Springtree Dr;39.065929;-77.022155;10;35
+28487;Randolph Rd & @ 500;39.066489;-77.019434;10;36
+28488;Randolph Rd & Hammondton Rd;39.067833;-77.016663;10;37
+28490;Randolph Rd & Hammondton Pl;39.068956;-77.014589;10;38
+28492;Randolph Rd & Kimblewick Dr;39.070376;-77.012723;10;39
+28494;Randolph Rd & Locksley Ln;39.071285;-77.011414;10;40
+28496;Randolph Rd & Sherwood Forest Dr;39.073795;-77.006805;10;41
+28498;Randolph Rd & Vital Wy;39.075013;-77.004487;10;42
+28502;E Randolph Rd & Clifton Rd;39.075434;-76.998419;10;43
+17033;E Randolph Rd & @ 601;39.075339;-76.996816;10;44
+28504;E Randolph Rd & Octagon Ln;39.075452;-76.99491;10;45
+28506;E Randolph Rd & Burkhart St;39.074648;-76.992596;10;46
+28508;E Randolph Rd & Partridge Dr;39.073368;-76.989914;10;47
+29378;E Randolph Rd & Broadmore Rd;39.072334;-76.989044;10;48
+28510;E Randolph Rd & Smith Village Rd;39.070476;-76.988085;10;49
+29396;E Randolph Rd & Tamarack Rd;39.067509;-76.985573;10;50
+28514;E Randolph Rd & Billington Rd;39.066292;-76.983137;10;51
+10015;E Randolph Rd & Village Mill Park;39.065231;-76.97779;10;52
+28516;E Randolph Rd & Withan Dr;39.065563;-76.973381;10;53
+17040;E Randolph Rd & Strafford Garden Dr;39.064968;-76.971554;10;54
+28518;E Randolph Rd & Serpentine Way;39.064402;-76.969469;10;55
+28520;E Randolph Rd & Old Columbia Pk;39.063484;-76.966202;10;56
+29346;Old Columbia Pike & Randolph Rd;39.062371;-76.966679;10;57
+29918;Old Columbia Pike & Carters Grove Dr;39.059883;-76.968735;10;58
+29920;Tech Rd & Prosperity Dr;39.057079;-76.96785;10;59
+29922;Tech Rd & Broadbirch Dr;39.055451;-76.966577;10;60
+29924;Tech Rd & Industrial Pkwy;39.053734;-76.968191;10;61
+17144;Industrial Pkwy & @ 2131 (Mva);39.054481;-76.96948;10;62
+29932;Industrial Pkwy & Old Columbia Pk;39.055333;-76.970323;10;63
+28526;Stewart Ln & Old Columbia Pk;39.046051;-76.98632;10;64
+29452;Stewart Ln & July Dr;39.045226;-76.984144;10;65
+29454;Stewart Ln & April Ln;39.045491;-76.981809;10;66
+29458;Lockwood Dr & July Dr;39.041641;-76.981483;10;67
+29460;Lockwood Dr & Heather Hollow Cir;39.041503;-76.983373;10;68
+29462;Lockwood Dr & July Dr;39.041328;-76.985809;10;69
+28532;Lockwood Dr & @ 11209;39.041003;-76.987884;10;70
+28734;Lockwood Dr & New Hampshire Ave;39.040385;-76.989446;10;71
+24480;New Hampshire Ave & Lockwood Dr;39.039033;-76.990508;10;72
+24484;New Hampshire Ave & Northwest Dr;39.037033;-76.989506;10;73
+24482;New Hampshire Ave & Schindler Rd;39.03361;-76.98631;10;74
+28918;New Hampshire Ave & Ruppert Rd;39.032178;-76.98502;10;75
+15334;New Hampshire Ave & Chalmers Rd;39.029404;-76.983627;10;76
+24486;New Hampshire Ave & Overlook Dr;39.024628;-76.979625;10;77
+25036;Powder Mill Rd & New Hampshire Ave;39.021931;-76.9779;10;78
+17480;Silver Spring Station & Bay 110;38.993781;-77.030076;9;1
+21094;Colesville Rd & Fenton St;38.99746;-77.027111;9;2
+16024;Colesville Rd & Spring St;38.998814;-77.026161;9;3
+21098;Colesville Rd & Noyes Dr;38.999907;-77.025695;9;4
+21100;Colesville Rd & North Noyes Dr;39.001583;-77.025002;9;5
+21102;Colesville Rd & Rowan Rd;39.00388;-77.023689;9;6
+21104;Colesville Rd & Dale Dr;39.005069;-77.022862;9;7
+21106;Colesville Rd & Silgo Creek Pkwy;39.007818;-77.019623;9;8
+21108;Colesville Rd & Franklin Ave;39.008511;-77.018539;9;9
+21110;Colesville Rd & Leighton Ave;39.010384;-77.017357;9;10
+21112;Colesville Rd & Indian Spring Dr;39.012265;-77.016709;9;11
+21116;Colesville Rd & Lanark Way;39.018803;-77.013901;9;12
+26728;University E Blvd & Colesville Rd;39.019913;-77.011848;9;13
+26730;University W Blvd & Sutherland Rd;39.020843;-77.013342;9;14
+26732;University W Blvd & Lorain Ave;39.02186;-77.014931;9;15
+26734;University W Blvd & Brunett Ave;39.023106;-77.016629;9;16
+26736;University W Blvd & Royalton Rd;39.024465;-77.018401;9;17
+26738;University W Blvd & Dennis Ave;39.026019;-77.019974;9;18
+26740;University W Blvd & Eisner St;39.029655;-77.020866;9;19
+26742;University W Blvd & Orange Dr;39.031142;-77.021909;9;20
+26744;University W Blvd & Caddington Ave;39.033325;-77.02342;9;21
+26746;University W Blvd & Arcola Ave;39.034159;-77.023967;9;22
+20078;Arcola Ave & Hoyt St;39.037799;-77.026747;9;23
+20080;Arcola Ave & Kenbrook Dr;39.039055;-77.027603;9;24
+20082;Arcola Ave & Lamberton Dr;39.04097;-77.028839;9;25
+20084;Arcola Ave & Kersey Rd;39.043537;-77.030464;9;26
+20086;Arcola Ave & Kemp Mill Rd;39.04622;-77.032484;9;27
+20088;Arcola Ave & Orebaugh Ave;39.047104;-77.037071;9;28
+20090;Arcola Ave & Channing Dr;39.047328;-77.04078;9;29
+20092;Arcola Ave & Nairn Rd;39.047295;-77.04277;9;30
+20032;Amherst Ave & Arcola Ave;39.046696;-77.048582;9;31
+20034;Amherst Ave & Elkin St;39.045125;-77.048134;9;32
+20036;Amherst Ave & Blueridge Ave;39.043488;-77.047943;9;33
+20038;Amherst Ave & University Blvd;39.04046;-77.048617;9;34
+25240;Reedie Dr & Fern St;39.039018;-77.04941;9;35
+15416;Wheaton Station & Bay J;39.037904;-77.050977;9;36
+17480;Silver Spring Station & Bay 110;38.993781;-77.030076;8;1
+15572;Colesville Rd & Georgia Ave;38.995723;-77.028375;8;2
+21094;Colesville Rd & Fenton St;38.99746;-77.027111;8;3
+16024;Colesville Rd & Spring St;38.998814;-77.026161;8;4
+21098;Colesville Rd & Noyes Dr;38.999907;-77.025695;8;5
+21100;Colesville Rd & North Noyes Dr;39.001583;-77.025002;8;6
+21102;Colesville Rd & Rowan Rd;39.00388;-77.023689;8;7
+26070;Sligo Creek Pkwy & Colesville Rd;39.007931;-77.0205;8;8
+20654;Brunett Ave & Lycoming St;39.010898;-77.021681;8;9
+20656;Brunett Ave & Lorain Ave;39.012646;-77.021713;8;10
+20658;Brunett Ave & Grayson Ave;39.015446;-77.021145;8;11
+20660;Brunett Ave & Forest Glen Rd;39.017088;-77.021639;8;12
+22392;Forest Glen Rd & Renfrew Rd;39.017759;-77.024375;8;13
+22394;Forest Glen Rd & Portland Rd;39.018028;-77.025799;8;14
+22396;Forest Glen Rd & Godwin Dr;39.018402;-77.0289;8;15
+22398;Forest Glen Rd & Tenbrook Dr;39.016872;-77.031292;8;16
+22400;Forest Glen Rd & Sligo Creek;39.016186;-77.033172;8;17
+22402;Forest Glen Rd & Dameron Dr;39.016033;-77.036552;8;18
+22404;Forest Glen Rd & Forest Grove Rd;39.015849;-77.040068;8;19
+22406;Forest Glen Rd & Georgia Ave;39.015793;-77.041854;8;20
+15272;Forest Glen Station & Bay A;39.015768;-77.045546;8;21
+22374;Forest Glen Rd & Georgia Ave;39.015557;-77.042181;8;22
+22378;Forest Glen Rd & Dameron Dr;39.015862;-77.036949;8;23
+17212;Forest Glen Rd & @ 1500;39.015199;-77.035584;8;24
+22380;Forest Glen Rd & Sligo Creek;39.016029;-77.03363;8;25
+26334;Tenbrook Dr & Forest Glen Rd;39.017341;-77.031373;8;26
+26336;Tenbrook Dr & Sidney Dr;39.020664;-77.031004;8;27
+26338;Tenbrook Dr & Roswell Dr;39.021778;-77.028862;8;28
+26340;Tenbrook Dr & Dennis Ave;39.023419;-77.029067;8;29
+26342;Tenbrook Dr & Dryden St;39.025414;-77.028297;8;30
+26344;Tenbrook Dr & Laredo Rd;39.026623;-77.027963;8;31
+26346;Tenbrook Dr & Helena Dr;39.028142;-77.027671;8;32
+26348;Tenbrook Dr & Whitehall St;39.0294;-77.027443;8;33
+26350;Tenbrook Dr & Gregory St;39.030927;-77.028212;8;34
+26352;Tenbrook Dr & Gabel St;39.032482;-77.028412;8;35
+22704;Gabel St & Breewood Rd;39.03318;-77.025085;8;36
+26746;University W Blvd & Arcola Ave;39.034159;-77.023967;8;37
+26748;University W Blvd & Hemmingway Ct;39.036231;-77.027674;8;38
+20101;Kemp Mill Knoll Dvwy & University Blvd;39.037211;-77.028089;8;39
+20100;University W Blvd & @ 1135 (Arcola Towers);39.039045;-77.030487;8;40
+20101;Kemp Mill Knoll Dvwy & University Blvd;39.037211;-77.028089;8;41
+26750;University W Blvd & Sligo Creek Pkwy;39.036667;-77.030209;8;42
+26754;University W Blvd & Inwood Ave;39.036297;-77.036774;8;43
+26756;University W Blvd & Nicholas Dr;39.036819;-77.038629;8;44
+26758;University W Blvd & Easecrest Dr;39.03778;-77.040035;8;45
+26760;University W Blvd & Markwood Dr;39.039004;-77.041567;8;46
+26762;University W Blvd & Reedie Dr;39.039895;-77.042696;8;47
+26764;University W Blvd & Westchester Dr;39.040535;-77.044029;8;48
+20038;Amherst Ave & University Blvd;39.04046;-77.048617;8;49
+25240;Reedie Dr & Fern St;39.039018;-77.04941;8;50
+27184;Wheaton Station & Bay K;39.037982;-77.05119;8;51
+15276;Forest Glen Station & Bay C;39.015794;-77.045004;7;1
+22412;Forest Grove Dr & Forest Glen Rd;39.016003;-77.040092;7;2
+22414;Forest Grove Dr & Sherwood Rd;39.017563;-77.039487;7;3
+22416;Forest Grove Dr & Belvedere Blvd;39.019428;-77.038953;7;4
+22418;Forest Grove Dr & Brisbane St;39.020768;-77.037769;7;5
+23362;Imperial Dr & Woodman Ave;39.023342;-77.035431;7;6
+23366;Inwood Ave & Dennis Ave;39.026044;-77.035386;7;7
+23368;Inwood Ave & Gridley Ln;39.028752;-77.035238;7;8
+23370;Inwood Ave & Gleason St;39.030403;-77.035507;7;9
+23372;Inwood Ave & Windham Ln;39.032174;-77.035767;7;10
+23374;Inwood Ave & Wheaton Ln;39.033531;-77.035972;7;11
+23376;Inwood Ave & Alberti Dr;39.034927;-77.036148;7;12
+26754;University W Blvd & Inwood Ave;39.036297;-77.036774;7;13
+26756;University W Blvd & Nicholas Dr;39.036819;-77.038629;7;14
+26758;University W Blvd & Easecrest Dr;39.03778;-77.040035;7;15
+26760;University W Blvd & Markwood Dr;39.039004;-77.041567;7;16
+26762;University W Blvd & Reedie Dr;39.039895;-77.042696;7;17
+26764;University W Blvd & Westchester Dr;39.040535;-77.044029;7;18
+20038;Amherst Ave & University Blvd;39.04046;-77.048617;7;19
+25240;Reedie Dr & Fern St;39.039018;-77.04941;7;20
+27184;Wheaton Station & Bay K;39.037982;-77.05119;7;21
+17620;Montgomery Mall Transit Center & Bay A;39.026023;-77.143056;6;1
+22210;Fernwood Rd & Marriott Dr;39.025764;-77.137779;6;2
+28408;Rock Spring Dr & Fernwood Rd;39.025605;-77.136419;6;3
+28409;Rock Spring Dr & @ 6550;39.026897;-77.134835;6;4
+28410;Rock Spring Dr & Rockledge Dr;39.027004;-77.132735;6;5
+25480;Rock Spring Dr & Rockledge Dr;39.026615;-77.131165;6;6
+25482;Rock Spring Dr & Old Georgetown Rd;39.026535;-77.12812;6;7
+23120;Grosvenor Ln & Southport Dr;39.022409;-77.122007;6;8
+23122;Grosvenor Ln & Hurst St;39.022444;-77.118978;6;9
+23124;Grosvenor Ln & Broad St;39.022511;-77.116081;6;10
+23126;Grosvenor Ln & Dickens Ave;39.02257;-77.113775;6;11
+23128;Grosvenor Ln & Fleming Ave;39.022601;-77.111151;6;12
+23130;Grosvenor Ln & Laureate Way;39.022664;-77.108001;6;13
+23144;Grosvenor Pl & Grosvenor Ln;39.022864;-77.105232;6;14
+23148;Grosvenor Pl & @ 10301;39.025836;-77.107678;6;15
+23150;Grosvenor Pl & @ 10401;39.027549;-77.107312;6;16
+26468;Tuckerman Ln & Grosvenor Pl;39.029216;-77.107679;6;17
+15298;Grosvenor Station & Bay J;39.028384;-77.10292;6;18
+24274;Montrose Ave & Tuckerman Ln;39.026764;-77.100342;6;19
+24276;Montrose Ave & Weymouth St;39.028584;-77.096146;6;20
+24278;Montrose Ave & Kenilworth Ave;39.030311;-77.094613;6;21
+24280;Montrose Ave & @ 10636;39.0312;-77.09333;6;22
 17490;Silver Spring Station & Bay 232;38.993599;-77.029553;5;1
 25814;2nd Ave & Colesville Rd;38.994989;-77.030608;5;2
 25816;2nd Ave & Fenwick Ln;38.996975;-77.032928;5;3
@@ -221,19 +709,19 @@
 25850;2nd Ave & @ 1400;38.996788;-77.032958;1;36
 25852;2nd Ave & Colesville Rd;38.995132;-77.031166;1;37
 17609;Silver Spring Station & Bay 106;38.99373;-77.030286;1;38
-30120;Silver Spring Transit Center & Bay 229;38.994041;-77.030027;flash-blue;1
-30121;Fenton St Northbound;38.997169;-77.027297;flash-blue;2
-30123;Four Corners Northbound;39.018655;-77.014048;flash-blue;3
-30125;Burnt Mills Northbound;39.031339;-77.00444;flash-blue;4
-30131;Tech Rd Northbound;39.058135;-76.967771;flash-blue;5
-30128;Burtonsville Park & Ride;39.114601;-76.930802;flash-blue;6
-30120;Silver Spring Transit Center & Bay 229;38.994041;-77.030027;flash-orange;1
-30121;Fenton St Northbound;38.997169;-77.027297;flash-orange;2
-30123;Four Corners Northbound;39.018655;-77.014048;flash-orange;3
-30135;Oak Leaf Northbound;39.036744;-76.995667;flash-orange;4
-30153;Federal Drug Administration FDA;39.035406;-76.984671;flash-orange;5
-30136;White Oak Northbound;39.040543;-76.988596;flash-orange;6
-30152;April Lane Northbound;39.045231;-76.981196;flash-orange;7
-30131;Tech Rd Northbound;39.058135;-76.967771;flash-orange;8
-30130;Castle Blvd;39.085218;-76.94054;flash-orange;9
-30129;Briggs Chaney Park & Ride;39.07801;-76.942113;flash-orange;10
+30120;Silver Spring Transit Center & Bay 229;38.994041;-77.030027;Flash Blue;1
+30121;Fenton St Northbound;38.997169;-77.027297;Flash Blue;2
+30123;Four Corners Northbound;39.018655;-77.014048;Flash Blue;3
+30125;Burnt Mills Northbound;39.031339;-77.00444;Flash Blue;4
+30131;Tech Rd Northbound;39.058135;-76.967771;Flash Blue;5
+30128;Burtonsville Park & Ride;39.114601;-76.930802;Flash Blue;6
+30120;Silver Spring Transit Center & Bay 229;38.994041;-77.030027;Flash Orange;1
+30121;Fenton St Northbound;38.997169;-77.027297;Flash Orange;2
+30123;Four Corners Northbound;39.018655;-77.014048;Flash Orange;3
+30135;Oak Leaf Northbound;39.036744;-76.995667;Flash Orange;4
+30153;Federal Drug Administration FDA;39.035406;-76.984671;Flash Orange;5
+30136;White Oak Northbound;39.040543;-76.988596;Flash Orange;6
+30152;April Lane Northbound;39.045231;-76.981196;Flash Orange;7
+30131;Tech Rd Northbound;39.058135;-76.967771;Flash Orange;8
+30130;Castle Blvd;39.085218;-76.94054;Flash Orange;9
+30129;Briggs Chaney Park & Ride;39.07801;-76.942113;Flash Orange;10
