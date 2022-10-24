@@ -264,7 +264,7 @@ public class ediCalc
         }
 
         System.out.print("Export line? ");
-        if (in.nextLine().equalsIgnoreCase("yes"))
+        if (in.nextLine().equalsIgnoreCase("5322"))
         {
           export = true;
         }
