@@ -1,51 +1,167 @@
-FranklMedCntr;48 Sanderson St / Franklin Med Center;42.595088;-72.593429
-AcadCharlemont;Academy at Charlemont;42.618667;-72.825558
-AcadMusic;Academy of Music - Northampton;42.317844;-72.633212
-AirportIndPark;Airport Industrial Park;42.594686;-72.529475
-ArmsLib;Arms Library - Shelburne Falls;42.603846;-72.738075
-BigYWalmart;Big Y / Walmart;42.341496;-72.641087
-BigY;Big Y Plaza;42.586756;-72.628019
-BucklandPR;Buckland Park and Ride;42.619477;-72.748901
-CharlemontCntr;Charlemont Center;42.620128;-72.791591
-CherryRum;Cherry Rum Plaza;42.608917;-72.587056
-CrockerAve;Crocker Ave;42.599945;-72.557734
-DeerfieldIndPark;Deerfield Indus. Park;42.465670;-72.606647
-ElmTerr;Elm Terrace;42.595128;-72.610477
-ErvingCntr;Erving Center;42.599614;-72.399129
-Ervingside;Ervingside - Bowling Alley;42.586520;-72.489720
-FarrenCare;Farren Care Center;42.587569;-72.574648
-FoodCity;Food City;42.604916;-72.560266
-Fosters;Foster's;42.596581;-72.609860
-FrKingHwSS;French King Highway - Stop & Shop;42.607132;-72.574802
-FrontierHS;Frontier High School;42.483246;-72.605048
-GreenfCC;Greenfield Community College;42.599480;-72.629618
-GreenfCorp;Greenfield Corporate Center;42.578951;-72.624779
-GreenfGard;Greenfield Gardens;42.592636;-72.611979
-GreehfHS;Greenfield High School;42.605682;-72.595607
-Hannafords;Hannafords;42.582999;-72.261226
-HardiggPP;Hardigg / Pelican Products;42.488112;-72.606754
-HighRise;High Rise;42.586001;-72.595574
-HomeDepot;Home Depot;42.586032;-72.628346
-JWO;JWO Transit Center;42.586309;-72.600540
-LeydenWoods;Leyden Woods;42.620049;-72.611067
-MillHouse;Mill House (South Entrance);42.589488;-72.604989
-MillersFalls;Millers Falls;42.582718;-72.493232
-MillersFallsRd;Millers Falls Road;42.588525;-72.536202
-MohawkHS;Mohawk High School;42.615075;-72.754597
-MontagueCntr;Montague Center;42.531358;-72.535214
-OrngCntr;Orange Center / Memorial Park;42.590012;-72.309206
-OrngHealth;Orange Health Center;42.592197;-72.330003
-ParkSt;Park St;42.603760;-72.554001
-ParkVilla;Park Villa;42.588731;-72.555848
-SalmonFalls;Salmon Falls - Buckland;42.603725;-72.741428
-Scottys;Scotty's;42.599878;-72.552761
-SDeerfieldCntr;South Deerfield Center;42.477328;-72.608391
-SDeerfiledPR;South Deerfield Park & Ride;42.469027;-72.614621
-TurFallsAveA3rd;Turners Falls - Avenue A & 3rd Street;42.608190;-72.556822
-TurFallsHS;Turners Falls High School;42.588438;-72.543540
-UMASS;UMASS / Amherst;42.386809;-72.525473
-ValleyMed;Valley Medical;42.603349;-72.611056
-OrngWalmart;Walmart (Orange);42.586838;-72.284880
-Weldon;Weldon;42.589157;-72.595006
-WhatelyPR;Whately Park & Ride;42.469699;-72.615694
-YankeeCandleStore;Yankee Candle Store;42.543753;-72.602494
+2505769;Academy at Charlemont;42.618846;-72.825337
+2505768;Academy of Music;42.317660;-72.633408
+2505764;Ave A and 3rd St;42.608020;-72.556395
+2505765;Ave A and 3rd St;42.607889;-72.556535
+2505766;Ave A and 11th St;42.602119;-72.563369
+2505767;Ave A and 11th St;42.601844;-72.563340
+2505763;Ave A and Carnegie Library;42.604156;-72.560783
+2505762;Ave A and Food City (E);42.604502;-72.560900
+2505761;Ave A at Hubies Tavern;42.608524;-72.556627
+2505760;Ave A at The Shea Theater;42.608329;-72.556496
+2505759;Big Y Plaza;42.586646;-72.624709
+2505758;Big Y Walmart Plaza;42.341712;-72.641127
+2505757;Charlemont Center;42.627467;-72.876935
+2505756;Charlemont Park & Ride;42.619392;-72.748990
+2505755;Cherry Rum Plaza;42.608063;-72.587000
+2505751;Colrain Rd and Shelburne Rd;42.587627;-72.623412
+2505752;Colrain Rd and Shelburne Rd;42.587288;-72.623489
+2505753;Colrain Rd at Charlene Manor;42.591352;-72.620416
+2505754;Colrain Rd at Charlene Manor;42.591201;-72.620162
+2505750;Corporate Center;42.576425;-72.623550
+2505746;Deerfield St and Meridian St;42.580691;-72.599335
+2505747;Deerfield St and Meridian St;42.580270;-72.598985
+2505744;Deerfield St and Washington St;42.577949;-72.598348
+2505745;Deerfield St and Washington St;42.577986;-72.598177
+2505748;Deerfield St at Meadows Golf;42.571917;-72.594387
+2505749;Deerfield St at Meadows Golf;42.572454;-72.595111
+2505742;E River St at Colonial Acres Apts;42.585864;-72.301664
+2505743;E River St at Colonial Acres Apts;42.585702;-72.301467
+2505740;E River St at Leisure Woods;42.578550;-72.286069
+2505741;E River St at Leisure Woods;42.578719;-72.286425
+2505739;E River St at Orange Food Pantry;42.590404;-72.304567
+2505737;E River St at Orange Riverfront Park;42.588614;-72.308930
+2505738;E River St at Orange Riverfront Park;42.588503;-72.308986
+2505736;E River St at Orange Senior Center;42.590255;-72.303976
+2505734;E River St at Pinecrest Apts;42.582899;-72.290683
+2505735;E River St at Pinecrest Apts;42.583163;-72.290818
+2505726;Elm St and Oak Cts;42.601416;-72.611220
+2505727;Elm St and Oak Cts;42.601485;-72.611052
+2505732;Elm St at CDH Health Ctr;42.477418;-72.612415
+2505733;Elm St at CDH Health Ctr;42.477536;-72.612795
+2505730;Elm St at Elm Terrace Apts;42.596305;-72.611323
+2505731;Elm St at Elm Terrace Apts;42.596606;-72.611130
+2505728;Elm St at Greenfield Gardens Apts;42.591861;-72.611202
+2505729;Elm St at Greenfield Gardens Apts;42.592898;-72.611014
+2505725;Erving Center;42.599516;-72.399849
+3453596;Erving Center;42.599642;-72.399866
+2505723;Ervinside Bowling Alley;42.586423;-72.489328
+2505721;Farren Care Center;42.586349;-72.575848
+2505722;Farren Care Center;42.586208;-72.575528
+2505720;Federal St and Cleveland St;42.602672;-72.592384
+2505718;Federal St and Grant St;42.603953;-72.590864
+2505716;Federal St and Kenwood St;42.600362;-72.594668
+2505715;Federal St and Osgood St;42.589504;-72.599565
+2505714;Federal St and Smith St;42.600815;-72.593936
+2505719;Federal St at CVS;42.592314;-72.598174
+2505717;Federal St at Greenfield Savings Bank;42.588877;-72.599620
+2505712;Federated Church of Charlemont;42.628084;-72.869695
+2505713;Federated Church of Charlemont;42.627971;-72.869708
+2505711;Franklin County Tech School;42.597473;-72.522459
+2505709;Greenfield Center School;42.575446;-72.581055
+2505710;Greenfield Center School;42.574954;-72.581314
+2505708;Greenfield Community College;42.599867;-72.630279
+2505706;Greenfield High School;42.606656;-72.594143
+2505707;Greenfield High School;42.606520;-72.596109
+2505704;Greenfield Middle School;42.595780;-72.597455
+2505705;Greenfield Middle School;42.596168;-72.597174
+2505702;Greenfield Rd at Magic Wings;42.510223;-72.605387
+2505703;Greenfield Rd at Magic Wings;42.510652;-72.605312
+2505700;Greenfield Rd at Sunoco;42.552441;-72.599780
+2505701;Greenfield Rd at Sunoco;42.552604;-72.599908
+2505698;Greenfield Rd at Yankee Candle Corp;42.494421;-72.610292
+2505699;Greenfield Rd at Yankee Candle Corp;42.494603;-72.610534
+2505697;Hannaford Supermarket Plaza;42.582927;-72.262710
+2505696;High St and Church St;42.589646;-72.594842
+2505693;High St and George St;42.590755;-72.594104
+2505690;High St and Hastings St;42.598232;-72.588434
+2505691;High St and Hastings St;42.597960;-72.588491
+2505689;High St and Lincoln St;42.600630;-72.585788
+2505688;High St and Silver St;42.604403;-72.579752
+2505687;High St and Wildwood Ave;42.605403;-72.578502
+2505694;High St at Franklin Medical Center;42.594903;-72.592040
+2505695;High St at Franklin Medical Center;42.594921;-72.591836
+2505692;High St at Greenfield Police Dept;42.601490;-72.584602
+2505686;JWO Transit Center;42.585745;-72.600632
+2505684;King St and Barret St;42.334297;-72.635995
+2505685;King St and Barret St;42.333852;-72.635505
+2505683;King St at Lia Toyota;42.331228;-72.634484
+2505682;King St at Sakura Buffet;42.331283;-72.634232
+2505680;L St and 4th St;42.606479;-72.555484
+2505681;L St and 4th St;42.606241;-72.555450
+2505678;L St and 7th St;42.604259;-72.557779
+2505679;L St and 7th St;42.604160;-72.557610
+2505677;Leyden Woods at Aster Court;42.619393;-72.614459
+2505674;Main St and Fort Sq;42.587347;-72.608391
+2505675;Main St and Miles St;42.587719;-72.603246
+2505671;Main St and Wells St;42.587724;-72.604908
+2505676;Main St at Cafe;42.587704;-72.598341
+2505672;Main St at Mohawk Mall;42.587375;-72.606010
+2505673;Main St at YMCA;42.587337;-72.597534
+2505669;Millers Falls Center;42.578688;-72.494716
+2505670;Millers Falls Center;42.578723;-72.494569
+2505665;Millers Falls Rd and Industrial Blvd;42.589683;-72.528365
+2505666;Millers Falls Rd and Industrial Blvd;42.589374;-72.528579
+2505663;Millers Falls Rd and Mineral Rd;42.579401;-72.509363
+2505664;Millers Falls Rd and Mineral Rd;42.579476;-72.509963
+2505661;Millers Falls Rd and NCross Rd;42.589830;-72.540027
+2505662;Millers Falls Rd and NCross Rd;42.589752;-72.540207
+2505667;Millers Falls Rd at Highland Apts;42.576967;-72.500329
+2505668;Millers Falls Rd at Highland Apts;42.576831;-72.500328
+2505660;Mohawk High School;42.615963;-72.756026
+2505658;Montague Center;42.532889;-72.532073
+2505659;Montague Center;42.533383;-72.531873
+2505656;Montague St and Crocker Ave;42.599232;-72.559652
+2505657;Montague St and Crocker Ave;42.599003;-72.559203
+2505655;N King St at B'Nai Israel Cemetery;42.352820;-72.641828
+2505654;N King St at Rockridge Community;42.354905;-72.640580
+2505653;N Main St at Frontier High School;42.484063;-72.604536
+2505652;Orange Center;42.590356;-72.308382
+2505651;Park Villa Apts;42.588788;-72.555752
+2505650;Pelican Products;42.487470;-72.607243
+2505649;Registry of Motor Vehicles;42.585697;-72.618205
+2505647;Scotty's Store;42.599770;-72.551428
+2505648;Scotty's Store;42.599754;-72.551634
+2505645;Shelburne Falls Center at Arms Library;42.603848;-72.737987
+2505646;Shelburne Falls Center at Arms Library;42.603845;-72.738169
+2505644;Silver St and Country Club Rd;42.606363;-72.601436
+2505643;Silver St and Vernon St;42.606240;-72.601214
+2505642;South Deerfield Cemetery;42.476307;-72.607003
+2505641;South Deerfield Center;42.476829;-72.607209
+3453595;South Deerfield Center Common;42.477727;-72.607685
+2505640;South Deerfield Common;42.477815;-72.608011
+2505637;State Rd and Christian Ln;42.444452;-72.625790
+2505638;State Rd and Christian Ln;42.445277;-72.625787
+2505639;State Rd at Books-n-More;42.416045;-72.621740
+2505636;State Rd at Muffin's Store;42.418591;-72.621219
+2505635;State Rd at Orchard Trailer;42.425321;-72.621630
+2505634;State Rd at Tom's Hot Dogs;42.423289;-72.622127
+2505633;State St and Bedford Terrace (S);42.320010;-72.634441
+2505632;Stop & Shop Plaza;42.606832;-72.575062
+2505631;Sugarloaf Estates;42.457829;-72.581310
+2505630;Sugarloaf St and Gromacki Ave;42.469248;-72.596992
+2505629;Sugarloaf St and Mountain Rd;42.472398;-72.601153
+2505628;Sugarloaf St at Post Office;42.472940;-72.602202
+2505627;Sugarloaf State Park;42.467942;-72.595247
+2505625;Sunderland Rd at Deerfield Industrial Park;42.467666;-72.606040
+2505626;Sunderland Rd at Deerfield Industrial Park;42.467881;-72.606160
+2505621;Turners Falls Rd and Turnpike Rd;42.588239;-72.548292
+2505622;Turners Falls Rd and Turnpike Rd;42.588437;-72.548470
+2505623;Turnpike Rd at Turners Falls High School;42.588474;-72.544117
+2505624;Turnpike Rd at Turners Falls High School;42.588371;-72.544231
+2505620;WalMart Plaza Orange;42.588176;-72.284163
+2505618;West River Health Center;42.592253;-72.330021
+2505619;West River Health Center;42.592109;-72.329829
+2505615;West St and Depot Rd;42.411075;-72.622852
+2505609;West St and Mountain Dr;42.411666;-72.622901
+2505607;West St and Plain Rd;42.401769;-72.625540
+2505608;West St and Plain Rd;42.402141;-72.625235
+2505616;West St at Danco Modern Plaza;42.367538;-72.637425
+2505617;West St at Danco Modern Plaza;42.368157;-72.636949
+2505613;West St at FedEx;42.389803;-72.633243
+2505614;West St at FedEx;42.389451;-72.633052
+2505612;West St at Hatfield Pub;42.408169;-72.623598
+2505610;West St at Kenwood Apts;42.394923;-72.631639
+2505611;West St at Kenwood Apts;42.394802;-72.631413
+2505606;Whately Park and Ride;42.469898;-72.615311
+2505604;Wisdom Way and County Fairgrounds;42.580174;-72.610194
+2505605;Wisdom Way and County Fairgrounds;42.580046;-72.610075

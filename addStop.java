@@ -17,31 +17,32 @@ public class addStop
     String agencyChoice = s2.nextLine();
 
     int cont = 1; 
+    
+    // loads stop file
+    try
+    {
+      Scanner s = new Scanner(new File("stops/" + agencyChoice + ".txt"));
+      while (s.hasNextLine())
+      {
+        String data = s.nextLine();
+        String id = data.substring(0, data.indexOf(";"));
+        data = data.substring(data.indexOf(";") + 1);
+        String name = data.substring(0, data.indexOf(";"));
+        data = data.substring(data.indexOf(";") + 1);
+        double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+        data = data.substring(data.indexOf(";") + 1);
+        double lon = Double.parseDouble(data);
+
+        stops.add(new Stop(id, name, lat, lon));
+      }
+    }
+    catch (FileNotFoundException e)
+    {
+      System.out.println("Error, can't load stop file " + agencyChoice + ".");
+    }
 
     while (cont == 1) // loop it
     {
-      // loads stop file
-      try
-      {
-        Scanner s = new Scanner(new File("stops/" + agencyChoice + ".txt"));
-        while (s.hasNextLine())
-        {
-          String data = s.nextLine();
-          String id = data.substring(0, data.indexOf(";"));
-          data = data.substring(data.indexOf(";") + 1);
-          String name = data.substring(0, data.indexOf(";"));
-          data = data.substring(data.indexOf(";") + 1);
-          double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
-          data = data.substring(data.indexOf(";") + 1);
-          double lon = Double.parseDouble(data);
-
-          stops.add(new Stop(id, name, lat, lon));
-        }
-      }
-      catch (FileNotFoundException e)
-      {
-        System.out.println("Error, can't load stop file " + agencyChoice + ".");
-      }
 
       System.out.print("Enter Stop ID: ");
       String newId = s2.nextLine();
@@ -77,7 +78,8 @@ public class addStop
         System.out.println("Error, can't write to stop file " + agencyChoice + ".");
       }
       System.out.print("Enter 1 to add another stop: ");
-      cont = in.nextInt();
+      cont = s2.nextInt();
+      s2.nextLine(); // enter key
       System.out.println(); // new line
     }
   }
