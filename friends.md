@@ -10,9 +10,7 @@ Let's get into it!
 
 First things first - the calculator was coded in Java (the only programming language I know), so you'll need to download it. You can download it for free for any operating system on Oracle's website: https://www.oracle.com/java/technologies/downloads/
 
-Next - create a GitHub account if you don't have one (it's also free). You will need to "fork" this repository, which will create a copy for you to use while working, and can easily be merged back into the main one (this one, eliotchase/edi).
-
-You'll also need to clone your forked version to your computer - I recommend using both [Github's offical CLI](https://cli.github.com/) and [Git](https://git-scm.com/) for all work with the EDI calculator (both programs are free).
+Next - create a GitHub account if you don't have one (it's also free), and clone the database to your computer - I recommend using both [Github's offical CLI](https://cli.github.com/) and [Git](https://git-scm.com/) for all work with the EDI calculator (both programs are free).
 
 Please register your GitHub username through [this short form](https://forms.gle/Z2DAJkB8Yk5yV6W5A), so I know who should actually be using this.
 
@@ -28,13 +26,9 @@ Run `java ediCalc` to run the calculator. When prompted to save line, enter `yes
 
 ## Part 3: Adding to the database
 
-Once a route is calculated and saved, go to the `edis/[agency].txt` file and reorder the list. The newest route is always on the bottom and it looks nice when everything is in order. You can also do this after you finish calculating multiple EDIs and just reorder everything at once. Run `java routeList` afterwards as this generates the `routes.html` page.
+Once a route is calculated and saved, run `java routeList` afterwards as this generates the `routes.html` page.
 
 After you finish your EDI calculating, it's time to get it added to the database. You'll have to commit and push your Git changes (yeah that sounds complicated). I do it in one simple Git command (you'll be able to do this) from the command line - `git add * && git commit -m "[put whatever here i don't care this is just a message]" && git push`. That will do everything in one go.
-
-That will update your forked copy of the EDI database. Go to GitHub on the web (this is the easiest way) and to your forked repository, and you should see a button to create a "pull request". Click that, make sure it says it's good to go, and sumbit the pull request - that will let me know that your submissions are ready to be added to the main database. I update the database once per day (usually night US Central)
-
-I recommend updating your copy of the database each time you go to calculate an EDI (like every day or so) so that you have the current version of the database. To do so, go to your fork on the web and click the "Fetch upstream" button. To sync these to your copy on your computer, run `git fetch && git pull`.
 
 Note that if you are actually knowledgeable with Git or the CLI (which I am not), there may be a better way to do this process. This is just the way I'd do it with my current knowledge.
 
