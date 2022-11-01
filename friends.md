@@ -14,6 +14,10 @@ First things first - the calculator was coded in Java (the only programming lang
 
 Next - create a GitHub account if you don't have one (it's also free), and clone the database to your computer - I recommend using both [Github's offical CLI](https://cli.github.com/) and [Git](https://git-scm.com/) for all work with the EDI calculator (both programs are free).
 
+Download and intall instructions for [the CLI](https://github.com/cli/cli#installation) and [Git](https://github.com/cli/cli#installation) are available.
+
+Certain code editors such as [Visual Studio Code](https://code.visualstudio.com/) automatically integrate with GitHub to make the process easier for beginners.
+
 Please register your GitHub username through [this short form](https://forms.gle/Z2DAJkB8Yk5yV6W5A), so I know who should actually be using this.
 
 With that, you are all set up and ready to calculate some EDIs!
@@ -33,8 +37,6 @@ Once a route is calculated and saved, run `java routeList` afterwards as this ge
 After you finish your EDI calculating, it's time to get it added to the database. You'll have to commit and push your Git changes (yeah that sounds complicated). I do it in one simple Git command (you'll be able to do this) from the command line - `git add * && git commit -m "[put whatever here i don't care this is just a message]" && git push`. That will do everything in one go.
 
 Note that if you are actually knowledgeable with Git or the CLI (which I am not), there may be a better way to do this process. This is just the way I'd do it with my current knowledge.
-
-Download and intall instructions for [the CLI](https://github.com/cli/cli#installation) and [Git](https://github.com/cli/cli#installation) are available.
 
 ## Some other documentation
 
