@@ -32,7 +32,7 @@ Once a route is calculated and saved, go to the `edis/[agency].txt` file and reo
 
 After you finish your EDI calculating, it's time to get it added to the database. You'll have to commit and push your Git changes (yeah that sounds complicated). I do it in one simple Git command (you'll be able to do this) from the command line - `git add * && git commit -m "[put whatever here i don't care this is just a message]" && git push`. That will do everything in one go.
 
-That will update your forked copy of the EDI database. Go to GitHub on the web (this is the easiest way) and to your forked repository, and you should see a button to create a "pull request". Click that, make sure it says it's good to go, and sumbit the pull request - that will let me know that your submissions are ready to be added to the main database.
+That will update your forked copy of the EDI database. Go to GitHub on the web (this is the easiest way) and to your forked repository, and you should see a button to create a "pull request". Click that, make sure it says it's good to go, and sumbit the pull request - that will let me know that your submissions are ready to be added to the main database. I update the database once per day (usually night US Central)
 
 I recommend updating your copy of the database each time you go to calculate an EDI (like every day or so) so that you have the current version of the database. To do so, go to your fork on the web and click the "Fetch upstream" button. To sync these to your copy on your computer, run `git fetch && git pull`.
 
