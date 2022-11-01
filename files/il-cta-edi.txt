@@ -1,3 +1,805 @@
+18295;Ford City;41.756645;-87.732897;67;1
+17290;76th Street & Kostner;41.754868;-87.73214;67;2
+17291;76th Street & Daley College;41.754996;-87.724111;67;3
+4707;Pulaski & 75th Place;41.75631;-87.721983;67;4
+17292;Pulaski & 74th Street;41.757768;-87.721995;67;5
+10132;71st Street & Pulaski;41.764024;-87.722117;67;6
+10133;71st Street & Springfield;41.764062;-87.720045;67;7
+10134;71st Street & Hamlin;41.764104;-87.717396;67;8
+10135;71st Street & Lawndale;41.764146;-87.715021;67;9
+10136;3600 W 71st Street;41.764111;-87.712832;67;10
+10137;71st Street & St. Louis;41.764198;-87.709877;67;11
+10138;71st Street & Homan;41.764229;-87.707612;67;12
+10139;71st Street & Spaulding;41.764266;-87.705157;67;13
+10140;71st Street & Kedzie;41.764324;-87.702489;67;14
+10141;71st Street & Albany;41.764383;-87.700416;67;15
+15195;71st Street & Sacramento;41.764404;-87.697426;67;16
+4140;71st Street & Francisco;41.764458;-87.695526;67;17
+17924;71st Street & California;41.764479;-87.692843;67;18
+10144;71st Street & Washtenaw;41.76453;-87.690678;67;19
+10145;71st Street & Rockwell;41.764561;-87.688238;67;20
+10146;71st Street & Campbell;41.764599;-87.68579;67;21
+10147;Western & 71st Street;41.764926;-87.683117;67;22
+8317;Western & 69th Street;41.768221;-87.683207;67;23
+10148;69th Street & Oakley;41.768322;-87.680888;67;24
+10149;69th Street & Bell;41.768337;-87.679677;67;25
+10151;69th Street & Hoyne;41.76837;-87.676164;67;26
+18084;69th Street & Damen;41.768372;-87.673368;67;27
+10153;69th Street & Wolcott;41.768412;-87.671296;67;28
+10154;69th Street & Wood;41.768429;-87.668862;67;29
+10156;69th Street & Paulina;41.768457;-87.66642;67;30
+15974;69th Street & Ashland;41.768491;-87.663592;67;31
+10159;69th Street & Laflin;41.768525;-87.661587;67;32
+10160;69th Street & Loomis;41.768551;-87.659187;67;33
+10161;69th Street & Throop;41.768597;-87.65674;67;34
+10162;69th Street & Racine;41.768619;-87.654318;67;35
+10163;69th Street & Aberdeen;41.768662;-87.651886;67;36
+10165;69th Street & Morgan;41.768712;-87.64945;67;37
+10167;69th Street & Peoria;41.768749;-87.647041;67;38
+10168;69th Street & Halsted;41.768767;-87.64464;67;39
+10169;69th Street & Union;41.768818;-87.642163;67;40
+10170;69th Street & Lowe;41.768849;-87.640276;67;41
+10172;69th Street & Normal;41.768877;-87.637363;67;42
+10173;69th Street & Stewart;41.768894;-87.634875;67;43
+10174;69th Street & Harvard;41.768963;-87.633604;67;44
+10175;69th Street & Princeton;41.768945;-87.632399;67;45
+10176;69th Street & Wentworth;41.769006;-87.63006;67;46
+10177;69th Street & Perry;41.768974;-87.628342;67;47
+10178;69th Red Line Station;41.769099;-87.626013;67;48
+10179;69th Street & State;41.769102;-87.624661;67;49
+7215;69th Street & Wabash;41.769108;-87.623489;67;50
+7216;69th Street & Michigan;41.76915;-87.621906;67;51
+7217;69th Street & Indiana;41.769171;-87.620306;67;52
+7218;69th Street & Prairie;41.7692;-87.618689;67;53
+7219;69th Street & Calumet;41.769226;-87.617063;67;54
+7220;69th Street & King Drive;41.769281;-87.615483;67;55
+7221;69th Street & Anthony;41.769354;-87.61358;67;56
+7222;Keefe & South Chicago;41.770471;-87.612249;67;57
+10180;Rhodes & 68th Street;41.77101;-87.611691;67;58
+10181;Rhodes & 67th Street;41.772924;-87.611743;67;59
+10182;67th Street & St. Lawrence;41.772996;-87.610709;67;60
+10183;67th Street & Langley;41.773035;-87.608323;67;61
+10184;67th Street & Cottage Grove;41.773074;-87.605945;67;62
+10185;67th Street & Drexel;41.773102;-87.603387;67;63
+10186;67th Street & Ingleside;41.773114;-87.602176;67;64
+10187;67th Street & Ellis;41.773133;-87.601002;67;65
+10188;67th Street & Greenwood;41.773137;-87.599802;67;66
+10189;67th Street & University;41.773148;-87.59849;67;67
+10190;67th Street & Minerva;41.773165;-87.59722;67;68
+10191;67th Street & Woodlawn;41.773176;-87.59599;67;69
+10192;67th Street & Kimbark;41.773195;-87.594475;67;70
+10193;67th Street & Kenwood;41.77321;-87.593023;67;71
+10194;67th Street & Dorchester;41.773221;-87.591721;67;72
+10195;67th Street & Blackstone;41.773254;-87.588856;67;73
+10196;67th Street & Stony Island;41.773269;-87.586439;67;74
+5206;67th Street & East End;41.773304;-87.583975;67;75
+5207;67th Street & Cregier;41.773335;-87.581512;67;76
+5208;67th Street & Bennett;41.773365;-87.57916;67;77
+7042;67th Street & Jeffery;41.773385;-87.576693;67;78
+15309;67th Street & Chappel;41.773403;-87.575345;67;79
+7043;67th Street & Clyde;41.773424;-87.574142;67;80
+7044;67th Street & Paxton;41.773433;-87.571692;67;81
+7045;67th Street & Crandon;41.773482;-87.570132;67;82
+7046;67th Street & Oglesby;41.773484;-87.568486;67;83
+10068;67th Street & Oglesby Terminal;41.773692;-87.567748;67;84
+11891;Lawrence & Christiana;41.968353;-87.712296;93;1
+3747;Lawrence & Spaulding;41.968327;-87.711025;93;2
+11892;Kedzie & Lawrence;41.96878;-87.708399;93;3
+11893;Kedzie & Ainslie;41.970193;-87.708404;93;4
+11894;Kedzie & Argyle;41.971981;-87.70849;93;5
+11895;Kedzie & Carmen;41.973811;-87.708543;93;6
+11896;Kedzie & Foster;41.975614;-87.708591;93;7
+4774;Foster & Albany;41.975754;-87.70593;93;8
+4775;Foster & Virginia;41.975659;-87.702796;93;9
+4776;Foster & Francisco;41.975669;-87.701421;93;10
+11897;California & Foster;41.976026;-87.698842;93;11
+11898;California & Berwyn;41.977569;-87.698904;93;12
+11899;California & Balmoral;41.979388;-87.698962;93;13
+11900;California & Catalpa;41.981209;-87.699021;93;14
+11901;California & Bryn Mawr;41.983033;-87.699079;93;15
+11902;California & Lincoln;41.985314;-87.699144;93;16
+11903;California & Ardmore;41.986664;-87.699199;93;17
+11904;California & Thorndale;41.988482;-87.69926;93;18
+11905;California & Peterson;41.990299;-87.699309;93;19
+11906;California & Glenlake;41.992091;-87.69938;93;20
+11907;California & Granville;41.993881;-87.699439;93;21
+11908;California & Rosemont;41.995674;-87.699499;93;22
+11909;California & Devon;41.997471;-87.699558;93;23
+11910;California & Arthur;41.999297;-87.699607;93;24
+11911;California & Albion;42.001117;-87.699655;93;25
+11912;California & North Shore;42.002937;-87.699703;93;26
+11913;California & Pratt;42.004758;-87.699749;93;27
+11914;California & Morse;42.006561;-87.699723;93;28
+11915;California & Lunt;42.008364;-87.699695;93;29
+11916;California & Estes;42.01017;-87.699667;93;30
+11917;California & Touhy;42.011981;-87.699639;93;31
+11919;California & Chase;42.013788;-87.699606;93;32
+11920;California & Jarvis;42.015601;-87.699573;93;33
+11921;California & Birchwood;42.017421;-87.69954;93;34
+14732;California / Dodge & Howard;42.0192;-87.69952;93;35
+3524;Dodge & Brummel;42.0212;-87.699391;93;36
+3525;Dodge & Mulford;42.022956;-87.699426;93;37
+3526;Dodge & Kirk;42.024723;-87.699365;93;38
+18450;Dodge & Oakton;42.026767;-87.699374;93;39
+14358;Dodge & Keeney;42.028195;-87.699372;93;40
+14364;Dodge & Monroe;42.030588;-87.699244;93;41
+14367;Dodge & Washington;42.032565;-87.69925;93;42
+18449;Dodge & Main;42.034058;-87.699137;93;43
+14368;Dodge & Lee;42.035577;-87.69909;93;44
+14370;Dodge & Greenleaf;42.037361;-87.699009;93;45
+14372;Dodge & Crain;42.039191;-87.699012;93;46
+14374;Dodge & Dempster;42.040943;-87.699015;93;47
+14376;Dodge & Greenwood;42.042601;-87.698978;93;48
+13112;Dodge & Lake;42.044095;-87.698992;93;49
+14730;Dodge & Davis;42.04692;-87.69894;93;50
+13135;Dodge & Church;42.048221;-87.69883;93;51
+12697;Dodge & Emerson;42.051994;-87.698767;93;52
+18045;Emerson & Dewey;42.052075;-87.696147;93;53
+14734;Emerson & Ashland;42.052122;-87.693654;93;54
+14735;Emerson & Asbury;42.052109;-87.690331;93;55
+18345;Maple & Emerson;42.051974;-87.684857;93;56
+14408;Maple & Clark;42.050063;-87.684895;93;57
+14409;Davis Purple Line Station;42.047775;-87.683473;93;58
+12686;Davis & Maple;42.047123;-87.684744;93;59
+12831;Komensky & 31st Street;41.836754;-87.725498;82-devon-K;1
+12950;31st Street & Pulaski;41.836942;-87.724725;82-devon-K;2
+7431;31st Street & Springfield;41.836979;-87.721777;82-devon-K;3
+7430;31st Street & Hamlin;41.837019;-87.719367;82-devon-K;4
+7429;31st Street & Lawndale;41.83708;-87.716921;82-devon-K;5
+11207;Lawndale & 30th Street;41.838758;-87.716999;82-devon-K;6
+11208;Lawndale & 28th Street;41.840592;-87.71705;82-devon-K;7
+11209;Lawndale & 27th Street;41.842426;-87.717101;82-devon-K;8
+11210;Lawndale & 26th Street;41.844269;-87.717157;82-devon-K;9
+11211;Lawndale & 25th Street;41.846102;-87.717207;82-devon-K;10
+11212;Central Park & 25th Street;41.846377;-87.714763;82-devon-K;11
+11213;Central Park & 24th Street;41.847938;-87.714816;82-devon-K;12
+11214;Central Park & 23rd Street;41.849753;-87.714867;82-devon-K;13
+11215;Central Park & Cermak;41.851548;-87.714902;82-devon-K;14
+11216;Central Park & Ogden (Pink Line);41.854267;-87.71499;82-devon-K;15
+11218;Central Park & 18th Street;41.857121;-87.715006;82-devon-K;16
+17633;Central Park & 16th Street;41.859182;-87.715124;82-devon-K;17
+11220;Central Park & 15th Street;41.860698;-87.71511;82-devon-K;18
+11221;Central Park & Douglas Blvd;41.862322;-87.71504;82-devon-K;19
+4711;Douglas Blvd & St. Louis;41.862375;-87.712966;82-devon-K;20
+4713;Homan & Douglas Blvd;41.863069;-87.710365;82-devon-K;21
+4715;Homan & 13th Street;41.864429;-87.710409;82-devon-K;22
+11225;Homan & Roosevelt;41.866519;-87.710459;82-devon-K;23
+11226;Homan & Fillmore;41.868078;-87.710524;82-devon-K;24
+11227;Homan & Arthington;41.869908;-87.710586;82-devon-K;25
+11229;Homan & Lexington;41.871733;-87.710648;82-devon-K;26
+15540;Kedzie-Homan Blue Line Station;41.874044;-87.710691;82-devon-K;27
+11232;Homan & Van Buren;41.875365;-87.71075;82-devon-K;28
+11233;Homan & Jackson;41.877182;-87.710789;82-devon-K;29
+11235;Homan & Monroe;41.879505;-87.710889;82-devon-K;30
+11236;Homan & Madison;41.88082;-87.71091;82-devon-K;31
+11238;Homan & Washington;41.882637;-87.71093;82-devon-K;32
+14089;Homan & Maypole;41.883485;-87.710998;82-devon-K;33
+11239;Homan & Lake;41.884533;-87.711003;82-devon-K;34
+11240;Homan & Fulton;41.886264;-87.71107;82-devon-K;35
+11241;Homan & Carroll;41.887369;-87.711104;82-devon-K;36
+11242;Homan & Franklin;41.88962;-87.71112;82-devon-K;37
+11243;Homan & Franklin;41.890304;-87.711023;82-devon-K;38
+11244;Homan & Ohio;41.891758;-87.711264;82-devon-K;39
+11245;Homan & Huron;41.893587;-87.711318;82-devon-K;40
+18176;Homan & Chicago;41.895738;-87.711353;82-devon-K;41
+11247;Homan & Iowa;41.897239;-87.71142;82-devon-K;42
+11248;Homan & Augusta;41.89906;-87.71148;82-devon-K;43
+11249;Homan & Grand;41.899963;-87.71166;82-devon-K;44
+11250;Homan & Division;41.902619;-87.711581;82-devon-K;45
+11251;Homan & Potomac;41.904523;-87.711627;82-devon-K;46
+11252;Homan & Hirsch;41.906338;-87.711714;82-devon-K;47
+11253;Homan & Le Moyne;41.908112;-87.711736;82-devon-K;48
+11254;Homan & North Ave;41.909908;-87.711819;82-devon-K;49
+11255;Kimball & Wabansia;41.911795;-87.711662;82-devon-K;50
+11256;Kimball & Bloomingdale;41.913512;-87.711714;82-devon-K;51
+11257;Kimball & Cortland;41.915431;-87.711774;82-devon-K;52
+11258;Kimball & Armitage;41.917253;-87.711813;82-devon-K;53
+11259;Kimball & Dickens;41.919084;-87.711854;82-devon-K;54
+18262;Kimball & Palmer;41.921195;-87.711921;82-devon-K;55
+11261;Kimball & Belden;41.92275;-87.711968;82-devon-K;56
+17519;Kimball & Fullerton;41.924952;-87.712017;82-devon-K;57
+11263;Kimball & Altgeld;41.926389;-87.712087;82-devon-K;58
+11264;Kimball & Wrightwood;41.928224;-87.712143;82-devon-K;59
+11265;Kimball & Shubert;41.93007;-87.7122;82-devon-K;60
+11267;Kimball & Diversey / Milwaukee;41.932303;-87.712224;82-devon-K;61
+11268;Kimball & Dawson;41.933918;-87.712288;82-devon-K;62
+11269;Kimball & Wisner / Wellington;41.935287;-87.712297;82-devon-K;63
+11270;Kimball & Barry;41.937365;-87.712375;82-devon-K;64
+11271;Kimball & Belmont (Blue Line);41.93917;-87.712383;82-devon-K;65
+7948;Kimball & Avondale / Henderson;41.94222;-87.712455;82-devon-K;66
+7949;Kimball & Newport;41.943457;-87.712548;82-devon-K;67
+7950;3501 N Kimball;41.944707;-87.712579;82-devon-K;68
+7951;Kimball & Addison;41.946462;-87.712619;82-devon-K;69
+11272;Kimball & Elston;41.949253;-87.712713;82-devon-K;70
+11273;Kimball & Grace;41.950136;-87.712729;82-devon-K;71
+11274;Kimball & Byron;41.951955;-87.712775;82-devon-K;72
+11275;Kimball & Irving Park;41.953756;-87.712757;82-devon-K;73
+11276;Kimball & Belle Plaine;41.955609;-87.712886;82-devon-K;74
+11277;Kimball & Berteau;41.957414;-87.71294;82-devon-K;75
+11278;Kimball & Cullom;41.959224;-87.712998;82-devon-K;76
+11279;Kimball & Montrose;41.961042;-87.713061;82-devon-K;77
+11280;Kimball & Sunnyside;41.962862;-87.713124;82-devon-K;78
+11281;Kimball & Wilson;41.964674;-87.713185;82-devon-K;79
+11282;Kimball & Leland;41.966618;-87.713238;82-devon-K;80
+11283;Kimball & Lawrence (Brown Line);41.968296;-87.713265;82-devon-K;81
+11284;Kimball & Ainslie;41.970134;-87.713342;82-devon-K;82
+11285;Kimball & Carmen;41.972639;-87.713369;82-devon-K;83
+11286;Kimball & Carmen;41.97397;-87.713406;82-devon-K;84
+11287;Kimball & Foster;41.975604;-87.71348;82-devon-K;85
+11288;Kimball & Berwyn;41.977439;-87.713522;82-devon-K;86
+11289;Kimball & Balmoral;41.979276;-87.713564;82-devon-K;87
+11290;Kimball & Catalpa;41.981112;-87.713609;82-devon-K;88
+11291;Kimball & Bryn Mawr;41.982919;-87.713663;82-devon-K;89
+11292;Kimball & Hollywood;41.984734;-87.713739;82-devon-K;90
+11293;Kimball & Ardmore;41.986547;-87.713798;82-devon-K;91
+11294;Kimball & Thorndale;41.988366;-87.713856;82-devon-K;92
+11295;Kimball & Peterson;41.990163;-87.71389;82-devon-K;93
+11296;Kimball & Glenlake;41.991948;-87.713963;82-devon-K;94
+11297;Kimball & Lincoln;41.994158;-87.714027;82-devon-K;95
+17560;McCormick & Lincoln;41.995207;-87.713184;82-devon-K;96
+1507;McCormick & Devon;41.997158;-87.711505;82-devon-K;97
+1354;Devon & Kedzie Terminal;41.997926;-87.709539;82-devon-K;98
+12831;Komensky & 31st Street;41.836754;-87.725498;82-lincolnwood-K;1
+12950;31st Street & Pulaski;41.836942;-87.724725;82-lincolnwood-K;2
+7431;31st Street & Springfield;41.836979;-87.721777;82-lincolnwood-K;3
+7430;31st Street & Hamlin;41.837019;-87.719367;82-lincolnwood-K;4
+7429;31st Street & Lawndale;41.83708;-87.716921;82-lincolnwood-K;5
+11207;Lawndale & 30th Street;41.838758;-87.716999;82-lincolnwood-K;6
+11208;Lawndale & 28th Street;41.840592;-87.71705;82-lincolnwood-K;7
+11209;Lawndale & 27th Street;41.842426;-87.717101;82-lincolnwood-K;8
+11210;Lawndale & 26th Street;41.844269;-87.717157;82-lincolnwood-K;9
+11211;Lawndale & 25th Street;41.846102;-87.717207;82-lincolnwood-K;10
+11212;Central Park & 25th Street;41.846377;-87.714763;82-lincolnwood-K;11
+11213;Central Park & 24th Street;41.847938;-87.714816;82-lincolnwood-K;12
+11214;Central Park & 23rd Street;41.849753;-87.714867;82-lincolnwood-K;13
+11215;Central Park & Cermak;41.851548;-87.714902;82-lincolnwood-K;14
+11216;Central Park & Ogden (Pink Line);41.854267;-87.71499;82-lincolnwood-K;15
+11218;Central Park & 18th Street;41.857121;-87.715006;82-lincolnwood-K;16
+17633;Central Park & 16th Street;41.859182;-87.715124;82-lincolnwood-K;17
+11220;Central Park & 15th Street;41.860698;-87.71511;82-lincolnwood-K;18
+11221;Central Park & Douglas Blvd;41.862322;-87.71504;82-lincolnwood-K;19
+4711;Douglas Blvd & St. Louis;41.862375;-87.712966;82-lincolnwood-K;20
+4713;Homan & Douglas Blvd;41.863069;-87.710365;82-lincolnwood-K;21
+4715;Homan & 13th Street;41.864429;-87.710409;82-lincolnwood-K;22
+11225;Homan & Roosevelt;41.866519;-87.710459;82-lincolnwood-K;23
+11226;Homan & Fillmore;41.868078;-87.710524;82-lincolnwood-K;24
+11227;Homan & Arthington;41.869908;-87.710586;82-lincolnwood-K;25
+11229;Homan & Lexington;41.871733;-87.710648;82-lincolnwood-K;26
+15540;Kedzie-Homan Blue Line Station;41.874044;-87.710691;82-lincolnwood-K;27
+11232;Homan & Van Buren;41.875365;-87.71075;82-lincolnwood-K;28
+11233;Homan & Jackson;41.877182;-87.710789;82-lincolnwood-K;29
+11235;Homan & Monroe;41.879505;-87.710889;82-lincolnwood-K;30
+11236;Homan & Madison;41.88082;-87.71091;82-lincolnwood-K;31
+11238;Homan & Washington;41.882637;-87.71093;82-lincolnwood-K;32
+14089;Homan & Maypole;41.883485;-87.710998;82-lincolnwood-K;33
+11239;Homan & Lake;41.884533;-87.711003;82-lincolnwood-K;34
+11240;Homan & Fulton;41.886264;-87.71107;82-lincolnwood-K;35
+11241;Homan & Carroll;41.887369;-87.711104;82-lincolnwood-K;36
+11242;Homan & Franklin;41.88962;-87.71112;82-lincolnwood-K;37
+11243;Homan & Franklin;41.890304;-87.711023;82-lincolnwood-K;38
+11244;Homan & Ohio;41.891758;-87.711264;82-lincolnwood-K;39
+11245;Homan & Huron;41.893587;-87.711318;82-lincolnwood-K;40
+18176;Homan & Chicago;41.895738;-87.711353;82-lincolnwood-K;41
+11247;Homan & Iowa;41.897239;-87.71142;82-lincolnwood-K;42
+11248;Homan & Augusta;41.89906;-87.71148;82-lincolnwood-K;43
+11249;Homan & Grand;41.899963;-87.71166;82-lincolnwood-K;44
+11250;Homan & Division;41.902619;-87.711581;82-lincolnwood-K;45
+11251;Homan & Potomac;41.904523;-87.711627;82-lincolnwood-K;46
+11252;Homan & Hirsch;41.906338;-87.711714;82-lincolnwood-K;47
+11253;Homan & Le Moyne;41.908112;-87.711736;82-lincolnwood-K;48
+11254;Homan & North Ave;41.909908;-87.711819;82-lincolnwood-K;49
+11255;Kimball & Wabansia;41.911795;-87.711662;82-lincolnwood-K;50
+11256;Kimball & Bloomingdale;41.913512;-87.711714;82-lincolnwood-K;51
+11257;Kimball & Cortland;41.915431;-87.711774;82-lincolnwood-K;52
+11258;Kimball & Armitage;41.917253;-87.711813;82-lincolnwood-K;53
+11259;Kimball & Dickens;41.919084;-87.711854;82-lincolnwood-K;54
+18262;Kimball & Palmer;41.921195;-87.711921;82-lincolnwood-K;55
+11261;Kimball & Belden;41.92275;-87.711968;82-lincolnwood-K;56
+17519;Kimball & Fullerton;41.924952;-87.712017;82-lincolnwood-K;57
+11263;Kimball & Altgeld;41.926389;-87.712087;82-lincolnwood-K;58
+11264;Kimball & Wrightwood;41.928224;-87.712143;82-lincolnwood-K;59
+11265;Kimball & Shubert;41.93007;-87.7122;82-lincolnwood-K;60
+11267;Kimball & Diversey / Milwaukee;41.932303;-87.712224;82-lincolnwood-K;61
+11268;Kimball & Dawson;41.933918;-87.712288;82-lincolnwood-K;62
+11269;Kimball & Wisner / Wellington;41.935287;-87.712297;82-lincolnwood-K;63
+11270;Kimball & Barry;41.937365;-87.712375;82-lincolnwood-K;64
+11271;Kimball & Belmont (Blue Line);41.93917;-87.712383;82-lincolnwood-K;65
+7948;Kimball & Avondale / Henderson;41.94222;-87.712455;82-lincolnwood-K;66
+7949;Kimball & Newport;41.943457;-87.712548;82-lincolnwood-K;67
+7950;3501 N Kimball;41.944707;-87.712579;82-lincolnwood-K;68
+7951;Kimball & Addison;41.946462;-87.712619;82-lincolnwood-K;69
+11272;Kimball & Elston;41.949253;-87.712713;82-lincolnwood-K;70
+11273;Kimball & Grace;41.950136;-87.712729;82-lincolnwood-K;71
+11274;Kimball & Byron;41.951955;-87.712775;82-lincolnwood-K;72
+11275;Kimball & Irving Park;41.953756;-87.712757;82-lincolnwood-K;73
+11276;Kimball & Belle Plaine;41.955609;-87.712886;82-lincolnwood-K;74
+11277;Kimball & Berteau;41.957414;-87.71294;82-lincolnwood-K;75
+11278;Kimball & Cullom;41.959224;-87.712998;82-lincolnwood-K;76
+11279;Kimball & Montrose;41.961042;-87.713061;82-lincolnwood-K;77
+11280;Kimball & Sunnyside;41.962862;-87.713124;82-lincolnwood-K;78
+11281;Kimball & Wilson;41.964674;-87.713185;82-lincolnwood-K;79
+11282;Kimball & Leland;41.966618;-87.713238;82-lincolnwood-K;80
+11283;Kimball & Lawrence (Brown Line);41.968296;-87.713265;82-lincolnwood-K;81
+11284;Kimball & Ainslie;41.970134;-87.713342;82-lincolnwood-K;82
+11285;Kimball & Carmen;41.972639;-87.713369;82-lincolnwood-K;83
+11286;Kimball & Carmen;41.97397;-87.713406;82-lincolnwood-K;84
+11287;Kimball & Foster;41.975604;-87.71348;82-lincolnwood-K;85
+11288;Kimball & Berwyn;41.977439;-87.713522;82-lincolnwood-K;86
+11289;Kimball & Balmoral;41.979276;-87.713564;82-lincolnwood-K;87
+11290;Kimball & Catalpa;41.981112;-87.713609;82-lincolnwood-K;88
+11291;Kimball & Bryn Mawr;41.982919;-87.713663;82-lincolnwood-K;89
+11292;Kimball & Hollywood;41.984734;-87.713739;82-lincolnwood-K;90
+11293;Kimball & Ardmore;41.986547;-87.713798;82-lincolnwood-K;91
+11294;Kimball & Thorndale;41.988366;-87.713856;82-lincolnwood-K;92
+11295;Kimball & Peterson;41.990163;-87.71389;82-lincolnwood-K;93
+11296;Kimball & Glenlake;41.991948;-87.713963;82-lincolnwood-K;94
+11297;Kimball & Lincoln;41.994158;-87.714027;82-lincolnwood-K;95
+17560;McCormick & Lincoln;41.995207;-87.713184;82-lincolnwood-K;96
+1507;McCormick & Devon;41.997158;-87.711505;82-lincolnwood-K;97
+14999;McCormick & Pratt;42.004559;-87.711559;82-lincolnwood-K;98
+14801;Lincolnwood Town Center;42.009359;-87.714462;82-lincolnwood-K;99
+11206;Central Park & 31st Street;41.836968;-87.714507;82-devon;1
+7429;31st Street & Lawndale;41.83708;-87.716921;82-devon;2
+11207;Lawndale & 30th Street;41.838758;-87.716999;82-devon;3
+11208;Lawndale & 28th Street;41.840592;-87.71705;82-devon;4
+11209;Lawndale & 27th Street;41.842426;-87.717101;82-devon;5
+11210;Lawndale & 26th Street;41.844269;-87.717157;82-devon;6
+11211;Lawndale & 25th Street;41.846102;-87.717207;82-devon;7
+11212;Central Park & 25th Street;41.846377;-87.714763;82-devon;8
+11213;Central Park & 24th Street;41.847938;-87.714816;82-devon;9
+11214;Central Park & 23rd Street;41.849753;-87.714867;82-devon;10
+11215;Central Park & Cermak;41.851548;-87.714902;82-devon;11
+11216;Central Park & Ogden (Pink Line);41.854267;-87.71499;82-devon;12
+11218;Central Park & 18th Street;41.857121;-87.715006;82-devon;13
+17633;Central Park & 16th Street;41.859182;-87.715124;82-devon;14
+11220;Central Park & 15th Street;41.860698;-87.71511;82-devon;15
+11221;Central Park & Douglas Blvd;41.862322;-87.71504;82-devon;16
+4711;Douglas Blvd & St. Louis;41.862375;-87.712966;82-devon;17
+4713;Homan & Douglas Blvd;41.863069;-87.710365;82-devon;18
+4715;Homan & 13th Street;41.864429;-87.710409;82-devon;19
+11225;Homan & Roosevelt;41.866519;-87.710459;82-devon;20
+11226;Homan & Fillmore;41.868078;-87.710524;82-devon;21
+11227;Homan & Arthington;41.869908;-87.710586;82-devon;22
+11229;Homan & Lexington;41.871733;-87.710648;82-devon;23
+15540;Kedzie-Homan Blue Line Station;41.874044;-87.710691;82-devon;24
+11232;Homan & Van Buren;41.875365;-87.71075;82-devon;25
+11233;Homan & Jackson;41.877182;-87.710789;82-devon;26
+11235;Homan & Monroe;41.879505;-87.710889;82-devon;27
+11236;Homan & Madison;41.88082;-87.71091;82-devon;28
+11238;Homan & Washington;41.882637;-87.71093;82-devon;29
+14089;Homan & Maypole;41.883485;-87.710998;82-devon;30
+11239;Homan & Lake;41.884533;-87.711003;82-devon;31
+11240;Homan & Fulton;41.886264;-87.71107;82-devon;32
+11241;Homan & Carroll;41.887369;-87.711104;82-devon;33
+11242;Homan & Franklin;41.88962;-87.71112;82-devon;34
+11243;Homan & Franklin;41.890304;-87.711023;82-devon;35
+11244;Homan & Ohio;41.891758;-87.711264;82-devon;36
+11245;Homan & Huron;41.893587;-87.711318;82-devon;37
+18176;Homan & Chicago;41.895738;-87.711353;82-devon;38
+11247;Homan & Iowa;41.897239;-87.71142;82-devon;39
+11248;Homan & Augusta;41.89906;-87.71148;82-devon;40
+11249;Homan & Grand;41.899963;-87.71166;82-devon;41
+11250;Homan & Division;41.902619;-87.711581;82-devon;42
+11251;Homan & Potomac;41.904523;-87.711627;82-devon;43
+11252;Homan & Hirsch;41.906338;-87.711714;82-devon;44
+11253;Homan & Le Moyne;41.908112;-87.711736;82-devon;45
+11254;Homan & North Ave;41.909908;-87.711819;82-devon;46
+11255;Kimball & Wabansia;41.911795;-87.711662;82-devon;47
+11256;Kimball & Bloomingdale;41.913512;-87.711714;82-devon;48
+11257;Kimball & Cortland;41.915431;-87.711774;82-devon;49
+11258;Kimball & Armitage;41.917253;-87.711813;82-devon;50
+11259;Kimball & Dickens;41.919084;-87.711854;82-devon;51
+18262;Kimball & Palmer;41.921195;-87.711921;82-devon;52
+11261;Kimball & Belden;41.92275;-87.711968;82-devon;53
+17519;Kimball & Fullerton;41.924952;-87.712017;82-devon;54
+11263;Kimball & Altgeld;41.926389;-87.712087;82-devon;55
+11264;Kimball & Wrightwood;41.928224;-87.712143;82-devon;56
+11265;Kimball & Shubert;41.93007;-87.7122;82-devon;57
+11267;Kimball & Diversey / Milwaukee;41.932303;-87.712224;82-devon;58
+11268;Kimball & Dawson;41.933918;-87.712288;82-devon;59
+11269;Kimball & Wisner / Wellington;41.935287;-87.712297;82-devon;60
+11270;Kimball & Barry;41.937365;-87.712375;82-devon;61
+11271;Kimball & Belmont (Blue Line);41.93917;-87.712383;82-devon;62
+7948;Kimball & Avondale / Henderson;41.94222;-87.712455;82-devon;63
+7949;Kimball & Newport;41.943457;-87.712548;82-devon;64
+7950;3501 N Kimball;41.944707;-87.712579;82-devon;65
+7951;Kimball & Addison;41.946462;-87.712619;82-devon;66
+11272;Kimball & Elston;41.949253;-87.712713;82-devon;67
+11273;Kimball & Grace;41.950136;-87.712729;82-devon;68
+11274;Kimball & Byron;41.951955;-87.712775;82-devon;69
+11275;Kimball & Irving Park;41.953756;-87.712757;82-devon;70
+11276;Kimball & Belle Plaine;41.955609;-87.712886;82-devon;71
+11277;Kimball & Berteau;41.957414;-87.71294;82-devon;72
+11278;Kimball & Cullom;41.959224;-87.712998;82-devon;73
+11279;Kimball & Montrose;41.961042;-87.713061;82-devon;74
+11280;Kimball & Sunnyside;41.962862;-87.713124;82-devon;75
+11281;Kimball & Wilson;41.964674;-87.713185;82-devon;76
+11282;Kimball & Leland;41.966618;-87.713238;82-devon;77
+11283;Kimball & Lawrence (Brown Line);41.968296;-87.713265;82-devon;78
+11284;Kimball & Ainslie;41.970134;-87.713342;82-devon;79
+11285;Kimball & Carmen;41.972639;-87.713369;82-devon;80
+11286;Kimball & Carmen;41.97397;-87.713406;82-devon;81
+11287;Kimball & Foster;41.975604;-87.71348;82-devon;82
+11288;Kimball & Berwyn;41.977439;-87.713522;82-devon;83
+11289;Kimball & Balmoral;41.979276;-87.713564;82-devon;84
+11290;Kimball & Catalpa;41.981112;-87.713609;82-devon;85
+11291;Kimball & Bryn Mawr;41.982919;-87.713663;82-devon;86
+11292;Kimball & Hollywood;41.984734;-87.713739;82-devon;87
+11293;Kimball & Ardmore;41.986547;-87.713798;82-devon;88
+11294;Kimball & Thorndale;41.988366;-87.713856;82-devon;89
+11295;Kimball & Peterson;41.990163;-87.71389;82-devon;90
+11296;Kimball & Glenlake;41.991948;-87.713963;82-devon;91
+11297;Kimball & Lincoln;41.994158;-87.714027;82-devon;92
+17560;McCormick & Lincoln;41.995207;-87.713184;82-devon;93
+1507;McCormick & Devon;41.997158;-87.711505;82-devon;94
+1354;Devon & Kedzie Terminal;41.997926;-87.709539;82-devon;95
+11206;Central Park & 31st Street;41.836968;-87.714507;82-lincolnwood;1
+7429;31st Street & Lawndale;41.83708;-87.716921;82-lincolnwood;2
+11207;Lawndale & 30th Street;41.838758;-87.716999;82-lincolnwood;3
+11208;Lawndale & 28th Street;41.840592;-87.71705;82-lincolnwood;4
+11209;Lawndale & 27th Street;41.842426;-87.717101;82-lincolnwood;5
+11210;Lawndale & 26th Street;41.844269;-87.717157;82-lincolnwood;6
+11211;Lawndale & 25th Street;41.846102;-87.717207;82-lincolnwood;7
+11212;Central Park & 25th Street;41.846377;-87.714763;82-lincolnwood;8
+11213;Central Park & 24th Street;41.847938;-87.714816;82-lincolnwood;9
+11214;Central Park & 23rd Street;41.849753;-87.714867;82-lincolnwood;10
+11215;Central Park & Cermak;41.851548;-87.714902;82-lincolnwood;11
+11216;Central Park & Ogden (Pink Line);41.854267;-87.71499;82-lincolnwood;12
+11218;Central Park & 18th Street;41.857121;-87.715006;82-lincolnwood;13
+17633;Central Park & 16th Street;41.859182;-87.715124;82-lincolnwood;14
+11220;Central Park & 15th Street;41.860698;-87.71511;82-lincolnwood;15
+11221;Central Park & Douglas Blvd;41.862322;-87.71504;82-lincolnwood;16
+4711;Douglas Blvd & St. Louis;41.862375;-87.712966;82-lincolnwood;17
+4713;Homan & Douglas Blvd;41.863069;-87.710365;82-lincolnwood;18
+4715;Homan & 13th Street;41.864429;-87.710409;82-lincolnwood;19
+11225;Homan & Roosevelt;41.866519;-87.710459;82-lincolnwood;20
+11226;Homan & Fillmore;41.868078;-87.710524;82-lincolnwood;21
+11227;Homan & Arthington;41.869908;-87.710586;82-lincolnwood;22
+11229;Homan & Lexington;41.871733;-87.710648;82-lincolnwood;23
+15540;Kedzie-Homan Blue Line Station;41.874044;-87.710691;82-lincolnwood;24
+11232;Homan & Van Buren;41.875365;-87.71075;82-lincolnwood;25
+11233;Homan & Jackson;41.877182;-87.710789;82-lincolnwood;26
+11235;Homan & Monroe;41.879505;-87.710889;82-lincolnwood;27
+11236;Homan & Madison;41.88082;-87.71091;82-lincolnwood;28
+11238;Homan & Washington;41.882637;-87.71093;82-lincolnwood;29
+14089;Homan & Maypole;41.883485;-87.710998;82-lincolnwood;30
+11239;Homan & Lake;41.884533;-87.711003;82-lincolnwood;31
+11240;Homan & Fulton;41.886264;-87.71107;82-lincolnwood;32
+11241;Homan & Carroll;41.887369;-87.711104;82-lincolnwood;33
+11242;Homan & Franklin;41.88962;-87.71112;82-lincolnwood;34
+11243;Homan & Franklin;41.890304;-87.711023;82-lincolnwood;35
+11244;Homan & Ohio;41.891758;-87.711264;82-lincolnwood;36
+11245;Homan & Huron;41.893587;-87.711318;82-lincolnwood;37
+18176;Homan & Chicago;41.895738;-87.711353;82-lincolnwood;38
+11247;Homan & Iowa;41.897239;-87.71142;82-lincolnwood;39
+11248;Homan & Augusta;41.89906;-87.71148;82-lincolnwood;40
+11249;Homan & Grand;41.899963;-87.71166;82-lincolnwood;41
+11250;Homan & Division;41.902619;-87.711581;82-lincolnwood;42
+11251;Homan & Potomac;41.904523;-87.711627;82-lincolnwood;43
+11252;Homan & Hirsch;41.906338;-87.711714;82-lincolnwood;44
+11253;Homan & Le Moyne;41.908112;-87.711736;82-lincolnwood;45
+11254;Homan & North Ave;41.909908;-87.711819;82-lincolnwood;46
+11255;Kimball & Wabansia;41.911795;-87.711662;82-lincolnwood;47
+11256;Kimball & Bloomingdale;41.913512;-87.711714;82-lincolnwood;48
+11257;Kimball & Cortland;41.915431;-87.711774;82-lincolnwood;49
+11258;Kimball & Armitage;41.917253;-87.711813;82-lincolnwood;50
+11259;Kimball & Dickens;41.919084;-87.711854;82-lincolnwood;51
+18262;Kimball & Palmer;41.921195;-87.711921;82-lincolnwood;52
+11261;Kimball & Belden;41.92275;-87.711968;82-lincolnwood;53
+17519;Kimball & Fullerton;41.924952;-87.712017;82-lincolnwood;54
+11263;Kimball & Altgeld;41.926389;-87.712087;82-lincolnwood;55
+11264;Kimball & Wrightwood;41.928224;-87.712143;82-lincolnwood;56
+11265;Kimball & Shubert;41.93007;-87.7122;82-lincolnwood;57
+11267;Kimball & Diversey / Milwaukee;41.932303;-87.712224;82-lincolnwood;58
+11268;Kimball & Dawson;41.933918;-87.712288;82-lincolnwood;59
+11269;Kimball & Wisner / Wellington;41.935287;-87.712297;82-lincolnwood;60
+11270;Kimball & Barry;41.937365;-87.712375;82-lincolnwood;61
+11271;Kimball & Belmont (Blue Line);41.93917;-87.712383;82-lincolnwood;62
+7948;Kimball & Avondale / Henderson;41.94222;-87.712455;82-lincolnwood;63
+7949;Kimball & Newport;41.943457;-87.712548;82-lincolnwood;64
+7950;3501 N Kimball;41.944707;-87.712579;82-lincolnwood;65
+7951;Kimball & Addison;41.946462;-87.712619;82-lincolnwood;66
+11272;Kimball & Elston;41.949253;-87.712713;82-lincolnwood;67
+11273;Kimball & Grace;41.950136;-87.712729;82-lincolnwood;68
+11274;Kimball & Byron;41.951955;-87.712775;82-lincolnwood;69
+11275;Kimball & Irving Park;41.953756;-87.712757;82-lincolnwood;70
+11276;Kimball & Belle Plaine;41.955609;-87.712886;82-lincolnwood;71
+11277;Kimball & Berteau;41.957414;-87.71294;82-lincolnwood;72
+11278;Kimball & Cullom;41.959224;-87.712998;82-lincolnwood;73
+11279;Kimball & Montrose;41.961042;-87.713061;82-lincolnwood;74
+11280;Kimball & Sunnyside;41.962862;-87.713124;82-lincolnwood;75
+11281;Kimball & Wilson;41.964674;-87.713185;82-lincolnwood;76
+11282;Kimball & Leland;41.966618;-87.713238;82-lincolnwood;77
+11283;Kimball & Lawrence (Brown Line);41.968296;-87.713265;82-lincolnwood;78
+11284;Kimball & Ainslie;41.970134;-87.713342;82-lincolnwood;79
+11285;Kimball & Carmen;41.972639;-87.713369;82-lincolnwood;80
+11286;Kimball & Carmen;41.97397;-87.713406;82-lincolnwood;81
+11287;Kimball & Foster;41.975604;-87.71348;82-lincolnwood;82
+11288;Kimball & Berwyn;41.977439;-87.713522;82-lincolnwood;83
+11289;Kimball & Balmoral;41.979276;-87.713564;82-lincolnwood;84
+11290;Kimball & Catalpa;41.981112;-87.713609;82-lincolnwood;85
+11291;Kimball & Bryn Mawr;41.982919;-87.713663;82-lincolnwood;86
+11292;Kimball & Hollywood;41.984734;-87.713739;82-lincolnwood;87
+11293;Kimball & Ardmore;41.986547;-87.713798;82-lincolnwood;88
+11294;Kimball & Thorndale;41.988366;-87.713856;82-lincolnwood;89
+11295;Kimball & Peterson;41.990163;-87.71389;82-lincolnwood;90
+11296;Kimball & Glenlake;41.991948;-87.713963;82-lincolnwood;91
+11297;Kimball & Lincoln;41.994158;-87.714027;82-lincolnwood;92
+17560;McCormick & Lincoln;41.995207;-87.713184;82-lincolnwood;93
+1507;McCormick & Devon;41.997158;-87.711505;82-lincolnwood;94
+14999;McCormick & Pratt;42.004559;-87.711559;82-lincolnwood;95
+14801;Lincolnwood Town Center;42.009359;-87.714462;82-lincolnwood;96
+1004;Harlem & Wabansia;41.910562;-87.805707;72;1
+1005;Wabansia & Neva;41.910681;-87.804105;72;2
+845;Neva & North Ave;41.909026;-87.80401;72;3
+846;North Ave & Forest;41.908839;-87.801291;72;4
+847;North Ave & Kenilworth;41.9089;-87.798103;72;5
+848;North Ave & Oak Park;41.90897;-87.79517;72;6
+849;North Ave & Linden;41.908996;-87.792451;72;7
+850;North Ave & East;41.908996;-87.790097;72;8
+851;North Ave & Elmwood;41.909001;-87.787477;72;9
+852;North Ave & Narragansett;41.909063;-87.785108;72;10
+854;North Ave & Ridgeland;41.909098;-87.783505;72;11
+856;North Ave & Lombard;41.90911;-87.780905;72;12
+857;North Ave & Taylor;41.909193;-87.778207;72;13
+16035;North Ave & Austin;41.909157;-87.775172;72;14
+17921;North Ave & Mayfield;41.909172;-87.773333;72;15
+860;North Ave & Menard;41.909207;-87.770861;72;16
+861;North Ave & Major;41.909261;-87.767805;72;17
+15011;North Ave & Central;41.909272;-87.765465;72;18
+863;North Ave & Linder;41.909346;-87.763178;72;19
+18494;North Ave & Long;41.909391;-87.760385;72;20
+865;North Ave & Lockwood;41.909417;-87.758013;72;21
+18493;North Ave & Laramie;41.909395;-87.755534;72;22
+867;North Ave & Leclaire;41.909435;-87.75276;72;23
+868;North Ave & Lavergne;41.909454;-87.751143;72;24
+15484;North Ave & Lamon;41.909484;-87.748976;72;25
+870;North Ave & Cicero;41.909511;-87.74637;72;26
+871;North Ave & Kilpatrick;41.909551;-87.743776;72;27
+18475;North Ave & Kolmar;41.909615;-87.739619;72;28
+874;North Ave & Kostner;41.909646;-87.736503;72;29
+875;North Ave & Grand;41.909678;-87.734463;72;30
+18476;North Ave & Keeler;41.909719;-87.73104;72;31
+15483;North Ave & Karlov;41.909749;-87.728678;72;32
+15149;North Ave & Pulaski;41.90978;-87.725961;72;33
+879;North Ave & Springfield;41.909799;-87.724237;72;34
+880;North Ave & Hamlin;41.90988;-87.721763;72;35
+881;North Ave & Lawndale;41.90988;-87.719364;72;36
+882;North Ave & Central Park;41.909923;-87.716797;72;37
+883;North Ave & St. Louis;41.909909;-87.714521;72;38
+14831;North Ave & Kimball / Homan;41.909933;-87.711456;72;39
+885;North Ave & Spaulding;41.909981;-87.709576;72;40
+17125;North Ave & Kedzie;41.910015;-87.706644;72;41
+887;North Ave & Albany;41.910034;-87.70475;72;42
+888;North Ave & Humboldt;41.910063;-87.702005;72;43
+889;North Ave & Francisco;41.910096;-87.698926;72;44
+890;North Ave & California;41.910114;-87.697224;72;45
+891;North Ave & Washtenaw;41.910183;-87.694637;72;46
+15958;North Ave & Rockwell;41.910175;-87.691748;72;47
+893;North Ave & Campbell;41.910224;-87.689756;72;48
+894;North Ave & Western;41.910205;-87.687434;72;49
+895;North Ave & Oakley;41.910287;-87.684857;72;50
+896;North Ave & Leavitt;41.910327;-87.682422;72;51
+897;North Ave & Hoyne;41.910354;-87.68004;72;52
+898;North Ave & Milwaukee / Damen (Blue Line);41.910413;-87.677671;72;53
+899;North Ave & Wolcott;41.910464;-87.675134;72;54
+900;North Ave & Wood;41.9105;-87.672681;72;55
+901;North Ave & Paulina;41.910536;-87.670245;72;56
+902;North Ave & Ashland;41.910557;-87.667878;72;57
+903;North Ave & Bosworth;41.91057;-87.666287;72;58
+15375;North Ave & Elston;41.91065;-87.661653;72;59
+17126;North Ave & Throop;41.910671;-87.660168;72;60
+910;North Ave & Sheffield;41.910768;-87.653147;72;61
+15376;North Ave & Fremont;41.910811;-87.650841;72;62
+913;North Ave & Clybourn / Halsted (Red Line);41.910838;-87.648976;72;63
+915;North Ave & Orchard;41.910903;-87.64593;72;64
+916;North Ave & Larrabee;41.910922;-87.643622;72;65
+18622;North Ave & Cleveland;41.910986;-87.640823;72;66
+918;North Ave & Sedgwick (Brown Line);41.910998;-87.638778;72;67
+919;North Ave & North Park;41.911028;-87.636791;72;68
+920;North Ave & Wells;41.91105;-87.634874;72;69
+15276;North Ave & LaSalle;41.911085;-87.632799;72;70
+923;North Ave & Clark Terminal;41.91128;-87.631195;72;71
+17578;Financial Place & Ida B Wells Drive (LaSalle St Station);41.875375;-87.633019;36;1
+1877;Dearborn & Ida B Wells Drive;41.875927;-87.629154;36;2
+14508;Dearborn & Jackson;41.878036;-87.629201;36;3
+1880;Dearborn & Adams;41.879561;-87.629248;36;4
+1881;Dearborn & Monroe;41.880948;-87.629285;36;5
+1882;Dearborn & Madison;41.88207;-87.629294;36;6
+1884;Dearborn & Randolph;41.884708;-87.629387;36;7
+1885;Dearborn & Wacker / Lake;41.886184;-87.629396;36;8
+15399;Dearborn & Hubbard;41.889938;-87.6295;36;9
+2361;State & Grand (Red Line);41.891581;-87.627949;36;10
+5385;State & Ontario;41.893186;-87.627992;36;11
+5386;State & Huron;41.894756;-87.62806;36;12
+18613;State & Chicago (Red Line);41.896944;-87.628115;36;13
+18624;State & Delaware;41.899358;-87.628179;36;14
+5390;State & Oak;41.900484;-87.62823;36;15
+5391;State & Bellevue;41.901755;-87.628268;36;16
+5392;State & Elm;41.903055;-87.628508;36;17
+5394;Division & Dearborn;41.903982;-87.629804;36;18
+5395;Division & Clark (Red Line);41.903969;-87.631305;36;19
+1900;Clark & Goethe;41.905698;-87.631429;36;20
+1901;Clark & Schiller;41.907741;-87.631488;36;21
+1902;Clark & Burton;41.909343;-87.631458;36;22
+15417;Clark & North;41.911446;-87.631667;36;23
+1451;Clark & LaSalle;41.913409;-87.632857;36;24
+1905;Clark & Lincoln;41.91553;-87.634187;36;25
+1906;Clark & Wisconsin;41.916548;-87.634797;36;26
+1907;Clark & Armitage;41.918383;-87.635925;36;27
+1908;Clark & Dickens;41.920075;-87.637031;36;28
+1909;Clark & Webster;41.921858;-87.638129;36;29
+1910;Clark & Belden;41.923649;-87.63921;36;30
+1911;Clark & Fullerton;41.9255;-87.640266;36;31
+17266;Clark & Arlington;41.926973;-87.641212;36;32
+1913;Clark & Deming;41.928631;-87.642142;36;33
+1915;Clark & Drummond;41.93083;-87.643877;36;34
+15021;Broadway & Diversey;41.933075;-87.644744;36;35
+14899;Broadway & Surf;41.934945;-87.644159;36;36
+5399;Broadway & Barry;41.937883;-87.644268;36;37
+5400;Broadway & Belmont;41.939953;-87.644332;36;38
+5402;Broadway & Roscoe;41.943251;-87.644601;36;39
+5403;Broadway & Cornelia;41.945456;-87.646038;36;40
+14452;Broadway & Addison;41.947634;-87.647368;36;41
+5405;Broadway & Waveland;41.949096;-87.648245;36;42
+5407;Broadway & Halsted;41.951172;-87.649483;36;43
+5408;Broadway & W. Sheridan;41.952645;-87.649558;36;44
+5409;Broadway & Irving Park;41.954446;-87.650389;36;45
+5410;Broadway & Belle Plaine;41.956822;-87.651957;36;46
+5411;Broadway & Buena;41.95836;-87.652944;36;47
+18454;Broadway & Cullom;41.960173;-87.654132;36;48
+15284;Broadway & Montrose;41.962233;-87.655329;36;49
+17393;Broadway & Sunnyside;41.964046;-87.656487;36;50
+5416;Broadway & Wilson;41.965306;-87.657285;36;51
+15343;Broadway & Leland;41.967361;-87.658609;36;52
+5418;Broadway & Lawrence;41.968865;-87.659553;36;53
+14453;Broadway & Ainslie;41.971635;-87.65961;36;54
+14454;Broadway & Argyle;41.973368;-87.659648;36;55
+5421;Broadway & Winona;41.975125;-87.659708;36;56
+4794;Broadway & Foster;41.976857;-87.659754;36;57
+14442;Broadway & Berwyn;41.978299;-87.659811;36;58
+5423;Broadway & Balmoral;41.979819;-87.659854;36;59
+5424;Broadway & Catalpa;41.981703;-87.659941;36;60
+14456;Broadway & Bryn Mawr / Ridge;41.983835;-87.659964;36;61
+5426;Broadway & Hollywood;41.985357;-87.660018;36;62
+5427;Broadway & Ardmore;41.987433;-87.660102;36;63
+5429;Broadway & Thorndale;41.989914;-87.660154;36;64
+5430;Broadway & Elmdale;41.99105;-87.660184;36;65
+5431;Broadway & Glenlake;41.992732;-87.660211;36;66
+5432;Broadway & Granville;41.994436;-87.660296;36;67
+5433;Broadway & Rosemont;41.996229;-87.66033;36;68
+1757;Devon & Sheridan;41.998251;-87.661075;36;69
+1758;Devon & Lakewood;41.998239;-87.662922;36;70
+1760;Devon & Glenwood;41.998208;-87.665193;36;71
+1761;Devon & Greenview;41.998187;-87.667752;36;72
+1762;Devon & Clark;41.998148;-87.670371;36;73
+14176;Clark & Arthur Terminal;41.999723;-87.670748;36;74
+386;Madison & Austin Terminal;41.880313;-87.774043;20;1
+388;Madison & Mayfield;41.880009;-87.771472;20;2
+389;Madison & Menard;41.880088;-87.769922;20;3
+390;Madison & Waller;41.880105;-87.768215;20;4
+391;Madison & Parkside;41.880147;-87.766617;20;5
+14956;Madison & Central;41.880141;-87.764612;20;6
+394;Madison & Lotus;41.880203;-87.761919;20;7
+395;Madison & Long;41.8802;-87.759967;20;8
+396;Madison & Lockwood;41.880252;-87.75779;20;9
+397;Madison & Laramie;41.88027;-87.75526;20;10
+17169;Madison & Leclaire;41.880297;-87.752215;20;11
+17162;Madison & Lavergne;41.880335;-87.749137;20;12
+14959;Madison & Cicero;41.880392;-87.744968;20;13
+402;Madison & Kilpatrick;41.880443;-87.742998;20;14
+403;Madison & Kenton;41.880475;-87.740705;20;15
+17163;Madison & Kilbourn;41.880485;-87.737681;20;16
+15848;Madison & Kostner;41.880504;-87.735216;20;17
+406;Madison & Kildare;41.880531;-87.733124;20;18
+14500;Madison & Keeler;41.880569;-87.73046;20;19
+15852;Madison & Karlov;41.880591;-87.72786;20;20
+409;Madison & Pulaski;41.880614;-87.725824;20;21
+18047;Madison & Springfield;41.880703;-87.722861;20;22
+17841;Madison & Hamlin;41.880744;-87.720459;20;23
+412;Madison & Central Park;41.880807;-87.715975;20;24
+413;Madison & St. Louis;41.880814;-87.71382;20;25
+14764;Madison & Homan;41.880841;-87.710731;20;26
+415;Madison & Spaulding;41.880887;-87.708722;20;27
+416;Madison & Kedzie;41.880902;-87.706333;20;28
+417;Madison & Albany;41.880952;-87.703147;20;29
+15185;Madison & Sacramento;41.880954;-87.700881;20;30
+16110;Madison & Francisco;41.880999;-87.698562;20;31
+420;Madison & California;41.881009;-87.696008;20;32
+421;Madison & Washtenaw;41.881033;-87.694048;20;33
+16088;Madison & Talman;41.881033;-87.692294;20;34
+423;Madison & Campbell;41.881063;-87.688977;20;35
+15364;Madison & Western;41.881099;-87.686077;20;36
+425;Madison & Oakley;41.881128;-87.68411;20;37
+15384;Madison & Leavitt;41.881174;-87.681223;20;38
+427;Madison & Hoyne;41.881232;-87.679293;20;39
+428;Madison & Damen;41.881262;-87.67685;20;40
+429;Madison & United Center (1900 W);41.881297;-87.674247;20;41
+430;Madison & Wood;41.881328;-87.671863;20;42
+431;Madison & Paulina;41.88137;-87.669513;20;43
+4727;1633 W Madison;41.881385;-87.668503;20;44
+432;Madison & Ashland;41.881395;-87.667;20;45
+15279;Madison & Laflin;41.881434;-87.664189;20;46
+16049;Madison & Loomis;41.881469;-87.662015;20;47
+435;Madison & Throop;41.881525;-87.659765;20;48
+436;Madison & Racine;41.881545;-87.657333;20;49
+437;Madison & Aberdeen;41.881608;-87.654897;20;50
+14647;Madison & Morgan;41.881652;-87.651912;20;51
+439;Madison & Peoria;41.881678;-87.649838;20;52
+440;Halsted & Madison;41.882;-87.64728;20;53
+12754;Washington & Halsted;41.883071;-87.646695;20;54
+442;Washington & Jefferson;41.88311;-87.642848;20;55
+443;Washington & Canal;41.883084;-87.639976;20;56
+445;Washington & Franklin;41.883128;-87.635516;20;57
+446;Washington & Lasalle;41.883137;-87.632625;20;58
+18122;Washington & Clark / Dearborn;41.883147;-87.630196;20;59
+448;Washington & State;41.88317;-87.627497;20;60
+449;Washington & Wabash;41.883159;-87.625966;20;61
+386;Madison & Austin Terminal;41.880313;-87.774043;20-columbus;1
+388;Madison & Mayfield;41.880009;-87.771472;20-columbus;2
+389;Madison & Menard;41.880088;-87.769922;20-columbus;3
+390;Madison & Waller;41.880105;-87.768215;20-columbus;4
+391;Madison & Parkside;41.880147;-87.766617;20-columbus;5
+14956;Madison & Central;41.880141;-87.764612;20-columbus;6
+394;Madison & Lotus;41.880203;-87.761919;20-columbus;7
+395;Madison & Long;41.8802;-87.759967;20-columbus;8
+396;Madison & Lockwood;41.880252;-87.75779;20-columbus;9
+397;Madison & Laramie;41.88027;-87.75526;20-columbus;10
+17169;Madison & Leclaire;41.880297;-87.752215;20-columbus;11
+17162;Madison & Lavergne;41.880335;-87.749137;20-columbus;12
+14959;Madison & Cicero;41.880392;-87.744968;20-columbus;13
+402;Madison & Kilpatrick;41.880443;-87.742998;20-columbus;14
+403;Madison & Kenton;41.880475;-87.740705;20-columbus;15
+17163;Madison & Kilbourn;41.880485;-87.737681;20-columbus;16
+15848;Madison & Kostner;41.880504;-87.735216;20-columbus;17
+406;Madison & Kildare;41.880531;-87.733124;20-columbus;18
+14500;Madison & Keeler;41.880569;-87.73046;20-columbus;19
+15852;Madison & Karlov;41.880591;-87.72786;20-columbus;20
+409;Madison & Pulaski;41.880614;-87.725824;20-columbus;21
+18047;Madison & Springfield;41.880703;-87.722861;20-columbus;22
+17841;Madison & Hamlin;41.880744;-87.720459;20-columbus;23
+412;Madison & Central Park;41.880807;-87.715975;20-columbus;24
+413;Madison & St. Louis;41.880814;-87.71382;20-columbus;25
+14764;Madison & Homan;41.880841;-87.710731;20-columbus;26
+415;Madison & Spaulding;41.880887;-87.708722;20-columbus;27
+416;Madison & Kedzie;41.880902;-87.706333;20-columbus;28
+417;Madison & Albany;41.880952;-87.703147;20-columbus;29
+15185;Madison & Sacramento;41.880954;-87.700881;20-columbus;30
+16110;Madison & Francisco;41.880999;-87.698562;20-columbus;31
+420;Madison & California;41.881009;-87.696008;20-columbus;32
+421;Madison & Washtenaw;41.881033;-87.694048;20-columbus;33
+16088;Madison & Talman;41.881033;-87.692294;20-columbus;34
+423;Madison & Campbell;41.881063;-87.688977;20-columbus;35
+15364;Madison & Western;41.881099;-87.686077;20-columbus;36
+425;Madison & Oakley;41.881128;-87.68411;20-columbus;37
+15384;Madison & Leavitt;41.881174;-87.681223;20-columbus;38
+427;Madison & Hoyne;41.881232;-87.679293;20-columbus;39
+428;Madison & Damen;41.881262;-87.67685;20-columbus;40
+429;Madison & United Center (1900 W);41.881297;-87.674247;20-columbus;41
+430;Madison & Wood;41.881328;-87.671863;20-columbus;42
+431;Madison & Paulina;41.88137;-87.669513;20-columbus;43
+4727;1633 W Madison;41.881385;-87.668503;20-columbus;44
+432;Madison & Ashland;41.881395;-87.667;20-columbus;45
+15279;Madison & Laflin;41.881434;-87.664189;20-columbus;46
+16049;Madison & Loomis;41.881469;-87.662015;20-columbus;47
+435;Madison & Throop;41.881525;-87.659765;20-columbus;48
+436;Madison & Racine;41.881545;-87.657333;20-columbus;49
+437;Madison & Aberdeen;41.881608;-87.654897;20-columbus;50
+14647;Madison & Morgan;41.881652;-87.651912;20-columbus;51
+439;Madison & Peoria;41.881678;-87.649838;20-columbus;52
+440;Halsted & Madison;41.882;-87.64728;20-columbus;53
+12754;Washington & Halsted;41.883071;-87.646695;20-columbus;54
+442;Washington & Jefferson;41.88311;-87.642848;20-columbus;55
+443;Washington & Canal;41.883084;-87.639976;20-columbus;56
+445;Washington & Franklin;41.883128;-87.635516;20-columbus;57
+446;Washington & Lasalle;41.883137;-87.632625;20-columbus;58
+18122;Washington & Clark / Dearborn;41.883147;-87.630196;20-columbus;59
+448;Washington & State;41.88317;-87.627497;20-columbus;60
+449;Washington & Wabash;41.883159;-87.625966;20-columbus;61
+1119;Michigan & Randolph;41.884688;-87.624318;20-columbus;62
+1120;Michigan & South Water;41.8867;-87.624384;20-columbus;63
+1121;Michigan & E. Wacker;41.888076;-87.624425;20-columbus;64
+3954;Wacker (Upper) & Columbus;41.887792;-87.620967;20-columbus;65
 1210;Sheridan & Morse;42.008133;-87.661598;96;1
 12060;Lunt & Sheridan;42.009221;-87.662387;96;2
 12061;Lunt & Glenwood;42.009171;-87.666125;96;3
