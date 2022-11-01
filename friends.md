@@ -6,6 +6,8 @@ Since this inside access is invite-only, just keep the GitHub link a secret. It'
 
 Let's get into it!
 
+Fair warning - There is some technical knowledge needed for this - specifically the ability to install things and use the command line.
+
 ## Part 1: Setup
 
 First things first - the calculator was coded in Java (the only programming language I know), so you'll need to download it. You can download it for free for any operating system on Oracle's website: https://www.oracle.com/java/technologies/downloads/
@@ -31,6 +33,8 @@ Once a route is calculated and saved, run `java routeList` afterwards as this ge
 After you finish your EDI calculating, it's time to get it added to the database. You'll have to commit and push your Git changes (yeah that sounds complicated). I do it in one simple Git command (you'll be able to do this) from the command line - `git add * && git commit -m "[put whatever here i don't care this is just a message]" && git push`. That will do everything in one go.
 
 Note that if you are actually knowledgeable with Git or the CLI (which I am not), there may be a better way to do this process. This is just the way I'd do it with my current knowledge.
+
+Download and intall instructions for [the CLI](https://github.com/cli/cli#installation) and [Git](https://github.com/cli/cli#installation) are available.
 
 ## Some other documentation
 
