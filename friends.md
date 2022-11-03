@@ -14,7 +14,7 @@ First things first - the calculator was coded in Java (the only programming lang
 
 Next - create a GitHub account if you don't have one (it's also free), and clone the database to your computer - I recommend using both [Github's offical CLI](https://cli.github.com/) and [Git](https://git-scm.com/) for all work with the EDI calculator (both programs are free).
 
-Download and intall instructions for [the CLI](https://github.com/cli/cli#installation) and [Git](https://github.com/cli/cli#installation) are available.
+Download and install instructions for [the CLI](https://github.com/cli/cli#installation) and [Git](https://github.com/cli/cli#installation) are available.
 
 Certain code editors such as [Visual Studio Code](https://code.visualstudio.com/) automatically integrate with GitHub to make the process easier for beginners.
 
