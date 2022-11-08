@@ -47,7 +47,7 @@ public class routeList
       // listing with links at top
       for (int i = 0; i < agencies.size(); i++)
       {
-        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul>");
+        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul> \n");
       }
       
       int routeCount = 0;
@@ -69,16 +69,19 @@ public class routeList
           while (s.hasNextLine())
           {
             String data = s.nextLine();
-            String code = data.substring(0, data.indexOf(";"));
-            routeCode.add(code);
-            data = data.substring(data.indexOf(";") + 1);
-            String disp = data.substring(0, data.indexOf(";"));
-            routeDisp.add(disp);
-            data = data.substring(data.indexOf(";") + 1);
-            String edi = data;
-            routeEdi.add(edi);
-            routeCount++;
-            agencyCount++;
+            if (!data.substring(0, 1).equals("*")) // * - unverified
+            {
+              String code = data.substring(0, data.indexOf(";"));
+              routeCode.add(code);
+              data = data.substring(data.indexOf(";") + 1);
+              String disp = data.substring(0, data.indexOf(";"));
+              routeDisp.add(disp);
+              data = data.substring(data.indexOf(";") + 1);
+              String edi = data;
+              routeEdi.add(edi);
+              routeCount++;
+              agencyCount++;
+            }
           }
         }
         catch (FileNotFoundException e)

@@ -2,7 +2,7 @@
 
 Okay, so you got the inside access. (If you're not supposed to be here - I'll know.) You all have a slightly different guide than the [standard contribution guide](https://edi.benchase.info/contribute.html), but that's mostly due to the additional setup here.
 
-Since this inside access is invite-only, just keep the GitHub link a secret. It's not linked anywhere right now, so don't go spreading it.
+Since this inside access is invite-only, just keep the GitHub link a secret. It's not linked anywhere right now, so don't go spreading it. Access can be revoked at any time for abuse of the system (just like the standard contribution method)
 
 Let's get into it!
 
@@ -33,6 +33,8 @@ Run `java ediCalc` to run the calculator. When prompted to save line, enter `yes
 ## Part 3: Adding to the database
 
 Once a route is calculated and saved, run `java routeList` afterwards as this generates the `routes.html` page.
+
+If a route in the list is not included in the database (which is checked with the calculator), the route will be removed from the list until recalculation and checked to verify its presence in the database.
 
 After you finish your EDI calculating, it's time to get it added to the database. You'll have to commit and push your Git changes (yeah that sounds complicated). I do it in one simple Git command (you'll be able to do this) from the command line - `git add * && git commit -m "[put whatever here i don't care this is just a message]" && git push`. That will do everything in one go.
 
