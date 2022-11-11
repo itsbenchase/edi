@@ -141,9 +141,6 @@ public class ediCalc
 
         System.out.print("Line Name: ");
         lineName = in.nextLine();
-        official = true;
-
-        
         
         while (!customStop.equals("-0"))
         {
@@ -269,7 +266,11 @@ public class ediCalc
           export = true;
         }
 
-        
+        System.out.print("Official line? ");
+        if (in.nextLine().equalsIgnoreCase("yes"))
+        {
+          official = true;
+        }
       }
 
       // segments of routes
@@ -524,7 +525,7 @@ public class ediCalc
       
 
       // this is when things get added to site listing
-      if (official && saved)
+      if (saved)
       {
         ArrayList<String> routeCode = new ArrayList<String>();
         ArrayList<String> routeDist = new ArrayList<String>();
@@ -552,7 +553,14 @@ public class ediCalc
           System.out.println("Error, no EDI list file for agency " + agencyChoice + "."); // expected error if first route
         }
 
-        routeCode.add(lineName);
+        if (official)
+        {
+          routeCode.add(lineName);
+        }
+        else
+        {
+          routeCode.add("!" + lineName);
+        }
         routeDist.add(dist + "");
         routeEdi.add(edi + "");
 

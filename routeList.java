@@ -60,8 +60,8 @@ public class routeList
         ArrayList<String> routeCode = new ArrayList<String>();
         ArrayList<String> routeDisp = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
+        ArrayList<String> routeOfficial = new ArrayList<String>();
         int agencyCount = 0;
-
         // takes routes from /edi folder
         try
         {
@@ -71,6 +71,15 @@ public class routeList
             String data = s.nextLine();
             if (!data.substring(0, 1).equals("*")) // * - unverified
             {
+              if (data.substring(0, 1).equals("!"))
+              {
+                data = data.substring(1);
+                routeOfficial.add("n");
+              }
+              else
+              {
+                routeOfficial.add("y");
+              }
               String code = data.substring(0, data.indexOf(";"));
               routeCode.add(code);
               data = data.substring(data.indexOf(";") + 1);
@@ -94,7 +103,14 @@ public class routeList
         // route table created
         for (int j = 0; j < routeCode.size(); j++)
         {
-          fileWriter1.append("<tr><td style=color:red>" + routeCode.get(j) + "</td><td>" + routeDisp.get(j) + "</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+          if (routeOfficial.get(j).equals("y"))
+          {
+            fileWriter1.append("<tr><td style=color:red>" + routeCode.get(j) + "</td><td>" + routeDisp.get(j) + "</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+          }
+          else
+          {
+            fileWriter1.append("<tr><td style=color:blue>" + routeCode.get(j) + "</td><td>" + routeDisp.get(j) + "</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+          }
         }
 
         fileWriter1.append("</table> \n");
