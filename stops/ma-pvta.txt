@@ -4,20 +4,20 @@ place_54Inds;54 Industrial Dr;42.333639;-72.629346
 9012;54 Industrial Drive;42.334552;-72.630197
 6243;70 Mill Street;42.090937;-72.576531
 1254;75 Springfield Rd;42.111671;-72.711814
-6247;90 Mill Street;42.091220;-72.575903
-9202;100 Wason Avenue;42.125424;-72.613920
+6247;90 Mill Street;42.09122;-72.575903
+9202;100 Wason Avenue;42.125424;-72.61392
 861;600 Berkshire Ave;42.136994;-72.528072
 859;603 Berkshire Ave;42.137085;-72.527701
-1453;608 Westfield St;42.104000;-72.633680
+1453;608 Westfield St;42.104;-72.63368
 1809;704 Springfield St;42.077892;-72.652665
-1007;3300 Main Street;42.123166;-72.609740
+1007;3300 Main Street;42.123166;-72.60974
 994;3350 Main Street;42.124016;-72.610093
 978;3550 Main Street;42.126346;-72.611089
-1297;AIC (Wilbraham Rd);42.111977;-72.558450
+1297;AIC (Wilbraham Rd);42.111977;-72.55845
 place_AcaMus;Academy of Music;42.317669;-72.633606
 261;Academy of Music (E);42.317695;-72.633159
 1873;Agawam Ind. Park Drive Ext. / Unnamed;42.059181;-72.660261
-1609;Allen / Alberta (1);42.093500;-72.552036
+1609;Allen / Alberta (1);42.0935;-72.552036
 1608;Allen / Alberta (2);42.093582;-72.552812
 1619;Allen / Allen Park;42.093712;-72.505897
 1612;Allen / Allen Park (Inbound);42.093787;-72.505893
@@ -26,7 +26,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1593;Allen / Bridlepath;42.094648;-72.514615
 1633;Allen / Corcoran;42.092991;-72.520771
 1649;Allen / Harbour;42.092524;-72.522588
-1554;Allen / Malden (1);42.096627;-72.562030
+1554;Allen / Malden (1);42.096627;-72.56203
 1555;Allen / Malden (2);42.096546;-72.562286
 1663;Allen / Manor;42.091841;-72.525262
 1591;Allen / Talmadge;42.094688;-72.513751
@@ -41,7 +41,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 112;Amherst Common (N);42.374569;-72.519758
 113;Amherst Common (S);42.374447;-72.519946
 124;Amherst Community Health Ctr (In);42.368735;-72.533361
-123;Amherst Community Health Ctr (Out);42.368630;-72.533535
+123;Amherst Community Health Ctr (Out);42.36863;-72.533535
 115;Amherst Glass (In);42.376279;-72.501419
 102;Amherst Glass (Out);42.376185;-72.501263
 96;Amherst Post Office;42.377795;-72.519835
@@ -52,7 +52,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 114;Amity Place (Out);42.374069;-72.531565
 6401;Armory / Hannon;42.114319;-72.580437
 6403;Armory / Ledyard;42.116755;-72.582606
-6402;Armory / Napier;42.116759;-72.582440
+6402;Armory / Napier;42.116759;-72.58244
 6404;Armory / Worthington;42.113882;-72.580159
 56;Arnold House;42.393749;-72.526012
 108;Aspen Chase Apts (In);42.375815;-72.507236
@@ -66,16 +66,16 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 214;Barrett / Hathaway Farms (Outbound);42.333782;-72.639972
 213;Barrett / Jackson (1);42.333989;-72.643105
 218;Barrett / King (1);42.333441;-72.636167
-216;Barrett / King (2);42.333500;-72.636483
-1001;Bay / Aster;42.123995;-72.560010
+216;Barrett / King (2);42.3335;-72.636483
+1001;Bay / Aster;42.123995;-72.56001
 905;Bay / Bay Path;42.132603;-72.543609
-977;Bay / Baywood (1);42.125950;-72.558839
+977;Bay / Baywood (1);42.12595;-72.558839
 981;Bay / Baywood (2);42.125676;-72.558896
 1036;Bay / Bertil Hammarlof;42.122831;-72.560695
 942;Bay / Blunt Park (1);42.130667;-72.554019
-944;Bay / Blunt Park (2);42.130774;-72.554060
+944;Bay / Blunt Park (2);42.130774;-72.55406
 6377;Bay / Blunt Park (3);42.128818;-72.556922
-954;Bay / Blunt Park (4);42.129030;-72.556859
+954;Bay / Blunt Park (4);42.12903;-72.556859
 1151;Bay / Bowles;42.116333;-72.567033
 1211;Bay / Buckingham (1);42.114219;-72.568956
 1213;Bay / Buckingham (2);42.114457;-72.568629
@@ -85,7 +85,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 909;Bay / Cloran;42.132416;-72.544584
 1168;Bay / Dartmouth;42.116223;-72.567011
 1009;Bay / Edgewood;42.121808;-72.561573
-1035;Bay / Edgewood;42.121757;-72.561790
+1035;Bay / Edgewood;42.121757;-72.56179
 910;Bay / Haskin (1);42.132536;-72.540177
 908;Bay / Haskin (2);42.132556;-72.540473
 903;Bay / Hood (1);42.132741;-72.541859
@@ -94,17 +94,18 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 925;Bay / Jasper (2);42.131549;-72.537243
 1070;Bay / Oak Grove;42.120285;-72.563106
 1065;Bay / Oak Grove (across);42.120065;-72.563425
-1114;Bay / Princeton;42.117837;-72.565630
+1114;Bay / Princeton;42.117837;-72.56563
 1331;Bay / Saint James (1);42.110131;-72.573837
 1330;Bay / Saint James (2);42.110194;-72.573586
 1269;Bay / Westminster;42.112934;-72.570029
 1266;Bay / Westminster (In);42.112782;-72.570267
+8022;Bay Road;42.337453;-72.605865
 273;Bay Road / Federal Street (In);42.298475;-72.415895
-274;Bay Road / Federal Street (Out);42.298460;-72.416043
+274;Bay Road / Federal Street (Out);42.29846;-72.416043
 979;Baystate Parking Lot N;42.126432;-72.610884
 461;Beech / Beech;42.200154;-72.625872
-436;Beech / Franklin (1);42.202144;-72.621250
-440;Beech / Franklin (2);42.202190;-72.620890
+436;Beech / Franklin (1);42.202144;-72.62125
+440;Beech / Franklin (2);42.20219;-72.62089
 416;Beech / Hampshire;42.204192;-72.618479
 464;Beech / Hospital;42.199434;-72.628095
 448;Beech / Linden;42.201414;-72.622996
@@ -112,16 +113,16 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 423;Beech / Sargeant;42.203512;-72.619291
 673;Belcher / Maple;42.157934;-72.580327
 294;Belchertown Center;42.277596;-72.400815
-291;Belchertown Common;42.279637;-72.402380
+291;Belchertown Common;42.279637;-72.40238
 1727;Belmont / Beaumont;42.086963;-72.562003
 1730;Belmont / Beaumont;42.086666;-72.561017
 1700;Belmont / Bellevue (1);42.088768;-72.571802
-1703;Belmont / Bellevue (2);42.088580;-72.571275
+1703;Belmont / Bellevue (2);42.08858;-72.571275
 6285;Belmont / Belvidere;42.084053;-72.546699
 1763;Belmont / Bryant;42.084903;-72.550566
-1747;Belmont / Commonwealth (opposite);42.085870;-72.555944
+1747;Belmont / Commonwealth (opposite);42.08587;-72.555944
 1753;Belmont / Daytona;42.085281;-72.552727
-1710;Belmont / Forest;42.088080;-72.568628
+1710;Belmont / Forest;42.08808;-72.568628
 1777;Belmont / Fountain;42.083681;-72.544655
 1775;Belmont / Fountain (opposite);42.083751;-72.544441
 1755;Belmont / Hollywood;42.085204;-72.553058
@@ -132,7 +133,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1688;Belmont / Leyfred;42.089622;-72.575614
 1717;Belmont / Litchfield;42.087451;-72.565222
 1768;Belmont / Longfellow;42.084416;-72.547954
-1718;Belmont / Oakland;42.087441;-72.564610
+1718;Belmont / Oakland;42.087441;-72.56461
 1757;Belmont / Orlando;42.085099;-72.551677
 1750;Belmont / Ormond;42.085577;-72.554977
 1737;Belmont / Ramp (2);42.086352;-72.559281
@@ -147,11 +148,11 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 6379;Berkshire / Champlain;42.145142;-72.521386
 765;Berkshire / Champlain (1);42.145181;-72.521544
 683;Berkshire / Chestnut (1);42.157208;-72.508122
-684;Berkshire / Chestnut (2);42.157144;-72.508790
+684;Berkshire / Chestnut (2);42.157144;-72.50879
 791;Berkshire / Cottage;42.142428;-72.523601
 874;Berkshire / County;42.135513;-72.530076
 867;Berkshire / Dewey;42.136375;-72.528719
-716;Berkshire / Dutton;42.150898;-72.516060
+716;Berkshire / Dutton;42.150898;-72.51606
 896;Berkshire / Egan;42.133425;-72.533142
 883;Berkshire / Elizabeth;42.135132;-72.530397
 704;Berkshire / Fiberloid;42.154487;-72.512992
@@ -162,21 +163,21 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 694;Berkshire / Holly;42.156579;-72.511073
 750;Berkshire / Lorimer;42.147422;-72.519243
 757;Berkshire / Michigan;42.146248;-72.520325
-685;Berkshire / Myrtle (1);42.157022;-72.506380
+685;Berkshire / Myrtle (1);42.157022;-72.50638
 686;Berkshire / Myrtle (2);42.156975;-72.506313
 689;Berkshire / Oak (1);42.156827;-72.503994
 693;Berkshire / Oak (2);42.156742;-72.504016
 736;Berkshire / Ogden;42.148806;-72.518202
-722;Berkshire / Page;42.150040;-72.517078
+722;Berkshire / Page;42.15004;-72.517078
 875;Berkshire / Rush;42.135637;-72.529599
 730;Berkshire / Seneca;42.149335;-72.517508
 753;Berkshire / Superior;42.147058;-72.519807
 6431;Berlin / State (1);42.115606;-72.551101
 6432;Berlin / State (2);42.115175;-72.551132
 1577;Bicentennial Highway (1);42.095606;-72.508992
-1567;Big Y - Allen / Cooley Streets;42.096200;-72.500005
+1567;Big Y - Allen / Cooley Streets;42.0962;-72.500005
 125;Big Y - Amherst;42.367773;-72.534822
-585;Big Y - Chicopee (Memorial Drive);42.174260;-72.578590
+585;Big Y - Chicopee (Memorial Drive);42.17426;-72.57859
 1805;Big Y - East Longmeadow;42.079806;-72.527422
 616;Big Y - Ludlow;42.169052;-72.481836
 1084;Blunt Park / State;42.119417;-72.548215
@@ -184,17 +185,17 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 995;Boston / Ambrose (1);42.124609;-72.538211
 999;Boston / Ambrose (2);42.124494;-72.538203
 990;Boston / Ambrose (3);42.125037;-72.535911
-886;Boston / Arnold;42.134550;-72.524261
-969;Boston / Barber;42.127070;-72.531451
+886;Boston / Arnold;42.13455;-72.524261
+969;Boston / Barber;42.12707;-72.531451
 852;Boston / Brandon;42.137777;-72.514473
 982;Boston / Coleman;42.125603;-72.534126
 975;Boston / Denver (1);42.126206;-72.533199
 974;Boston / Denver (2);42.126317;-72.532668
-823;Boston / Fieldston;42.140040;-72.503301
+823;Boston / Fieldston;42.14004;-72.503301
 858;Boston / Glenwood (1);42.137194;-72.517581
-860;Boston / Glenwood (2);42.137040;-72.517660
-869;Boston / Lawnwood (1);42.135210;-72.523601
-871;Boston / Lawnwood (2);42.135852;-72.522280
+860;Boston / Glenwood (2);42.13704;-72.51766
+869;Boston / Lawnwood (1);42.13521;-72.523601
+871;Boston / Lawnwood (2);42.135852;-72.52228
 851;Boston / Lloyd;42.137868;-72.513109
 811;Boston / Lucerne (1);42.140719;-72.499921
 6400;Boston / Lucerne (2);42.140591;-72.499842
@@ -212,42 +213,42 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 829;Boston Road Mobile Home Park;42.139503;-72.505296
 797;Boston Road Opposite Eastfield Mall;42.142034;-72.491855
 76;Boyden Gym (N);42.386541;-72.531201
-9011;Brassworks IB;42.376790;-72.705907
-355;Bridge / Grant;42.216152;-72.593390
+9011;Brassworks IB;42.37679;-72.705907
+355;Bridge / Grant;42.216152;-72.59339
 189;Bridge / Hatfield;42.338284;-72.648782
-1539;Bridge / High;42.097219;-72.635320
+1539;Bridge / High;42.097219;-72.63532
 358;Bridge / Main;42.215373;-72.594501
-1559;Bridge / Maple;42.095539;-72.633910
+1559;Bridge / Maple;42.095539;-72.63391
 357;Bridge / School;42.216103;-72.593313
 383;Britton / Hudson;42.208507;-72.573676
 798;Broadway / Abbey Memorial;42.140946;-72.581465
-720;Broadway / Grove;42.149535;-72.579990
+720;Broadway / Grove;42.149535;-72.57999
 725;Broadway / Monroe;42.149181;-72.579841
 692;Broadway / Paine;42.156067;-72.580724
 706;Broadway / Pine;42.153317;-72.580522
 709;Broadway / Pine;42.152826;-72.580351
 687;Broadway / Ramp;42.156155;-72.580888
-702;Broadway / Summer;42.154130;-72.580495
+702;Broadway / Summer;42.15413;-72.580495
 748;Broadway / Theodore;42.146984;-72.579649
 749;Broadway / Theodore;42.146957;-72.579785
 775;Broadway / Western;42.143667;-72.580372
 776;Broadway / Western;42.143652;-72.580498
 790;Broadway / William;42.142161;-72.580962
 6305;Brookdale / Bradford Hall;42.146342;-72.527249
-6306;Brookdale / Cottage;42.142597;-72.525650
+6306;Brookdale / Cottage;42.142597;-72.52565
 7904;Brookfield (E);42.215329;-72.097373
-7905;Brookfield (W);42.215420;-72.097329
+7905;Brookfield (W);42.21542;-72.097329
 13;Bull Hill Road;42.446524;-72.554708
-444;Cabot / Bond;42.201920;-72.610519
-446;Cabot / Bond;42.201881;-72.610730
+444;Cabot / Bond;42.20192;-72.610519
+446;Cabot / Bond;42.201881;-72.61073
 477;Cabot / Bridge;42.198338;-72.604755
 478;Cabot / Bridge;42.198549;-72.605143
 457;Cabot / Cabot;42.200511;-72.608042
 483;Cabot / Canal;42.197382;-72.603783
-484;Cabot / Canal;42.197360;-72.603603
-463;Cabot / Clemente;42.199680;-72.606448
+484;Cabot / Canal;42.19736;-72.603603
+463;Cabot / Clemente;42.19968;-72.606448
 465;Cabot / Clemente;42.199144;-72.605863
-431;Cabot / High;42.202793;-72.612310
+431;Cabot / High;42.202793;-72.61231
 462;Cabot / Main;42.200036;-72.607192
 756;Cabot / Park;42.145619;-72.608896
 1744;Canon Circle #1;42.086402;-72.504813
@@ -258,29 +259,29 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1103;Carew / Algonquin (opposite);42.118069;-72.594919
 1022;Carew / Armory;42.122348;-72.588054
 1023;Carew / Armory;42.122194;-72.588449
-1143;Carew / Bartlett;42.116650;-72.595303
-1225;Carew / Chestnut (1);42.113860;-72.596407
+1143;Carew / Bartlett;42.11665;-72.595303
+1225;Carew / Chestnut (1);42.11386;-72.596407
 1222;Carew / Chestnut (2);42.113904;-72.596517
 1301;Carew / Dwight (1);42.111444;-72.599662
 1290;Carew / Dwight (2);42.111265;-72.598624
 1274;Carew / Dwight (3);42.112306;-72.598498
-1270;Carew / Dwight (4);42.112440;-72.598491
-941;Carew / Eddy;42.130405;-72.576730
+1270;Carew / Dwight (4);42.11244;-72.598491
+941;Carew / Eddy;42.130405;-72.57673
 972;Carew / Freeman;42.126378;-72.583085
 948;Carew / Judson;42.129206;-72.579224
-984;Carew / Libcar;42.125044;-72.584650
+984;Carew / Libcar;42.125044;-72.58465
 968;Carew / Liberty (1);42.126602;-72.583012
 980;Carew / Liberty (2);42.125613;-72.584214
 1197;Carew / Massasoit;42.114818;-72.595812
-1064;Carew / Melha (1);42.120110;-72.592469
+1064;Carew / Melha (1);42.12011;-72.592469
 1063;Carew / Melha (2);42.120236;-72.592484
 950;Carew / Middle;42.128994;-72.579337
 6284;Carew / Newbury;42.127672;-72.581749
 958;Carew / Nottingham;42.128136;-72.580837
 1042;Carew / Nye;42.121226;-72.590013
-1043;Carew / Parkside;42.121111;-72.590530
+1043;Carew / Parkside;42.121111;-72.59053
 986;Carew / Penacook;42.124788;-72.585149
-915;Carew / Piedmont;42.131645;-72.574700
+915;Carew / Piedmont;42.131645;-72.5747
 920;Carew / Savoy;42.131516;-72.574667
 885;Carew / Shaine;42.134259;-72.570882
 890;Carew / Sherbrooke;42.133774;-72.571129
@@ -305,8 +306,8 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1512;Central / Cedar (1);42.099631;-72.575065
 1514;Central / Cedar (2);42.099573;-72.574687
 1520;Central / Pine (1);42.099076;-72.573181
-1521;Central / Pine (2);42.099220;-72.573361
-1511;Central / Sterns;42.099644;-72.576470
+1521;Central / Pine (2);42.09922;-72.573361
+1511;Central / Sterns;42.099644;-72.57647
 1571;Century Plaza;42.095481;-72.605077
 471;Cherry / Bay State (1);42.199021;-72.632016
 474;Cherry / Bay State (2);42.198823;-72.633102
@@ -314,71 +315,72 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 472;Cherry / Hillside;42.198979;-72.633656
 451;Cherry / Homestead (2);42.201111;-72.641657
 443;Cherry / Leary;42.201645;-72.643453
-427;Cherry / Maple Crest (1);42.202925;-72.645240
-6415;Cherry / Maple Crest (2);42.201660;-72.643693
+427;Cherry / Maple Crest (1);42.202925;-72.64524
+6415;Cherry / Maple Crest (2);42.20166;-72.643693
 36;Cherry Lane;42.404603;-72.514849
 1144;Chestnut / Bancroft;42.116544;-72.601293
 1053;Chestnut / Baystate Medical Center;42.120336;-72.604984
 1051;Chestnut / Baystate Medical Center Drive;42.120535;-72.605242
 1109;Chestnut / Calhoun;42.117948;-72.602914
-1104;Chestnut / Chapin;42.117950;-72.603104
+1104;Chestnut / Chapin;42.11795;-72.603104
 1916;Chestnut / Congress;42.109889;-72.593816
-6016;Chestnut / Edwards;42.103670;-72.586847
-1185;Chestnut / Hebron;42.115080;-72.599358
+6016;Chestnut / Edwards;42.10367;-72.586847
+1185;Chestnut / Hebron;42.11508;-72.599358
 1915;Chestnut / Liberty;42.108984;-72.592846
 372;Chestnut / Lyman;42.210482;-72.606987
 207;Chestnut / Main;42.335015;-72.667591
 1081;Chestnut / Pratt;42.118966;-72.604049
 1926;Chestnut / Shaker;42.053329;-72.520866
-1232;Chestnut / Sherrington;42.113650;-72.597435
+1232;Chestnut / Sherrington;42.11365;-72.597435
 1287;Chestnut / Stafford;42.112054;-72.595755
 1077;Chestnut / Waverly;42.119294;-72.604579
 79;Chestnut Street (N);42.383667;-72.518458
 6446;Chicopee / Adams;42.189032;-72.604477
 510;Chicopee / Baptist;42.191559;-72.601098
-6444;Chicopee / Baptist;42.191530;-72.601393
-524;Chicopee / Blanche;42.188390;-72.605385
+6444;Chicopee / Baptist;42.19153;-72.601393
+524;Chicopee / Blanche;42.18839;-72.605385
 6445;Chicopee / Bolduc;42.190288;-72.602781
 572;Chicopee / Bonner;42.177075;-72.621053
 518;Chicopee / Charbonneau;42.190145;-72.602728
-578;Chicopee / Cora;42.175490;-72.621641
-582;Chicopee / Daley;42.174700;-72.622084
+578;Chicopee / Cora;42.17549;-72.621641
+582;Chicopee / Daley;42.1747;-72.622084
 593;Chicopee / Dillon;42.174555;-72.622064
-558;Chicopee / Ducharme;42.179823;-72.617620
-610;Chicopee / Elmer;42.168640;-72.623670
+558;Chicopee / Ducharme;42.179823;-72.61762
+610;Chicopee / Elmer;42.16864;-72.62367
 501;Chicopee / Emerson;42.193661;-72.600113
 539;Chicopee / Hope;42.184647;-72.611142
-6450;Chicopee / Jones Ferry (1);42.171820;-72.623351
+6450;Chicopee / Jones Ferry (1);42.17182;-72.623351
 603;Chicopee / Jones Ferry (2);42.170731;-72.623834
 598;Chicopee / Jones Ferry (3);42.171653;-72.623326
 569;Chicopee / Lawndale;42.177937;-72.620164
-639;Chicopee / Lorraine (1);42.163200;-72.618848
+639;Chicopee / Lorraine (1);42.1632;-72.618848
 6441;Chicopee / Lorraine (2);42.163369;-72.618942
 611;Chicopee / Marshall;42.168024;-72.623675
 560;Chicopee / Narragansett;42.180018;-72.617493
-631;Chicopee / Oldfield (1);42.165000;-72.621263
+631;Chicopee / Oldfield (1);42.165;-72.621263
 634;Chicopee / Oldfield (2);42.164826;-72.620903
 6447;Chicopee / Perrault;42.187224;-72.607618
 641;Chicopee / Poplar (1);42.162085;-72.617007
-642;Chicopee / Poplar (2);42.162140;-72.616899
+642;Chicopee / Poplar (2);42.16214;-72.616899
 647;Chicopee / Ramp (1);42.160846;-72.614731
 646;Chicopee / Ramp (2);42.160858;-72.614553
 530;Chicopee / State Hwy 116;42.187053;-72.607632
 6442;Chicopee / Walter;42.184779;-72.610849
 552;Chicopee / Warregan (1);42.181414;-72.615451
 553;Chicopee / Warregan (2);42.181277;-72.615776
-737;Chicopee Center - City Hall;42.148289;-72.606920
+737;Chicopee Center - City Hall;42.148289;-72.60692
 731;Chicopee Center- Dollar Store;42.148428;-72.608881
-6504;Chicopee High School;42.149310;-72.586312
+6504;Chicopee High School;42.14931;-72.586312
 588;Chicopee Marketplace;42.174401;-72.575336
+9059;Chmura Road;42.315488;-72.575933
 105;Churchill Street;42.375877;-72.516553
 11;Cliffside Apts;42.452223;-72.563592
 1195;Clyde / M (1);42.114625;-72.616423
 6027;Clyde / M (2);42.114752;-72.616622
 1179;Clyde / Plainfield;42.115172;-72.612618
-6028;Clyde / Plainfield (1);42.114790;-72.614690
+6028;Clyde / Plainfield (1);42.11479;-72.61469
 1181;Clyde / Plainfield (2);42.115055;-72.612731
-1158;Clyde / Sanderson;42.115775;-72.617590
+1158;Clyde / Sanderson;42.115775;-72.61759
 1193;Clyde Street (2);42.114901;-72.614556
 5040;College / Morgan ;42.252855;-72.577797
 43;College of Education;42.397621;-72.527946
@@ -386,17 +388,17 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 119;Colonial Village Apts (Out);42.370184;-72.499069
 120;Colonial Village Apts / South East Street (In);42.369388;-72.501636
 121;Colonial Village Apts / South East Street (Out);42.369294;-72.501716
-628;Columba / Grattan;42.165890;-72.590873
-147;Columbia Drive (In);42.354194;-72.521950
+628;Columba / Grattan;42.16589;-72.590873
+147;Columbia Drive (In);42.354194;-72.52195
 8011;Columbia Drive (Out);42.354335;-72.522064
-9140;Commerce High School;42.106802;-72.578870
+9140;Commerce High School;42.106802;-72.57887
 1387;Commerce High School (opposite);42.107189;-72.578773
 50;Computer Science;42.395397;-72.532453
 49;Computer Science / Green Lot 26;42.395511;-72.532586
 1413;Conservatory of the Arts;42.105803;-72.580638
 5002;Converse / Burbank (1);42.065668;-72.566843
 5003;Converse / Burbank (2);42.065532;-72.566817
-5000;Converse / Highland ;42.064990;-72.576243
+5000;Converse / Highland ;42.06499;-72.576243
 5001;Converse / Laurel ;42.064933;-72.573542
 5004;Converse / Williamsburg ;42.065346;-72.553252
 268;Conz St /  Dialysis Center;42.313232;-72.626889
@@ -406,29 +408,29 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 6307;Cottage / Carando;42.143858;-72.536589
 6308;Cottage / Industry;42.144167;-72.542198
 784;Cottage / Progress (opposite);42.143098;-72.532882
-6282;Cottage / Robbins (1);42.143160;-72.547593
+6282;Cottage / Robbins (1);42.14316;-72.547593
 774;Cottage / Robbins (2);42.144201;-72.544531
 317;Cottage and Clark Inbound;42.264141;-72.664215
-318;Cottage and Clark Outbound;42.263982;-72.663960
+318;Cottage and Clark Outbound;42.263982;-72.66396
 1837;Country View Estates;42.070648;-72.678505
-1033;Court / Bates;42.119942;-72.756150
+1033;Court / Bates;42.119942;-72.75615
 9801;Court / Cemetery;42.119409;-72.763251
 6413;Court / Day;42.120148;-72.754586
-1997;Court / Grove;42.157140;-72.584223
+1997;Court / Grove;42.15714;-72.584223
 1044;Court / High;42.119343;-72.759344
 1046;Court / Mill;42.119211;-72.759282
 1027;Court / Washington;42.120335;-72.752821
 1495;Court Square;42.101481;-72.588263
 6633;Court Street (Chicopee Falls);42.156991;-72.583979
 95;Cowles Lane;42.377886;-72.520056
-6139;Crafts / Main;42.317775;-72.631810
+6139;Crafts / Main;42.317775;-72.63181
 9160;Crafts Avenue / Peter Pan;42.316722;-72.631594
-37;Crestview Apts;42.403870;-72.529417
+37;Crestview Apts;42.40387;-72.529417
 166;Crocker Farm School (In);42.347389;-72.520147
 167;Crocker Farm School (Out);42.344964;-72.520548
 276;Crown Pointe Apartments;42.290661;-72.408342
 25;Cushman Center;42.412971;-72.508322
-24;Cushman Day School;42.413823;-72.506350
+24;Cushman Day School;42.413823;-72.50635
 245;Dakin House (In);42.322117;-72.529764
 243;Dakin House (Out);42.322195;-72.529822
 1927;Denslow / Shaker;42.041997;-72.519432
@@ -437,17 +439,17 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1707;Dickinson / Alderman (1);42.088405;-72.560361
 1709;Dickinson / Alderman (2);42.088314;-72.560082
 1719;Dickinson / Burlington (1);42.087457;-72.559162
-1720;Dickinson / Burlington (2);42.087280;-72.558791
+1720;Dickinson / Burlington (2);42.08728;-72.558791
 1811;Dickinson / Copeland;42.077893;-72.553953
-1819;Dickinson / Elwood;42.076960;-72.553756
+1819;Dickinson / Elwood;42.07696;-72.553756
 1674;Dickinson / Euclid;42.090773;-72.566747
 1676;Dickinson / Euclid;42.090671;-72.566352
-1683;Dickinson / Hall (1);42.090075;-72.565250
+1683;Dickinson / Hall (1);42.090075;-72.56525
 1681;Dickinson / Hall (2);42.090155;-72.565102
 1696;Dickinson / Kenwood;42.089241;-72.562084
 1614;Dickinson / Locust;42.093295;-72.569211
-1689;Dickinson / Oakland;42.089700;-72.563285
-1803;Dickinson / Olmsted (1);42.079670;-72.554352
+1689;Dickinson / Oakland;42.0897;-72.563285
+1803;Dickinson / Olmsted (1);42.07967;-72.554352
 1799;Dickinson / Olmsted (2);42.079958;-72.554279
 1651;Dickinson / Sachem;42.091848;-72.567748
 1735;Dickinson / Sumner (1);42.086434;-72.558046
@@ -458,28 +460,28 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1773;Dickinson / Trafton (2);42.083751;-72.555177
 1760;Dickinson / Trenton;42.084861;-72.556441
 1762;Dickinson / Trenton;42.084825;-72.556243
-1786;Dickinson / Washington (1);42.082290;-72.554769
+1786;Dickinson / Washington (1);42.08229;-72.554769
 1788;Dickinson / Washington (2);42.081965;-72.554604
-1650;Dickinson / Wigwam;42.091980;-72.567990
+1650;Dickinson / Wigwam;42.09198;-72.56799
 307;Dickinson Farm Road (In);42.269775;-72.565929
 306;Dickinson Farm Road (Out);42.269909;-72.566033
 1183;Duggan Middle School (1);42.115837;-72.525176
-1177;Duggan Middle School (2);42.116010;-72.525069
-1832;Dwight / Anglesea;42.073255;-72.538590
+1177;Duggan Middle School (2);42.11601;-72.525069
+1832;Dwight / Anglesea;42.073255;-72.53859
 1841;Dwight / Boulder;42.070311;-72.537866
 6009;Dwight / Bruce Landon Way;42.102976;-72.587387
 1834;Dwight / Channing;42.073271;-72.538501
 1920;Dwight / Congress;42.108676;-72.595541
 1825;Dwight / Fenimore;42.074981;-72.538841
 1826;Dwight / Fenimore;42.074926;-72.538731
-394;Dwight / Front;42.206090;-72.605817
-1280;Dwight / Grosvenor;42.112196;-72.599750
+394;Dwight / Front;42.20609;-72.605817
+1280;Dwight / Grosvenor;42.112196;-72.59975
 1838;Dwight / Harper;42.070809;-72.538131
 1457;Dwight / Harrison;42.104086;-72.589052
 1816;Dwight / Hartwick (1);42.077404;-72.539194
 1814;Dwight / Hartwick (2);42.077447;-72.539106
 1235;Dwight / Hebron;42.113567;-72.601322
-1810;Dwight / Irving;42.078589;-72.539620
+1810;Dwight / Irving;42.078589;-72.53962
 1208;Dwight / Osgood;42.115166;-72.602793
 1856;Dwight / Putting Green;42.067609;-72.538571
 1857;Dwight / Putting Green (opposite);42.067131;-72.538952
@@ -501,20 +503,20 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 6270;Easthampton Senior Center;42.269603;-72.671791
 302;Easthampton Town Hall;42.271198;-72.672091
 234;Elm / Connecting Road (Childs Park);42.326137;-72.649698
-235;Elm / Connecting Road (Northampton High School);42.325180;-72.649392
+235;Elm / Connecting Road (Northampton High School);42.32518;-72.649392
 998;Elm / Dingle (1);42.123729;-72.626895
 1032;Elm / Dingle (2);42.121428;-72.627337
-1130;Elm / Eldridge;42.116630;-72.627407
-1336;Elm / Elmwood;42.109530;-72.624336
+1130;Elm / Eldridge;42.11663;-72.627407
+1336;Elm / Elmwood;42.10953;-72.624336
 1329;Elm / Field;42.109827;-72.624824
-1205;Elm / Kings;42.114199;-72.625290
+1205;Elm / Kings;42.114199;-72.62529
 1080;Elm / Larone (1);42.118684;-72.627666
 1089;Elm / Larone (2);42.118488;-72.627558
 1018;Elm / Lower Grandview (1);42.121984;-72.627418
 1049;Elm / Lower Grandview (2);42.120352;-72.627492
 1067;Elm / Lower Grandview (3);42.119668;-72.627429
 1355;Elm / Mosher;42.107999;-72.623746
-992;Elm / Ramp;42.123966;-72.626690
+992;Elm / Ramp;42.123966;-72.62669
 1277;Elm / Rochelle (1);42.112086;-72.625023
 1285;Elm / Rochelle (2);42.111707;-72.624918
 1119;Elm / Sheaffer;42.117216;-72.627768
@@ -529,11 +531,11 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 380;Essex / Sycamore;42.208609;-72.619718
 1606;Exposition / Memorial;42.093041;-72.619312
 42;Fairfield Street;42.398201;-72.528162
-81;Fearing Street (In);42.383040;-72.520483
+81;Fearing Street (In);42.38304;-72.520483
 82;Fearing Street (Out);42.382876;-72.520564
 71;Fine Arts Center;42.387812;-72.523929
 840;Five Mile Pond Park;42.138838;-72.509774
-1661;Five Town Plaza;42.093840;-72.500627
+1661;Five Town Plaza;42.09384;-72.500627
 227;Florence / Ryan;42.329985;-72.678756
 5073;Florence / Scanlon  ;42.326627;-72.677514
 209;Florence Center (Inbound);42.334797;-72.668583
@@ -541,13 +543,13 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 7447;Florence Rd at Florence Heights;42.323828;-72.676857
 1765;Forest Park Entrance;42.084564;-72.565821
 192;Forsander Apt.;42.337269;-72.670545
-1699;Fort Pleasant / Blake Hill;42.089008;-72.576430
+1699;Fort Pleasant / Blake Hill;42.089008;-72.57643
 1729;Fort Pleasant / Chase;42.086623;-72.574905
 1728;Fort Pleasant / Edgeland;42.086644;-72.575145
 1708;Fort Pleasant / Forest Park Avenue;42.088236;-72.575896
 1705;Fort Pleasant / Leete;42.088413;-72.576261
 1779;Fort Pleasant / Sumner;42.083361;-72.573689
-6374;Fort Pleasant / Warner (1);42.084983;-72.574220
+6374;Fort Pleasant / Warner (1);42.084983;-72.57422
 1764;Fort Pleasant / Warner (2);42.084484;-72.574279
 1692;Fort Pleasant at 36;42.089387;-72.576816
 1919;Franklin / Liberty;42.110801;-72.592277
@@ -556,38 +558,38 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 739;Front / Academy (opposite);42.148064;-72.591878
 6351;Front / Cyman;42.148001;-72.595078
 738;Front / Cyman;42.148083;-72.594777
-715;Front / Ellerton;42.150610;-72.585328
+715;Front / Ellerton;42.15061;-72.585328
 714;Front / Ellerton (opposite);42.150695;-72.585411
 6032;Front / Grape (1);42.148077;-72.602977
-733;Front / Grape (2);42.148203;-72.603460
+733;Front / Grape (2);42.148203;-72.60346
 6353;Front / Grove;42.152477;-72.584405
-6350;Front / Orchard;42.148040;-72.598871
+6350;Front / Orchard;42.14804;-72.598871
 735;Front / Orchard (opposite);42.148129;-72.598647
 727;Front / Springfield;42.148846;-72.606862
 726;Front / Wheatland (opposite);42.149042;-72.587466
 266;Fruit / Smith;42.313746;-72.629558
-263;Fruit Street / Old South Street;42.315134;-72.631730
+263;Fruit Street / Old South Street;42.315134;-72.63173
 6;Garage Road (Out);42.465379;-72.575865
 13101;Gatehouse Road (In);42.363294;-72.488332
-131;Gatehouse Road (Out);42.363336;-72.488540
+131;Gatehouse Road (Out);42.363336;-72.48854
 6811;Girls Inc. ;42.205757;-72.604964
 269;Glenns Glen (In);42.311602;-72.423034
 270;Glenns Glen (Out);42.311543;-72.423076
 718;Goodwin / Darling (1);42.150633;-72.507906
 719;Goodwin / Darling (2);42.150383;-72.508115
-728;Goodwin / Layzon Brothers;42.149744;-72.508560
-712;Goodwin / Lilac;42.151780;-72.506355
+728;Goodwin / Layzon Brothers;42.149744;-72.50856
+712;Goodwin / Lilac;42.15178;-72.506355
 280;Granby Heights Condominiums (In);42.289094;-72.535437
-277;Granby Heights Condominiums (Out);42.289148;-72.535660
+277;Granby Heights Condominiums (Out);42.289148;-72.53566
 33;Grantwood Drive;42.406828;-72.514451
-632;Grattan / Columba;42.165280;-72.590121
-574;Grattan / Dallaire;42.176388;-72.600710
+632;Grattan / Columba;42.16528;-72.590121
+574;Grattan / Dallaire;42.176388;-72.60071
 608;Grattan / Hobson;42.169411;-72.594864
-577;Grattan / Mary;42.175790;-72.600487
+577;Grattan / Mary;42.17579;-72.600487
 651;Grattan / Montgomery (1);42.160856;-72.582729
 650;Grattan / Montgomery (2);42.160989;-72.582917
-644;Grattan / Morris;42.161932;-72.586150
-636;Grattan / Naomi (1);42.163954;-72.588910
+644;Grattan / Morris;42.161932;-72.58615
+636;Grattan / Naomi (1);42.163954;-72.58891
 635;Grattan / Naomi (2);42.164098;-72.588897
 550;Grattan / Philathea (1);42.182703;-72.610257
 549;Grattan / Philathea (2);42.182756;-72.609932
@@ -601,16 +603,17 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 679;Grove / Court (2);42.157025;-72.585232
 1998;Grove / Front;42.153795;-72.584611
 703;Grove / Front;42.153967;-72.584603
-697;Grove / Oak;42.155371;-72.585470
-231;Gulf Road (In);42.329625;-72.448140
-232;Gulf Road (Out);42.329520;-72.448196
-9098;HTC Bay 1;42.208161;-72.607630
+697;Grove / Oak;42.155371;-72.58547
+231;Gulf Road (In);42.329625;-72.44814
+232;Gulf Road (Out);42.32952;-72.448196
+9098;HTC Bay 1;42.208161;-72.60763
 9097;HTC Bay 2;42.208218;-72.607575
-9096;HTC Bay 3;42.208274;-72.607520
-9089;HTC Bay 4;42.208330;-72.607465
+9096;HTC Bay 3;42.208274;-72.60752
+9089;HTC Bay 4;42.20833;-72.607465
 9088;HTC Bay 5;42.208385;-72.607412
 9087;HTC Bay 6;42.208442;-72.607355
 9086;HTC Bay 7;42.208497;-72.607302
+8015;Hadley Street;42.261404;-72.580445
 73;Haigis Mall;42.387142;-72.526401
 8000;Hall Drive;42.357929;-72.484242
 362;Hampden / Arlington;42.213116;-72.627871
@@ -619,7 +622,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 415;Hampshire / Beech;42.204272;-72.617968
 433;Hampshire / Chestnut (1);42.202642;-72.614943
 434;Hampshire / Chestnut (2);42.202512;-72.614873
-447;Hampshire / High;42.201659;-72.613320
+447;Hampshire / High;42.201659;-72.61332
 422;Hampshire / Pine;42.203929;-72.617268
 424;Hampshire / Walnut;42.203494;-72.616691
 236;Hampshire College;42.326183;-72.532064
@@ -628,38 +631,38 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 170;Hampshire Plaza /  Big Y;42.340444;-72.642507
 1351;Hancock / Monroe;42.108932;-72.568823
 1419;Hancock / Pendleton;42.105862;-72.568206
-1372;Hancock / Quincy;42.107690;-72.568456
-1338;Hancock / State;42.109623;-72.568840
+1372;Hancock / Quincy;42.10769;-72.568456
+1338;Hancock / State;42.109623;-72.56884
 1402;Hancock / Tyler;42.106509;-72.568219
 6011;Hancock / Union;42.107742;-72.568584
-9040;Harrison Avenue (Out);42.102920;-72.589652
+9040;Harrison Avenue (Out);42.10292;-72.589652
 100;Haydenville Center OB;42.374302;-72.701846
 101;Haydenville IB;42.374218;-72.701846
-11101;Heatherstone Road (In);42.376094;-72.481140
-111;Heatherstone Road (Out);42.375840;-72.481192
+11101;Heatherstone Road (In);42.376094;-72.48114
+111;Heatherstone Road (Out);42.37584;-72.481192
 1806;Heritage Nursing Home;42.078851;-72.619335
 412;High / Appleton;42.204732;-72.609835
-430;High / Cabot;42.202880;-72.611651
+430;High / Cabot;42.20288;-72.611651
 387;High / Dwight;42.206929;-72.607658
 419;High / Essex;42.203861;-72.610677
 473;High / Franklin;42.199122;-72.615321
 452;High / Hampshire;42.201349;-72.613168
-479;High / Jackson;42.198110;-72.616315
+479;High / Jackson;42.19811;-72.616315
 455;High / Sargeant;42.200544;-72.613941
 398;High / Suffolk;42.205749;-72.608882
-653;Highland / Prospect;42.159390;-72.634366
+653;Highland / Prospect;42.15939;-72.634366
 654;Highland / Prospect;42.159298;-72.634516
-248;Holland Glen (In);42.321899;-72.428100
+248;Holland Glen (In);42.321899;-72.4281
 250;Holland Glen (Out);42.321751;-72.428179
-580;Holy Family / Devonshire (1);42.174750;-72.636629
+580;Holy Family / Devonshire (1);42.17475;-72.636629
 581;Holy Family / Devonshire (2);42.174611;-72.636555
 566;Holy Family / Unnamed Street;42.178127;-72.636401
 6290;Holyoke Community College - College Road;42.195222;-72.652971
 491;Holyoke Community College - Frost Circle;42.195146;-72.652781
-609;Holyoke Mall JCPenney Entrance;42.169257;-72.640570
+609;Holyoke Mall JCPenney Entrance;42.169257;-72.64057
 414;Holyoke Public Library;42.204349;-72.611548
 4371;Holyoke Train Station (Amtrak);42.204344;-72.602734
-place_HTC;Holyoke Transportation Center;42.207950;-72.607762
+place_HTC;Holyoke Transportation Center;42.20795;-72.607762
 554;Homestead / Charles Hill;42.180625;-72.648746
 542;Homestead / Kane;42.183541;-72.648807
 1904;Homestead / Lower Westfield;42.175868;-72.648422
@@ -669,16 +672,16 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 456;Hospital / Parking Lot;42.200363;-72.628676
 1037;Independence House;42.121691;-72.549336
 9993;Industrial Drive;42.467668;-72.605526
-795;Industry / Cottage (2);42.142050;-72.543436
+795;Industry / Cottage (2);42.14205;-72.543436
 778;Industry / Cottage (State Offices);42.143619;-72.543622
 803;Industry / Memorial;42.141117;-72.542874
 64;Integrative Learning Center;42.390979;-72.525304
 6430;Island Pond / Agnes;42.097523;-72.550749
 6428;Island Pond / Amanda;42.101716;-72.548306
 6427;Island Pond / Casco;42.101442;-72.549051
-6474;Island Pond / Roosevelt;42.104000;-72.546156
+6474;Island Pond / Roosevelt;42.104;-72.546156
 6429;Island Pond / Surry;42.097724;-72.550539
-9331;Island Pond Road and Allen Street (1);42.094777;-72.550990
+9331;Island Pond Road and Allen Street (1);42.094777;-72.55099
 9330;Island Pond Road and Allen Street (2);42.094871;-72.550753
 194;Jackson / Gleason (Hampshire Heights);42.337112;-72.642697
 202;Jackson / Jackson (Jackson Street School);42.335802;-72.643577
@@ -690,22 +693,22 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 701;Kennedy Middle School;42.155023;-72.512267
 1061;Kindred Hospital;42.120678;-72.545476
 246;King / Allen (Hotel Northampton);42.320589;-72.630906
-242;King / Bright (Dunkin Donuts);42.323510;-72.632419
-233;King / Church (KFC Taco Bell);42.328801;-72.633540
-6013;King / Eastern (1);42.105390;-72.562627
+242;King / Bright (Dunkin Donuts);42.32351;-72.632419
+233;King / Church (KFC Taco Bell);42.328801;-72.63354
+6013;King / Eastern (1);42.10539;-72.562627
 1440;King / Eastern (2);42.105401;-72.563262
 1452;King / Hancock;42.104815;-72.567609
 1429;King / Logan;42.105636;-72.561247
 1434;King / Logan;42.105546;-72.561346
-1449;King / Merrick (1);42.105161;-72.564570
+1449;King / Merrick (1);42.105161;-72.56457
 1446;King / Merrick (2);42.105255;-72.564537
 249;King / Merrick (Calvin Theatre);42.319985;-72.630169
-6012;King / Nelson;42.104947;-72.566280
-239;King / North (Cumberland Farms);42.323473;-72.632530
+6012;King / Nelson;42.104947;-72.56628
+239;King / North (Cumberland Farms);42.323473;-72.63253
 1421;King / Westford;42.105898;-72.558372
 1426;King / Wilbraham (1);42.105727;-72.559857
 1424;King / Wilbraham (2);42.105803;-72.559773
-1451;King and Hancock;42.104900;-72.567532
+1451;King and Hancock;42.1049;-72.567532
 529;Kmart Parking Lot;42.187072;-72.632155
 546;Kmart Plaza Drive South / Northampton;42.183443;-72.632911
 351;Lamb / Lamb;42.220352;-72.590974
@@ -714,10 +717,10 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 15;Laurenitis Farm Stand (In);42.442162;-72.551494
 14;Laurenitis Farm Stand (Out);42.442217;-72.551333
 143;Leeds;42.353508;-72.699924
-7910;Leicester (E);42.245992;-71.909030
+7910;Leicester (E);42.245992;-71.90903
 7911;Leicester (W);42.245511;-71.907419
 6043;Liberty / C.P.Way (across);42.135697;-72.584154
-976;Liberty / Carew;42.125760;-72.584350
+976;Liberty / Carew;42.12576;-72.58435
 985;Liberty / Carew;42.124838;-72.584421
 6001;Liberty / Carolyn Price Way;42.135651;-72.584305
 6005;Liberty / Cass;42.111711;-72.588901
@@ -726,10 +729,10 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1918;Liberty / Chestnut (2);42.109246;-72.592022
 1005;Liberty / Cleveland;42.123617;-72.584258
 1013;Liberty / Cleveland;42.122933;-72.584343
-6003;Liberty / Columbia;42.114180;-72.585926
+6003;Liberty / Columbia;42.11418;-72.585926
 6020;Liberty / Columbia (opposite);42.114402;-72.585661
 1913;Liberty / Dwight (2);42.108146;-72.593546
-1914;Liberty / Dwight (3);42.108342;-72.593590
+1914;Liberty / Dwight (3);42.108342;-72.59359
 907;Liberty / Edgar;42.132199;-72.584597
 6017;Liberty / Franklin (1);42.110397;-72.590422
 6006;Liberty / Franklin (2);42.110223;-72.590769
@@ -758,17 +761,17 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 138;Logtown Road (In);42.356839;-72.482409
 139;Logtown Road (Out);42.356488;-72.481959
 1889;Longmeadow / Birnie ;42.045352;-72.584011
-1877;Longmeadow / Bliss;42.056740;-72.580924
-1903;Longmeadow / Booth;42.024856;-72.583720
+1877;Longmeadow / Bliss;42.05674;-72.580924
+1903;Longmeadow / Booth;42.024856;-72.58372
 1887;Longmeadow / Chandler (1) ;42.050143;-72.582936
 1875;Longmeadow / Chandler (2) ;42.057853;-72.580486
 1890;Longmeadow / Crescent ;42.044148;-72.584204
 1871;Longmeadow / Edgewood;42.059894;-72.579871
 1876;Longmeadow / Emerson;42.057043;-72.581011
 1902;Longmeadow / Enfield;42.025379;-72.583488
-1859;Longmeadow / Englewood;42.064720;-72.579236
+1859;Longmeadow / Englewood;42.06472;-72.579236
 1878;Longmeadow / Greenacre ;42.055471;-72.581666
-1899;Longmeadow / Homestead ;42.028190;-72.581469
+1899;Longmeadow / Homestead ;42.02819;-72.581469
 1900;Longmeadow / Lawnwood (1) ;42.026751;-72.582449
 1901;Longmeadow / Lawnwood (2) ;42.026564;-72.582487
 1883;Longmeadow / Longmeadow ;42.054003;-72.582122
@@ -788,20 +791,20 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 391;Lyman / Center;42.206788;-72.598335
 370;Lyman / Elm;42.210846;-72.608259
 7482;Lyman / Elm;42.210678;-72.607753
-377;Lyman / Maple;42.209600;-72.605817
+377;Lyman / Maple;42.2096;-72.605817
 388;Lyman / Summer;42.207033;-72.595888
 287;Lynn Drive (In);42.282346;-72.553611
 286;Lynn Drive (Out);42.282477;-72.553575
-1281;MLK Community Center;42.112552;-72.560700
+1281;MLK Community Center;42.112552;-72.5607
 1273;MLK Community Center (Inbound);42.112698;-72.560697
-1302;MLK Community Center (Wilbraham Road);42.111730;-72.560205
+1302;MLK Community Center (Wilbraham Road);42.11173;-72.560205
 1304;Magazine / Bowdoin;42.111571;-72.576098
 1307;Magazine / Lincoln (1);42.111562;-72.576227
 1326;Magazine / Lincoln (2);42.110725;-72.575311
 1325;Magazine / Lincoln (3);42.110534;-72.574991
 1655;Main / Acushnet;42.091708;-72.579725
-1565;Main / Adams (1);42.095630;-72.581500
-6551;Main / Adams (2);42.196730;-72.610433
+1565;Main / Adams (1);42.09563;-72.5815
+6551;Main / Adams (2);42.19673;-72.610433
 1833;Main / Albert;42.072204;-72.614838
 1500;Main / Allen (1);42.100271;-72.605629
 1501;Main / Allen (2);42.100402;-72.606054
@@ -815,60 +818,60 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1399;Main / Bliss;42.106227;-72.615917
 1906;Main / Boylston;42.107888;-72.599526
 1474;Main / Bridge;42.103264;-72.591799
-6289;Main / Bridge;42.103330;-72.592268
+6289;Main / Bridge;42.10333;-72.592268
 1524;Main / Bridge W Spfld (1);42.098406;-72.602755
 1528;Main / Bridge W Spfld (2);42.098443;-72.603042
 460;Main / Cabot;42.200399;-72.606709
-664;Main / Canterbury;42.158550;-72.580591
-667;Main / Canterbury;42.158460;-72.580565
-1334;Main / Carew;42.109742;-72.601000
+664;Main / Canterbury;42.15855;-72.580591
+667;Main / Canterbury;42.15846;-72.580565
+1334;Main / Carew;42.109742;-72.601
 665;Main / Cedar (1);42.159312;-72.498756
-668;Main / Cedar (2);42.159184;-72.498470
+668;Main / Cedar (2);42.159184;-72.49847
 1515;Main / Chapin;42.099188;-72.603906
 1296;Main / Church;42.111208;-72.602843
 1464;Main / Church (1);42.103655;-72.612094
 1463;Main / Church (2);42.103734;-72.612426
-1477;Main / Cottage;42.102673;-72.610430
+1477;Main / Cottage;42.102673;-72.61043
 6414;Main / Cross;42.119091;-72.741592
 1066;Main / Cumberland;42.119899;-72.608198
 1068;Main / Cumberland (opposite);42.119621;-72.608241
 567;Main / Dean Tech Drive (1);42.178178;-72.629714
 6555;Main / Dean Tech Drive (2);42.177787;-72.630008
 1800;Main / Dorset;42.080081;-72.534909
-417;Main / Dwight;42.204550;-72.602985
-1128;Main / E. Hooker;42.116800;-72.606884
-1831;Main / Edward;42.072822;-72.614660
-1908;Main / Emery;42.106950;-72.598597
+417;Main / Dwight;42.20455;-72.602985
+1128;Main / E. Hooker;42.1168;-72.606884
+1831;Main / Edward;42.072822;-72.61466
+1908;Main / Emery;42.10695;-72.598597
 1443;Main / Fairview (1);42.104888;-72.613931
-1437;Main / Fairview (2);42.104840;-72.614089
+1437;Main / Fairview (2);42.10484;-72.614089
 1585;Main / Gardner;42.094294;-72.581179
 1041;Main / George;42.119668;-72.743276
 1488;Main / George;42.101788;-72.608829
 1802;Main / Gerrard;42.079829;-72.533716
 663;Main / Grove;42.158548;-72.584712
 475;Main / Hamilton (1);42.198999;-72.607976
-6550;Main / Hamilton (2);42.198700;-72.608441
+6550;Main / Hamilton (2);42.1987;-72.608441
 1481;Main / Harrison;42.102468;-72.590027
 6324;Main / Holland;42.124333;-72.610073
-1127;Main / Hooker;42.116782;-72.607010
+1127;Main / Hooker;42.116782;-72.60701
 1505;Main / Howard;42.100159;-72.585993
 1157;Main / Huntington;42.115858;-72.606593
 680;Main / Indian Leap;42.157824;-72.491936
 493;Main / Jackson (1);42.195373;-72.611656
 6552;Main / Jackson (2);42.195875;-72.611275
-1476;Main / James;42.102839;-72.610970
+1476;Main / James;42.102839;-72.61097
 1200;Main / Jefferson;42.114518;-72.605919
 594;Main / Jones Ferry;42.171884;-72.631739
-5941;Main / Jones Ferry (across);42.172140;-72.631833
-1808;Main / Lombard;42.079270;-72.531607
-1807;Main / Lombard (opposite);42.079440;-72.531855
+5941;Main / Jones Ferry (across);42.17214;-72.631833
+1808;Main / Lombard;42.07927;-72.531607
+1807;Main / Lombard (opposite);42.07944;-72.531855
 1562;Main / Loring;42.095925;-72.581743
 670;Main / Lyons (1);42.159184;-72.496958
 675;Main / Lyons (2);42.158533;-72.494606
 965;Main / Main;42.127633;-72.611449
 203;Main / Maple;42.335617;-72.672159
 1600;Main / Marble;42.093591;-72.580789
-1542;Main / Margaret;42.097494;-72.582760
+1542;Main / Margaret;42.097494;-72.58276
 1056;Main / Meadow;42.119172;-72.740288
 6801;Main / Meadow;42.189828;-72.620638
 1026;Main / Mechanic;42.120466;-72.745436
@@ -881,7 +884,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 659;Main / Oak;42.159669;-72.502598
 6375;Main / Osgood;42.112713;-72.604613
 6553;Main / Papineau;42.188526;-72.623528
-1391;Main / Park;42.106477;-72.616450
+1391;Main / Park;42.106477;-72.61645
 1516;Main / Park;42.099422;-72.584706
 6042;Main / Parkview Place;42.214706;-72.594181
 9038;Main / Patton;42.109213;-72.600513
@@ -893,9 +896,9 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1093;Main / Portland;42.118586;-72.607811
 527;Main / Prew (1);42.187682;-72.624239
 6554;Main / Prew (2);42.187882;-72.624192
-514;Main / Race (1);42.190350;-72.617521
+514;Main / Race (1);42.19035;-72.617521
 516;Main / Race (2);42.190137;-72.618561
-688;Main / Rogers (1);42.156980;-72.489799
+688;Main / Rogers (1);42.15698;-72.489799
 678;Main / Rogers (2);42.157774;-72.491348
 691;Main / Rogers (3);42.156897;-72.489924
 573;Main / Saint Vincent (1);42.176499;-72.630245
@@ -917,34 +920,35 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1097;Main opposite Portland;42.118484;-72.607606
 1504;Maple / Avon (1);42.100044;-72.579666
 1506;Maple / Avon (2);42.099968;-72.579232
-1680;Maple / Begley (1);42.089460;-72.638825
+1680;Maple / Begley (1);42.08946;-72.638825
 1679;Maple / Begley (2);42.089546;-72.638689
 439;Maple / Hampshire;42.201918;-72.614008
 1487;Maple / High;42.102016;-72.582471
-1573;Maple / Highland;42.094523;-72.634600
+1573;Maple / Highland;42.094523;-72.6346
 466;Maple / Jackson;42.198765;-72.617091
-201;Maple / Main (High St. Variant);42.335980;-72.672014
+201;Maple / Main (High St. Variant);42.33598;-72.672014
 208;Maple / Main (Outbound);42.334848;-72.672049
 1579;Maple / Moore;42.094181;-72.635085
 1666;Maple / Oak Hill;42.090649;-72.638018
-1631;Maple / Orchard;42.091860;-72.637113
-220;Maple / Pine;42.332200;-72.672108
+1631;Maple / Orchard;42.09186;-72.637113
+220;Maple / Pine;42.3322;-72.672108
 374;Maple / Saint Kolbe;42.210273;-72.605643
 459;Maple / Sargeant;42.200355;-72.615503
 453;Maple / Sargeant (1);42.201088;-72.614788
-6417;Maple / Stockbridge;42.101840;-72.584008
+6417;Maple / Stockbridge;42.10184;-72.584008
 393;Maple / Suffolk;42.206524;-72.609392
-1494;Maple / Union (1);42.101590;-72.581860
+1494;Maple / Union (1);42.10159;-72.58186
 1498;Maple / Union (2);42.101373;-72.581364
 22;Market Hill Road;42.415388;-72.507338
+338;Mary Woolley Hall;42.254048;-72.576535
 1309;Mason Square;42.111348;-72.564969
 1327;Mason Square;42.110474;-72.567103
 1323;Mason Square (Inbound);42.110682;-72.567248
-260;Masonic St / Academy of Music (W);42.317889;-72.633240
+260;Masonic St / Academy of Music (W);42.317889;-72.63324
 5061;Mass Pike / Friendly's Way ;42.143343;-72.732077
 1121;MassMutual;42.117911;-72.545839
 6029;MassMutual Center;42.101616;-72.588208
-10006;MassMutual Enfield;42.018106;-72.584850
+10006;MassMutual Enfield;42.018106;-72.58485
 52;Mather Drive;42.394861;-72.511078
 154;Mayflower Apts (In);42.350711;-72.470169
 156;Mayflower Apts (Out);42.350465;-72.470063
@@ -966,14 +970,14 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 180;Meadowbrook Apartments (2);42.339472;-72.660478
 182;Meadowbrook Apartments (3);42.339323;-72.660475
 190;Meadowbrook Apartments (4);42.336665;-72.661157
-191;Meadowbrook Apartments (5);42.337580;-72.661076
+191;Meadowbrook Apartments (5);42.33758;-72.661076
 199;Meadowbrook Apartments / Straw (1);42.336368;-72.661302
 200;Meadowbrook Apartments / Straw (2);42.336512;-72.661125
 615;Meeting House / Elcon (1);42.167846;-72.616166
 617;Meeting House / Elcon (2);42.167733;-72.616647
 620;Meeting House / Elmer (1);42.167398;-72.620853
 621;Meeting House / Elmer (2);42.167242;-72.621756
-618;Meeting House / Grocki (1);42.167680;-72.617967
+618;Meeting House / Grocki (1);42.16768;-72.617967
 619;Meeting House / Grocki (2);42.167608;-72.617979
 613;Meeting House / Meadow (1);42.167957;-72.615062
 614;Meeting House / Meadow (2);42.167918;-72.614775
@@ -985,7 +989,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1648;Memorial / Circuit;42.091847;-72.623642
 486;Memorial / Connecting Road;42.197137;-72.574274
 1599;Memorial / East (1);42.093225;-72.617984
-1595;Memorial / East (2);42.093331;-72.618080
+1595;Memorial / East (2);42.093331;-72.61808
 1618;Memorial / Exposition;42.092673;-72.620408
 623;Memorial / Fuller;42.167659;-72.578304
 1620;Memorial / Heywood;42.092643;-72.621233
@@ -995,7 +999,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1576;Memorial / Lowell (2);42.094421;-72.614647
 537;Memorial / Lynn;42.185643;-72.577627
 1544;Memorial / Main;42.096932;-72.599292
-1548;Memorial / Main;42.096789;-72.599220
+1548;Memorial / Main;42.096789;-72.59922
 1552;Memorial / New Bridge;42.096283;-72.606848
 482;Memorial / Parking Lot;42.197751;-72.573675
 534;Memorial / Pendleton (1);42.186764;-72.577337
@@ -1008,9 +1012,10 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 132;Memorial Drive (Out);42.362307;-72.520844
 850;Memorial Industrial Park;42.137919;-72.545242
 1161;Mercy Hospital;42.116206;-72.593445
-1400;Middlesex / King;42.106784;-72.551350
+8018;Middle St / Rt 47;42.334371;-72.588716
+1400;Middlesex / King;42.106784;-72.55135
 1615;Mill / Hancock;42.093486;-72.569135
-1671;Mill / Locust;42.090733;-72.577780
+1671;Mill / Locust;42.090733;-72.57778
 1670;Mill / Locust (N);42.090671;-72.577214
 1602;Mill / Maple;42.093673;-72.571589
 1656;Mill / Pine;42.091781;-72.575381
@@ -1019,7 +1024,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 145;Mill Lane (In);42.354938;-72.520664
 8010;Mill Lane (Out);42.354974;-72.520811
 152;Mill Valley Apts (In);42.351473;-72.526235
-151;Mill Valley Apts (Out);42.351600;-72.526781
+151;Mill Valley Apts (Out);42.3516;-72.526781
 5800;Mont Marie;42.170634;-72.635094
 648;Montgomery / Memorial;42.161133;-72.581796
 645;Montgomery / Ramp;42.161701;-72.581906
@@ -1027,8 +1032,10 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 597;Montgomery / Unknown (2);42.171986;-72.586568
 630;Montgomery / Willette;42.165378;-72.583975
 63;Morrill Science Center;42.391471;-72.525238
-1484;Mosley / Main;42.101995;-72.609080
-142;Mountain Farms Mall;42.355380;-72.552007
+1484;Mosley / Main;42.101995;-72.60908
+336;Mount Holyoke College - Blanchard Hall;42.254224;-72.574164
+333;Mount Holyoke College Museum;42.256627;-72.572157
+142;Mountain Farms Mall;42.35538;-72.552007
 2;Mountain Road (Out);42.472539;-72.601401
 6850;Myrtle / Berkshire (in);42.156789;-72.506282
 6860;Myrtle / Berkshire (out);42.156853;-72.506125
@@ -1041,7 +1048,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 5041;Newton / Burnett ;42.250863;-72.579035
 345;Newton / Lyman;42.235722;-72.583337
 5043;Newton / McKinley ;42.232361;-72.585074
-1360;Norfolk / Westford Circle;42.108500;-72.549425
+1360;Norfolk / Westford Circle;42.1085;-72.549425
 561;North / Hampton Ponds (1);42.178436;-72.690613
 562;North / Hampton Ponds (2);42.178304;-72.690871
 32;North Amherst Center (In);42.409065;-72.530752
@@ -1050,12 +1057,12 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 198;North Street (Out);42.338253;-72.457476
 38;North Village Apts;42.403197;-72.529162
 513;Northampton / Elmwood (1);42.191008;-72.629652
-6457;Northampton / Elmwood (2);42.190890;-72.629523
+6457;Northampton / Elmwood (2);42.19089;-72.629523
 441;Northampton / Forer (1);42.201957;-72.631088
-364;Northampton / Hampden;42.212765;-72.629670
+364;Northampton / Hampden;42.212765;-72.62967
 500;Northampton / Myrtle;42.193852;-72.629925
 426;Northampton / Pinehurst;42.203118;-72.631009
-254;Northampton Court House;42.319319;-72.630250
+254;Northampton Court House;42.319319;-72.63025
 244;Northampton Post Office;42.321621;-72.627059
 238;Northampton Post Office Bridge Street;42.321692;-72.627152
 271;Notch Visitors Center (In);42.304815;-72.528292
@@ -1079,7 +1086,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1640;Orange / Malden;42.092419;-72.561992
 1641;Orange / Oakland;42.092334;-72.562113
 1604;Orange / Palm (1);42.093715;-72.553911
-1603;Orange / Palm (2);42.093672;-72.553700
+1603;Orange / Palm (2);42.093672;-72.5537
 1636;Orange / Revere;42.092617;-72.560304
 1617;Orange / Thayer (1);42.093318;-72.556413
 1621;Orange / Thayer (2);42.093246;-72.556419
@@ -1087,12 +1094,12 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1625;Orange / Wareham (2);42.092916;-72.558523
 1632;Orange / Wigwam (1);42.092657;-72.566592
 1628;Orange / Wigwam (2);42.092744;-72.567489
-6304;Page / 1st;42.150192;-72.537060
-817;Page / Fresno;42.139590;-72.560380
+6304;Page / 1st;42.150192;-72.53706
+817;Page / Fresno;42.13959;-72.56038
 832;Page / Haumont;42.138788;-72.562136
 6303;Page / Oakdale;42.148268;-72.541505
-802;Page / Osborne;42.141120;-72.557711
-794;Page / Prentice (opposite);42.142050;-72.555642
+802;Page / Osborne;42.14112;-72.557711
+794;Page / Prentice (opposite);42.14205;-72.555642
 6302;Page / Robbins;42.147823;-72.542599
 835;Page / Saint James;42.138638;-72.562281
 786;Page / Sargon;42.143042;-72.554026
@@ -1100,9 +1107,10 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 812;Page / Windemere;42.140091;-72.559715
 792;Page and Prentice;42.142102;-72.555844
 1409;Park / Elm;42.105948;-72.620049
-1390;Park / Lathrop;42.106477;-72.618960
+1390;Park / Lathrop;42.106477;-72.61896
 1396;Park / Main;42.106117;-72.617864
 1428;Park / Union;42.105128;-72.619799
+324;Park Street;42.258038;-72.572989
 1038;Parker / Brewster;42.122185;-72.497775
 1078;Parker / Burns;42.120253;-72.498378
 847;Parker / Ellery;42.138445;-72.495827
@@ -1121,11 +1129,11 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 946;Parker / Sunnybrook;42.129975;-72.495803
 1020;Parker / Sunrise (1);42.123228;-72.497466
 1030;Parker / Sunrise (2);42.122607;-72.497502
-1100;Parker / Vincent;42.119262;-72.498550
+1100;Parker / Vincent;42.119262;-72.49855
 1186;Parker / Wilbraham;42.115827;-72.498662
 1863;Pheasant Hill Apartments;42.062385;-72.692419
-58;Physical Sciences Building;42.393463;-72.526130
-225;Pine / Corticelli;42.331150;-72.676451
+58;Physical Sciences Building;42.393463;-72.52613
+225;Pine / Corticelli;42.33115;-72.676451
 6464;Pine / Maple Court;42.097598;-72.573469
 6465;Pine / Maple Street;42.095783;-72.574139
 1629;Pine / Mill;42.092166;-72.575106
@@ -1136,41 +1144,41 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1052;Plainfield / Abbe (1);42.120347;-72.615738
 1062;Plainfield / Abbe (2);42.120336;-72.615608
 1083;Plainfield / Clayton;42.118761;-72.614877
-1091;Plainfield / Clayton (opposite);42.118670;-72.614725
+1091;Plainfield / Clayton (opposite);42.11867;-72.614725
 1017;Plainfield / Demond;42.122379;-72.616729
 1319;Plainfield / John;42.110564;-72.603508
-1316;Plainfield / John (opposite);42.110680;-72.603457
-1024;Plainfield / Laurel;42.121960;-72.616607
+1316;Plainfield / John (opposite);42.11068;-72.603457
+1024;Plainfield / Laurel;42.12196;-72.616607
 1257;Plainfield / Lowell;42.112707;-72.610101
 1260;Plainfield / Lowell (opposite);42.112555;-72.609906
 1220;Plainfield / Orchard;42.113745;-72.610839
 1214;Plainfield / Orchard (opposite);42.113893;-72.610821
 1039;Plainfield / Talcott;42.121078;-72.616005
-1000;Plainfield / Wason;42.123713;-72.617440
+1000;Plainfield / Wason;42.123713;-72.61744
 6501;Pleasant / Dwight;42.211303;-72.620406
 376;Pleasant / Forestdale;42.209517;-72.620497
 363;Pleasant / Hampden;42.213028;-72.620307
 300;Pleasant / Hill  (Eastworks);42.272387;-72.667211
-356;Pleasant / Lincoln;42.215890;-72.620275
-296;Pleasant / Ridgewood (1);42.274160;-72.661838
+356;Pleasant / Lincoln;42.21589;-72.620275
+296;Pleasant / Ridgewood (1);42.27416;-72.661838
 297;Pleasant / Ridgewood (2);42.274019;-72.661933
-293;Pleasant / Terrace;42.275900;-72.657846
+293;Pleasant / Terrace;42.2759;-72.657846
 262;Pleasant St /  Hockanum Rd OB;42.314998;-72.625294
 17;Plumtree Road (In);42.431568;-72.543873
 18;Plumtree Road (Out);42.431924;-72.543969
-179;Pomeroy Lane (In);42.340760;-72.519923
+179;Pomeroy Lane (In);42.34076;-72.519923
 184;Pomeroy Lane (Out);42.340314;-72.520183
 221;Potwine Lane (In);42.333149;-72.523469
 222;Potwine Lane (Out);42.332973;-72.523613
-94;Pray Street (In);42.379750;-72.519505
+94;Pray Street (In);42.37975;-72.519505
 93;Pray Street (Out);42.379592;-72.519782
-8860;Price Rite Boston Road;42.133718;-72.523110
+8860;Price Rite Boston Road;42.133718;-72.52311
 252;Prospect Street;42.319648;-72.637366
 626;Providence Hospital / Parking Lot;42.165904;-72.633588
 34;Puffton Village Apts 1;42.405867;-72.532484
 35;Puffton Village Apts 2;42.404937;-72.530826
 8024;Pulpit Hill Road 1;42.417411;-72.523871
-8025;Pulpit Hill Road 2;42.417180;-72.526890
+8025;Pulpit Hill Road 2;42.41718;-72.52689
 1107;Putnam High School;42.117736;-72.548214
 278;Quabbin Shops;42.290298;-72.408115
 9587;Raymond A. Jordan Senior Center;42.124994;-72.550906
@@ -1179,11 +1187,11 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 1513;River / King;42.098826;-72.634971
 1518;River / King;42.098712;-72.635453
 1509;River / Spring;42.099197;-72.634338
-1566;Riverbend Medical Center;42.096260;-72.502985
+1566;Riverbend Medical Center;42.09626;-72.502985
 705;Riverdale / Althea (1);42.152792;-72.630997
 707;Riverdale / Althea (2);42.152624;-72.630705
 819;Riverdale / Ashley (1);42.138889;-72.626421
-827;Riverdale / Ashley (2);42.138350;-72.625919
+827;Riverdale / Ashley (2);42.13835;-72.625919
 640;Riverdale / Brightside;42.162139;-72.633185
 732;Riverdale / Hayes (1);42.148132;-72.630424
 729;Riverdale / Hayes (2);42.148479;-72.630726
@@ -1201,7 +1209,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 930;Riverdale Shops 1;42.130709;-72.624162
 926;Riverdale Shops 2;42.130411;-72.622538
 9999;Riverside Park Plaza;42.411077;-72.530551
-767;Robbins / Baldarelli;42.146700;-72.543765
+767;Robbins / Baldarelli;42.1467;-72.543765
 7446;Rocky Hill Co Housing a;42.306091;-72.675278
 7445;Rocky Hill Co Housing b;42.306117;-72.675108
 9039;Rocky's Hardware;42.086986;-72.628435
@@ -1212,29 +1220,29 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 6433;Roosevelt / Blunt Park;42.123124;-72.549333
 6439;Roosevelt / Byron;42.113435;-72.548368
 6463;Roosevelt / Carnavon;42.107673;-72.546601
-6434;Roosevelt / Cottage;42.138890;-72.547810
+6434;Roosevelt / Cottage;42.13889;-72.54781
 6477;Roosevelt / Edgemont;42.124597;-72.547013
 6435;Roosevelt / Peer;42.129645;-72.545849
 6475;Roosevelt / Strathmore;42.107826;-72.546763
 1682;Roosevelt / Sumner;42.090381;-72.536642
 6476;Roosevelt / Sylvester;42.129395;-72.545583
-6438;Roosevelt / Wilbraham;42.113552;-72.548240
+6438;Roosevelt / Wilbraham;42.113552;-72.54824
 178;Russell / Bay;42.339926;-72.606713
 183;Russell / Bay (Barn Shops);42.339693;-72.607029
 130;Russell / Campus Plaza (Pride);42.363756;-72.538717
-169;Russell / East;42.343131;-72.581430
+169;Russell / East;42.343131;-72.58143
 168;Russell / East (RMV);42.343771;-72.579471
-175;Russell / Elmwood;42.340920;-72.601369
+175;Russell / Elmwood;42.34092;-72.601369
 176;Russell / Elmwood;42.340695;-72.601494
 172;Russell / Middle (E);42.342202;-72.589354
 171;Russell / Middle (W);42.342348;-72.588674
-161;Russell / Nashua;42.345750;-72.575462
+161;Russell / Nashua;42.34575;-72.575462
 162;Russell / Pine Hill;42.345967;-72.574804
 137;Russell / Rte 9 (Holiday Inn Express);42.359984;-72.546734
 136;Russell / Russell (Staples);42.361212;-72.543785
-144;Russell / Russell (The Stables);42.354649;-72.557220
+144;Russell / Russell (The Stables);42.354649;-72.55722
 146;Russell / Russell (Whole Foods);42.354675;-72.556941
-160;Russell / Spruce Hill (E);42.347116;-72.572370
+160;Russell / Spruce Hill (E);42.347116;-72.57237
 159;Russell / Spruce Hill (W);42.347072;-72.572623
 173;Russell / State Hwy 9;42.342016;-72.596075
 174;Russell / West;42.341953;-72.594426
@@ -1246,32 +1254,33 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 863;Saint James / Holy Cross;42.136654;-72.566066
 856;Saint James / Holy Cross (opposite);42.136938;-72.565784
 879;Saint James / St James (1);42.135026;-72.569173
-872;Saint James / St James (2);42.135409;-72.568740
-8008;Sand Hill Road;42.412720;-72.514258
+872;Saint James / St James (2);42.135409;-72.56874
+8008;Sand Hill Road;42.41272;-72.514258
 2000;Sander's Stop (In);42.326123;-72.530289
 2001;Sander's Stop (Out);42.326097;-72.530399
-1120;Sanderson / Division;42.117270;-72.617742
+1120;Sanderson / Division;42.11727;-72.617742
 1117;Sanderson / Division (1);42.117458;-72.617799
 1152;Sanderson / Division (2);42.115971;-72.617783
 1110;Sanderson / Sanderson;42.117791;-72.614472
-1113;Sanderson / Whiting;42.117606;-72.616230
+1113;Sanderson / Whiting;42.117606;-72.61623
 1112;Sanderson / Whiting (opposite);42.117685;-72.616284
-1147;Sci Tech High School;42.116869;-72.549120
-695;Sewall / East;42.157464;-72.481060
+1147;Sci Tech High School;42.116869;-72.54912
+695;Sewall / East;42.157464;-72.48106
 6950;Sewall / East (Opp Former Healthsouth);42.157206;-72.480898
 6951;Sewall / Winsor;42.159303;-72.480362
 6952;Sewall / Winsor (opposite);42.159306;-72.480015
 39;Sheerman Lane;42.402182;-72.515323
 230;Sheldon Field (E);42.328938;-72.624118
 229;Sheldon Field (W);42.328924;-72.624264
-10;Silver Lane;42.454676;-72.567690
+10;Silver Lane;42.454676;-72.56769
 8014;Silver Street (In);42.261471;-72.572667
-320;Silver Street (Out);42.261564;-72.572800
+320;Silver Street (Out);42.261564;-72.5728
+8017;Skinner Mountain;42.299245;-72.602362
 251;Smith College;42.319612;-72.637549
 470;Soldiers Home / Fairmont;42.198994;-72.640352
 497;South / Chapin;42.194727;-72.624197
 494;South / Harrison (1);42.194819;-72.625924
-495;South / Harrison (2);42.194781;-72.626860
+495;South / Harrison (2);42.194781;-72.62686
 488;South / South;42.195677;-72.620853
 490;South / South Street Plaza Drive;42.195533;-72.621679
 1;South Deerfield Center;42.477036;-72.607453
@@ -1279,16 +1288,16 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 485;South and Maple;42.196727;-72.619059
 5059;Southampton / Airport ;42.162242;-72.726339
 5058;Southampton / Falcon ;42.169313;-72.726767
-5060;Southampton / Hickney ;42.149210;-72.728057
+5060;Southampton / Hickney ;42.14921;-72.728057
 5057;Southampton / Summit Lock ;42.175192;-72.727224
 153;Southpoint Apts;42.350463;-72.530258
 86;Southwest Residential  / University Drive (S);42.381998;-72.531849
-78;Southwest Residential / Massachusetts Avenue (E);42.384640;-72.528411
+78;Southwest Residential / Massachusetts Avenue (E);42.38464;-72.528411
 77;Southwest Residential / Massachusetts Avenue (W);42.384953;-72.528281
-87;Southwest Residential / University Drive (N);42.382772;-72.531780
+87;Southwest Residential / University Drive (N);42.382772;-72.53178
 7908;Spencer (E);42.243856;-71.994455
-7909;Spencer (W);42.243966;-71.994140
-1850;Springfield / Agawam Jr High;42.067313;-72.674590
+7909;Spencer (W);42.243966;-71.99414
+1850;Springfield / Agawam Jr High;42.067313;-72.67459
 1829;Springfield / Agnoli;42.072948;-72.659111
 1820;Springfield / Amherst;42.075216;-72.656165
 1818;Springfield / Annable;42.076081;-72.655023
@@ -1303,10 +1312,10 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 768;Springfield / Chapin;42.144282;-72.603478
 1782;Springfield / Cleveland;42.082297;-72.646939
 973;Springfield / Cunningham;42.126056;-72.601212
-888;Springfield / Davenport (1);42.133610;-72.600461
+888;Springfield / Davenport (1);42.13361;-72.600461
 893;Springfield / Davenport (2);42.133069;-72.600242
-1815;Springfield / Franklin;42.076380;-72.654498
-845;Springfield / Franklin (1);42.137709;-72.601500
+1815;Springfield / Franklin;42.07638;-72.654498
+845;Springfield / Franklin (1);42.137709;-72.6015
 844;Springfield / Franklin (2);42.137746;-72.601408
 779;Springfield / Gaylord;42.143262;-72.602982
 1801;Springfield / Hall;42.078887;-72.651369
@@ -1314,16 +1323,16 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 805;Springfield / Henry Harris;42.140442;-72.602136
 752;Springfield / Howard;42.146477;-72.605168
 1743;Springfield / Kristen;42.085113;-72.643279
-814;Springfield / Lemuel;42.139670;-72.601922
+814;Springfield / Lemuel;42.13967;-72.601922
 1796;Springfield / Letendre;42.079985;-72.649797
 1792;Springfield / Line;42.080173;-72.649694
 818;Springfield / Marion;42.139373;-72.601952
-1006;Springfield / Medical Ctr Drive;42.123460;-72.603900
-1002;Springfield / Medical Ctr Drive (across);42.123703;-72.603920
+1006;Springfield / Medical Ctr Drive;42.12346;-72.6039
+1002;Springfield / Medical Ctr Drive (across);42.123703;-72.60392
 873;Springfield / Mellen;42.135127;-72.600713
-1804;Springfield / Mooreland;42.078670;-72.651509
+1804;Springfield / Mooreland;42.07867;-72.651509
 1345;Springfield / Mountain (1);42.107756;-72.703481
-6281;Springfield / Mountain (2);42.107645;-72.703850
+6281;Springfield / Mountain (2);42.107645;-72.70385
 1852;Springfield / N Westfield;42.067025;-72.677323
 1844;Springfield / Northwood;42.068374;-72.670087
 747;Springfield / Pearl;42.146482;-72.605036
@@ -1336,7 +1345,7 @@ place_HTC;Holyoke Transportation Center;42.207950;-72.607762
 957;Springfield / Shefford (2);42.128144;-72.600427
 1767;Springfield / Sheri;42.083561;-72.645229
 1790;Springfield / Shibley (1);42.080844;-72.648649
-1787;Springfield / Shibley (2);42.081131;-72.648450
+1787;Springfield / Shibley (2);42.081131;-72.64845
 766;Springfield / South;42.144452;-72.603406
 789;Springfield / Stearns;42.142405;-72.602709
 1849;Springfield / Stop and Shop Dr;42.067282;-72.675171
@@ -1349,27 +1358,27 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 866;Springfield Walmart;42.136625;-72.506823
 226;Starlite Center;42.330119;-72.675126
 4173;State / Bedford Terrace (In);42.320368;-72.634479
-9150;State / Benton;42.116317;-72.549460
+9150;State / Benton;42.116317;-72.54946
 1176;State / Berlin;42.115564;-72.551747
 1079;State / Blunt Park;42.119662;-72.546327
-1101;State / Blunt Park;42.118677;-72.546950
+1101;State / Blunt Park;42.118677;-72.54695
 1479;State / Chestnut;42.102824;-72.585016
 1075;State / Clarence;42.119956;-72.545885
 1201;State / Cortland;42.114936;-72.553692
-1194;State / Dearborn;42.115290;-72.552157
-1207;State / Dresden;42.114690;-72.553992
+1194;State / Dearborn;42.11529;-72.552157
+1207;State / Dresden;42.11469;-72.553992
 1314;State / Eastern;42.111728;-72.563205
 1040;State / Edgemont;42.121956;-72.544126
 9014;State / Federal;42.107668;-72.577837
-9968;State / Hampden (opposite);42.156360;-72.477120
-1332;State / Hancock;42.110080;-72.569512
+9968;State / Hampden (opposite);42.15636;-72.47712
+1332;State / Hancock;42.11008;-72.569512
 1299;State / Hayden;42.112112;-72.562042
 1054;State / Hillmont;42.121158;-72.544838
 1126;State / Insurance;42.117404;-72.548312
 1029;State / Ivanhoe (2);42.122815;-72.542668
 1253;State / Mapledell;42.113338;-72.558752
 6410;State / Mason;42.112126;-72.562489
-1221;State / Maynard;42.114276;-72.555730
+1221;State / Maynard;42.114276;-72.55573
 1341;State / Orleans;42.109446;-72.573252
 6026;State / Pleasant;42.109953;-72.571288
 1454;State / School;42.104671;-72.582415
@@ -1378,7 +1387,7 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1339;State / Stebbins;42.109723;-72.571652
 1328;State / Thompson;42.110216;-72.569676
 1012;State / Tilton (1);42.123244;-72.542138
-1015;State / Tilton (2);42.123610;-72.540949
+1015;State / Tilton (2);42.12361;-72.540949
 1358;State / Walnut;42.108356;-72.576041
 1741;State Hwy 83 / Belmont;42.085978;-72.557184
 676;State Hwy 116 / Sitarz;42.157248;-72.612221
@@ -1388,13 +1397,13 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1508;Sterns / Central;42.099772;-72.576332
 329;Stone Shelter;42.257624;-72.575846
 12601;Stony Hill Road (In);42.367466;-72.479756
-126;Stony Hill Road (Out);42.367565;-72.479800
+126;Stony Hill Road (Out);42.367565;-72.4798
 454;Stonybrook Prerelease;42.201651;-72.508977
 418;Stonybrook Visitor Entrance;42.204917;-72.509849
 228;Stop and Shop;42.329474;-72.636166
 1662;Stop and Shop - Allen / Cooley;42.091278;-72.498934
 127;Stop and Shop - Hadley;42.365726;-72.538764
-6953;Stop and Shop - Westfield;42.120200;-72.747316
+6953;Stop and Shop - Westfield;42.1202;-72.747316
 1812;Stop and Shop Drive (East Longmeadow);42.077803;-72.527155
 359;Stop and Shop Drive / Hampden;42.213966;-72.617819
 848;Stop and Shop – Springfield Plaza;42.137644;-72.582059
@@ -1408,15 +1417,15 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1672;Sumner / Allen;42.091028;-72.533093
 1622;Sumner / Bairdcrest;42.093353;-72.522174
 1749;Sumner / Beaumont;42.085664;-72.560923
-1780;Sumner / Beechwood;42.083147;-72.573130
+1780;Sumner / Beechwood;42.083147;-72.57313
 1725;Sumner / Bryant;42.087162;-72.552443
 1697;Sumner / Castle;42.089379;-72.541094
 1664;Sumner / Chalmers;42.091772;-72.529193
 1738;Sumner / Dickinson;42.086354;-72.557519
-1706;Sumner / Eckington;42.088654;-72.544770
-1690;Sumner / Eddywood;42.089950;-72.538857
-1686;Sumner / Eloise;42.090035;-72.537590
-1660;Sumner / Emerson;42.092060;-72.527677
+1706;Sumner / Eckington;42.088654;-72.54477
+1690;Sumner / Eddywood;42.08995;-72.538857
+1686;Sumner / Eloise;42.090035;-72.53759
+1660;Sumner / Emerson;42.09206;-72.527677
 1776;Sumner / Firglade;42.083466;-72.571412
 1770;Sumner / Forest Park;42.083924;-72.569152
 1678;Sumner / Garland;42.090701;-72.534072
@@ -1425,9 +1434,9 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1691;Sumner / Howes;42.089706;-72.539322
 1644;Sumner / Hudson;42.092607;-72.524935
 1716;Sumner / Irvington;42.087901;-72.548591
-9006;Sumner / Lenox;42.085961;-72.558740
+9006;Sumner / Lenox;42.085961;-72.55874
 1754;Sumner / Oakland;42.085149;-72.562814
-1756;Sumner / Oakland;42.085088;-72.563870
+1756;Sumner / Oakland;42.085088;-72.56387
 1733;Sumner / Ormond;42.086645;-72.555089
 1751;Sumner / Parkwood;42.085522;-72.560743
 1702;Sumner / Perkins;42.088897;-72.544248
@@ -1445,24 +1454,24 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 45;Sylvan Residential (Out);42.397082;-72.521463
 1416;Taylor / Dwight;42.105981;-72.591456
 1350;Technology Park;42.108859;-72.575444
-9901;Thayer Street (In);42.376440;-72.486563
+9901;Thayer Street (In);42.37644;-72.486563
 99;Thayer Street (Out);42.376367;-72.486324
 157;The Boulders Apartments;42.349061;-72.528889
-509;The Kids Place at HCC;42.191172;-72.652460
-9053;The Mill District;42.415143;-72.529850
+509;The Kids Place at HCC;42.191172;-72.65246
+9053;The Mill District;42.415143;-72.52985
 256;Thornes Market (R44 Only);42.318432;-72.631087
 41;Tilson Farm Road (In);42.398384;-72.516221
-40;Tilson Farm Road (Out);42.398334;-72.516060
+40;Tilson Farm Road (Out);42.398334;-72.51606
 564;Tokeneke / Holy Family;42.178454;-72.636718
 565;Tokeneke / Whiting Farms;42.178422;-72.639871
 46;Totman Gym (In);42.395716;-72.525448
 47;Totman Gym (Out);42.395656;-72.525266
-30;Townehouse Apts (In);42.409536;-72.533980
+30;Townehouse Apts (In);42.409536;-72.53398
 29;Townehouse Apts (Out);42.409583;-72.534614
 85;Triangle Street;42.382207;-72.519097
 75;UMass Visitors Center;42.385449;-72.524672
 528;US Hwy 5 / Northampton (1);42.187144;-72.630037
-504;US Hwy 5 / Northampton (2);42.192736;-72.629670
+504;US Hwy 5 / Northampton (2);42.192736;-72.62967
 308;Union / Liberty (1);42.267006;-72.669982
 939;Union / Lower Sandy Hill;42.128881;-72.731065
 5091;Union / Pochassic ;42.130107;-72.744364
@@ -1472,15 +1481,15 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 314;Union / Williston (2);42.265593;-72.668992
 5101;Union Station Bay 1;42.106124;-72.594422
 5102;Union Station Bay 2;42.106009;-72.594556
-5103;Union Station Bay 3;42.105890;-72.594707
+5103;Union Station Bay 3;42.10589;-72.594707
 5104;Union Station Bay 4;42.105856;-72.594884
 5105;Union Station Bay 5;42.105993;-72.594712
 5106;Union Station Bay 6;42.106095;-72.594584
 5107;Union Station Bay 7;42.106164;-72.594501
 5108;Union Station Bay 8;42.106196;-72.594804
 5109;Union Station Bay 9;42.105925;-72.595123
-5110;Union Station Bay 10;42.105806;-72.595280
-5111;Union Station Bay 11;42.105660;-72.595464
+5110;Union Station Bay 10;42.105806;-72.59528
+5111;Union Station Bay 11;42.10566;-72.595464
 5112;Union Station Bay 12;42.106571;-72.594602
 5113;Union Station Bay 13;42.106704;-72.594789
 5114;Union Station Bay 14;42.106822;-72.594958
@@ -1493,18 +1502,18 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 6470;University Park Apartments /  Jarvis;42.217976;-72.641303
 6471;University Park Apartments / Jarvis (IN);42.218194;-72.641305
 150;VA Medical Center;42.351287;-72.682176
-54;Village Park Apts (N);42.395016;-72.515550
+54;Village Park Apts (N);42.395016;-72.51555
 6354;Walmart Chicopee;42.172971;-72.574825
 1496;Walnut / Alden;42.101678;-72.567722
 1499;Walnut / Ashley;42.101005;-72.566722
 1492;Walnut / Brigham;42.101561;-72.567721
-1507;Walnut / Crosby - Across;42.099891;-72.565080
+1507;Walnut / Crosby - Across;42.099891;-72.56508
 1580;Walnut / Dwight;42.094121;-72.631322
 371;Walnut / Hampden;42.210679;-72.609455
 1532;Walnut / Hickory;42.098261;-72.564017
 6040;Walnut / Hickory;42.098296;-72.564159
 1522;Walnut / High;42.098396;-72.632714
-6014;Walnut / Ivy;42.102611;-72.569110
+6014;Walnut / Ivy;42.102611;-72.56911
 1470;Walnut / James;42.104275;-72.571756
 1455;Walnut / King;42.104794;-72.572362
 1480;Walnut / Lebanon (2);42.102618;-72.569248
@@ -1526,10 +1535,10 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1601;Walnut / Winthrop;42.093027;-72.630927
 267;Walter Salvo House;42.313348;-72.627657
 331;Ware Town Hall;42.260357;-72.241818
-332;Ware Town Hall (Southbound);42.260470;-72.241828
-165;Warren Wright Road (In);42.345500;-72.467127
+332;Ware Town Hall (Southbound);42.26047;-72.241828
+165;Warren Wright Road (In);42.3455;-72.467127
 164;Warren Wright Road (Out);42.345602;-72.467341
-9329;Wason / Fisk;42.124700;-72.613532
+9329;Wason / Fisk;42.1247;-72.613532
 20;Waterfield Farms (In);42.426973;-72.540138
 19;Waterfield Farms (Out);42.427005;-72.539957
 1317;West / Riverside;42.110572;-72.611303
@@ -1542,36 +1551,36 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 929;Western / Westwood;42.128951;-72.792992
 943;Western / Woodward Center;42.127048;-72.787288
 1407;Westfield / Altamont;42.105587;-72.659407
-5053;Westfield / Apremont ;42.182862;-72.666030
+5053;Westfield / Apremont ;42.182862;-72.66603
 1436;Westfield / Beverly Hills;42.104402;-72.672536
 1414;Westfield / Brookline;42.105416;-72.656781
 1378;Westfield / Cedar (1);42.106806;-72.645424
 1383;Westfield / Cedar (2);42.106596;-72.645113
-1379;Westfield / Elm;42.106890;-72.623707
+1379;Westfield / Elm;42.10689;-72.623707
 1408;Westfield / Ely;42.105551;-72.658028
 5054;Westfield / Fini ;42.178651;-72.685645
-1388;Westfield / Harwich;42.106240;-72.652763
+1388;Westfield / Harwich;42.10624;-72.652763
 1444;Westfield / Hathorne;42.104179;-72.676168
 1431;Westfield / Laurel;42.104678;-72.663462
 1406;Westfield / Maple (1);42.105841;-72.642742
 1403;Westfield / Maple (2);42.105788;-72.642913
-1432;Westfield / Mercury (1);42.104902;-72.629830
+1432;Westfield / Mercury (1);42.104902;-72.62983
 1442;Westfield / Mercury (2);42.104864;-72.629624
 1367;Westfield / Nelson (1);42.107021;-72.648359
 1374;Westfield / Nelson (2);42.106882;-72.648672
 1441;Westfield / Ohio (1);42.104401;-72.669732
-1447;Westfield / Ohio (2);42.104210;-72.669663
+1447;Westfield / Ohio (2);42.10421;-72.669663
 5055;Westfield / Old Stage ;42.179339;-72.706317
 1353;Westfield / Old Westfield;42.107426;-72.688633
 1356;Westfield / Old Westfield;42.107457;-72.687479
 1456;Westfield / Pleasant;42.103722;-72.634535
 1448;Westfield / Poplar;42.104217;-72.666761
-1433;Westfield / Sherwood;42.104510;-72.664842
+1433;Westfield / Sherwood;42.10451;-72.664842
 1439;Westfield / Sibley;42.104324;-72.675374
 1427;Westfield / Silver (1);42.104965;-72.641054
 1438;Westfield / Silver (2);42.104668;-72.640718
 1458;Westfield / Summit;42.103558;-72.636143
-1385;Westfield / Talcott;42.106410;-72.652565
+1385;Westfield / Talcott;42.10641;-72.652565
 1412;Westfield / Thompson;42.105422;-72.660998
 1404;Westfield / Van Deene (1);42.105925;-72.626739
 1411;Westfield / Van Deene (2);42.105822;-72.626648
@@ -1585,19 +1594,19 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1365;Westford / Braddock;42.107972;-72.554658
 1386;Westford / Gunn (1);42.107195;-72.558269
 1366;Westford / Gunn (2);42.107962;-72.558281
-1417;Westford / King;42.106330;-72.558239
+1417;Westford / King;42.10633;-72.558239
 1375;Westford / Massachusetts (1);42.107678;-72.557519
 1369;Westford / Massachusetts (2);42.107924;-72.557053
-1359;Westford / Middlesex (1);42.108364;-72.552240
+1359;Westford / Middlesex (1);42.108364;-72.55224
 1361;Westford / Middlesex (2);42.108284;-72.552489
 9990;Whately Park and Ride;42.469961;-72.615259
 1685;White / Ainsworth;42.090113;-72.552589
-1771;White / Blaine;42.084011;-72.544340
+1771;White / Blaine;42.084011;-72.54434
 6808;White / Dawson (1);42.091775;-72.555005
-1658;White / Dawson (2);42.091910;-72.555054
-1581;White / Grand (1);42.094690;-72.559053
+1658;White / Dawson (2);42.09191;-72.555054
+1581;White / Grand (1);42.09469;-72.559053
 1584;White / Grand (2);42.094668;-72.558825
-1704;White / Kimberly (1);42.088730;-72.550827
+1704;White / Kimberly (1);42.08873;-72.550827
 1701;White / Kimberly (2);42.088843;-72.550843
 1752;White / Larkspur;42.085609;-72.546376
 1748;White / Longfellow;42.085789;-72.546821
@@ -1611,9 +1620,9 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1723;White / Priscilla (2);42.087332;-72.548777
 1561;White / Revere (1);42.096099;-72.560806
 1560;White / Revere (2);42.095994;-72.560792
-1673;White / Scott;42.090890;-72.553795
+1673;White / Scott;42.09089;-72.553795
 1684;White / Stratford;42.090132;-72.552758
-1791;White / Sunapee;42.081800;-72.540697
+1791;White / Sunapee;42.0818;-72.540697
 1785;White / Webber;42.082418;-72.542179
 551;Whiting Farms / Autumn;42.181662;-72.638542
 556;Whiting Farms / Farnum;42.180232;-72.639658
@@ -1631,7 +1640,7 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1276;Wilbraham / Benton;42.112789;-72.546188
 1136;Wilbraham / Birchland;42.117542;-72.510815
 1261;Wilbraham / Carlisle;42.113143;-72.549173
-1133;Wilbraham / Catalpa;42.117620;-72.510547
+1133;Wilbraham / Catalpa;42.11762;-72.510547
 1315;Wilbraham / Colton (1);42.111208;-72.563229
 1311;Wilbraham / Colton (2);42.111394;-72.562764
 1216;Wilbraham / Delmore;42.114636;-72.529886
@@ -1641,40 +1650,40 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1184;Wilbraham / Kane (1);42.115913;-72.500253
 1178;Wilbraham / Kane (2);42.116122;-72.500353
 1275;Wilbraham / Lakeside;42.112814;-72.544633
-1145;Wilbraham / Lumae (1);42.117415;-72.504430
+1145;Wilbraham / Lumae (1);42.117415;-72.50443
 1142;Wilbraham / Lumae (2);42.117523;-72.504357
 1236;Wilbraham / Monticello (1);42.114122;-72.532867
 1234;Wilbraham / Monticello (2);42.114213;-72.532816
 1264;Wilbraham / Norfolk (1);42.112989;-72.550672
 1259;Wilbraham / Norfolk (2);42.113119;-72.550326
-1167;Wilbraham / Park (1);42.116410;-72.521684
+1167;Wilbraham / Park (1);42.11641;-72.521684
 1162;Wilbraham / Park (2);42.116625;-72.521075
 1129;Wilbraham / Pineview;42.117687;-72.514933
 1283;Wilbraham / Reed;42.112468;-72.554326
-1284;Wilbraham / Rochelle;42.112458;-72.555040
+1284;Wilbraham / Rochelle;42.112458;-72.55504
 1278;Wilbraham / Suffolk (1);42.112719;-72.552553
-1271;Wilbraham / Suffolk (2);42.112830;-72.552316
+1271;Wilbraham / Suffolk (2);42.11283;-72.552316
 1242;Wilbraham / Truman (1);42.113973;-72.534517
 1240;Wilbraham / Truman (2);42.114049;-72.535015
 1249;Wilbraham / Unnamed Street (1);42.113682;-72.538388
 1246;Wilbraham / Unnamed Street (2);42.113776;-72.538468
 1228;Wilbraham / Walsh;42.114347;-72.531011
-1135;Wilbraham and Fenway (Northside);42.117575;-72.507830
-1140;Wilbraham and Jeffrey (Southside);42.117502;-72.508450
+1135;Wilbraham and Fenway (Northside);42.117575;-72.50783
+1140;Wilbraham and Jeffrey (Southside);42.117502;-72.50845
 9130;Williams / Longmeadow;42.050578;-72.582767
 1858;Williamsburg / Jamestown ;42.067025;-72.552321
 55;Williamsburg Center /  Grange Hall;42.391999;-72.729709
 1570;Wingate;42.096065;-72.504503
-2780;Woodhaven Drive (In);42.283072;-72.405370
+2780;Woodhaven Drive (In);42.283072;-72.40537
 2781;Woodhaven Drive (Out);42.283015;-72.405528
 1395;Worthington / Chestnut (1);42.106535;-72.589496
 1398;Worthington / Chestnut (2);42.106461;-72.589754
 1306;Worthington / Extract;42.111592;-72.583346
-1268;Worthington / Federal;42.112690;-72.580129
+1268;Worthington / Federal;42.11269;-72.580129
 6910;Worthington / Federal;42.112561;-72.580271
 1288;Worthington / Kibbe;42.111922;-72.583078
 1466;Worthington / Main;42.103886;-72.592673
-1320;Worthington / Sackett (1);42.110200;-72.585150
+1320;Worthington / Sackett (1);42.1102;-72.58515
 1321;Worthington / Sackett (3);42.110548;-72.584931
 1354;Worthington / Spring (1);42.108436;-72.587383
 1357;Worthington / Spring (2);42.108233;-72.587467
