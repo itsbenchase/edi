@@ -638,8 +638,8 @@
 6223;Albion Rd at Elmhurst Dr;43.725287;-79.550901
 3270;Albion Rd at Finch Ave W;43.741056;-79.589585
 11045;Albion Rd at Finch Ave W;43.741208;-79.588821
-6224;Albion Rd at Golfdown Dr E Side;43.723468;-79.548799
 6225;Albion Rd at Golfdown Dr;43.72375;-79.548765
+6224;Albion Rd at Golfdown Dr E Side;43.723468;-79.548799
 3266;Albion Rd at Highway 27;43.744355;-79.607358
 3272;Albion Rd at Highway 27 E Side;43.743938;-79.606313
 13427;Albion Rd at Humberline Dr;43.746942;-79.621692
@@ -686,8 +686,8 @@
 11195;Ancaster Rd at Home Rd;43.735672;-79.467577
 11451;Ancaster Rd at Powell Rd;43.73656;-79.467968
 11;Anglesey Blvd at Islington Ave;43.664493;-79.531543
-14;Anglesey Blvd at Pinehurst Cres E Side;43.6631;-79.524373
 15;Anglesey Blvd at Pinehurst Cres;43.663562;-79.524999
+14;Anglesey Blvd at Pinehurst Cres E Side;43.6631;-79.524373
 17;Anglesey Blvd at Royal York Rd;43.665778;-79.519819
 16;Anglesey Blvd at Royal York Rd;43.665864;-79.52024
 12;Anglesey Blvd at The Kingsway;43.663796;-79.521797
@@ -720,11 +720,11 @@
 42;Annette St at Willard Ave;43.658765;-79.485561
 43;Annette St at Willard Ave;43.659022;-79.485011
 1689;Ansford Ave at Faywood Blvd;43.735741;-79.446837
+9284;Antibes Dr at Bathurst St;43.780933;-79.445119
+9282;Antibes Dr at Candle Liteway;43.779667;-79.448982
 9279;Antibes Dr at Plum Treeway;43.781845;-79.446507
 9280;Antibes Dr at Torresdale Ave;43.781966;-79.449941
-9282;Antibes Dr at Candle Liteway;43.779667;-79.448982
 9281;Antibes Dr at Torresdale Ave E Side;43.779378;-79.451816
-9284;Antibes Dr at Bathurst St;43.780933;-79.445119
 11267;Arcot Blvd at Albion Rd;43.726996;-79.551708
 11269;Arcot Blvd at Albion Rd E Side;43.726957;-79.551356
 9215;Arleta Ave at Grandravine Dr;43.747969;-79.507845
@@ -748,10 +748,10 @@
 11955;Arrow Rd at Sheppard Ave W;43.736314;-79.529568
 11858;Arrow Rd at Sheppard Ave W;43.736355;-79.529315
 9425;Atkinson Ave at Campbell Cres;43.811103;-79.443114
-12161;Atkinson Ave at Ctr St;43.812489;-79.443473
 118;Atkinson Ave at Clark Ave W;43.805029;-79.440924
-10709;Atkinson Ave at Dundurn Cres E Side;43.818131;-79.446538
+12161;Atkinson Ave at Ctr St;43.812489;-79.443473
 10710;Atkinson Ave at Dundurn Cres;43.81725;-79.444709
+10709;Atkinson Ave at Dundurn Cres E Side;43.818131;-79.446538
 8;Atkinson Ave at Rodeo Dr;43.808739;-79.442506
 10707;Atkinson Ave at Rosedale Heights Dr;43.817483;-79.450148
 10711;Atkinson Ave at Rosedale Heights Dr;43.813694;-79.443633
@@ -854,6 +854,8 @@
 7511;Barmac Dr at Ormont Dr;43.764464;-79.553385
 7512;Barmac Dr at Steeles Ave W;43.767942;-79.554807
 9457;Barrington Ave at Secord Ave;43.692496;-79.302235
+9525;Bathurst St / Crown Heights Cres;43.796726;-79.44669
+9526;Bathurst St / Mullen Dr;43.796714;-79.446842
 80;Bathurst St at Alcina Ave;43.680169;-79.417216
 81;Bathurst St at Allingham Gardens;43.739895;-79.434758
 123;Bathurst St at Antibes Dr;43.781233;-79.445042
@@ -963,11 +965,11 @@
 194;Bathurst St at Rockford Rd;43.785936;-79.446214
 195;Bathurst St at Roselawn Ave;43.705064;-79.426195
 196;Bathurst St at Saranac Blvd;43.723161;-79.430751
+220;Bathurst St at Sbourne Ave;43.738382;-79.434132
 197;Bathurst St at Shelborne Ave;43.715842;-79.428833
 198;Bathurst St at Shelborne Ave;43.716134;-79.429129
 200;Bathurst St at Sheppard Ave W;43.755643;-79.438674
 199;Bathurst St at Sheppard Ave W;43.755214;-79.43823
-220;Bathurst St at Sbourne Ave;43.738382;-79.434132
 204;Bathurst St at St Clair Ave W;43.683275;-79.418455
 202;Bathurst St at St Clair Ave W;43.683539;-79.418312
 205;Bathurst St at Stafford Rd;43.7703;-79.441951
@@ -984,8 +986,6 @@
 212;Bathurst St at Ulster St;43.65973;-79.408924
 214;Bathurst St at Vesta Dr;43.703148;-79.425728
 215;Bathurst St at Viewmount Ave;43.710114;-79.42769
-9525;Bathurst St / Crown Heights Cres;43.796726;-79.44669
-9526;Bathurst St / Mullen Dr;43.796714;-79.446842
 216;Bathurst St at Warwick Ave;43.695352;-79.423363
 217;Bathurst St at Wellington St W;43.642578;-79.402012
 219;Bathurst St at Wells St;43.670003;-79.413019
@@ -1100,7 +1100,6 @@
 14493;Bayview Ave at Nesbitt Dr;43.694139;-79.366043
 15540;Bayview Ave at Nesbitt Dr;43.694087;-79.366577
 309;Bayview Ave at Newton Dr;43.799231;-79.395302
-310;Bayview Ave at opp Garnier Park;43.800927;-79.395689
 1730;Bayview Ave at Parkhurst Blvd;43.708992;-79.376279
 9476;Bayview Ave at Parkview Ave;43.776212;-79.390312
 312;Bayview Ave at Post Rd;43.736547;-79.382082
@@ -1125,6 +1124,7 @@
 328;Bayview Ave at York Mills Rd;43.747851;-79.383934
 330;Bayview Ave at York Mills Rd;43.747363;-79.384148
 327;Bayview Ave at York Rd;43.745809;-79.383845
+310;Bayview Ave at opp Garnier Park;43.800927;-79.395689
 13844;Bayview Station - Ebound Platform;43.766872;-79.386703
 13843;Bayview Station - Wbound Platform;43.766951;-79.38673
 333;Bedford Rd at Bernard Ave;43.673121;-79.399388
@@ -1168,12 +1168,12 @@
 347;Bellamy Rd N at Burnview Cres;43.753874;-79.234036
 348;Bellamy Rd N at Burnview Cres;43.753661;-79.234194
 349;Bellamy Rd N at Cedar Brae Blvd;43.751811;-79.233421
-351;Bellamy Rd N at Epark Blvd;43.755389;-79.234689
-350;Bellamy Rd N at Epark Blvd;43.755326;-79.234948
 353;Bellamy Rd N at Eglinton Ave E - Eglinton GO;43.740531;-79.232292
 352;Bellamy Rd N at Eglinton Ave E - Eglinton GO;43.740751;-79.232066
 355;Bellamy Rd N at Ellesmere Rd;43.774032;-79.241521
 354;Bellamy Rd N at Ellesmere Rd;43.773883;-79.241768
+351;Bellamy Rd N at Epark Blvd;43.755389;-79.234689
+350;Bellamy Rd N at Epark Blvd;43.755326;-79.234948
 356;Bellamy Rd N at Farmbrook Rd;43.749566;-79.232189
 357;Bellamy Rd N at Grace St;43.743598;-79.229707
 358;Bellamy Rd N at Grace St;43.743276;-79.229867
@@ -1219,6 +1219,8 @@
 1738;Bingham Ave at Kingston Rd;43.680832;-79.285215
 2839;Bingham Loop;43.68146;-79.285
 13519;Bingham Loop;43.681533;-79.284747
+466;Birchmount Rd / Ambercroft Blvd;43.813872;-79.313644
+458;Birchmount Rd / River Grove Dr;43.818466;-79.315655
 15410;Birchmount Rd at 14th Ave;43.839705;-79.320034
 415;Birchmount Rd at 14th Ave;43.839298;-79.320309
 372;Birchmount Rd at Allanford Rd;43.774149;-79.2949
@@ -1299,8 +1301,6 @@
 432;Birchmount Rd at Modern Rd;43.74394;-79.283273
 437;Birchmount Rd at Modern Rd;43.744265;-79.283661
 14142;Birchmount Rd at Newlands Ave;43.710031;-79.269463
-465;Birchmount Rd at opp Walkway to Ambercroft Blvd;43.813928;-79.313425
-457;Birchmount Rd at opp Walkway to River Grove Dr;43.818456;-79.315394
 15010;Birchmount Rd at Parkette Pl;43.696184;-79.263708
 7556;Birchmount Rd at Parnell Ave;43.705327;-79.267345
 7555;Birchmount Rd at Parnell Ave;43.705135;-79.267462
@@ -1325,18 +1325,18 @@
 7560;Birchmount Rd at St Clair Ave E;43.713521;-79.270951
 453;Birchmount Rd at Staley Ter;43.806828;-79.310174
 454;Birchmount Rd at Staley Ter;43.807046;-79.310572
+9720;Birchmount Rd at Steeles Ave;43.820861;-79.316825
 456;Birchmount Rd at Steeles Ave E;43.821616;-79.317153
 10713;Birchmount Rd at Steeles Ave E;43.821906;-79.31698
-9720;Birchmount Rd at Steeles Ave;43.820861;-79.316825
 459;Birchmount Rd at Timberbank Blvd;43.797215;-79.305331
 460;Birchmount Rd at Vauxhall Dr;43.758838;-79.289314
 15413;Birchmount Rd at Verdale Crossing;43.851566;-79.325197
 15418;Birchmount Rd at Verdale Crossing;43.852091;-79.325465
-466;Birchmount Rd / Ambercroft Blvd;43.813872;-79.313644
-458;Birchmount Rd / River Grove Dr;43.818466;-79.315655
 469;Birchmount Rd at Wintermute Blvd;43.816283;-79.314742
 7562;Birchmount Rd at Zenith Dr;43.711213;-79.269937
 7561;Birchmount Rd at Zenith Dr;43.711289;-79.269784
+465;Birchmount Rd at opp Walkway to Ambercroft Blvd;43.813928;-79.313425
+457;Birchmount Rd at opp Walkway to River Grove Dr;43.818456;-79.315394
 11740;Birmingham St at Eighth St;43.602865;-79.507664
 476;Bloor St E at Castle Frank Rd;43.674024;-79.368037
 15528;Bloor St E at Castle Frank Rd E Side;43.673998;-79.367592
@@ -1356,8 +1356,8 @@
 490;Bloor St W at Avenue Rd;43.66884;-79.393879
 491;Bloor St W at Bathurst St;43.665017;-79.411321
 492;Bloor St W at Bathurst St;43.665214;-79.411078
-16001;Bloor St W at Bay St E Side;43.669639;-79.389248
 16002;Bloor St W at Bay St;43.669648;-79.390032
+16001;Bloor St W at Bay St E Side;43.669639;-79.389248
 495;Bloor St W at Bedford Rd;43.667897;-79.39756
 15527;Bloor St W at Bedford Rd;43.668013;-79.397785
 15321;Bloor St W at Brock Ave;43.658989;-79.439249
@@ -1429,11 +1429,11 @@
 578;Bloor St W at Royal York Rd;43.647373;-79.511729
 475;Bloor St W at Runnymede Rd;43.651237;-79.476129
 580;Bloor St W at Runnymede Rd;43.650991;-79.476466
+555;Bloor St W at S Kingsway;43.648025;-79.485977
 582;Bloor St W at Shaver Ave N;43.63918;-79.547528
 581;Bloor St W at Shaver Ave S E Side;43.638962;-79.547422
 583;Bloor St W at Shaw St;43.662405;-79.423339
 584;Bloor St W at Shaw St;43.662583;-79.423134
-555;Bloor St W at S Kingsway;43.648025;-79.485977
 585;Bloor St W at Spadina Ave;43.666541;-79.403982
 586;Bloor St W at Spadina Rd;43.666758;-79.403654
 588;Bloor St W at St George St;43.667614;-79.399681
@@ -1459,6 +1459,8 @@
 9553;Breckon Gate at Sheppard Ave E;43.800287;-79.20671
 12258;Brentcliffe Rd at Vanderhoof Ave;43.712582;-79.35886
 4812;Brentcliffe Rd at Wicksteed Ave;43.711815;-79.358792
+9838;Brenyon Way / John Tabor Trail;43.803534;-79.208118
+9849;Brenyon Way / Lowry Sq;43.803485;-79.208297
 9837;Brenyon Way at Foregate Ave;43.801663;-79.207257
 9850;Brenyon Way at Foregate Ave;43.80183;-79.207533
 9839;Brenyon Way at John Tabor Trail;43.805533;-79.211291
@@ -1467,13 +1469,14 @@
 9841;Brenyon Way at Sewells Rd;43.807648;-79.21538
 9846;Brenyon Way at Sewells Rd;43.807377;-79.21541
 9851;Brenyon Way at Sheppard Ave E;43.800741;-79.207086
-9838;Brenyon Way / John Tabor Trail;43.803534;-79.208118
-9849;Brenyon Way / Lowry Sq;43.803485;-79.208297
 9848;Brenyon Way at Wickson Trail;43.805362;-79.211263
 6265;Brian Ave at Margaret Ave;43.78653;-79.334248
 6266;Brian Ave at Van Horne Ave;43.787739;-79.334818
 614;Bridgeland Ave at Dufferin St;43.726894;-79.457961
 613;Bridgeland Ave at Dufferin St;43.727002;-79.458339
+4834;Brimley Rd / Audrelane Crt;43.822814;-79.285125
+4835;Brimley Rd / Goldhawk Trail;43.818639;-79.28304
+4836;Brimley Rd / McCool Crt;43.818488;-79.283192
 3362;Brimley Rd S at Kingston Rd;43.717705;-79.240255
 4813;Brimley Rd at Alexmuir Blvd;43.810796;-79.279726
 9636;Brimley Rd at Anson Ave;43.724347;-79.242793
@@ -1535,8 +1538,6 @@
 9646;Brimley Rd at Minerva Ave;43.722726;-79.242349
 9637;Brimley Rd at Oakridge Dr;43.725802;-79.243379
 630;Brimley Rd at Omni Dr;43.772371;-79.261895
-14440;Brimley Rd at opp Brimley Woods Park;43.808919;-79.278877
-9392;Brimley Rd at opp Walkway to Audrelane Crt;43.822934;-79.284963
 10148;Brimley Rd at Pitfield Rd;43.783587;-79.266568
 15817;Brimley Rd at Pitfield Rd;43.78327;-79.266209
 9674;Brimley Rd at Port Royal Trail;43.825062;-79.286196
@@ -1559,11 +1560,10 @@
 9680;Brimley Rd at Steeles Ave E;43.827797;-79.28735
 646;Brimley Rd at Strode Dr;43.739443;-79.249414
 645;Brimley Rd at Strode Dr;43.739428;-79.24961
-4834;Brimley Rd / Audrelane Crt;43.822814;-79.285125
-4835;Brimley Rd / Goldhawk Trail;43.818639;-79.28304
-4836;Brimley Rd / McCool Crt;43.818488;-79.283192
 647;Brimley Rd at Waterfield Dr;43.765319;-79.259711
 4837;Brimley Rd at Wenlock Gate;43.821165;-79.284157
+14440;Brimley Rd at opp Brimley Woods Park;43.808919;-79.278877
+9392;Brimley Rd at opp Walkway to Audrelane Crt;43.822934;-79.284963
 4838;Brimorton Dr at Dalehurst Ave;43.770891;-79.214209
 11098;Brimorton Dr at Dalehurst Ave;43.770724;-79.21432
 4839;Brimorton Dr at Linville Rd;43.77042;-79.216335
@@ -1660,8 +1660,8 @@
 693;Burnhamthorpe Rd at Royalavon Cres;43.650582;-79.536343
 692;Burnhamthorpe Rd at Royalavon Cres;43.650712;-79.536203
 686;Burnhamthorpe Rd at Saturn Rd;43.642427;-79.576
-694;Burnhamthorpe Rd at Shaver Ave N E Side;43.648143;-79.551357
 695;Burnhamthorpe Rd at Shaver Ave N;43.648209;-79.551986
+694;Burnhamthorpe Rd at Shaver Ave N E Side;43.648143;-79.551357
 689;Burnhamthorpe Rd at Silver Shadow Path;43.641831;-79.578843
 688;Burnhamthorpe Rd at Silver Shadow Path;43.641829;-79.578333
 674;Burnhamthorpe Rd at The E Mall;43.646462;-79.559669
@@ -1766,6 +1766,11 @@
 7583;Carlingview Dr at Meteor Dr;43.680524;-79.592833
 7582;Carlingview Dr at Renforth Dr;43.677093;-79.5913
 7587;Carlingview Dr at Worcester Rd;43.693235;-79.598612
+751;Carlton St at Church St;43.661891;-79.379357
+753;Carlton St at Jarvis St;43.662439;-79.376733
+755;Carlton St at Ontario St;43.66373;-79.370529
+757;Carlton St at Parliament St;43.664255;-79.367993
+758;Carlton St at Sherbourne St;43.663186;-79.373077
 7592;Carluke Cres at Fifeshire Rd;43.760717;-79.388573
 7591;Carluke Cres at Fifeshire Rd;43.759914;-79.389549
 7594;Carnforth Rd at Lawrence Ave E;43.74095;-79.314144
@@ -1809,12 +1814,12 @@
 3414;Chaplin Cres at Eglinton Ave W;43.70236;-79.416376
 3411;Chaplin Cres at Eglinton Ave W;43.703285;-79.41868
 767;Chaplin Cres at Lascelles Blvd;43.698153;-79.4006
-11060;Chaplin Cres at opp Walkway to Shallmar Apts;43.704671;-79.422902
 3417;Chaplin Cres at Oriole Pkwy;43.697898;-79.403592
 3418;Chaplin Cres at Oriole Pkwy;43.697933;-79.403071
 3419;Chaplin Cres at Roselawn Ave;43.705299;-79.423672
-3420;Chaplin Cres at Russell Hill Rd E Side;43.701746;-79.414883
 3421;Chaplin Cres at Russell Hill Rd;43.702012;-79.415372
+3420;Chaplin Cres at Russell Hill Rd E Side;43.701746;-79.414883
+11060;Chaplin Cres at opp Walkway to Shallmar Apts;43.704671;-79.422902
 13937;Cherry Beach Loop;43.636968;-79.344351
 15460;Cherry St at Front St E;43.652513;-79.357841
 15461;Cherry St at Front St E;43.65284;-79.358092
@@ -1878,9 +1883,9 @@
 4887;Church St at Won Rd E Side;43.703318;-79.524885
 13429;Claireport Cres at Albion Rd;43.74677;-79.632156
 13431;Claireport Cres at Albion Rd;43.746846;-79.634653
-14918;Claireville Dr at Humberline Dr;43.737944;-79.618703
 14925;Claireville Dr at Huddersfield Rd;43.741769;-79.625803
 14926;Claireville Dr at Huddersfield Rd;43.741736;-79.62596
+14918;Claireville Dr at Humberline Dr;43.737944;-79.618703
 277;Clark Ave W at York Hill Blvd;43.804157;-79.44469
 7614;Clayson Rd at Bartor Rd;43.720907;-79.524325
 7616;Clayson Rd at Bartor Rd;43.728609;-79.525817
@@ -1910,6 +1915,7 @@
 835;College St at Lansdowne Ave;43.650681;-79.440227
 839;College St at Ossington Ave;43.654255;-79.42294
 842;College St at Rusholme Park Cres;43.652817;-79.429769
+848;College St at Yonge St - College Station;43.661434;-79.382871
 13808;College Station - Nbound Platform;43.661449;-79.383088
 13807;College Station - Sbound Platform;43.660149;-79.382688
 12121;Colonel Samuel Park at Humber College Cottages;43.595885;-79.515835
@@ -1967,12 +1973,12 @@
 862;Cosburn Ave at Pape Ave;43.689514;-79.34864
 861;Cosburn Ave at Pape Ave;43.689304;-79.34897
 9463;Cosburn Ave at Roblin Ave;43.695386;-79.322445
-9453;Cosburn Ave at Roosevelt Rd E Side;43.693505;-79.330567
 9465;Cosburn Ave at Roosevelt Rd;43.693426;-79.331599
+9453;Cosburn Ave at Roosevelt Rd E Side;43.693505;-79.330567
 864;Cosburn Ave at Todmorden Lane;43.690184;-79.345205
 863;Cosburn Ave at Todmorden Lane;43.689979;-79.345478
-1781;Cosburn Ave at Wlake Cres E Side;43.697362;-79.310059
 1782;Cosburn Ave at Wlake Cres;43.697384;-79.310489
+1781;Cosburn Ave at Wlake Cres E Side;43.697362;-79.310059
 9456;Cosburn Ave at Woodbine Ave;43.696293;-79.317537
 9462;Cosburn Ave at Woodbine Ave;43.696509;-79.317285
 9630;Cosburn Ave at Woodmount Ave;43.696005;-79.319587
@@ -2026,8 +2032,8 @@
 6331;Crescent Rd at Lamport Ave;43.677942;-79.378216
 6333;Crescent Rd at Mt Pleasant Rd;43.678222;-79.380131
 6332;Crescent Rd at Mt Pleasant Rd E Side;43.678128;-79.380209
-6334;Crescent Rd at Rosedale Rd E Side;43.677739;-79.384541
 6335;Crescent Rd at Rosedale Rd;43.677806;-79.384925
+6334;Crescent Rd at Rosedale Rd E Side;43.677739;-79.384541
 6336;Crescent Rd at S Dr;43.677489;-79.377782
 6338;Crescent Rd at S Dr;43.678317;-79.382775
 6337;Crescent Rd at S Dr;43.678533;-79.382497
@@ -2108,10 +2114,10 @@
 884;Danforth Ave at Donlands Ave;43.680534;-79.337072
 13560;Danforth Ave at Donlands Ave;43.680298;-79.337426
 885;Danforth Ave at E Lynn Ave;43.685037;-79.315347
-1847;Danforth Ave at Ewood Ave;43.69542;-79.269176
-921;Danforth Ave at Ewood Ave E Side;43.695211;-79.268979
 886;Danforth Ave at Elward Blvd;43.692495;-79.282221
 887;Danforth Ave at Emmott Ave;43.691864;-79.285088
+1847;Danforth Ave at Ewood Ave;43.69542;-79.269176
+921;Danforth Ave at Ewood Ave E Side;43.695211;-79.268979
 890;Danforth Ave at Glebemount Ave;43.684726;-79.317555
 889;Danforth Ave at Glebemount Ave;43.684512;-79.317806
 891;Danforth Ave at Gledhill Ave;43.686769;-79.308455
@@ -2159,8 +2165,8 @@
 4942;Danforth Rd at Eglinton Ave E;43.737276;-79.24626
 4941;Danforth Rd at Eglinton Ave E;43.73687;-79.246243
 4946;Danforth Rd at Glenshephard Dr;43.730593;-79.250791
-4944;Danforth Rd at Glenshephard Dr E E Side;43.731817;-79.249776
 4945;Danforth Rd at Glenshephard Dr E;43.731729;-79.250118
+4944;Danforth Rd at Glenshephard Dr E E Side;43.731817;-79.249776
 4950;Danforth Rd at Gordonridge Pl E Side;43.727826;-79.252323
 4947;Danforth Rd at Hart Ave;43.718747;-79.258628
 4948;Danforth Rd at Hart Ave;43.718938;-79.25874
@@ -2181,9 +2187,9 @@
 1856;Danforth Rd at Medford Ave;43.69913;-79.273592
 4957;Danforth Rd at Midland Ave;43.725436;-79.253783
 4958;Danforth Rd at Midland Ave E Side;43.725151;-79.253659
-4959;Danforth Rd at Neston Ave;43.733175;-79.248928
 14953;Danforth Rd at N Woodrow Blvd;43.710082;-79.264702
 15062;Danforth Rd at N Woodrow Blvd;43.710406;-79.26451
+4959;Danforth Rd at Neston Ave;43.733175;-79.248928
 4961;Danforth Rd at Savarin St;43.743307;-79.245123
 4963;Danforth Rd at Seminole Ave;43.747921;-79.244648
 4962;Danforth Rd at Seminole Ave;43.748003;-79.244427
@@ -2678,8 +2684,8 @@
 5017;Dundas St W at Islington Ave E Side;43.651497;-79.526029
 3505;Dundas St W at Jane St;43.665764;-79.490945
 5018;Dundas St W at Jane St;43.665598;-79.491412
-9942;Dundas St W at Jane St E Side;43.665583;-79.490433
 9943;Dundas St W at Jane St;43.66578;-79.492146
+9942;Dundas St W at Jane St E Side;43.665583;-79.490433
 3507;Dundas St W at Jerome St;43.661579;-79.455147
 3508;Dundas St W at Keele St;43.665343;-79.464755
 3509;Dundas St W at Keele St;43.665465;-79.464324
@@ -2735,8 +2741,8 @@
 2193;Dundas St W at University Ave - St Patrick Station;43.654679;-79.388742
 2194;Dundas St W at University Ave - St Patrick Station;43.654919;-79.387813
 7670;Dundas St W at W Mall Cres E Side;43.627446;-79.560881
-5030;Dundas St W at Willard Ave E Side;43.66554;-79.488063
 3527;Dundas St W at Willard Ave;43.665718;-79.488659
+5030;Dundas St W at Willard Ave E Side;43.66554;-79.488063
 2196;Dundas St W at Wilmar Rd;43.634928;-79.541384
 2195;Dundas St W at Wilmar Rd;43.634088;-79.541828
 3528;Dundas St W at Windermere Ave;43.665676;-79.48568
@@ -2846,11 +2852,11 @@
 2259;Eglinton Ave E at Danforth Rd;43.736844;-79.246727
 2261;Eglinton Ave E at Don Avon Dr;43.714217;-79.362093
 15704;Eglinton Ave E at Don Avon Dr;43.713918;-79.362496
-15705;Eglinton Ave E at Don Mills Rd E Side;43.720546;-79.337734
 15706;Eglinton Ave E at Don Mills Rd;43.720462;-79.339864
-2264;Eglinton Ave E at Don Valley Pkwy E Side;43.72333;-79.328922
+15705;Eglinton Ave E at Don Mills Rd E Side;43.720546;-79.337734
 2267;Eglinton Ave E at Don Valley Pkwy;43.722963;-79.331434
 2266;Eglinton Ave E at Don Valley Pkwy;43.722361;-79.332371
+2264;Eglinton Ave E at Don Valley Pkwy E Side;43.72333;-79.328922
 2268;Eglinton Ave E at Dunfield Ave;43.707461;-79.395252
 15702;Eglinton Ave E at Dunfield Ave;43.707208;-79.395605
 10467;Eglinton Ave E at Eglinton Sq;43.725114;-79.300489
@@ -2874,18 +2880,18 @@
 2285;Eglinton Ave E at Laird Dr;43.713582;-79.365203
 2232;Eglinton Ave E at Lebovic Ave;43.727116;-79.291325
 2233;Eglinton Ave E at Lebovic Ave E Side;43.726941;-79.290955
-2286;Eglinton Ave E at Leslie St E Side;43.716917;-79.34976
 2287;Eglinton Ave E at Leslie St;43.717134;-79.3502
-15903;Eglinton Ave E at Markham Rd E Side;43.743171;-79.218404
+2286;Eglinton Ave E at Leslie St E Side;43.716917;-79.34976
 2288;Eglinton Ave E at Markham Rd;43.743168;-79.219635
+15903;Eglinton Ave E at Markham Rd E Side;43.743171;-79.218404
 2290;Eglinton Ave E at Mason Rd;43.741584;-79.225483
 15902;Eglinton Ave E at Mason Rd;43.74179;-79.225649
 2293;Eglinton Ave E at McCowan Rd;43.73901;-79.238255
 2292;Eglinton Ave E at McCowan Rd;43.738651;-79.238637
 1037;Eglinton Ave E at Midland Ave;43.73431;-79.258468
 15278;Eglinton Ave E at Midland Ave;43.734712;-79.257961
-15896;Eglinton Ave E at Midland Ave E Side;43.734509;-79.257649
 1036;Eglinton Ave E at Midland Ave;43.734493;-79.258911
+15896;Eglinton Ave E at Midland Ave E Side;43.734509;-79.257649
 2298;Eglinton Ave E at Petman Ave;43.709591;-79.384625
 2300;Eglinton Ave E at Pharmacy Ave;43.725855;-79.297172
 2299;Eglinton Ave E at Pharmacy Ave E Side;43.725616;-79.296932
@@ -2913,6 +2919,8 @@
 2318;Eglinton Ave E at Warden Ave;43.72804;-79.28733
 2321;Eglinton Ave E at Wynford Dr;43.72418;-79.325533
 2320;Eglinton Ave E at Wynford Dr;43.724363;-79.325724
+11716;Eglinton Ave W / Emmett Ave;43.684593;-79.508136
+2416;Eglinton Ave W / Rangoon Rd;43.670474;-79.577739
 11488;Eglinton Ave W at Avenue Rd E Side;43.704641;-79.407957
 15710;Eglinton Ave W at Bathurst St E Side;43.701216;-79.424063
 2328;Eglinton Ave W at Bemersyde Dr;43.678401;-79.545008
@@ -2950,8 +2958,8 @@
 2363;Eglinton Ave W at Islington Ave;43.679988;-79.538778
 2362;Eglinton Ave W at Islington Ave;43.679694;-79.539177
 2364;Eglinton Ave W at Jane St;43.684263;-79.499094
-2366;Eglinton Ave W at Jane St E Side;43.68452;-79.498076
 16243;Eglinton Ave W at Jane St;43.68446;-79.499316
+2366;Eglinton Ave W at Jane St E Side;43.68452;-79.498076
 2378;Eglinton Ave W at Jimmy Wisdom Way;43.696414;-79.447136
 2367;Eglinton Ave W at Kane Ave E Side;43.691218;-79.470015
 15488;Eglinton Ave W at Keele St;43.690531;-79.473755
@@ -2977,7 +2985,6 @@
 2391;Eglinton Ave W at Old Forest Hill Rd;43.701626;-79.42291
 2390;Eglinton Ave W at Old Forest Hill Rd E Side;43.701517;-79.422636
 2392;Eglinton Ave W at Old Park Rd;43.699989;-79.430703
-2417;Eglinton Ave W at opp Walkway to Rangoon Rd;43.670682;-79.577791
 2394;Eglinton Ave W at Oriole Pkwy E Side;43.705148;-79.405541
 12133;Eglinton Ave W at Renforth Dr;43.666757;-79.587469
 2399;Eglinton Ave W at Renforth Dr E Side;43.666543;-79.587065
@@ -2998,13 +3005,12 @@
 2343;Eglinton Ave W at The E Mall;43.671654;-79.571438
 2344;Eglinton Ave W at The E Mall;43.672032;-79.571143
 2415;Eglinton Ave W at Vesta Dr;43.702097;-79.420708
-11716;Eglinton Ave W / Emmett Ave;43.684593;-79.508136
-2416;Eglinton Ave W / Rangoon Rd;43.670474;-79.577739
+2421;Eglinton Ave W at Widdicombe Hill Blvd;43.675664;-79.558038
+2422;Eglinton Ave W at Wincott Dr;43.678667;-79.544745
 9383;Eglinton Ave W at Won Rd;43.68671;-79.489925
 2419;Eglinton Ave W at Won Rd;43.687153;-79.489369
 2420;Eglinton Ave W at Wover Hill Rd;43.699305;-79.433091
-2421;Eglinton Ave W at Widdicombe Hill Blvd;43.675664;-79.558038
-2422;Eglinton Ave W at Wincott Dr;43.678667;-79.544745
+2417;Eglinton Ave W at opp Walkway to Rangoon Rd;43.670682;-79.577791
 14668;Eglinton Station;43.70565;-79.399863
 14670;Eglinton Station;43.70476;-79.398499
 14671;Eglinton Station;43.705093;-79.398567
@@ -3095,11 +3101,11 @@
 1052;Ellesmere Rd at Scarborough Golf Club Rd;43.778371;-79.222373
 6372;Ellesmere Rd at Victoria Park Ave;43.758123;-79.31474
 6371;Ellesmere Rd at Victoria Park Ave E Side;43.757877;-79.314607
+9620;Ellesmere Rd at W Service Rd;43.766455;-79.278682
+9621;Ellesmere Rd at W Service Rd E Side;43.766111;-79.278977
 7719;Ellesmere Rd at Warden Ave;43.760959;-79.301062
 7720;Ellesmere Rd at Warden Ave;43.761429;-79.300415
 10515;Ellesmere Rd at Watson St;43.789459;-79.17583
-9620;Ellesmere Rd at W Service Rd;43.766455;-79.278682
-9621;Ellesmere Rd at W Service Rd E Side;43.766111;-79.278977
 7721;Ellesmere Rd at Wye Valley Rd;43.764958;-79.284138
 10518;Ellesmere Rd at Zaph Ave;43.791626;-79.16673
 10524;Ellesmere Rd at Zaph Ave;43.79184;-79.166565
@@ -3202,6 +3208,9 @@
 2477;Ferris Rd at Plaxton Dr;43.704058;-79.30066
 2478;Ferris Rd at Squires Ave;43.704938;-79.298704
 7755;Fifeshire Rd at Caldy Crt;43.760185;-79.388493
+10603;Finch Ave E / Chester Le Blvd;43.79396;-79.328039
+2531;Finch Ave E / Huntingdale Blvd;43.795052;-79.323292
+2530;Finch Ave E / Sprucewood Crt;43.794952;-79.32286
 2481;Finch Ave E at Adirondack Gate;43.800369;-79.299752
 2482;Finch Ave E at Alamosa Dr;43.789011;-79.373464
 2483;Finch Ave E at Alexmuir Blvd;43.804819;-79.282003
@@ -3225,8 +3234,8 @@
 2503;Finch Ave E at Cherokee Blvd;43.793549;-79.336707
 2502;Finch Ave E at Cherokee Blvd;43.793502;-79.337202
 2504;Finch Ave E at Don Mills Rd;43.79247;-79.355044
-2506;Finch Ave E at Don Mills Rd E Side;43.792619;-79.354183
 9617;Finch Ave E at Don Mills Rd;43.792602;-79.355799
+2506;Finch Ave E at Don Mills Rd E Side;43.792619;-79.354183
 2507;Finch Ave E at Dudley Ave;43.780925;-79.409832
 2508;Finch Ave E at Dudley Ave;43.781174;-79.409624
 2509;Finch Ave E at Estelle Ave;43.783865;-79.396432
@@ -3263,7 +3272,6 @@
 14549;Finch Ave E at Neilson Rd;43.816137;-79.227758
 14550;Finch Ave E at Neilson Rd;43.816521;-79.227338
 9909;Finch Ave E at Neilson Rd;43.816209;-79.228536
-2568;Finch Ave E at opp Walkway E of Birchmount Rd;43.799792;-79.303031
 2537;Finch Ave E at Page Ave;43.786618;-79.384456
 2536;Finch Ave E at Page Ave;43.786782;-79.384733
 2539;Finch Ave E at Pharmacy Ave;43.794498;-79.325792
@@ -3286,9 +3294,6 @@
 2565;Finch Ave E at Victoria Park Ave;43.792902;-79.331671
 2566;Finch Ave E at Victoria Park Ave;43.793308;-79.331145
 2567;Finch Ave E at Walkway E of Birchmount Rd;43.799488;-79.303501
-10603;Finch Ave E / Chester Le Blvd;43.79396;-79.328039
-2531;Finch Ave E / Huntingdale Blvd;43.795052;-79.323292
-2530;Finch Ave E / Sprucewood Crt;43.794952;-79.32286
 2570;Finch Ave E at Warden Ave;43.79697;-79.315476
 2569;Finch Ave E at Warden Ave;43.796575;-79.316012
 2571;Finch Ave E at Wayside Ave;43.80065;-79.299471
@@ -3299,6 +3304,8 @@
 2576;Finch Ave E at Winlock Park;43.784179;-79.395886
 9131;Finch Ave E at Yonge St - Finch Station;43.780191;-79.414106
 9912;Finch Ave E at Yonge St E Side;43.779842;-79.414782
+2568;Finch Ave E at opp Walkway E of Birchmount Rd;43.799792;-79.303031
+11250;Finch Ave W / Farr Ave;43.743726;-79.579543
 11040;Finch Ave W at Albion Mall;43.743079;-79.587002
 2578;Finch Ave W at Albion Rd;43.740914;-79.589123
 2579;Finch Ave W at Albion Rd;43.740704;-79.58959
@@ -3332,11 +3339,11 @@
 2600;Finch Ave W at Halesia Dr;43.733636;-79.606898
 11293;Finch Ave W at Highway 27;43.73404;-79.604094
 14254;Finch Ave W at Humber College Blvd E Side;43.733914;-79.609339
-3599;Finch Ave W at Islington Ave E Side;43.746226;-79.567918
 11028;Finch Ave W at Islington Ave;43.746233;-79.569111
+3599;Finch Ave W at Islington Ave E Side;43.746226;-79.567918
 13709;Finch Ave W at Jane St;43.757066;-79.518106
-2606;Finch Ave W at Jane St E Side;43.757192;-79.516982
 3600;Finch Ave W at Jane St;43.757312;-79.518677
+2606;Finch Ave W at Jane St E Side;43.757192;-79.516982
 2609;Finch Ave W at Jayzel Dr;43.750455;-79.549378
 2608;Finch Ave W at Jayzel Dr;43.75079;-79.548836
 2610;Finch Ave W at John Garland Blvd;43.735889;-79.595065
@@ -3353,7 +3360,6 @@
 2620;Finch Ave W at Milvan Dr;43.750105;-79.552105
 2621;Finch Ave W at Norfinch Dr - Humber Reactivation Care;43.756133;-79.524087
 2622;Finch Ave W at Oakdale Rd - Humber Reactivation Care;43.755759;-79.524467
-11041;Finch Ave W at opp Albion Mall;43.743183;-79.587564
 2624;Finch Ave W at Pearldale Ave;43.747924;-79.562184
 2625;Finch Ave W at Romfield Lane;43.762438;-79.493647
 2626;Finch Ave W at Romfield Lane;43.762721;-79.493586
@@ -3374,18 +3380,18 @@
 3618;Finch Ave W at Torresdale Ave;43.772336;-79.451367
 3620;Finch Ave W at Virgilwood Dr - Finch Branson Site;43.772698;-79.448324
 3619;Finch Ave W at Virgilwood Dr- Finch Branson Site;43.772898;-79.448603
-11250;Finch Ave W / Farr Ave;43.743726;-79.579543
 2640;Finch Ave W at Westmore Dr;43.734502;-79.601178
 2641;Finch Ave W at Westmore Dr;43.734862;-79.600609
-2643;Finch Ave W at Won Rd;43.752276;-79.542034
-2642;Finch Ave W at Won Rd E Side;43.752042;-79.541706
-7761;Finch Ave W at Won Rd;43.752093;-79.542932
 3622;Finch Ave W at Wilmington Ave;43.770054;-79.460827
 3623;Finch Ave W at Wilmington Ave;43.770363;-79.46065
+2643;Finch Ave W at Won Rd;43.752276;-79.542034
+7761;Finch Ave W at Won Rd;43.752093;-79.542932
+2642;Finch Ave W at Won Rd E Side;43.752042;-79.541706
 2644;Finch Ave W at Woodbine Downs Blvd;43.733802;-79.606418
-9132;Finch Ave W at Yonge St - Finch Station;43.779444;-79.416584
 9130;Finch Ave W at Yonge St;43.779729;-79.416164
+9132;Finch Ave W at Yonge St - Finch Station;43.779444;-79.416584
 3626;Finch Ave W at York Gate Blvd;43.7569;-79.520527
+11041;Finch Ave W at opp Albion Mall;43.743183;-79.587564
 14683;Finch Station;43.780942;-79.414829
 14684;Finch Station;43.78073;-79.414746
 14685;Finch Station;43.780467;-79.414636
@@ -3406,12 +3412,12 @@
 15568;Finch W Station;43.764723;-79.49081
 15659;Finch W Station - Nbound Platform;43.764855;-79.491118
 15658;Finch W Station - Sbound Platform;43.764855;-79.491118
+10724;Finchdene Sq at Finch Ave E;43.815701;-79.2317
 10293;Finchdene Sq at Finchdene Sq;43.817462;-79.23243
 11548;Finchdene Sq at Finchdene Sq;43.817144;-79.23213
-10292;Finchdene Sq at Torham Pl;43.819452;-79.233233
 10290;Finchdene Sq at Finchdene Sq E Side;43.820436;-79.23748
-10724;Finchdene Sq at Finch Ave E;43.815701;-79.2317
 11551;Finchdene Sq at Pullman Crt;43.820512;-79.23776
+10292;Finchdene Sq at Torham Pl;43.819452;-79.233233
 11549;Finchdene Sq at Torham Pl;43.819525;-79.233091
 1056;Fisherville Rd at Bathurst St;43.79026;-79.446185
 14512;Fleet St at Bastion St;43.63585;-79.403771
@@ -3419,8 +3425,8 @@
 10210;Fleet St at Bathurst St;43.63647;-79.400131
 13362;Fleet St at Bathurst St;43.63642;-79.400545
 15502;Fleet St at Fort York Blvd;43.636282;-79.407391
-14508;Fleet St at Fort York Blvd E Side;43.636256;-79.406278
 14509;Fleet St at Fort York Blvd;43.636422;-79.407397
+14508;Fleet St at Fort York Blvd E Side;43.636256;-79.406278
 1062;Fleet St at Strachan Ave;43.636172;-79.410145
 11653;Flemingdon Park Shopping Ctr;43.714156;-79.334738
 6382;Flemington Rd at Blossomfield Dr;43.719114;-79.448356
@@ -3472,12 +3478,12 @@
 5106;Gary Dr at Wendell Ave;43.709852;-79.524542
 5108;Gary Dr at Yelland St;43.708941;-79.527978
 7771;Garyray Dr at Norelco Dr;43.769757;-79.535855
-3635;Gateway Blvdat Don Mills Rd E Side;43.710049;-79.333744
-3636;Gateway Blvdat Grenoble Dr;43.711661;-79.330127
-3634;Gateway Blvdat Sunny Glenway E Side;43.71162;-79.330353
 3689;Gateway Blvd at Don Mills Rd;43.710173;-79.334116
 9507;Gateway Blvd at Sunny Glenway;43.710587;-79.331417
 9508;Gateway Blvd at Sunny Glenway;43.710687;-79.331693
+3635;Gateway Blvdat Don Mills Rd E Side;43.710049;-79.333744
+3636;Gateway Blvdat Grenoble Dr;43.711661;-79.330127
+3634;Gateway Blvdat Sunny Glenway E Side;43.71162;-79.330353
 7772;Gentian Dr at Renforth Dr;43.665005;-79.58541
 7773;Gentian Dr at Sagamore Cres;43.665011;-79.584841
 7774;Gentian Dr at Wellesworth Dr;43.665276;-79.581771
@@ -3485,8 +3491,8 @@
 1114;Gerrard St E at Beaton Ave;43.67629;-79.316879
 1113;Gerrard St E at Beaton Ave;43.676047;-79.317086
 1080;Gerrard St E at Blackburn St;43.664667;-79.355383
-13474;Gerrard St E at Blantyre Ave E Side;43.687475;-79.283636
 9697;Gerrard St E at Blantyre Ave;43.687401;-79.284572
+13474;Gerrard St E at Blantyre Ave E Side;43.687475;-79.283636
 1115;Gerrard St E at BoWestmore Rd;43.677874;-79.315075
 1116;Gerrard St E at BoWestmore Rd;43.67819;-79.314912
 1081;Gerrard St E at Broadview Ave;43.665376;-79.352906
@@ -3665,8 +3671,8 @@
 2674;Guildwood Pkwy at Chancery Lane;43.747927;-79.197076
 2677;Guildwood Pkwy at Forsythia Dr;43.750205;-79.187147
 15135;Guildwood Pkwy at Galloway Rd;43.749566;-79.18956
-2678;Guildwood Pkwy at Guild Inn E Side;43.748713;-79.193517
 2679;Guildwood Pkwy at Guild Inn;43.748725;-79.193975
+2678;Guildwood Pkwy at Guild Inn E Side;43.748713;-79.193517
 11372;Guildwood Pkwy at Kingston Rd;43.74921;-79.204867
 2680;Guildwood Pkwy at Kingston Rd;43.749242;-79.205455
 2682;Guildwood Pkwy at Livingston Rd;43.747659;-79.199145
@@ -3764,8 +3770,8 @@
 3712;Horner Ave at Beta St;43.603337;-79.538381
 3711;Horner Ave at Beta St;43.603044;-79.538963
 3713;Horner Ave at Connorvale Ave;43.605477;-79.528801
-3714;Horner Ave at Delta St E Side;43.603745;-79.53581
 3715;Horner Ave at Delta St;43.603778;-79.536421
+3714;Horner Ave at Delta St E Side;43.603745;-79.53581
 3716;Horner Ave at Edilou Dr;43.604679;-79.531509
 3717;Horner Ave at Edilou Dr;43.604931;-79.531199
 3720;Horner Ave at Fima Cres;43.605951;-79.526696
@@ -3868,8 +3874,8 @@
 12199;Humberwood Blvd at Topbank Dr;43.730432;-79.619758
 12200;Humberwood Blvd at Topbank Dr;43.730593;-79.619596
 6424;Huntingwood Dr at Batterswood Dr;43.782263;-79.318645
-6425;Huntingwood Dr at Belgreen Ave E Side;43.79552;-79.290217
 6426;Huntingwood Dr at Belgreen Ave;43.7955;-79.290967
+6425;Huntingwood Dr at Belgreen Ave E Side;43.79552;-79.290217
 6428;Huntingwood Dr at Birchmount Rd;43.790217;-79.302892
 6427;Huntingwood Dr at Birchmount Rd;43.790567;-79.302039
 6431;Huntingwood Dr at Bridlewood Blvd;43.784891;-79.31308
@@ -3895,8 +3901,8 @@
 6452;Huntingwood Dr at Kilkenny Dr E Side;43.783511;-79.31712
 6453;Huntingwood Dr at Kittery Blvd;43.796425;-79.286696
 6454;Huntingwood Dr at Kittery Blvd;43.796674;-79.286192
-15815;Huntingwood Dr at Midland Ave E Side;43.797082;-79.283006
 6457;Huntingwood Dr at Midland Ave;43.796985;-79.284069
+15815;Huntingwood Dr at Midland Ave E Side;43.797082;-79.283006
 6461;Huntingwood Dr at Pharmacy Ave;43.781517;-79.320391
 6462;Huntingwood Dr at Pharmacy Ave;43.781814;-79.319901
 6463;Huntingwood Dr at St Crispins Dr;43.792014;-79.297501
@@ -4136,12 +4142,12 @@
 3934;Jane St at Troutbrooke Dr;43.732115;-79.51113
 1175;Jane St at Weatherell St;43.651398;-79.485222
 1174;Jane St at Weatherell St;43.65138;-79.485422
-3935;Jane St at Won Rd;43.69169;-79.501113
-3936;Jane St at Won Rd;43.690987;-79.500683
 3939;Jane St at William Cragg Dr;43.72265;-79.509187
 3938;Jane St at William Cragg Dr;43.722732;-79.50889
 3940;Jane St at Wilson Ave;43.721327;-79.50851
 3941;Jane St at Wilson Ave;43.720429;-79.508641
+3935;Jane St at Won Rd;43.69169;-79.501113
+3936;Jane St at Won Rd;43.690987;-79.500683
 3942;Jane St at Woolner Ave;43.671522;-79.493576
 2740;Jane St at Wright Ave;43.701092;-79.503411
 15045;Jane St at Wright Ave;43.700676;-79.503047
@@ -4158,19 +4164,19 @@
 7874;Jesmond Ave at Oakwood Ave;43.689637;-79.439285
 14526;Jethro Rd at Wilson Ave;43.719323;-79.518545
 15144;Jetliner Rd at Airport Rd;43.685321;-79.607296
-11536;John Garland Blvd at Collingdale Rd E Side;43.732593;-79.5834
 11542;John Garland Blvd at Collingdale Rd;43.732398;-79.584087
+11536;John Garland Blvd at Collingdale Rd E Side;43.732593;-79.5834
 11199;John Garland Blvd at Finch Ave W;43.735579;-79.594631
 12146;John Garland Blvd at Finch Ave W;43.73531;-79.594657
 11541;John Garland Blvd at Jamestown Cres;43.734189;-79.582493
-11537;John Garland Blvd at Jamestown Cres E Side;43.734095;-79.582325
 11535;John Garland Blvd at Jamestown Cres;43.732415;-79.58675
+11537;John Garland Blvd at Jamestown Cres E Side;43.734095;-79.582325
 11538;John Garland Blvd at Kipling Ave;43.735359;-79.578514
 11540;John Garland Blvd at Kipling Ave;43.73536;-79.579129
 11577;John Garland Blvd at Martin Grove Rd;43.732198;-79.589061
 7876;John Garland Blvd at Martin Grove Rd;43.731901;-79.589609
-11576;John Garland Blvd at Martin Grove Rd E Side;43.73217;-79.588505
 7875;John Garland Blvd at Martin Grove Rd;43.732009;-79.589827
+11576;John Garland Blvd at Martin Grove Rd E Side;43.73217;-79.588505
 7878;John Garland Blvd at Mosque Cres;43.732458;-79.592402
 7877;John Garland Blvd at Mosque Cres;43.73258;-79.592318
 1180;Jones Ave at Baird Ave;43.676662;-79.338684
@@ -4266,9 +4272,9 @@
 10755;Keele St at Toro Rd;43.75995;-79.490202
 4043;Keele St at Toro Rd;43.759536;-79.489856
 9880;Keele St at Victory Dr;43.728712;-79.482637
-4045;Keele St at Wandle Ave;43.731083;-79.482944
 7902;Keele St at W Toronto St;43.670163;-79.466669
 7901;Keele St at W Toronto St;43.669883;-79.466359
+4045;Keele St at Wandle Ave;43.731083;-79.482944
 4048;Keele St at Whitburn Cres;43.73701;-79.484656
 9154;Keele St at Wilson Ave;43.72718;-79.481969
 4049;Keele St at Wilson Ave;43.726047;-79.48212
@@ -4385,8 +4391,8 @@
 14946;Kennedy Station - Platform;43.732382;-79.263862
 14947;Kennedy Station - Subway Platform;43.732487;-79.263718
 13865;Kennedy Station - Wbound Platform;43.732149;-79.264785
-12537;King St E at Church St E Side;43.649982;-79.373826
 12538;King St E at Church St;43.64984;-79.374971
+12537;King St E at Church St E Side;43.649982;-79.373826
 15351;King St E at Lower River St;43.65673;-79.356254
 4139;King St E at Ontario St;43.651864;-79.365876
 15352;King St E at Ontario St;43.651647;-79.366167
@@ -4402,8 +4408,8 @@
 4155;King St W at Atlantic Ave;43.640051;-79.421415
 4156;King St W at Bathurst St;43.644048;-79.402307
 15650;King St W at Bathurst St E Side;43.643941;-79.40203
-15640;King St W at Bay St E Side;43.648724;-79.379621
 15639;King St W at Bay St;43.648622;-79.380619
+15640;King St W at Bay St E Side;43.648724;-79.379621
 15646;King St W at Blue Jays Way E Side;43.646101;-79.391644
 4164;King St W at Dowling Ave;43.636552;-79.438719
 4165;King St W at Dowling Ave;43.636773;-79.438379
@@ -4413,13 +4419,13 @@
 4168;King St W at Dunn Ave;43.637647;-79.433376
 4174;King St W at Jameson Ave;43.637264;-79.435861
 4173;King St W at Jameson Ave;43.636909;-79.436166
-15636;King St W at Jarvis St E Side;43.650541;-79.371287
 15635;King St W at Jarvis St;43.650391;-79.372454
+15636;King St W at Jarvis St E Side;43.650541;-79.371287
 4175;King St W at Jefferson Ave;43.640065;-79.422082
 14400;King St W at Joe Shuster Way;43.639804;-79.423411
 15353;King St W at Joe Shuster Way;43.639591;-79.423721
-15644;King St W at John St E Side;43.646614;-79.389267
 15643;King St W at John St;43.646538;-79.390161
+15644;King St W at John St E Side;43.646614;-79.389267
 4179;King St W at Niagara St;43.642987;-79.407539
 4178;King St W at Niagara St;43.642809;-79.40776
 15645;King St W at Peter St;43.645967;-79.392895
@@ -4428,8 +4434,8 @@
 11596;King St W at Queen St W;43.638535;-79.445759
 13624;King St W at Shaw St E Side;43.641451;-79.414528
 15641;King St W at Simcoe St - St. Andrew Station;43.647522;-79.385945
-15648;King St W at Spadina Ave E Side;43.645507;-79.394296
 15647;King St W at Spadina Ave;43.64537;-79.395811
+15648;King St W at Spadina Ave E Side;43.645507;-79.394296
 4186;King St W at Spencer Ave;43.638134;-79.430997
 13890;King St W at Spencer Ave;43.63831;-79.430761
 4188;King St W at Strachan Ave;43.642127;-79.411783
@@ -4475,20 +4481,20 @@
 6621;Kingston Rd at Deep Dene Dr;43.785085;-79.168054
 2774;Kingston Rd at Dixon Ave;43.669775;-79.311175
 2775;Kingston Rd at Dundas St E;43.670087;-79.311229
-4218;Kingston Rd at Ewood Ave;43.690304;-79.267035
 12543;Kingston Rd at Eglinton Ave E;43.74353;-79.211648
 12544;Kingston Rd at Ellesmere Rd;43.793856;-79.153976
 12545;Kingston Rd at Ellesmere Rd;43.793758;-79.154476
 2776;Kingston Rd at Elmer Ave;43.675537;-79.306008
 2777;Kingston Rd at Elmer Ave;43.67582;-79.305884
+4218;Kingston Rd at Ewood Ave;43.690304;-79.267035
 4222;Kingston Rd at Fallingbrook Rd;43.682406;-79.279087
 4221;Kingston Rd at Fallingbrook Rd;43.682141;-79.27935
 4223;Kingston Rd at Fenwood Heights;43.727269;-79.229715
 4224;Kingston Rd at Fenwood Heights;43.727383;-79.230088
 6623;Kingston Rd at Franklin Ave;43.785922;-79.166403
 6622;Kingston Rd at Franklin Ave;43.786063;-79.166476
-15908;Kingston Rd at Galloway Rd E Side;43.762214;-79.194368
 15909;Kingston Rd at Galloway Rd;43.761802;-79.195118
+15908;Kingston Rd at Galloway Rd E Side;43.762214;-79.194368
 4228;Kingston Rd at Glen Everest Rd;43.697868;-79.25667
 4227;Kingston Rd at Glen Everest Rd E Side;43.69801;-79.256199
 2779;Kingston Rd at Glen Manor Dr;43.679631;-79.294644
@@ -4539,14 +4545,14 @@
 16023;Kingston Rd at Rylander Blvd;43.796887;-79.149251
 4260;Kingston Rd at Sandown Ave;43.70858;-79.249674
 4261;Kingston Rd at Sandown Ave;43.708964;-79.249854
-15904;Kingston Rd at Scarborough Golf Club Rd E Side;43.746198;-79.208997
 15905;Kingston Rd at Scarborough Golf Club Rd;43.745786;-79.209733
+15904;Kingston Rd at Scarborough Golf Club Rd E Side;43.746198;-79.208997
 2794;Kingston Rd at Scarborough Rd;43.680468;-79.287193
 2795;Kingston Rd at Scarborough Rd;43.680614;-79.287061
 4264;Kingston Rd at Sharpe St;43.706529;-79.25137
-2796;Kingston Rd at Swood Dr;43.678753;-79.298363
 15744;Kingston Rd at St Clair Ave E;43.721614;-79.23625
 15745;Kingston Rd at St Clair Ave E;43.722191;-79.236115
+2796;Kingston Rd at Swood Dr;43.678753;-79.298363
 4266;Kingston Rd at Victoria Park Ave;43.6809;-79.283931
 4265;Kingston Rd at Victoria Park Ave;43.680713;-79.284309
 3344;Kingston Rd at Victoria Park Ave E Side;43.680773;-79.28358
@@ -4620,15 +4626,15 @@
 4338;Kipling Ave at Mattice Rd;43.646894;-79.537407
 13447;Kipling Ave at Mattice Rd;43.647035;-79.53777
 4340;Kipling Ave at Mount Olive Dr;43.746891;-79.583987
-4342;Kipling Ave at New Toronto St;43.603822;-79.519182
-4341;Kipling Ave at New Toronto St;43.60359;-79.519313
-4343;Kipling Ave at Norseman St;43.631305;-79.530804
-4344;Kipling Ave at Norseman St;43.631617;-79.531213
 4346;Kipling Ave at N Heights Rd;43.66486;-79.545581
 4345;Kipling Ave at N Heights Rd;43.66527;-79.545439
 4347;Kipling Ave at N Queen St;43.624878;-79.528241
 4348;Kipling Ave at N Queen St;43.625356;-79.528651
 15236;Kipling Ave at Ncrest Rd;43.691981;-79.557451
+4342;Kipling Ave at New Toronto St;43.603822;-79.519182
+4341;Kipling Ave at New Toronto St;43.60359;-79.519313
+4343;Kipling Ave at Norseman St;43.631305;-79.530804
+4344;Kipling Ave at Norseman St;43.631617;-79.531213
 4349;Kipling Ave at Nugent Rd;43.690331;-79.556664
 4350;Kipling Ave at Olivewood Rd;43.635401;-79.532553
 4351;Kipling Ave at Olivewood Rd;43.63565;-79.532964
@@ -4807,6 +4813,7 @@
 7915;Laurentide Dr at Silverdale Cres;43.755278;-79.340341
 7916;Laurentide Dr at Tetbury Cres;43.753215;-79.338987
 7917;Laurentide Dr at Three Valleys Dr;43.751768;-79.336782
+9971;Lawrence Ave E / Ridgewood Rd;43.786249;-79.125134
 5229;Lawrence Ave E at Barrymore Rd;43.754129;-79.251669
 5230;Lawrence Ave E at Barrymore Rd;43.754448;-79.251333
 5231;Lawrence Ave E at Bathgate Dr;43.776614;-79.15038
@@ -4829,10 +4836,10 @@
 5238;Lawrence Ave E at Brimley Rd;43.753545;-79.255814
 5240;Lawrence Ave E at Brockley Dr;43.752209;-79.262362
 9930;Lawrence Ave E at Brockley Dr E Side;43.752153;-79.261408
-5242;Lawrence Ave E at Burnview Cres E Side;43.756645;-79.239711
 5241;Lawrence Ave E at Burnview Cres;43.756528;-79.241423
-5243;Lawrence Ave E at Canlish Rd E Side;43.748099;-79.28121
+5242;Lawrence Ave E at Burnview Cres E Side;43.756645;-79.239711
 5244;Lawrence Ave E at Canlish Rd;43.748245;-79.281864
+5243;Lawrence Ave E at Canlish Rd E Side;43.748099;-79.28121
 1221;Lawrence Ave E at Cardinal Pl;43.725917;-79.398686
 5246;Lawrence Ave E at Carnforth Rd;43.741633;-79.314011
 5245;Lawrence Ave E at Carnforth Rd E Side;43.741391;-79.313816
@@ -4864,15 +4871,15 @@
 5275;Lawrence Ave E at Greenland Rd E Side;43.738331;-79.337526
 4418;Lawrence Ave E at Homestead Rd;43.769641;-79.180335
 5276;Lawrence Ave E at Howden Rd;43.746988;-79.287822
-5279;Lawrence Ave E at Kennedy Rd E Side;43.74948;-79.274276
 5280;Lawrence Ave E at Kennedy Rd;43.749508;-79.275633
+5279;Lawrence Ave E at Kennedy Rd E Side;43.74948;-79.274276
 5281;Lawrence Ave E at Kingston Rd;43.767313;-79.190543
 5282;Lawrence Ave E at Kingston Rd;43.767941;-79.188877
 2816;Lawrence Ave E at Leslie St;43.734392;-79.356175
 2815;Lawrence Ave E at Leslie St;43.734608;-79.356821
 4419;Lawrence Ave E at Ling Rd;43.769003;-79.18293
-5284;Lawrence Ave E at Manse Rd E Side;43.770643;-79.175848
 5285;Lawrence Ave E at Manse Rd;43.770564;-79.176953
+5284;Lawrence Ave E at Manse Rd E Side;43.770643;-79.175848
 5286;Lawrence Ave E at Marcos Blvd;43.752704;-79.258639
 9504;Lawrence Ave E at Markham Rd;43.759995;-79.225042
 9503;Lawrence Ave E at Markham Rd;43.759631;-79.225553
@@ -4882,8 +4889,8 @@
 5292;Lawrence Ave E at Meadowvale Rd;43.775359;-79.156006
 5291;Lawrence Ave E at Meadowvale Rd E Side;43.775069;-79.156041
 4422;Lawrence Ave E at Megan Ave;43.771806;-79.170693
-5294;Lawrence Ave E at Midland Ave E Side;43.751579;-79.264207
 5293;Lawrence Ave E at Midland Ave;43.751534;-79.265714
+5294;Lawrence Ave E at Midland Ave E Side;43.751579;-79.264207
 2817;Lawrence Ave E at Mildenhall Rd;43.728507;-79.386361
 9157;Lawrence Ave E at Mildenhall Rd;43.72831;-79.38669
 11185;Lawrence Ave E at Morning Dew Rd;43.772188;-79.169034
@@ -4893,8 +4900,6 @@
 5296;Lawrence Ave E at Mossbank Dr;43.763024;-79.210926
 2819;Lawrence Ave E at Mt Pleasant Rd;43.726022;-79.397414
 1226;Lawrence Ave E at Mt Pleasant Rd;43.726457;-79.396179
-5308;Lawrence Ave E at opp Cedarbrae Mall;43.758785;-79.230855
-9969;Lawrence Ave E at opp Walkway to Ridgewood Rd;43.786215;-79.12498
 5299;Lawrence Ave E at Orton Park Rd;43.763877;-79.205766
 5300;Lawrence Ave E at Orton Park Rd;43.764262;-79.205256
 5302;Lawrence Ave E at Overture Rd;43.765307;-79.199552
@@ -4933,7 +4938,7 @@
 5328;Lawrence Ave E at Victoria Park Ave;43.741897;-79.310081
 5326;Lawrence Ave E at Victoria Park Ave;43.742302;-79.309589
 5327;Lawrence Ave E at Victoria Park Ave E Side;43.742149;-79.309078
-9971;Lawrence Ave E / Ridgewood Rd;43.786249;-79.125134
+4427;Lawrence Ave E at W Hill Dr;43.769932;-79.179771
 1230;Lawrence Ave E at Wanless Cres;43.727662;-79.389692
 1229;Lawrence Ave E at Wanless Cres;43.727816;-79.389722
 1232;Lawrence Ave E at Wanless Cres;43.727365;-79.391895
@@ -4941,11 +4946,12 @@
 5329;Lawrence Ave E at Warden Ave;43.745551;-79.294565
 5330;Lawrence Ave E at Warden Ave;43.745187;-79.295013
 5331;Lawrence Ave E at Wayne Ave;43.744542;-79.297957
-4427;Lawrence Ave E at W Hill Dr;43.769932;-79.179771
 5332;Lawrence Ave E at Wexford Blvd;43.743797;-79.301487
 1233;Lawrence Ave E at Weybourne Cres E Side;43.725694;-79.399003
 5333;Lawrence Ave E at Woodcliff Pl;43.738509;-79.337564
 1235;Lawrence Ave E at Yonge St E Side;43.725036;-79.401814
+5308;Lawrence Ave E at opp Cedarbrae Mall;43.758785;-79.230855
+9969;Lawrence Ave E at opp Walkway to Ridgewood Rd;43.786215;-79.12498
 5334;Lawrence Ave W at Apex Rd;43.713417;-79.458406
 5336;Lawrence Ave W at Avenue Rd;43.722424;-79.41525
 5335;Lawrence Ave W at Avenue Rd;43.722072;-79.415812
@@ -4962,8 +4968,8 @@
 5348;Lawrence Ave W at Brookview Dr;43.718172;-79.434957
 5347;Lawrence Ave W at Brookview Dr;43.717875;-79.43526
 5349;Lawrence Ave W at Brucewood Cres;43.71859;-79.432804
-5350;Lawrence Ave W at Caledonia Rd E Side;43.711461;-79.466099
 5351;Lawrence Ave W at Caledonia Rd;43.711463;-79.467181
+5350;Lawrence Ave W at Caledonia Rd E Side;43.711461;-79.466099
 5352;Lawrence Ave W at Chatsworth Dr;43.723084;-79.41138
 15198;Lawrence Ave W at Corona St;43.714227;-79.452548
 5357;Lawrence Ave W at Culford Rd;43.706494;-79.487529
@@ -5004,8 +5010,8 @@
 5393;Lawrence Ave W at Pimlico Rd;43.707563;-79.482732
 5396;Lawrence Ave W at Pine St;43.702096;-79.508129
 5395;Lawrence Ave W at Pine St;43.701855;-79.508389
-5397;Lawrence Ave W at Ralph St - Won GO;43.701092;-79.511712
 5398;Lawrence Ave W at Ralph St;43.70106;-79.512602
+5397;Lawrence Ave W at Ralph St - Won GO;43.701092;-79.511712
 5392;Lawrence Ave W at Rosewell Ave E Side;43.722684;-79.413216
 5400;Lawrence Ave W at Roxaline St;43.696903;-79.529527
 5399;Lawrence Ave W at Roxaline St;43.696704;-79.529765
@@ -5022,10 +5028,10 @@
 5354;Lawrence Ave W at Via Bagnato;43.71448;-79.452245
 5411;Lawrence Ave W at Welland Rd;43.720066;-79.4263
 5414;Lawrence Ave W at Won Rd;43.699921;-79.516784
-5415;Lawrence Ave W at Won Rd - Won GO;43.700276;-79.516006
 5413;Lawrence Ave W at Won Rd;43.700019;-79.517036
-5418;Lawrence Ave W at Wona St E Side;43.69728;-79.526961
+5415;Lawrence Ave W at Won Rd - Won GO;43.700276;-79.516006
 5417;Lawrence Ave W at Wona St;43.697258;-79.527859
+5418;Lawrence Ave W at Wona St E Side;43.69728;-79.526961
 1236;Lawrence Ave W at Yonge St - Lawrence Station;43.724964;-79.402398
 1234;Lawrence Ave at Yonge St - Lawrence Station;43.725251;-79.401896
 14728;Lawrence E Station;43.750347;-79.270358
@@ -5114,9 +5120,8 @@
 1241;Leslie St at Mosley St;43.659967;-79.328644
 5462;Leslie St at Nymark Ave;43.778404;-79.365502
 5461;Leslie St at Nymark Ave;43.778209;-79.365155
-9162;Leslie St at Old Cummer Ave - Old Cummer GO;43.79403;-79.369088
 5463;Leslie St at Old Cummer Ave;43.794245;-79.368828
-5447;Leslie St at opp Oriole GO;43.767866;-79.363778
+9162;Leslie St at Old Cummer Ave - Old Cummer GO;43.79403;-79.369088
 9161;Leslie St at Oriole GO;43.766821;-79.363566
 5468;Leslie St at Overland Dr;43.729753;-79.353536
 5469;Leslie St at Overland Dr;43.730186;-79.35434
@@ -5126,9 +5131,9 @@
 9166;Leslie St at Sheppard Ave E;43.771985;-79.364326
 5476;Leslie St at Sheppard Ave E;43.771396;-79.363948
 9167;Leslie St at Sheppard Ave E;43.772252;-79.363929
-5478;Leslie St at Swell Dr;43.746257;-79.358382
 5480;Leslie St at Steeles Ave E;43.808146;-79.372255
 5479;Leslie St at Steeles Ave E;43.807738;-79.372397
+5478;Leslie St at Swell Dr;43.746257;-79.358382
 5481;Leslie St at Talwood Dr;43.74077;-79.357205
 5482;Leslie St at Talwood Dr;43.740964;-79.357581
 5484;Leslie St at Talwood Dr;43.738194;-79.356653
@@ -5142,6 +5147,7 @@
 13707;Leslie St at Wicksteed Ave;43.712943;-79.350748
 5492;Leslie St at York Mills Rd;43.75271;-79.359741
 9169;Leslie St at York Mills Rd;43.752553;-79.360065
+5447;Leslie St at opp Oriole GO;43.767866;-79.363778
 14620;Leslie Station;43.77041;-79.367644
 14621;Leslie Station;43.770516;-79.367765
 13848;Leslie Station - Ebound Platform;43.771348;-79.36499
@@ -5152,9 +5158,9 @@
 9777;Lesmill Rd at York Mills Rd;43.754889;-79.352262
 2830;Lesmill Rd at York Mills Rd;43.755081;-79.352084
 14539;Liberty St at Atlantic Ave;43.638372;-79.420366
-10271;Linkwood Lane at opp 5 Shady Golfway;43.717633;-79.326338
 10272;Linkwood Lane at St Dennis Dr;43.71933;-79.327563
 10270;Linkwood Lane at Windy Golfway;43.716262;-79.324953
+10271;Linkwood Lane at opp 5 Shady Golfway;43.717633;-79.326338
 11243;Littles Rd at Birrell Ave;43.817234;-79.204301
 11244;Littles Rd at Birrell Ave;43.817377;-79.204624
 11242;Littles Rd at Grayson Cres;43.815917;-79.202967
@@ -5185,8 +5191,8 @@
 6474;Lower Jarvis St at The Esplanade;43.648078;-79.370754
 9460;Lumsden Ave at Barrington Ave;43.695338;-79.302815
 5521;Lumsden Ave at Barrington Ave E Side;43.695184;-79.303012
-5522;Lumsden Ave at Cedarvale Ave E Side;43.693064;-79.313648
 5523;Lumsden Ave at Cedarvale Ave;43.693168;-79.314397
+5522;Lumsden Ave at Cedarvale Ave E Side;43.693064;-79.313648
 5524;Lumsden Ave at Gledhill Ave;43.693844;-79.310953
 9461;Lumsden Ave at Main St;43.694929;-79.304642
 2851;Lumsden Ave at Main St;43.694746;-79.3049
@@ -5249,19 +5255,20 @@
 4462;Manse Rd at Hainford St;43.768338;-79.175291
 14081;Mantis Rd at Poppy Pl;43.82401;-79.222705
 6537;Maple Ave at Glen Rd E Side;43.674873;-79.375273
+11517;Maple Leaf Dr / 290-300 Queens Dr Apartments;43.709813;-79.502456
+11516;Maple Leaf Dr / 290-300 Queens Dr Apartments;43.709687;-79.502436
 5543;Maple Leaf Dr at Bourdon Ave;43.711288;-79.495864
 5542;Maple Leaf Dr at Bourdon Ave;43.711062;-79.496359
 5544;Maple Leaf Dr at Culford Rd;43.7122;-79.490392
 5545;Maple Leaf Dr at Jane St;43.709365;-79.505335
 5546;Maple Leaf Dr at Liscombe Rd;43.7108;-79.498067
-11517;Maple Leaf Dr / 290-300 Queens Dr Apartments;43.709813;-79.502456
-11516;Maple Leaf Dr / 290-300 Queens Dr Apartments;43.709687;-79.502436
 5548;Maple Leaf Dr at Stella St;43.710329;-79.500126
 5547;Maple Leaf Dr at Stella St;43.710176;-79.500282
 5540;Maple Leaf Dr at Veerland Dr;43.711946;-79.492171
 5549;Maple Leaf Dr at Venice Dr;43.710599;-79.498395
-14544;Marine Parade Dr at Lake Shore Blvd W;43.62998;-79.476401
 10116;Marine Parade Dr Loop at Lake Shore Blvd W;43.622551;-79.480911
+14544;Marine Parade Dr at Lake Shore Blvd W;43.62998;-79.476401
+13638;Markham Rd / Clandfield St;43.859253;-79.256305
 13637;Markham Rd at 14Th Ave;43.856591;-79.255581
 13663;Markham Rd at 14Th Ave;43.856238;-79.255878
 13656;Markham Rd at 16Th Ave;43.892174;-79.264278
@@ -5277,7 +5284,6 @@
 5557;Markham Rd at Cougar Crt;43.744964;-79.219554
 13634;Markham Rd at Denison St;43.844258;-79.252597
 13666;Markham Rd at Denison St;43.844662;-79.253085
-5558;Markham Rd at Epark Blvd;43.755724;-79.224217
 14325;Markham Rd at Edward Jeffreys Ave;43.896388;-79.265252
 14324;Markham Rd at Edward Jeffreys Ave;43.896004;-79.264866
 4466;Markham Rd at Eglinton Ave E;43.74298;-79.21863
@@ -5286,6 +5292,7 @@
 5560;Markham Rd at Ellesmere Rd;43.776664;-79.232023
 13667;Markham Rd at Elson St;43.840837;-79.252183
 13633;Markham Rd at Elson St;43.840339;-79.251667
+5558;Markham Rd at Epark Blvd;43.755724;-79.224217
 5562;Markham Rd at Finch Ave E;43.813201;-79.243361
 9333;Markham Rd at Finch Ave E;43.812817;-79.242767
 13665;Markham Rd at Golden Ave;43.848191;-79.253938
@@ -5314,7 +5321,6 @@
 12603;Markham Rd at Nashdene Rd;43.820127;-79.245947
 13635;Markham Rd at New Delhi Dr;43.847622;-79.253399
 5574;Markham Rd at Nugget Ave;43.79875;-79.241345
-14155;Markham Rd at opp Walkway to Clandfield St;43.859187;-79.256598
 4470;Markham Rd at Orchid Place Dr;43.792995;-79.238548
 5575;Markham Rd at Painted Post Dr;43.76769;-79.228502
 5576;Markham Rd at Painted Post Dr;43.767395;-79.228128
@@ -5348,7 +5354,7 @@
 5585;Markham Rd at Tuxedo Crt;43.77944;-79.232752
 5587;Markham Rd at Verne Cres;43.795761;-79.240146
 5588;Markham Rd at Verne Cres;43.79608;-79.239867
-13638;Markham Rd / Clandfield St;43.859253;-79.256305
+14155;Markham Rd at opp Walkway to Clandfield St;43.859187;-79.256598
 1269;Markland Dr at Bloor St W;43.629667;-79.580248
 1271;Markland Dr at Cherry Post Cres;43.633138;-79.582671
 1272;Markland Dr at Mill Rd;43.636216;-79.580313
@@ -5373,6 +5379,7 @@
 6556;Marlee Ave at Wenderly Dr;43.713142;-79.44558
 6557;Marlee Ave at Whitmore Ave;43.699828;-79.440014
 6558;Marlee Ave at Whitmore Ave;43.700395;-79.440405
+5595;Martin Grove Rd / 308 Silverstone Dr;43.749189;-79.597892
 5589;Martin Grove Rd at Albion Rd;43.742431;-79.594611
 5590;Martin Grove Rd at Albion Rd;43.741497;-79.593786
 5598;Martin Grove Rd at Belfield Rd;43.702095;-79.575866
@@ -5435,7 +5442,6 @@
 5650;Martin Grove Rd at Tollington Rd;43.686679;-79.568781
 5652;Martin Grove Rd at Vulcan St;43.704926;-79.576812
 5651;Martin Grove Rd at Vulcan St;43.70461;-79.576985
-5595;Martin Grove Rd / 308 Silverstone Dr;43.749189;-79.597892
 5654;Martin Grove Rd at Waterbury Dr;43.687841;-79.569309
 5653;Martin Grove Rd at Waterbury Dr;43.687701;-79.568932
 5655;Martin Grove Rd at Whumber Blvd;43.72593;-79.586467
@@ -5452,6 +5458,10 @@
 10241;Maybrook Dr at Newmill Gate;43.825884;-79.261584
 10236;Maybrook Dr at Passmore Ave;43.827861;-79.261674
 10240;Maybrook Dr at Passmore Ave;43.827716;-79.261784
+9800;McCowan Rd / Alanbull Sq;43.819978;-79.272989
+9819;McCowan Rd / Enchanted Hills Cres;43.828786;-79.275376
+9799;McCowan Rd / Historic Ter;43.820193;-79.272839
+15597;McCowan Rd / Snowden Cir - Centennial GO;43.875011;-79.286562
 9808;McCowan Rd Loop at Steeles Ave E;43.832437;-79.275113
 9995;McCowan Rd at 14Th Ave;43.849009;-79.279491
 10012;McCowan Rd at 14Th Ave;43.849399;-79.279883
@@ -5532,24 +5542,22 @@
 1308;McCowan Rd at Milner Ave;43.785961;-79.256495
 9858;McCowan Rd at Nugget Ave;43.792208;-79.260059
 1310;McCowan Rd at Nugget Ave;43.791895;-79.259599
-10653;McCowan Rd at opp Milliken Wells Shopping Ctr;43.825007;-79.274966
-1319;McCowan Rd at opp Woodside Square Mall;43.810168;-79.26781
 15591;McCowan Rd at Percy Reesor St;43.901152;-79.292549
 15592;McCowan Rd at Percy Reesor St;43.900703;-79.292744
 1312;McCowan Rd at Pitfield Rd;43.787486;-79.257514
 1313;McCowan Rd at Progress Ave;43.776643;-79.252857
 10001;McCowan Rd at Raymerville Dr;43.881381;-79.28777
 10435;McCowan Rd at Raymerville Dr;43.876809;-79.286683
+9996;McCowan Rd at S Unionville Ave;43.860711;-79.282728
+10011;McCowan Rd at S Unionville Ave;43.861033;-79.28314
 2873;McCowan Rd at Sandhurst Cir;43.811497;-79.268991
 9367;McCowan Rd at Sandhurst Cir;43.811768;-79.269357
 1316;McCowan Rd at Sandhurst Cir;43.805288;-79.265506
 1315;McCowan Rd at Sandhurst Cir;43.804979;-79.265073
-1318;McCowan Rd at Sheppard Ave E;43.789787;-79.259086
-1317;McCowan Rd at Sheppard Ave E;43.789465;-79.258561
-9996;McCowan Rd at S Unionville Ave;43.860711;-79.282728
-10011;McCowan Rd at S Unionville Ave;43.861033;-79.28314
 14238;McCowan Rd at Sdale Dr;43.865443;-79.283954
 14310;McCowan Rd at Sdale Dr;43.86503;-79.284087
+1318;McCowan Rd at Sheppard Ave E;43.789787;-79.259086
+1317;McCowan Rd at Sheppard Ave E;43.789465;-79.258561
 5677;McCowan Rd at St Andrews Rd;43.760033;-79.246706
 5678;McCowan Rd at St Andrews Rd;43.760142;-79.247004
 10576;McCowan Rd at Steeles Ave E;43.830834;-79.274962
@@ -5560,12 +5568,10 @@
 13520;McCowan Rd at Trail Ridge Lane;43.88733;-79.289261
 13530;McCowan Rd at Trail Ridge Lane;43.88768;-79.289637
 9623;McCowan Rd at Triton Rd;43.775532;-79.252861
-15597;McCowan Rd / Snowden Cir - Centennial GO;43.875011;-79.286562
-9800;McCowan Rd / Alanbull Sq;43.819978;-79.272989
-9819;McCowan Rd / Enchanted Hills Cres;43.828786;-79.275376
-9799;McCowan Rd / Historic Ter;43.820193;-79.272839
 14158;McCowan Rd at Wilfred Murison Ave;43.890421;-79.289968
 14159;McCowan Rd at Wilfred Murison Ave;43.89081;-79.290506
+10653;McCowan Rd at opp Milliken Wells Shopping Ctr;43.825007;-79.274966
+1319;McCowan Rd at opp Woodside Square Mall;43.810168;-79.26781
 13721;McCowan Station - Platform;43.77496;-79.251111
 13722;McCowan Station - Wbound Platform;43.774882;-79.251654
 958;McLevin Ave at Empringham Dr;43.809833;-79.210504
@@ -5581,6 +5587,7 @@
 9589;McLevin Ave at Sewells Rd;43.81057;-79.214683
 9574;McLevin Ave at Tapscott Rd;43.80495;-79.226855
 9593;McLevin Ave at Tapscott Rd;43.804911;-79.227198
+2908;McNicoll Ave / Hawkshead Cres;43.808082;-79.313863
 2877;McNicoll Ave at Bedle Ave;43.799485;-79.35716
 2876;McNicoll Ave at Bedle Ave;43.799662;-79.356975
 2879;McNicoll Ave at Birchmount Rd;43.808458;-79.311412
@@ -5624,7 +5631,6 @@
 11073;McNicoll Ave at Morbank Dr;43.809319;-79.308617
 2897;McNicoll Ave at Myers Lane;43.802859;-79.368176
 2898;McNicoll Ave at Myers Lane;43.803048;-79.367798
-2907;McNicoll Ave at opp Walkway to Hawkshead Cres;43.807964;-79.313688
 2901;McNicoll Ave at Pharmacy Ave;43.804256;-79.330498
 2900;McNicoll Ave at Pharmacy Ave;43.80393;-79.331097
 2902;McNicoll Ave at Picola Crt;43.801676;-79.348388
@@ -5638,13 +5644,13 @@
 14116;McNicoll Ave at Stonebridge Blvd;43.80556;-79.324084
 6562;McNicoll Ave at Tiffield Rd E Side;43.820863;-79.259952
 9179;McNicoll Ave at Victoria Park Ave;43.803924;-79.336632
-2905;McNicoll Ave at Victoria Park Ave E Side;43.804215;-79.335379
 2904;McNicoll Ave at Victoria Park Ave;43.804006;-79.336971
-2908;McNicoll Ave / Hawkshead Cres;43.808082;-79.313863
+2905;McNicoll Ave at Victoria Park Ave E Side;43.804215;-79.335379
 2909;McNicoll Ave at Warden Ave;43.80617;-79.321258
 2910;McNicoll Ave at Warden Ave;43.806495;-79.320661
 12050;McNicoll Ave at White Heather Blvd;43.819032;-79.267387
 12025;McNicoll Ave at White Heather Blvd;43.818827;-79.267586
+2907;McNicoll Ave at opp Walkway to Hawkshead Cres;43.807964;-79.313688
 7959;McRae Dr at Laird Dr;43.71;-79.363684
 7960;McRae Dr at Laird Dr;43.710017;-79.363889
 7962;McRae Dr at Rumsey Rd;43.707391;-79.367245
@@ -5672,6 +5678,7 @@
 11628;Michael Power / St Joseph H.S.;43.659476;-79.582965
 11627;Michael Power / St Joseph H.S.;43.659289;-79.582873
 11629;Michael Power / St Joseph H.S.;43.65916;-79.58283
+6600;Middlefield Rd / Buckhurst Cres;43.805348;-79.254808
 10920;Middlefield Rd Loop at Steeles Ave E;43.835135;-79.268277
 6581;Middlefield Rd at Arbor Low Gate;43.811951;-79.258687
 15539;Middlefield Rd at Arbor Low Gate;43.81158;-79.258298
@@ -5687,8 +5694,6 @@
 6589;Middlefield Rd at Nashdene Rd;43.817581;-79.260909
 10243;Middlefield Rd at Newmill Gate;43.825134;-79.264109
 10238;Middlefield Rd at Newmill Gate;43.824777;-79.263728
-6601;Middlefield Rd at opp Walkway to Buckhurst Cres;43.805305;-79.254551
-6599;Middlefield Rd at opp Walkway to Bushcroft Grove;43.799133;-79.260164
 6593;Middlefield Rd at Orator Gate;43.808041;-79.256466
 13896;Middlefield Rd at Orator Gate;43.808245;-79.256455
 10239;Middlefield Rd at Passmore Ave;43.827006;-79.264802
@@ -5702,7 +5707,8 @@
 11605;Middlefield Rd at Steeles Ave E;43.832509;-79.267626
 10923;Middlefield Rd at Steeles Ave E;43.832957;-79.268141
 10921;Middlefield Rd at Steeles Ave E;43.833459;-79.267992
-6600;Middlefield Rd / Buckhurst Cres;43.805348;-79.254808
+6601;Middlefield Rd at opp Walkway to Buckhurst Cres;43.805305;-79.254551
+6599;Middlefield Rd at opp Walkway to Bushcroft Grove;43.799133;-79.260164
 5680;Midland Ave at Artillery St;43.818006;-79.293639
 5681;Midland Ave at Artillery St;43.818293;-79.294015
 1323;Midland Ave at Aylesworth Ave;43.714067;-79.249318
@@ -5763,12 +5769,12 @@
 5737;Midland Ave at Romulus Dr;43.746772;-79.263388
 5739;Midland Ave at Rural Ave;43.787285;-79.279459
 5738;Midland Ave at Rural Ave;43.787473;-79.279241
+5744;Midland Ave at S Shields Ave;43.806921;-79.288598
 2915;Midland Ave at Safari St;43.731156;-79.256788
 5740;Midland Ave at Salome Dr;43.781639;-79.276398
 5741;Midland Ave at Sheppard Ave E;43.785521;-79.278841
 5742;Midland Ave at Sheppard Ave E;43.785192;-79.278303
 5743;Midland Ave at Silver Star Blvd;43.807163;-79.288962
-5744;Midland Ave at S Shields Ave;43.806921;-79.288598
 1329;Midland Ave at St Clair Ave E;43.718432;-79.251018
 2917;Midland Ave at St Clair Ave E;43.71904;-79.251614
 1330;Midland Ave at St Clair Ave E;43.719303;-79.251364
@@ -5867,6 +5873,8 @@
 5761;Morning Star Dr at Netherwood Rd;43.715993;-79.645872
 5764;Morning Star Dr at Reindeer Dr;43.714642;-79.646501
 5763;Morning Star Dr at Reindeer Dr;43.714132;-79.646964
+2971;Morningside Ave / McKnight Dr;43.810596;-79.203704
+14104;Morningside Ave / Raponi Cir;43.826549;-79.232874
 2935;Morningside Ave at Casebridge Crt;43.808784;-79.202489
 10947;Morningside Ave at Casebridge Crt;43.809256;-79.20275
 14327;Morningside Ave at Cinemart Dr;43.797707;-79.197446
@@ -5907,7 +5915,6 @@
 14969;Morningside Ave at Nightstar Rd;43.822569;-79.229635
 9500;Morningside Ave at Old Finch Ave;43.81882;-79.21536
 14555;Morningside Ave at Old Finch Ave;43.818701;-79.214714
-2962;Morningside Ave at opp Morningside Park;43.780882;-79.19135
 16256;Morningside Ave at Passmore Ave;43.833489;-79.241136
 16252;Morningside Ave at Passmore Ave - Amazon Fulfillment Ctr;43.835793;-79.242093
 2964;Morningside Ave at Pixley Cres;43.760016;-79.182665
@@ -5923,9 +5930,8 @@
 2961;Morningside Ave at Tams Rd;43.792159;-79.195743
 2969;Morningside Ave at Tefft Rd;43.772819;-79.18794
 2968;Morningside Ave at Tefft Rd;43.772365;-79.187508
-2971;Morningside Ave / McKnight Dr;43.810596;-79.203704
-14104;Morningside Ave / Raponi Cir;43.826549;-79.232874
 6608;Morningside Ave at Windermere Ave;43.644998;-79.478178
+2962;Morningside Ave at opp Morningside Park;43.780882;-79.19135
 11241;Morningview Trail at Gennela Sq;43.814468;-79.202932
 13329;Morningview Trail at Littles Rd;43.814615;-79.202266
 13324;Morningview Trail at Old Finch Ave;43.821842;-79.201705
@@ -6032,6 +6038,8 @@
 13826;Museum Station - Sbound Platform;43.665949;-79.392989
 10826;Nashdene Rd at Markham Rd;43.820098;-79.247102
 9908;Neilson Ave at Crow Trail;43.812755;-79.225784
+1371;Neilson Rd / Blackwater Cres & Kessack Crt;43.799867;-79.218453
+1385;Neilson Rd / Blackwater Cres & Kessack Crt;43.799907;-79.218183
 1373;Neilson Rd at Berner Trail;43.802292;-79.217834
 1375;Neilson Rd at Crow Trail;43.812353;-79.225946
 1379;Neilson Rd at Ellesmere Rd;43.782798;-79.205156
@@ -6052,7 +6060,6 @@
 1392;Neilson Rd at Oakmeadow Blvd;43.791189;-79.213692
 1393;Neilson Rd at Oakmeadow Blvd;43.791116;-79.213303
 9426;Neilson Rd at Oakmeadow Blvd;43.79014;-79.211951
-1371;Neilson Rd / Blackwater Cres & Kessack Crt;43.799867;-79.218453
 1394;Neilson Rd at Purpledusk Trail;43.785235;-79.20626
 1399;Neilson Rd at Sewells Rd;43.806417;-79.218347
 1400;Neilson Rd at Sheppard Ave E;43.797971;-79.217375
@@ -6060,7 +6067,6 @@
 1403;Neilson Rd at Silverbell Grove;43.804102;-79.217064
 1402;Neilson Rd at Silverbell Grove;43.804009;-79.217316
 1404;Neilson Rd at Tapscott Rd;43.806674;-79.218959
-1385;Neilson Rd / Blackwater Cres & Kessack Crt;43.799907;-79.218183
 9983;Neilson Rd at Wickson Trail;43.801842;-79.217723
 6613;Neptune Dr at Bathurst St;43.731285;-79.4334
 6618;Neptune Dr at Rajah St;43.732085;-79.438452
@@ -6079,11 +6085,11 @@
 11739;Ninth St at Birmingham St;43.602332;-79.508392
 7995;Norelco Dr at Fenmar Dr;43.760173;-79.532773
 7996;Norelco Dr at Ormont Dr;43.767357;-79.534477
+5868;Norfinch Dr / Shoreham Dr;43.766445;-79.530388
 9180;Norfinch Dr at Finch Ave W;43.756148;-79.52451
 9181;Norfinch Dr at Finch Ave W;43.756568;-79.524486
 5867;Norfinch Dr at Steeles Ave W;43.772864;-79.531451
 9184;Norfinch Dr at Steeles Ave W;43.772811;-79.531686
-5868;Norfinch Dr / Shoreham Dr;43.766445;-79.530388
 15602;North Park Plaza (Walmart);43.709155;-79.474315
 9510;North Queen St at Atomic Ave;43.621833;-79.543026
 9511;North Queen St at Atomic Ave;43.622082;-79.542704
@@ -6125,8 +6131,8 @@
 1406;O'Connor Dr at Athlone Rd;43.696118;-79.337377
 1407;O'Connor Dr at Beechwood Dr;43.692737;-79.353065
 5920;O'Connor Dr at Bermondsey Rd;43.712699;-79.307406
-5921;O'Connor Dr at Binswood Ave E Side;43.698573;-79.325163
 5922;O'Connor Dr at Binswood Ave;43.698634;-79.325691
+5921;O'Connor Dr at Binswood Ave E Side;43.698573;-79.325163
 1408;O'Connor Dr at Chilton Rd;43.693731;-79.347312
 1409;O'Connor Dr at Coxwell Ave;43.697612;-79.329696
 5923;O'Connor Dr at Cranborne Ave;43.723135;-79.302819
@@ -6436,8 +6442,8 @@
 15298;Ossington Station;43.662347;-79.426249
 13764;Ossington Station - Ebound Platform;43.662349;-79.42609
 13763;Ossington Station - Wbound Platform;43.662049;-79.42789
-9746;Overland Dr at Paperbirch Dr E Side;43.732411;-79.347731
 9745;Overland Dr at Paperbirch Dr;43.732375;-79.349513
+9746;Overland Dr at Paperbirch Dr E Side;43.732411;-79.347731
 2978;Overlea Blvd at Don Mills Rd;43.709806;-79.335392
 2988;Overlea Blvd at E York Town Ctr (East Side);43.706974;-79.345216
 12127;Overlea Blvd at Leaside Park Dr;43.703546;-79.351559
@@ -6525,8 +6531,8 @@
 11786;Parkside Dr at The Queensway;43.639998;-79.454301
 11773;Parkside Dr at The Queensway;43.639879;-79.45406
 8017;Parkview Hill Cres at Alder Rd;43.703778;-79.325212
-8018;Parkview Hill Cres at Aspen Ave E Side;43.704395;-79.328255
 8019;Parkview Hill Cres at Aspen Ave;43.703603;-79.328292
+8018;Parkview Hill Cres at Aspen Ave E Side;43.704395;-79.328255
 8020;Parkview Hill Cres at Elswick Rd;43.704685;-79.323105
 8021;Parkview Hill Cres at Hackberry St;43.705517;-79.32554
 8023;Parkview Hill Cres at Woodbine Heights Blvd;43.704508;-79.320606
@@ -6585,6 +6591,8 @@
 4529;Petrolia Rd at Steeles Ave W;43.781756;-79.489815
 4530;Petrolia Rd at Wildcat Rd;43.778354;-79.488489
 15623;Petrolia Rd at Wildcat Rd;43.778096;-79.488271
+9440;Pharmacy Ave / Crayford Dr;43.813989;-79.335042
+6762;Pharmacy Ave / Ecclesfield Dr;43.809041;-79.332875
 6658;Pharmacy Ave at Albion Ave;43.695701;-79.284922
 6659;Pharmacy Ave at Alvinston Rd;43.723908;-79.296781
 6661;Pharmacy Ave at Arnall Ave;43.807108;-79.331997
@@ -6647,8 +6655,6 @@
 6726;Pharmacy Ave at McNicoll Ave;43.803881;-79.330511
 6727;Pharmacy Ave at McNicoll Ave;43.804315;-79.330941
 6729;Pharmacy Ave at Nancy Ave;43.706253;-79.289249
-6763;Pharmacy Ave at opp Walkway to Crayford Dr;43.813902;-79.335235
-6733;Pharmacy Ave at opp Walkway to Ecclesfield Dr;43.808885;-79.333027
 6735;Pharmacy Ave at Pachino Blvd;43.763108;-79.311847
 6734;Pharmacy Ave at Pachino Blvd;43.762974;-79.311959
 6736;Pharmacy Ave at Penaire St;43.702653;-79.287703
@@ -6678,8 +6684,8 @@
 6758;Pharmacy Ave at Surrey Ave;43.737276;-79.302117
 6760;Pharmacy Ave at Teesdale Place;43.696843;-79.285207
 6761;Pharmacy Ave at Teesdale Place;43.697134;-79.285559
-9440;Pharmacy Ave / Crayford Dr;43.813989;-79.335042
-6762;Pharmacy Ave / Ecclesfield Dr;43.809041;-79.332875
+6763;Pharmacy Ave at opp Walkway to Crayford Dr;43.813902;-79.335235
+6733;Pharmacy Ave at opp Walkway to Ecclesfield Dr;43.808885;-79.333027
 3021;Pine St at Lawrence Ave W;43.701353;-79.507916
 15572;Pioneer Village Station;43.776747;-79.509208
 15573;Pioneer Village Station;43.776806;-79.509408
@@ -6747,15 +6753,14 @@
 6006;Progress Ave at Estate Dr;43.781041;-79.23775
 4547;Progress Ave at Estate Dr E Side;43.781324;-79.23551
 11998;Progress Ave at Kennedy Rd E Side;43.769509;-79.281508
-11364;Progress Ave at Markham Rd E Side;43.781933;-79.233259
 6005;Progress Ave at Markham Rd;43.781656;-79.234801
+11364;Progress Ave at Markham Rd E Side;43.781933;-79.233259
 4554;Progress Ave at Midland Ave;43.772768;-79.273338
 4555;Progress Ave at Midland Ave;43.773126;-79.272691
 12057;Progress Ave at Milner Ave;43.790487;-79.234372
 12052;Progress Ave at Milner Ave;43.789947;-79.23395
 12051;Progress Ave at Milner Business Crt;43.78833;-79.233194
 12058;Progress Ave at Milner Business Crt;43.788208;-79.233484
-6008;Progress Ave at opp Roadway to Centennial College;43.783468;-79.231974
 4556;Progress Ave at Production Dr;43.780615;-79.238949
 6007;Progress Ave at Roadway to Centennial College;43.783526;-79.231618
 12056;Progress Ave at Rosebank Dr;43.792455;-79.234239
@@ -6766,6 +6771,7 @@
 12055;Progress Ave at Sheppard Ave E;43.794213;-79.234918
 4532;Progress Ave at William Kitchen Rd;43.769923;-79.279404
 4531;Progress Ave at William Kitchen Rd;43.770157;-79.27927
+6008;Progress Ave at opp Roadway to Centennial College;43.783468;-79.231974
 11928;Promenade Bus Terminal at Promenade Cir;43.809255;-79.454201
 11927;Promenade Cir at E Promenade;43.807581;-79.450171
 11635;Queen Elizabeth Hospital at 130 Dunn Ave;43.635202;-79.432965
@@ -6896,14 +6902,14 @@
 13823;Queen's Park Station - Sbound Platform;43.659249;-79.390289
 1458;Queen's Park at Charles St W - Museum Station;43.667095;-79.393602
 1456;Queen's Park at Charles St W - Museum Station;43.667603;-79.393512
+12039;Queen's Plate Dr W at Janda Crt;43.722865;-79.601188
 12041;Queen's Plate Dr at Harness Rd;43.720175;-79.594413
+12040;Queen's Plate Dr at Highway 27;43.722629;-79.598612
+12037;Queen's Plate Dr at Highway 27;43.722879;-79.597436
 12038;Queen's Plate Dr at Janda Crt;43.723155;-79.600731
 9670;Queen's Plate Dr at Rexdale Blvd;43.719441;-79.603448
 12132;Queen's Plate Dr at Rexdale Blvd;43.719322;-79.603233
 13485;Queen's Plate Dr at Triple Crown Ave;43.722703;-79.602657
-12039;Queen's Plate Dr W at Janda Crt;43.722865;-79.601188
-12040;Queen's Plate Dr at Highway 27;43.722629;-79.598612
-12037;Queen's Plate Dr at Highway 27;43.722879;-79.597436
 15514;Queens Quay E at Dockside Dr;43.644968;-79.365675
 1466;Queens Quay E at Freeland St;43.642619;-79.372942
 15087;Queens Quay E at Freeland St;43.642357;-79.373211
@@ -6915,24 +6921,24 @@
 10927;Queens Quay Loop at Lower Spadina Ave;43.638419;-79.39184
 13371;Queens Quay W at Bathurst St / Billy Bishop Airport;43.636048;-79.397767
 1465;Queens Quay W at Bay St E Side;43.641548;-79.375474
-13369;Queens Quay W at Dan Leckie Way E Side;43.636798;-79.396172
 13367;Queens Quay W at Dan Leckie Way;43.636492;-79.397299
+13369;Queens Quay W at Dan Leckie Way E Side;43.636798;-79.396172
 15332;Queens Quay W at Harbourfront Ctr;43.639613;-79.381765
 15333;Queens Quay W at Harbourfront Ctr;43.639782;-79.381319
-13131;Queens Quay W at Lower Spadina Ave E Side;43.637757;-79.391176
 13370;Queens Quay W at Lower Spadina Ave;43.637528;-79.392624
+13131;Queens Quay W at Lower Spadina Ave E Side;43.637757;-79.391176
 15331;Queens Quay W at Rees St;43.638746;-79.386798
 6864;Queens Quay W at Rees St;43.63876;-79.387157
 10945;Queens Quay/Ferry Docks Station;43.641806;-79.377186
 10946;Queens Quay/Ferry Docks Station;43.641422;-79.377093
 11247;Raab Blvd at Hospital Rd(K & L Wings);43.722578;-79.376201
 11248;Raab Blvd at Hospital Rd(K & L Wings);43.72264;-79.375956
+8051;Railside Rd at Codeco Crt;43.736069;-79.327139
+8052;Railside Rd at Codeco Crt E Side;43.735749;-79.327083
 8057;Railside Rd at Lawrence Ave E;43.740842;-79.319131
 8056;Railside Rd at Lawrence Ave E;43.740663;-79.319361
 8055;Railside Rd at Lawrence Ave E;43.740558;-79.324491
 8059;Railside Rd at Lawrence Ave E;43.740203;-79.324615
-8052;Railside Rd at Codeco Crt E Side;43.735749;-79.327083
-8051;Railside Rd at Codeco Crt;43.736069;-79.327139
 6927;Ranee Ave at Ameer Ave;43.725147;-79.439662
 6932;Ranee Ave at Flemington Rd - Yorkdale Station;43.723464;-79.448054
 6929;Ranee Ave at Mikado Ave;43.724612;-79.442678
@@ -6966,8 +6972,8 @@
 1497;Rathburn Rd at Remington Dr;43.660612;-79.539257
 1499;Rathburn Rd at Renforth Dr;43.651221;-79.579698
 1498;Rathburn Rd at Renforth Dr;43.651448;-79.579936
-1472;Rathburn Rd at The E Mall E Side;43.655001;-79.563677
 1473;Rathburn Rd at The E Mall;43.654977;-79.564857
+1472;Rathburn Rd at The E Mall E Side;43.655001;-79.563677
 1505;Rathburn Rd at The W Mall;43.653248;-79.572307
 1504;Rathburn Rd at The W Mall;43.652839;-79.57279
 1502;Rathburn Rd at The Wynd;43.660935;-79.538389
@@ -7104,11 +7110,11 @@
 7011;Royal York Rd at Melrose St;43.6198;-79.499772
 7010;Royal York Rd at Melrose St;43.61992;-79.50002
 7013;Royal York Rd at Mimico Ave;43.612353;-79.496884
+7018;Royal York Rd at N Dr;43.677231;-79.524277
 7015;Royal York Rd at Newcastle St;43.617438;-79.498765
 7014;Royal York Rd at Newcastle St;43.616909;-79.498777
 7017;Royal York Rd at Norseman St;43.637251;-79.507323
 7016;Royal York Rd at Norseman St;43.637372;-79.50708
-7018;Royal York Rd at N Dr;43.677231;-79.524277
 7019;Royal York Rd at Oakfield Dr;43.632858;-79.505253
 7029;Royal York Rd at Renault Cres;43.686157;-79.52813
 7024;Royal York Rd at Romney Rd;43.669159;-79.520846
@@ -7313,10 +7319,15 @@
 9867;Sheffield St at Densley Ave;43.704666;-79.470556
 9866;Sheffield St at Hafis Rd;43.706257;-79.47105
 9875;Sheffield St at Hafis Rd;43.706261;-79.470895
+7133;Sheppard Ave E / Burrows Hall Blvd;43.796945;-79.222996
+7138;Sheppard Ave E / Howell Sq;43.797075;-79.22322
+7135;Sheppard Ave E / Hutcherson Sq;43.797687;-79.220076
+13901;Sheppard Ave E / Murison Blvd;43.801068;-79.203406
+7134;Sheppard Ave E / Winstanly Cres;43.799917;-79.210176
 7162;Sheppard Ave E at Abbotsfield Gate;43.777372;-79.314502
 7139;Sheppard Ave E at Abbotsfield Gate;43.777024;-79.314849
-7141;Sheppard Ave E at Allanford Rd E Side;43.782105;-79.292879
 7142;Sheppard Ave E at Allanford Rd;43.782148;-79.293818
+7141;Sheppard Ave E at Allanford Rd E Side;43.782105;-79.292879
 7143;Sheppard Ave E at Ambrose Rd;43.770526;-79.371147
 7145;Sheppard Ave E at Amethyst Rd;43.780679;-79.30024
 7144;Sheppard Ave E at Amethyst Rd;43.780363;-79.300493
@@ -7381,7 +7392,7 @@
 1539;Sheppard Ave E at Kenneth Ave;43.762924;-79.405138
 7199;Sheppard Ave E at Kingston Rd;43.799271;-79.146963
 7198;Sheppard Ave E at Kingston Rd;43.799459;-79.146775
-14974;Sheppard Ave E at Lamont Ave;43.785000;-79.280872
+14974;Sheppard Ave E at Lamont Ave;43.785;-79.280872
 15017;Sheppard Ave E at Lamont Ave E Side;43.784726;-79.280985
 7202;Sheppard Ave E at Lapsley Rd E Side;43.796173;-79.226955
 1540;Sheppard Ave E at Leona Dr;43.762778;-79.404772
@@ -7395,32 +7406,29 @@
 7206;Sheppard Ave E at Markham Rd;43.793616;-79.239385
 7207;Sheppard Ave E at Markham Rd;43.794017;-79.238525
 9859;Sheppard Ave E at Markham Rd;43.793838;-79.239638
-15732;Sheppard Ave E at Massie St E Side;43.792516;-79.244755
 7208;Sheppard Ave E at Massie St;43.792506;-79.245714
+15732;Sheppard Ave E at Massie St E Side;43.792516;-79.244755
 7211;Sheppard Ave E at McCowan Rd;43.789822;-79.258623
 7210;Sheppard Ave E at McCowan Rd;43.789452;-79.25905
 11669;Sheppard Ave E at Meadowvale Rd;43.80818;-79.171104
 7213;Sheppard Ave E at Meadowvale Rd;43.808525;-79.170563
-7212;Sheppard Ave E at Meadowvale Rd E Side;43.808442;-79.169871
 11670;Sheppard Ave E at Meadowvale Rd;43.808291;-79.171598
+7212;Sheppard Ave E at Meadowvale Rd E Side;43.808442;-79.169871
 7218;Sheppard Ave E at Midland Ave;43.785496;-79.278393
 7217;Sheppard Ave E at Midland Ave;43.78511;-79.279041
 15244;Sheppard Ave E at Midland Ave;43.78523;-79.279671
 7219;Sheppard Ave E at Morningside Ave;43.801751;-79.200009
 9319;Sheppard Ave E at Morningside Ave;43.801976;-79.200526
-7221;Sheppard Ave E at Murison Blvd E Side;43.799156;-79.212357
 7137;Sheppard Ave E at Murison Blvd;43.798969;-79.214298
+7221;Sheppard Ave E at Murison Blvd E Side;43.799156;-79.212357
 7223;Sheppard Ave E at Neilson Rd;43.798313;-79.217426
 7222;Sheppard Ave E at Neilson Rd;43.797935;-79.21787
-7242;Sheppard Ave E at Old Leslie St - Leslie Station;43.771198;-79.366681
 7243;Sheppard Ave E at Old Leslie St;43.771525;-79.366549
-7136;Sheppard Ave E at opp Walkway to Hutcherson Sq;43.797514;-79.220056
-13902;Sheppard Ave E at opp Walkway to Murison Blvd;43.801275;-79.20352
-7253;Sheppard Ave E at opp Walkway to Winstanly Cres;43.799679;-79.210016
+7242;Sheppard Ave E at Old Leslie St - Leslie Station;43.771198;-79.366681
 7225;Sheppard Ave E at Palmdale Dr;43.778058;-79.311338
 7224;Sheppard Ave E at Palmdale Dr;43.77783;-79.311293
-13705;Sheppard Ave E at Parkway Forest Dr E Side;43.775897;-79.342662
 7226;Sheppard Ave E at Parkway Forest Dr;43.775632;-79.34516
+13705;Sheppard Ave E at Parkway Forest Dr E Side;43.775897;-79.342662
 7228;Sheppard Ave E at Pharmacy Ave;43.776351;-79.31788
 7229;Sheppard Ave E at Pharmacy Ave;43.776681;-79.317566
 4591;Sheppard Ave E at Progress Ave;43.794491;-79.235159
@@ -7446,13 +7454,8 @@
 9813;Sheppard Ave E at Vandorf St;43.803066;-79.155492
 7250;Sheppard Ave E at Victoria Park Ave;43.775039;-79.323295
 7251;Sheppard Ave E at Victoria Park Ave;43.775457;-79.322733
-13918;Sheppard Ave E at Victoria Park Ave E Side;43.775286;-79.322236
 9513;Sheppard Ave E at Victoria Park Ave;43.775213;-79.323709
-7133;Sheppard Ave E / Burrows Hall Blvd;43.796945;-79.222996
-7138;Sheppard Ave E / Howell Sq;43.797075;-79.22322
-7135;Sheppard Ave E / Hutcherson Sq;43.797687;-79.220076
-13901;Sheppard Ave E / Murison Blvd;43.801068;-79.203406
-7134;Sheppard Ave E / Winstanly Cres;43.799917;-79.210176
+13918;Sheppard Ave E at Victoria Park Ave E Side;43.775286;-79.322236
 7254;Sheppard Ave E at Warden Ave;43.778548;-79.30811
 7255;Sheppard Ave E at Warden Ave;43.778938;-79.307608
 7256;Sheppard Ave E at Washburn Way;43.796344;-79.227343
@@ -7462,6 +7465,10 @@
 1544;Sheppard Ave E at Willowdale Ave;43.763809;-79.399985
 1545;Sheppard Ave E at Willowdale Ave;43.76413;-79.399503
 8093;Sheppard Ave E at Yonge St E Side;43.761625;-79.409843
+7136;Sheppard Ave E at opp Walkway to Hutcherson Sq;43.797514;-79.220056
+13902;Sheppard Ave E at opp Walkway to Murison Blvd;43.801275;-79.20352
+7253;Sheppard Ave E at opp Walkway to Winstanly Cres;43.799679;-79.210016
+13437;Sheppard Ave W / Norman Wesley Way;43.744142;-79.489186
 15386;Sheppard Ave W at Abraham Welsh Rd E Side;43.7347;-79.533297
 6058;Sheppard Ave W at Arleta Ave;43.741662;-79.501303
 6060;Sheppard Ave W at Arrow Rd;43.735485;-79.529638
@@ -7471,8 +7478,8 @@
 7262;Sheppard Ave W at Banting Ave;43.751162;-79.459386
 7265;Sheppard Ave W at Bathurst St;43.7556;-79.437993
 7263;Sheppard Ave W at Bathurst St;43.755315;-79.438927
-7264;Sheppard Ave W at Bathurst St E Side;43.755396;-79.437829
 7266;Sheppard Ave W at Bathurst St;43.755487;-79.439308
+7264;Sheppard Ave W at Bathurst St E Side;43.755396;-79.437829
 15433;Sheppard Ave W at Beecroft Rd;43.760839;-79.413489
 12192;Sheppard Ave W at Beecroft Rd;43.760978;-79.413797
 7269;Sheppard Ave W at Brentwood Ave;43.758338;-79.425494
@@ -7520,14 +7527,13 @@
 6089;Sheppard Ave W at Tuscan Gate;43.75246;-79.482684
 3113;Sheppard Ave W at Tuscan Gate;43.752994;-79.482768
 15631;Sheppard Ave W at Vitti St - Downsview Park Station;43.754173;-79.480489
-13437;Sheppard Ave W / Norman Wesley Way;43.744142;-79.489186
-6091;Sheppard Ave W at Won Rd;43.733919;-79.537904
 15435;Sheppard Ave W at William R Allen Rd;43.750035;-79.463663
 4598;Sheppard Ave W at William R Allen Rd;43.750252;-79.463904
 7298;Sheppard Ave W at Wilmington Ave;43.752815;-79.451879
 7299;Sheppard Ave W at Wilson Heights Blvd;43.751438;-79.457028
 7300;Sheppard Ave W at Wilson Heights Blvd;43.751824;-79.45659
 3114;Sheppard Ave W at Wilson Heights Blvd E Side;43.751748;-79.4556
+6091;Sheppard Ave W at Won Rd;43.733919;-79.537904
 6092;Sheppard Ave W at Yatescastle Dr;43.740433;-79.506722
 7304;Sheppard Ave W at Yeomans Rd E Side;43.754366;-79.443496
 15458;Sheppard Ave W at Yonge St;43.761506;-79.41155
@@ -7587,9 +7593,9 @@
 15620;Shoreham Dr at Shoreham Crt;43.769161;-79.51926
 9244;Shorncliffe Ave at Lockport Ave;43.627616;-79.542736
 9235;Shorncliffe Ave at Lockport Ave;43.62761;-79.54294
+9237;Shorncliffe Ave at N Queen St;43.622732;-79.540842
 9243;Shorncliffe Ave at Newbridge Rd;43.625836;-79.541965
 9236;Shorncliffe Ave at Newbridge Rd;43.625815;-79.542173
-9237;Shorncliffe Ave at N Queen St;43.622732;-79.540842
 9245;Shorncliffe Rd at Dundas St W;43.631979;-79.544419
 9234;Shorncliffe Rd at Dundas St W;43.631702;-79.544524
 9242;Shorncliffe Rd at N Queen St;43.623031;-79.540769
@@ -7698,8 +7704,8 @@
 15598;St Basil The Great College School;43.726819;-79.533818
 1552;St Clair Ave E at Andrew Ave;43.720079;-79.244714
 1553;St Clair Ave E at Andrew Ave;43.720304;-79.24451
-6103;St Clair Ave E at Birchmount Rd E Side;43.714182;-79.270532
 1554;St Clair Ave E at Birchmount Rd;43.714145;-79.271838
+6103;St Clair Ave E at Birchmount Rd E Side;43.714182;-79.270532
 4622;St Clair Ave E at Brimley Rd;43.720746;-79.241603
 1555;St Clair Ave E at Brimley Rd;43.720854;-79.241966
 10686;St Clair Ave E at Clifton Rd;43.690041;-79.384484
@@ -7738,8 +7744,8 @@
 4628;St Clair Ave E at N Woodrow Blvd;43.715113;-79.266834
 6122;St Clair Ave E at O'Connor Dr;43.705767;-79.311704
 10715;St Clair Ave E at O'Connor Dr E Side;43.705462;-79.312134
-6123;St Clair Ave E at Pharmacy Ave E Side;43.709822;-79.290466
 6135;St Clair Ave E at Pharmacy Ave;43.709892;-79.291396
+6123;St Clair Ave E at Pharmacy Ave E Side;43.709822;-79.290466
 3120;St Clair Ave E at Plaxton Dr;43.707535;-79.302772
 15279;St Clair Ave E at Plaxton Dr;43.70777;-79.302586
 6136;St Clair Ave E at Presley Ave;43.710524;-79.288479
@@ -7751,43 +7757,43 @@
 3121;St Clair Ave E at Squires Ave;43.707958;-79.300873
 6128;St Clair Ave E at St Columba Pl;43.705761;-79.31061
 3122;St Clair Ave E at Victoria Park Ave;43.708726;-79.296441
-6130;St Clair Ave E at Victoria Park Ave E Side;43.708706;-79.295559
 6131;St Clair Ave E at Victoria Park Ave;43.708945;-79.296378
+6130;St Clair Ave E at Victoria Park Ave E Side;43.708706;-79.295559
 15820;St Clair Ave E at Warden Ave;43.711773;-79.281726
 14055;St Clair Ave E at Warden Ave;43.712074;-79.281556
-8145;St Clair Ave E at Welland Ave;43.691076;-79.379718
 6132;St Clair Ave E at Wbourne Ave E Side;43.709338;-79.292626
+8145;St Clair Ave E at Welland Ave;43.691076;-79.379718
 6133;St Clair Ave E at Wview Blvd;43.706133;-79.310074
 8146;St Clair Ave E at Yonge St - St Clair Station;43.688202;-79.394003
 14346;St Clair Ave E at Yonge St E Side;43.688136;-79.393454
 8147;St Clair Ave W at Arlington Ave;43.680901;-79.428975
 8148;St Clair Ave W at Arlington Ave;43.68117;-79.428773
-14874;St Clair Ave W at Arlington Ave E Side;43.681096;-79.428315
 14875;St Clair Ave W at Arlington Ave;43.680962;-79.429411
-8149;St Clair Ave W at Avenue Rd E Side;43.686666;-79.400882
-14349;St Clair Ave W at Avenue Rd E Side;43.686603;-79.400819
+14874;St Clair Ave W at Arlington Ave E Side;43.681096;-79.428315
 8150;St Clair Ave W at Avenue Rd;43.686535;-79.402103
 14350;St Clair Ave W at Avenue Rd;43.686608;-79.402137
+8149;St Clair Ave W at Avenue Rd E Side;43.686666;-79.400882
+14349;St Clair Ave W at Avenue Rd E Side;43.686603;-79.400819
 8153;St Clair Ave W at Bathurst St;43.683286;-79.418144
 8152;St Clair Ave W at Bathurst St;43.682988;-79.418395
-14336;St Clair Ave W at Bathurst St E Side;43.683213;-79.417671
 14337;St Clair Ave W at Bathurst St;43.683061;-79.418852
+14336;St Clair Ave W at Bathurst St E Side;43.683213;-79.417671
 7360;St Clair Ave W at Britannia Ave;43.669697;-79.480616
 7359;St Clair Ave W at Britannia Ave;43.669394;-79.481314
 8155;St Clair Ave W at Caledonia Park Rd;43.675211;-79.454887
 11715;St Clair Ave W at Caledonia Rd;43.675536;-79.454364
+14932;St Clair Ave W at Caledonia Rd;43.675275;-79.455281
 11579;St Clair Ave W at Caledonia Rd E Side;43.675379;-79.454079
 14931;St Clair Ave W at Caledonia Rd E Side;43.675437;-79.454201
-14932;St Clair Ave W at Caledonia Rd;43.675275;-79.455281
 8157;St Clair Ave W at Christie St;43.681535;-79.42584
 8158;St Clair Ave W at Christie St;43.681823;-79.425619
-14872;St Clair Ave W at Christie St E Side;43.681758;-79.425152
 14873;St Clair Ave W at Christie St;43.681621;-79.426289
+14872;St Clair Ave W at Christie St E Side;43.681758;-79.425152
 7361;St Clair Ave W at Cobalt Ave;43.670097;-79.478134
 14347;St Clair Ave W at Deer Park Cres;43.687154;-79.398239
 14348;St Clair Ave W at Deer Park Cres;43.687409;-79.39792
-8160;St Clair Ave W at Deer Park Cres E Side;43.687341;-79.397451
 8159;St Clair Ave W at Deer Park Cres;43.687185;-79.398655
+8160;St Clair Ave W at Deer Park Cres E Side;43.687341;-79.397451
 8161;St Clair Ave W at Dufferin St;43.677782;-79.443177
 8162;St Clair Ave W at Dufferin St;43.678072;-79.442941
 14885;St Clair Ave W at Dufferin St;43.678011;-79.442476
@@ -7803,8 +7809,8 @@
 13317;St Clair Ave W at Florence Cres E Side;43.666846;-79.49421
 8165;St Clair Ave W at Glenholme Ave;43.678747;-79.438835
 8166;St Clair Ave W at Glenholme Ave;43.67905;-79.438527
-14881;St Clair Ave W at Glenholme Ave E Side;43.678985;-79.438072
 14882;St Clair Ave W at Glenholme Ave;43.678811;-79.439285
+14881;St Clair Ave W at Glenholme Ave E Side;43.678985;-79.438072
 13340;St Clair Ave W at Gunns Rd;43.671925;-79.470925
 8168;St Clair Ave W at Hounslow Heath Rd;43.674054;-79.460091
 14935;St Clair Ave W at Hounslow Heath Rd E Side;43.674274;-79.459436
@@ -7815,12 +7821,12 @@
 14939;St Clair Ave W at Keele St/ Won Rd;43.672451;-79.467842
 11620;St Clair Ave W at Lansdowne Ave;43.676091;-79.450893
 8171;St Clair Ave W at Lansdowne Ave;43.676419;-79.450412
-14889;St Clair Ave W at Lansdowne Ave E Side;43.676353;-79.450021
 13173;St Clair Ave W at Lansdowne Ave;43.676186;-79.451121
+14889;St Clair Ave W at Lansdowne Ave E Side;43.676353;-79.450021
 8172;St Clair Ave W at Laughton Ave;43.67485;-79.457543
 8173;St Clair Ave W at Laughton Ave;43.674577;-79.45772
-14933;St Clair Ave W at Laughton Ave E Side;43.67479;-79.457079
 14934;St Clair Ave W at Laughton Ave;43.674639;-79.458176
+14933;St Clair Ave W at Laughton Ave E Side;43.67479;-79.457079
 13307;St Clair Ave W at Mariposa Ave;43.667688;-79.489614
 14895;St Clair Ave W at Mariposa Ave E Side;43.667591;-79.489328
 15061;St Clair Ave W at Mondovi Gate;43.670715;-79.475324
@@ -7829,8 +7835,8 @@
 13306;St Clair Ave W at Mould Ave;43.66831;-79.486848
 8175;St Clair Ave W at Ncliffe Blvd;43.678272;-79.440957
 8176;St Clair Ave W at Ncliffe Blvd;43.67855;-79.440752
-14883;St Clair Ave W at Ncliffe Blvd E Side;43.678485;-79.440298
 14884;St Clair Ave W at Ncliffe Blvd;43.678342;-79.441377
+14883;St Clair Ave W at Ncliffe Blvd E Side;43.678485;-79.440298
 8177;St Clair Ave W at Oakwood Ave;43.679399;-79.435995
 8178;St Clair Ave W at Oakwood Ave;43.679725;-79.435515
 14880;St Clair Ave W at Oakwood Ave;43.679668;-79.43546
@@ -7839,40 +7845,40 @@
 15050;St Clair Ave W at Old Stock Yards Rd;43.671859;-79.470488
 8179;St Clair Ave W at Old Won Rd;43.673441;-79.463154
 8180;St Clair Ave W at Old Won Rd;43.673686;-79.46275
-14937;St Clair Ave W at Old Won Rd E Side;43.673599;-79.462439
 14938;St Clair Ave W at Old Won Rd;43.673427;-79.463578
+14937;St Clair Ave W at Old Won Rd E Side;43.673599;-79.462439
 13343;St Clair Ave W at Runnymede Rd;43.668843;-79.483773
 13305;St Clair Ave W at Runnymede Rd;43.66887;-79.484326
 14353;St Clair Ave W at Russell Hill Rd;43.685193;-79.407938
 14354;St Clair Ave W at Russell Hill Rd;43.685472;-79.407778
-8181;St Clair Ave W at Russell Hill Rd E Side;43.685403;-79.407321
 8182;St Clair Ave W at Russell Hill Rd;43.685262;-79.408389
+8181;St Clair Ave W at Russell Hill Rd E Side;43.685403;-79.407321
 8183;St Clair Ave W at Silverthorn Ave;43.67433;-79.459897
 14936;St Clair Ave W at Silverthorn Ave;43.674107;-79.460547
 8184;St Clair Ave W at Spadina Rd;43.684754;-79.411042
 4630;St Clair Ave W at Spadina Rd;43.684479;-79.41123
-14344;St Clair Ave W at Spadina Rd E Side;43.684699;-79.410569
 14355;St Clair Ave W at Spadina Rd;43.684535;-79.4117
+14344;St Clair Ave W at Spadina Rd E Side;43.684699;-79.410569
 7364;St Clair Ave W at Symes Rd;43.670456;-79.47726
 14343;St Clair Ave W at Tweedsmuir Ave;43.684084;-79.413336
 14605;St Clair Ave W at Tweedsmuir Ave;43.684014;-79.413307
 14606;St Clair Ave W at Tweedsmuir Ave;43.684274;-79.413275
 4632;St Clair Ave W at Tweedsmuir Ave;43.684089;-79.41371
 8185;St Clair Ave W at Vaughan Rd;43.682575;-79.420404
-14335;St Clair Ave W at Vaughan Rd E Side;43.682875;-79.419348
 14334;St Clair Ave W at Vaughan Rd;43.682656;-79.420844
 14356;St Clair Ave W at Vaughan Rd;43.682752;-79.420698
+14335;St Clair Ave W at Vaughan Rd E Side;43.682875;-79.419348
 8187;St Clair Ave W at Warren Rd E Side;43.685631;-79.405781
-8169;St Clair Ave W at Won Rd/ Keele St;43.672509;-79.46824
-14940;St Clair Ave W at Won Rd/ Keele St;43.672435;-79.468189
 8189;St Clair Ave W at Winona Dr;43.680394;-79.432412
+14878;St Clair Ave W at Winona Dr;43.680191;-79.433048
 14877;St Clair Ave W at Winona Dr E Side;43.680326;-79.431948
 14897;St Clair Ave W at Winona Dr E Side;43.680227;-79.432102
-14878;St Clair Ave W at Winona Dr;43.680191;-79.433048
+8169;St Clair Ave W at Won Rd/ Keele St;43.672509;-79.46824
+14940;St Clair Ave W at Won Rd/ Keele St;43.672435;-79.468189
 8191;St Clair Ave W at Wychwood Ave;43.682308;-79.42311
 8190;St Clair Ave W at Wychwood Ave;43.681989;-79.423592
-14870;St Clair Ave W at Wychwood Ave E Side;43.682189;-79.422895
 14871;St Clair Ave W at Wychwood Ave;43.68208;-79.424035
+14870;St Clair Ave W at Wychwood Ave E Side;43.682189;-79.422895
 14345;St Clair Ave W at Yonge St;43.688014;-79.394607
 14778;St Clair Station;43.687857;-79.391958
 14819;St Clair Station;43.687713;-79.392394
@@ -7905,12 +7911,12 @@
 7366;St Phillips Rd at Riverview Heights;43.703313;-79.531934
 7365;St Phillips Rd at Riverview Heights;43.703316;-79.531666
 7368;St Phillips Rd at Won Rd;43.70584;-79.532167
-3303;St Regis Cres at Bakersfield St;43.755202;-79.480719
-4639;St Regis Cres at Bakersfield St;43.755231;-79.481099
 4636;St Regis Cres N at Bakersfield St;43.75704;-79.481072
 4635;St Regis Cres N at Bakersfield St;43.757032;-79.481627
 4638;St Regis Cres N at Ceramic Rd;43.756548;-79.48381
 4637;St Regis Cres N at Ceramic Rd E Side;43.756479;-79.483595
+3303;St Regis Cres at Bakersfield St;43.755202;-79.480719
+4639;St Regis Cres at Bakersfield St;43.755231;-79.481099
 3123;St Regis Cres at Keele St;43.754743;-79.487887
 13925;St Regis Cres at Keele St E Side;43.754624;-79.487752
 3124;St Regis Cres at St Regis Cres N;43.755144;-79.486134
@@ -7930,6 +7936,14 @@
 14984;Staines Rd at Solstice Dr;43.836626;-79.231597
 14107;Staines Rd at Warbler Cir;43.82671;-79.221682
 9970;Starspray Loop at Lawrence Ave E;43.788634;-79.123111
+9882;Steeles Ave E / Dairis Cres;43.829251;-79.283542
+9830;Steeles Ave E / Enchanted Hills Cres;43.830278;-79.27779
+9785;Steeles Ave E / Hornchurch Cres;43.828019;-79.288891
+11612;Steeles Ave E / Irenemount Cres;43.835243;-79.257531
+11614;Steeles Ave E / Joycedale St;43.833683;-79.264264
+12077;Steeles Ave E / Norm Cres;43.832317;-79.270029
+9784;Steeles Ave E / Scoville Sq;43.827819;-79.288717
+8245;Steeles Ave E / Whitman St;43.800243;-79.409414
 9176;Steeles Ave E Loop;43.798341;-79.417889
 1254;Steeles Ave E Loop at Bayview Ave;43.803431;-79.397336
 9783;Steeles Ave E at Ashcott St;43.827008;-79.292081
@@ -7950,9 +7964,9 @@
 12816;Steeles Ave E at Don Mills Rd E Side;43.811216;-79.360112
 8216;Steeles Ave E at Dudley Ave;43.798816;-79.416983
 8217;Steeles Ave E at Dumont St;43.798569;-79.417152
-14379;Steeles Ave E at Evale Rd;43.83816;-79.245033
 6139;Steeles Ave E at Edgar Woods Rd;43.810793;-79.362948
 8218;Steeles Ave E at Esna Park Dr;43.817107;-79.336038
+14379;Steeles Ave E at Evale Rd;43.83816;-79.245033
 8219;Steeles Ave E at Fairway Heights Dr;43.807882;-79.375931
 9786;Steeles Ave E at Fenton Rd;43.827387;-79.291476
 10138;Steeles Ave E at Ferrier St;43.818633;-79.32951
@@ -7986,11 +8000,6 @@
 9345;Steeles Ave E at Mountcastle Gate;43.820394;-79.320622
 8233;Steeles Ave E at Old English Lane;43.804155;-79.392546
 4640;Steeles Ave E at Old Kennedy Rd;43.825479;-79.299832
-9881;Steeles Ave E at opp Walkway to Dairis Cres;43.828963;-79.28354
-9831;Steeles Ave E at opp Walkway to Enchanted Hills Cres;43.830596;-79.277601
-14375;Steeles Ave E at opp Walkway to Irenemount Cres;43.83491;-79.257864
-12076;Steeles Ave E at opp Walkway to Norm Cres;43.832127;-79.269844
-8256;Steeles Ave E at opp Walkway to Whitman St;43.80052;-79.409206
 6140;Steeles Ave E at Paul Markway E Side;43.808975;-79.36984
 8234;Steeles Ave E at Pharmacy Ave;43.816625;-79.336828
 9354;Steeles Ave E at Putnam Gate;43.822702;-79.311866
@@ -8012,20 +8021,20 @@
 8241;Steeles Ave E at Victoria Park Ave;43.815581;-79.342182
 6142;Steeles Ave E at Waggoners Wells Lane;43.80991;-79.366126
 15742;Steeles Ave E at Waggoners Wells Lane;43.810155;-79.365733
-9882;Steeles Ave E / Dairis Cres;43.829251;-79.283542
-9830;Steeles Ave E / Enchanted Hills Cres;43.830278;-79.27779
-9785;Steeles Ave E / Hornchurch Cres;43.828019;-79.288891
-11612;Steeles Ave E / Irenemount Cres;43.835243;-79.257531
-11614;Steeles Ave E / Joycedale St;43.833683;-79.264264
-12077;Steeles Ave E / Norm Cres;43.832317;-79.270029
-9784;Steeles Ave E / Scoville Sq;43.827819;-79.288717
-8245;Steeles Ave E / Whitman St;43.800243;-79.409414
 9344;Steeles Ave E at Warden Ave;43.819426;-79.324739
 9357;Steeles Ave E at Warden Ave;43.819848;-79.324123
 8247;Steeles Ave E at Willowdale Ave;43.799392;-79.414344
 8246;Steeles Ave E at Willowdale Ave;43.79913;-79.414582
 8250;Steeles Ave E at Woodbine Ave;43.814178;-79.348291
 13339;Steeles Ave E at Woodbine Ave;43.813706;-79.348866
+9881;Steeles Ave E at opp Walkway to Dairis Cres;43.828963;-79.28354
+9831;Steeles Ave E at opp Walkway to Enchanted Hills Cres;43.830596;-79.277601
+14375;Steeles Ave E at opp Walkway to Irenemount Cres;43.83491;-79.257864
+12076;Steeles Ave E at opp Walkway to Norm Cres;43.832127;-79.269844
+8256;Steeles Ave E at opp Walkway to Whitman St;43.80052;-79.409206
+9262;Steeles Ave W / Cathy Jean Cres;43.759309;-79.592962
+8273;Steeles Ave W / Friuli Crt;43.765154;-79.571975
+8272;Steeles Ave W / Plunkett Rd;43.764965;-79.57122
 9170;Steeles Ave W Loop at Islington Ave;43.764093;-79.576584
 9824;Steeles Ave W Loop at Martin Grove Rd;43.756665;-79.607838
 8253;Steeles Ave W at Adesso Dr;43.77444;-79.526647
@@ -8053,8 +8062,8 @@
 9261;Steeles Ave W at Gihon Spring Dr;43.7591;-79.597122
 8278;Steeles Ave W at Hidden Trail;43.788495;-79.463345
 10862;Steeles Ave W at Highway 27;43.755222;-79.61449
-11522;Steeles Ave W at Highway 27 E Side;43.755518;-79.61325
 10856;Steeles Ave W at Highway 27;43.755416;-79.614879
+11522;Steeles Ave W at Highway 27 E Side;43.755518;-79.61325
 8280;Steeles Ave W at Hilda Ave;43.796207;-79.429071
 8279;Steeles Ave W at Hilda Ave;43.795863;-79.4294
 8281;Steeles Ave W at Irondale Dr;43.769499;-79.549749
@@ -8103,13 +8112,10 @@
 8313;Steeles Ave W at Turbine Dr;43.767809;-79.558204
 8312;Steeles Ave W at Turbine Dr;43.767973;-79.558138
 1603;Steeles Ave W at Village Gate;43.793281;-79.441127
-8273;Steeles Ave W / Friuli Crt;43.765154;-79.571975
-8272;Steeles Ave W / Plunkett Rd;43.764965;-79.57122
-9262;Steeles Ave W / Cathy Jean Cres;43.759309;-79.592962
 8316;Steeles Ave W at Won Rd;43.770521;-79.546149
 8315;Steeles Ave W at Won Rd;43.770086;-79.546903
-8299;Steeles Ave W at Yonge St - Centerpoint Mall;43.797286;-79.422816
 8317;Steeles Ave W at Yonge St;43.798021;-79.42066
+8299;Steeles Ave W at Yonge St - Centerpoint Mall;43.797286;-79.422816
 9097;Steeprock Dr at Chesswood Dr;43.75741;-79.474874
 9098;Steeprock Dr at Chesswood Dr E Side;43.757368;-79.474606
 9099;Steeprock Dr at Whitehorse Rd;43.758296;-79.472614
@@ -8256,14 +8262,14 @@
 6874;The Queensway at Brawley Ave;43.622221;-79.521619
 6875;The Queensway at Burma Dr;43.628106;-79.495054
 6876;The Queensway at Canmotor Ave;43.624187;-79.511821
-14280;The Queensway at Colborne Lodge Dr E Side;43.639566;-79.458635
 14393;The Queensway at Colborne Lodge Dr;43.639445;-79.460301
+14280;The Queensway at Colborne Lodge Dr E Side;43.639566;-79.458635
 6883;The Queensway at Culnan Ave;43.621659;-79.524124
 6882;The Queensway at Culnan Ave;43.621327;-79.524538
 11770;The Queensway at Ellis Ave;43.637601;-79.46663
-14281;The Queensway at Ellis Ave E Side;43.637929;-79.465682
 11789;The Queensway at Ellis Ave;43.637819;-79.466978
 14394;The Queensway at Ellis Ave;43.637677;-79.467157
+14281;The Queensway at Ellis Ave E Side;43.637929;-79.465682
 6889;The Queensway at Glendale Ave;43.639302;-79.451069
 6888;The Queensway at Glendale Ave;43.639168;-79.450773
 6890;The Queensway at Grand Ave;43.627976;-79.494685
@@ -8286,11 +8292,11 @@
 6912;The Queensway at Roncesvalles Ave;43.638568;-79.446462
 6914;The Queensway at Royal York Rd;43.62647;-79.502471
 6913;The Queensway at Royal York Rd;43.626216;-79.502764
+15145;The Queensway at S Kingsway;43.635809;-79.472863
+15146;The Queensway at S Kingsway;43.636234;-79.472881
 12194;The Queensway at Sherway Gardens Mall;43.61368;-79.559743
 6880;The Queensway at Smith Cres;43.625834;-79.505342
 6881;The Queensway at Smith Cres E Side;43.625613;-79.505415
-15145;The Queensway at S Kingsway;43.635809;-79.472863
-15146;The Queensway at S Kingsway;43.636234;-79.472881
 6917;The Queensway at St Lawrence Ave;43.622458;-79.519305
 6918;The Queensway at St Lawrence Ave;43.622815;-79.518873
 6920;The Queensway at Stephen Dr;43.630517;-79.484019
@@ -8299,8 +8305,8 @@
 6885;The Queensway at The E Mall;43.616649;-79.546058
 14604;The Queensway at Wesley St;43.626911;-79.499658
 14279;The Queensway at Windermere Ave;43.637041;-79.470013
-14282;The Queensway at Windermere Ave E Side;43.637256;-79.469205
 6923;The Queensway at Windermere Ave;43.637314;-79.470466
+14282;The Queensway at Windermere Ave E Side;43.637256;-79.469205
 6926;The Queensway at Zorra St;43.621791;-79.522414
 8667;The W Mall at Bloor St W;43.635254;-79.56188
 8668;The W Mall at Bloor St W;43.63574;-79.562491
@@ -8319,9 +8325,9 @@
 12880;The W Mall at Paxman Rd;43.623919;-79.559741
 8683;The W Mall at Rathburn Rd;43.652803;-79.572344
 8682;The W Mall at Rathburn Rd;43.652618;-79.572504
+1632;The W Mall at Sherway Dr;43.609781;-79.560638
 1633;The W Mall at Sherway Dr - Trillium Health Ctr;43.609464;-79.560579
 3169;The W Mall at Sherway Dr - Trillium Health Ctr;43.609417;-79.559813
-1632;The W Mall at Sherway Dr;43.609781;-79.560638
 1638;The W Mall at The Queensway;43.611806;-79.562012
 11119;The W Mall at The Queensway;43.61175;-79.562334
 1631;The W Mall at Trillium Health Ctr (North Stop);43.610381;-79.56148
@@ -8330,8 +8336,8 @@
 6181;The Wway at Brampton Rd;43.684753;-79.561303
 6183;The Wway at Brougham Cres;43.686484;-79.552452
 15737;The Wway at Callowhill Dr E Side;43.684002;-79.563816
-6185;The Wway at Celestine Dr E Side;43.685282;-79.556491
 6186;The Wway at Celestine Dr;43.685449;-79.557262
+6185;The Wway at Celestine Dr E Side;43.685282;-79.556491
 6187;The Wway at Epping St;43.688113;-79.545915
 6188;The Wway at Fulford Pl;43.686504;-79.552001
 6189;The Wway at Hartsdale Dr;43.688072;-79.544879
@@ -8364,18 +8370,18 @@
 11575;Thistle Down Blvd at Albion Rd;43.736103;-79.560691
 11566;Thistle Down Blvd at Albion Rd E Side;43.735793;-79.560798
 14959;Thistle Down Blvd at Atwood Pl;43.741392;-79.550688
-11567;Thistle Down Blvd at Barkwin Dr E Side;43.737229;-79.55876
 11574;Thistle Down Blvd at Barkwin Dr;43.737098;-79.559458
+11567;Thistle Down Blvd at Barkwin Dr E Side;43.737229;-79.55876
 11573;Thistle Down Blvd at Bentwick Cres;43.737811;-79.556739
 11572;Thistle Down Blvd at Bridgenorth Cres;43.738805;-79.552533
 11569;Thistle Down Blvd at Dashwood Cres;43.740063;-79.556304
 11570;Thistle Down Blvd at Kenhill Dr;43.741274;-79.553785
 11568;Thistle Down Blvd at Thistle Down Blvd;43.738261;-79.556203
-8352;Thorncliffe Park Dr at Overlea Blvd;43.706926;-79.343188
 8364;Thorncliffe Park Dr E at Overlea Blvd;43.707719;-79.3438
 8363;Thorncliffe Park Dr E at Overlea Blvd;43.707945;-79.343711
 8361;Thorncliffe Park Dr E at Overlea Blvd;43.707006;-79.343507
 8350;Thorncliffe Park Dr at Milepost Pl;43.703301;-79.346929
+8352;Thorncliffe Park Dr at Overlea Blvd;43.706926;-79.343188
 8366;Thorncliffe Park Dr at Pat Moore Dr;43.709226;-79.344311
 8365;Thorncliffe Park Dr at Pat Moore Dr;43.708846;-79.344305
 11106;Three Valleys Dr at Groveland Cres;43.751639;-79.335076
@@ -8518,8 +8524,8 @@
 8417;Vaughan Rd at Maplewood Ave;43.685684;-79.422035
 11835;Vaughan Rd at Oakwood Ave E Side;43.691979;-79.439825
 8421;Vaughan Rd at St Clair Ave W;43.683145;-79.420586
-8405;Vaughan Rd at Winona Dr E Side;43.689592;-79.435349
 8423;Vaughan Rd at Winona Dr;43.690283;-79.43633
+8405;Vaughan Rd at Winona Dr E Side;43.689592;-79.435349
 7946;Victoria Park Ave Loop at Steeles Ave E;43.81662;-79.341413
 8428;Victoria Park Ave at Altair Ave;43.78448;-79.327193
 8430;Victoria Park Ave at Amsterdam Ave;43.715142;-79.298512
@@ -8656,9 +8662,10 @@
 15214;Villiers St at Munition St;43.647635;-79.351587
 15830;Villiers St at Munition St;43.648069;-79.351299
 11640;Wagman Ctr;43.729171;-79.439941
+8526;Walsh Ave at Wilson Ave;43.715641;-79.532544
 8524;Walsh Ave at Won Rd;43.717159;-79.537219
 8525;Walsh Ave at Won Rd E Side;43.716734;-79.536796
-8526;Walsh Ave at Wilson Ave;43.715641;-79.532544
+8616;Warden Ave / Seagrave Cres;43.809176;-79.322148
 10541;Warden Ave at 14Th Ave;43.837399;-79.328885
 10547;Warden Ave at 16Th Ave;43.873705;-79.338418
 13385;Warden Ave at 16Th Ave;43.874244;-79.338917
@@ -8764,7 +8771,6 @@
 8592;Warden Ave at Metropolitan Rd;43.766822;-79.302799
 8595;Warden Ave at Minford Ave;43.737216;-79.291294
 8596;Warden Ave at Murray Glen Dr;43.756169;-79.299232
-8594;Warden Ave at opp Walkway to Seagrave Cres;43.809163;-79.322396
 14319;Warden Ave at Roper Rd;43.714325;-79.282151
 12138;Warden Ave at Roper Rd (North Commuter Parking Lot);43.713879;-79.281661
 8599;Warden Ave at Sheppard Ave E;43.77887;-79.308173
@@ -8784,8 +8790,8 @@
 8614;Warden Ave at Upton Rd;43.718451;-79.283907
 8613;Warden Ave at Upton Rd;43.718146;-79.283427
 8615;Warden Ave at Walbon Rd;43.739791;-79.292609
-8616;Warden Ave / Seagrave Cres;43.809176;-79.322148
 8619;Warden Ave at Wayne Ave;43.738069;-79.291901
+8594;Warden Ave at opp Walkway to Seagrave Cres;43.809163;-79.322396
 13462;Warden Loop at Steeles Ave E;43.82097;-79.325087
 14790;Warden Station;43.710977;-79.279519
 14791;Warden Station;43.710984;-79.279607
@@ -8863,8 +8869,8 @@
 8654;Westhumber Blvd at Esther Lorrie Dr;43.727324;-79.577602
 8655;Westhumber Blvd at Ixworth Rd;43.727191;-79.577426
 8656;Westhumber Blvd at Kipling Ave;43.727987;-79.574783
-8657;Westhumber Blvd at Martin Grove Rd E Side;43.726064;-79.58615
 7957;Westhumber Blvd at Martin Grove Rd;43.726355;-79.586705
+8657;Westhumber Blvd at Martin Grove Rd E Side;43.726064;-79.58615
 8658;Westhumber Blvd at Moon Valley Dr;43.727098;-79.58238
 3167;Westlake Ave at Hamstead Ave;43.696561;-79.309265
 3166;Westlake Ave at Hamstead Ave;43.696423;-79.309042
@@ -8998,10 +9004,10 @@
 8791;Willowdale Ave at Bishop Ave;43.7837;-79.407812
 8794;Willowdale Ave at Byng Ave;43.778631;-79.405942
 8793;Willowdale Ave at Byng Ave;43.778044;-79.405499
-8796;Willowdale Ave at Ctr Ave;43.793106;-79.412083
-8795;Willowdale Ave at Ctr Ave;43.792942;-79.411754
 8798;Willowdale Ave at Church Ave;43.775919;-79.404822
 8797;Willowdale Ave at Church Ave;43.77604;-79.404622
+8796;Willowdale Ave at Ctr Ave;43.793106;-79.412083
+8795;Willowdale Ave at Ctr Ave;43.792942;-79.411754
 8800;Willowdale Ave at Cummer Ave;43.78854;-79.409763
 8799;Willowdale Ave at Cummer Ave;43.788361;-79.409953
 8801;Willowdale Ave at Elmwood Ave;43.768664;-79.401523
@@ -9058,8 +9064,8 @@
 8837;Wilson Ave at Avenue Rd;43.7397;-79.421902
 8838;Wilson Ave at Avenue Rd;43.740088;-79.421033
 8840;Wilson Ave at Bathurst St;43.737481;-79.433762
-8839;Wilson Ave at Bathurst St E Side;43.737304;-79.433226
 1654;Wilson Ave at Bathurst St;43.737389;-79.434643
+8839;Wilson Ave at Bathurst St E Side;43.737304;-79.433226
 8842;Wilson Ave at Belgrave Ave;43.740481;-79.418302
 8841;Wilson Ave at Belgrave Ave;43.740676;-79.418495
 15755;Wilson Ave at Beverly Hills Dr;43.71926;-79.516618
@@ -9087,8 +9093,8 @@
 8866;Wilson Ave at Julian Rd- Humber River Hospital;43.724669;-79.491492
 8869;Wilson Ave at Keele St;43.726925;-79.481737
 8868;Wilson Ave at Keele St;43.726427;-79.48238
-8867;Wilson Ave at Keele St E Side;43.726932;-79.481019
 14141;Wilson Ave at Keele St;43.727289;-79.481998
+8867;Wilson Ave at Keele St E Side;43.726932;-79.481019
 1661;Wilson Ave at King High Ave;43.735702;-79.442466
 1660;Wilson Ave at King High Ave;43.735406;-79.442947
 1662;Wilson Ave at Lady York Ave;43.731006;-79.464577
@@ -9097,8 +9103,8 @@
 8876;Wilson Ave at Murray Rd;43.729711;-79.471403
 8875;Wilson Ave at Murray Rd;43.729408;-79.471719
 8877;Wilson Ave at Ngate Dr;43.730184;-79.468213
-8880;Wilson Ave at Ridge Rd E Side;43.723886;-79.493795
 8881;Wilson Ave at Ridge Rd;43.723931;-79.494594
+8880;Wilson Ave at Ridge Rd E Side;43.723886;-79.493795
 8882;Wilson Ave at Ridley Blvd;43.73928;-79.423844
 8883;Wilson Ave at Ridley Blvd;43.739512;-79.423604
 1666;Wilson Ave at Transit Rd;43.733336;-79.453577
@@ -9183,8 +9189,8 @@
 13737;Woodbine Station - Wbound Platform;43.686349;-79.313986
 10654;Woodsworth Rd at Hopperton Dr;43.764877;-79.371434
 7455;Woodsworth Rd at Hopperton Dr;43.764788;-79.372891
-7456;Woodsworth Rd at Ney Dr - Oriole GO;43.7646;-79.365274
 7457;Woodsworth Rd at Ney Dr;43.764973;-79.370236
+7456;Woodsworth Rd at Ney Dr - Oriole GO;43.7646;-79.365274
 4715;Woodward Ave at Queen St E;43.665512;-79.319624
 3205;Wright Ave at Gibson Ave;43.700147;-79.5065
 3206;Wright Ave at Jane St;43.700766;-79.503809
@@ -9296,7 +9302,6 @@
 9031;Yonge St at Moore Park Ave;43.793966;-79.419209
 13869;Yonge St at N York Blvd;43.766912;-79.412451
 9032;Yonge St at Norton Ave;43.77215;-79.41347
-3236;Yonge St at opp College Park;43.660008;-79.3824
 15709;Yonge St at Orchard View Blvd;43.708302;-79.3988
 9033;Yonge St at Park Home Ave;43.769422;-79.413082
 9034;Yonge St at Patricia Ave;43.78997;-79.417808
@@ -9331,14 +9336,15 @@
 3247;Yonge St at Wellington St W;43.648025;-79.377521
 8963;Yonge St at William Carson Cres;43.747206;-79.407246
 8964;Yonge St at William Carson Cres;43.74741;-79.40767
-9066;Yonge St at Wilson Ave - York Mills Station;43.74429;-79.406957
 11371;Yonge St at Wilson Ave;43.743514;-79.406769
+9066;Yonge St at Wilson Ave - York Mills Station;43.74429;-79.406957
 9062;Yonge St at Woodlawn Ave E;43.683811;-79.392236
 9063;Yonge St at Woodlawn Ave W;43.684014;-79.392504
 8993;Yonge St at Yonge Blvd;43.734207;-79.404409
 9064;Yonge St at Yonge Blvd;43.733994;-79.404613
 11394;Yonge St at York Mills Rd;43.743783;-79.406435
 9065;Yonge St at York Mills Rd - York Mills Station;43.744863;-79.40666
+3236;Yonge St at opp College Park;43.660008;-79.3824
 13756;Yonge Station - Ebound Platform;43.670997;-79.385956
 13755;Yonge Station - Wbound Platform;43.671049;-79.386789
 4738;York Gate Blvd at Jane St;43.761781;-79.519077
@@ -9350,8 +9356,8 @@
 9069;York Mills Rd at Bayview Ave;43.748013;-79.38482
 3253;York Mills Rd at Birchwood Ave;43.74657;-79.391504
 3252;York Mills Rd at Birchwood Ave;43.746315;-79.392007
-3254;York Mills Rd at Cedarwood Ave E Side;43.74593;-79.393792
 3255;York Mills Rd at Cedarwood Ave;43.745953;-79.394494
+3254;York Mills Rd at Cedarwood Ave E Side;43.74593;-79.393792
 7467;York Mills Rd at Chipstead Rd;43.751336;-79.370548
 9070;York Mills Rd at Don Mills Rd;43.755569;-79.347425
 9071;York Mills Rd at Don Mills Rd;43.756053;-79.3466
@@ -9405,7 +9411,7 @@
 13838;Yorkdale Station - Sbound Platform;43.723948;-79.447292
 9517;Yorkland Blvd at Consumers Rd;43.773665;-79.332503
 7476;Yorkland Blvd at Consumers Rd;43.773758;-79.332559
-7477;Yorkland Blvd at Yorkland Rd;43.773014;-79.335988
-9515;Yorkland Blvd at Yorkland Rd E Side;43.772955;-79.335749
 13685;Yorkland Blvd at Consumers Rd;43.771042;-79.331989
 10252;Yorkland Blvd at Consumers Rd;43.771161;-79.331982
+7477;Yorkland Blvd at Yorkland Rd;43.773014;-79.335988
+9515;Yorkland Blvd at Yorkland Rd E Side;43.772955;-79.335749
