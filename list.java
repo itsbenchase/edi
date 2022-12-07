@@ -118,7 +118,7 @@ public class list
 
       for (int a = 0; a < agencies.size(); a++)
       {
-        fileWriter2.append("<ul class=bullet style=background-color:#d9ffde><a href=stops/" + agencies.get(a) + ".html>" + fullAgencies.get(a) + "</a></ul> \n");
+        fileWriter2.append("<ul class=bullet style=background-color:#d9ffde><a href=stops/" + agencies.get(a) + ".html>" + fullAgencies.get(a) + "</a> (" + agencies.get(a) + ")</ul> \n");
       }
 
       fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");

@@ -47,7 +47,7 @@ public class routeList
       // listing with links at top
       for (int i = 0; i < agencies.size(); i++)
       {
-        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a></ul> \n");
+        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a> (" + agencies.get(i) + ")</ul> \n");
       }
       
       int routeCount = 0;
