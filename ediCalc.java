@@ -16,12 +16,12 @@ public class ediCalc
     System.out.println("Welcome to the Eliot Deviation Index calculator!");
     System.out.println("");
 	 
-	  System.out.println("Before starting, please select the agency you would like to access data for with the following format: [state abbreviation]-[agency name], e.g. ma-mbta");
+	  System.out.println("Before starting, please select the agency you would like to access data for. Agency codes are listed online at edi.benchase.info.");
 
     System.out.println("");
     
     System.out.println("INSTRUCTIONS - EXISTING LINES");
-    System.out.println("Enter line name when prompted. If the line doesn't exist, don't panic, let Eliot know that you want it.");
+    System.out.println("Enter line name when prompted.");
 
     System.out.println("");
 
@@ -31,6 +31,7 @@ public class ediCalc
     System.out.println("- Enter \"-1\" to add a custom stop.");
     System.out.println("- Enter \"-2\" to remove the last stop added.");
     System.out.println("- Enter \"-0\" after the last stop is added.");
+    System.out.println("- Enter \"segment\" to add a segment of a line (see below).");
 
     System.out.println("");
 
@@ -98,8 +99,6 @@ public class ediCalc
       Scanner in = new Scanner(System.in);
       System.out.print("Enter line: ");
       String lineChoice = in.nextLine();
-      
-
       String lineName = "no data, yet";
       boolean official = false;
       boolean saved = false; // updates when asked to save
@@ -134,9 +133,8 @@ public class ediCalc
           System.out.println("Error. can't load stops");
         }
 
-        ArrayList<Stop> stops2 = new ArrayList<Stop>(); // add to EDI list instead
-
-        ArrayList<Stop> custom = new ArrayList<Stop>(); // array for custom line
+        ArrayList<Stop> stops2 = new ArrayList<Stop>(); // add to EDI list instead - this is in the files
+        ArrayList<Stop> custom = new ArrayList<Stop>(); // array for custom line - this is what shows at the end
         String customStop = "";
 
         System.out.print("Line Name: ");
@@ -175,6 +173,123 @@ public class ediCalc
             stopCount--;
           }
 
+          // add segment from existing route
+          if (customStop.equals("segment"))
+          {
+            System.out.print("Enter line: ");
+            lineChoice = in.nextLine();
+            
+            // segment reverse, almost the same damn thing as normal segment
+            if (lineChoice.equals("reverse"))
+            {
+              System.out.print("Enter line: ");
+              lineChoice = in.nextLine();
+              System.out.print("Starting stop (low): ");
+              int startStop = in.nextInt();
+              System.out.print("Ending stop (high): ");
+              int endStop = in.nextInt();
+
+              // yes yes i know this is later on as well, but needs to be separate because of how i like the ordering on final file
+              ArrayList<Stop> stops3 = new ArrayList<Stop>(); // stops3 - pulls from existing EDI file to add to segment
+              try
+              {
+                Scanner s3 = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
+                while (s3.hasNextLine())
+                {
+                  String data = s3.nextLine();
+                  String id = data.substring(0, data.indexOf(";"));
+                  data = data.substring(data.indexOf(";") + 1);
+                  String name = data.substring(0, data.indexOf(";"));
+                  data = data.substring(data.indexOf(";") + 1);
+                  double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+                  data = data.substring(data.indexOf(";") + 1);
+                  double lon = Double.parseDouble(data.substring(0, data.indexOf(";")));
+                  data = data.substring(data.indexOf(";") + 1); // lines
+                  String line = data.substring(0, data.indexOf(";"));
+                  data = data.substring(data.indexOf(";") + 1);
+                  int order = Integer.parseInt(data);
+
+                  stops3.add(new Stop(id, name, lat, lon, line, order));
+                }
+              }
+              catch (Exception e)
+              {
+                System.out.println("Error.");
+              }
+
+              Stop [] reverseLine = new Stop[(endStop - startStop) + 1];
+              int reverseNum = reverseLine.length;
+              // check if in part of line desired (change from normal segment)
+              for (int i = 0; i < stops3.size(); i++)
+              {
+                if (stops3.get(i).getLineEDI().equalsIgnoreCase(lineChoice) && stops3.get(i).getOrder() <= endStop && stops3.get(i).getOrder() >= startStop)
+                {
+                  reverseLine[reverseNum - 1] = new Stop(stops3.get(i).getID(), stops3.get(i).getName(), stops3.get(i).getLat(), stops3.get(i).getLon());
+                  reverseNum--;
+                }
+              }
+
+              // add reverseLine into the main array, with correct stop ordering
+              for (int i = 0; i < reverseLine.length; i++)
+              {
+                stopCount++;
+                Stop addStop = reverseLine[i];
+                stops2.add(new Stop(reverseLine[i].getID(), reverseLine[i].getName(), reverseLine[i].getLat(), reverseLine[i].getLon(), lineName, stopCount));
+                custom.add(addStop);
+              }
+            }
+
+            // normal segment (low to high)
+            else
+            {
+              System.out.print("Starting stop: ");
+              int startStop = in.nextInt();
+              System.out.print("Ending stop: ");
+              int endStop = in.nextInt();
+
+              // yes yes i know this is later on as well, but needs to be separate because of how i like the ordering on final file
+              ArrayList<Stop> stops3 = new ArrayList<Stop>(); // stops3 - pulls from existing EDI file to add to segment
+              try
+              {
+                Scanner s3 = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
+                while (s3.hasNextLine())
+                {
+                  String data = s3.nextLine();
+                  String id = data.substring(0, data.indexOf(";"));
+                  data = data.substring(data.indexOf(";") + 1);
+                  String name = data.substring(0, data.indexOf(";"));
+                  data = data.substring(data.indexOf(";") + 1);
+                  double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+                  data = data.substring(data.indexOf(";") + 1);
+                  double lon = Double.parseDouble(data.substring(0, data.indexOf(";")));
+                  data = data.substring(data.indexOf(";") + 1); // lines
+                  String line = data.substring(0, data.indexOf(";"));
+                  data = data.substring(data.indexOf(";") + 1);
+                  int order = Integer.parseInt(data);
+
+                  stops3.add(new Stop(id, name, lat, lon, line, order));
+                }
+              }
+              catch (Exception e)
+              {
+                System.out.println("Error.");
+              }
+
+              // check if in part of line desired
+              for (int i = 0; i < stops3.size(); i++)
+              {
+                if (stops3.get(i).getLineEDI().equalsIgnoreCase(lineChoice) && stops3.get(i).getOrder() <= endStop && stops3.get(i).getOrder() >= startStop)
+                {
+                  stopCount++;
+                  Stop addStop = new Stop(stops3.get(i).getID(), stops3.get(i).getName(), stops3.get(i).getLat(), stops3.get(i).getLon(), lineName, stopCount);
+                  stops2.add(addStop);
+                  custom.add(new Stop(stops3.get(i).getID(), stops3.get(i).getName(), stops3.get(i).getLat(), stops3.get(i).getLon()));
+                }
+              }
+            }
+            in.nextLine(); // cancel out running rolling twice
+          }
+
           // search for stop in listing
           else
           {
@@ -194,9 +309,7 @@ public class ediCalc
           if (!customStop.equals("-0"))
           {
             rollingEDI(custom); // this is where shit gets stupid
-          }
-
-          
+          }          
         }
 
         theLine = new Stop[custom.size()];
@@ -309,8 +422,6 @@ public class ediCalc
         System.out.print("Ending stop: ");
         int endStop = in.nextInt();
 
-        
-
         // check if in part of line desired
         for (int i = 0; i < stops.size(); i++)
         {
@@ -368,8 +479,6 @@ public class ediCalc
 
         System.out.print("Enter line: ");
         lineChoice = in.nextLine();
-
-        
 
         for (int i = 0; i < stops.size(); i++)
         {
@@ -522,8 +631,6 @@ public class ediCalc
       System.out.println("Eliot Deviation Index: " + edi);
       System.out.println("Average Stop Spacing: " + avgStop + " miles");
 
-      
-
       // this is when things get added to site listing
       if (saved)
       {
@@ -585,17 +692,19 @@ public class ediCalc
         {
           System.out.println("Error.");
         }
-
-        
       }
 
       if (export)
       {
         System.out.println("Export File (copy below this line):");
+        System.out.println("Agency: " + agencyChoice);
+        System.out.println("Line: " + lineName);
+
         for (int i = 0; i < theLine.length; i++)
         {
           System.out.println(theLine[i].getID());
         }
+        
         System.out.println("-0");
       }
 
