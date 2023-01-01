@@ -249,7 +249,6 @@
 3436;22nd St & Minnesota St;37.75787;-122.39008
 3437;22nd St & Minnesota St;37.757807;-122.390268
 3439;22nd St & Pennsylvania Ave;37.757674;-122.392308
-3450;23RD ST & KANSAS ST;37.754448;-122.402668
 3441;23rd Ave & Irving St;37.763134;-122.481482
 3442;23rd Ave & Judah St;37.761608;-122.481378
 3443;23rd Ave & Kirkham St;37.759735;-122.48124
@@ -257,6 +256,7 @@
 3445;23rd Ave & Lincoln Way;37.765026;-122.481609
 3446;23rd Ave & Moraga St;37.756014;-122.480986
 3447;23rd Ave & Noriega St;37.75414;-122.48086
+3450;23rd St & Kansas St;37.754448;-122.402668
 3452;23rd St & Rhode Island St;37.75451;-122.401694
 3453;23rd St & Utah St;37.75442;-122.40494
 3454;23rd St & Utah St;37.754298;-122.405304
@@ -483,7 +483,7 @@
 3630;Alemany Blvd & Victoria St;37.71183;-122.46507
 3631;Alemany Blvd & Victoria St;37.71164;-122.46492
 3641;Arch St & Alemany Blvd;37.71166;-122.46711
-7820;Arch St&Alemany St;37.711591;-122.466996
+7820;Arch St & Alemany St;37.711591;-122.466996
 3642;Arguello Blvd & Balboa St;37.777075;-122.458645
 3643;Arguello Blvd & California St;37.785596;-122.459093
 3644;Arguello Blvd & California St;37.78556;-122.459254
@@ -575,6 +575,7 @@
 7886;Bayshore Blvd & Flower St;37.742377;-122.405609
 3781;Bayshore Blvd & Hester Ave;37.713546;-122.400071
 3783;Bayshore Blvd & Leland Ave;37.711138;-122.403783
+3786;Bayshore Blvd & Oakdale Ave;37.743167;-122.405319
 7888;Bayshore Blvd & Oakdale Ave;37.743046;-122.405402
 3788;Bayshore Blvd & Silver Ave;37.733213;-122.40472
 3789;Bayshore Blvd & Silver Ave;37.732963;-122.404789
