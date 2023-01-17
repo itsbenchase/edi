@@ -30,6 +30,7 @@ public class ediCalc
     System.out.println("- Enter the stop IDs in order. A full list can be found at edi.benchase.info/stops.html.");
     System.out.println("- Enter \"-1\" to add a custom stop.");
     System.out.println("- Enter \"-2\" to remove the last stop added.");
+    System.out.println("- Enter \"-3\" to add a stop from another agency.");
     System.out.println("- Enter \"-0\" after the last stop is added.");
     System.out.println("- Enter \"segment\" to add a segment of a line (see below).");
 
@@ -171,6 +172,53 @@ public class ediCalc
             stops2.remove(stops2.size() - 1);
             custom.remove(custom.size() - 1);
             stopCount--;
+          }
+
+          // -3 - stop from another agency
+          if (customStop.equals("-3"))
+          {
+            System.out.print("Enter agency: ");
+            String extraAgency = in.nextLine();
+
+            // load in stops from new agency
+            ArrayList<Stop> stopsExtra = new ArrayList<Stop>(); // not to confuse with stops
+            try
+            {
+              Scanner extra = new Scanner(new File("stops/" + extraAgency + ".txt"));
+              while (extra.hasNextLine())
+              {
+                String data = extra.nextLine();
+                String id = data.substring(0, data.indexOf(";"));
+                data = data.substring(data.indexOf(";") + 1);
+                String name = data.substring(0, data.indexOf(";"));
+                data = data.substring(data.indexOf(";") + 1);
+                double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+                data = data.substring(data.indexOf(";") + 1);
+                double lon = Double.parseDouble(data);
+                stopsExtra.add(new Stop(id, name, lat, lon));
+              }
+            }
+            catch (Exception e)
+            {
+              System.out.println("Error. can't load stops");
+            }
+
+            System.out.print("Stop ID: "); // ask for new id
+            customStop = in.nextLine();
+
+            for (int i = 0; i < stopsExtra.size(); i++)
+            {
+              if (stopsExtra.get(i).getID().equalsIgnoreCase(customStop))
+              {
+                stopCount++;
+                stopsExtra.get(i).setID(extraAgency + " | " + stopsExtra.get(i).getID()); // extra due to formatting on display, need to know it's a different agency
+                System.out.print("Added: " + stopsExtra.get(i).getName() + " "); // space for the stupidity
+                Stop addStop = new Stop(stopsExtra.get(i).getID(), stopsExtra.get(i).getName(), stopsExtra.get(i).getLat(), stopsExtra.get(i).getLon(), lineName, stopCount);
+                stops2.add(addStop);
+                custom.add(stopsExtra.get(i));
+                break;
+              }          
+            }
           }
 
           // add segment from existing route

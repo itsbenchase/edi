@@ -3,6 +3,7 @@ import java.util.ArrayList;
 
 public class Stop
 {
+  private String agency; // stop agency, only for global stop search
   private String id; // stop id
   private String name; // stop name
   private double lat; // stop latitude
@@ -27,6 +28,14 @@ public class Stop
     lat = la;
     lon = lo;
   }
+  public Stop(String a, String i, String n, double la, double lo)
+  {
+    agency = a;
+    id = i;
+    name = n;
+    lat = la;
+    lon = lo;
+  }
   public Stop(String i, String n, double la, double lo, String l, int o)
   {
     id = i;
@@ -35,6 +44,11 @@ public class Stop
     lon = lo;
     order = o;
     lineEDI = l;
+  }
+
+  public void setID(String i)
+  {
+    id = i;
   }
 
   public void setName(String n)
@@ -55,6 +69,16 @@ public class Stop
   public void setLon(double l)
   {
     lon = l;
+  }
+
+  public void setAgency(String a)
+  {
+    agency = a;
+  }
+
+  public String getAgency()
+  {
+    return agency;
   }
 
   public String getName()

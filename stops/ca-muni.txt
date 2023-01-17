@@ -30,6 +30,8 @@
 3153;4th St & 3rd St;37.772966;-122.389694
 7366;4th St & Berry St;37.776153;-122.393944
 3156;4th St & Brannan St;37.778305;-122.396602
+7872;4th St & Brannan St;37.778826;-122.397173
+7879;4th St & Brannan St;37.778826;-122.397173
 3158;4th St & Folsom St;37.781804;-122.401012
 3159;4th St & Howard St;37.783036;-122.402548
 7166;4th St & King St;37.776278;-122.393864
@@ -471,10 +473,10 @@
 6350;3801 San Bruno Ave;37.71467;-122.40046
 5573;4080 Mission St;37.73217;-122.428
 4359;5157 Diamond Heights Blvd;37.74693;-122.4402
+3615;Addison St & Diamond Heights Blvd;37.740037;-122.435716
 3616;Addison St & Digby St;37.740001;-122.433609
 3617;Addison St & Farnum St;37.740189;-122.434216
 3618;Addison St & Farnum St;37.740055;-122.434433
-3615;Addison St & Diamond Heights Blvd;37.740037;-122.435716
 3619;Alana Way & Executive Park Blvd;37.70898;-122.39422
 3621;Alemany Blvd & Arch St;37.71163;-122.4669
 3622;Alemany Blvd & Arch St;37.711418;-122.46717
@@ -858,6 +860,7 @@
 3962;Chicago Way & Naylor St;37.709834;-122.432435
 3963;Chicago Way & Naylor St;37.709628;-122.432504
 3964;Chicago Way & South Hill Blvd;37.710565;-122.431381
+7876;Chinatown - Rose Pak Station;37.794817;-122.408068
 3979;Chumasero Dr & Brotherhood Way;37.7131;-122.47278
 3981;Chumasero Dr & Font Blvd;37.714954;-122.473135
 7805;Chumasero Dr & Galindo Ave;37.714151;-122.473158
@@ -1683,6 +1686,9 @@
 8050;Jones St & Turk St;37.782959;-122.412463
 5170;Juan Bautista Cir & Font Blvd;37.718691;-122.478427
 7078;Juan Bautista Cir & Font Blvd;37.71749;-122.47744
+5221;Judah / La Playa / Ocean Beach;37.760363;-122.509011
+5223;Judah / La Playa / Ocean Beach;37.760304;-122.508181
+7219;Judah / La Playa / Ocean Beach;37.760349;-122.508685
 5189;Judah St & 5th Ave;37.762299;-122.462001
 5190;Judah St & 6th Ave;37.762397;-122.462849
 5191;Judah St & 7th Ave;37.762334;-122.46435
@@ -1715,9 +1721,6 @@
 5220;Judah St & Funston Ave;37.76195;-122.470572
 5224;Judah St & Sunset Blvd;37.760917;-122.495668
 5225;Judah St & Sunset Blvd;37.760845;-122.495805
-5221;Judah / La Playa / Ocean Beach;37.760363;-122.509011
-5223;Judah / La Playa / Ocean Beach;37.760304;-122.508181
-7219;Judah / La Playa / Ocean Beach;37.760349;-122.508685
 5171;Judson Ave & Gennessee St;37.728421;-122.451285
 5172;Judson Ave & Gennessee St;37.728296;-122.451228
 5134;Junipero Serra Blvd & Brotherhood Way;37.71355;-122.47126
@@ -2292,9 +2295,9 @@
 5807;Ocean Ave & San Leandro Way;37.729945;-122.469475
 5808;Ocean Ave & Victoria St;37.726029;-122.464337
 5809;Ocean Ave & Westgate Dr;37.727199;-122.46648
+5781;Ocean Ave / Balboa Park Bart Station;37.722951;-122.446749
 5784;Ocean Ave / CCSF Pedestrian Bridge;37.72304;-122.451448
 5785;Ocean Ave / CCSF Pedestrian Bridge;37.722947;-122.450866
-5781;Ocean Ave / Balboa Park Bart Station;37.722951;-122.446749
 5821;Olympia Way & Clarendon Ave;37.751494;-122.456224
 5822;Olympia Way & Dellbrook Ave;37.751343;-122.454391
 5823;Olympia Way & Dellbrook Ave;37.75128;-122.453073
@@ -2888,6 +2891,7 @@
 6571;Sunnydale Ave & Cora St;37.710203;-122.409612
 6573;Sunnydale Ave & Garrison Ave;37.710981;-122.413024
 6576;Sunnydale Ave & Rutland St;37.70986;-122.40851
+6578;Sunnydale Ave & Santos St;37.712368;-122.418323
 6580;Sunnydale Ave & Sawyer St;37.71163;-122.41521
 6582;Sunnydale Ave & Schwerin St;37.71059;-122.4115
 6583;Sunnydale Ave & Talbert St;37.70935;-122.40669
@@ -3105,9 +3109,9 @@
 6732;Turk St & Stanyan St;37.777557;-122.455035
 6733;Turk St & Taylor St;37.783476;-122.409379
 7360;UCSF / Chase Center (16th Street);37.768237;-122.389366
+7357;UCSF / Mission Bay;37.768504;-122.389182
 7356;UCSF Medical Center (Mariposa);37.764391;-122.388853
 7361;UCSF Medical Center (Mariposa);37.764239;-122.388865
-7357;UCSF / Mission Bay;37.768504;-122.389182
 6735;Ulloa St & 30th Ave;37.74072;-122.48722
 8039;Ulloa St & Claremont St;37.740759;-122.465411
 6736;Ulloa St & Forest Side Ave;37.741535;-122.46847
@@ -3115,6 +3119,8 @@
 6738;Ulloa St & Lenox Way;37.741125;-122.466155
 6744;Ulloa St & West Portal Ave;37.741009;-122.466167
 7976;Ulloa St & West Portal Ave;37.740733;-122.46564
+7874;Union Square / Market Street Station;37.787138;-122.406501
+7877;Union Square / Market Street Station;37.787138;-122.406501
 6745;Union St & Baker St;37.795902;-122.445314
 6746;Union St & Baker St;37.79575;-122.445509
 6748;Union St & Buchanan St;37.797427;-122.432302
@@ -3222,6 +3228,8 @@
 6929;Washington St & Taylor St;37.794255;-122.413008
 6931;Washington St & Webster St;37.791716;-122.432842
 6932;Wawona / 46th Ave / SF Zoo;37.736125;-122.504351
+6503;West Portal / Sloat / St Francis Circle;37.734807;-122.471618
+7109;West Portal / Sloat / St Francis Circle;37.734825;-122.471446
 6896;West Portal Ave & 14th Ave;37.73785;-122.469145
 6898;West Portal Ave & 14th Ave;37.737859;-122.469042
 7125;West Portal Ave & 14th Ave;37.738064;-122.468984
@@ -3232,8 +3240,6 @@
 6904;West Portal Ave & Vicente St;37.73984;-122.46698
 6739;West Portal Station;37.741554;-122.465331
 6740;West Portal Station;37.741518;-122.465216
-6503;West Portal / Sloat / St Francis Circle;37.734807;-122.471618
-7109;West Portal / Sloat / St Francis Circle;37.734825;-122.471446
 6981;Whitney St & Fairmount Street;37.738903;-122.427491
 6982;Whitney Young Cir & Progress St;37.733337;-122.383322
 6983;Whitney Young Cir & Progress St;37.733248;-122.383082
@@ -3266,10 +3272,11 @@
 6978;Woolsey St & Hamilton St;37.72374;-122.40841
 6979;Woolsey St & Hamilton St;37.72362;-122.40864
 6980;Woolsey St & University St;37.72271;-122.41238
+7873;Yerba Buena / Moscone Station;37.782279;-122.401542
+7878;Yerba Buena / Moscone Station;37.782279;-122.401542
 6985;Yerba Buena Ave & Brentwood Ave;37.733604;-122.45896
 6986;Yerba Buena Ave & Brentwood Ave;37.733702;-122.459189
 6987;Yerba Buena Ave & Hazelwood Ave;37.734559;-122.459659
 6988;Yerba Buena Ave & Hazelwood Ave;37.734389;-122.459705
 6989;Yerba Buena Ave & Ravenwood Dr;37.73531;-122.46055
 6990;Yerba Buena Ave & Saint Elmo Way;37.732623;-122.458719
-6578;Sunnydale Ave & Santos St;37.712368;-122.418323
