@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -8,6 +9,19 @@ public class stopSearch
 {
   public static void main(String [] args)
   {
+    System.out.println("Eliot Deviation Index");
+    System.out.println("Stop Database");
+    System.out.println("-----------------------");
+    
+    System.out.println("");
+    
+    System.out.println("INSTRUCTIONS");
+    System.out.println("- To search one agency, enter the agency code as listed on the stop listing webpage, https://edi.benchase.info/stops.html.");
+    System.out.println("- To search the global database, enter \"global\".");
+    System.out.println("- Program will list all terms containing the contents entered, and display stop ID and agency (if searching the global database).");
+    
+    System.out.println("");
+    
     Scanner s2 = new Scanner(System.in);
     ArrayList<Stop> stops = new ArrayList<Stop>();
     ArrayList<String> agencies = new ArrayList<String>(); // for global search
@@ -111,6 +125,8 @@ public class stopSearch
           resultCount++;
         }
       }
+
+      Collections.sort(results);
 
       for (int i = 0; i < results.size(); i++)
       {
