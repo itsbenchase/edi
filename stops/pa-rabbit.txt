@@ -16,7 +16,7 @@
 957;200 St. Charles Way ob.;39.930291;-76.688902
 958;201 St. Charles Way ib.;39.930153;-76.689008
 365;213 N. Duke St. ob.;39.966222;-76.727369
-874;235 E. Joppa Rd.  at Virginia Ave.;39.401928;-76.600002
+874;235 E. Joppa Rd. at Virginia Ave.;39.401928;-76.600002
 313;300 Memory Ln. ob.;39.981486;-76.682916
 879;301 St. Charles Way ib.;39.929624;-76.691769
 985;305 E. Joppa Rd.;39.402042;-76.597879
@@ -25,7 +25,7 @@
 945;525 Boyds School Rd;39.860407;-77.232993
 688;555 Willow Springs Ln.;40.047929;-76.744534
 709;631 Willow Springs Ln. ob.;40.049275;-76.747172
-999;701 E. Joppa Rd.  Black and Decker;39.400658;-76.591839
+999;701 E. Joppa Rd. Black and Decker;39.400658;-76.591839
 875;767 Vogelsong Rd;39.984351;-76.751151
 965;1090 York Rd. ib.;39.841341;-77.206541
 548;1226 W. Market St. ib.;39.953806;-76.755567
@@ -179,7 +179,7 @@
 775;E. Main St. at Park St. ob.;39.899484;-76.635250
 209;E. Main St. at Pleasant Ave. ob.;39.900232;-76.640377
 228;E. Market St at Harrison St ob.;39.971945;-76.702616
-639;E. Market St. at  Friendship St. ob.;40.006295;-76.601101
+639;E. Market St. at Friendship St. ob.;40.006295;-76.601101
 300;E. Market St. at Albemarle St. ob.;39.969933;-76.707676
 635;E. Market St. at Alliance Rd. ob.;40.002265;-76.614291
 361;E. Market St. at Bloomingdale Ave.;39.979706;-76.658614
@@ -331,9 +331,9 @@
 653;Kenneth Rd. at Trolley Rd. ob.;39.976985;-76.770101
 679;Kenneth Rd. at Yorktowne Rd. ib.;39.977614;-76.773907
 858;Kenneth Rd. at Yorktowne Rd. ob.;39.979019;-76.776815
-947;LINCOLN ESTATES;39.847157;-77.274233
 728;Lightner Rd. at N. Beaver St. ib.;39.990423;-76.737176
 729;Lightner Rd. at Susq. Trail ib.;39.989756;-76.740050
+947;Lincoln Estates;39.847157;-77.274233
 971;Lincoln Estates Heth Rd;39.846008;-77.272034
 976;Lincoln Hwy at S Franklin St ib.;39.830823;-77.235105
 913;Lincoln St. at Carlisle St. ob.;39.836908;-77.230947
@@ -384,7 +384,7 @@
 373;N. George St. at 8th Ave. ob.;39.979073;-76.733491
 605;N. George St. at 10th Ave. ib.;39.980775;-76.734125
 374;N. George St. at 10th Ave. ob.;39.981163;-76.734102
-725;N. George St. at  Haymeadow Dr. ib.;40.006266;-76.733005
+725;N. George St. at Haymeadow Dr. ib.;40.006266;-76.733005
 711;N. George St. at Beshore Sch. Rd.;40.042097;-76.724768
 724;N. George St. at Dundee Rd.;40.012953;-76.730917
 370;N. George St. at E. 4th Ave. ob.;39.974004;-76.732048
@@ -659,7 +659,7 @@
 847;York St at Alvin St eb;39.800772;-76.956873
 848;York St at Alvin St ib.;39.800885;-76.957095
 821;York St at Center St eb;39.799313;-76.965671
-854;York St at E Middle St  eb;39.799902;-76.978482
+854;York St at E Middle St eb;39.799902;-76.978482
 786;York St at E Middle St wb;39.800014;-76.978439
 808;York St at Mumma Ave eb;39.799927;-76.962427
 849;York St at Mumma Ave wb;39.800005;-76.962763

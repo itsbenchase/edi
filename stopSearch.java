@@ -74,6 +74,8 @@ public class stopSearch
         {
           System.out.println("Error, can't load stop file " + agencyChoice + ".");
         }
+
+        System.out.println("Loaded - Agencies: " + (i + 1) + " / " + agencies.size() + " | Stops: " + stops.size());
       }
     }
 

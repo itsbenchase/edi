@@ -43,7 +43,7 @@
 15167;2nd / Wilson;41.520837;-88.068437
 33108;2nd / Wilson;41.520726;-88.068673
 6733;2nd Ave & 17th St;41.854842;-87.833908
-8048;2nd Ave &  / Maguire Center Ent.;41.858328;-87.833575
+8048;2nd Ave & / Maguire Center Ent.;41.858328;-87.833575
 36109;2nd Ave & Hill Ave;41.749698;-88.288397
 6728;2nd Ave & Loyola Hospital / Medical Center Ent.;41.861451;-87.833893
 8050;2nd Ave & Loyola Hospital / Medical Center Ent.;41.861544;-87.833824
@@ -2095,7 +2095,7 @@
 32566;Army Trail Rd & Meadow Rd;41.933473;-88.046772
 32440;Army Trail Rd & Regency Dr;41.935582;-88.068817
 32493;Army Trail Rd & Regency Dr;41.935812;-88.068819
-32482;Army Trail Rd & Skylark Dr /  Schmale Rd;41.939018;-88.100706
+32482;Army Trail Rd & Skylark Dr / Schmale Rd;41.939018;-88.100706
 32426;Army Trail Rd & Springfield Dr;41.939124;-88.109969
 37253;Army Trail Rd & Springfield Dr;41.939340;-88.111149
 32442;Army Trail Rd & Swift Rd;41.932759;-88.043264
@@ -3394,8 +3394,8 @@
 37365;Chicago Ave & Grove St;42.044866;-87.680244
 37361;Chicago Ave & Hamilton St;42.039107;-87.680374
 37385;Chicago Ave & Hamilton St;42.039023;-87.680453
-37352;Chicago Ave & Juneway Ter /  Mulford St;42.023160;-87.677209
-37394;Chicago Ave & Juneway Ter /  Mulford St;42.022889;-87.677215
+37352;Chicago Ave & Juneway Ter / Mulford St;42.023160;-87.677209
+37394;Chicago Ave & Juneway Ter / Mulford St;42.022889;-87.677215
 37355;Chicago Ave & Kedzie St;42.031958;-87.678948
 37364;Chicago Ave & Lake St;42.043946;-87.680462
 37382;Chicago Ave & Lake St;42.044308;-87.680514
@@ -3941,7 +3941,7 @@
 35286;Crestwood Dr & Briargate Dr;41.981556;-88.343294
 29183;Crispin Dr & McLean Blvd;42.010144;-88.314549
 35235;Cross St & Liberty Dr;41.864071;-88.105130
-20312;Crossroads Shopping Center  / Skokie Valley Rd;42.156075;-87.804280
+20312;Crossroads Shopping Center / Skokie Valley Rd;42.156075;-87.804280
 37200;Crystal Ave & Ball St;42.039239;-88.290926
 34153;Crystal Lake / Bull Valley;42.320205;-88.302190
 34023;Crystal Lake / Dartmoor;42.331007;-88.292802
@@ -5165,7 +5165,7 @@
 639;Golf Rd & Lowell Ave;42.055217;-87.736161
 758;Golf Rd & Lowell Ave;42.055320;-87.735773
 20379;Golf Rd & Marshall Dr / School St;42.047713;-87.931225
-37330;Golf Rd & McDaniel Ave /  East Prairie Rd;42.052749;-87.709788
+37330;Golf Rd & McDaniel Ave / East Prairie Rd;42.052749;-87.709788
 16929;Golf Rd & Meacham Rd;42.050319;-88.044074
 17013;Golf Rd & Meacham Rd;42.050520;-88.046287
 20359;Golf Rd & Meier Rd;42.050540;-87.970417
@@ -5192,7 +5192,7 @@
 21741;Golf Rd & Oleander Ave;42.055182;-87.815010
 21687;Golf Rd & Overlook Dr;42.055189;-87.785968
 21754;Golf Rd & Overlook Dr;42.055308;-87.785527
-21672;Golf Rd & Ozanam Ave /  Julie Dr;42.054913;-87.819848
+21672;Golf Rd & Ozanam Ave / Julie Dr;42.054913;-87.819848
 20594;Golf Rd & Park Ln;42.054124;-87.852633
 20668;Golf Rd & Park Ln;42.054295;-87.852118
 37520;Golf Rd & Pine;42.390492;-87.846568
@@ -5949,7 +5949,7 @@
 6715;Harding / Robin Hood;41.827105;-87.869921
 6664;Harding / Sherwood;41.827079;-87.869290
 6714;Harding / Sherwood;41.827156;-87.868779
-831;Harlem  / George;42.064551;-87.805879
+831;Harlem / George;42.064551;-87.805879
 780;Harlem / Albion;42.000759;-87.806688
 21849;Harlem / Albion;42.001001;-87.806813
 779;Harlem / Arthur;41.999398;-87.806689
@@ -11173,7 +11173,7 @@
 37440;Rt 25 & River Haven Dr (North);42.099857;-88.257806
 37439;Rt 25 & River Haven Dr (South);42.097224;-88.257779
 16028;Rt 25 (Dundee Ave) & Rt 68 (Barrington Ave);42.104201;-88.257869
-33994;Rt 31 /  Ray;42.253170;-88.286644
+33994;Rt 31 / Ray;42.253170;-88.286644
 34000;Rt 31 / Ames;42.281026;-88.286813
 33998;Rt 31 / Brighton;42.267795;-88.286721
 33996;Rt 31 / Drake;42.260068;-88.286690
@@ -11675,7 +11675,7 @@
 2227;Sibley Blvd & Indiana Ave / State St;41.622775;-87.617525
 2109;Sibley Blvd & Irving Ave;41.622488;-87.602784
 2220;Sibley Blvd & Irving Ave;41.622656;-87.602429
-2095;Sibley Blvd & La Salle St  / Markham Dr;41.622590;-87.626004
+2095;Sibley Blvd & La Salle St / Markham Dr;41.622590;-87.626004
 2235;Sibley Blvd & La Salle St / Markham Dr;41.622725;-87.625979
 2111;Sibley Blvd & Langley Ave;41.622481;-87.600424
 2218;Sibley Blvd & Langley Ave;41.622632;-87.600021
@@ -12524,7 +12524,7 @@
 22224;Touhy Ave & Austin Ave;42.012046;-87.771816
 22083;Touhy Ave & Bell Ave;42.012201;-87.686260
 22183;Touhy Ave & Bell Ave;42.012282;-87.685991
-22156;Touhy Ave & Berry Pkwy /  Elmore St;42.011280;-87.823132
+22156;Touhy Ave & Berry Pkwy / Elmore St;42.011280;-87.823132
 20521;Touhy Ave & Busse Hwy;42.011169;-87.832653
 20718;Touhy Ave & Busse Rd;42.007737;-87.958527
 22135;Touhy Ave & Caldwell Ave;42.011921;-87.788918

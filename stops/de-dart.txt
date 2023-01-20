@@ -678,7 +678,6 @@
 3172;De1 at Evergreen Rd;38.519609;-75.055334
 3174;De1 opp Lewes St;38.467273;-75.051953
 4010;Del Tech Stanton-on Site;39.689236;-75.648982
-4076;Delaware  St @ Broad St;39.555594;-75.649659
 495;Delaware Ave & Clark St;38.923898;-75.577021
 3006;Delaware Ave & US 13;38.932725;-75.566685
 1188;Delaware Ave @ Academy St;39.681919;-75.749120
@@ -709,6 +708,7 @@
 4043;Delaware Park @ Stables;39.707761;-75.661948
 95;Delaware Park opp Stables;39.707921;-75.662275
 4036;Delaware St @ 10th St;39.663770;-75.573202
+4076;Delaware St @ Broad St;39.555594;-75.649659
 4048;Delaware St @ Washington St;39.664013;-75.577531
 4035;Delaware St opp 10th St;39.663948;-75.573155
 2847;Dennys Rd & Comcast Cable US 13;39.201406;-75.561023
@@ -793,8 +793,8 @@
 3912;Dupont St @ 16th St;39.757575;-75.562822
 2313;Dupont St @ Gilpin Ave;39.758678;-75.561375
 3397;Dupont St @ W 9th St;39.752336;-75.566425
-2974;Dutton Ave at  Seaford Meadows  Apts;38.654563;-75.601451
 3824;Dutton Ave at Seaford Asst Living Center;38.653047;-75.599333
+2974;Dutton Ave at Seaford Meadows Apts;38.654563;-75.601451
 4038;E Masten Cir @ Brandywine Coun;38.920316;-75.441479
 4094;Eagle Meadows;39.106468;-75.506584
 3927;Eden Hill Med Ctr;39.153914;-75.534728
@@ -1232,9 +1232,6 @@
 571;M L King Blvd @ Courtside Apts;39.157778;-75.514403
 1384;M L King Blvd @ Monroe St;39.741015;-75.560415
 3363;ML King Blvd @ Orange St;39.738543;-75.554310
-4105;Main St - Newark @ Pomeroy Tr;39.683807;-75.744283
-486;Main St @ N Catherine St;39.449796;-75.713685
-3015;Main St @ N Catherine St;39.449964;-75.712553
 458;Main St - Bridgeville at Austin Lane;38.736357;-75.596273
 2971;Main St - Bridgeville at Jacobs Ave;38.736114;-75.596272
 3078;Main St - Magnolia & Irish Hill Rd;39.071137;-75.475945
@@ -1242,9 +1239,12 @@
 1170;Main St - Newark @ Academy St;39.683363;-75.749551
 1169;Main St - Newark @ Chapel St;39.683669;-75.745635
 1171;Main St - Newark @ Elliot Hall;39.683192;-75.752120
+4105;Main St - Newark @ Pomeroy Tr;39.683807;-75.744283
 1167;Main St - Newark opp Med Center;39.684227;-75.739544
 1040;Main St - Stanton @ Redwood Ave;39.715211;-75.642039
 1041;Main St - Stanton @ Royal Ave;39.713813;-75.645511
+486;Main St @ N Catherine St;39.449796;-75.713685
+3015;Main St @ N Catherine St;39.449964;-75.712553
 2459;Mall Access Rd @ Old Baltimore Pk;39.674102;-75.656879
 3059;Market Sq @ Tj Maxx;39.832812;-75.540553
 2633;Market Sq opp Tj Maxx;39.832669;-75.540640
@@ -1536,6 +1536,7 @@
 3873;New Linden Hill Rd @ Limestone Rd;39.739342;-75.689432
 206;New Linden Hill Rd @ Linden Park;39.735539;-75.690099
 1947;New Linden Hill Rd @ Pike Creek Blvd;39.735271;-75.690333
+1965;New Linden Hill Rd @ Pk Cr Office Pla;39.733613;-75.689408
 3227;New Linden Hill Rd @ Riding Blvd;39.737994;-75.690029
 203;New Linden Hill Rd @ Skyline Dr;39.727520;-75.692137
 1964;New Linden Hill Rd @ Skyline Dr;39.727413;-75.692031
@@ -1548,7 +1549,6 @@
 339;Newark Regional Transit Center;39.669268;-75.754138
 3678;Newark Transit Hub (Farmer Lane);39.682337;-75.743428
 3679;Newark Transit Hub (Pomeroy La);39.682421;-75.743541
-1965;New Linden Hill Rd @ Pk Cr Office Pla;39.733613;-75.689408
 1367;Newport Gap Pike @ Meadowbrook Ave;39.727211;-75.620850
 1365;Newport Gap Pk @ Hillards Inc;39.731290;-75.625440
 1364;Newport Gap Pk opp Hillards Inc;39.731172;-75.625112
@@ -1883,9 +1883,13 @@
 2953;S Walnut St & Wilbur St;38.901212;-75.430237
 2937;S Walnut St opp Kings Hwy;38.907089;-75.429077
 4032;SR 16 @ US 113;38.806705;-75.437337
+3304;SR 18 / 404 @ Walkers Mill Rd;38.707896;-75.552244
+3303;SR 18 / 404 Opp Walkers Mill Rd;38.707730;-75.552755
 3393;SR 18 / 404 at Bridgeville Park Sc;38.719831;-75.584942
 3392;SR 18 / 404 opp Food Lion;38.720298;-75.585217
+3127;SR 299 @ Dove Run Blvd;39.452169;-75.689368
 3725;SR 299 @ Middletown Commons Sc;39.449188;-75.725789
+3126;SR 299 @ Middletown High School;39.451788;-75.690380
 3731;SR 299 @ New St;39.450167;-75.708378
 3364;SR 299 @ Silver Lake Road;39.450552;-75.699001
 3727;SR 299 opp New St;39.450030;-75.707881
@@ -1988,7 +1992,7 @@
 2575;Songsmith Dr @ Iris Lane;39.638845;-75.664930
 2573;Songsmith Dr @ Smalleys Dam Rd;39.642049;-75.663522
 2589;Songsmith Dr @ Smalleys Dam Rd;39.641963;-75.663366
-3812;Songsmith Dr @ Tolstoy  Pl;39.636902;-75.663923
+3812;Songsmith Dr @ Tolstoy Pl;39.636902;-75.663923
 3889;Songsmith Dr opp Carvel Ln;39.635629;-75.662331
 2751;South St & Vepco Blvd;39.111498;-75.553242
 1740;South St @ 6th St;39.659919;-75.569934
@@ -1997,10 +2001,6 @@
 1274;Spruce St @ 5th St;39.738033;-75.543525
 1273;Spruce St @ 6th St;39.739026;-75.542871
 1272;Spruce St @ 8th St;39.740277;-75.542015
-3304;SR 18 / 404 @ Walkers Mill Rd;38.707896;-75.552244
-3303;SR 18 / 404 Opp Walkers Mill Rd;38.707730;-75.552755
-3127;SR 299 @ Dove Run Blvd;39.452169;-75.689368
-3126;SR 299 @ Middletown High School;39.451788;-75.690380
 3562;State Rd @ Rehoboth Ave;38.714959;-75.088534
 3569;State Rd @ Washington St - Med Ctr;38.706955;-75.090729
 3091;State St & Becky Ln;39.112468;-75.514855
@@ -2101,7 +2101,6 @@
 2776;US 13 & Shamrock Ave;39.119215;-75.534278
 476;US 13 & Smyrna Lepsic Rd;39.290914;-75.596539
 2829;US 13 & Townsend Blvd;39.175441;-75.523333
-3811;US 13 @  opp Jerome Dr;39.217381;-75.573808
 3800;US 13 @ Big Oak Rd;39.269347;-75.588428
 534;US 13 @ Camden Wyoming Ave;39.114683;-75.537057
 3600;US 13 @ Carter Rd;39.280344;-75.593031
@@ -2132,6 +2131,7 @@
 482;US 13 @ Smyrna Lepsic Rd;39.292143;-75.596751
 3564;US 13 @ Spring Meadows Dr;39.249755;-75.587013
 3408;US 13 @ Voshells Mill Rd;39.104297;-75.541291
+3811;US 13 @ opp Jerome Dr;39.217381;-75.573808
 3598;US 13 Dovemall @ Back Ent Dovecom;39.191330;-75.538241
 3286;US 13 W Rustic Lane;39.193497;-75.546993
 3635;US 13 Walmart Cheswold;39.215987;-75.572733

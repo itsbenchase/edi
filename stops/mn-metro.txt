@@ -157,8 +157,8 @@
 6577;3rd St S & Oak St W;45.053195;-92.807692
 6564;3rd St S & Pine St E;45.052484;-92.807223
 57207;3rd St S & Portland Av;44.977273;-93.260680
-12037;4th Ave &  Johnson St / Pleasant St;45.207823;-93.385404
-12038;4th Ave &  Johnson Street/Pierce Street;45.207635;-93.385253
+12038;4th Ave & Johnson St / Pierce St;45.207635;-93.385253
+12037;4th Ave & Johnson St / Pleasant St;45.207823;-93.385404
 43891;4th Ave & Pleasant St;45.206826;-93.385450
 19294;4th Ave S & 3rd St S;44.978621;-93.263496
 19295;4th Ave S & 4th St S;44.977653;-93.264342
@@ -558,7 +558,7 @@
 19329;11th St S & La Salle Ave S;44.973541;-93.276685
 53296;11th St S & Marquette Ave;44.972720;-93.274691
 49450;11th St W & St Peter St;44.950089;-93.099956
-9963;12th Ave  & Southview Blvd;44.889053;-93.048852
+9963;12th Ave & Southview Blvd;44.889053;-93.048852
 3874;12th Ave E & Helen St N;45.016448;-92.995278
 3914;12th Ave E & Helen St N;45.016599;-92.994675
 3875;12th Ave E & Margaret St N;45.016510;-92.992464
@@ -645,9 +645,9 @@
 42317;18th Ave NE & Hayes St NE;45.005919;-93.234728
 42321;18th Ave NE & Stinson Blvd NE;45.005855;-93.227108
 42328;18th Ave NE & Stinson Blvd NE;45.006005;-93.227782
-54034;19th  Ave S & 3rd St S;44.970998;-93.245561
-54037;19th  Ave S & 3rd St S;44.970965;-93.245735
 54033;19th Ave S & 2nd St S;44.974072;-93.245786
+54034;19th Ave S & 3rd St S;44.970998;-93.245561
+54037;19th Ave S & 3rd St S;44.970965;-93.245735
 54035;19th Ave S & 3rd St S - Leave;44.970965;-93.245735
 13215;19th Ave S & 3rd St S- Leave;44.970998;-93.245561
 42454;19th Ave S & 4th St/ Riverside Ave;44.970067;-93.245741
@@ -869,7 +869,6 @@
 19508;35th St E & 23rd Ave S;44.939480;-93.239100
 57192;35th St E & Cedar Av S;44.939588;-93.247235
 19518;35th St E & Cedar Ave S;44.939485;-93.246795
-17557;36th Ave N &  Zane Ave;45.021716;-93.355141
 17558;36th Ave N & Adair Ave N;45.021734;-93.356330
 17559;36th Ave N & Adair Ave N;45.021865;-93.356075
 44010;36th Ave N & Armstrong High School;45.021888;-93.415760
@@ -908,6 +907,7 @@
 17553;36th Ave N & Xenia Ave;45.021696;-93.352151
 17554;36th Ave N & Yates Ave;45.021713;-93.353798
 17555;36th Ave N & Yates Ave;45.021826;-93.353532
+17557;36th Ave N & Zane Ave;45.021716;-93.355141
 17556;36th Ave N & Zane Ave;45.021850;-93.354801
 16460;36th Ave S & 25th St E;44.957217;-93.220359
 16461;36th Ave S & 26th St E;44.955324;-93.220454
@@ -926,7 +926,6 @@
 17587;36th Ave S & 33rd St E;44.943130;-93.220301
 16465;36th Ave S & Lake St E;44.948521;-93.220461
 17590;36th Ave S & Lake St E;44.948640;-93.220311
-5751;36th St W &  Virginia Ave / Wyoming Ave;44.938610;-93.383974
 80379;36th St W & Alabama Ave S;44.937897;-93.356248
 5753;36th St W & Aquila Ave;44.938771;-93.389692
 5765;36th St W & Aquila Ave;44.938604;-93.389577
@@ -949,6 +948,7 @@
 46799;36th St W & Raleigh Ave/Park Center Blvd;44.937983;-93.345030
 5750;36th St W & Utah Ave;44.938640;-93.381936
 5768;36th St W & Utah Ave;44.938502;-93.382105
+5751;36th St W & Virginia Ave / Wyoming Ave;44.938610;-93.383974
 5767;36th St W & Wyoming Ave / Virginia Ave;44.938524;-93.384039
 5752;36th St W & Zinran Ave;44.938661;-93.388088
 14604;37th Ave NE & 3rd St NE;45.035601;-93.263626
@@ -1190,7 +1190,7 @@
 6200;44th St W & Vincent Ave S;44.923276;-93.316492
 6383;44th St W & Xerxes Ave S;44.923388;-93.318779
 57198;45th Av N & Bryant Av N;45.036644;-93.291212
-53277;45th Ave  & Cub Foods Layover;45.036684;-93.410295
+53277;45th Ave & Cub Foods Layover;45.036684;-93.410295
 11628;45th Ave N & Aldrich Ave N;45.036651;-93.290275
 11415;45th Ave N & Bryant Ave N;45.036752;-93.291229
 52902;45th Ave N & Cub Foods P&R;45.036732;-93.410279
@@ -1310,7 +1310,6 @@
 409;50th St E & Babcock Trail;44.876642;-93.065369
 377;50th St E & Robert St S;44.880872;-93.080055
 414;50th St E & Robert Trail S;44.880947;-93.079884
-199;50th St W &  Zenith Ave;44.912527;-93.321100
 201;50th St W & Abbott Ave S;44.912538;-93.322503
 994;50th St W & Abbott Ave S;44.912426;-93.322872
 214;50th St W & Browndale Ave;44.912017;-93.342596
@@ -1354,6 +1353,7 @@
 983;50th St W & Wooddale Ave;44.912338;-93.339993
 198;50th St W & Xerxes Ave S;44.912509;-93.318676
 997;50th St W & Xerxes Ave S;44.912391;-93.319043
+199;50th St W & Zenith Ave;44.912527;-93.321100
 995;50th St W & Zenith Ave / York Ave;44.912402;-93.320820
 8973;51st Ave N & Brooklyn Blvd;45.047676;-93.320714
 9100;51st Ave N & Penn Ave N;45.047539;-93.309466
@@ -1432,7 +1432,6 @@
 741;60th St E & Chicago Ave S;44.894265;-93.263060
 429;60th St E & Park Ave S;44.894359;-93.265189
 739;60th St E & Park Ave S;44.894256;-93.265517
-56602;62nd  St W & Shady Oak Rd;44.891549;-93.419027
 42951;62nd Place & Kirkwood Lane;45.066777;-93.434386
 42940;62nd Place & Larch Lane;45.067062;-93.435453
 42949;62nd Place & Magnolia Lane;45.067218;-93.436939
@@ -1440,6 +1439,7 @@
 42952;62nd Place & Northwest Blvd (Hemlock Ln);45.066749;-93.431987
 42942;62nd Place & Norwood Lane;45.067465;-93.437743
 42943;62nd Place & Quinwood Lane;45.067666;-93.439487
+56602;62nd St W & Shady Oak Rd;44.891549;-93.419027
 52725;63rd Ave N & Beard Ave;45.069220;-93.324860
 52728;63rd Ave N & Beard Ave;45.069351;-93.324434
 9026;63rd Ave N & Brooklyn Blvd;45.069370;-93.328747
@@ -1916,7 +1916,7 @@
 2079;98th St W & Chowen Ave S;44.827013;-93.327378
 1616;98th St W & Dupont Ave / Fremont Ave;44.826439;-93.294654
 1745;98th St W & Fremont Ave / Dupont Ave S;44.826143;-93.294749
-43664;98th St W & Garfield Ave  / Grand Ave;44.826159;-93.285811
+43664;98th St W & Garfield Ave / Grand Ave;44.826159;-93.285811
 1617;98th St W & Girard Ave S;44.826435;-93.297603
 43616;98th St W & Grand Ave / Garfield Ave;44.826432;-93.286295
 2076;98th St W & Hillside Baptist Church;44.825332;-93.335352
@@ -2118,7 +2118,7 @@
 57095;American Blvd W & Fremont Ave S;44.859499;-93.295400
 57108;American Blvd W & Home Depot;44.859390;-93.283250
 56604;American Blvd W & Lyndale Av/Bryant Av S;44.859480;-93.289394
-53949;American Blvd W & Norman  Center Dr;44.854978;-93.351891
+53949;American Blvd W & Norman Center Dr;44.854978;-93.351891
 53950;American Blvd W & Normandale Lake Blvd;44.855976;-93.354693
 52052;Annapolis Lane & 52nd Ave N;45.048942;-93.454703
 53345;Anoka Station & Platform;45.207781;-93.384071
@@ -2517,7 +2517,6 @@
 12676;Broadway St NE & Stinson Blvd NE;44.998796;-93.226551
 12251;Broadway St NE & University Ave;44.998784;-93.262979
 12260;Broadway St NE & University Ave NE;44.998639;-93.263443
-56402;Brookdale  Dr N & Beard Ave N;45.098509;-93.326351
 9367;Brookdale Dr & 77th Ave N;45.095686;-93.351725
 13348;Brookdale Dr & #500;45.094207;-93.288107
 40453;Brookdale Dr & Brookdale Court;45.094379;-93.305240
@@ -2551,12 +2550,13 @@
 13350;Brookdale Dr & West River Rd;45.094405;-93.287023
 11524;Brookdale Dr & Xerxes Ave N;45.097186;-93.320571
 11526;Brookdale Dr & Xerxes Ave N;45.096865;-93.320083
+56402;Brookdale Dr N & Beard Ave N;45.098509;-93.326351
 56403;Brookdale Dr N & Beard Ave N;45.098347;-93.326212
 56407;Brookdale Dr N & Brookdale Cir N;45.098358;-93.335422
 56404;Brookdale Dr N & France Ave N;45.099600;-93.331401
 56405;Brookdale Dr N & France Ave N;45.099466;-93.331257
 56406;Brookdale Dr N & June Ave N;45.098597;-93.335239
-56419;Brookdale Dr N & Lee Ave  N;45.098014;-93.338475
+56419;Brookdale Dr N & Lee Ave N;45.098014;-93.338475
 56418;Brookdale Dr N & Lee Ave N;45.098126;-93.338582
 9257;Brooklyn Blvd & 49th Ave N;45.044505;-93.319517
 9575;Brooklyn Blvd & 49th Ave N;45.044318;-93.319636
@@ -2707,8 +2707,8 @@
 49290;Canabury Dr & Co Rd B-2;45.013618;-93.090145
 46688;Canabury Dr & Demont Ave;45.016573;-93.090543
 46720;Canabury Dr & Demont Ave;45.016774;-93.090439
-8811;Candlewood Dr  & Georgia Court;45.103791;-93.365099
 40459;Candlewood Dr & Douglas Dr;45.103843;-93.362148
+8811;Candlewood Dr & Georgia Court;45.103791;-93.365099
 8790;Candlewood Dr & Georgia Ct;45.103865;-93.364823
 8791;Candlewood Dr & Hampshire Court;45.103991;-93.365967
 8810;Candlewood Dr & Hampshire Court;45.103864;-93.366244
@@ -2877,7 +2877,6 @@
 57238;Central Av NE & Moore Lake Park;45.076663;-93.240252
 50341;Central Ave (Co Rd 101) & 1st Ave N;44.980102;-93.501896
 50344;Central Ave (Co Rd 101) & 1st Ave N;44.980590;-93.502227
-17192;Central Ave NE  & 26th Ave NE;45.015097;-93.247471
 17225;Central Ave NE & 7th St NE;44.991325;-93.251392
 17224;Central Ave NE & 7th St SE;44.990551;-93.251736
 17211;Central Ave NE & 14th Ave NE;45.002152;-93.247229
@@ -2892,6 +2891,7 @@
 17201;Central Ave NE & 22nd Ave NE;45.009754;-93.247220
 17198;Central Ave NE & 23rd Ave NE;45.010737;-93.247228
 17196;Central Ave NE & 24th Ave NE;45.012272;-93.247484
+17192;Central Ave NE & 26th Ave NE;45.015097;-93.247471
 52073;Central Ave NE & 26th Ave NE;45.014848;-93.247191
 17190;Central Ave NE & 27th Ave NE;45.016632;-93.247225
 17188;Central Ave NE & 28th Ave / 27th Ave;45.017436;-93.247491
@@ -2993,13 +2993,13 @@
 3068;Century Ave (Hwy 120) & 10th St N;44.963710;-92.984620
 3065;Century Ave (Hwy 120) & Fremont Ave;44.957716;-92.984638
 57025;Century Ave S & Parkwood Dr;44.925664;-92.984381
-2606;Cesar Chavez St  & Winifred St;44.931288;-93.080218
 9738;Cesar Chavez St & Ada St;44.929515;-93.076600
 10048;Cesar Chavez St & Ada St;44.929481;-93.077097
 9736;Cesar Chavez St & Bancroft Ave;44.928475;-93.072997
 10050;Cesar Chavez St & Bancroft Ave;44.928454;-93.073414
 40128;Cesar Chavez St & Robert St / State St;44.930712;-93.079705
 2605;Cesar Chavez St & State St;44.930028;-93.078371
+2606;Cesar Chavez St & Winifred St;44.931288;-93.080218
 15971;Chandler Dr & 37th Ave NE;45.035877;-93.213254
 15972;Chandler Dr & 37th Ave NE;45.036085;-93.213094
 15967;Chandler Dr & #3820;45.038788;-93.212301
@@ -3083,8 +3083,8 @@
 52300;Chicago Ave S & Chicago Lake TC Gate C;44.949633;-93.262555
 42;Chicago Ave S & Franklin Ave E;44.962877;-93.262661
 811;Chicago Ave S & Franklin Ave E;44.962547;-93.262465
-52262;Chicago Lake Transit Center  & Gate B;44.949410;-93.262441
 52261;Chicago Lake Transit Center & Gate A;44.949243;-93.262056
+52262;Chicago Lake Transit Center & Gate B;44.949410;-93.262441
 56913;Chicago-Lake Transit Center Gate D;44.949257;-93.262735
 53699;Chowen Ave S & Southwest High School;44.919641;-93.325447
 9781;Clayton Ave & 67th St E;44.851682;-93.034668
@@ -3605,7 +3605,6 @@
 47959;Curve Crest Blvd & Industrial Blvd;45.041000;-92.824163
 51290;Curve Crest Blvd & Market Dr;45.039710;-92.841309
 47958;Curve Crest Blvd & Orleans St W;45.041370;-92.826261
-56234;Dale St  & Grand Ave;44.940122;-93.126279
 10715;Dale St & Arlington Ave;44.984486;-93.126127
 10725;Dale St & Arlington Ave;44.984694;-93.126312
 10758;Dale St & Ashland Ave;44.944171;-93.126322
@@ -3629,6 +3628,7 @@
 10748;Dale St & Fuller Ave;44.954044;-93.126425
 10710;Dale St & Geranium Ave;44.975501;-93.126261
 10730;Dale St & Geranium Ave;44.975696;-93.126445
+56234;Dale St & Grand Ave;44.940122;-93.126279
 10680;Dale St & Grand Ave;44.940171;-93.126122
 10684;Dale St & Holly Ave;44.943814;-93.126158
 5622;Dale St & Hoyt Ave;44.987729;-93.126260
@@ -3925,9 +3925,9 @@
 49694;Edgerton St & Bellwood Ave;44.997706;-93.076204
 49700;Edgerton St & Bellwood Ave;44.997909;-93.076327
 18212;Edgerton St & Brainerd Ave;44.981115;-93.076193
-18233;Edgerton St & Co Rd  B-2;45.011564;-93.076294
 5100;Edgerton St & Co Rd B;45.006218;-93.076270
 5103;Edgerton St & Co Rd B;45.006535;-93.076408
+18233;Edgerton St & Co Rd B-2;45.011564;-93.076294
 18248;Edgerton St & Co Rd B-2;45.011836;-93.076456
 18189;Edgerton St & Cottage Ave;44.982803;-93.076047
 18211;Edgerton St & Cottage Ave;44.982927;-93.076205
@@ -4173,7 +4173,7 @@
 43298;Foley Blvd & Coon Rapids Blvd;45.144545;-93.282427
 40213;Foley P&R & Evergreen Blvd;45.142338;-93.285538
 52153;Folwell Ave & Hodson Hall;44.988304;-93.183553
-56124;Ford & Fairview  Station;44.918021;-93.177652
+56124;Ford & Fairview Station;44.918021;-93.177652
 56113;Ford & Fairview Station;44.917880;-93.176754
 56112;Ford & Finn Station;44.917838;-93.188815
 56126;Ford & Finn Station;44.918001;-93.190381
@@ -4550,7 +4550,7 @@
 40238;Golden Valley Rd Turn & Xerxes Ave N;44.999421;-93.318744
 51362;Gortner Ave & Buford Ave;44.984600;-93.181878
 54047;Gortner Ave & Buford Ave;44.984310;-93.181738
-52844;Gortner Ave & Buford Ave / Buford  Place;44.984883;-93.181736
+52844;Gortner Ave & Buford Ave / Buford Place;44.984883;-93.181736
 52154;Gortner Ave & Carter Ave;44.982065;-93.181878
 51360;Gortner Ave & Dudley Ave;44.986491;-93.181562
 51361;Gortner Ave & Dudley Ave;44.986686;-93.181753
@@ -5502,8 +5502,8 @@
 7335;Laurel Ave W & Sheridan Ave S;44.973611;-93.312073
 7419;Laurel Ave W & Sheridan Ave S;44.973504;-93.312291
 7337;Laurel Ave W & Upton Ave S;44.973610;-93.314617
-49358;Leamington Ramp  & Lower Level Layover;44.971972;-93.271227
 19337;Leamington Ramp & Lower - Gate #7;44.971967;-93.271211
+49358;Leamington Ramp & Lower Level Layover;44.971972;-93.271227
 42837;Leamington Ramp & Upper Level - Layover;44.971865;-93.272188
 45208;Lexington Ave & Co Rd E;45.050532;-93.147208
 49130;Lexington Ave & Co Rd E;45.050616;-93.146950
@@ -5794,7 +5794,7 @@
 110;Lyndale Ave S & 31st St W;44.946792;-93.288233
 169;Lyndale Ave S & 31st St W;44.946831;-93.288007
 57203;Lyndale Ave S & 46th St W;44.919476;-93.288267
-54058;Lyndale Ave S & 48th St  W;44.915814;-93.288205
+54058;Lyndale Ave S & 48th St W;44.915814;-93.288205
 1776;Lyndale Ave S & 50th St W;44.912440;-93.288358
 1857;Lyndale Ave S & 50th St W;44.912435;-93.288178
 134;Lyndale Ave S & 51st St W;44.910041;-93.288359
@@ -7256,8 +7256,8 @@
 44796;Plymouth Blvd & Creek Place Condos;45.026366;-93.478248
 50317;Plymouth Blvd & Creek Place Condos;45.026203;-93.477767
 50318;Plymouth Blvd & Rockford Rd (Co Rd 9);45.027173;-93.478513
-41706;Plymouth Rd  & Ridgehaven / Cartway Lane;44.969023;-93.444009
 6772;Plymouth Rd & Cartway Lane;44.968151;-93.443017
+41706;Plymouth Rd & Ridgehaven / Cartway Lane;44.969023;-93.444009
 6999;Plymouth Rd P&R & Turnaround Entrance;44.972317;-93.446254
 17102;Polk St NE & 89th Ave NE;45.131972;-93.245761
 17100;Polk St NE & 90th Ave NE;45.132961;-93.245649
@@ -7691,9 +7691,9 @@
 52573;Rosedale Sqr & I Sight Family Eye Care;45.022567;-93.169996
 52574;Rosedale Sqr & I Sight Family Eye Care;45.022396;-93.170113
 52171;Rosedale Square & Byerlys;45.021873;-93.169964
-52531;Rosedale Transit Center  Gate A;45.012557;-93.168544
 52530;Rosedale Transit Center & Gate B;45.012760;-93.168117
 52532;Rosedale Transit Center & Gate C;45.012447;-93.168376
+52531;Rosedale Transit Center Gate A;45.012557;-93.168544
 18220;Roselawn Ave & Desoto St;44.999129;-93.081137
 56792;Roselawn Ave & Desoto St / Edgerton St;44.999040;-93.077564
 18219;Roselawn Ave & Edgerton School;44.999152;-93.078105
@@ -7992,7 +7992,6 @@
 40250;Smetana Rd & Westbrooke Way;44.906213;-93.407740
 51119;Smetana Rd & Westbrooke Way;44.906113;-93.408113
 80421;Smith Av & Kellogg Blvd;44.945504;-93.103591
-6272;Smith Ave  & Dodd Rd;44.916417;-93.101871
 52758;Smith Ave & 5th St W;44.946265;-93.102551
 6270;Smith Ave & Annapolis St W;44.919754;-93.101883
 6314;Smith Ave & Annapolis St W;44.919474;-93.101723
@@ -8004,6 +8003,7 @@
 6342;Smith Ave & Christine Lane;44.902572;-93.101910
 6351;Smith Ave & Christine Lane;44.902302;-93.101772
 6313;Smith Ave & Dewerff St;44.918366;-93.101725
+6272;Smith Ave & Dodd Rd;44.916417;-93.101871
 6312;Smith Ave & Dodd Rd;44.915959;-93.101724
 6340;Smith Ave & Emerson Ave W;44.905372;-93.101917
 6354;Smith Ave & Emerson Ave W;44.905141;-93.101791
@@ -8038,28 +8038,28 @@
 6316;Smith Ave & Winona St W;44.921550;-93.101762
 52847;Smith Ave N & Chestnut St;44.944353;-93.105272
 52761;Smith Ramp & Layover;44.946184;-93.103309
-17371;Snelling  & Dayton Station;44.947257;-93.166882
-56118;Snelling  & Minnehaha Station;44.963256;-93.166929
-56115;Snelling  & Randolph Station;44.927254;-93.166927
 50013;Snelling & Co Rd B Station;45.004575;-93.166164
 50015;Snelling & Co Rd B Station;45.005850;-93.166705
 18523;Snelling & Como Station;44.976978;-93.167713
 56119;Snelling & Como Station;44.977774;-93.166471
+17371;Snelling & Dayton Station;44.947257;-93.166882
 17307;Snelling & Dayton Station;44.947560;-93.167118
 17312;Snelling & Grand Station;44.939751;-93.167133
 17366;Snelling & Grand Station;44.939760;-93.166903
-18508;Snelling & Hewitt  Station;44.966791;-93.166906
+18508;Snelling & Hewitt Station;44.966791;-93.166906
 15114;Snelling & Hewitt Station;44.966100;-93.167192
 17332;Snelling & Highland Station;44.919897;-93.167128
 56114;Snelling & Highland Station;44.920091;-93.166932
 56121;Snelling & Hoyt Station;44.987922;-93.167147
 50010;Snelling & Larpenteur Station;44.992226;-93.166419
 50032;Snelling & Larpenteur Station;44.991240;-93.166871
+56118;Snelling & Minnehaha Station;44.963256;-93.166929
 15116;Snelling & Minnehaha Station;44.962460;-93.167191
 56120;Snelling & Nebraska Station;44.986075;-93.166847
+56115;Snelling & Randolph Station;44.927254;-93.166927
 56123;Snelling & Randolph Station;44.926695;-93.167153
 56292;Snelling & Spruce Tree Dr;44.954666;-93.166830
-56116;Snelling & St Clair  Station;44.934545;-93.166902
+56116;Snelling & St Clair Station;44.934545;-93.166902
 17318;Snelling & St Clair Station;44.934444;-93.167139
 56117;Snelling & University Station;44.955130;-93.166859
 56122;Snelling & University Station;44.954969;-93.167142
@@ -8648,7 +8648,7 @@
 5543;Victoria St & Arlington St;44.984746;-93.136436
 4079;Victoria St & Brenner Ave;45.033705;-93.136661
 4081;Victoria St & Brenner Ave;45.033964;-93.136794
-4080;Victoria St & Co Rd  D;45.035704;-93.136699
+4080;Victoria St & Co Rd D;45.035704;-93.136699
 14486;Victoria St & Co Rd D;45.035950;-93.136836
 14461;Victoria St & Crystal Ave;45.063085;-93.131702
 14418;Victoria St & Edgewater Ave;45.038845;-93.135936
@@ -8785,7 +8785,6 @@
 42111;Water St & Myrtle St;45.057571;-92.805903
 49431;Wayzata Access Rd & Cedar Lake Pkwy;44.969348;-93.321337
 56549;Wayzata Access Rd & Cedar Lake Pkwy;44.969178;-93.321069
-6778;Wayzata Blvd  & Glenbrook Rd;44.971530;-93.506095
 7343;Wayzata Blvd & #3701;44.969713;-93.327423
 44646;Wayzata Blvd & #3701;44.969778;-93.326407
 52819;Wayzata Blvd & Benton Ave;44.971237;-93.504599
@@ -8796,6 +8795,7 @@
 51718;Wayzata Blvd & Edgewood Ave / Barry Ave;44.974086;-93.519454
 7193;Wayzata Blvd & Ferndale Rd;44.974815;-93.522105
 8150;Wayzata Blvd & General Mills Blvd P&R;44.972603;-93.389807
+6778;Wayzata Blvd & Glenbrook Rd;44.971530;-93.506095
 6995;Wayzata Blvd & Grand Ave S;44.971627;-93.507418
 6774;Wayzata Blvd & Holiday Station;44.971265;-93.495582
 6998;Wayzata Blvd & Holiday Station;44.971077;-93.496478

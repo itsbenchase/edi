@@ -254,12 +254,12 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 1744;Canon Circle #1;42.086402;-72.504813
 1745;Canon Circle #3;42.086316;-72.504273
 9000;Canon Circle (End Of Line);42.085994;-72.507995
-1137;Carew /  Cass and Desrosiers;42.116766;-72.595131
 1105;Carew / Algonquin;42.118048;-72.594801
 1103;Carew / Algonquin (opposite);42.118069;-72.594919
 1022;Carew / Armory;42.122348;-72.588054
 1023;Carew / Armory;42.122194;-72.588449
 1143;Carew / Bartlett;42.11665;-72.595303
+1137;Carew / Cass and Desrosiers;42.116766;-72.595131
 1225;Carew / Chestnut (1);42.11386;-72.596407
 1222;Carew / Chestnut (2);42.113904;-72.596517
 1301;Carew / Dwight (1);42.111444;-72.599662
@@ -401,10 +401,10 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 5000;Converse / Highland;42.06499;-72.576243
 5001;Converse / Laurel;42.064933;-72.573542
 5004;Converse / Williamsburg;42.065346;-72.553252
-268;Conz St /  Dialysis Center;42.313232;-72.626889
+268;Conz St / Dialysis Center;42.313232;-72.626889
 6031;Cooley / Caitlin;42.087215;-72.502444
 1734;Cooley / Caitlin (opposite);42.087077;-72.502847
-9007;Corticelli /  Pine OB;42.331214;-72.676531
+9007;Corticelli / Pine OB;42.331214;-72.676531
 6307;Cottage / Carando;42.143858;-72.536589
 6308;Cottage / Industry;42.144167;-72.542198
 784;Cottage / Progress (opposite);42.143098;-72.532882
@@ -628,7 +628,7 @@ place_AcaMus;Academy of Music;42.317669;-72.633606
 236;Hampshire College;42.326183;-72.532064
 9095;Hampshire County House of Corrections;42.307315;-72.658578
 140;Hampshire Mall;42.355893;-72.550129
-170;Hampshire Plaza /  Big Y;42.340444;-72.642507
+170;Hampshire Plaza / Big Y;42.340444;-72.642507
 1351;Hancock / Monroe;42.108932;-72.568823
 1419;Hancock / Pendleton;42.105862;-72.568206
 1372;Hancock / Quincy;42.10769;-72.568456
@@ -1158,12 +1158,12 @@ place_HTC;Holyoke Transportation Center;42.20795;-72.607762
 6501;Pleasant / Dwight;42.211303;-72.620406
 376;Pleasant / Forestdale;42.209517;-72.620497
 363;Pleasant / Hampden;42.213028;-72.620307
-300;Pleasant / Hill  (Eastworks);42.272387;-72.667211
+300;Pleasant / Hill (Eastworks);42.272387;-72.667211
 356;Pleasant / Lincoln;42.21589;-72.620275
 296;Pleasant / Ridgewood (1);42.27416;-72.661838
 297;Pleasant / Ridgewood (2);42.274019;-72.661933
 293;Pleasant / Terrace;42.2759;-72.657846
-262;Pleasant St /  Hockanum Rd OB;42.314998;-72.625294
+262;Pleasant St / Hockanum Rd OB;42.314998;-72.625294
 17;Plumtree Road (In);42.431568;-72.543873
 18;Plumtree Road (Out);42.431924;-72.543969
 179;Pomeroy Lane (In);42.34076;-72.519923
@@ -1247,7 +1247,7 @@ place_HTC;Holyoke Transportation Center;42.20795;-72.607762
 173;Russell / State Hwy 9;42.342016;-72.596075
 174;Russell / West;42.341953;-72.594426
 8;Russell Street;42.458285;-72.572468
-9008;Ryan /  Spring OB;42.329894;-72.678622
+9008;Ryan / Spring OB;42.329894;-72.678622
 323;S. Hadley Center;42.258011;-72.575905
 9005;SAAB Court;42.111373;-72.592845
 854;Saint James / El Paso;42.137495;-72.564462
@@ -1291,10 +1291,10 @@ place_HTC;Holyoke Transportation Center;42.20795;-72.607762
 5060;Southampton / Hickney;42.14921;-72.728057
 5057;Southampton / Summit Lock;42.175192;-72.727224
 153;Southpoint Apts;42.350463;-72.530258
-86;Southwest Residential  / University Drive (S);42.381998;-72.531849
 78;Southwest Residential / Massachusetts Avenue (E);42.38464;-72.528411
 77;Southwest Residential / Massachusetts Avenue (W);42.384953;-72.528281
 87;Southwest Residential / University Drive (N);42.382772;-72.53178
+86;Southwest Residential / University Drive (S);42.381998;-72.531849
 7908;Spencer (E);42.243856;-71.994455
 7909;Spencer (W);42.243966;-71.99414
 1850;Springfield / Agawam Jr High;42.067313;-72.67459
@@ -1499,7 +1499,7 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 7912;Union Station Garage;42.260201;-71.795178
 6187;University / Amity;42.374933;-72.532596
 6188;University / Amity (1);42.374993;-72.532695
-6470;University Park Apartments /  Jarvis;42.217976;-72.641303
+6470;University Park Apartments / Jarvis;42.217976;-72.641303
 6471;University Park Apartments / Jarvis (IN);42.218194;-72.641305
 150;VA Medical Center;42.351287;-72.682176
 54;Village Park Apts (N);42.395016;-72.51555
@@ -1672,7 +1672,7 @@ place_UnSta;Springfield Union Station;42.106518;-72.593654
 1140;Wilbraham and Jeffrey (Southside);42.117502;-72.50845
 9130;Williams / Longmeadow;42.050578;-72.582767
 1858;Williamsburg / Jamestown;42.067025;-72.552321
-55;Williamsburg Center /  Grange Hall;42.391999;-72.729709
+55;Williamsburg Center / Grange Hall;42.391999;-72.729709
 1570;Wingate;42.096065;-72.504503
 2780;Woodhaven Drive (In);42.283072;-72.40537
 2781;Woodhaven Drive (Out);42.283015;-72.405528

@@ -15,9 +15,9 @@
 67;Atlantic St. at Barnum Dyke;41.160015;-73.202938
 30;Atlantic St. at Iranistan Ave.;41.164093;-73.196838
 31;Atlantic St. at Iranistan Ave.;41.164173;-73.196953
+33;Atlantic St. at Utility Pole 9618;41.161839;-73.200722
 28;Atlantic St. opp 850 Atlantic St.;41.163082;-73.198563
 32;Atlantic St. opp Utility Pole 9618;41.161812;-73.200577
-33;Atlantic St. at Utility Pole 9618;41.161839;-73.200722
 88;Barnum Ave. Cutoff at Burlington Coat Factory;41.198936;-73.128059
 90;Barnum Ave. Cutoff at Main St.;41.198936;-73.130859
 27;Barnum Ave. Cutoff opp Burlington Coat Factory;41.198784;-73.128540
@@ -47,8 +47,6 @@
 65;Barnum Ave. at Kossuth St.;41.187290;-73.182411
 85;Barnum Ave. at Light St.;41.192204;-73.149216
 66;Barnum Ave. at Main St.;41.198940;-73.132843
-47;Barnum Ave. opp Brooks St.;41.187031;-73.179459
-72;Barnum Ave. opp Prince St.;41.187805;-73.161148
 70;Barnum Ave. at Pembroke St.;41.186966;-73.178123
 71;Barnum Ave. at Pembroke St.;41.187073;-73.177879
 73;Barnum Ave. at Prince St.;41.187988;-73.161041
@@ -56,14 +54,16 @@
 82;Barnum Ave. at Seaview Ave.;41.186562;-73.169739
 83;Barnum Ave. at Seaview Ave.;41.186684;-73.169853
 84;Barnum Ave. at Thompson St.;41.192032;-73.149200
+47;Barnum Ave. opp Brooks St.;41.187031;-73.179459
+72;Barnum Ave. opp Prince St.;41.187805;-73.161148
 94;Beardsley Ave. at Stratford Ave.;41.188435;-73.133461
-96;Benton St. opp Short St.;41.173943;-73.145432
-9929;Benton St. opp Wellington St.;41.173218;-73.143143
 95;Benton St. at Pepsi-Cola Distribution Center;41.172657;-73.141312
 97;Benton St. at Short St.;41.174133;-73.145660
 98;Benton St. at Wellington St.;41.173290;-73.142937
 99;Benton St. at Woodend Rd.;41.170113;-73.140358
 100;Benton St. at Woodend Rd.;41.170094;-73.139992
+96;Benton St. opp Short St.;41.173943;-73.145432
+9929;Benton St. opp Wellington St.;41.173218;-73.143143
 108;Black Rock Tpk. at 1920 Black Rock Tpk.;41.180454;-73.247963
 109;Black Rock Tpk. at 1925 Black Rock Tpk.;41.180687;-73.249290
 110;Black Rock Tpk. at Burroughs Rd.;41.179565;-73.245773
@@ -99,9 +99,6 @@
 146;Boston Ave. at Noble Ave.;41.200081;-73.183357
 147;Boston Ave. at Noble Ave.;41.201145;-73.184753
 148;Boston Ave. at North Summerfield Ave.;41.193668;-73.161591
-128;Boston Ave. opp Bruce Ave.;41.192612;-73.153824
-134;Boston Ave. opp Dean Pl.;41.202362;-73.187782
-1902;Boston Ave. opp Mill Hill Ave.;41.193546;-73.165680
 149;Boston Ave. at Orchard St.;41.196526;-73.178169
 150;Boston Ave. at Otis Ave.;41.192917;-73.150452
 151;Boston Ave. at Pembroke St.;41.195259;-73.176231
@@ -111,6 +108,9 @@
 154;Boston Ave. at Summerfield Ave.;41.193516;-73.161812
 155;Boston Ave. at Weber Ave.;41.192661;-73.155579
 158;Boston Ave. at Willow St.;41.193150;-73.159531
+128;Boston Ave. opp Bruce Ave.;41.192612;-73.153824
+134;Boston Ave. opp Dean Pl.;41.202362;-73.187782
+1902;Boston Ave. opp Mill Hill Ave.;41.193546;-73.165680
 160;Boston Post Rd. at 1275 Post Rd. (Brick Walk);41.142876;-73.254745
 164;Boston Post Rd. at Belmont St.;41.147850;-73.247185
 169;Boston Post Rd. at Home Acres Ave.;41.232758;-73.043755
@@ -160,25 +160,6 @@
 253;Bridgeport Ave. at Naugatuck Ave.;41.201962;-73.102364
 254;Bridgeport Ave. at Naugatuck Ave.;41.202316;-73.101898
 255;Bridgeport Ave. at Nells Rock Rd.;41.295773;-73.108780
-210;Bridgeport Ave. opp 330 Bridgeport Ave.;41.298546;-73.106255
-212;Bridgeport Ave. opp 555 Bridgeport Ave.;41.286106;-73.114563
-213;Bridgeport Ave. opp 705 Bridgeport Ave;41.274796;-73.124329
-207;Bridgeport Ave. opp 1001 Brideport Ave.;41.258232;-73.143341
-320;Bridgeport Ave. opp Blacks Hills Rd.;41.306782;-73.099396
-225;Bridgeport Ave. opp Clark St.;41.216755;-73.068565
-230;Bridgeport Ave. opp Constitution Blvd. South;41.305222;-73.100204
-232;Bridgeport Ave. opp Country Place Condos;41.296844;-73.107544
-243;Bridgeport Ave. opp I-95 Exit 34;41.204983;-73.093880
-246;Bridgeport Ave. opp K-Mart Shopping Center;41.207550;-73.087379
-247;Bridgeport Ave. opp Lansdale Ave.;41.207031;-73.088814
-250;Bridgeport Ave. opp Long Hill Cross Rd.;41.281216;-73.118248
-252;Bridgeport Ave. opp Meadows End Rd.;41.209393;-73.083923
-263;Bridgeport Ave. opp Rivercliff Dr.;41.200001;-73.108040
-257;Bridgeport Ave. opp Route 8 Off-Ramps;41.261772;-73.137329
-268;Bridgeport Ave. opp Route 8 Park-and-Ride Lot;41.301468;-73.103455
-270;Bridgeport Ave. opp Schoolhouse Rd.;41.210205;-73.082123
-327;Bridgeport Ave. opp Sullivan Ave.;41.308983;-73.098534
-282;Bridgeport Ave. opp Wal-Mart;41.290100;-73.112007
 258;Bridgeport Ave. at Ormond St.;41.201595;-73.103729
 259;Bridgeport Ave. at Osborne St.;41.217907;-73.064575
 260;Bridgeport Ave. at Parrott Dr.;41.270237;-73.128326
@@ -201,6 +182,25 @@
 279;Bridgeport Ave. at Trap Falls Rd.;41.266872;-73.131279
 281;Bridgeport Ave. at Wal-Mart;41.289783;-73.112396
 283;Bridgeport Ave. at Woodland Park;41.288334;-73.113304
+210;Bridgeport Ave. opp 330 Bridgeport Ave.;41.298546;-73.106255
+212;Bridgeport Ave. opp 555 Bridgeport Ave.;41.286106;-73.114563
+213;Bridgeport Ave. opp 705 Bridgeport Ave;41.274796;-73.124329
+207;Bridgeport Ave. opp 1001 Brideport Ave.;41.258232;-73.143341
+320;Bridgeport Ave. opp Blacks Hills Rd.;41.306782;-73.099396
+225;Bridgeport Ave. opp Clark St.;41.216755;-73.068565
+230;Bridgeport Ave. opp Constitution Blvd. South;41.305222;-73.100204
+232;Bridgeport Ave. opp Country Place Condos;41.296844;-73.107544
+243;Bridgeport Ave. opp I-95 Exit 34;41.204983;-73.093880
+246;Bridgeport Ave. opp K-Mart Shopping Center;41.207550;-73.087379
+247;Bridgeport Ave. opp Lansdale Ave.;41.207031;-73.088814
+250;Bridgeport Ave. opp Long Hill Cross Rd.;41.281216;-73.118248
+252;Bridgeport Ave. opp Meadows End Rd.;41.209393;-73.083923
+263;Bridgeport Ave. opp Rivercliff Dr.;41.200001;-73.108040
+257;Bridgeport Ave. opp Route 8 Off-Ramps;41.261772;-73.137329
+268;Bridgeport Ave. opp Route 8 Park-and-Ride Lot;41.301468;-73.103455
+270;Bridgeport Ave. opp Schoolhouse Rd.;41.210205;-73.082123
+327;Bridgeport Ave. opp Sullivan Ave.;41.308983;-73.098534
+282;Bridgeport Ave. opp Wal-Mart;41.290100;-73.112007
 325;Bridgeport Ave.. opp Perry Hill Rd.;41.313747;-73.096123
 932;Bridgeport Hospital at Mill Hill Ave.;41.191856;-73.165169
 933;Bridgeport Hospital at Mill Hill Ave.;41.191841;-73.165306
@@ -253,13 +253,13 @@
 335;Central Ave. at Grant St.;41.188725;-73.167435
 336;Central Ave. at Grant St.;41.189049;-73.167587
 337;Central Ave. at Ogden St. Ext.;41.191257;-73.167587
-334;Central Ave. opp Deacon St.;41.181896;-73.166313
-338;Central Ave. opp Ogden St. Ext.;41.191879;-73.167450
 339;Central Ave. at Orange St.;41.175732;-73.165253
 340;Central Ave. at Stratford Ave.;41.178665;-73.165657
 341;Central Ave. at Stratford Ave.;41.178581;-73.165771
 342;Central Ave. at Williston St.;41.183380;-73.166618
 343;Central Ave. at Williston St.;41.183769;-73.166847
+334;Central Ave. opp Deacon St.;41.181896;-73.166313
+338;Central Ave. opp Ogden St. Ext.;41.191879;-73.167450
 345;Cherry St. at 50 Cherry St.;41.226864;-73.054306
 346;Cherry St. at 51-61 Cherry St.;41.226742;-73.054123
 344;Cherry St. at 158 Cherry St.;41.228439;-73.050331
@@ -297,16 +297,16 @@
 388;Connecticut Ave. at Carroll Ave.;41.181030;-73.163971
 389;Connecticut Ave. at Central Ave.;41.180332;-73.165825
 390;Connecticut Ave. at Fifth St.;41.179314;-73.168518
-391;Connecticut Ave. opp Hewitt St.;41.182343;-73.160469
-395;Connecticut Ave. opp Waterman St.;41.183048;-73.158630
 394;Connecticut Ave. at Third St.;41.178673;-73.170235
 392;Connecticut Ave. at Wilmot Ave.;41.181381;-73.163048
+391;Connecticut Ave. opp Hewitt St.;41.182343;-73.160469
+395;Connecticut Ave. opp Waterman St.;41.183048;-73.158630
 396;Constitution Blvd. South at Long Hill Ave.;41.303684;-73.097275
 397;Constitution Blvd. South at Long Hill Ave.;41.303406;-73.097214
-398;Constitution Blvd. South opp Plaskon Dr.;41.296841;-73.091484
-403;Constitution Blvd. South opp Suresource Entrance;41.289806;-73.081345
 399;Constitution Blvd. South at Plaskon Dr.;41.296982;-73.091408
 402;Constitution Blvd. South at Suresource Entrance;41.289555;-73.081383
+398;Constitution Blvd. South opp Plaskon Dr.;41.296841;-73.091484
+403;Constitution Blvd. South opp Suresource Entrance;41.289806;-73.081345
 1842;Constitution Blvd. at River Rd.;41.287235;-73.081772
 1843;Constitution Blvd. at River Rd.;41.287540;-73.081490
 404;Corporate Dr. at 1 Corporate Dr.;41.276676;-73.130898
@@ -314,8 +314,8 @@
 406;Corporate Dr. at 4 Corporate Dr.;41.276508;-73.130905
 412;Derby Railroad Station;41.320393;-73.083748
 414;Dock Shopping Center at BJ's Wholesale Club;41.202942;-73.112007
-413;Dock Shopping Center opp BJ's Wholesale Club;41.203323;-73.112267
 416;Dock Shopping Center at Side of Stop & Shop;41.203007;-73.115273
+413;Dock Shopping Center opp BJ's Wholesale Club;41.203323;-73.112267
 417;East Ave. at Bettswood Rd.;41.118546;-73.407761
 419;East Ave. at Park Hill Ave.;41.119999;-73.407242
 420;East Ave. at Saint Paul's Pl.;41.119682;-73.407516
@@ -343,11 +343,6 @@
 459;East Main St. at Nichols St.;41.180023;-73.181084
 460;East Main St. at Nichols St.;41.179897;-73.181252
 461;East Main St. at Noble Ave.;41.209812;-73.178986
-431;East Main St. opp Berkeley Pl.;41.204250;-73.179260
-438;East Main St. opp Burroughs St.;41.183071;-73.180923
-447;East Main St. opp Essex St.;41.199352;-73.180351
-454;East Main St. opp Kent St.;41.201317;-73.179878
-480;East Main St. opp York St.;41.203583;-73.179390
 465;East Main St. at Putnam St.;41.194378;-73.180359
 466;East Main St. at Putnam St.;41.194614;-73.180504
 467;East Main St. at Shelton St.;41.190781;-73.180519
@@ -358,6 +353,11 @@
 471;East Main St. at Stillman St.;41.192322;-73.180595
 474;East Main St. at Texas Ave.;41.207439;-73.178795
 479;East Main St. at York St.;41.202896;-73.179314
+431;East Main St. opp Berkeley Pl.;41.204250;-73.179260
+438;East Main St. opp Burroughs St.;41.183071;-73.180923
+447;East Main St. opp Essex St.;41.199352;-73.180351
+454;East Main St. opp Kent St.;41.201317;-73.179878
+480;East Main St. opp York St.;41.203583;-73.179390
 481;East Town Rd. at Westfield Ct Post Mall (Front Entry);41.238194;-73.033958
 482;East Town Rd. at Westfield Ct Post Mall (Front Entry);41.238235;-73.033752
 483;East Town Rd. at Westfield Ct Post Mall (Rear Entry);41.236744;-73.032364
@@ -389,7 +389,6 @@
 524;Fairfield Ave. at Melrose Ave.;41.158836;-73.224976
 525;Fairfield Ave. at Mountain Grove St.;41.170078;-73.213676
 526;Fairfield Ave. at Norman St.;41.174366;-73.203247
-530;Fairfield Ave. opp Pine St.;41.166809;-73.217499
 528;Fairfield Ave. at Orland St.;41.165703;-73.218613
 529;Fairfield Ave. at Pine St.;41.166870;-73.217018
 531;Fairfield Ave. at Poland St.;41.155476;-73.233597
@@ -399,6 +398,7 @@
 535;Fairfield Ave. at Silliman Ave.;41.168922;-73.215004
 536;Fairfield Ave. at Waldorf Ave.;41.162983;-73.221313
 538;Fairfield Ave. at Wordin Ave.;41.163860;-73.220169
+530;Fairfield Ave. opp Pine St.;41.166809;-73.217499
 539;Fairfield Woods Rd. at Stillson Rd.;41.186207;-73.252068
 544;Ferry Blvd. at Minor St.;41.196808;-73.120079
 545;Frank St. at Main St.;41.188030;-73.194992
@@ -413,23 +413,23 @@
 554;Golden Hill St. at Main St.;41.180378;-73.189995
 555;Golden Hill St. at Main St.;41.180428;-73.190254
 553;Golden Hill St. opp Lyon Ter.;41.179832;-73.192116
-556;Granfield Ave. opp Carnegie Ave.;41.196400;-73.160034
-559;Granfield Ave. opp Wessels Ave.;41.197079;-73.163406
 557;Granfield Ave. at Pearl Harbor St.;41.196873;-73.162552
 558;Granfield Ave. at Pearl Harbor St.;41.196869;-73.162102
 560;Granfield Ave. at Wessels Ave.;41.197109;-73.163139
+556;Granfield Ave. opp Carnegie Ave.;41.196400;-73.160034
+559;Granfield Ave. opp Wessels Ave.;41.197079;-73.163406
 566;Grasmere Ave. at Home Depot;41.157028;-73.241867
 567;Grasmere Ave. at Home Depot;41.157452;-73.242096
 568;Greensend Pl. at South Broad St.;41.219116;-73.063156
 570;Hawley Lane Mall at Back Of Bestbuy;41.232979;-73.152344
 572;Hawley Lane Mall at Front Of Target;41.233871;-73.151382
-574;Hawley Lane Mall opp Side Of Khol's;41.232372;-73.153862
 573;Hawley Lane Mall at Side Of Khol's;41.232346;-73.153763
+574;Hawley Lane Mall opp Side Of Khol's;41.232372;-73.153862
 586;Hollister Ave. at Alex St.;41.178268;-73.160896
-587;Hollister Ave. opp Alex St.;41.177982;-73.160591
 588;Hollister Ave. at Orange St.;41.175831;-73.159676
 589;Hollister Ave. at Orange St.;41.175758;-73.159470
 590;Hollister Ave. at Stratford Ave.;41.179623;-73.161400
+587;Hollister Ave. opp Alex St.;41.177982;-73.160591
 591;Honeyspot Rd. at Benton St.;41.174744;-73.147743
 592;Honeyspot Rd. at Garfield Ave.;41.174519;-73.148041
 593;Housatoinic Ave. at Garland St.;41.193634;-73.193390
@@ -446,12 +446,12 @@
 630;Huntington Tpk. at East Pasadena Pl.;41.218990;-73.170654
 631;Huntington Tpk. at Mapledale Pl.;41.219460;-73.170494
 632;Huntington Tpk. at Nutmeg Rd.;41.215569;-73.173149
-627;Huntington Tpk. opp 1235 Huntington Tpk.;41.224693;-73.166679
-635;Huntington Tpk. opp Priscilla St.;41.214195;-73.174789
 634;Huntington Tpk. at Priscilla St.;41.213943;-73.174812
 636;Huntington Tpk. at Rosewood Pl.;41.218018;-73.171524
 638;Huntington Tpk. at Virginia Ave.;41.211353;-73.177536
 639;Huntington Tpk. at Virginia Ave.;41.211212;-73.177834
+627;Huntington Tpk. opp 1235 Huntington Tpk.;41.224693;-73.166679
+635;Huntington Tpk. opp Priscilla St.;41.214195;-73.174789
 640;Iranistan Ave. at Black Rock Ave.;41.169411;-73.201035
 641;Iranistan Ave. at Burnham St.;41.165573;-73.198013
 642;Iranistan Ave. at Cottage St.;41.171169;-73.201073
@@ -467,19 +467,19 @@
 658;John St. at Courtland St.;41.176350;-73.193779
 660;John St. at Lafayette Blvd.;41.176853;-73.192268
 663;John St. at Park Ave.;41.174713;-73.198174
-668;Kings Hwy.  at New England Ave.;41.160072;-73.236847
 664;Kings Hwy. Cutoff at 1296 Kings Hwy. Cutoff;41.149662;-73.245033
 665;Kings Hwy. at Commerce Dr.;41.162140;-73.235863
 666;Kings Hwy. at Commerce Dr.;41.162128;-73.236069
 667;Kings Hwy. at Grasmere Ave.;41.157562;-73.239487
+668;Kings Hwy. at New England Ave.;41.160072;-73.236847
 669;Kings Hwy. opp New England Ave.;41.159920;-73.236771
 677;Kossuth St. at Howe St.;41.181316;-73.182304
 679;Kossuth St. at Nichols St.;41.180218;-73.182442
-678;Kossuth St. opp Howe St.;41.181877;-73.183144
-680;Kossuth St. opp Nichols St.;41.180309;-73.182564
 681;Kossuth St. at Pulaski St.;41.183800;-73.182808
 682;Kossuth St. at Pulaski St.;41.184132;-73.182930
 683;Kossuth St. at Stratford Ave.;41.178520;-73.182549
+678;Kossuth St. opp Howe St.;41.181877;-73.183144
+680;Kossuth St. opp Nichols St.;41.180309;-73.182564
 685;Lafayette Sq. at Golden Hill St.;41.179672;-73.194092
 686;Lafayette Sq. at Washington Ave.;41.179920;-73.194633
 689;Lindeman Dr. at 25 Lindeman Dr.;41.231636;-73.198067
@@ -487,15 +487,15 @@
 692;Lindeman Dr. at 39 Lindeman Dr.;41.231846;-73.199799
 691;Lindeman Dr. at 40 Lindeman Dr.;41.231956;-73.199661
 9906;Lindeman Dr. at Oakview Dr.;41.232006;-73.203026
-694;Lindeman Dr. opp Utility Pole 4573;41.231880;-73.201050
 695;Lindeman Dr. at Reservoir Ave.;41.231857;-73.195976
 696;Lindeman Dr. at Reservoir Ave.;41.231686;-73.195801
 697;Lindeman Dr. at Utility Pole 4573;41.231983;-73.200867
+694;Lindeman Dr. opp Utility Pole 4573;41.231880;-73.201050
 698;Lordship Blvd. at Connecticut D.O.T. Driveway;41.173092;-73.157310
 699;Lordship Blvd. at Honeyspot Rd.;41.171120;-73.153008
 700;Lordship Blvd. at Honeyspot Rd. Ext.;41.170914;-73.153076
-702;Lordship Blvd. opp Research Dr.;41.172256;-73.156013
 701;Lordship Blvd. at Research Dr.;41.172264;-73.155518
+702;Lordship Blvd. opp Research Dr.;41.172256;-73.156013
 703;Madison Ave. at Abric Dr.;41.228096;-73.232552
 704;Madison Ave. at Aldo St.;41.200748;-73.213463
 705;Madison Ave. at Amsterdam Ave.;41.198753;-73.210411
@@ -534,12 +534,6 @@
 742;Madison Ave. at North Ave.;41.189098;-73.200111
 743;Madison Ave. at Old Town Rd.;41.226337;-73.231934
 744;Madison Ave. at Old Town Rd.;41.226147;-73.232109
-711;Madison Ave. opp Beers St.;41.190281;-73.202805
-722;Madison Ave. opp Dobson St.;41.221970;-73.227875
-724;Madison Ave. opp Eckart St.;41.222515;-73.230583
-734;Madison Ave. opp Indian Field Rd.;41.220646;-73.226524
-746;Madison Ave. opp Patricia Rd.;41.216877;-73.227592
-759;Madison Ave. opp Vincellette St.;41.212494;-73.224358
 745;Madison Ave. at Patricia Rd.;41.216610;-73.227425
 747;Madison Ave. at Ranch Dr.;41.219662;-73.225945
 748;Madison Ave. at Royce Pl.;41.224506;-73.231560
@@ -557,6 +551,12 @@
 763;Madison Ave. at Westfield Ave.;41.202080;-73.215439
 764;Madison Ave. at Westfield Trumbull Mall Entrance;41.228828;-73.232544
 765;Madison Ave. at Wheeler Ave.;41.191444;-73.203697
+711;Madison Ave. opp Beers St.;41.190281;-73.202805
+722;Madison Ave. opp Dobson St.;41.221970;-73.227875
+724;Madison Ave. opp Eckart St.;41.222515;-73.230583
+734;Madison Ave. opp Indian Field Rd.;41.220646;-73.226524
+746;Madison Ave. opp Patricia Rd.;41.216877;-73.227592
+759;Madison Ave. opp Vincellette St.;41.212494;-73.224358
 9921;Main St. & Oronoque Ln.;41.246742;-73.101952
 2840;Main St. at 4600 Main St.;41.222267;-73.217888
 774;Main St. at 6905 Main St. (Homewood Suites);41.247154;-73.102028
@@ -608,7 +608,7 @@
 845;Main St. at Highland Ave.;41.215969;-73.125450
 847;Main St. at Hillhouse Ave.;41.210087;-73.208763
 848;Main St. at Hillside Ave.;41.202400;-73.131332
-849;Main St. at Hillview  St.;41.223488;-73.218063
+849;Main St. at Hillview St.;41.223488;-73.218063
 770;Main St. at Hurd Ave.;41.203083;-73.131317
 850;Main St. at Jewett Ave.;41.212688;-73.210976
 851;Main St. at Judson Pl.;41.191257;-73.130287
@@ -621,18 +621,6 @@
 866;Main St. at North Ave.;41.191841;-73.197220
 867;Main St. at Old Town Rd.;41.226833;-73.218658
 868;Main St. at Old Town Rd.;41.226757;-73.218842
-801;Main St. opp Arch St.;41.183460;-73.191338
-782;Main St. opp Barrows St.;41.216999;-73.124489
-790;Main St. opp Broadbridge Ave.;41.194878;-73.131721
-768;Main St. opp Curtis Pl.;41.200165;-73.131409
-769;Main St. opp East Garden St.;41.205204;-73.131798
-817;Main St. opp Elizabeth St.;41.319450;-73.088676
-771;Main St. opp Fenelon Pl.;41.210232;-73.129509
-839;Main St. opp Harvard Ave.;41.212788;-73.127464
-853;Main St. opp Kaechele Pl.;41.221291;-73.217896
-861;Main St. opp Mill River  Dr.;41.218994;-73.120979
-909;Main St. opp Wentworth  St.;41.206261;-73.206139
-920;Main St. opp Woodstock Ave.;41.211071;-73.128990
 869;Main St. at Overland Ave.;41.214928;-73.212372
 870;Main St. at Oxford St.;41.219292;-73.215805
 872;Main St. at Park & Ride Lot;41.243839;-73.103188
@@ -661,6 +649,18 @@
 916;Main St. at Woodside Ave.;41.215981;-73.213112
 917;Main St. at Woodside Ave.;41.216236;-73.213478
 919;Main St. at Woodstock Ave.;41.210991;-73.128853
+801;Main St. opp Arch St.;41.183460;-73.191338
+782;Main St. opp Barrows St.;41.216999;-73.124489
+790;Main St. opp Broadbridge Ave.;41.194878;-73.131721
+768;Main St. opp Curtis Pl.;41.200165;-73.131409
+769;Main St. opp East Garden St.;41.205204;-73.131798
+817;Main St. opp Elizabeth St.;41.319450;-73.088676
+771;Main St. opp Fenelon Pl.;41.210232;-73.129509
+839;Main St. opp Harvard Ave.;41.212788;-73.127464
+853;Main St. opp Kaechele Pl.;41.221291;-73.217896
+861;Main St. opp Mill River Dr.;41.218994;-73.120979
+909;Main St. opp Wentworth St.;41.206261;-73.206139
+920;Main St. opp Woodstock Ave.;41.211071;-73.128990
 922;Maplewood Ave. at Brothwell St.;41.179947;-73.206299
 923;Maplewood Ave. at Clinton Ave.;41.176636;-73.211823
 924;Maplewood Ave. at Laurel Ave.;41.177395;-73.210327
@@ -681,15 +681,15 @@
 938;Monroe Tpk. at 220 Monroe Tpk.;41.298786;-73.225960
 942;Monroe Tpk. at Corporate Dr;41.296013;-73.228828
 943;Monroe Tpk. at Monroe Mcdonalds;41.310696;-73.221245
-940;Monroe Tpk. opp 48 Monroe Tpk.;41.292099;-73.233376
-939;Monroe Tpk. opp 220 Monroe Tpk.;41.299042;-73.226036
-944;Monroe Tpk. opp Monroe Mcdonalds;41.310612;-73.221458
-947;Monroe Tpk. opp Spring Hill Rd.;41.301071;-73.223854
 945;Monroe Tpk. at Purdy Hill Rd.;41.301933;-73.223320
 946;Monroe Tpk. at Purdy Hill Rd.;41.302544;-73.223473
 948;Monroe Tpk. at Spring Hill Road;41.301182;-73.224075
 9913;Monroe Tpk. at Stop & Shop;41.315632;-73.217087
 949;Monroe Tpk. at Technology Dr.;41.296585;-73.228577
+940;Monroe Tpk. opp 48 Monroe Tpk.;41.292099;-73.233376
+939;Monroe Tpk. opp 220 Monroe Tpk.;41.299042;-73.226036
+944;Monroe Tpk. opp Monroe Mcdonalds;41.310612;-73.221458
+947;Monroe Tpk. opp Spring Hill Rd.;41.301071;-73.223854
 950;Newfield Ave. at Deforest Ave.;41.170815;-73.169777
 951;Newfield Ave. at Deforest Ave.;41.171009;-73.169815
 952;Newfield Ave. at Jefferson St.;41.171986;-73.169151
@@ -708,6 +708,10 @@
 971;Newtown Tpk. at Meadow Rd.;41.271637;-73.226662
 972;Newtown Tpk. at Oakland Dr.;41.269398;-73.225800
 973;Newtown Tpk. at Old Mine Rd.;41.289883;-73.234550
+975;Newtown Tpk. at Pinehurst St.;41.261349;-73.221031
+1844;Newtown Tpk. at St. Joseph's Manor;41.274960;-73.226891
+979;Newtown Tpk. at Stonehouse Rd.;41.274364;-73.227005
+980;Newtown Tpk. at Whitney Ave.;41.278313;-73.228195
 960;Newtown Tpk. opp Broadway Rd.;41.286766;-73.235481
 962;Newtown Tpk. opp Church Hill Rd..;41.258083;-73.219810
 964;Newtown Tpk. opp Clark Rd.;41.259571;-73.220070
@@ -715,10 +719,6 @@
 974;Newtown Tpk. opp Old Mine Rd.;41.289280;-73.234886
 976;Newtown Tpk. opp Pinehurst St.;41.261364;-73.221252
 977;Newtown Tpk. opp Ridgeview Ave.;41.269211;-73.225563
-975;Newtown Tpk. at Pinehurst St.;41.261349;-73.221031
-1844;Newtown Tpk. at St. Joseph's Manor;41.274960;-73.226891
-979;Newtown Tpk. at Stonehouse Rd.;41.274364;-73.227005
-980;Newtown Tpk. at Whitney Ave.;41.278313;-73.228195
 981;Nichols Ave. at Allencrest Dr.;41.222610;-73.150444
 982;Nichols Ave. at Connors Ln.;41.219959;-73.148628
 983;Nichols Ave. at Denise Dr.;41.221638;-73.149734
@@ -726,11 +726,11 @@
 985;Nichols Ave. at Green Valley Rd.;41.226990;-73.152618
 986;Nichols Ave. at Hawley Ln..;41.230412;-73.153961
 987;Nichols Ave. at Lawlor Ter.;41.224453;-73.151398
-992;Nichols Ave. opp Val Dr.;41.228432;-73.152977
 988;Nichols Ave. at Second Hill Ln.;41.219673;-73.148621
 989;Nichols Ave. at Silver Ln.;41.229729;-73.153687
 990;Nichols Ave. at Sunrise Ter.;41.226597;-73.152283
 991;Nichols Ave. at Val Dr.;41.228302;-73.153076
+992;Nichols Ave. opp Val Dr.;41.228432;-73.152977
 993;Noble Ave. at Arctic St.;41.189281;-73.184196
 994;Noble Ave. at Arctic St.;41.189503;-73.184326
 997;Noble Ave. at Boston Ave.;41.200264;-73.183876
@@ -743,13 +743,13 @@
 1005;Noble Ave. at Jane St.;41.190456;-73.184242
 1006;Noble Ave. at Ogden St.;41.191635;-73.184006
 1007;Noble Ave. at Ogden St.;41.191841;-73.184135
-1010;Noble Ave. opp Roosevelt  St.;41.198193;-73.183609
 1008;Noble Ave. at Putnam St.;41.194519;-73.183723
 1009;Noble Ave. at Putnam St.;41.194798;-73.183914
 1011;Noble Ave. at Roosevelt St.;41.198345;-73.183853
 1012;Noble Ave. at Spring St.;41.195942;-73.183594
 1013;Noble Ave. at Stillman St.;41.192612;-73.183907
 1014;Noble Ave. at Stillman St.;41.192802;-73.184059
+1010;Noble Ave. opp Roosevelt St.;41.198193;-73.183609
 1019;North Ave. at 2710 North Ave.;41.176712;-73.221046
 1020;North Ave. at Brooklawn Ave.;41.178932;-73.215179
 1032;North Ave. at Capitol Ave.;41.200455;-73.192398
@@ -770,16 +770,16 @@
 1039;North Ave. at Moody Ave.;41.176437;-73.223251
 1041;North Ave. at Mountain Grove Cemetary;41.176579;-73.220894
 1042;North Ave. at Oak St.;41.187393;-73.202065
+1044;North Ave. at Porter St.;41.192745;-73.196289
+1932;North Ave. at Remer St.;41.194431;-73.194870
+1933;North Ave. at Remer St.;41.194546;-73.194969
+1045;North Ave. at Sylvan St.;41.202297;-73.190048
 1025;North Ave. opp Colorado Ave.;41.178444;-73.216293
 1028;North Ave. opp Goodman St.;41.184776;-73.204803
 1034;North Ave. opp Lexington Ave.;41.185776;-73.203979
 1040;North Ave. opp Moody Ave.;41.176285;-73.223114
 1043;North Ave. opp Oak St.;41.187645;-73.201981
 1046;North Ave. opp Sylvan St.;41.202290;-73.189728
-1044;North Ave. at Porter St.;41.192745;-73.196289
-1932;North Ave. at Remer St.;41.194431;-73.194870
-1933;North Ave. at Remer St.;41.194546;-73.194969
-1045;North Ave. at Sylvan St.;41.202297;-73.190048
 1832;North Broad St. at High St.;41.221226;-73.059494
 1048;North Frontage Rd. at Main St.;41.175247;-73.187912
 1940;Nutmeg Dr. at 35 Nutmeg Dr;41.239162;-73.150223
@@ -803,21 +803,21 @@
 1064;Old Town Rd. at Main St.;41.226570;-73.218460
 1065;Old Town Rd. at Main St.;41.226524;-73.218178
 1066;Old Town Rd. at Maybrook Rd.;41.225471;-73.239052
+1068;Old Town Rd. at Sequoia Rd.;41.227455;-73.215302
 1067;Old Town Rd. opp Maybrook Rd.;41.225342;-73.239090
 1069;Old Town Rd. opp Sequoia Rd.;41.227551;-73.215393
-1068;Old Town Rd. at Sequoia Rd.;41.227455;-73.215302
 1071;Orange St. at Central Ave.;41.175488;-73.165451
 1070;Orange at Newfield Ave.;41.175804;-73.166962
 1072;Palisade Ave. at 525 Palisade Ave.;41.200600;-73.165253
 1076;Palisade Ave. at Bullard-Havens School;41.199711;-73.164955
 1078;Palisade Ave. at Granfield Ave.;41.197708;-73.165184
-1074;Palisade Ave. opp 525 Palisade Ave.;41.200714;-73.165092
-1081;Palisade Ave. opp Shelter No. 1;41.202141;-73.165436
-1085;Palisade Ave. opp Shelter No. 2;41.202995;-73.165550
 1079;Palisade Ave. at Shelter No. 1;41.202446;-73.165282
 1083;Palisade Ave. at Shelter No. 2;41.203102;-73.165405
 1087;Palisade Ave. at Stewart St.;41.198975;-73.165016
 1088;Palisade Ave. at Stewart St.;41.198601;-73.164856
+1074;Palisade Ave. opp 525 Palisade Ave.;41.200714;-73.165092
+1081;Palisade Ave. opp Shelter No. 1;41.202141;-73.165436
+1085;Palisade Ave. opp Shelter No. 2;41.202995;-73.165550
 1089;Park Ave. at 2600 Park Ave. (Park Royal);41.193920;-73.215729
 1090;Park Ave. at 2625 Park Ave.;41.194252;-73.216339
 1092;Park Ave. at 3900 Park Ave.;41.208145;-73.227867
@@ -853,14 +853,6 @@
 1129;Park Ave. at North Ave.;41.182972;-73.206345
 1130;Park Ave. at North Ave.;41.183664;-73.207261
 1131;Park Ave. at Old Town Rd.;41.224316;-73.241943
-1093;Park Ave. opp 3900 Park Ave.;41.208271;-73.228241
-1095;Park Ave. opp 4000 Park Ave.;41.209957;-73.229652
-1091;Park Ave. opp Brooklawn Ave.;41.197617;-73.218903
-1112;Park Ave. opp Eckart St.;41.219643;-73.238197
-1114;Park Ave. opp Geduldig Ave.;41.214520;-73.233841
-1141;Park Ave. opp Sherley Pl.;41.200958;-73.221809
-1145;Park Ave. opp Suburban Ave.;41.192776;-73.214752
-1149;Park Ave. opp Valley Rd.;41.211746;-73.231071
 1132;Park Ave. at Pequonnock St.;41.182377;-73.205780
 1133;Park Ave. at Powell Ter.;41.195450;-73.217392
 1134;Park Ave. at Prospect St.;41.171734;-73.195915
@@ -884,12 +876,20 @@
 1158;Park Ave. at Wilson St.;41.205479;-73.225853
 1159;Park Ave. at Wood Ave.;41.177803;-73.201408
 2;Park Ave. at Yale New Haven Park Avenue Medical Center;41.227055;-73.242844
+1093;Park Ave. opp 3900 Park Ave.;41.208271;-73.228241
+1095;Park Ave. opp 4000 Park Ave.;41.209957;-73.229652
+1091;Park Ave. opp Brooklawn Ave.;41.197617;-73.218903
+1112;Park Ave. opp Eckart St.;41.219643;-73.238197
+1114;Park Ave. opp Geduldig Ave.;41.214520;-73.233841
+1141;Park Ave. opp Sherley Pl.;41.200958;-73.221809
+1145;Park Ave. opp Suburban Ave.;41.192776;-73.214752
+1149;Park Ave. opp Valley Rd.;41.211746;-73.231071
 1160;Pearl Harbor St. at Manila St.;41.202301;-73.160835
 1161;Pearl Harbor St. at Manila St.;41.202087;-73.157547
-1162;Pearl Harbor St. opp Pearl Harbor Cir.;41.203930;-73.158592
 1163;Pearl Harbor St. at Pearl Harbor Pl.;41.204384;-73.159744
 1165;Pearl Harbor St. at Success Ave.;41.201168;-73.156738
 1166;Pearl Harbor St. at Wake St.;41.199879;-73.161186
+1162;Pearl Harbor St. opp Pearl Harbor Cir.;41.203930;-73.158592
 1167;Penny Ave. at Huntington Tpk.;41.225739;-73.165642
 1168;Penny Ave. at Intervale Rd.;41.225681;-73.165443
 1169;Pequonnock St. at Benham Ave.;41.181694;-73.201073
@@ -925,10 +925,6 @@
 1198;Post Rd. East at Morningside Dr. South;41.138863;-73.325844
 1180;Post Rd. East at North Bulkley Ave.;41.138397;-73.300949
 1205;Post Rd. East at North Turkey Hill Rd;41.138947;-73.321159
-1190;Post Rd. East opp Crescent Rd.;41.139500;-73.347260
-1193;Post Rd. East opp Long Lots Rd..;41.137680;-73.337784
-1223;Post Rd. East opp Main St.;41.141201;-73.361649
-1204;Post Rd. East opp Sherwood Island Connector;41.138187;-73.335388
 1209;Post Rd. East at Oppostie Westfair Dr.;41.138264;-73.303986
 1200;Post Rd. East at Powers Ct.;41.140881;-73.354279
 1201;Post Rd. East at Regents Park;41.138599;-73.315239
@@ -937,6 +933,10 @@
 1207;Post Rd. East at West Parish Rd.;41.138268;-73.333191
 1208;Post Rd. East at Westfair Dr.;41.138470;-73.303795
 1210;Post Rd. East at Westport Inn;41.138626;-73.308754
+1190;Post Rd. East opp Crescent Rd.;41.139500;-73.347260
+1193;Post Rd. East opp Long Lots Rd..;41.137680;-73.337784
+1223;Post Rd. East opp Main St.;41.141201;-73.361649
+1204;Post Rd. East opp Sherwood Island Connector;41.138187;-73.335388
 1211;Post Rd. West at 375 Post Rd. West;41.129269;-73.379128
 1212;Post Rd. West at Hills Ln.;41.128826;-73.380768
 1216;Post Rd. West at Kings Hwy. North;41.136417;-73.370705
@@ -945,14 +945,14 @@
 1221;Post Rd. West at Ludlow Rd.;41.138229;-73.366539
 1222;Post Rd. West at Main St.;41.141304;-73.361786
 1224;Post Rd. West at Myrtle Ave.;41.141541;-73.358536
-1215;Post Rd. West opp 375 Post Rd. West;41.129734;-73.378624
-1213;Post Rd. West opp Hills Ln.;41.128452;-73.381378
-1217;Post Rd. West opp Kings Hwy. North;41.135963;-73.371185
-1219;Post Rd. West opp Kings Hwy. South;41.131939;-73.375221
 1226;Post Rd. West at Sylvan Rd. North;41.134892;-73.372406
 1227;Post Rd. West at Sylvan Rd. South;41.134487;-73.372467
 1228;Post Rd. West at Wilton Rd.;41.140755;-73.364349
 1225;Post Rd. West at Wright St.;41.140228;-73.364708
+1215;Post Rd. West opp 375 Post Rd. West;41.129734;-73.378624
+1213;Post Rd. West opp Hills Ln.;41.128452;-73.381378
+1217;Post Rd. West opp Kings Hwy. North;41.135963;-73.371185
+1219;Post Rd. West opp Kings Hwy. South;41.131939;-73.375221
 162;Post Rd. at 417 Post Rd.;41.149677;-73.242767
 159;Post Rd. at 1261 Post Rd. (Brick Wall);41.143028;-73.254570
 161;Post Rd. at 3330 Post Rd. (Townfair Tire);41.138515;-73.290688
@@ -967,12 +967,6 @@
 177;Post Rd. at North Benson Rd.;41.147030;-73.249924
 178;Post Rd. at North Pine Creek Rd.;41.140663;-73.268242
 180;Post Rd. at Old Post Rd.;41.148678;-73.244705
-1280;Post Rd. opp 417 Post Rd.;41.149990;-73.242630
-170;Post Rd. opp Hulls Hwy.;41.138187;-73.295197
-185;Post Rd. opp Lacey Pl.;41.139565;-73.275530
-189;Post Rd. opp Ruane St.;41.141106;-73.261124
-193;Post Rd. opp Shoreham Village Dr.;41.151466;-73.240334
-179;Post Rd. opp Unquowa Pl.;41.142056;-73.255684
 181;Post Rd. at Pease Ave.;41.139084;-73.287949
 183;Post Rd. at Pent Ct.;41.140129;-73.272217
 184;Post Rd. at Reef Rd.;41.141041;-73.257172
@@ -984,6 +978,12 @@
 192;Post Rd. at Shoreham Village Dr.;41.151508;-73.239983
 195;Post Rd. at South Pine Creek Rd.;41.140606;-73.267456
 197;Post Rd. at Unquowa Rd.;41.141869;-73.256134
+1280;Post Rd. opp 417 Post Rd.;41.149990;-73.242630
+170;Post Rd. opp Hulls Hwy.;41.138187;-73.295197
+185;Post Rd. opp Lacey Pl.;41.139565;-73.275530
+189;Post Rd. opp Ruane St.;41.141106;-73.261124
+193;Post Rd. opp Shoreham Village Dr.;41.151466;-73.240334
+179;Post Rd. opp Unquowa Pl.;41.142056;-73.255684
 1239;Quality St. at Trumbull Town Hall;41.256035;-73.217377
 1240;Quality St. at Trumbull Town Hall;41.256176;-73.218346
 1929;Quarry Rd. at 112 Quarry Rd.;41.229904;-73.183624
@@ -992,16 +992,16 @@
 1927;Quarry Rd. opp Bridgeport P.A.L. Building;41.223721;-73.179909
 1928;Quarry Rd. opp Entrance To Magnet School;41.226368;-73.181023
 1508;Research Dr. at Commerce Dr.;41.277523;-73.136086
-1243;Research Dr. opp Optimum;41.275455;-73.135262
 1244;Research Dr. at Progress Dr.;41.272095;-73.134033
+1243;Research Dr. opp Optimum;41.275455;-73.135262
 1245;Reservoir Ave. at Clover Hill Ave.;41.222931;-73.193756
 1246;Reservoir Ave. at Old Town Rd.;41.227051;-73.195122
 1247;Reservoir Ave. at Old Town Rd.;41.227001;-73.195274
-1248;Reservoir Ave. opp Wilbur Cross School;41.225231;-73.194679
 1249;Reservoir Ave. at Rainbow Rd.;41.223381;-73.194107
 1250;Reservoir Ave. at Sylvan Ave.;41.208572;-73.192123
 1251;Reservoir Ave. at Trumbull Ave.;41.221420;-73.193314
 1252;Reservoir Ave. at Wilbur Cross School;41.224949;-73.194725
+1248;Reservoir Ave. opp Wilbur Cross School;41.225231;-73.194679
 1253;River Rd. at 770 River Rd. (Centrix Building);41.265972;-73.093445
 1255;River Rd. at Long Hill Ave.;41.262012;-73.095573
 1254;River Rd. opp 770 River Rd.;41.266293;-73.093475
@@ -1027,16 +1027,16 @@
 1277;Second Hill Ln. at Mcleod Pl.;41.218552;-73.150612
 1278;Second Hill Ln. at Russell Rd.;41.217548;-73.154099
 1279;Second Hill Ln. at Second Hill Ln.;41.216969;-73.155586
-1283;Soundview Ave. at Omega  Ave.;41.218103;-73.191037
-1284;Soundview Ave. opp Omega Ave.;41.218155;-73.191536
+1283;Soundview Ave. at Omega Ave.;41.218103;-73.191037
 1285;Soundview Ave. at Sylvan Ave.;41.218613;-73.187675
 1286;Soundview Ave. at Sylvan Ave.;41.218494;-73.187721
+1284;Soundview Ave. opp Omega Ave.;41.218155;-73.191536
 9922;South Broad St. at High St.;41.220982;-73.058784
 1287;South Broad St. opp Greensend Pl.;41.218880;-73.063049
 2875;Spring Hill Rd. at Amazon Distribution Facility;41.293442;-73.242020
-2876;Spring Hill Rd. opp Amazon Distribution Facility;41.293301;-73.242302
 2877;Spring Hill Rd. at Pequonnock River Trail;41.294022;-73.240051
 2874;Spring Hill Rd. at Pequonnock River Trail;41.294140;-73.239998
+2876;Spring Hill Rd. opp Amazon Distribution Facility;41.293301;-73.242302
 843;St. Vincent's Medical Center;41.200314;-73.202629
 1314;State St. Ext. at Ash St.;41.168198;-73.218033
 1315;State St. Ext. opp Ash St.;41.167992;-73.218102
@@ -1078,18 +1078,18 @@
 1346;Stratford Ave. at Main St.;41.186829;-73.130798
 1348;Stratford Ave. at Main St.;41.187046;-73.131805
 1349;Stratford Ave. at Newfield Ave.;41.177677;-73.167717
-1328;Stratford Ave. opp Bruce Ave.;41.183853;-73.153961
-1335;Stratford Ave. opp Eleanor St.;41.185883;-73.141342
-1340;Stratford Ave. opp Honeyspot Rd.;41.185055;-73.143272
-1345;Stratford Ave. opp Lupes Dr.;41.186718;-73.138596
-1357;Stratford Ave. opp Surf Ave.;41.184479;-73.147858
-1359;Stratford Ave. opp Waterview Ave.;41.176857;-73.178162
 1352;Stratford Ave. at Saint Michael's Cemetary;41.184227;-73.151260
 1353;Stratford Ave. at Seaview Ave.;41.176613;-73.174599
 1354;Stratford Ave. at Seaview Ave.;41.177032;-73.174454
 1355;Stratford Ave. at Sherwood Pl.;41.186996;-73.134384
 1356;Stratford Ave. at Surf Ave.;41.184231;-73.148727
 1360;Stratford Ave. at Waterview Ave.;41.177082;-73.178070
+1328;Stratford Ave. opp Bruce Ave.;41.183853;-73.153961
+1335;Stratford Ave. opp Eleanor St.;41.185883;-73.141342
+1340;Stratford Ave. opp Honeyspot Rd.;41.185055;-73.143272
+1345;Stratford Ave. opp Lupes Dr.;41.186718;-73.138596
+1357;Stratford Ave. opp Surf Ave.;41.184479;-73.147858
+1359;Stratford Ave. opp Waterview Ave.;41.176857;-73.178162
 772;Stratford Train Station at 2505 Main St.;41.195004;-73.132034
 856;Stratford Train Station at Linden Ave.;41.193951;-73.131165
 1906;Success Ave. at Baird Ct.;41.201996;-73.155609
@@ -1102,11 +1102,11 @@
 1374;Sylvan Ave. at Carlson Ave.;41.215572;-73.187210
 1376;Sylvan Ave. at Edwards St.;41.213905;-73.187897
 1378;Sylvan Ave. at Home Depot;41.209045;-73.190224
+1380;Sylvan Ave. at Wilkins Ave.;41.212357;-73.188629
 1375;Sylvan Ave. opp Carlson Ave.;41.215954;-73.187424
 1377;Sylvan Ave. opp Dodd Ave;41.214321;-73.187433
 9905;Sylvan Ave. opp Home Depot;41.208668;-73.190849
 1381;Sylvan Ave. opp Wilkins Ave.;41.212517;-73.188446
-1380;Sylvan Ave. at Wilkins Ave.;41.212357;-73.188629
 9917;Trap Falls Rd. at Bridgeport Ave.;41.267590;-73.131546
 1397;Trapp Falls Rd. opp Heather Ridge;41.270084;-73.133286
 2871;Trefoil Dr. at 4 Trefoil Dr.;41.293797;-73.234306
@@ -1121,13 +1121,13 @@
 1410;Trumbull Ave opp 505 Trumbull Ave.;41.220486;-73.196144
 1414;Trumbull Ave. at 505 Trumbull Ave.;41.220325;-73.196228
 1415;Trumbull Ave. at 625 Trumbull Ave.;41.219688;-73.198204
-1416;Trumbull Ave. opp 730 Trumbull Ave.;41.219151;-73.200005
 9907;Trumbull Ave. at Reservoir Ave.;41.221153;-73.193336
+1416;Trumbull Ave. opp 730 Trumbull Ave.;41.219151;-73.200005
 1421;Tunxis Hill Cut-Off at Cedarhurst Ln.;41.178444;-73.240601
 1422;Tunxis Hill Cut-Off at Knapps Hwy.;41.178093;-73.235664
 1423;Tunxis Hill Cut-Off at Knapps Hwy.;41.178242;-73.235703
-1420;Tunxis Hill Cut-Off opp Cedarhurst  Ln.;41.178307;-73.240616
 1430;Tunxis Hill Cut-Off at Whitewood Dr.;41.178455;-73.242493
+1420;Tunxis Hill Cut-Off opp Cedarhurst Ln.;41.178307;-73.240616
 1418;Tunxis Hill Cutoff South at Villa Ave.;41.176510;-73.226227
 1419;Tunxis Hill Rd. at Beaver St.;41.176624;-73.231010
 1424;Tunxis Hill Rd. at Kohl's Department Store;41.176666;-73.228165
@@ -1148,10 +1148,10 @@
 1442;Washington Ave. at Highland Ave.;41.183220;-73.194328
 1443;Washington Ave. at James St.;41.181675;-73.194565
 1444;Washington Ave. at James St.;41.181602;-73.194786
-1439;Washington Ave. opp Coleman St.;41.177914;-73.196716
-1449;Washington Ave. opp West Ave.;41.176807;-73.197906
 1447;Washington Ave. at Pequonnock St.;41.180496;-73.195038
 1448;Washington Ave. at West Ave.;41.176498;-73.197990
+1439;Washington Ave. opp Coleman St.;41.177914;-73.196716
+1449;Washington Ave. opp West Ave.;41.176807;-73.197906
 1452;Water St. at John St.;41.178623;-73.187386
 1453;Water St. opp John St.;41.178669;-73.187057
 1454;Waterview Dr. at 10 Waterview Dr.;41.295982;-73.087296
@@ -1159,11 +1159,11 @@
 1456;Waterview Dr. at Constitution Blvd. South;41.295078;-73.088753
 1457;Waterview Dr. at Constitution Blvd. South;41.295120;-73.088478
 1458;Waterview Dr. at Morningside Ct.;41.292801;-73.080849
+1460;Waterview Dr. at Pitney Bowes Entrance;41.296238;-73.082069
 1455;Waterview Dr. opp 10 Waterview Dr.;41.295990;-73.086914
 63;Waterview Dr. opp 40 Waterview Dr.;41.295547;-73.081367
 1459;Waterview Dr. opp Morningside Ct.;41.292797;-73.081009
 1461;Waterview Dr. opp Pitney Bowes Entrance;41.296387;-73.082123
-1460;Waterview Dr. at Pitney Bowes Entrance;41.296238;-73.082069
 1462;Wells St. at North Ave.;41.193264;-73.195374
 15;West Broad St. at Barnum Ave.;41.194099;-73.143211
 13;West Broad St. at California St.;41.191826;-73.136810
@@ -1183,9 +1183,6 @@
 1468;Westport Ave. at Dry Hill Rd. (Stew Leonard's);41.123028;-73.402748
 1469;Westport Ave. at George Ave;41.123440;-73.400894
 1471;Westport Ave. at Lois St.;41.127625;-73.384682
-1470;Westport Ave. opp George Ave.;41.123562;-73.401100
-1472;Westport Ave. opp Lois St.;41.127392;-73.384781
-1481;Westport Ave. opp Wolfpit Ave.;41.124538;-73.396797
 1479;Westport Ave. at Oppostie Willard Rd.;41.126850;-73.387245
 1473;Westport Ave. at Strawberry Hill Ave.;41.126110;-73.390450
 1474;Westport Ave. at Strawberry Hill Ave.;41.126221;-73.390785
@@ -1194,6 +1191,9 @@
 1477;Westport Ave. at Walter Ave.;41.124031;-73.398811
 1478;Westport Ave. at Willard Rd.;41.126999;-73.387283
 1480;Westport Ave. at Wolfpit Ave.;41.124874;-73.395958
+1470;Westport Ave. opp George Ave.;41.123562;-73.401100
+1472;Westport Ave. opp Lois St.;41.127392;-73.384781
+1481;Westport Ave. opp Wolfpit Ave.;41.124538;-73.396797
 1489;White Plains Rd. at Pequonnock Rd.;41.243168;-73.192680
 1491;White Plains Rd. at Reservoir Ave.;41.244473;-73.195976
 1494;White Plains Rd. at Reservoir Ave.;41.243858;-73.195183
@@ -1206,8 +1206,8 @@
 1513;Woodend Rd. at Ketcham Rd.;41.170998;-73.136841
 9910;Woodend Rd. at Main St.;41.178978;-73.130577
 1515;Woodend Rd. at Mcpadden Dr.;41.174889;-73.133080
-1514;Woodend Rd. opp Leeward  Dr.;41.175930;-73.132782
 1281;Woodend Rd. at Sedgewick Ave.;41.177677;-73.131561
 9911;Woodend Rd. at Sedgewick Ave.;41.177528;-73.131851
+1514;Woodend Rd. opp Leeward Dr.;41.175930;-73.132782
 1519;Wordin Ave. at Ocean Ter.;41.163673;-73.219337
 1520;Wordin Ave. opp Ocean Ter.;41.163868;-73.219292
