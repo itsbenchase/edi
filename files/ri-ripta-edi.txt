@@ -1,3 +1,49 @@
+24810;Lincoln Mall between Marshalls & 5 Below;41.937542;-71.476323;75-mall;1
+58945;Lincoln Mall at Target;41.937835;-71.477875;75-mall;2
+56175;Rt 116 opp Lincoln Mall Entrance;41.935066;-71.477274;75-mall;3
+24745;Rt 116 after Wake Robin;41.934962;-71.473838;75-mall;4
+24725;Rt 116 opp Blackstone Valley;41.934292;-71.457897;75-mall;5
+24785;20 Blackstone Valley;41.939405;-71.461828;75-mall;6
+24820;10 Amica;41.936453;-71.464583;75-mall;7
+24725;Rt 116 opp Blackstone Valley;41.934292;-71.457897;75-mall;8
+24730;Rt 116 after Rt 126;41.934529;-71.449804;75-mall;9
+56195;Rt 116 before 695 George Washington;41.934859;-71.444902;75-mall;10
+56200;Rt 116 after Bank Of America;41.93564;-71.44045;75-mall;11
+56205;Rt 116 opp Blackstone River Park;41.936993;-71.436053;75-mall;12
+56215;Mendon after Scott;41.939035;-71.431456;75-mall;13
+24775;Mendon before Store Hill;41.937356;-71.429522;75-mall;14
+24720;Mendon before Ashton;41.935404;-71.428944;75-mall;15
+56225;Mendon opp Ora Murphy;41.933623;-71.427038;75-mall;16
+24710;Mendon before Ryan;41.93246;-71.426265;75-mall;17
+24690;Mendon before Martin;41.930227;-71.423273;75-mall;18
+24680;Mendon opp Cushing;41.927934;-71.420064;75-mall;19
+56235;Mendon before Hunt;41.926678;-71.417666;75-mall;20
+24675;Mendon after Sunset;41.92537;-71.415003;75-mall;21
+56240;Mendon at Berkeley Commons;41.922891;-71.411534;75-mall;22
+70480;Mendon after 500 Mendon;41.921351;-71.409838;75-mall;23
+24605;Mendon before Marshall;41.920161;-71.408541;75-mall;24
+56245;Mendon after Marshall;41.918386;-71.406891;75-mall;25
+56250;Mendon after Franklin;41.917286;-71.40595;75-mall;26
+24565;Mendon before Broad;41.915774;-71.404758;75-mall;27
+56255;Mendon after Broad;41.913852;-71.403952;75-mall;28
+24495;Mendon before Ann & Hope Way;41.912111;-71.403344;75-mall;29
+56260;Lonsdale before Cook;41.909929;-71.402687;75-mall;30
+56265;Lonsdale before Lonsdale School;41.908281;-71.403197;75-mall;31
+70485;Lonsdale after Front;41.906554;-71.403679;75-mall;32
+70490;Lonsdale opp 1501 Lonsdale;41.904189;-71.404339;75-mall;33
+70500;Lonsdale before Edgehill;41.899665;-71.405045;75-mall;34
+70505;Lonsdale after Valley View;41.897678;-71.404428;75-mall;35
+70510;Lonsdale before Walker;41.895661;-71.404855;75-mall;36
+23790;Lonsdale opp Richland;41.894077;-71.404115;75-mall;37
+23915;Lonsdale at Mohassuck Cemetary;41.891325;-71.402634;75-mall;38
+23645;Dexter before Crossman;41.888857;-71.399235;75-mall;39
+29600;Dexter before Moore;41.887557;-71.397945;75-mall;40
+23445;Dexter before Richardson;41.885794;-71.396107;75-mall;41
+23320;Dexter after Rand;41.884651;-71.394728;75-mall;42
+72880;Dexter after Congress;41.882579;-71.392353;75-mall;43
+23215;Dexter after Barton;41.880443;-71.389649;75-mall;44
+22965;Dexter opp Andrew Ferland;41.879854;-71.388846;75-mall;45
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;75-mall;46
 9830;Warwick opp Woburn;41.767311;-71.405103;1-attleboro;1
 9880;Warwick after Dartmoor;41.768675;-71.405144;1-attleboro;2
 10045;Warwick Ave Across From Stop & Shop;41.769546;-71.405217;1-attleboro;3
@@ -41,9 +87,9 @@
 21650;East after Harvey;41.868171;-71.387099;1-attleboro;41
 21945;George opp Delany;41.871099;-71.387646;1-attleboro;42
 22200;George after Cedar;41.874083;-71.38732;1-attleboro;43
-22535;George before East;41.875143;-71.386907;1-attleboro;44
-22745;East before Main;41.876683;-71.384578;1-attleboro;45
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;1-attleboro;46
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;1-attleboro;44
+55990;Exchange after Broad;41.879607;-71.38612;1-attleboro;45
+23125;Exchange after High;41.879819;-71.383472;1-attleboro;46
 72110;Exchange before Exchange Ct;41.879768;-71.380799;1-attleboro;47
 72460;Broadway after May;41.881567;-71.377756;1-attleboro;48
 72465;Broadway after Allen;41.88368;-71.376714;1-attleboro;49
@@ -121,9 +167,7 @@
 21650;East after Harvey;41.868171;-71.387099;1-tf-green;58
 21945;George opp Delany;41.871099;-71.387646;1-tf-green;59
 22200;George after Cedar;41.874083;-71.38732;1-tf-green;60
-22535;George before East;41.875143;-71.386907;1-tf-green;61
-22745;East before Main;41.876683;-71.384578;1-tf-green;62
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;1-tf-green;63
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;1-tf-green;61
 18995;Rhode Island College (Roberts Hall);41.841629;-71.460627;92;1
 55660;College opp Cole;41.841379;-71.456924;92;2
 18920;College before Mt Pleasant;41.841652;-71.453265;92;3
@@ -1318,34 +1362,36 @@
 155;S Pier before Lakewood;41.42984;-71.47616;14-narragansett;137
 56980;Point Judith before Salt Pond Plaza;41.429183;-71.480964;14-narragansett;138
 130;Salt Pond Shopping Plaza (Stop & Shop);41.428201;-71.483328;14-narragansett;139
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;Qx;1
-72460;Broadway after May;41.881567;-71.377756;Qx;2
-16720;Kennedy Plaza (Stop X);41.825959;-71.412371;Qx;3
-12582;Garfield at Lowes;41.795793;-71.444103;Qx;4
-70805;Stop & Shop (Garfield Street - Cranston);41.795583;-71.444092;Qx;5
-11150;Reservoir before Sprague;41.785342;-71.435594;Qx;6
-11040;Reservoir before Legion;41.783258;-71.438533;Qx;7
-11005;Reservoir before Lambert;41.782552;-71.439453;Qx;8
-10925;Reservoir after Leyden;41.781008;-71.441687;Qx;9
-10830;Reservoir before Calaman;41.779835;-71.443218;Qx;10
-10695;Reservoir before Riverfarm;41.77805;-71.445688;Qx;11
-10530;Reservoir before Lockmere;41.776643;-71.447648;Qx;12
-10415;Reservoir at 989 Reservoir;41.774764;-71.449954;Qx;13
-10310;Reservoir at McDonalds;41.771825;-71.452812;Qx;14
-9955;Reservoir before Rangely;41.769468;-71.455112;Qx;15
-9835;Reservoir after Woodbridge (Chelo's);41.766703;-71.457859;Qx;16
-9400;Midway at Garden City Center;41.762554;-71.457072;Qx;17
-73210;60 Compass Circle;41.604698;-71.464976;Qx;18
-72956;Gate Rd opp Kohl's;41.605559;-71.451342;Qx;19
-73015;Davisville before Thompson;41.615077;-71.421608;Qx;20
-72935;Commerce Park at 370 Commerce Park;41.605127;-71.437466;Qx;21
-72940;Commerce Park after Job Lot Way;41.603884;-71.439361;Qx;22
-72950;Circuit at 51 Circuit;41.59187;-71.433044;Qx;23
-72951;Circuit at 201 Circuit;41.587359;-71.43176;Qx;24
-72952;Circuit at 275 Circuit;41.587566;-71.429386;Qx;25
-72953;Burlingham at Electric Boat;41.589907;-71.428636;Qx;26
-72955;Roger Williams after Belver;41.592126;-71.427834;Qx;27
-72954;Roger Williams And Eccleston;41.589214;-71.417012;Qx;28
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;Qx;1
+55990;Exchange after Broad;41.879607;-71.38612;Qx;2
+23125;Exchange after High;41.879819;-71.383472;Qx;3
+22765;Roosevelt before Main (Visitor Center);41.877299;-71.383417;Qx;4
+16720;Kennedy Plaza (Stop X);41.825959;-71.412371;Qx;5
+12582;Garfield at Lowes;41.795793;-71.444103;Qx;6
+70805;Stop & Shop (Garfield Street - Cranston);41.795583;-71.444092;Qx;7
+11150;Reservoir before Sprague;41.785342;-71.435594;Qx;8
+11040;Reservoir before Legion;41.783258;-71.438533;Qx;9
+11005;Reservoir before Lambert;41.782552;-71.439453;Qx;10
+10925;Reservoir after Leyden;41.781008;-71.441687;Qx;11
+10830;Reservoir before Calaman;41.779835;-71.443218;Qx;12
+10695;Reservoir before Riverfarm;41.77805;-71.445688;Qx;13
+10530;Reservoir before Lockmere;41.776643;-71.447648;Qx;14
+10415;Reservoir at 989 Reservoir;41.774764;-71.449954;Qx;15
+10310;Reservoir at McDonalds;41.771825;-71.452812;Qx;16
+9955;Reservoir before Rangely;41.769468;-71.455112;Qx;17
+9835;Reservoir after Woodbridge (Chelo's);41.766703;-71.457859;Qx;18
+9400;Midway at Garden City Center;41.762554;-71.457072;Qx;19
+73210;60 Compass Circle;41.604698;-71.464976;Qx;20
+72956;Gate Rd opp Kohl's;41.605559;-71.451342;Qx;21
+73015;Davisville before Thompson;41.615077;-71.421608;Qx;22
+72935;Commerce Park at 370 Commerce Park;41.605127;-71.437466;Qx;23
+72940;Commerce Park after Job Lot Way;41.603884;-71.439361;Qx;24
+72950;Circuit at 51 Circuit;41.59187;-71.433044;Qx;25
+72951;Circuit at 201 Circuit;41.587359;-71.43176;Qx;26
+72952;Circuit at 275 Circuit;41.587566;-71.429386;Qx;27
+72953;Burlingham at Electric Boat;41.589907;-71.428636;Qx;28
+72955;Roger Williams after Belver;41.592126;-71.427834;Qx;29
+72954;Roger Williams And Eccleston;41.589214;-71.417012;Qx;30
 16035;Sabin Midblock RI Convention Center;41.823682;-71.416802;10x;1
 15575;Empire opp Westminster;41.821;-71.415397;10x;2
 15545;Weybosset before Richmond;41.821047;-71.412845;10x;3
@@ -1575,86 +1621,6 @@
 72350;Dorrance before Pine;41.822417;-71.409918;3;60
 16475;Kennedy Plaza (Stop G);41.825058;-71.411761;3;61
 30;Park Row West before Railroad;41.828991;-71.412151;3;62
-7265;TF Green Airport (Arrivals);41.725802;-71.436997;1;1
-55290;Post opp Alhambra;41.728117;-71.438114;1;2
-7560;Post before Airport Rd (Opposite Earlham Way);41.731605;-71.436794;1;3
-7850;Post at Barden;41.735376;-71.435047;1;4
-8045;Post before Lincoln;41.738468;-71.433326;1;5
-8280;Post before Ethan;41.744579;-71.428455;1;6
-8380;Post between Welfare & Majestic;41.747597;-71.424225;1;7
-8660;Post after Elmwood;41.748832;-71.422182;1;8
-73130;Post opp Mowry;41.750527;-71.419054;1;9
-8805;Post after Fairfax;41.752245;-71.41634;1;10
-8915;Post before Walmart Entrance;41.753601;-71.414324;1;11
-8955;Post opp Chambly;41.75508;-71.412218;1;12
-9105;Post opp Tennyson;41.756977;-71.409506;1;13
-58165;Post at 446 Post;41.75999;-71.405174;1;14
-9360;Warwick opp Scott;41.761042;-71.404671;1;15
-9570;Warwick at 468 Warwick;41.76338;-71.404837;1;16
-9640;Warwick after Quinton;41.764529;-71.404907;1;17
-9830;Warwick opp Woburn;41.767311;-71.405103;1;18
-9880;Warwick after Dartmoor;41.768675;-71.405144;1;19
-10045;Warwick Ave Across From Stop & Shop;41.769546;-71.405217;1;20
-10240;Warwick after 174 Warwick;41.772651;-71.404296;1;21
-10455;Warwick after Villa;41.775662;-71.40198;1;22
-10700;Broad after Norwood;41.778221;-71.400369;1;23
-10900;Broad after Wheeler;41.780383;-71.400749;1;24
-11022;Broad before Armington;41.782913;-71.401083;1;25
-11240;Broad after Montgomery;41.786141;-71.401675;1;26
-11420;Eddy after California;41.788375;-71.402563;1;27
-11575;Eddy between Carolina & New York;41.790143;-71.403085;1;28
-11810;Eddy between Chapman & Toronto;41.791869;-71.403495;1;29
-12370;Eddy at Pavilion;41.797296;-71.405053;1;30
-12495;Eddy opp Applegate;41.799084;-71.405528;1;31
-12690;Eddy after Thurbers;41.801543;-71.406202;1;32
-13250;Eddy after Sherburne;41.805487;-71.407118;1;33
-58175;Eddy after Rhodes;41.80847;-71.407207;1;34
-14010;Rhode Island Hospital (Eddy Street Entrance);41.811742;-71.408833;1;35
-72340;Eddy after South;41.818217;-71.407329;1;36
-72345;Dyer after Ship;41.819679;-71.407948;1;37
-72350;Dorrance before Pine;41.822417;-71.409918;1;38
-16590;Kennedy Plaza (Stop I);41.825429;-71.411248;1;39
-16855;Tunnel after S Main;41.826781;-71.408541;1;40
-16905;Tunnel before Thayer;41.827608;-71.400864;1;41
-17120;Brook after Angell;41.828286;-71.399446;1;42
-17425;Brook before Hope;41.831154;-71.399804;1;43
-17845;Hope opp Barnes;41.832911;-71.400831;1;44
-18080;Hope before Alumni;41.834601;-71.401252;1;45
-18525;Hope before Carrington;41.83668;-71.401111;1;46
-18695;Hope before Observatory;41.839229;-71.399802;1;47
-18885;Hope before Cypress;41.840939;-71.398944;1;48
-55900;Hope before 616 Hope;41.843408;-71.397735;1;49
-19415;Hope after Lewis;41.845789;-71.396533;1;50
-19830;Hope after Lauriston;41.84921;-71.394863;1;51
-20015;Hope before Overhill;41.8511;-71.393934;1;52
-20250;Hope after North;41.853601;-71.39269;1;53
-20390;East after Lafayette;41.857891;-71.390621;1;54
-20960;East after Progress;41.860629;-71.389264;1;55
-21300;East opp Sayles;41.862705;-71.388231;1;56
-21475;East before Manning;41.865318;-71.3873;1;57
-21650;East after Harvey;41.868171;-71.387099;1;58
-21945;George opp Delany;41.871099;-71.387646;1;59
-22200;George after Cedar;41.874083;-71.38732;1;60
-22535;George before East;41.875143;-71.386907;1;61
-22745;East before Main;41.876683;-71.384578;1;62
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;1;63
-72110;Exchange before Exchange Ct;41.879768;-71.380799;1;64
-72460;Broadway after May;41.881567;-71.377756;1;65
-72465;Broadway after Allen;41.88368;-71.376714;1;66
-23495;Broadway opp Laurel;41.885108;-71.375936;1;67
-23565;Broadway before Woodbine;41.886645;-71.375162;1;68
-23620;Broadway opp Lilac;41.888453;-71.374291;1;69
-23740;Broadway before East;41.890044;-71.373403;1;70
-23800;Broadway before George Bennett;41.892081;-71.372363;1;71
-23920;Benefit after Broadway;41.89264;-71.370851;1;72
-23890;Benefit before Bates;41.892605;-71.368042;1;73
-23875;Benefit before Mendon;41.892541;-71.364545;1;74
-23860;Benefit opp Adin;41.892502;-71.361997;1;75
-23850;Benefit before Cottage;41.892344;-71.35768;1;76
-70590;Cottage after Benefit;41.892715;-71.356521;1;77
-70595;Cottage before Newport;41.89361;-71.355053;1;78
-72220;Newport before Mill;41.895755;-71.354282;1;79
-72300;Market Basket (South Attleboro);41.898907;-71.353613;1;80
 71140;Stop & Shop (Atwood Avenue - Cranston);41.781562;-71.473986;17;1
 71120;Phenix after Atwood;41.780979;-71.471771;17;2
 71125;Phenix opp Green;41.781932;-71.467021;17;3
@@ -1919,53 +1885,57 @@
 58040;Underwood after Walcott;41.877392;-71.378397;80;16
 58045;Underwood before Grove;41.878527;-71.378151;80;17
 60080;Exchange at Tolman High School;41.879821;-71.380381;80;18
-23075;Roosevelt opp City Hall;41.879101;-71.382598;80;19
-22765;Pawtucket Transit Center;41.877299;-71.383417;80;20
-22765;Pawtucket Transit Center;41.877299;-71.383417;78;1
-73205;School St after Main;41.87545;-71.381532;78;2
-22025;School opp Pond;41.870652;-71.380073;78;3
-29615;School at Riverview Terrace;41.866669;-71.376619;78;4
-29620;School opp Pearson;41.863562;-71.375517;78;5
-29630;Beverage Hill Opposite 6 Beverage Hill;41.860609;-71.372438;78;6
-21065;Beverage Hill at Birchland;41.860657;-71.369759;78;7
-21080;Beverage Hill before Dodge;41.8607;-71.367446;78;8
-55860;Beverage Hill after George Bennett;41.860776;-71.363432;78;9
-55870;Beverage Hill before Green Lane;41.86079;-71.359149;78;10
-55880;Beverage Hill before Newport;41.860835;-71.355163;78;11
-70340;Beverage Hill opp 650 Beverage Hill;41.860748;-71.353221;78;12
-70345;Beverage Hill opp Langdon;41.860798;-71.35138;78;13
-70350;Beverage Hill before Narragansett Park;41.860824;-71.350069;78;14
-20865;Narragansett Park before Ballys;41.858249;-71.350541;78;15
-60075;Narragansett Park / Newport;41.858231;-71.353063;78;16
-20835;Newport before Vermont;41.85793;-71.354537;78;17
-20385;Newport opp Taylor;41.854926;-71.354448;78;18
-20095;Newport before Roger Williams;41.852612;-71.354411;78;19
-19875;Newport opp Elmwood;41.849188;-71.354503;78;20
-55885;Pawtucket opp Weeden;41.846341;-71.352984;78;21
-18930;Pawtucket opp St Margaret;41.844338;-71.35142;78;22
-18555;Pawtucket opp Kenton;41.839782;-71.349512;78;23
-18335;Pawtucket at 1315 Pawtucket;41.836684;-71.348702;78;24
-18030;Pawtucket before Greenwood;41.834782;-71.348302;78;25
-17600;Pawtucket before Blythe;41.832727;-71.348482;78;26
-17155;Pawtucket before Centre;41.829941;-71.351978;78;27
-16925;Pawtucket after Centre;41.828217;-71.352645;78;28
-16255;Pawtucket before Blythe;41.824735;-71.354217;78;29
-58815;Stop & Shop (Pawtucket Avenue - East Providence);41.823282;-71.356792;78;30
-55815;Taunton opp Shoppers Town Mall;41.821728;-71.35821;78;31
-15600;Taunton at 525 Taunton;41.821467;-71.359918;78;32
-15580;Taunton before Goldsmith;41.821198;-71.361796;78;33
-15460;Taunton opp Cora;41.8206;-71.365674;78;34
-15455;Waterman at 314 Waterman;41.820838;-71.36904;78;35
-15430;John before Russell;41.821086;-71.370629;78;36
-15240;Taunton opp Grosvenor;41.819709;-71.374224;78;37
-15245;Taunton before Ivy;41.819725;-71.376071;78;38
-15215;Taunton after Vine;41.819787;-71.377591;78;39
-70890;S Main after Wickenden;41.819201;-71.401158;78;40
-15500;S Main after James;41.820945;-71.403662;78;41
-15755;S Main after Power;41.822787;-71.405371;78;42
-59250;S Main at Superior Court;41.825245;-71.407455;78;43
-16820;S Main before Washington;41.826743;-71.408552;78;44
-16525;Kennedy Plaza (Stop H);41.825282;-71.411448;78;45
+23150;Exchange before High;41.879979;-71.383717;80;19
+23070;Goff after Broad;41.879594;-71.386718;80;20
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;80;21
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;78;1
+55990;Exchange after Broad;41.879607;-71.38612;78;2
+23125;Exchange after High;41.879819;-71.383472;78;3
+22765;Roosevelt before Main (Visitor Center);41.877299;-71.383417;78;4
+73205;School St after Main;41.87545;-71.381532;78;5
+22025;School opp Pond;41.870652;-71.380073;78;6
+29615;School at Riverview Terrace;41.866669;-71.376619;78;7
+29620;School opp Pearson;41.863562;-71.375517;78;8
+29630;Beverage Hill Opposite 6 Beverage Hill;41.860609;-71.372438;78;9
+21065;Beverage Hill at Birchland;41.860657;-71.369759;78;10
+21080;Beverage Hill before Dodge;41.8607;-71.367446;78;11
+55860;Beverage Hill after George Bennett;41.860776;-71.363432;78;12
+55870;Beverage Hill before Green Lane;41.86079;-71.359149;78;13
+55880;Beverage Hill before Newport;41.860835;-71.355163;78;14
+70340;Beverage Hill opp 650 Beverage Hill;41.860748;-71.353221;78;15
+70345;Beverage Hill opp Langdon;41.860798;-71.35138;78;16
+70350;Beverage Hill before Narragansett Park;41.860824;-71.350069;78;17
+20865;Narragansett Park before Ballys;41.858249;-71.350541;78;18
+60075;Narragansett Park / Newport;41.858231;-71.353063;78;19
+20835;Newport before Vermont;41.85793;-71.354537;78;20
+20385;Newport opp Taylor;41.854926;-71.354448;78;21
+20095;Newport before Roger Williams;41.852612;-71.354411;78;22
+19875;Newport opp Elmwood;41.849188;-71.354503;78;23
+55885;Pawtucket opp Weeden;41.846341;-71.352984;78;24
+18930;Pawtucket opp St Margaret;41.844338;-71.35142;78;25
+18555;Pawtucket opp Kenton;41.839782;-71.349512;78;26
+18335;Pawtucket at 1315 Pawtucket;41.836684;-71.348702;78;27
+18030;Pawtucket before Greenwood;41.834782;-71.348302;78;28
+17600;Pawtucket before Blythe;41.832727;-71.348482;78;29
+17155;Pawtucket before Centre;41.829941;-71.351978;78;30
+16925;Pawtucket after Centre;41.828217;-71.352645;78;31
+16255;Pawtucket before Blythe;41.824735;-71.354217;78;32
+58815;Stop & Shop (Pawtucket Avenue - East Providence);41.823282;-71.356792;78;33
+55815;Taunton opp Shoppers Town Mall;41.821728;-71.35821;78;34
+15600;Taunton at 525 Taunton;41.821467;-71.359918;78;35
+15580;Taunton before Goldsmith;41.821198;-71.361796;78;36
+15460;Taunton opp Cora;41.8206;-71.365674;78;37
+15455;Waterman at 314 Waterman;41.820838;-71.36904;78;38
+15430;John before Russell;41.821086;-71.370629;78;39
+15240;Taunton opp Grosvenor;41.819709;-71.374224;78;40
+15245;Taunton before Ivy;41.819725;-71.376071;78;41
+15215;Taunton after Vine;41.819787;-71.377591;78;42
+70890;S Main after Wickenden;41.819201;-71.401158;78;43
+15500;S Main after James;41.820945;-71.403662;78;44
+15755;S Main after Power;41.822787;-71.405371;78;45
+59250;S Main at Superior Court;41.825245;-71.407455;78;46
+16820;S Main before Washington;41.826743;-71.408552;78;47
+16525;Kennedy Plaza (Stop H);41.825282;-71.411448;78;48
 60235;Benefit at Thurber;41.891536;-71.345849;76;1
 23750;Central after Bradley;41.890345;-71.344476;76;2
 23705;Central before Draper;41.889246;-71.34907;76;3
@@ -1986,144 +1956,134 @@
 58040;Underwood after Walcott;41.877392;-71.378397;76;18
 58045;Underwood before Grove;41.878527;-71.378151;76;19
 60080;Exchange at Tolman High School;41.879821;-71.380381;76;20
-23075;Roosevelt opp City Hall;41.879101;-71.382598;76;21
-22765;Pawtucket Transit Center;41.877299;-71.383417;76;22
-26000;Powder Hill after Crownmark;41.923692;-71.481251;75;1
-26020;Powder Hill before Jenckes Hill;41.916662;-71.479792;75;2
-24705;Albion at Verizon;41.930964;-71.482607;75;3
-24755;Albion opp Cross Company;41.934337;-71.481668;75;4
-60115;Rt 116 after Albion;41.935196;-71.480701;75;5
-56175;Rt 116 opp Lincoln Mall Entrance;41.935066;-71.477274;75;6
-24745;Rt 116 after Wake Robin;41.934962;-71.473838;75;7
-24810;Lincoln Mall between Marshalls & 5 Below;41.937542;-71.476323;75;8
-58945;Lincoln Mall at Target;41.937835;-71.477875;75;9
-56175;Rt 116 opp Lincoln Mall Entrance;41.935066;-71.477274;75;10
-24745;Rt 116 after Wake Robin;41.934962;-71.473838;75;11
-24725;Rt 116 opp Blackstone Valley;41.934292;-71.457897;75;12
-24785;20 Blackstone Valley;41.939405;-71.461828;75;13
-24820;10 Amica;41.936453;-71.464583;75;14
-24725;Rt 116 opp Blackstone Valley;41.934292;-71.457897;75;15
-24730;Rt 116 after Rt 126;41.934529;-71.449804;75;16
-56195;Rt 116 before 695 George Washington;41.934859;-71.444902;75;17
-56200;Rt 116 after Bank Of America;41.93564;-71.44045;75;18
-56205;Rt 116 opp Blackstone River Park;41.936993;-71.436053;75;19
-56215;Mendon after Scott;41.939035;-71.431456;75;20
-24775;Mendon before Store Hill;41.937356;-71.429522;75;21
-24720;Mendon before Ashton;41.935404;-71.428944;75;22
-56225;Mendon opp Ora Murphy;41.933623;-71.427038;75;23
-24710;Mendon before Ryan;41.93246;-71.426265;75;24
-24690;Mendon before Martin;41.930227;-71.423273;75;25
-24680;Mendon opp Cushing;41.927934;-71.420064;75;26
-56235;Mendon before Hunt;41.926678;-71.417666;75;27
-24675;Mendon after Sunset;41.92537;-71.415003;75;28
-56240;Mendon at Berkeley Commons;41.922891;-71.411534;75;29
-70480;Mendon after 500 Mendon;41.921351;-71.409838;75;30
-24605;Mendon before Marshall;41.920161;-71.408541;75;31
-56245;Mendon after Marshall;41.918386;-71.406891;75;32
-56250;Mendon after Franklin;41.917286;-71.40595;75;33
-24565;Mendon before Broad;41.915774;-71.404758;75;34
-56255;Mendon after Broad;41.913852;-71.403952;75;35
-24495;Mendon before Ann & Hope Way;41.912111;-71.403344;75;36
-56260;Lonsdale before Cook;41.909929;-71.402687;75;37
-56265;Lonsdale before Lonsdale School;41.908281;-71.403197;75;38
-70485;Lonsdale after Front;41.906554;-71.403679;75;39
-70490;Lonsdale opp 1501 Lonsdale;41.904189;-71.404339;75;40
-70500;Lonsdale before Edgehill;41.899665;-71.405045;75;41
-70505;Lonsdale after Valley View;41.897678;-71.404428;75;42
-70510;Lonsdale before Walker;41.895661;-71.404855;75;43
-23790;Lonsdale opp Richland;41.894077;-71.404115;75;44
-23915;Lonsdale at Mohassuck Cemetary;41.891325;-71.402634;75;45
-23645;Dexter before Crossman;41.888857;-71.399235;75;46
-29600;Dexter before Moore;41.887557;-71.397945;75;47
-23445;Dexter before Richardson;41.885794;-71.396107;75;48
-23320;Dexter after Rand;41.884651;-71.394728;75;49
-72880;Dexter after Congress;41.882579;-71.392353;75;50
-23215;Dexter after Barton;41.880443;-71.389649;75;51
-22965;Dexter opp Andrew Ferland;41.879854;-71.388846;75;52
-55990;Exchange after Broad;41.879607;-71.38612;75;53
-23125;Exchange after High;41.879819;-71.383472;75;54
-23075;Roosevelt opp City Hall;41.879101;-71.382598;75;55
-22765;Pawtucket Transit Center;41.877299;-71.383417;75;56
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;73;1
-23150;Exchange before High;41.879979;-71.383717;73;2
-23130;Exchange before Montgomery;41.879959;-71.384874;73;3
-23070;Goff after Broad;41.879594;-71.386718;73;4
-22955;Dexter before Bayley;41.878393;-71.387495;73;5
-22720;Main / Commerce;41.876843;-71.388464;73;6
-22545;Mineral Spring after Main;41.875572;-71.391695;73;7
-22475;Mineral Spring before Franklin;41.874847;-71.396269;73;8
-22425;Mineral Spring at Samuel Slater School;41.874234;-71.400294;73;9
-22380;Mineral Spring after Hope;41.873877;-71.402044;73;10
-22280;Mineral Spring opp 545 Mineral Spring;41.873002;-71.407059;73;11
-22205;Mineral Spring after Fairlawn;41.872076;-71.410744;73;12
-56070;Mineral Spring after Smithfield;41.87117;-71.414163;73;13
-22075;Mineral Spring after Overland;41.870786;-71.415943;73;14
-59895;Mineral Spring after Power;41.87019;-71.418404;73;15
-21855;Mineral Spring after Dorman;41.869756;-71.420146;73;16
-21810;Mineral Spring after Campbell;41.869349;-71.42195;73;17
-21780;Mineral Spring after Cleveland;41.868857;-71.424064;73;18
-21985;Charles before Franklin;41.87053;-71.426353;73;19
-22115;Charles before Gillen;41.871445;-71.427501;73;20
-22215;Charles before Borah;41.87231;-71.429157;73;21
-22495;Charles before Nzad;41.875931;-71.434242;73;22
-22930;Rt 246 opp Woodward;41.878537;-71.435484;73;23
-23280;Rt 246 after Cobble Hill;41.884246;-71.438806;73;24
-23995;Rt 246 at Lincoln Woods Tunnel;41.88622;-71.439646;73;25
-23665;Twin River Casino;41.887001;-71.447213;73;26
-23995;Rt 246 at Lincoln Woods Tunnel;41.88622;-71.439646;73;27
-59880;Rt 246 after Twin River;41.893974;-71.446662;73;28
-24155;CCRI (Lincoln Campus);41.899629;-71.453411;73;29
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;72;1
-23150;Exchange before High;41.879979;-71.383717;72;2
-23130;Exchange before Montgomery;41.879959;-71.384874;72;3
-23070;Goff after Broad;41.879594;-71.386718;72;4
-55995;Dexter after Goff;41.879483;-71.388256;72;5
-56065;Dexter before Dexter Court;41.88125;-71.39054;72;6
-23250;Dexter opp Congress;41.882767;-71.392375;72;7
-23335;Dexter before Rand;41.884695;-71.394651;72;8
-23435;Dexter before Garfield;41.885803;-71.395966;72;9
-23540;Dexter before Cowden;41.887239;-71.397433;72;10
-56000;Dexter before School;41.889057;-71.399262;72;11
-60211;W Hunt opp Earle;41.889516;-71.400873;72;12
-60213;Lonsdale before Hendricks;41.888353;-71.402023;72;13
-60214;Lonsdale after Higginson;41.886425;-71.401597;72;14
-56035;Lonsdale after Orchard;41.884866;-71.400547;72;15
-56045;Lonsdale before Barber;41.882997;-71.400325;72;16
-56050;Lonsdale before Ivy;41.88091;-71.400207;72;17
-22665;Weeden before Sturman;41.876994;-71.401574;72;18
-22695;Weeden before Leonard Jenard;41.877103;-71.40454;72;19
-22805;Weeden before Hazel;41.877575;-71.408858;72;20
-22850;Weeden after Jane;41.878042;-71.411953;72;21
-22910;Weeden before Smithfield;41.878677;-71.414834;72;22
-22905;Weeden before Power;41.878362;-71.417417;72;23
-22465;Power after Oakdale;41.874831;-71.419317;72;24
-22325;Power after Anderton;41.872633;-71.419204;72;25
-55070;Power after Atwood;41.870866;-71.418165;72;26
-21900;Mineral Spring after Power;41.870387;-71.417104;72;27
-22080;Mineral Spring before Smithfield;41.871114;-71.414095;72;28
-21805;Smithfield after Nathaniel;41.867488;-71.412983;72;29
-21390;Smithfield before Piave;41.864125;-71.412297;72;30
-21010;Smithfield at 126 Smithfield;41.86241;-71.411856;72;31
-20875;Smithfield before Power;41.860129;-71.411327;72;32
-60220;Silver Spring at Burger King;41.858632;-71.411016;72;33
-20480;Silver Spring before Swift;41.85572;-71.411225;72;34
-20220;Silver Spring before Ledge;41.853691;-71.412534;72;35
-20105;Silver Spring before Northrop;41.851981;-71.413024;72;36
-19900;Silver Spring before Grafton;41.85;-71.413536;72;37
-19545;Silver Spring at 130 Silver Spring;41.847326;-71.415412;72;38
-19450;Silver Spring opp Walmart;41.845685;-71.417675;72;39
-58800;Charles before Home Depot Parking Lot;41.843289;-71.418284;72;40
-27190;Charles opp 356 Charles;41.841544;-71.417832;72;41
-55405;Charles after Mobil Gas;41.836124;-71.412326;72;42
-18135;Charles after Orms;41.834474;-71.411442;72;43
-17400;Canal after Smith;41.830981;-71.411328;72;44
-72020;Roger Williams National Memorial;41.828711;-71.410829;72;45
-72015;Providence Station;41.828623;-71.412841;72;46
-16400;Kennedy Plaza (Stop B);41.82465;-71.411773;72;47
-15815;Dorrance before Pine;41.822472;-71.410316;72;48
-15040;Dyer before Ship;41.819625;-71.408118;72;49
-58150;Eddy before South;41.817831;-71.407212;72;50
-14035;Eddy after Borden;41.811967;-71.40713;72;51
+23150;Exchange before High;41.879979;-71.383717;76;21
+23070;Goff after Broad;41.879594;-71.386718;76;22
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;76;23
+26000;Powder Hill after Crownmark;41.923692;-71.481251;75-industrial;1
+26020;Powder Hill before Jenckes Hill;41.916662;-71.479792;75-industrial;2
+24705;Albion at Verizon;41.930964;-71.482607;75-industrial;3
+24755;Albion opp Cross Company;41.934337;-71.481668;75-industrial;4
+60115;Rt 116 after Albion;41.935196;-71.480701;75-industrial;5
+56175;Rt 116 opp Lincoln Mall Entrance;41.935066;-71.477274;75-industrial;6
+24745;Rt 116 after Wake Robin;41.934962;-71.473838;75-industrial;7
+24810;Lincoln Mall between Marshalls & 5 Below;41.937542;-71.476323;75-industrial;8
+58945;Lincoln Mall at Target;41.937835;-71.477875;75-industrial;9
+56175;Rt 116 opp Lincoln Mall Entrance;41.935066;-71.477274;75-industrial;10
+24745;Rt 116 after Wake Robin;41.934962;-71.473838;75-industrial;11
+24725;Rt 116 opp Blackstone Valley;41.934292;-71.457897;75-industrial;12
+24785;20 Blackstone Valley;41.939405;-71.461828;75-industrial;13
+24820;10 Amica;41.936453;-71.464583;75-industrial;14
+24725;Rt 116 opp Blackstone Valley;41.934292;-71.457897;75-industrial;15
+24730;Rt 116 after Rt 126;41.934529;-71.449804;75-industrial;16
+56195;Rt 116 before 695 George Washington;41.934859;-71.444902;75-industrial;17
+56200;Rt 116 after Bank Of America;41.93564;-71.44045;75-industrial;18
+56205;Rt 116 opp Blackstone River Park;41.936993;-71.436053;75-industrial;19
+56215;Mendon after Scott;41.939035;-71.431456;75-industrial;20
+24775;Mendon before Store Hill;41.937356;-71.429522;75-industrial;21
+24720;Mendon before Ashton;41.935404;-71.428944;75-industrial;22
+56225;Mendon opp Ora Murphy;41.933623;-71.427038;75-industrial;23
+24710;Mendon before Ryan;41.93246;-71.426265;75-industrial;24
+24690;Mendon before Martin;41.930227;-71.423273;75-industrial;25
+24680;Mendon opp Cushing;41.927934;-71.420064;75-industrial;26
+56235;Mendon before Hunt;41.926678;-71.417666;75-industrial;27
+24675;Mendon after Sunset;41.92537;-71.415003;75-industrial;28
+56240;Mendon at Berkeley Commons;41.922891;-71.411534;75-industrial;29
+70480;Mendon after 500 Mendon;41.921351;-71.409838;75-industrial;30
+24605;Mendon before Marshall;41.920161;-71.408541;75-industrial;31
+56245;Mendon after Marshall;41.918386;-71.406891;75-industrial;32
+56250;Mendon after Franklin;41.917286;-71.40595;75-industrial;33
+24565;Mendon before Broad;41.915774;-71.404758;75-industrial;34
+56255;Mendon after Broad;41.913852;-71.403952;75-industrial;35
+24495;Mendon before Ann & Hope Way;41.912111;-71.403344;75-industrial;36
+56260;Lonsdale before Cook;41.909929;-71.402687;75-industrial;37
+56265;Lonsdale before Lonsdale School;41.908281;-71.403197;75-industrial;38
+70485;Lonsdale after Front;41.906554;-71.403679;75-industrial;39
+70490;Lonsdale opp 1501 Lonsdale;41.904189;-71.404339;75-industrial;40
+70500;Lonsdale before Edgehill;41.899665;-71.405045;75-industrial;41
+70505;Lonsdale after Valley View;41.897678;-71.404428;75-industrial;42
+70510;Lonsdale before Walker;41.895661;-71.404855;75-industrial;43
+23790;Lonsdale opp Richland;41.894077;-71.404115;75-industrial;44
+23915;Lonsdale at Mohassuck Cemetary;41.891325;-71.402634;75-industrial;45
+23645;Dexter before Crossman;41.888857;-71.399235;75-industrial;46
+29600;Dexter before Moore;41.887557;-71.397945;75-industrial;47
+23445;Dexter before Richardson;41.885794;-71.396107;75-industrial;48
+23320;Dexter after Rand;41.884651;-71.394728;75-industrial;49
+72880;Dexter after Congress;41.882579;-71.392353;75-industrial;50
+23215;Dexter after Barton;41.880443;-71.389649;75-industrial;51
+22965;Dexter opp Andrew Ferland;41.879854;-71.388846;75-industrial;52
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;75-industrial;53
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;73;1
+22545;Mineral Spring after Main;41.875572;-71.391695;73;2
+22475;Mineral Spring before Franklin;41.874847;-71.396269;73;3
+22425;Mineral Spring at Samuel Slater School;41.874234;-71.400294;73;4
+22380;Mineral Spring after Hope;41.873877;-71.402044;73;5
+22280;Mineral Spring opp 545 Mineral Spring;41.873002;-71.407059;73;6
+22205;Mineral Spring after Fairlawn;41.872076;-71.410744;73;7
+56070;Mineral Spring after Smithfield;41.87117;-71.414163;73;8
+22075;Mineral Spring after Overland;41.870786;-71.415943;73;9
+59895;Mineral Spring after Power;41.87019;-71.418404;73;10
+21855;Mineral Spring after Dorman;41.869756;-71.420146;73;11
+21810;Mineral Spring after Campbell;41.869349;-71.42195;73;12
+21780;Mineral Spring after Cleveland;41.868857;-71.424064;73;13
+21985;Charles before Franklin;41.87053;-71.426353;73;14
+22115;Charles before Gillen;41.871445;-71.427501;73;15
+22215;Charles before Borah;41.87231;-71.429157;73;16
+22495;Charles before Nzad;41.875931;-71.434242;73;17
+22930;Rt 246 opp Woodward;41.878537;-71.435484;73;18
+23280;Rt 246 after Cobble Hill;41.884246;-71.438806;73;19
+23995;Rt 246 at Lincoln Woods Tunnel;41.88622;-71.439646;73;20
+23665;Twin River Casino;41.887001;-71.447213;73;21
+23995;Rt 246 at Lincoln Woods Tunnel;41.88622;-71.439646;73;22
+59880;Rt 246 after Twin River;41.893974;-71.446662;73;23
+24155;CCRI (Lincoln Campus);41.899629;-71.453411;73;24
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;72;1
+55995;Dexter after Goff;41.879483;-71.388256;72;2
+56065;Dexter before Dexter Court;41.88125;-71.39054;72;3
+23250;Dexter opp Congress;41.882767;-71.392375;72;4
+23335;Dexter before Rand;41.884695;-71.394651;72;5
+23435;Dexter before Garfield;41.885803;-71.395966;72;6
+23540;Dexter before Cowden;41.887239;-71.397433;72;7
+56000;Dexter before School;41.889057;-71.399262;72;8
+60211;W Hunt opp Earle;41.889516;-71.400873;72;9
+60213;Lonsdale before Hendricks;41.888353;-71.402023;72;10
+60214;Lonsdale after Higginson;41.886425;-71.401597;72;11
+56035;Lonsdale after Orchard;41.884866;-71.400547;72;12
+56045;Lonsdale before Barber;41.882997;-71.400325;72;13
+56050;Lonsdale before Ivy;41.88091;-71.400207;72;14
+22665;Weeden before Sturman;41.876994;-71.401574;72;15
+22695;Weeden before Leonard Jenard;41.877103;-71.40454;72;16
+22805;Weeden before Hazel;41.877575;-71.408858;72;17
+22850;Weeden after Jane;41.878042;-71.411953;72;18
+22910;Weeden before Smithfield;41.878677;-71.414834;72;19
+22905;Weeden before Power;41.878362;-71.417417;72;20
+22465;Power after Oakdale;41.874831;-71.419317;72;21
+22325;Power after Anderton;41.872633;-71.419204;72;22
+55070;Power after Atwood;41.870866;-71.418165;72;23
+21900;Mineral Spring after Power;41.870387;-71.417104;72;24
+22080;Mineral Spring before Smithfield;41.871114;-71.414095;72;25
+21805;Smithfield after Nathaniel;41.867488;-71.412983;72;26
+21390;Smithfield before Piave;41.864125;-71.412297;72;27
+21010;Smithfield at 126 Smithfield;41.86241;-71.411856;72;28
+20875;Smithfield before Power;41.860129;-71.411327;72;29
+60220;Silver Spring at Burger King;41.858632;-71.411016;72;30
+20480;Silver Spring before Swift;41.85572;-71.411225;72;31
+20220;Silver Spring before Ledge;41.853691;-71.412534;72;32
+20105;Silver Spring before Northrop;41.851981;-71.413024;72;33
+19900;Silver Spring before Grafton;41.85;-71.413536;72;34
+19545;Silver Spring at 130 Silver Spring;41.847326;-71.415412;72;35
+19450;Silver Spring opp Walmart;41.845685;-71.417675;72;36
+58800;Charles before Home Depot Parking Lot;41.843289;-71.418284;72;37
+27190;Charles opp 356 Charles;41.841544;-71.417832;72;38
+55405;Charles after Mobil Gas;41.836124;-71.412326;72;39
+18135;Charles after Orms;41.834474;-71.411442;72;40
+17400;Canal after Smith;41.830981;-71.411328;72;41
+72020;Roger Williams National Memorial;41.828711;-71.410829;72;42
+72015;Providence Station;41.828623;-71.412841;72;43
+16400;Kennedy Plaza (Stop B);41.82465;-71.411773;72;44
+15815;Dorrance before Pine;41.822472;-71.410316;72;45
+15040;Dyer before Ship;41.819625;-71.408118;72;46
+58150;Eddy before South;41.817831;-71.407212;72;47
+14035;Eddy after Borden;41.811967;-71.40713;72;48
 72310;Collyer at Job Lot;41.857002;-71.40232;71;1
 20785;Pawtucket after Pidge;41.858436;-71.398398;71;2
 21110;Pawtucket before Dartmouth;41.861258;-71.395842;71;3
@@ -2134,29 +2094,26 @@
 21850;Pawtucket before Randall;41.869322;-71.388527;71;8
 21945;George opp Delany;41.871099;-71.387646;71;9
 22200;George after Cedar;41.874083;-71.38732;71;10
-22535;George before East;41.875143;-71.386907;71;11
-22745;East before Main;41.876683;-71.384578;71;12
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136;71;13
-23150;Exchange before High;41.879979;-71.383717;71;14
-23130;Exchange before Montgomery;41.879959;-71.384874;71;15
-23375;Broad opp Nickerson;41.883254;-71.386666;71;16
-23530;Broad before Pacific;41.88658;-71.387056;71;17
-23625;Broad after Sacred Heart;41.888515;-71.387199;71;18
-72959;Broad opp Cowden;41.89114;-71.38727;71;19
-23865;995 Broad;41.893566;-71.387737;71;20
-24075;Broad opp 1190 Broad;41.896008;-71.388175;71;21
-24120;Broad after High;41.898542;-71.389157;71;22
-24205;Broad opp Currier Playlot;41.901061;-71.390954;71;23
-24220;Broad before Chapel;41.902407;-71.391447;71;24
-24290;Broad opp 232 Broad;41.90435;-71.392141;71;25
-24385;Broad before Church;41.90694;-71.39307;71;26
-24435;Broad before Lafayette;41.908341;-71.393731;71;27
-24480;Broad after Dexter;41.912213;-71.396088;71;28
-24520;Broad after Cumberland;41.914093;-71.398204;71;29
-24540;Ann & Hope Way after Main;41.913621;-71.399755;71;30
-55295;Ann & Hope Way before Mendon;41.912543;-71.402047;71;31
-24500;Mendon after Ann & Hope Way;41.912798;-71.403343;71;32
-24496;Stop & Shop (Mendon Road - Cumberland);41.913654;-71.405715;71;33
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;71;11
+23270;Broad before Barton;41.881952;-71.386556;71;12
+23375;Broad opp Nickerson;41.883254;-71.386666;71;13
+23530;Broad before Pacific;41.88658;-71.387056;71;14
+23625;Broad after Sacred Heart;41.888515;-71.387199;71;15
+72959;Broad opp Cowden;41.89114;-71.38727;71;16
+23865;995 Broad;41.893566;-71.387737;71;17
+24075;Broad opp 1190 Broad;41.896008;-71.388175;71;18
+24120;Broad after High;41.898542;-71.389157;71;19
+24205;Broad opp Currier Playlot;41.901061;-71.390954;71;20
+24220;Broad before Chapel;41.902407;-71.391447;71;21
+24290;Broad opp 232 Broad;41.90435;-71.392141;71;22
+24385;Broad before Church;41.90694;-71.39307;71;23
+24435;Broad before Lafayette;41.908341;-71.393731;71;24
+24480;Broad after Dexter;41.912213;-71.396088;71;25
+24520;Broad after Cumberland;41.914093;-71.398204;71;26
+24540;Ann & Hope Way after Main;41.913621;-71.399755;71;27
+55295;Ann & Hope Way before Mendon;41.912543;-71.402047;71;28
+24500;Mendon after Ann & Hope Way;41.912798;-71.403343;71;29
+24496;Stop & Shop (Mendon Road - Cumberland);41.913654;-71.405715;71;30
 130;Salt Pond Shopping Plaza (Stop & Shop);41.428201;-71.483328;65x;1
 56975;Old Tower Hill opp Job Lot;41.441673;-71.486962;65x;2
 430;Old Tower Hill after Narragansett;41.441923;-71.484458;65x;3
@@ -2207,9 +2164,11 @@
 21830;Whitman Street (R-Line);41.869395;-71.397408;R;26
 72025;Pearl Street (R-Line);41.871802;-71.395046;R;27
 55320;Collyer Park (R-Line);41.874951;-71.392292;R;28
-22970;Goff / Dexter;41.878511;-71.388262;R;29
-22765;Pawtucket Transit Center;41.877299;-71.383417;R;30
-1225;Uri Memorial Union;41.484315;-71.529311;69;1
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952;R;29
+55990;Exchange after Broad;41.879607;-71.38612;R;30
+23125;Exchange after High;41.879819;-71.383472;R;31
+23075;Roosevelt opp City Hall;41.879101;-71.382598;R;32
+1225;URI Memorial Union;41.484315;-71.529311;69;1
 1185;Upper College after Campus;41.482725;-71.525816;69;2
 1120;Upper College before Rt 138;41.481191;-71.525551;69;3
 1080;Kingstown after Rt 138;41.479607;-71.520794;69;4

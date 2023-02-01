@@ -412,6 +412,7 @@
 10440;Broad at Library Entrance;41.776125;-71.399418
 12045;Broad at Prairie;41.794613;-71.410082
 11022;Broad before Armington;41.782913;-71.401083
+23270;Broad before Barton;41.881952;-71.386556
 10075;Broad before Berwick;41.771178;-71.394366
 73460;Broad before Chambers;41.908051;-71.393763
 24220;Broad before Chapel;41.902407;-71.391447
@@ -2204,8 +2205,6 @@
 71135;Park after Palmer;41.783590;-71.459967
 13385;Parkis Avenue (R-Line);41.809663;-71.420873
 13710;Parkis Avenue (R-Line);41.809033;-71.420871
-22765;Pawtucket Transit Center;41.877299;-71.383417
-59060;Pawtucket Transit Center (Slater Mill Side);41.877518;-71.383136
 16925;Pawtucket after Centre;41.828217;-71.352645
 21545;Pawtucket after Dunnell;41.866001;-71.391551
 15120;Pawtucket after East Providence High School;41.820569;-71.356384
@@ -2275,6 +2274,7 @@
 13130;Pawtucket opp Walmer;41.803995;-71.361387
 11435;Pawtucket opp Water View;41.788205;-71.364326
 55885;Pawtucket opp Weeden;41.846341;-71.352984
+23080;Pawtucket-Central Falls Transit Center;41.878493;-71.391952
 55325;Pearl Street (R-Line);41.871679;-71.395277
 72025;Pearl Street (R-Line);41.871802;-71.395046
 60002;Pettine Transit Center (Fall River);41.698321;-71.154292
@@ -2742,6 +2742,8 @@
 10740;Rolfe after Pontiac;41.778478;-71.436012
 10660;Rolfe before Park;41.778294;-71.435852
 59220;Rolfe opp Post Office;41.776585;-71.436481
+59060;Roosevelt after Main (Slater Mill Side);41.877518;-71.383136
+22765;Roosevelt before Main (Visitor Center);41.877299;-71.383417
 23075;Roosevelt opp City Hall;41.879101;-71.382598
 1461;Rt 1 after Gilbert Stuart;41.522685;-71.463332
 520;Rt 1 after Hampton;41.448753;-71.473280
