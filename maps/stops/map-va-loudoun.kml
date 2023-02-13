@@ -1,0 +1,4514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>va-loudoun stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; C St<br/>ID: 341</description>
+		<Point> 
+			<coordinates>
+			-77.015103,38.893326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; Pennsylvania Ave<br/>ID: 318</description>
+		<Point> 
+			<coordinates>
+			-77.01521,38.891478,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th St NW &amp; F St NW<br/>ID: 419</description>
+		<Point> 
+			<coordinates>
+			-77.026998,38.897477,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; Constitution Ave<br/>ID: 322</description>
+		<Point> 
+			<coordinates>
+			-77.031815,38.894179,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; Constitution Ave<br/>ID: 337</description>
+		<Point> 
+			<coordinates>
+			-77.031992,38.893284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 18th St &amp; E St<br/>ID: 330</description>
+		<Point> 
+			<coordinates>
+			-77.041528,38.895225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 18th St &amp; G St<br/>ID: 331</description>
+		<Point> 
+			<coordinates>
+			-77.04156,38.898138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 18th St &amp; K St<br/>ID: 332</description>
+		<Point> 
+			<coordinates>
+			-77.04155,38.902274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 18th St &amp; Route 1<br/>ID: 351</description>
+		<Point> 
+			<coordinates>
+			-77.052052,38.857429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 19th St &amp; E St<br/>ID: 328</description>
+		<Point> 
+			<coordinates>
+			-77.043483,38.896552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 19th St &amp; H St<br/>ID: 327</description>
+		<Point> 
+			<coordinates>
+			-77.043505,38.89944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 23rd St &amp; Crystal Dr<br/>ID: 352</description>
+		<Point> 
+			<coordinates>
+			-77.050207,38.853486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alderwood Terr &amp; Glouchester Pkwy<br/>ID: 5</description>
+		<Point> 
+			<coordinates>
+			-77.47255,39.040328,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Metro Station - North Bus Bay<br/>ID: 423</description>
+		<Point> 
+			<coordinates>
+			-77.48959,39.004361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Metro Station - South Bus Bay<br/>ID: 424</description>
+		<Point> 
+			<coordinates>
+			-77.491789,39.004647,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Metro Station - South Kiss and Ride<br/>ID: 425</description>
+		<Point> 
+			<coordinates>
+			-77.492367,39.004766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Rd at Ashburn Chase Apartments<br/>ID: 440</description>
+		<Point> 
+			<coordinates>
+			-77.480329,39.068931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Rd at BRd Run High School<br/>ID: 454</description>
+		<Point> 
+			<coordinates>
+			-77.492851,39.022376,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Rd at Epsom Ter<br/>ID: 450</description>
+		<Point> 
+			<coordinates>
+			-77.495126,39.016102,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Rd at Farmwell Rd / Asburn Farm Pkwy<br/>ID: 448</description>
+		<Point> 
+			<coordinates>
+			-77.487791,39.027267,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Rd at Farmwell Rd / Ashburn Farm Pkwy<br/>ID: 455</description>
+		<Point> 
+			<coordinates>
+			-77.487728,39.027031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Rd at Suzanne Hope Way<br/>ID: 449</description>
+		<Point> 
+			<coordinates>
+			-77.493304,39.021877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Senior Center<br/>ID: 578</description>
+		<Point> 
+			<coordinates>
+			-77.461049,39.038618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Apollo Ter<br/>ID: 434</description>
+		<Point> 
+			<coordinates>
+			-77.473076,39.042544,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Bruceton Mills Cir<br/>ID: 445</description>
+		<Point> 
+			<coordinates>
+			-77.476588,39.034002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Cheltenham Cir<br/>ID: 446</description>
+		<Point> 
+			<coordinates>
+			-77.473787,39.030126,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Cheltenham Cir<br/>ID: 447</description>
+		<Point> 
+			<coordinates>
+			-77.47654,39.026263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Farmwell Rd<br/>ID: 429</description>
+		<Point> 
+			<coordinates>
+			-77.478553,39.022839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Farmwell Rd<br/>ID: 463</description>
+		<Point> 
+			<coordinates>
+			-77.478766,39.023265,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Fultonham Cir<br/>ID: 430</description>
+		<Point> 
+			<coordinates>
+			-77.477074,39.025216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Fultonham Cir<br/>ID: 431</description>
+		<Point> 
+			<coordinates>
+			-77.474496,39.027558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Gala Cir<br/>ID: 437</description>
+		<Point> 
+			<coordinates>
+			-77.47595,39.056506,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Louisa Dr<br/>ID: 460</description>
+		<Point> 
+			<coordinates>
+			-77.477129,39.05708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Mistletoe Ter<br/>ID: 433</description>
+		<Point> 
+			<coordinates>
+			-77.474903,39.039972,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Mossy Glen Ter<br/>ID: 432</description>
+		<Point> 
+			<coordinates>
+			-77.475621,39.033494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Paget Ter<br/>ID: 461</description>
+		<Point> 
+			<coordinates>
+			-77.474308,39.049934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Pavilion Pkwy<br/>ID: 435</description>
+		<Point> 
+			<coordinates>
+			-77.470994,39.046095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Quiet Walk Ter<br/>ID: 436</description>
+		<Point> 
+			<coordinates>
+			-77.473132,39.049728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Red Rum Dr<br/>ID: 428</description>
+		<Point> 
+			<coordinates>
+			-77.48384,39.015998,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Romans Dr (south)<br/>ID: 464</description>
+		<Point> 
+			<coordinates>
+			-77.483435,39.017923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd at Tavern Dr<br/>ID: 444</description>
+		<Point> 
+			<coordinates>
+			-77.475138,39.03919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Blvd near Ashburn Village Pavilion<br/>ID: 462</description>
+		<Point> 
+			<coordinates>
+			-77.471424,39.046188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn Village Giant<br/>ID: 4</description>
+		<Point> 
+			<coordinates>
+			-77.474035,39.04427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashby Ponds<br/>ID: 1</description>
+		<Point> 
+			<coordinates>
+			-77.454978,39.028892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Atlantic &amp; Magnolia<br/>ID: 282</description>
+		<Point> 
+			<coordinates>
+			-77.429194,39.009986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Atlantic &amp; Magnolia<br/>ID: 283</description>
+		<Point> 
+			<coordinates>
+			-77.429475,39.010182,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Atlantic Blvd Orbital<br/>ID: 68</description>
+		<Point> 
+			<coordinates>
+			-77.428778,39.013885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Atlantic Blvd Orbital<br/>ID: 69</description>
+		<Point> 
+			<coordinates>
+			-77.429127,39.01395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ayr St &amp; Memorial Dr<br/>ID: 33</description>
+		<Point> 
+			<coordinates>
+			-77.569189,39.119679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: BRdlands Blvd at BRdlands Center Plaza<br/>ID: 486</description>
+		<Point> 
+			<coordinates>
+			-77.50758,39.024821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: BRdlands Blvd at Chickacoan Trail Dr<br/>ID: 480</description>
+		<Point> 
+			<coordinates>
+			-77.517812,39.031308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: BRdlands Blvd at Chickacoan Trail Dr<br/>ID: 487</description>
+		<Point> 
+			<coordinates>
+			-77.516119,39.031219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: BRdlands Blvd at Demott Dr<br/>ID: 481</description>
+		<Point> 
+			<coordinates>
+			-77.508002,39.024533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Battlefield Pkwy &amp; Catoctin Cir<br/>ID: 133</description>
+		<Point> 
+			<coordinates>
+			-77.550788,39.124884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Battlefield Pkwy &amp; Fieldstone Dr<br/>ID: 99e</description>
+		<Point> 
+			<coordinates>
+			-77.547721,39.124605,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Battlefield Pkwy &amp; Flowering Dogwood Te<br/>ID: 36</description>
+		<Point> 
+			<coordinates>
+			-77.554677,39.091245,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Battlefield Pkwy &amp; Plaza St<br/>ID: 132</description>
+		<Point> 
+			<coordinates>
+			-77.550191,39.124495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bentwood Rd<br/>ID: 15</description>
+		<Point> 
+			<coordinates>
+			-77.421727,39.051482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brambleton<br/>ID: 304</description>
+		<Point> 
+			<coordinates>
+			-77.522822,38.970841,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Breezyhill Dr at Alderleaf Ter<br/>ID: 475</description>
+		<Point> 
+			<coordinates>
+			-77.503919,39.049594,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Breezyhill Dr at Deerwatch Place<br/>ID: 491</description>
+		<Point> 
+			<coordinates>
+			-77.503357,39.049256,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cardinal Park Dr - Northbound Mid-Block<br/>ID: 406</description>
+		<Point> 
+			<coordinates>
+			-77.539524,39.100326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cascades - Community Lutheran Church<br/>ID: 357</description>
+		<Point> 
+			<coordinates>
+			-77.392964,39.035022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cascades Pkwy &amp; Palisades Pkwy<br/>ID: 238</description>
+		<Point> 
+			<coordinates>
+			-77.400643,39.035738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cascades Village<br/>ID: 89</description>
+		<Point> 
+			<coordinates>
+			-77.389506,39.029187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cascades Village<br/>ID: 90</description>
+		<Point> 
+			<coordinates>
+			-77.390083,39.022444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cascades Village Brookdale<br/>ID: 224</description>
+		<Point> 
+			<coordinates>
+			-77.389106,39.022771,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Coltsridge Te<br/>ID: 134</description>
+		<Point> 
+			<coordinates>
+			-77.552432,39.123791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Edwards Ferry Rd<br/>ID: 100</description>
+		<Point> 
+			<coordinates>
+			-77.552479,39.113006,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Edwards Ferry Rd<br/>ID: 94</description>
+		<Point> 
+			<coordinates>
+			-77.552266,39.113113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; First Citizens Bank<br/>ID: 101</description>
+		<Point> 
+			<coordinates>
+			-77.55457,39.112121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Industrial Ct<br/>ID: 107</description>
+		<Point> 
+			<coordinates>
+			-77.559201,39.107308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; King St<br/>ID: 93</description>
+		<Point> 
+			<coordinates>
+			-77.565004,39.106867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Leesburg Plaza<br/>ID: 95</description>
+		<Point> 
+			<coordinates>
+			-77.554579,39.111768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Oakcrest Manor Dr<br/>ID: 98</description>
+		<Point> 
+			<coordinates>
+			-77.552302,39.121607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catoctin Cir &amp; Parker Ct<br/>ID: 108</description>
+		<Point> 
+			<coordinates>
+			-77.556112,39.109601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Centergate Dr<br/>ID: 536</description>
+		<Point> 
+			<coordinates>
+			-77.483683,38.997882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chick-fil-A at Target-Kohl's Shopping Center<br/>ID: 415</description>
+		<Point> 
+			<coordinates>
+			-77.536148,39.114446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Christiana &amp; Cornstalk<br/>ID: 295</description>
+		<Point> 
+			<coordinates>
+			-77.475353,39.045208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Christiana Dr at Cornstalk Terrrace<br/>ID: 456</description>
+		<Point> 
+			<coordinates>
+			-77.47542,39.045364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: City Center &amp;MIrage<br/>ID: 281</description>
+		<Point> 
+			<coordinates>
+			-77.418407,39.033454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at BRdlands Blvd<br/>ID: 498</description>
+		<Point> 
+			<coordinates>
+			-77.511068,39.027298,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at BRdlands Center Plaza<br/>ID: 468</description>
+		<Point> 
+			<coordinates>
+			-77.510568,39.027231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Chokeberry Square<br/>ID: 473</description>
+		<Point> 
+			<coordinates>
+			-77.507001,39.043579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Ellzey Dr<br/>ID: 500</description>
+		<Point> 
+			<coordinates>
+			-77.511809,39.020193,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Harvest Green Ter<br/>ID: 466</description>
+		<Point> 
+			<coordinates>
+			-77.511054,39.019747,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Marburg Ter<br/>ID: 526</description>
+		<Point> 
+			<coordinates>
+			-77.515419,39.006225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Vestals Gap Dr<br/>ID: 467</description>
+		<Point> 
+			<coordinates>
+			-77.512898,39.022656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Vestals Gap Dr<br/>ID: 499</description>
+		<Point> 
+			<coordinates>
+			-77.513455,39.023714,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Village Dr<br/>ID: 522</description>
+		<Point> 
+			<coordinates>
+			-77.51247,39.010185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Weatherwood Dr<br/>ID: 493</description>
+		<Point> 
+			<coordinates>
+			-77.507998,39.044688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Claiborne Pkwy at Zion Chapel Dr<br/>ID: 511</description>
+		<Point> 
+			<coordinates>
+			-77.5165,38.986399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clubhouse Dr &amp; Kins St<br/>ID: 136</description>
+		<Point> 
+			<coordinates>
+			-77.583692,39.104184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cohasset Terr &amp; Gloucester Pkwy<br/>ID: 9</description>
+		<Point> 
+			<coordinates>
+			-77.469369,39.035734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottage Rd &amp; Mirror Ridge Pl<br/>ID: 223</description>
+		<Point> 
+			<coordinates>
+			-77.385661,39.029019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: County Complex ADC<br/>ID: 39</description>
+		<Point> 
+			<coordinates>
+			-77.545675,39.074482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creighton Rd at Belmont Ridge Rd<br/>ID: 505</description>
+		<Point> 
+			<coordinates>
+			-77.530263,38.975543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creighton Rd at Cumulus Ter (east)<br/>ID: 507</description>
+		<Point> 
+			<coordinates>
+			-77.51951,38.967671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creighton Rd at Minerva Dr<br/>ID: 506</description>
+		<Point> 
+			<coordinates>
+			-77.525424,38.972429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creighton Rd at Northstar Blvd<br/>ID: 504</description>
+		<Point> 
+			<coordinates>
+			-77.540173,38.976283,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cromwell Rd &amp; Edds Dr<br/>ID: 13</description>
+		<Point> 
+			<coordinates>
+			-77.412424,39.042351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Croson Lane at Lonsdale Dr<br/>ID: 525</description>
+		<Point> 
+			<coordinates>
+			-77.521799,39.001479,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Croson Lane at Rosecrest Ter<br/>ID: 524</description>
+		<Point> 
+			<coordinates>
+			-77.527606,39.001209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CrossRds Dr at Junction Plaza (west)<br/>ID: 494</description>
+		<Point> 
+			<coordinates>
+			-77.501329,39.03769,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CrossRds Dr at Timber Ridge Ter<br/>ID: 495</description>
+		<Point> 
+			<coordinates>
+			-77.497897,39.035207,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crosswoods Dr at Blacksmith Square<br/>ID: 471</description>
+		<Point> 
+			<coordinates>
+			-77.49739,39.035627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crosswoods Dr at Pioneer Ridge Ter<br/>ID: 472</description>
+		<Point> 
+			<coordinates>
+			-77.501568,39.038212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cthouse/USPS - E. Market St and Church St<br/>ID: 404</description>
+		<Point> 
+			<coordinates>
+			-77.563404,39.115097,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Davis Dr &amp; Export Dr<br/>ID: 171</description>
+		<Point> 
+			<coordinates>
+			-77.422618,38.995268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Davis Dr &amp; Sally Ride Dr<br/>ID: 176</description>
+		<Point> 
+			<coordinates>
+			-77.41735,38.99147,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Davis Dr &amp; Shepard Dr<br/>ID: 172</description>
+		<Point> 
+			<coordinates>
+			-77.421184,38.993762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Davis Dr &amp; Shepard Dr<br/>ID: 180</description>
+		<Point> 
+			<coordinates>
+			-77.421164,38.994107,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Davis Dr and Great Trail Ter<br/>ID: 284</description>
+		<Point> 
+			<coordinates>
+			-77.427839,39.002075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Davis Dr and Tippett Hill Dr<br/>ID: 285</description>
+		<Point> 
+			<coordinates>
+			-77.428033,39.001913,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Destiny Dr at Moreland Mine Ter<br/>ID: 568</description>
+		<Point> 
+			<coordinates>
+			-77.554868,38.922813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Destiny Dr past Oribi Place<br/>ID: 566</description>
+		<Point> 
+			<coordinates>
+			-77.545417,38.913162,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Destiny Dr past Supreme Dr<br/>ID: 567</description>
+		<Point> 
+			<coordinates>
+			-77.55624,38.919087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dicks Sporting Goods<br/>ID: 45</description>
+		<Point> 
+			<coordinates>
+			-77.531956,39.113232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Doubletree Hotel<br/>ID: 170</description>
+		<Point> 
+			<coordinates>
+			-77.426871,39.017814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dranesville Town Center - Giant<br/>ID: 79</description>
+		<Point> 
+			<coordinates>
+			-77.373423,39.012782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Crossing at Walmart<br/>ID: 66</description>
+		<Point> 
+			<coordinates>
+			-77.425064,39.023369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Eastern Plaza<br/>ID: 67</description>
+		<Point> 
+			<coordinates>
+			-77.424797,39.02415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Eastern Plaza &amp; Nokes Blvd<br/>ID: 183</description>
+		<Point> 
+			<coordinates>
+			-77.422834,39.026849,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles North<br/>ID: 303</description>
+		<Point> 
+			<coordinates>
+			-77.453754,38.990299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Sportsplex<br/>ID: 182</description>
+		<Point> 
+			<coordinates>
+			-77.426529,39.017573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Town Center Mall<br/>ID: 369</description>
+		<Point> 
+			<coordinates>
+			-77.422202,39.030743,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Town Center Park &amp; Ride Lot<br/>ID: 25</description>
+		<Point> 
+			<coordinates>
+			-77.429508,39.033967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dulles Transit Center<br/>ID: 579</description>
+		<Point> 
+			<coordinates>
+			-77.431014,38.976031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E St &amp; New Jersey Ave<br/>ID: 342</description>
+		<Point> 
+			<coordinates>
+			-77.011511,38.896098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eads St &amp; 12th St<br/>ID: 365</description>
+		<Point> 
+			<coordinates>
+			-77.054204,38.863,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Church Rd at Lincoln Avenue<br/>ID: 558</description>
+		<Point> 
+			<coordinates>
+			-77.393998,39.007282,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Frederick<br/>ID: 228</description>
+		<Point> 
+			<coordinates>
+			-77.388461,39.015999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Frederick<br/>ID: 78</description>
+		<Point> 
+			<coordinates>
+			-77.38854,39.016156,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Frederick Dr &amp; Thomas Jefferson Dr<br/>ID: 227</description>
+		<Point> 
+			<coordinates>
+			-77.382682,39.012807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Frederick Dr &amp; Thomas Jefferson Dr<br/>ID: 229</description>
+		<Point> 
+			<coordinates>
+			-77.382786,39.012697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Gate<br/>ID: 368</description>
+		<Point> 
+			<coordinates>
+			-77.491433,38.912013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastgate View Dr at Cancello Ter<br/>ID: 549</description>
+		<Point> 
+			<coordinates>
+			-77.480346,38.911882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastgate View Dr at Cancello Ter<br/>ID: 552</description>
+		<Point> 
+			<coordinates>
+			-77.480944,38.91226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edwards Ferry Rd &amp; Banyan Cove Sq<br/>ID: 55</description>
+		<Point> 
+			<coordinates>
+			-77.542393,39.113504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Enterprise St &amp; Maple Ave<br/>ID: 193</description>
+		<Point> 
+			<coordinates>
+			-77.40819,38.99612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Enterprise St &amp; Maple Ave<br/>ID: 194</description>
+		<Point> 
+			<coordinates>
+			-77.408391,38.996227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evans Ridge Apartments<br/>ID: 252</description>
+		<Point> 
+			<coordinates>
+			-77.530948,39.106807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evergreen Mills Rd at Marietta Pkwy<br/>ID: 514</description>
+		<Point> 
+			<coordinates>
+			-77.533582,38.962149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evergreen Mills Rd at Richland Grove Dr<br/>ID: 513</description>
+		<Point> 
+			<coordinates>
+			-77.527683,38.960447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evergreen Ridge Dr at Barnstead Dr<br/>ID: 510</description>
+		<Point> 
+			<coordinates>
+			-77.51194,38.978528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evergreen Ridge Dr at Hattontown Woods Ter<br/>ID: 509</description>
+		<Point> 
+			<coordinates>
+			-77.51015,38.972204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evergreen Ridge Dr at Hopewell Manor Ter<br/>ID: 508</description>
+		<Point> 
+			<coordinates>
+			-77.513205,38.967883,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Exeter Fieldstone Apartments<br/>ID: 99</description>
+		<Point> 
+			<coordinates>
+			-77.547125,39.125227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St NW &amp; 11th St NW<br/>ID: 418</description>
+		<Point> 
+			<coordinates>
+			-77.027185,38.897305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Faulkner Pkwy at Ashburn Rd<br/>ID: 483</description>
+		<Point> 
+			<coordinates>
+			-77.494805,39.018722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Faulkner Pkwy at Ashburn Rd<br/>ID: 484</description>
+		<Point> 
+			<coordinates>
+			-77.493527,39.01875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fern St &amp; Army Navy Dr<br/>ID: 353</description>
+		<Point> 
+			<coordinates>
+			-77.056342,38.865209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans &amp; Battlefield<br/>ID: 265</description>
+		<Point> 
+			<coordinates>
+			-77.527578,39.10505,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Evans Ridge Te<br/>ID: 156</description>
+		<Point> 
+			<coordinates>
+			-77.532915,39.107548,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Forest Spring Dr<br/>ID: 254</description>
+		<Point> 
+			<coordinates>
+			-77.522105,39.101984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Heritage Way<br/>ID: 141</description>
+		<Point> 
+			<coordinates>
+			-77.541013,39.109166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Heritage Way<br/>ID: 151</description>
+		<Point> 
+			<coordinates>
+			-77.541054,39.109258,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Homewood Suites<br/>ID: 140</description>
+		<Point> 
+			<coordinates>
+			-77.544312,39.108318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Manor Apts<br/>ID: 152</description>
+		<Point> 
+			<coordinates>
+			-77.54692,39.107842,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Market St<br/>ID: 139</description>
+		<Point> 
+			<coordinates>
+			-77.548096,39.107363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Market St<br/>ID: 153</description>
+		<Point> 
+			<coordinates>
+			-77.54831,39.107439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Meadows Ln<br/>ID: 115</description>
+		<Point> 
+			<coordinates>
+			-77.544352,39.10849,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Orchid Dr<br/>ID: 255</description>
+		<Point> 
+			<coordinates>
+			-77.519391,39.100494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Pine View Sq<br/>ID: 219</description>
+		<Point> 
+			<coordinates>
+			-77.523275,39.102264,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Potomac Station Dr<br/>ID: 150</description>
+		<Point> 
+			<coordinates>
+			-77.534691,39.108834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Sentinel Dr<br/>ID: 59</description>
+		<Point> 
+			<coordinates>
+			-77.516375,39.098412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Evans Rd &amp; Sycamore Hill Dr<br/>ID: 218</description>
+		<Point> 
+			<coordinates>
+			-77.529616,39.10574,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Frederick Dr at Sugarland Rd<br/>ID: 559</description>
+		<Point> 
+			<coordinates>
+			-77.381853,39.009326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gateway Dr &amp; Hetzel Te<br/>ID: 127</description>
+		<Point> 
+			<coordinates>
+			-77.554543,39.101656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gateway Dr &amp; Hetzel Te<br/>ID: 128</description>
+		<Point> 
+			<coordinates>
+			-77.554623,39.101762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Academic Way<br/>ID: 211</description>
+		<Point> 
+			<coordinates>
+			-77.446382,39.059486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Bar Harbor Te<br/>ID: 204</description>
+		<Point> 
+			<coordinates>
+			-77.443013,39.055794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Bar Harbor Ter<br/>ID: 208</description>
+		<Point> 
+			<coordinates>
+			-77.443269,39.056374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Enterprise Hall<br/>ID: 52</description>
+		<Point> 
+			<coordinates>
+			-77.444167,39.054499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Exploration Hall<br/>ID: 210</description>
+		<Point> 
+			<coordinates>
+			-77.446068,39.059738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Innovation Hall<br/>ID: 209</description>
+		<Point> 
+			<coordinates>
+			-77.44342,39.058271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Lakeview Overlook Plaza<br/>ID: 119</description>
+		<Point> 
+			<coordinates>
+			-77.447171,39.059478,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; Research Pl<br/>ID: 206</description>
+		<Point> 
+			<coordinates>
+			-77.438732,39.052689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington Blvd &amp; River Ridge Ter<br/>ID: 207</description>
+		<Point> 
+			<coordinates>
+			-77.437948,39.055031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George Washington University &amp; Research Place<br/>ID: 205</description>
+		<Point> 
+			<coordinates>
+			-77.437369,39.051193,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glenburn Terr &amp; Gloucetser Pkwy<br/>ID: 8</description>
+		<Point> 
+			<coordinates>
+			-77.466488,39.034636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glenn Dr &amp; Carpenter Dr<br/>ID: 173</description>
+		<Point> 
+			<coordinates>
+			-77.42369,38.989536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glenn Dr &amp; Sally Ride Dr<br/>ID: 174</description>
+		<Point> 
+			<coordinates>
+			-77.418504,38.988155,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy &amp; Chamberlain Terr<br/>ID: 7</description>
+		<Point> 
+			<coordinates>
+			-77.460512,39.034034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy &amp; Tillman Terr<br/>ID: 6</description>
+		<Point> 
+			<coordinates>
+			-77.464732,39.03431,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy &amp; Vosburg Terr<br/>ID: 3</description>
+		<Point> 
+			<coordinates>
+			-77.470007,39.035738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy &amp; Winola Terr<br/>ID: 261</description>
+		<Point> 
+			<coordinates>
+			-77.464181,39.034708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy at Amity Place<br/>ID: 442</description>
+		<Point> 
+			<coordinates>
+			-77.482901,39.049517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy at Deerview Dr<br/>ID: 441</description>
+		<Point> 
+			<coordinates>
+			-77.486337,39.051577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy at Fincastle Dr<br/>ID: 458</description>
+		<Point> 
+			<coordinates>
+			-77.481688,39.04915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy at Grottoes Dr<br/>ID: 443</description>
+		<Point> 
+			<coordinates>
+			-77.481389,39.046849,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy at Laurel Ridge Dr<br/>ID: 459</description>
+		<Point> 
+			<coordinates>
+			-77.486748,39.052303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucester Pkwy at Ringold Dr<br/>ID: 457</description>
+		<Point> 
+			<coordinates>
+			-77.480566,39.046092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gloucetser Pkwy at Ashburn Meadows<br/>ID: 262</description>
+		<Point> 
+			<coordinates>
+			-77.4671,39.034393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goose Creek Village<br/>ID: 309</description>
+		<Point> 
+			<coordinates>
+			-77.523709,39.04162,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gum Spring Rd at Greenstone Dr<br/>ID: 565</description>
+		<Point> 
+			<coordinates>
+			-77.543951,38.926083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gum Spring Rd at Tall Cedars Pkwy<br/>ID: 564</description>
+		<Point> 
+			<coordinates>
+			-77.541289,38.931277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St &amp; 4th St<br/>ID: 314</description>
+		<Point> 
+			<coordinates>
+			-77.017599,38.899739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St &amp; 4th St<br/>ID: 345</description>
+		<Point> 
+			<coordinates>
+			-77.017311,38.899902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St &amp; N Capitol St<br/>ID: 315</description>
+		<Point> 
+			<coordinates>
+			-77.009449,38.900168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harmony Park and Ride<br/>ID: 307</description>
+		<Point> 
+			<coordinates>
+			-77.63649,39.136217,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Catoctin Cir<br/>ID: 121</description>
+		<Point> 
+			<coordinates>
+			-77.562707,39.10707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Catoctin Cir (Northbound)<br/>ID: 122</description>
+		<Point> 
+			<coordinates>
+			-77.562496,39.107358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Depot Ct<br/>ID: 43</description>
+		<Point> 
+			<coordinates>
+			-77.563198,39.110787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Rockbridge Dr<br/>ID: 126</description>
+		<Point> 
+			<coordinates>
+			-77.557018,39.10181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Rockbridge Dr<br/>ID: 42</description>
+		<Point> 
+			<coordinates>
+			-77.557293,39.10233,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Shenandoah St<br/>ID: 125</description>
+		<Point> 
+			<coordinates>
+			-77.560529,39.104669,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; Shenandoah St<br/>ID: 34</description>
+		<Point> 
+			<coordinates>
+			-77.560469,39.104443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison St &amp; South St<br/>ID: 106</description>
+		<Point> 
+			<coordinates>
+			-77.562799,39.112459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harrison and Crescent<br/>ID: 277</description>
+		<Point> 
+			<coordinates>
+			-77.562863,39.1092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hay Rd near Ashburn Library<br/>ID: 474</description>
+		<Point> 
+			<coordinates>
+			-77.502983,39.045165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hay Rd near Ashburn Library<br/>ID: 492</description>
+		<Point> 
+			<coordinates>
+			-77.502479,39.045279,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Healthworks Manor Apartments<br/>ID: 44</description>
+		<Point> 
+			<coordinates>
+			-77.539234,39.109633,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Heritage Way &amp; Adams Dr<br/>ID: 114</description>
+		<Point> 
+			<coordinates>
+			-77.541507,39.111476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Heritage Way &amp; Adams Dr<br/>ID: 142</description>
+		<Point> 
+			<coordinates>
+			-77.541361,39.112356,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Heritage Way &amp; Edwards Ferry Rd<br/>ID: 46</description>
+		<Point> 
+			<coordinates>
+			-77.541665,39.112812,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Alder Ave<br/>ID: 72</description>
+		<Point> 
+			<coordinates>
+			-77.404458,39.002659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Alder Ave<br/>ID: 73</description>
+		<Point> 
+			<coordinates>
+			-77.405146,39.002811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Commerce St<br/>ID: 407</description>
+		<Point> 
+			<coordinates>
+			-77.402097,39.000686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Fillmore Ave<br/>ID: 75</description>
+		<Point> 
+			<coordinates>
+			-77.400182,38.99923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Ithaca Rd<br/>ID: 199</description>
+		<Point> 
+			<coordinates>
+			-77.395788,38.99847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Sycamore Rd<br/>ID: 196</description>
+		<Point> 
+			<coordinates>
+			-77.409264,39.00457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holly Ave &amp; Sycamore Rd<br/>ID: 71</description>
+		<Point> 
+			<coordinates>
+			-77.409371,39.004485,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I St &amp; 15th St<br/>ID: 324</description>
+		<Point> 
+			<coordinates>
+			-77.033446,38.901392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I St &amp; 19th St<br/>ID: 326</description>
+		<Point> 
+			<coordinates>
+			-77.043722,38.901369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I St &amp; Connecticut Ave<br/>ID: 325</description>
+		<Point> 
+			<coordinates>
+			-77.038124,38.901348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ida Lee<br/>ID: 26</description>
+		<Point> 
+			<coordinates>
+			-77.565716,39.123883,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Independence &amp; 6th St<br/>ID: 340</description>
+		<Point> 
+			<coordinates>
+			-77.020594,38.887446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Independence &amp; 9th St<br/>ID: 339</description>
+		<Point> 
+			<coordinates>
+			-77.024384,38.887484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Independence &amp; 12th St<br/>ID: 338</description>
+		<Point> 
+			<coordinates>
+			-77.028477,38.887501,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Independence St Ave &amp; 6th St<br/>ID: 319</description>
+		<Point> 
+			<coordinates>
+			-77.019356,38.887676,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Independence St Ave &amp; 12th St<br/>ID: 321</description>
+		<Point> 
+			<coordinates>
+			-77.028733,38.887691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Independence St Ave &amp; L'Enfant Plaza<br/>ID: 320</description>
+		<Point> 
+			<coordinates>
+			-77.02568,38.887684,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Innovation Center Metro Station - North Bus Bay<br/>ID: 421</description>
+		<Point> 
+			<coordinates>
+			-77.416829,38.962023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Inova - Ashburn Health Plex<br/>ID: 539</description>
+		<Point> 
+			<coordinates>
+			-77.481169,38.994665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Inova Hospital at Lansdowne<br/>ID: 290</description>
+		<Point> 
+			<coordinates>
+			-77.476805,39.073661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Inova at Gibson St<br/>ID: 32</description>
+		<Point> 
+			<coordinates>
+			-77.568027,39.119632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jennings Farm Dr &amp; Cedar La<br/>ID: 225</description>
+		<Point> 
+			<coordinates>
+			-77.375913,39.018484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jennings Farm Dr &amp; Lakeland Dr<br/>ID: 233</description>
+		<Point> 
+			<coordinates>
+			-77.3755,39.018348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: K St &amp; 14th St<br/>ID: 335</description>
+		<Point> 
+			<coordinates>
+			-77.032222,38.902489,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: K St &amp; 15th St<br/>ID: 334</description>
+		<Point> 
+			<coordinates>
+			-77.034867,38.902529,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: K St &amp; 17th St<br/>ID: 333</description>
+		<Point> 
+			<coordinates>
+			-77.039794,38.902497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St &amp; Davis Ave<br/>ID: 102</description>
+		<Point> 
+			<coordinates>
+			-77.57159,39.103392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St &amp; Davis Ave<br/>ID: 124</description>
+		<Point> 
+			<coordinates>
+			-77.572266,39.103467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St &amp; Fairfax St<br/>ID: 104</description>
+		<Point> 
+			<coordinates>
+			-77.567607,39.10831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St &amp; Ida Lee Dr<br/>ID: 28</description>
+		<Point> 
+			<coordinates>
+			-77.562035,39.121146,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St &amp; Royal St<br/>ID: 137</description>
+		<Point> 
+			<coordinates>
+			-77.565857,39.112488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St &amp; Second St<br/>ID: 103</description>
+		<Point> 
+			<coordinates>
+			-77.569413,39.104971,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kohls<br/>ID: 146</description>
+		<Point> 
+			<coordinates>
+			-77.535661,39.11557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Leesburg 2 Park and Ride at Segra Field<br/>ID: 528</description>
+		<Point> 
+			<coordinates>
+			-77.546763,39.068567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Leesburg Outlet Mall<br/>ID: 374</description>
+		<Point> 
+			<coordinates>
+			-77.535773,39.107884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Leesburg P&amp;R<br/>ID: 308</description>
+		<Point> 
+			<coordinates>
+			-77.54951,39.071488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Argone Ave<br/>ID: 83</description>
+		<Point> 
+			<coordinates>
+			-77.394407,39.007009,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Beech Rd<br/>ID: 198</description>
+		<Point> 
+			<coordinates>
+			-77.390271,39.001897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Beech Rd<br/>ID: 200</description>
+		<Point> 
+			<coordinates>
+			-77.39009,39.001951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Church St<br/>ID: 84</description>
+		<Point> 
+			<coordinates>
+			-77.394587,39.007001,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loudoun Center Pl &amp; Courage Ct<br/>ID: 40</description>
+		<Point> 
+			<coordinates>
+			-77.549134,39.076718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loudoun County Government Center<br/>ID: 91</description>
+		<Point> 
+			<coordinates>
+			-77.561795,39.113641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loudoun County Pkwy at Firefly Sonata Ter<br/>ID: 512</description>
+		<Point> 
+			<coordinates>
+			-77.518,38.962895,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loudoun Gateway Metro Station<br/>ID: 422</description>
+		<Point> 
+			<coordinates>
+			-77.460296,38.993256,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loudoun Hunger Relief<br/>ID: 129</description>
+		<Point> 
+			<coordinates>
+			-77.554943,39.083596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lowes<br/>ID: 298</description>
+		<Point> 
+			<coordinates>
+			-77.530624,39.093263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lowes Island Front<br/>ID: 355</description>
+		<Point> 
+			<coordinates>
+			-77.357189,39.04051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison House<br/>ID: 105</description>
+		<Point> 
+			<coordinates>
+			-77.564334,39.10911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Rd &amp; Box Car Sq<br/>ID: 191</description>
+		<Point> 
+			<coordinates>
+			-77.422836,39.007708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Rd &amp; Box Car Sq<br/>ID: 202</description>
+		<Point> 
+			<coordinates>
+			-77.422798,39.007931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Rd &amp; Grand Central Sq<br/>ID: 203</description>
+		<Point> 
+			<coordinates>
+			-77.425845,39.008877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Rd &amp; Grand Central Sq<br/>ID: 70</description>
+		<Point> 
+			<coordinates>
+			-77.425936,39.008678,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple Ave &amp; Dickenson Ave<br/>ID: 81</description>
+		<Point> 
+			<coordinates>
+			-77.404861,38.994925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple Ave &amp; Sterling Blvd<br/>ID: 195</description>
+		<Point> 
+			<coordinates>
+			-77.40978,38.997708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple Leaf Pl &amp; Tamarack Ridge Sq<br/>ID: 80</description>
+		<Point> 
+			<coordinates>
+			-77.379059,39.020082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marblehead &amp; Duxbury<br/>ID: 296</description>
+		<Point> 
+			<coordinates>
+			-77.451968,39.043832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marblehead Dr at Duxbury Ter<br/>ID: 540</description>
+		<Point> 
+			<coordinates>
+			-77.452522,39.043902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marblehead and Rubble<br/>ID: 278</description>
+		<Point> 
+			<coordinates>
+			-77.459552,39.034663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marblehead and Western Gailes<br/>ID: 279</description>
+		<Point> 
+			<coordinates>
+			-77.457883,39.042884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Catoctin Cir<br/>ID: 118</description>
+		<Point> 
+			<coordinates>
+			-77.555796,39.110887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Harrison St<br/>ID: 47</description>
+		<Point> 
+			<coordinates>
+			-77.561786,39.114141,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Liberty St<br/>ID: 22</description>
+		<Point> 
+			<coordinates>
+			-77.567894,39.116294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Loudoun St<br/>ID: 58</description>
+		<Point> 
+			<coordinates>
+			-77.558361,39.11194,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Plaza St<br/>ID: 116</description>
+		<Point> 
+			<coordinates>
+			-77.551375,39.108591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Plaza St<br/>ID: 138</description>
+		<Point> 
+			<coordinates>
+			-77.551554,39.108379,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Sycolin Rd<br/>ID: 117</description>
+		<Point> 
+			<coordinates>
+			-77.553139,39.109501,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Sycolin Rd<br/>ID: 57</description>
+		<Point> 
+			<coordinates>
+			-77.553296,39.109327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; Sycolin Rd<br/>ID: 63</description>
+		<Point> 
+			<coordinates>
+			-77.554504,39.109956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall Dr &amp; Plaza St<br/>ID: 135</description>
+		<Point> 
+			<coordinates>
+			-77.547966,39.118999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall Dr &amp; Plaza St<br/>ID: 291</description>
+		<Point> 
+			<coordinates>
+			-77.547972,39.118787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mercure Cir at Quicksilver Dr (north)<br/>ID: 542</description>
+		<Point> 
+			<coordinates>
+			-77.473503,38.98633,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mercure Cir at Quicksilver Dr (south)<br/>ID: 543</description>
+		<Point> 
+			<coordinates>
+			-77.480044,38.981953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Dr &amp; Blue Seal Dr<br/>ID: 130</description>
+		<Point> 
+			<coordinates>
+			-77.556202,39.083848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Dr &amp; Pink Azalea Te<br/>ID: 131</description>
+		<Point> 
+			<coordinates>
+			-77.557195,39.087337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Dr &amp; Pink Azalea Te<br/>ID: 41</description>
+		<Point> 
+			<coordinates>
+			-77.55748,39.087388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Dr &amp; Probation and Parole<br/>ID: 37</description>
+		<Point> 
+			<coordinates>
+			-77.555812,39.082439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millstream Dr at Amber Spring Ct<br/>ID: 573</description>
+		<Point> 
+			<coordinates>
+			-77.544655,38.934524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millstream Dr at Fremont Preserve Square<br/>ID: 574</description>
+		<Point> 
+			<coordinates>
+			-77.544974,38.934825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mineral Springs Cir at Greenstone Dr<br/>ID: 570</description>
+		<Point> 
+			<coordinates>
+			-77.54714,38.92694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mineral Springs Cir at Sweetspire Square<br/>ID: 569</description>
+		<Point> 
+			<coordinates>
+			-77.550273,38.923689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mooreview Pkwy at Amberleigh Farm Dr<br/>ID: 531</description>
+		<Point> 
+			<coordinates>
+			-77.504523,39.001054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mooreview Pkwy at Southern Walk Plaza<br/>ID: 520</description>
+		<Point> 
+			<coordinates>
+			-77.502502,39.007613,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Capitol St &amp; H St<br/>ID: 344</description>
+		<Point> 
+			<coordinates>
+			-77.009517,38.900337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Capitol St &amp; Mass Ave<br/>ID: 343</description>
+		<Point> 
+			<coordinates>
+			-77.008959,38.898131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Capitol St &amp; Massachussetts Ave<br/>ID: 316</description>
+		<Point> 
+			<coordinates>
+			-77.009133,38.898053,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: NW corner Battlefield Shopping Ctr<br/>ID: 144</description>
+		<Point> 
+			<coordinates>
+			-77.536196,39.113133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Naismith Ter at Creek View Plaza<br/>ID: 478</description>
+		<Point> 
+			<coordinates>
+			-77.52293,39.043151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Naismith Ter at Creek View Plaza<br/>ID: 488</description>
+		<Point> 
+			<coordinates>
+			-77.522754,39.043332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nations St at Lyon Ter<br/>ID: 546</description>
+		<Point> 
+			<coordinates>
+			-77.525336,38.919534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nations St at Lyon Ter<br/>ID: 555</description>
+		<Point> 
+			<coordinates>
+			-77.525612,38.9197,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Jersey Ave &amp; E St<br/>ID: 317</description>
+		<Point> 
+			<coordinates>
+			-77.01158,38.896419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nokes Blvd &amp; City Center Blvd<br/>ID: 190</description>
+		<Point> 
+			<coordinates>
+			-77.421341,39.028208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nokes Blvd &amp; City Center Blvd<br/>ID: 237</description>
+		<Point> 
+			<coordinates>
+			-77.418876,39.02616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nokes Blvd &amp; Ridgetop Cir<br/>ID: 257</description>
+		<Point> 
+			<coordinates>
+			-77.413757,39.024862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nokes Blvd &amp; Ridgetop Cir<br/>ID: 258</description>
+		<Point> 
+			<coordinates>
+			-77.413507,39.024826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Lincoln<br/>ID: 197</description>
+		<Point> 
+			<coordinates>
+			-77.39018,39.004811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Lincoln<br/>ID: 201</description>
+		<Point> 
+			<coordinates>
+			-77.390215,39.005033,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northstar Blvd at Creighton Rd<br/>ID: 516</description>
+		<Point> 
+			<coordinates>
+			-77.540767,38.976752,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northstar Blvd at Epperson Square<br/>ID: 515</description>
+		<Point> 
+			<coordinates>
+			-77.541938,38.96952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northstar Blvd at Ryan Rd<br/>ID: 503</description>
+		<Point> 
+			<coordinates>
+			-77.538095,38.986311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northstar Blvd at Soave Dr<br/>ID: 517</description>
+		<Point> 
+			<coordinates>
+			-77.5396,38.983046,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Ryan Rd at Allisons Ridge Ter<br/>ID: 530</description>
+		<Point> 
+			<coordinates>
+			-77.499877,39.004007,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Ryan Rd at Amendola Ter<br/>ID: 533</description>
+		<Point> 
+			<coordinates>
+			-77.505057,38.993223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Ryan Rd at Foundation Dr<br/>ID: 534</description>
+		<Point> 
+			<coordinates>
+			-77.502383,38.995705,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Ryan Rd at Grandmoore St<br/>ID: 535</description>
+		<Point> 
+			<coordinates>
+			-77.501052,39.001686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Ryan Rd at Pinkhorn Way<br/>ID: 532</description>
+		<Point> 
+			<coordinates>
+			-77.509732,38.99173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Ryan Rd at Robey Square<br/>ID: 529</description>
+		<Point> 
+			<coordinates>
+			-77.497792,39.007524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Waterford Rd &amp; Gibson St<br/>ID: 31</description>
+		<Point> 
+			<coordinates>
+			-77.566076,39.118431,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: One Loudoun<br/>ID: 302</description>
+		<Point> 
+			<coordinates>
+			-77.453842,39.050759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: One Loudoun Park and Ride<br/>ID: 541</description>
+		<Point> 
+			<coordinates>
+			-77.459105,39.05299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Our Lady of Hope<br/>ID: 358</description>
+		<Point> 
+			<coordinates>
+			-77.382846,39.050066,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd &amp; Business Ct<br/>ID: 163</description>
+		<Point> 
+			<coordinates>
+			-77.435764,38.982844,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd &amp; Business Ct<br/>ID: 164</description>
+		<Point> 
+			<coordinates>
+			-77.43499,38.981274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd &amp; Business Ct<br/>ID: 166</description>
+		<Point> 
+			<coordinates>
+			-77.435422,38.982837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd &amp; Global Pl<br/>ID: 162</description>
+		<Point> 
+			<coordinates>
+			-77.437278,38.986412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd &amp; Global Pl<br/>ID: 167</description>
+		<Point> 
+			<coordinates>
+			-77.43676,38.986183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd &amp; Indian Creek Dr<br/>ID: 165</description>
+		<Point> 
+			<coordinates>
+			-77.434387,38.980928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd AOL (Metro-Local)<br/>ID: 24</description>
+		<Point> 
+			<coordinates>
+			-77.445301,39.004327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacific Blvd Raytheon (Metro-Local)<br/>ID: 169</description>
+		<Point> 
+			<coordinates>
+			-77.444959,39.004025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palisade Pkwy &amp; Cascades Pkwy<br/>ID: 50</description>
+		<Point> 
+			<coordinates>
+			-77.400142,39.035994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palisade Pkwy &amp; Potomac View Pl<br/>ID: 51</description>
+		<Point> 
+			<coordinates>
+			-77.387444,39.035912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palisade Pkwy &amp; Potomac View Rd<br/>ID: 235</description>
+		<Point> 
+			<coordinates>
+			-77.387115,39.035568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palisade Pkwy &amp; River Meadows Te<br/>ID: 234</description>
+		<Point> 
+			<coordinates>
+			-77.392789,39.035013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palisade Pkwy &amp; Sandstone Sq<br/>ID: 259</description>
+		<Point> 
+			<coordinates>
+			-77.394873,39.035457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palisade Pkwy &amp; Whitfield Place<br/>ID: 264</description>
+		<Point> 
+			<coordinates>
+			-77.395229,39.035215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pennington Lot<br/>ID: 403</description>
+		<Point> 
+			<coordinates>
+			-77.560666,39.117047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pentagon Bus Bay L6<br/>ID: 354</description>
+		<Point> 
+			<coordinates>
+			-77.054107,38.868407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pidgeon Hill Dr<br/>ID: 242</description>
+		<Point> 
+			<coordinates>
+			-77.412631,39.039424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pidgeon Hill Dr &amp; Denizen Pl<br/>ID: 239</description>
+		<Point> 
+			<coordinates>
+			-77.408491,39.035697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pidgeon Hill Dr &amp; Edds La<br/>ID: 241</description>
+		<Point> 
+			<coordinates>
+			-77.41259,39.038666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pidgeon Hill Dr (Regal Cinemas)<br/>ID: 240</description>
+		<Point> 
+			<coordinates>
+			-77.409205,39.036627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pinebrook Rd at Tall Cedars Pkwy<br/>ID: 562</description>
+		<Point> 
+			<coordinates>
+			-77.529704,38.930845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pinebrook Rd at Tall Cedars Pkwy<br/>ID: 576</description>
+		<Point> 
+			<coordinates>
+			-77.529288,38.930873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza &amp; Appletree<br/>ID: 292</description>
+		<Point> 
+			<coordinates>
+			-77.547265,39.113888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza St &amp; Appletree Dr<br/>ID: 96</description>
+		<Point> 
+			<coordinates>
+			-77.546952,39.11391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza St &amp; Edwards Ferry Rd<br/>ID: 154</description>
+		<Point> 
+			<coordinates>
+			-77.546873,39.112404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza St &amp; Edwards Ferry Rd<br/>ID: 54</description>
+		<Point> 
+			<coordinates>
+			-77.547046,39.112111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza St &amp; Market St<br/>ID: 155</description>
+		<Point> 
+			<coordinates>
+			-77.549616,39.109158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza St &amp; Market St<br/>ID: 53</description>
+		<Point> 
+			<coordinates>
+			-77.549344,39.109215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plaza St &amp; North St<br/>ID: 97</description>
+		<Point> 
+			<coordinates>
+			-77.547168,39.116978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Polen Farm Blvd near Cir<br/>ID: 479</description>
+		<Point> 
+			<coordinates>
+			-77.529396,39.031372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portsmouth Blvd at Leier Place<br/>ID: 476</description>
+		<Point> 
+			<coordinates>
+			-77.509127,39.052636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portsmouth Blvd at Middlebury St<br/>ID: 490</description>
+		<Point> 
+			<coordinates>
+			-77.509016,39.052098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portsmouth Blvd at Nightwatch St<br/>ID: 477</description>
+		<Point> 
+			<coordinates>
+			-77.513938,39.056148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portsmouth Blvd at Winkel Dr<br/>ID: 489</description>
+		<Point> 
+			<coordinates>
+			-77.513456,39.055666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac Green<br/>ID: 2</description>
+		<Point> 
+			<coordinates>
+			-77.462154,39.045464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac Station Dr &amp; Battlefield Pkwy<br/>ID: 110</description>
+		<Point> 
+			<coordinates>
+			-77.52581,39.099576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac Station Dr &amp; Bonnie Ridge Dr<br/>ID: 111</description>
+		<Point> 
+			<coordinates>
+			-77.517149,39.094661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac Station Dr &amp; Fort Evans Rd<br/>ID: 149</description>
+		<Point> 
+			<coordinates>
+			-77.53414,39.107358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac Station Dr &amp; Planters Grove Ct<br/>ID: 113</description>
+		<Point> 
+			<coordinates>
+			-77.528799,39.101573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac Station Dr and California Dr NE<br/>ID: 405</description>
+		<Point> 
+			<coordinates>
+			-77.525181,39.099152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomac View Rd &amp; Signal Hill Plaza<br/>ID: 260</description>
+		<Point> 
+			<coordinates>
+			-77.389686,39.026419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Potomav View Rd &amp; NOVA<br/>ID: 236</description>
+		<Point> 
+			<coordinates>
+			-77.389812,39.029437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence Village Dr &amp; Coventry Sq<br/>ID: 82</description>
+		<Point> 
+			<coordinates>
+			-77.402477,38.996673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence Village Dr &amp; Holly Ave<br/>ID: 192</description>
+		<Point> 
+			<coordinates>
+			-77.399908,38.997617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence Village Dr &amp; Maple Ave<br/>ID: 76</description>
+		<Point> 
+			<coordinates>
+			-77.403183,38.995822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Purcellville Park and Ride<br/>ID: 371</description>
+		<Point> 
+			<coordinates>
+			-77.719874,39.143475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quantum Park<br/>ID: 362</description>
+		<Point> 
+			<coordinates>
+			-77.470856,39.010397,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rabbit Run Te &amp; Frederick Dr<br/>ID: 230</description>
+		<Point> 
+			<coordinates>
+			-77.380645,39.011173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rabbit Run Te &amp; Woodson Dr<br/>ID: 85</description>
+		<Point> 
+			<coordinates>
+			-77.380675,39.011294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Raflo Park<br/>ID: 297</description>
+		<Point> 
+			<coordinates>
+			-77.563224,39.110152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rainsboro Dr &amp; Gloucester Pkwy<br/>ID: 12</description>
+		<Point> 
+			<coordinates>
+			-77.471987,39.040297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Raytheon<br/>ID: 161</description>
+		<Point> 
+			<coordinates>
+			-77.445297,39.000983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Raytheon<br/>ID: 168</description>
+		<Point> 
+			<coordinates>
+			-77.444656,39.001042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rebounderz<br/>ID: 181</description>
+		<Point> 
+			<coordinates>
+			-77.422735,38.995582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reston Town Center Metro Station - North Bus Bay<br/>ID: 420</description>
+		<Point> 
+			<coordinates>
+			-77.359796,38.953601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgetop Cir &amp; Center Oak Plaza<br/>ID: 49</description>
+		<Point> 
+			<coordinates>
+			-77.407094,39.030117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgetop Cir &amp; Horseshoe Dr<br/>ID: 189</description>
+		<Point> 
+			<coordinates>
+			-77.412903,39.027297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgetop Cir &amp; Horseshoe Dr<br/>ID: 62</description>
+		<Point> 
+			<coordinates>
+			-77.413167,39.027302,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgetop Cir &amp; Loudoun Tech Dr<br/>ID: 187</description>
+		<Point> 
+			<coordinates>
+			-77.407353,39.030663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgetop Cir &amp; Waterview Plaza<br/>ID: 188</description>
+		<Point> 
+			<coordinates>
+			-77.41133,39.031425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgetop Cir &amp; Waterview Plaza<br/>ID: 263</description>
+		<Point> 
+			<coordinates>
+			-77.411122,39.031235,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riding Center Dr at Gunnery Square<br/>ID: 545</description>
+		<Point> 
+			<coordinates>
+			-77.526763,38.922447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riding Center Dr at Gunnery Square<br/>ID: 556</description>
+		<Point> 
+			<coordinates>
+			-77.527082,38.922197,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riding Center Dr at McBryde Ter<br/>ID: 557</description>
+		<Point> 
+			<coordinates>
+			-77.520871,38.923466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riding Center Dr at Riding Plaza / McBryde Terr<br/>ID: 544</description>
+		<Point> 
+			<coordinates>
+			-77.521577,38.923852,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Coton Reserve Dr<br/>ID: 61</description>
+		<Point> 
+			<coordinates>
+			-77.501686,39.087923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Golf Vista Plaza<br/>ID: 246</description>
+		<Point> 
+			<coordinates>
+			-77.482425,39.077536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Heatherstone Ter<br/>ID: 56</description>
+		<Point> 
+			<coordinates>
+			-77.483865,39.077337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Kingsport Dr<br/>ID: 60</description>
+		<Point> 
+			<coordinates>
+			-77.506844,39.093298,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Kipheart Dr<br/>ID: 249</description>
+		<Point> 
+			<coordinates>
+			-77.496332,39.086626,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Pickens Manor La<br/>ID: 217</description>
+		<Point> 
+			<coordinates>
+			-77.47192,39.068967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Pickens Manor La<br/>ID: 256</description>
+		<Point> 
+			<coordinates>
+			-77.47126,39.068099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Silverwood Ter<br/>ID: 123</description>
+		<Point> 
+			<coordinates>
+			-77.511088,39.096482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Upper Belmont Pl<br/>ID: 220</description>
+		<Point> 
+			<coordinates>
+			-77.494002,39.085158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Upper Belmont Pl<br/>ID: 221</description>
+		<Point> 
+			<coordinates>
+			-77.492657,39.083164,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Upper Belmont Pl<br/>ID: 247</description>
+		<Point> 
+			<coordinates>
+			-77.492203,39.083323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Upper Meadow Dr<br/>ID: 250</description>
+		<Point> 
+			<coordinates>
+			-77.505318,39.092537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Pkwy &amp; Whitehorn Ter<br/>ID: 251</description>
+		<Point> 
+			<coordinates>
+			-77.510674,39.096582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rogerdale Place<br/>ID: 580</description>
+		<Point> 
+			<coordinates>
+			-77.493308,38.971636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rosslyn AM<br/>ID: 350</description>
+		<Point> 
+			<coordinates>
+			-77.071621,38.898113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rosslyn PM<br/>ID: 312</description>
+		<Point> 
+			<coordinates>
+			-77.069478,38.896436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 267 East Point<br/>ID: 376</description>
+		<Point> 
+			<coordinates>
+			-77.089314,38.898361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 267 West Point<br/>ID: 375</description>
+		<Point> 
+			<coordinates>
+			-77.415006,38.960981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy &amp; Ashbrook Commons Plaza<br/>ID: 215</description>
+		<Point> 
+			<coordinates>
+			-77.472653,39.060211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy &amp; Ashbrook Commons Plaza<br/>ID: 216</description>
+		<Point> 
+			<coordinates>
+			-77.473066,39.060002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy &amp; Atwater Dr<br/>ID: 214</description>
+		<Point> 
+			<coordinates>
+			-77.465775,39.056796,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy &amp; Red Hawk La<br/>ID: 112</description>
+		<Point> 
+			<coordinates>
+			-77.52674,39.089635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy &amp; Wellfleet Dr<br/>ID: 212</description>
+		<Point> 
+			<coordinates>
+			-77.45488,39.049372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy at Ashburn Rd<br/>ID: 438</description>
+		<Point> 
+			<coordinates>
+			-77.48188,39.06428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy at Aspen View Blvd<br/>ID: 439</description>
+		<Point> 
+			<coordinates>
+			-77.485769,39.066681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Branch Pkwy at Lumbee Way<br/>ID: 416</description>
+		<Point> 
+			<coordinates>
+			-77.4663,39.056834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rust Library<br/>ID: 27</description>
+		<Point> 
+			<coordinates>
+			-77.567802,39.123966,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ryan Rd at Blue Elder Ter<br/>ID: 502</description>
+		<Point> 
+			<coordinates>
+			-77.530172,38.988106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ryan Rd at Brambleton Town Center<br/>ID: 518</description>
+		<Point> 
+			<coordinates>
+			-77.535905,38.986589,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ryan Rd at Legacy Park Dr<br/>ID: 519</description>
+		<Point> 
+			<coordinates>
+			-77.525868,38.988108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Sterling Blvd &amp; Chase Heritage Cir (southbound)<br/>ID: 412</description>
+		<Point> 
+			<coordinates>
+			-77.415956,38.995198,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Sterling Blvd &amp; Davis Dr (southbound)<br/>ID: 413</description>
+		<Point> 
+			<coordinates>
+			-77.41924,38.992951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw Rd &amp; Holiday Dr<br/>ID: 177</description>
+		<Point> 
+			<coordinates>
+			-77.426658,38.987143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw Rd &amp; Holiday Dr<br/>ID: 248</description>
+		<Point> 
+			<coordinates>
+			-77.42632,38.987155,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw Rd &amp; International Dr<br/>ID: 178</description>
+		<Point> 
+			<coordinates>
+			-77.424512,38.985886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw Rd &amp; Terminal Dr<br/>ID: 179</description>
+		<Point> 
+			<coordinates>
+			-77.423787,38.985772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw Rd and Falke Plaza<br/>ID: 287</description>
+		<Point> 
+			<coordinates>
+			-77.423883,38.979829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw and International<br/>ID: 286</description>
+		<Point> 
+			<coordinates>
+			-77.42395,38.980576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shellhorn Rd at Blossom Hill Ter<br/>ID: 426</description>
+		<Point> 
+			<coordinates>
+			-77.489905,39.010183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shellhorn Rd at Fullerton St<br/>ID: 482</description>
+		<Point> 
+			<coordinates>
+			-77.500266,39.022017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shellhorn Rd at Greenway Corporate Dr<br/>ID: 452</description>
+		<Point> 
+			<coordinates>
+			-77.48959,39.009419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shellhorn Rd at High Rock Ter<br/>ID: 451</description>
+		<Point> 
+			<coordinates>
+			-77.491567,39.013688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shellhorn Rd at Ryan Park Ter<br/>ID: 427</description>
+		<Point> 
+			<coordinates>
+			-77.490936,39.013519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shellhorn Rd at Willow Breeze Square<br/>ID: 485</description>
+		<Point> 
+			<coordinates>
+			-77.499358,39.021674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shenandoah Building<br/>ID: 109</description>
+		<Point> 
+			<coordinates>
+			-77.540797,39.115047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shenandoah Building<br/>ID: 253</description>
+		<Point> 
+			<coordinates>
+			-77.541728,39.113695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Signal Hill Plz &amp; Cottage Rd<br/>ID: 64</description>
+		<Point> 
+			<coordinates>
+			-77.388928,39.027901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spotswood Rd &amp; Algonkian Pkwy<br/>ID: 244</description>
+		<Point> 
+			<coordinates>
+			-77.420702,39.048201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Staples<br/>ID: 145</description>
+		<Point> 
+			<coordinates>
+			-77.536969,39.112135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State St at Thorncroft Ter<br/>ID: 538</description>
+		<Point> 
+			<coordinates>
+			-77.483134,38.990535,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sterling Blvd at Beech Rd<br/>ID: 561</description>
+		<Point> 
+			<coordinates>
+			-77.400933,39.003773,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sterling Blvd at Laurel Avenue<br/>ID: 560</description>
+		<Point> 
+			<coordinates>
+			-77.394303,39.011447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sterling Public Library<br/>ID: 299</description>
+		<Point> 
+			<coordinates>
+			-77.406167,38.996764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sterling Public Library<br/>ID: 300</description>
+		<Point> 
+			<coordinates>
+			-77.406138,38.99694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Ridge I - Millstream Dr at Village Center Pl<br/>ID: 380</description>
+		<Point> 
+			<coordinates>
+			-77.550432,38.939345,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Ridge II<br/>ID: 366</description>
+		<Point> 
+			<coordinates>
+			-77.556021,38.937896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Springs Blvd at Pepperbush Place<br/>ID: 571</description>
+		<Point> 
+			<coordinates>
+			-77.551072,38.930116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Springs Blvd at Tall Cedars Pkwy<br/>ID: 572</description>
+		<Point> 
+			<coordinates>
+			-77.550177,38.93361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Springs Hospital 1 near Stone Springs Blvd<br/>ID: 378</description>
+		<Point> 
+			<coordinates>
+			-77.543384,38.941134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Springs Hospital 2 near Medical Dr<br/>ID: 379</description>
+		<Point> 
+			<coordinates>
+			-77.541346,38.94085,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarland Run Dr &amp; Baker La<br/>ID: 87</description>
+		<Point> 
+			<coordinates>
+			-77.379349,39.033274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarland Run Dr &amp; Sanderson Dr<br/>ID: 88</description>
+		<Point> 
+			<coordinates>
+			-77.384404,39.035785,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Supreme Dr at Braddock Rd<br/>ID: 577</description>
+		<Point> 
+			<coordinates>
+			-77.556249,38.915519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sutherlin Place (The Reserve)<br/>ID: 245</description>
+		<Point> 
+			<coordinates>
+			-77.420622,39.046269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycolin Rd &amp; Hope Pkwy<br/>ID: 35</description>
+		<Point> 
+			<coordinates>
+			-77.553565,39.095822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycolin and Battlefield<br/>ID: 289</description>
+		<Point> 
+			<coordinates>
+			-77.553397,39.092098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tall Cedars Pkwy at Derby Meadow Way<br/>ID: 575</description>
+		<Point> 
+			<coordinates>
+			-77.536601,38.930804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tall Cedars Pkwy at Elk Lick Rd<br/>ID: 547</description>
+		<Point> 
+			<coordinates>
+			-77.514329,38.916625,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tall Cedars Pkwy at Elk Lick Rd<br/>ID: 554</description>
+		<Point> 
+			<coordinates>
+			-77.512202,38.916661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tall Cedars Pkwy at Meadows Farms Ct<br/>ID: 563</description>
+		<Point> 
+			<coordinates>
+			-77.535795,38.931204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tall Cedars Pkwy at Planting Field Dr<br/>ID: 548</description>
+		<Point> 
+			<coordinates>
+			-77.506372,38.914904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tall Cedars Pkwy at Planting Field Dr<br/>ID: 553</description>
+		<Point> 
+			<coordinates>
+			-77.505559,38.915097,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Target near Edwards Ferry Rd<br/>ID: 414</description>
+		<Point> 
+			<coordinates>
+			-77.534185,39.115483,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tripleseven Rd (Villas of Countryside)<br/>ID: 243</description>
+		<Point> 
+			<coordinates>
+			-77.409014,39.040884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tuscarora Apartments<br/>ID: 92</description>
+		<Point> 
+			<coordinates>
+			-77.585988,39.104552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Union St &amp; King St<br/>ID: 29</description>
+		<Point> 
+			<coordinates>
+			-77.562975,39.119706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Virginia Ave &amp; 21st St - State Dept<br/>ID: 329</description>
+		<Point> 
+			<coordinates>
+			-77.046059,38.894974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Church Rd &amp; N Alder Ave (eastbound)<br/>ID: 411</description>
+		<Point> 
+			<coordinates>
+			-77.398293,39.00822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Church Rd &amp; W Holly Ave (eastbound)<br/>ID: 409</description>
+		<Point> 
+			<coordinates>
+			-77.414862,39.007168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Church Rd @ Church Rd Plaza (eastbound)<br/>ID: 408</description>
+		<Point> 
+			<coordinates>
+			-77.427227,39.005338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Church Rd @ Sterling ES (eastbound)<br/>ID: 410</description>
+		<Point> 
+			<coordinates>
+			-77.402948,39.007964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walmart - Leesburg<br/>ID: 373</description>
+		<Point> 
+			<coordinates>
+			-77.561848,39.079192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waxpool Rd at Ashburn Rd<br/>ID: 453</description>
+		<Point> 
+			<coordinates>
+			-77.494901,39.015063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waxpool Rd at Liverpool St<br/>ID: 465</description>
+		<Point> 
+			<coordinates>
+			-77.500391,39.016049,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waxpool Rd at Omeara Ter<br/>ID: 501</description>
+		<Point> 
+			<coordinates>
+			-77.498839,39.015673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waxpool Rd at Truro Parish Dr<br/>ID: 523</description>
+		<Point> 
+			<coordinates>
+			-77.518002,39.017547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wegmans<br/>ID: 148</description>
+		<Point> 
+			<coordinates>
+			-77.520959,39.087595,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westwind Dr at Maison Blanc Square<br/>ID: 537</description>
+		<Point> 
+			<coordinates>
+			-77.48578,38.992364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: William Waters House on Enterprise St<br/>ID: 77</description>
+		<Point> 
+			<coordinates>
+			-77.404547,38.997255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winding Rd &amp; Idlebrook Ter<br/>ID: 16</description>
+		<Point> 
+			<coordinates>
+			-77.424699,39.046445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windmill Dr at Claiborne Pkwy<br/>ID: 469</description>
+		<Point> 
+			<coordinates>
+			-77.505202,39.032977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windmill Dr at Cornerpost Square<br/>ID: 497</description>
+		<Point> 
+			<coordinates>
+			-77.505053,39.033084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windmill Dr at Livery Square<br/>ID: 496</description>
+		<Point> 
+			<coordinates>
+			-77.499294,39.030938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windmill Dr at Thistlewood Ct<br/>ID: 470</description>
+		<Point> 
+			<coordinates>
+			-77.499161,39.031449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windmill Parc<br/>ID: 301</description>
+		<Point> 
+			<coordinates>
+			-77.417231,39.025532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wingler House<br/>ID: 10</description>
+		<Point> 
+			<coordinates>
+			-77.469613,39.037264,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wingler House<br/>ID: 11</description>
+		<Point> 
+			<coordinates>
+			-77.470278,39.038184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wirt St at LC Admin Bldg<br/>ID: 30</description>
+		<Point> 
+			<coordinates>
+			-77.565093,39.118177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodhsire Dr &amp; Springlake Ct<br/>ID: 185</description>
+		<Point> 
+			<coordinates>
+			-77.40391,39.025813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodshire Dr &amp; Ridgetop Cir<br/>ID: 184</description>
+		<Point> 
+			<coordinates>
+			-77.406924,39.027181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodshire Dr &amp; Ridgetop Cir<br/>ID: 186</description>
+		<Point> 
+			<coordinates>
+			-77.406879,39.027351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodshire Dr &amp; Springlake Ct<br/>ID: 48</description>
+		<Point> 
+			<coordinates>
+			-77.40332,39.025263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodson Dr<br/>ID: 232</description>
+		<Point> 
+			<coordinates>
+			-77.377596,39.010139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodson Dr<br/>ID: 86</description>
+		<Point> 
+			<coordinates>
+			-77.377545,39.01025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodson Dr &amp; Rabbit Run Te<br/>ID: 226</description>
+		<Point> 
+			<coordinates>
+			-77.379701,39.01124,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodson Dr &amp; Rabbit Run Te<br/>ID: 231</description>
+		<Point> 
+			<coordinates>
+			-77.379709,39.010961,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wynridge Dr at Southern Walk Plaza (west)<br/>ID: 521</description>
+		<Point> 
+			<coordinates>
+			-77.509183,39.008026,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wynridge Dr at Stillwater Ter<br/>ID: 527</description>
+		<Point> 
+			<coordinates>
+			-77.508488,39.007614,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

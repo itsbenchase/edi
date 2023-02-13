@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>mo-metro routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>Blue</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: mo-metro<br/>EDI: 1.44</description>
+		<LineString> 
+			<coordinates>
+			-90.319436,38.592869,0
+			-90.330289,38.607175,0
+			-90.331134,38.613672,0
+			-90.338108,38.628338,0
+			-90.342339,38.635142,0
+			-90.339257,38.645648,0
+			-90.32814,38.648927,0
+			-90.314946,38.651605,0
+			-90.300813,38.649364,0
+			-90.284648,38.647778,0
+			-90.26194,38.635829,0
+			-90.252668,38.633912,0
+			-90.235463,38.629508,0
+			-90.206555,38.626593,0
+			-90.20307,38.625015,0
+			-90.194543,38.623407,0
+			-90.192705,38.627908,0
+			-90.189403,38.63022,0
+			-90.183643,38.629457,0
+			-90.174753,38.628508,0
+			-90.159381,38.625061,0
+			-90.137228,38.629106,0
+			-90.124409,38.623244,0
+			-90.095287,38.613744,0
+			-90.047942,38.593808,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Red</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: mo-metro<br/>EDI: 1.17</description>
+		<LineString> 
+			<coordinates>
+			-90.3646,38.741219,0
+			-90.356027,38.73617,0
+			-90.315211,38.719956,0
+			-90.306125,38.712851,0
+			-90.305145,38.705257,0
+			-90.301433,38.68524,0
+			-90.29841,38.66889,0
+			-90.294591,38.655725,0
+			-90.284648,38.647778,0
+			-90.26194,38.635829,0
+			-90.252668,38.633912,0
+			-90.235463,38.629508,0
+			-90.206555,38.626593,0
+			-90.20307,38.625015,0
+			-90.194543,38.623407,0
+			-90.192705,38.627908,0
+			-90.189403,38.63022,0
+			-90.183643,38.629457,0
+			-90.174753,38.628508,0
+			-90.159381,38.625061,0
+			-90.137228,38.629106,0
+			-90.124409,38.623244,0
+			-90.095287,38.613744,0
+			-90.047942,38.593808,0
+			-90.015361,38.557573,0
+			-89.987482,38.536267,0
+			-89.974356,38.521832,0
+			-89.919668,38.51618,0
+			-89.879167,38.539089,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

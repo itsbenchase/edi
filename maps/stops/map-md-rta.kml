@@ -1,0 +1,6179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>md-rta stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St / Columbia St<br/>ID: 40100</description>
+		<Point> 
+			<coordinates>
+			-76.839177,39.1064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St / Davis Ave<br/>ID: 40102</description>
+		<Point> 
+			<coordinates>
+			-76.836026,39.110449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St / Laurel Ave<br/>ID: 30001</description>
+		<Point> 
+			<coordinates>
+			-76.845571,39.100573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St / Little Montgomery Ave<br/>ID: 30002</description>
+		<Point> 
+			<coordinates>
+			-76.843808,39.102243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St / Main St<br/>ID: 30003</description>
+		<Point> 
+			<coordinates>
+			-76.842443,39.103537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St / Midway Plaza Shopping Center<br/>ID: 40101</description>
+		<Point> 
+			<coordinates>
+			-76.836564,39.10923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St / Greenhill Ave<br/>ID: 30004</description>
+		<Point> 
+			<coordinates>
+			-76.857225,39.096626,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St / Marshall Ave<br/>ID: 30006</description>
+		<Point> 
+			<coordinates>
+			-76.854853,39.098532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St / Montrose Ave (Northbound)<br/>ID: 30007</description>
+		<Point> 
+			<coordinates>
+			-76.856287,39.097332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St / Montrose Ave (Southbound)<br/>ID: 30008</description>
+		<Point> 
+			<coordinates>
+			-76.856375,39.097378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th St / Baltimore Ave<br/>ID: 43034</description>
+		<Point> 
+			<coordinates>
+			-76.852836,39.110892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th St / Main St (Northbound)<br/>ID: 30009</description>
+		<Point> 
+			<coordinates>
+			-76.854147,39.108197,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th St / Main St (Southbound)<br/>ID: 30010</description>
+		<Point> 
+			<coordinates>
+			-76.854359,39.108168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th St / Pilgrim Ave<br/>ID: 43035</description>
+		<Point> 
+			<coordinates>
+			-76.853297,39.110731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St / Laurel Ave (Northbound)<br/>ID: 30011</description>
+		<Point> 
+			<coordinates>
+			-76.856847,39.105111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St / Laurel Ave (Southbound)<br/>ID: 30012</description>
+		<Point> 
+			<coordinates>
+			-76.856942,39.105323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St / Laurel Park Apartments<br/>ID: 30015</description>
+		<Point> 
+			<coordinates>
+			-76.857959,39.100424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St / Laurelton Court Apartments<br/>ID: 30016</description>
+		<Point> 
+			<coordinates>
+			-76.85778,39.10054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St / West St (Northbound)<br/>ID: 30013</description>
+		<Point> 
+			<coordinates>
+			-76.857239,39.103172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St / West St (Southbound)<br/>ID: 30014</description>
+		<Point> 
+			<coordinates>
+			-76.857403,39.103168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints Rd / Bourbon St<br/>ID: 40108</description>
+		<Point> 
+			<coordinates>
+			-76.844508,39.123498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints Rd / Covered Wagon Dr<br/>ID: 42001</description>
+		<Point> 
+			<coordinates>
+			-76.849995,39.119952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints Rd / North Laurel Rd (Eastbound)<br/>ID: 40498</description>
+		<Point> 
+			<coordinates>
+			-76.84752,39.121347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints Rd / North Laurel Rd (Westbound)<br/>ID: 40109</description>
+		<Point> 
+			<coordinates>
+			-76.84767,39.121485,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints Rd / Whiskey Run Rd<br/>ID: 40110</description>
+		<Point> 
+			<coordinates>
+			-76.85014,39.120032,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Blvd / Arundel Mills Cir<br/>ID: 20123</description>
+		<Point> 
+			<coordinates>
+			-76.728939,39.152614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Blvd / Flaxpool Ct<br/>ID: 20124</description>
+		<Point> 
+			<coordinates>
+			-76.739223,39.150599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Blvd / Milestone Pkwy (Northbound)<br/>ID: 20125</description>
+		<Point> 
+			<coordinates>
+			-76.742585,39.153854,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Blvd / Milestone Pkwy (Southbound)<br/>ID: 20126</description>
+		<Point> 
+			<coordinates>
+			-76.74282,39.15351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Blvd / Rotherham Dr<br/>ID: 20127</description>
+		<Point> 
+			<coordinates>
+			-76.733935,39.151453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Blvd / Somerton Ct<br/>ID: 20128</description>
+		<Point> 
+			<coordinates>
+			-76.733447,39.152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arundel Mills Mall<br/>ID: 20000</description>
+		<Point> 
+			<coordinates>
+			-76.724395,39.153946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashford Blvd / Fenwick Ct<br/>ID: 30017</description>
+		<Point> 
+			<coordinates>
+			-76.863446,39.095248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Assateague Dr / Conowingo Dr<br/>ID: 42002</description>
+		<Point> 
+			<coordinates>
+			-76.783117,39.165279,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Assateague Dr / Maryland Food Center<br/>ID: 40932</description>
+		<Point> 
+			<coordinates>
+			-76.784764,39.168041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Assateague Dr / Old Giant Warehouse<br/>ID: 40778</description>
+		<Point> 
+			<coordinates>
+			-76.782381,39.162893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Assateague Dr / Rappahannock Ave<br/>ID: 40527</description>
+		<Point> 
+			<coordinates>
+			-76.781539,39.160211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Ammendale Rd<br/>ID: 30018</description>
+		<Point> 
+			<coordinates>
+			-76.900865,39.047081,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Centre at Laurel (Northbound)<br/>ID: 30163</description>
+		<Point> 
+			<coordinates>
+			-76.866979,39.077171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Centre at Laurel (Southbound)<br/>ID: 30164</description>
+		<Point> 
+			<coordinates>
+			-76.866394,39.078208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Contee Rd (Northbound)<br/>ID: 30161</description>
+		<Point> 
+			<coordinates>
+			-76.868887,39.075531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Contee Rd (Southbound)<br/>ID: 30162</description>
+		<Point> 
+			<coordinates>
+			-76.868925,39.075848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Lincoln Ave (Northbound)<br/>ID: 30019</description>
+		<Point> 
+			<coordinates>
+			-76.902133,39.044819,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Lincoln Ave (Southbound)<br/>ID: 30020</description>
+		<Point> 
+			<coordinates>
+			-76.902201,39.045117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Maryland National Cemetery (Northbound)<br/>ID: 30032</description>
+		<Point> 
+			<coordinates>
+			-76.874213,39.070845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Maryland National Cemetery (Southbound)<br/>ID: 30033</description>
+		<Point> 
+			<coordinates>
+			-76.875031,39.070412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Muirkirk Meadows Dr (Northbound)<br/>ID: 30021</description>
+		<Point> 
+			<coordinates>
+			-76.886379,39.060961,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Muirkirk Meadows Dr (Southbound)<br/>ID: 30022</description>
+		<Point> 
+			<coordinates>
+			-76.886838,39.060908,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Odell Rd<br/>ID: 30023</description>
+		<Point> 
+			<coordinates>
+			-76.904264,39.041537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Powder Mill Rd (Northbound)<br/>ID: 30024</description>
+		<Point> 
+			<coordinates>
+			-76.908186,39.03416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Powder Mill Rd (Southbound)<br/>ID: 30025</description>
+		<Point> 
+			<coordinates>
+			-76.907335,39.035028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Ritz Way (Northbound)<br/>ID: 30027</description>
+		<Point> 
+			<coordinates>
+			-76.890953,39.056645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Ritz Way (Southbound)<br/>ID: 30028</description>
+		<Point> 
+			<coordinates>
+			-76.890507,39.05743,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Sellman Rd<br/>ID: 30029</description>
+		<Point> 
+			<coordinates>
+			-76.909191,39.033719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Southard Dr (Northbound)<br/>ID: 30030</description>
+		<Point> 
+			<coordinates>
+			-76.911739,39.031745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore Ave / Southard Dr (Southbound)<br/>ID: 30031</description>
+		<Point> 
+			<coordinates>
+			-76.911824,39.031905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore National Pike / Lotte Plaza Shopping Center<br/>ID: 43001</description>
+		<Point> 
+			<coordinates>
+			-76.817611,39.278437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore National Pike / North Chatham Rd (Eastbound)<br/>ID: 40180</description>
+		<Point> 
+			<coordinates>
+			-76.83247,39.277255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore National Pike / North Chatham Rd (Westbound)<br/>ID: 40183</description>
+		<Point> 
+			<coordinates>
+			-76.831962,39.277575,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore National Pike / St. John's Ln (Eastbound)<br/>ID: 40919</description>
+		<Point> 
+			<coordinates>
+			-76.826266,39.276793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Baltimore National Pike / St. John's Ln (Westbound)<br/>ID: 40835</description>
+		<Point> 
+			<coordinates>
+			-76.827706,39.277259,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson Drive Restaurant Park<br/>ID: 40906</description>
+		<Point> 
+			<coordinates>
+			-76.801161,39.186798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Cradlerock Way North<br/>ID: 40163</description>
+		<Point> 
+			<coordinates>
+			-76.851375,39.192035,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Cradlerock Way South (Northbound)<br/>ID: 40531</description>
+		<Point> 
+			<coordinates>
+			-76.850574,39.185772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Cradlerock Way South (Southbound)<br/>ID: 40181</description>
+		<Point> 
+			<coordinates>
+			-76.850505,39.184808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Gramercy Pl (Northbound)<br/>ID: 43053</description>
+		<Point> 
+			<coordinates>
+			-76.866587,39.213429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Gramercy Pl (Southbound)<br/>ID: 43052</description>
+		<Point> 
+			<coordinates>
+			-76.866873,39.212944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Hickory Ridge Rd (Northbound)<br/>ID: 40170</description>
+		<Point> 
+			<coordinates>
+			-76.866604,39.207134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Hickory Ridge Rd (Southbound)<br/>ID: 40167</description>
+		<Point> 
+			<coordinates>
+			-76.866981,39.207032,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Patuxent Woods Dr<br/>ID: 40182</description>
+		<Point> 
+			<coordinates>
+			-76.848212,39.178253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Snowden River Pkwy<br/>ID: 40154</description>
+		<Point> 
+			<coordinates>
+			-76.847742,39.178068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Stevens Forest Rd (Northbound)<br/>ID: 40166</description>
+		<Point> 
+			<coordinates>
+			-76.851392,39.197868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broken Land Pkwy / Stevens Forest Rd (Southbound)<br/>ID: 40171</description>
+		<Point> 
+			<coordinates>
+			-76.851811,39.197629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus Dr / HCC SET Building<br/>ID: 41008</description>
+		<Point> 
+			<coordinates>
+			-76.882113,39.21506,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus Dr / HCC Student Services Hall (Northbound)<br/>ID: 43041</description>
+		<Point> 
+			<coordinates>
+			-76.881704,39.213854,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus Dr / HCC Student Services Hall (Southbound)<br/>ID: 40655</description>
+		<Point> 
+			<coordinates>
+			-76.881676,39.213605,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus Dr / Hickory Ridge Rd (Northbound)<br/>ID: 40950</description>
+		<Point> 
+			<coordinates>
+			-76.879025,39.210995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus Dr / Hickory Ridge Rd (Southbound)<br/>ID: 40949</description>
+		<Point> 
+			<coordinates>
+			-76.879235,39.210981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus Dr / Lot C<br/>ID: 43040</description>
+		<Point> 
+			<coordinates>
+			-76.882356,39.215115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Freetown Rd<br/>ID: 43002</description>
+		<Point> 
+			<coordinates>
+			-76.884574,39.197114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Grand Banks Rd<br/>ID: 43003</description>
+		<Point> 
+			<coordinates>
+			-76.88809,39.219262,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Harpers Farm Rd<br/>ID: 40533</description>
+		<Point> 
+			<coordinates>
+			-76.888362,39.221168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Little Patuxent Pkwy (Northbound)<br/>ID: 42003</description>
+		<Point> 
+			<coordinates>
+			-76.887407,39.215646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Little Patuxent Pkwy (Southbound)<br/>ID: 40952</description>
+		<Point> 
+			<coordinates>
+			-76.887689,39.216009,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Rock Coast Rd (Northbound)<br/>ID: 40534</description>
+		<Point> 
+			<coordinates>
+			-76.887834,39.217754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Rock Coast Rd (Southbound)<br/>ID: 40535</description>
+		<Point> 
+			<coordinates>
+			-76.887956,39.217629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Ln / Suffield Ct<br/>ID: 40515</description>
+		<Point> 
+			<coordinates>
+			-76.888273,39.219515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Centre Park Dr / Old Annapolis Rd<br/>ID: 40537</description>
+		<Point> 
+			<coordinates>
+			-76.816499,39.226815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charter Dr / Hickory Ridge Rd (Northbound)<br/>ID: 43004</description>
+		<Point> 
+			<coordinates>
+			-76.882827,39.211387,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charter Dr / Hickory Ridge Rd (Southbound)<br/>ID: 43005</description>
+		<Point> 
+			<coordinates>
+			-76.882989,39.211362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charter Dr / Medical Pavilion (Northbound)<br/>ID: 43006</description>
+		<Point> 
+			<coordinates>
+			-76.882973,39.212489,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charter Dr / Medical Pavilion (Southbound)<br/>ID: 43007</description>
+		<Point> 
+			<coordinates>
+			-76.883347,39.212874,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / 4th St<br/>ID: 30165</description>
+		<Point> 
+			<coordinates>
+			-76.862558,39.092158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Ashford Blvd (Eastbound)<br/>ID: 30034</description>
+		<Point> 
+			<coordinates>
+			-76.864748,39.09271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Ashford Blvd (Westbound)<br/>ID: 30035</description>
+		<Point> 
+			<coordinates>
+			-76.865428,39.093142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Belle Ami Dr (Eastbound)<br/>ID: 30036</description>
+		<Point> 
+			<coordinates>
+			-76.871148,39.093449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Belle Ami Dr (Westbound)<br/>ID: 30037</description>
+		<Point> 
+			<coordinates>
+			-76.871291,39.093754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Cambridge Cir<br/>ID: 30038</description>
+		<Point> 
+			<coordinates>
+			-76.867575,39.093038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Cherry Lane Ct (Eastbound)<br/>ID: 30039</description>
+		<Point> 
+			<coordinates>
+			-76.854924,39.088811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Cherry Lane Ct (Westbound)<br/>ID: 30040</description>
+		<Point> 
+			<coordinates>
+			-76.854699,39.089149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Cherry Lane Professional Park<br/>ID: 30044</description>
+		<Point> 
+			<coordinates>
+			-76.849119,39.08536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Kalmia Dr<br/>ID: 30174</description>
+		<Point> 
+			<coordinates>
+			-76.873941,39.094131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Kimberly Gardens<br/>ID: 30045</description>
+		<Point> 
+			<coordinates>
+			-76.849086,39.085641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Laurel Pl (Eastbound)<br/>ID: 30041</description>
+		<Point> 
+			<coordinates>
+			-76.859613,39.091918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Laurel Pl (Westbound)<br/>ID: 30042</description>
+		<Point> 
+			<coordinates>
+			-76.859844,39.092218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Ln / Van Dusen Rd<br/>ID: 30043</description>
+		<Point> 
+			<coordinates>
+			-76.874715,39.093994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Beltway Plaza<br/>ID: 30056</description>
+		<Point> 
+			<coordinates>
+			-76.911842,38.999445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Breezewood Dr<br/>ID: 30047</description>
+		<Point> 
+			<coordinates>
+			-76.909999,39.002103,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Edmonston Rd (Eastbound)<br/>ID: 30049</description>
+		<Point> 
+			<coordinates>
+			-76.895267,39.010448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Edmonston Rd (Westbound)<br/>ID: 30050</description>
+		<Point> 
+			<coordinates>
+			-76.89483,39.010841,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Ivy Ln (Eastbound)<br/>ID: 30051</description>
+		<Point> 
+			<coordinates>
+			-76.89844,39.009877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Ivy Ln (Westbound)<br/>ID: 30052</description>
+		<Point> 
+			<coordinates>
+			-76.898411,39.010075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherrywood Ln / Springhill Dr<br/>ID: 30054</description>
+		<Point> 
+			<coordinates>
+			-76.905217,39.008509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clocktower Lane Loop<br/>ID: 40539</description>
+		<Point> 
+			<coordinates>
+			-76.845986,39.163284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clocktower Ln / Murray Hill Rd<br/>ID: 40540</description>
+		<Point> 
+			<coordinates>
+			-76.849326,39.164174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clocktower Ln / Softwater Way<br/>ID: 40886</description>
+		<Point> 
+			<coordinates>
+			-76.846722,39.163331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia 100 Pkwy / Blue Wing Ct<br/>ID: 40975</description>
+		<Point> 
+			<coordinates>
+			-76.816082,39.233853,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia 100 Pkwy / Centre Park Dr<br/>ID: 40542</description>
+		<Point> 
+			<coordinates>
+			-76.813635,39.228632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Crossing Cir East (Northbound)<br/>ID: 40944</description>
+		<Point> 
+			<coordinates>
+			-76.812965,39.196272,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Crossing Cir East (Southbound)<br/>ID: 40548</description>
+		<Point> 
+			<coordinates>
+			-76.812663,39.196627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Crossing Cir West (Northbound)<br/>ID: 40549</description>
+		<Point> 
+			<coordinates>
+			-76.81468,39.197781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Crossing Cir West (Southbound)<br/>ID: 40550</description>
+		<Point> 
+			<coordinates>
+			-76.814792,39.197838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / 7164<br/>ID: 40899</description>
+		<Point> 
+			<coordinates>
+			-76.805395,39.181452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / 7178<br/>ID: 40900</description>
+		<Point> 
+			<coordinates>
+			-76.80378,39.182315,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / Albert Einstein Dr<br/>ID: 40896</description>
+		<Point> 
+			<coordinates>
+			-76.802865,39.173862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / Benjamin Franklin Dr<br/>ID: 40895</description>
+		<Point> 
+			<coordinates>
+			-76.800306,39.177844,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / Howard County Complex<br/>ID: 40893</description>
+		<Point> 
+			<coordinates>
+			-76.801799,39.183275,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / John McAdam Dr<br/>ID: 40894</description>
+		<Point> 
+			<coordinates>
+			-76.799513,39.181549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / Robert Fulton Dr<br/>ID: 40903</description>
+		<Point> 
+			<coordinates>
+			-76.809538,39.174322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / Samuel Morse Dr<br/>ID: 40897</description>
+		<Point> 
+			<coordinates>
+			-76.806731,39.172408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Gateway Dr / Thomas Edison Dr<br/>ID: 40898</description>
+		<Point> 
+			<coordinates>
+			-76.806862,39.179239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / April Journey<br/>ID: 40978</description>
+		<Point> 
+			<coordinates>
+			-76.848562,39.2311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Brook Way North (Northbound)<br/>ID: 40833</description>
+		<Point> 
+			<coordinates>
+			-76.854074,39.229503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Brook Way North (Southbound)<br/>ID: 40977</description>
+		<Point> 
+			<coordinates>
+			-76.854186,39.229603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Brook Way South (Northbound)<br/>ID: 40552</description>
+		<Point> 
+			<coordinates>
+			-76.855873,39.227916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Brook Way South (Southbound)<br/>ID: 40553</description>
+		<Point> 
+			<coordinates>
+			-76.856035,39.227973,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Clarksville Pike (Northbound)<br/>ID: 40554</description>
+		<Point> 
+			<coordinates>
+			-76.844109,39.238917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Clarksville Pike (Southbound)<br/>ID: 40555</description>
+		<Point> 
+			<coordinates>
+			-76.844334,39.238743,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Tarkington Pl (Northbound)<br/>ID: 40734</description>
+		<Point> 
+			<coordinates>
+			-76.84602,39.233558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Tarkington Pl (Southbound)<br/>ID: 40557</description>
+		<Point> 
+			<coordinates>
+			-76.846634,39.233046,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Columbia Rd / Ten Mills Rd<br/>ID: 40558</description>
+		<Point> 
+			<coordinates>
+			-76.852618,39.230619,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Community Resources Campus / Board of Elections<br/>ID: 40115</description>
+		<Point> 
+			<coordinates>
+			-76.852819,39.177192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Community Resources Campus / Department of Social Services<br/>ID: 41011</description>
+		<Point> 
+			<coordinates>
+			-76.854297,39.177188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Arden Way<br/>ID: 30058</description>
+		<Point> 
+			<coordinates>
+			-76.851465,39.073614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Baltimore Ave (Eastbound)<br/>ID: 30059</description>
+		<Point> 
+			<coordinates>
+			-76.869504,39.076389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Baltimore Ave (Westbound)<br/>ID: 30060</description>
+		<Point> 
+			<coordinates>
+			-76.870002,39.076806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Belle Chasse Blvd<br/>ID: 30061</description>
+		<Point> 
+			<coordinates>
+			-76.879663,39.079468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Clarkwood Ln<br/>ID: 30062</description>
+		<Point> 
+			<coordinates>
+			-76.877766,39.079064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Deerfield Rd<br/>ID: 30063</description>
+		<Point> 
+			<coordinates>
+			-76.850883,39.073457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Edinburgh Ln (Eastbound)<br/>ID: 30064</description>
+		<Point> 
+			<coordinates>
+			-76.853497,39.073447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Edinburgh Ln (Westbound)<br/>ID: 30065</description>
+		<Point> 
+			<coordinates>
+			-76.853489,39.073608,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Larchdale Rd<br/>ID: 30068</description>
+		<Point> 
+			<coordinates>
+			-76.86072,39.073631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Laurel Bowie Rd<br/>ID: 30067</description>
+		<Point> 
+			<coordinates>
+			-76.84837,39.073693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Contee Rd / Oaklands Manor Dr<br/>ID: 30066</description>
+		<Point> 
+			<coordinates>
+			-76.860294,39.073726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Bollman Pl (Northbound)<br/>ID: 40562</description>
+		<Point> 
+			<coordinates>
+			-76.802698,39.131923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Bollman Pl (Southbound)<br/>ID: 40561</description>
+		<Point> 
+			<coordinates>
+			-76.802798,39.131805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Hilda Ave (Northbound)<br/>ID: 43009</description>
+		<Point> 
+			<coordinates>
+			-76.80101,39.130518,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Hilda Ave (Southbound)<br/>ID: 43008</description>
+		<Point> 
+			<coordinates>
+			-76.801455,39.130692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Junction Dr (Northbound)<br/>ID: 40587</description>
+		<Point> 
+			<coordinates>
+			-76.79772,39.126199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Junction Dr (Southbound)<br/>ID: 40563</description>
+		<Point> 
+			<coordinates>
+			-76.797905,39.126217,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Larkin Rd (Eastbound)<br/>ID: 40565</description>
+		<Point> 
+			<coordinates>
+			-76.809279,39.135843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / Larkin Rd (Westbound)<br/>ID: 40564</description>
+		<Point> 
+			<coordinates>
+			-76.810057,39.136148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / RTA Administration (Eastbound)<br/>ID: 40560</description>
+		<Point> 
+			<coordinates>
+			-76.812013,39.135959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corridor Rd / RTA Administration (Westbound)<br/>ID: 42004</description>
+		<Point> 
+			<coordinates>
+			-76.812113,39.13611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court House Dr / Government Center (Northbound)<br/>ID: 40556</description>
+		<Point> 
+			<coordinates>
+			-76.80504,39.27583,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court House Dr / Government Center (Southbound)<br/>ID: 40551</description>
+		<Point> 
+			<coordinates>
+			-76.805195,39.275611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Broken Staff<br/>ID: 42005</description>
+		<Point> 
+			<coordinates>
+			-76.84891,39.185728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / East Columbia Library (Eastbound)<br/>ID: 40174</description>
+		<Point> 
+			<coordinates>
+			-76.845635,39.191167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / East Columbia Library (Westbound)<br/>ID: 40162</description>
+		<Point> 
+			<coordinates>
+			-76.846716,39.191172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Frietchie Row (Eastbound)<br/>ID: 40175</description>
+		<Point> 
+			<coordinates>
+			-76.843978,39.192072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Frietchie Row (Westbound)<br/>ID: 40161</description>
+		<Point> 
+			<coordinates>
+			-76.843842,39.192499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Garland Ln (Eastbound)<br/>ID: 40176</description>
+		<Point> 
+			<coordinates>
+			-76.83962,39.194076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Garland Ln (Westbound)<br/>ID: 40160</description>
+		<Point> 
+			<coordinates>
+			-76.839202,39.193977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Hickory Log Cir<br/>ID: 43048</description>
+		<Point> 
+			<coordinates>
+			-76.84834,39.185974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Smooth Path (Northbound)<br/>ID: 40157</description>
+		<Point> 
+			<coordinates>
+			-76.839914,39.187981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Smooth Path (Southbound)<br/>ID: 40179</description>
+		<Point> 
+			<coordinates>
+			-76.840097,39.187947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Swan Point Way<br/>ID: 40155</description>
+		<Point> 
+			<coordinates>
+			-76.842693,39.185612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Talisman Ln (Northbound)<br/>ID: 40159</description>
+		<Point> 
+			<coordinates>
+			-76.838821,39.189883,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cradlerock Way / Talisman Ln (Southbound)<br/>ID: 40177</description>
+		<Point> 
+			<coordinates>
+			-76.839206,39.189738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cypress St / Laurel Lakes Ave (Eastbound)<br/>ID: 30069</description>
+		<Point> 
+			<coordinates>
+			-76.865637,39.082983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cypress St / Laurel Lakes Ave (Westbound)<br/>ID: 30175</description>
+		<Point> 
+			<coordinates>
+			-76.864783,39.082838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dobbin Center<br/>ID: 40891</description>
+		<Point> 
+			<coordinates>
+			-76.818835,39.194302,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Hall Dr / Crossroads Professional Center (Eastbound)<br/>ID: 40572</description>
+		<Point> 
+			<coordinates>
+			-76.83779,39.242975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Hall Dr / Crossroads Professional Center (Westbound)<br/>ID: 40976</description>
+		<Point> 
+			<coordinates>
+			-76.837894,39.243089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Hall Dr / Dorsey Hall Professional Park<br/>ID: 40570</description>
+		<Point> 
+			<coordinates>
+			-76.835312,39.243206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Hall Rd / Dorsey's Search Village Center (Eastbound)<br/>ID: 40577</description>
+		<Point> 
+			<coordinates>
+			-76.842149,39.244005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Hall Rd / Dorsey's Search Village Center (Westbound)<br/>ID: 40571</description>
+		<Point> 
+			<coordinates>
+			-76.841585,39.243916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey MARC Station<br/>ID: 40574</description>
+		<Point> 
+			<coordinates>
+			-76.746044,39.181004,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Run Rd / Clifton T. Perkins Hospital (Northbound)<br/>ID: 40576</description>
+		<Point> 
+			<coordinates>
+			-76.793168,39.140544,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Run Rd / Clifton T. Perkins Hospital (Southbound)<br/>ID: 40575</description>
+		<Point> 
+			<coordinates>
+			-76.793344,39.140315,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Run Rd / Giant Dr (Northbound)<br/>ID: 40512</description>
+		<Point> 
+			<coordinates>
+			-76.793039,39.134631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Run Rd / Giant Dr (Southbound)<br/>ID: 40513</description>
+		<Point> 
+			<coordinates>
+			-76.793241,39.134263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Run Rd / Guilford Rd (Northbound)<br/>ID: 40511</description>
+		<Point> 
+			<coordinates>
+			-76.793624,39.130977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dorsey Run Rd / Guilford Rd (Southbound)<br/>ID: 40514</description>
+		<Point> 
+			<coordinates>
+			-76.793904,39.130978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edmonston Rd / Hammett St (Northbound)<br/>ID: 30070</description>
+		<Point> 
+			<coordinates>
+			-76.898367,39.035659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edmonston Rd / Hammett St (Southbound)<br/>ID: 30071</description>
+		<Point> 
+			<coordinates>
+			-76.898571,39.035586,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edmonston Rd / Old Baltimore Pike (Northbound)<br/>ID: 30072</description>
+		<Point> 
+			<coordinates>
+			-76.898387,39.039811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edmonston Rd / Old Baltimore Pike (Southbound)<br/>ID: 30073</description>
+		<Point> 
+			<coordinates>
+			-76.89871,39.040448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ellicott City Healthcare Center<br/>ID: 40735</description>
+		<Point> 
+			<coordinates>
+			-76.821245,39.29077,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ellicott City Senior Center<br/>ID: 40885</description>
+		<Point> 
+			<coordinates>
+			-76.838313,39.271914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ellicott Mills Dr / Main St (Northbound)<br/>ID: 40583</description>
+		<Point> 
+			<coordinates>
+			-76.801047,39.269218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ellicott Mills Dr / Main St (Southbound)<br/>ID: 40582</description>
+		<Point> 
+			<coordinates>
+			-76.801225,39.26918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ellicott Mills Dr / Milltowne Dr (Northbound)<br/>ID: 40584</description>
+		<Point> 
+			<coordinates>
+			-76.803761,39.272857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ellicott Mills Dr / Milltowne Dr (Southbound)<br/>ID: 40585</description>
+		<Point> 
+			<coordinates>
+			-76.803913,39.27271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Executive Park Dr / Columbia 100 Pkwy<br/>ID: 40544</description>
+		<Point> 
+			<coordinates>
+			-76.815612,39.235406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: FDA Muirkirk Campus<br/>ID: 30074</description>
+		<Point> 
+			<coordinates>
+			-76.861097,39.055528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Florence Bain Senior Center<br/>ID: 40776</description>
+		<Point> 
+			<coordinates>
+			-76.888322,39.223199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Foreland Garth / Shalom Square<br/>ID: 40591</description>
+		<Point> 
+			<coordinates>
+			-76.816852,39.204927,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Foreland Garth / Tamar Dr<br/>ID: 40592</description>
+		<Point> 
+			<coordinates>
+			-76.813825,39.207173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Brock Bridge Rd (Eastbound)<br/>ID: 20179</description>
+		<Point> 
+			<coordinates>
+			-76.82463,39.100562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Brock Bridge Rd (Westbound)<br/>ID: 20180</description>
+		<Point> 
+			<coordinates>
+			-76.826579,39.100619,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Corridor Marketplace Shopping Center<br/>ID: 20189</description>
+		<Point> 
+			<coordinates>
+			-76.806718,39.097887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Dutch Country Farmer's Market<br/>ID: 30075</description>
+		<Point> 
+			<coordinates>
+			-76.838988,39.095187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Ethel Dr<br/>ID: 20181</description>
+		<Point> 
+			<coordinates>
+			-76.819732,39.100654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Laurel Plaza Shopping Center<br/>ID: 30076</description>
+		<Point> 
+			<coordinates>
+			-76.837715,39.095983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Laurel Race Track Rd (Eastbound)<br/>ID: 20182</description>
+		<Point> 
+			<coordinates>
+			-76.833493,39.097594,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Laurel Race Track Rd (Westbound)<br/>ID: 20183</description>
+		<Point> 
+			<coordinates>
+			-76.833377,39.09808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Laureldale Dr<br/>ID: 20184</description>
+		<Point> 
+			<coordinates>
+			-76.821309,39.101133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Maryland City Plaza (Eastbound)<br/>ID: 20190</description>
+		<Point> 
+			<coordinates>
+			-76.814791,39.099764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Maryland City Plaza (Westbound)<br/>ID: 20191</description>
+		<Point> 
+			<coordinates>
+			-76.813378,39.099803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Old Annapolis Rd<br/>ID: 20185</description>
+		<Point> 
+			<coordinates>
+			-76.816604,39.100179,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Red Clay Rd<br/>ID: 20186</description>
+		<Point> 
+			<coordinates>
+			-76.8109,39.098911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Russett Green East<br/>ID: 20187</description>
+		<Point> 
+			<coordinates>
+			-76.807041,39.098352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Meade Rd / Whiskey Bottom Rd<br/>ID: 20188</description>
+		<Point> 
+			<coordinates>
+			-76.816562,39.100567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Foundry St / Washington St (Northbound)<br/>ID: 40594</description>
+		<Point> 
+			<coordinates>
+			-76.825247,39.136887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Foundry St / Washington St (Southbound)<br/>ID: 40593</description>
+		<Point> 
+			<coordinates>
+			-76.825354,39.136822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freetown Rd / Atholton High School<br/>ID: 40599</description>
+		<Point> 
+			<coordinates>
+			-76.879273,39.187942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freetown Rd / Cedar Ln<br/>ID: 40596</description>
+		<Point> 
+			<coordinates>
+			-76.884615,39.196359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freetown Rd / Hickory Ridge Village Center<br/>ID: 40597</description>
+		<Point> 
+			<coordinates>
+			-76.883146,39.195871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freetown Rd / Quarterstaff Rd<br/>ID: 43026</description>
+		<Point> 
+			<coordinates>
+			-76.880875,39.193518,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freetown Rd / Springing Step<br/>ID: 42006</description>
+		<Point> 
+			<coordinates>
+			-76.878697,39.186529,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerwig Ln / Berger Rd (Northbound)<br/>ID: 43031</description>
+		<Point> 
+			<coordinates>
+			-76.842607,39.173194,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerwig Ln / Berger Rd (Southbound)<br/>ID: 43032</description>
+		<Point> 
+			<coordinates>
+			-76.842679,39.173059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerwig Ln / Howard County Food Bank (Northbound)<br/>ID: 42007</description>
+		<Point> 
+			<coordinates>
+			-76.837682,39.169943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerwig Ln / Howard County Food Bank (Southbound)<br/>ID: 41010</description>
+		<Point> 
+			<coordinates>
+			-76.837632,39.169714,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerwig Ln / Humanim (Northbound)<br/>ID: 43045</description>
+		<Point> 
+			<coordinates>
+			-76.837052,39.168804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerwig Ln / Humanim (Southbound)<br/>ID: 43044</description>
+		<Point> 
+			<coordinates>
+			-76.837237,39.168801,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Ave / Thomas Dr<br/>ID: 30167</description>
+		<Point> 
+			<coordinates>
+			-76.851263,39.099051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Falling Waters Ct (Eastbound)<br/>ID: 43047</description>
+		<Point> 
+			<coordinates>
+			-76.84025,39.133199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Falling Waters Ct (Westbound)<br/>ID: 43046</description>
+		<Point> 
+			<coordinates>
+			-76.840231,39.133388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Foundry St (Eastbound)<br/>ID: 42008</description>
+		<Point> 
+			<coordinates>
+			-76.825437,39.133749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Foundry St (Westbound)<br/>ID: 42009</description>
+		<Point> 
+			<coordinates>
+			-76.825424,39.133897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Rock Ripple Ln (Eastbound)<br/>ID: 42010</description>
+		<Point> 
+			<coordinates>
+			-76.835366,39.133323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Rock Ripple Ln (Westbound)<br/>ID: 42011</description>
+		<Point> 
+			<coordinates>
+			-76.835122,39.133466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Shantha Ct (Eastbound)<br/>ID: 40496</description>
+		<Point> 
+			<coordinates>
+			-76.842903,39.135294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gorman Rd / Shantha Ct (Westbound)<br/>ID: 40497</description>
+		<Point> 
+			<coordinates>
+			-76.842758,39.135378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenbelt Metro Dr / Cherrywood Ln (Northbound)<br/>ID: 30078</description>
+		<Point> 
+			<coordinates>
+			-76.904328,39.011436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenbelt Metro Dr / Cherrywood Ln (Southbound)<br/>ID: 30079</description>
+		<Point> 
+			<coordinates>
+			-76.904327,39.011288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenbelt Metro Station (Bus Bay B)<br/>ID: 30080</description>
+		<Point> 
+			<coordinates>
+			-76.90978,39.011963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd / 6400<br/>ID: 41018</description>
+		<Point> 
+			<coordinates>
+			-76.732069,39.207572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd / Penniman Park Apartments<br/>ID: 43010</description>
+		<Point> 
+			<coordinates>
+			-76.731107,39.205488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / 12 Sons Ct<br/>ID: 40145</description>
+		<Point> 
+			<coordinates>
+			-76.821416,39.156846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Blue Sea Dr<br/>ID: 40604</description>
+		<Point> 
+			<coordinates>
+			-76.859292,39.168586,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Early April Way (Eastbound)<br/>ID: 40184</description>
+		<Point> 
+			<coordinates>
+			-76.854242,39.166984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Early April Way (Westbound)<br/>ID: 40152</description>
+		<Point> 
+			<coordinates>
+			-76.854131,39.1671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Eden Brook Dr (Northbound)<br/>ID: 40609</description>
+		<Point> 
+			<coordinates>
+			-76.866001,39.17173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Eden Brook Dr (Southbound)<br/>ID: 40608</description>
+		<Point> 
+			<coordinates>
+			-76.866292,39.17167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Gerwig Ln (Eastbound)<br/>ID: 40187</description>
+		<Point> 
+			<coordinates>
+			-76.838758,39.167039,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Gerwig Ln (Westbound)<br/>ID: 40149</description>
+		<Point> 
+			<coordinates>
+			-76.83905,39.167012,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Glen Oaks Ln<br/>ID: 40998</description>
+		<Point> 
+			<coordinates>
+			-76.829833,39.163509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Guilford Neighborhood Park<br/>ID: 42012</description>
+		<Point> 
+			<coordinates>
+			-76.820611,39.155249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Hammond High School<br/>ID: 40605</description>
+		<Point> 
+			<coordinates>
+			-76.859286,39.168401,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Morningside Park Apartments<br/>ID: 42013</description>
+		<Point> 
+			<coordinates>
+			-76.820104,39.154365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Oakland Mills Rd<br/>ID: 40189</description>
+		<Point> 
+			<coordinates>
+			-76.831012,39.164066,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Old Columbia Rd (Northbound)<br/>ID: 40623</description>
+		<Point> 
+			<coordinates>
+			-76.869856,39.176039,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Old Columbia Rd (Southbound)<br/>ID: 40622</description>
+		<Point> 
+			<coordinates>
+			-76.87004,39.17603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Ridgeview Dr<br/>ID: 40148</description>
+		<Point> 
+			<coordinates>
+			-76.833343,39.164523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Stirling Bridge Dr (Northbound)<br/>ID: 40146</description>
+		<Point> 
+			<coordinates>
+			-76.824988,39.161822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Stirling Bridge Dr (Southbound)<br/>ID: 40190</description>
+		<Point> 
+			<coordinates>
+			-76.824733,39.161467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / The Rivers Corporate Park (Eastbound)<br/>ID: 40185</description>
+		<Point> 
+			<coordinates>
+			-76.849575,39.169424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / The Rivers Corporate Park (Westbound)<br/>ID: 40151</description>
+		<Point> 
+			<coordinates>
+			-76.849757,39.169478,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / The Rivers Technology Park (Eastbound)<br/>ID: 40186</description>
+		<Point> 
+			<coordinates>
+			-76.844588,39.16866,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / The Rivers Technology Park (Westbound)<br/>ID: 40150</description>
+		<Point> 
+			<coordinates>
+			-76.844471,39.168764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Vollmerhausen Rd (Northbound)<br/>ID: 40643</description>
+		<Point> 
+			<coordinates>
+			-76.816625,39.149932,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Vollmerhausen Rd (Southbound)<br/>ID: 40738</description>
+		<Point> 
+			<coordinates>
+			-76.816762,39.149766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Washington Blvd (Northbound)<br/>ID: 42015</description>
+		<Point> 
+			<coordinates>
+			-76.808595,39.142896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford Rd / Washington Blvd (Southbound)<br/>ID: 42014</description>
+		<Point> 
+			<coordinates>
+			-76.809042,39.14321,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harper's Choice Village Center<br/>ID: 40626</description>
+		<Point> 
+			<coordinates>
+			-76.889814,39.222403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harpers Farm Rd / Eliots Oak Rd (Eastbound)<br/>ID: 40629</description>
+		<Point> 
+			<coordinates>
+			-76.885162,39.221713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harpers Farm Rd / Eliots Oak Rd (Westbound)<br/>ID: 40628</description>
+		<Point> 
+			<coordinates>
+			-76.885318,39.221862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harpers Farm Rd / Gloucester Rd (Eastbound)<br/>ID: 41005</description>
+		<Point> 
+			<coordinates>
+			-76.883755,39.221563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harpers Farm Rd / Gloucester Rd (Westbound)<br/>ID: 43050</description>
+		<Point> 
+			<coordinates>
+			-76.883515,39.221664,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Place<br/>ID: 40630</description>
+		<Point> 
+			<coordinates>
+			-76.883826,39.210493,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Athletic Field Dr<br/>ID: 43011</description>
+		<Point> 
+			<coordinates>
+			-76.877502,39.208673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / College Sq (Eastbound)<br/>ID: 43013</description>
+		<Point> 
+			<coordinates>
+			-76.872727,39.207099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / College Sq (Westbound)<br/>ID: 43014</description>
+		<Point> 
+			<coordinates>
+			-76.872557,39.207191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Cordage Walk<br/>ID: 40633</description>
+		<Point> 
+			<coordinates>
+			-76.880637,39.211015,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / East Wind Way<br/>ID: 43012</description>
+		<Point> 
+			<coordinates>
+			-76.877884,39.208814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Little Patuxent Pkwy<br/>ID: 40634</description>
+		<Point> 
+			<coordinates>
+			-76.8938,39.209566,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Martin Rd (Eastbound)<br/>ID: 43015</description>
+		<Point> 
+			<coordinates>
+			-76.869346,39.206073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Martin Rd (Westbound)<br/>ID: 43016</description>
+		<Point> 
+			<coordinates>
+			-76.868914,39.206357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Snowflake Ct<br/>ID: 40635</description>
+		<Point> 
+			<coordinates>
+			-76.888903,39.210567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Rd / Sunny Spring<br/>ID: 41014</description>
+		<Point> 
+			<coordinates>
+			-76.884367,39.211069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Village Center / Domino's Pizza<br/>ID: 41004</description>
+		<Point> 
+			<coordinates>
+			-76.88366,39.193939,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Ridge Village Center / Giant<br/>ID: 40636</description>
+		<Point> 
+			<coordinates>
+			-76.883945,39.195276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Drystraw Dr<br/>ID: 40637</description>
+		<Point> 
+			<coordinates>
+			-76.815091,39.216514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Eaglebeak Row (Northbound)<br/>ID: 40639</description>
+		<Point> 
+			<coordinates>
+			-76.812207,39.220864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Eaglebeak Row (Southbound)<br/>ID: 40640</description>
+		<Point> 
+			<coordinates>
+			-76.812346,39.220929,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Elkhorn Branch Trail (Eastbound)<br/>ID: 43036</description>
+		<Point> 
+			<coordinates>
+			-76.814727,39.223178,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Elkhorn Branch Trail (Westbound)<br/>ID: 43037</description>
+		<Point> 
+			<coordinates>
+			-76.815075,39.223304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Millwheel Pl<br/>ID: 40638</description>
+		<Point> 
+			<coordinates>
+			-76.814992,39.215791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Phelps Luck Dr (Eastbound)<br/>ID: 40641</description>
+		<Point> 
+			<coordinates>
+			-76.81758,39.223965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Phelps Luck Dr (Westbound)<br/>ID: 40642</description>
+		<Point> 
+			<coordinates>
+			-76.817725,39.22415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Tamar Dr (Northbound)<br/>ID: 46445</description>
+		<Point> 
+			<coordinates>
+			-76.817049,39.212666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High Tor Hill / Tamar Dr (Southbound)<br/>ID: 40646</description>
+		<Point> 
+			<coordinates>
+			-76.817095,39.212969,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homespun Dr / Angelina Cir (Eastbound)<br/>ID: 40649</description>
+		<Point> 
+			<coordinates>
+			-76.83659,39.190269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homespun Dr / Angelina Cir (Westbound)<br/>ID: 40650</description>
+		<Point> 
+			<coordinates>
+			-76.83661,39.190423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homespun Dr / Pigeon Wing Pl (Eastbound)<br/>ID: 40651</description>
+		<Point> 
+			<coordinates>
+			-76.832306,39.190667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homespun Dr / Pigeon Wing Pl (Westbound)<br/>ID: 40652</description>
+		<Point> 
+			<coordinates>
+			-76.832191,39.190823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Circuit Court<br/>ID: 41023</description>
+		<Point> 
+			<coordinates>
+			-76.797567,39.269304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Circuit Court<br/>ID: 45001</description>
+		<Point> 
+			<coordinates>
+			-76.828485,39.237014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Health Department<br/>ID: 42019</description>
+		<Point> 
+			<coordinates>
+			-76.817088,39.192428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Hospital East (Northbound)<br/>ID: 40657</description>
+		<Point> 
+			<coordinates>
+			-76.884411,39.214519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Hospital East (Southbound)<br/>ID: 43019</description>
+		<Point> 
+			<coordinates>
+			-76.884663,39.214689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Hospital South (Northbound)<br/>ID: 40660</description>
+		<Point> 
+			<coordinates>
+			-76.88494,39.213612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howard County Hospital South (Southbound)<br/>ID: 43020</description>
+		<Point> 
+			<coordinates>
+			-76.885044,39.213719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenilworth Ave / Crescent Rd<br/>ID: 30081</description>
+		<Point> 
+			<coordinates>
+			-76.892086,39.006879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Afternoon Ln<br/>ID: 40661</description>
+		<Point> 
+			<coordinates>
+			-76.834342,39.206706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Macomber Ln<br/>ID: 40663</description>
+		<Point> 
+			<coordinates>
+			-76.839019,39.207508,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Matador Rd<br/>ID: 40662</description>
+		<Point> 
+			<coordinates>
+			-76.834033,39.206463,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Oakland Mills High School<br/>ID: 40664</description>
+		<Point> 
+			<coordinates>
+			-76.83948,39.207381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Pamplona Rd (Eastbound)<br/>ID: 40666</description>
+		<Point> 
+			<coordinates>
+			-76.842844,39.206392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Pamplona Rd (Westbound)<br/>ID: 40665</description>
+		<Point> 
+			<coordinates>
+			-76.842906,39.20652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Reader Ln<br/>ID: 43017</description>
+		<Point> 
+			<coordinates>
+			-76.835717,39.208462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kilimanjaro Rd / Torrent Row<br/>ID: 43018</description>
+		<Point> 
+			<coordinates>
+			-76.835556,39.20829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kings Contrivance Village Center<br/>ID: 40667</description>
+		<Point> 
+			<coordinates>
+			-76.865353,39.169048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Knoll Dr / Columbia Medical Plan<br/>ID: 40669</description>
+		<Point> 
+			<coordinates>
+			-76.840431,39.224424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lark Brown Rd / Lark Brown Centre<br/>ID: 40911</description>
+		<Point> 
+			<coordinates>
+			-76.792666,39.188682,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lark Brown Rd / Marie Curie Dr (Eastbound)<br/>ID: 41002</description>
+		<Point> 
+			<coordinates>
+			-76.793908,39.188569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lark Brown Rd / Marie Curie Dr (Westbound)<br/>ID: 41001</description>
+		<Point> 
+			<coordinates>
+			-76.794155,39.188753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lark Brown Rd / Waterloo Rd<br/>ID: 40912</description>
+		<Point> 
+			<coordinates>
+			-76.795674,39.1888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Bowie Rd<br/>ID: 30083</description>
+		<Point> 
+			<coordinates>
+			-76.846495,39.089024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Brock Bridge Rd<br/>ID: 30084</description>
+		<Point> 
+			<coordinates>
+			-76.84339,39.070545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Cherry Ln<br/>ID: 30097</description>
+		<Point> 
+			<coordinates>
+			-76.846918,39.086062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Clubhouse Blvd<br/>ID: 30085</description>
+		<Point> 
+			<coordinates>
+			-76.846003,39.089104,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Contee Rd (Northbound)<br/>ID: 30086</description>
+		<Point> 
+			<coordinates>
+			-76.847853,39.074268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Contee Rd (Southbound)<br/>ID: 30087</description>
+		<Point> 
+			<coordinates>
+			-76.847744,39.073314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Greenview Dr<br/>ID: 30088</description>
+		<Point> 
+			<coordinates>
+			-76.844612,39.091342,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Mallard Dr<br/>ID: 30089</description>
+		<Point> 
+			<coordinates>
+			-76.837834,39.056183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Montpelier Dr<br/>ID: 30090</description>
+		<Point> 
+			<coordinates>
+			-76.842565,39.069543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Morris Dr (Northbound)<br/>ID: 30091</description>
+		<Point> 
+			<coordinates>
+			-76.843351,39.093267,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Morris Dr (Southbound)<br/>ID: 30092</description>
+		<Point> 
+			<coordinates>
+			-76.843897,39.093071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Muirkirk Rd (Northbound)<br/>ID: 30093</description>
+		<Point> 
+			<coordinates>
+			-76.839265,39.064362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Muirkirk Rd (Southbound)<br/>ID: 30094</description>
+		<Point> 
+			<coordinates>
+			-76.839647,39.064181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Snowden Rd<br/>ID: 30173</description>
+		<Point> 
+			<coordinates>
+			-76.837386,39.053303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Snowhill Estates Ln (Northbound)<br/>ID: 30095</description>
+		<Point> 
+			<coordinates>
+			-76.848387,39.076247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Bowie Rd / Snowhill Estates Ln (Southbound)<br/>ID: 30096</description>
+		<Point> 
+			<coordinates>
+			-76.848772,39.075914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Lakes Ct / Laurel Lakes Senior Housing<br/>ID: 30098</description>
+		<Point> 
+			<coordinates>
+			-76.867098,39.081358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Pl / Holiday Inn<br/>ID: 30099</description>
+		<Point> 
+			<coordinates>
+			-76.860919,39.088507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laurel Pl / Laurel Lake<br/>ID: 30100</description>
+		<Point> 
+			<coordinates>
+			-76.859603,39.090656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lightning View Rd / Thunder Hill Rd<br/>ID: 40670</description>
+		<Point> 
+			<coordinates>
+			-76.836925,39.220524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lightning View Rd / Weatherside Run<br/>ID: 43043</description>
+		<Point> 
+			<coordinates>
+			-76.836725,39.220847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Banneker Rd<br/>ID: 40671</description>
+		<Point> 
+			<coordinates>
+			-76.871519,39.213843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Blue February Way<br/>ID: 40679</description>
+		<Point> 
+			<coordinates>
+			-76.901027,39.208738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Campus Dr<br/>ID: 40656</description>
+		<Point> 
+			<coordinates>
+			-76.880941,39.216184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Central Library<br/>ID: 40682</description>
+		<Point> 
+			<coordinates>
+			-76.858765,39.211485,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Century Plaza<br/>ID: 40957</description>
+		<Point> 
+			<coordinates>
+			-76.871543,39.214165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Dark Fire Way<br/>ID: 40680</description>
+		<Point> 
+			<coordinates>
+			-76.897507,39.206018,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Faculty Dr (Eastbound)<br/>ID: 43038</description>
+		<Point> 
+			<coordinates>
+			-76.874809,39.214383,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Faculty Dr (Westbound)<br/>ID: 43039</description>
+		<Point> 
+			<coordinates>
+			-76.874902,39.21466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Governor Warfield Pkwy<br/>ID: 41003</description>
+		<Point> 
+			<coordinates>
+			-76.868474,39.212971,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Green Meadow Dr<br/>ID: 40678</description>
+		<Point> 
+			<coordinates>
+			-76.89597,39.212079,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Harpers Farm Rd<br/>ID: 40658</description>
+		<Point> 
+			<coordinates>
+			-76.881312,39.216624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Lone Tree Ct<br/>ID: 40951</description>
+		<Point> 
+			<coordinates>
+			-76.899817,39.206917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Pear Tree Way<br/>ID: 40685</description>
+		<Point> 
+			<coordinates>
+			-76.891811,39.212273,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Running Brook Rd<br/>ID: 40687</description>
+		<Point> 
+			<coordinates>
+			-76.856898,39.224647,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Sterrett Pl (Northbound)<br/>ID: 40673</description>
+		<Point> 
+			<coordinates>
+			-76.858417,39.21909,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Sterrett Pl (Southbound)<br/>ID: 40674</description>
+		<Point> 
+			<coordinates>
+			-76.859087,39.219407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Swift Stream Pl<br/>ID: 40681</description>
+		<Point> 
+			<coordinates>
+			-76.858126,39.212133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Vantage Point Rd<br/>ID: 40686</description>
+		<Point> 
+			<coordinates>
+			-76.856886,39.223858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / White Cord Way<br/>ID: 40927</description>
+		<Point> 
+			<coordinates>
+			-76.900451,39.212468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Wincopin Cir (Northbound)<br/>ID: 40684</description>
+		<Point> 
+			<coordinates>
+			-76.857608,39.216891,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Little Patuxent Pkwy / Wincopin Cir (Southbound)<br/>ID: 40683</description>
+		<Point> 
+			<coordinates>
+			-76.857978,39.216873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Gate Shopping Center / Long Gate Pkwy<br/>ID: 40974</description>
+		<Point> 
+			<coordinates>
+			-76.816027,39.250209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Gate Shopping Center / Montgomery Rd<br/>ID: 40973</description>
+		<Point> 
+			<coordinates>
+			-76.816623,39.251955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St / 4th St<br/>ID: 30168</description>
+		<Point> 
+			<coordinates>
+			-76.848065,39.105921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St / C St<br/>ID: 30103</description>
+		<Point> 
+			<coordinates>
+			-76.846311,39.105152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St / Post Office Ave<br/>ID: 30104</description>
+		<Point> 
+			<coordinates>
+			-76.851003,39.10723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St / Rogers Ave (Eastbound)<br/>ID: 40595</description>
+		<Point> 
+			<coordinates>
+			-76.809651,39.268692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St / Rogers Ave (Westbound)<br/>ID: 40775</description>
+		<Point> 
+			<coordinates>
+			-76.8096,39.2688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall in Columbia<br/>ID: 40000</description>
+		<Point> 
+			<coordinates>
+			-76.863866,39.214555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall in Columbia / AMC Theatre (Northbound)<br/>ID: 40676</description>
+		<Point> 
+			<coordinates>
+			-76.8634,39.217856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall in Columbia / AMC Theatre (Southbound)<br/>ID: 40677</description>
+		<Point> 
+			<coordinates>
+			-76.863301,39.218082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall in Columbia / South Lot (Eastbound)<br/>ID: 40850</description>
+		<Point> 
+			<coordinates>
+			-76.863369,39.212926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall in Columbia / South Lot (Westbound)<br/>ID: 43049</description>
+		<Point> 
+			<coordinates>
+			-76.863343,39.213034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marie Curie Dr / Gateway Overlook Dr<br/>ID: 40926</description>
+		<Point> 
+			<coordinates>
+			-76.794821,39.187196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall Ave / Laurel College Center (Eastbound)<br/>ID: 30106</description>
+		<Point> 
+			<coordinates>
+			-76.852973,39.09776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall Ave / Laurel College Center (Westbound)<br/>ID: 30105</description>
+		<Point> 
+			<coordinates>
+			-76.852717,39.097785,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Martin Rd / High Bench<br/>ID: 40848</description>
+		<Point> 
+			<coordinates>
+			-76.872781,39.188256,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Martin Rd / Seneca Dr<br/>ID: 40804</description>
+		<Point> 
+			<coordinates>
+			-76.872508,39.19031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Library<br/>ID: 42017</description>
+		<Point> 
+			<coordinates>
+			-76.839346,39.272307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Minstrel Way / Snowden River Pkwy (Northbound)<br/>ID: 40144</description>
+		<Point> 
+			<coordinates>
+			-76.845032,39.176016,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Minstrel Way / Snowden River Pkwy (Southbound)<br/>ID: 40191</description>
+		<Point> 
+			<coordinates>
+			-76.845321,39.175874,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montgomery Rd / Elkridge Corners Shopping Center<br/>ID: 40579</description>
+		<Point> 
+			<coordinates>
+			-76.728148,39.20842,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montgomery Rd / Steepridge Dr<br/>ID: 41017</description>
+		<Point> 
+			<coordinates>
+			-76.733203,39.211094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montgomery St / 9th St<br/>ID: 30108</description>
+		<Point> 
+			<coordinates>
+			-76.858553,39.107023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montrose Ave / 7th St (Eastbound)<br/>ID: 30110</description>
+		<Point> 
+			<coordinates>
+			-76.857772,39.098637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montrose Ave / 7th St (Westbound)<br/>ID: 30111</description>
+		<Point> 
+			<coordinates>
+			-76.857747,39.098764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Morningside Park Apartments<br/>ID: 40192</description>
+		<Point> 
+			<coordinates>
+			-76.820326,39.153835,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Meadows Dr / Baltimore Ave (Northbound)<br/>ID: 30112</description>
+		<Point> 
+			<coordinates>
+			-76.88759,39.06113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Meadows Dr / Baltimore Ave (Southbound)<br/>ID: 30113</description>
+		<Point> 
+			<coordinates>
+			-76.888043,39.061225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Meadows Dr / Muirkirk Rd (Northbound)<br/>ID: 30114</description>
+		<Point> 
+			<coordinates>
+			-76.889059,39.062439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Meadows Dr / Muirkirk Rd (Southbound)<br/>ID: 30115</description>
+		<Point> 
+			<coordinates>
+			-76.889254,39.062919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Rd / Longwood Dr<br/>ID: 30116</description>
+		<Point> 
+			<coordinates>
+			-76.879435,39.059263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Rd / Montpelier Dr<br/>ID: 30117</description>
+		<Point> 
+			<coordinates>
+			-76.865727,39.056325,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Rd / Muirkirk MARC Station (Eastbound)<br/>ID: 30118</description>
+		<Point> 
+			<coordinates>
+			-76.883457,39.061235,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muirkirk Rd / Muirkirk MARC Station (Westbound)<br/>ID: 30119</description>
+		<Point> 
+			<coordinates>
+			-76.883396,39.061496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mulberry St / Briston St (Northbound)<br/>ID: 30120</description>
+		<Point> 
+			<coordinates>
+			-76.865555,39.084377,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mulberry St / Briston St (Southbound)<br/>ID: 30121</description>
+		<Point> 
+			<coordinates>
+			-76.865884,39.084306,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mulberry St / Laurel Pl<br/>ID: 30122</description>
+		<Point> 
+			<coordinates>
+			-76.862029,39.088013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mulberry St / Yardarm Way (Northbound)<br/>ID: 30123</description>
+		<Point> 
+			<coordinates>
+			-76.864675,39.086986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mulberry St / Yardarm Way (Southbound)<br/>ID: 30124</description>
+		<Point> 
+			<coordinates>
+			-76.864713,39.087446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Murray Hill Rd / Guilford Rd (Northbound)<br/>ID: 40844</description>
+		<Point> 
+			<coordinates>
+			-76.851179,39.166833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Murray Hill Rd / Guilford Rd (Southbound)<br/>ID: 40964</description>
+		<Point> 
+			<coordinates>
+			-76.851215,39.166488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / 140 (Northbound)<br/>ID: 20235</description>
+		<Point> 
+			<coordinates>
+			-76.773576,39.126688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / 140 (Southbound)<br/>ID: 20203</description>
+		<Point> 
+			<coordinates>
+			-76.773679,39.126861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / 430 (Northbound)<br/>ID: 20233</description>
+		<Point> 
+			<coordinates>
+			-76.767615,39.13509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / 430 (Southbound)<br/>ID: 20206</description>
+		<Point> 
+			<coordinates>
+			-76.768136,39.134775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Hercules Rd (Northbound)<br/>ID: 20198</description>
+		<Point> 
+			<coordinates>
+			-76.780193,39.121277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Hercules Rd (Southbound)<br/>ID: 20199</description>
+		<Point> 
+			<coordinates>
+			-76.780532,39.121403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Merritt Dr (Northbound)<br/>ID: 20200</description>
+		<Point> 
+			<coordinates>
+			-76.763688,39.140863,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Merritt Dr (Southbound)<br/>ID: 20201</description>
+		<Point> 
+			<coordinates>
+			-76.763925,39.141059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Sentinel Way (Northbound)<br/>ID: 20202</description>
+		<Point> 
+			<coordinates>
+			-76.771017,39.127958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Sentinel Way (Southbound)<br/>ID: 20234</description>
+		<Point> 
+			<coordinates>
+			-76.771272,39.128061,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Technology Dr (Northbound)<br/>ID: 20204</description>
+		<Point> 
+			<coordinates>
+			-76.776077,39.122717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National Business Pkwy / Technology Dr (Southbound)<br/>ID: 20205</description>
+		<Point> 
+			<coordinates>
+			-76.776171,39.122952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Normandy Center Dr / Normandy Shopping Center (Northbound)<br/>ID: 40523</description>
+		<Point> 
+			<coordinates>
+			-76.807277,39.285621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Normandy Center Dr / Normandy Shopping Center (Southbound)<br/>ID: 40526</description>
+		<Point> 
+			<coordinates>
+			-76.807401,39.28554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Laurel Community Center<br/>ID: 40490</description>
+		<Point> 
+			<coordinates>
+			-76.836761,39.116075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Ridge Rd / Executive Center Rd<br/>ID: 40711</description>
+		<Point> 
+			<coordinates>
+			-76.81714,39.280515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Berger Rd<br/>ID: 40862</description>
+		<Point> 
+			<coordinates>
+			-76.828029,39.17679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Carters Cove<br/>ID: 40858</description>
+		<Point> 
+			<coordinates>
+			-76.830751,39.171294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Dawn Day Dr<br/>ID: 40865</description>
+		<Point> 
+			<coordinates>
+			-76.83469,39.200925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Deerpasture Dr<br/>ID: 42018</description>
+		<Point> 
+			<coordinates>
+			-76.827562,39.18126,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Dobbin Rd (Northbound)<br/>ID: 40866</description>
+		<Point> 
+			<coordinates>
+			-76.827236,39.184789,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Dobbin Rd (Southbound)<br/>ID: 40867</description>
+		<Point> 
+			<coordinates>
+			-76.826986,39.184404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Fairmead Ln<br/>ID: 40868</description>
+		<Point> 
+			<coordinates>
+			-76.834862,39.197428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Farewell Rd (Northbound)<br/>ID: 40871</description>
+		<Point> 
+			<coordinates>
+			-76.834126,39.203723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Farewell Rd (Southbound)<br/>ID: 40870</description>
+		<Point> 
+			<coordinates>
+			-76.834396,39.203314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Guilford Rd<br/>ID: 40147</description>
+		<Point> 
+			<coordinates>
+			-76.830365,39.164157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Loring Dr<br/>ID: 40869</description>
+		<Point> 
+			<coordinates>
+			-76.834698,39.197166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Malindy Cir (Northbound)<br/>ID: 40859</description>
+		<Point> 
+			<coordinates>
+			-76.832923,39.193103,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Malindy Cir (Southbound)<br/>ID: 40860</description>
+		<Point> 
+			<coordinates>
+			-76.833055,39.193011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Monarch Mills Way North<br/>ID: 40857</description>
+		<Point> 
+			<coordinates>
+			-76.830551,39.171652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Monarch Mills Way South<br/>ID: 40864</description>
+		<Point> 
+			<coordinates>
+			-76.830557,39.170268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Oak Hall Ln (Northbound)<br/>ID: 40872</description>
+		<Point> 
+			<coordinates>
+			-76.8257,39.183195,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Oak Hall Ln (Southbound)<br/>ID: 40873</description>
+		<Point> 
+			<coordinates>
+			-76.825859,39.183053,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Oakwood Business Center (Northbound)<br/>ID: 40875</description>
+		<Point> 
+			<coordinates>
+			-76.828644,39.175896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Oakwood Business Center (Southbound)<br/>ID: 40874</description>
+		<Point> 
+			<coordinates>
+			-76.829423,39.175357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Rd / Sewells Orchard Dr<br/>ID: 40876</description>
+		<Point> 
+			<coordinates>
+			-76.83452,39.200946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Mills Village Center<br/>ID: 40745</description>
+		<Point> 
+			<coordinates>
+			-76.846594,39.209894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oceano Ave / Assateague Dr<br/>ID: 40763</description>
+		<Point> 
+			<coordinates>
+			-76.780349,39.158204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Annapolis Rd / Bendix Rd<br/>ID: 40846</description>
+		<Point> 
+			<coordinates>
+			-76.830553,39.234651,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Ammendale Rd (Northbound)<br/>ID: 30125</description>
+		<Point> 
+			<coordinates>
+			-76.890705,39.048607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Ammendale Rd (Southbound)<br/>ID: 30126</description>
+		<Point> 
+			<coordinates>
+			-76.890666,39.048986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Ammendale Way (Northbound)<br/>ID: 30127</description>
+		<Point> 
+			<coordinates>
+			-76.892043,39.047022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Ammendale Way (Southbound)<br/>ID: 30170</description>
+		<Point> 
+			<coordinates>
+			-76.892491,39.04685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Distribution Dr (Northbound)<br/>ID: 30128</description>
+		<Point> 
+			<coordinates>
+			-76.885018,39.055361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Distribution Dr (Southbound)<br/>ID: 30129</description>
+		<Point> 
+			<coordinates>
+			-76.885157,39.05547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Industrial Dr (Northbound)<br/>ID: 30130</description>
+		<Point> 
+			<coordinates>
+			-76.888359,39.05134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Industrial Dr (Southbound)<br/>ID: 30131</description>
+		<Point> 
+			<coordinates>
+			-76.888845,39.051133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Mid Cities Ave (Northbound)<br/>ID: 30169</description>
+		<Point> 
+			<coordinates>
+			-76.886916,39.053076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Baltimore Pike / Mid Cities Ave (Southbound)<br/>ID: 30132</description>
+		<Point> 
+			<coordinates>
+			-76.886825,39.053508,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Columbia Rd / Fiducial Business Centers, Inc. (Eastbound)<br/>ID: 43021</description>
+		<Point> 
+			<coordinates>
+			-76.863785,39.175976,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Columbia Rd / Fiducial Business Centers, Inc. (Westbound)<br/>ID: 43022</description>
+		<Point> 
+			<coordinates>
+			-76.863405,39.176125,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Columbia Rd / Guilford Rd (Eastbound)<br/>ID: 43023</description>
+		<Point> 
+			<coordinates>
+			-76.867906,39.176379,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Columbia Rd / Guilford Rd (Westbound)<br/>ID: 43024</description>
+		<Point> 
+			<coordinates>
+			-76.867941,39.176705,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Columbia Road Circle<br/>ID: 40922</description>
+		<Point> 
+			<coordinates>
+			-76.857997,39.174079,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Dobbin Ln / Columbia Crossing Business Center<br/>ID: 42016</description>
+		<Point> 
+			<coordinates>
+			-76.813448,39.2011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Dobbin Ln / Long Reach High School (Northbound)<br/>ID: 42020</description>
+		<Point> 
+			<coordinates>
+			-76.812305,39.206685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Dobbin Ln / Long Reach High School (Southbound)<br/>ID: 42021</description>
+		<Point> 
+			<coordinates>
+			-76.812501,39.206902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Dobbin Ln / Long Reach Tennis Club<br/>ID: 43025</description>
+		<Point> 
+			<coordinates>
+			-76.813172,39.202962,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Dobbin Ln / Millrace Ct<br/>ID: 40765</description>
+		<Point> 
+			<coordinates>
+			-76.812991,39.201794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Sandy Spring Rd / Van Dusen Rd<br/>ID: 30133</description>
+		<Point> 
+			<coordinates>
+			-76.870097,39.104173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Sandy Spring Rd / West St<br/>ID: 30134</description>
+		<Point> 
+			<coordinates>
+			-76.866656,39.104839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Waterloo Rd / Pirch Way<br/>ID: 40910</description>
+		<Point> 
+			<coordinates>
+			-76.790147,39.187795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Waterloo Rd / Sherwood Crossing Apartments<br/>ID: 40965</description>
+		<Point> 
+			<coordinates>
+			-76.788126,39.185746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Owen Brown Village Center<br/>ID: 40156</description>
+		<Point> 
+			<coordinates>
+			-76.842531,39.186579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park View Apartments at Ellicott City<br/>ID: 40709</description>
+		<Point> 
+			<coordinates>
+			-76.812027,39.278528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park View Apartments at Laurel<br/>ID: 30136</description>
+		<Point> 
+			<coordinates>
+			-76.844504,39.078877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park View Apartments at Owen Brown<br/>ID: 40766</description>
+		<Point> 
+			<coordinates>
+			-76.841424,39.18811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park View Apartments at Snowden River<br/>ID: 40904</description>
+		<Point> 
+			<coordinates>
+			-76.809551,39.199947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patuxent Range Rd / Dorsey Run Rd (Eastbound)<br/>ID: 42022</description>
+		<Point> 
+			<coordinates>
+			-76.792009,39.145708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patuxent Range Rd / Dorsey Run Rd (Westbound)<br/>ID: 40770</description>
+		<Point> 
+			<coordinates>
+			-76.792342,39.145818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patuxent Woods Dr / Community Resources Campus<br/>ID: 41024</description>
+		<Point> 
+			<coordinates>
+			-76.852138,39.17709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Billow Row<br/>ID: 40773</description>
+		<Point> 
+			<coordinates>
+			-76.82458,39.220597,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Halflight Garth<br/>ID: 40774</description>
+		<Point> 
+			<coordinates>
+			-76.824201,39.221051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / High Tor Hill<br/>ID: 40644</description>
+		<Point> 
+			<coordinates>
+			-76.818753,39.22352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Lightspun Ln<br/>ID: 40688</description>
+		<Point> 
+			<coordinates>
+			-76.821289,39.216091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Sheerock Ct<br/>ID: 40689</description>
+		<Point> 
+			<coordinates>
+			-76.821425,39.216172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Tamar Dr (Northbound)<br/>ID: 40691</description>
+		<Point> 
+			<coordinates>
+			-76.821677,39.213745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Tamar Dr (Southbound)<br/>ID: 40690</description>
+		<Point> 
+			<coordinates>
+			-76.821887,39.213738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Thurso Ct (Northbound)<br/>ID: 40942</description>
+		<Point> 
+			<coordinates>
+			-76.823405,39.218502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps Luck Dr / Thurso Ct (Southbound)<br/>ID: 40943</description>
+		<Point> 
+			<coordinates>
+			-76.823747,39.21859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plumtree Dr / Harrington Dr (Northbound)<br/>ID: 40694</description>
+		<Point> 
+			<coordinates>
+			-76.83571,39.275791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plumtree Dr / Harrington Dr (Southbound)<br/>ID: 40695</description>
+		<Point> 
+			<coordinates>
+			-76.835852,39.275839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plumtree Dr / Joycin Ct (Northbound)<br/>ID: 40696</description>
+		<Point> 
+			<coordinates>
+			-76.836535,39.273269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Plumtree Dr / Joycin Ct (Southbound)<br/>ID: 40697</description>
+		<Point> 
+			<coordinates>
+			-76.836663,39.273355,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quarterstaff Rd / Freetown Rd<br/>ID: 43027</description>
+		<Point> 
+			<coordinates>
+			-76.88112,39.193441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quarterstaff Rd / Martin Rd<br/>ID: 40698</description>
+		<Point> 
+			<coordinates>
+			-76.870983,39.19326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Branch Rd / Rumsey Rd<br/>ID: 40700</description>
+		<Point> 
+			<coordinates>
+			-76.819645,39.231392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Branch Rd East / Old Annapolis Rd<br/>ID: 40702</description>
+		<Point> 
+			<coordinates>
+			-76.819497,39.22764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Branch Rd West / Old Annapolis Rd<br/>ID: 40703</description>
+		<Point> 
+			<coordinates>
+			-76.827062,39.230668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rhode Island Ave / Baltimore Ave (Northbound)<br/>ID: 30137</description>
+		<Point> 
+			<coordinates>
+			-76.915528,39.028953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rhode Island Ave / Baltimore Ave (Southbound)<br/>ID: 30138</description>
+		<Point> 
+			<coordinates>
+			-76.91581,39.028763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridge Rd / Ellicott Center Dr (Eastbound)<br/>ID: 40707</description>
+		<Point> 
+			<coordinates>
+			-76.813915,39.277571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridge Rd / Ellicott Center Dr (Westbound)<br/>ID: 40706</description>
+		<Point> 
+			<coordinates>
+			-76.814468,39.277954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robert Fulton Dr / 8671 (Eastbound)<br/>ID: 40947</description>
+		<Point> 
+			<coordinates>
+			-76.813113,39.175884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robert Fulton Dr / 8671 (Westbound)<br/>ID: 40948</description>
+		<Point> 
+			<coordinates>
+			-76.812706,39.175922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robert Fulton Dr / Lee Deforest Dr (Eastbound)<br/>ID: 40713</description>
+		<Point> 
+			<coordinates>
+			-76.81832,39.176005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robert Fulton Dr / Lee Deforest Dr (Westbound)<br/>ID: 40714</description>
+		<Point> 
+			<coordinates>
+			-76.817719,39.176024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rogers Ave / Baltimore National Pike (Northbound)<br/>ID: 40715</description>
+		<Point> 
+			<coordinates>
+			-76.809671,39.282024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rogers Ave / Baltimore National Pike (Southbound)<br/>ID: 40716</description>
+		<Point> 
+			<coordinates>
+			-76.809847,39.281872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rogers Ave / Ellicott Center Dr<br/>ID: 42023</description>
+		<Point> 
+			<coordinates>
+			-76.808761,39.2799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rogers Ave / Oak West Dr<br/>ID: 40939</description>
+		<Point> 
+			<coordinates>
+			-76.808505,39.279814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 197 Park &amp; Ride<br/>ID: 30139</description>
+		<Point> 
+			<coordinates>
+			-76.847031,39.078295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowanberry Dr / Bayberry Ct<br/>ID: 43033</description>
+		<Point> 
+			<coordinates>
+			-76.735042,39.205936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowanberry Dr / Elkridge Library (Northbound)<br/>ID: 40541</description>
+		<Point> 
+			<coordinates>
+			-76.735369,39.202063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowanberry Dr / Elkridge Library (Southbound)<br/>ID: 40580</description>
+		<Point> 
+			<coordinates>
+			-76.735478,39.20192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowanberry Dr / Greenfield Rd<br/>ID: 40718</description>
+		<Point> 
+			<coordinates>
+			-76.734148,39.207516,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowanberry Dr / Montgomery Rd<br/>ID: 40719</description>
+		<Point> 
+			<coordinates>
+			-76.736625,39.210453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowanberry Dr / Orchard Club Dr<br/>ID: 40720</description>
+		<Point> 
+			<coordinates>
+			-76.734867,39.205862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sandy Spring Rd / Westview Terrace<br/>ID: 30135</description>
+		<Point> 
+			<coordinates>
+			-76.86376,39.105926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage Guilford Rd / Baltimore St (Northbound)<br/>ID: 40139</description>
+		<Point> 
+			<coordinates>
+			-76.824051,39.138237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage Guilford Rd / Baltimore St (Southbound)<br/>ID: 42024</description>
+		<Point> 
+			<coordinates>
+			-76.824191,39.138203,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage Guilford Rd / Lincoln St (Northbound)<br/>ID: 40196</description>
+		<Point> 
+			<coordinates>
+			-76.824442,39.14048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage Guilford Rd / Lincoln St (Southbound)<br/>ID: 40140</description>
+		<Point> 
+			<coordinates>
+			-76.824626,39.140639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage Guilford Rd / Patuxent Valley Middle School (Northbound)<br/>ID: 42025</description>
+		<Point> 
+			<coordinates>
+			-76.826806,39.147573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage Guilford Rd / Patuxent Valley Middle School (Southbound)<br/>ID: 42026</description>
+		<Point> 
+			<coordinates>
+			-76.826957,39.147518,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Savage MARC Station<br/>ID: 42027</description>
+		<Point> 
+			<coordinates>
+			-76.796009,39.123801,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Selborne House of Dorsey Hall<br/>ID: 40573</description>
+		<Point> 
+			<coordinates>
+			-76.832014,39.246768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / Atholton Shopping Center (Northbound)<br/>ID: 40522</description>
+		<Point> 
+			<coordinates>
+			-76.871352,39.184986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / Atholton Shopping Center (Southbound)<br/>ID: 40517</description>
+		<Point> 
+			<coordinates>
+			-76.871668,39.18471,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / Cape Ann Dr (Eastbound)<br/>ID: 40518</description>
+		<Point> 
+			<coordinates>
+			-76.867587,39.179772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / Cape Ann Dr (Westbound)<br/>ID: 40521</description>
+		<Point> 
+			<coordinates>
+			-76.867704,39.17992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / Seneca Farm Rd (Northbound)<br/>ID: 40928</description>
+		<Point> 
+			<coordinates>
+			-76.868419,39.189473,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / Seneca Farm Rd (Southbound)<br/>ID: 40960</description>
+		<Point> 
+			<coordinates>
+			-76.868619,39.189563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / South Carlinda Ave (Eastbound)<br/>ID: 40520</description>
+		<Point> 
+			<coordinates>
+			-76.859494,39.179413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaker Dr / South Carlinda Ave (Southbound)<br/>ID: 40519</description>
+		<Point> 
+			<coordinates>
+			-76.859582,39.179332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Park &amp; Ride<br/>ID: 40732</description>
+		<Point> 
+			<coordinates>
+			-76.811238,39.192985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Lincoln Tech (Eastbound)<br/>ID: 40981</description>
+		<Point> 
+			<coordinates>
+			-76.837642,39.175729,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Lincoln Tech (Westbound)<br/>ID: 40500</description>
+		<Point> 
+			<coordinates>
+			-76.837598,39.175985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Minstrel Way (Eastbound)<br/>ID: 40508</description>
+		<Point> 
+			<coordinates>
+			-76.845647,39.176917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Minstrel Way (Westbound)<br/>ID: 40501</description>
+		<Point> 
+			<coordinates>
+			-76.844355,39.176808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Oakland Mills Rd (Eastbound)<br/>ID: 40510</description>
+		<Point> 
+			<coordinates>
+			-76.828484,39.178695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Oakland Mills Rd (Westbound)<br/>ID: 42498</description>
+		<Point> 
+			<coordinates>
+			-76.828578,39.178979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Rustling Leaf (Eastbound)<br/>ID: 40509</description>
+		<Point> 
+			<coordinates>
+			-76.832548,39.176783,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden River Pkwy / Rustling Leaf (Westbound)<br/>ID: 40499</description>
+		<Point> 
+			<coordinates>
+			-76.832287,39.177278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden Square (Eastbound)<br/>ID: 40937</description>
+		<Point> 
+			<coordinates>
+			-76.817716,39.182476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden Square (Westbound)<br/>ID: 40925</description>
+		<Point> 
+			<coordinates>
+			-76.817636,39.182622,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden Square / Regal UA Cinema (Northbound)<br/>ID: 42028</description>
+		<Point> 
+			<coordinates>
+			-76.820039,39.178642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Snowden Square / Regal UA Cinema (Southbound)<br/>ID: 40733</description>
+		<Point> 
+			<coordinates>
+			-76.819973,39.178893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Laurel Dr / Laurel Bowie Rd (Northbound)<br/>ID: 30140</description>
+		<Point> 
+			<coordinates>
+			-76.836777,39.051333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Laurel Dr / Laurel Bowie Rd (Southbound)<br/>ID: 30141</description>
+		<Point> 
+			<coordinates>
+			-76.837204,39.051143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Laurel Dr / Laurelwalk Dr<br/>ID: 30142</description>
+		<Point> 
+			<coordinates>
+			-76.837696,39.046229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Laurel Dr / Tabernacle Church of Laurel<br/>ID: 30143</description>
+		<Point> 
+			<coordinates>
+			-76.837852,39.048545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / Lakeside Retail Center<br/>ID: 40710</description>
+		<Point> 
+			<coordinates>
+			-76.818088,39.191676,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / McGaw Rd (Northbound)<br/>ID: 41000</description>
+		<Point> 
+			<coordinates>
+			-76.81876,39.18718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / McGaw Rd (Southbound)<br/>ID: 42029</description>
+		<Point> 
+			<coordinates>
+			-76.818894,39.187439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / Stanford Boulevard Cir (Eastbound)<br/>ID: 40946</description>
+		<Point> 
+			<coordinates>
+			-76.817061,39.191635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / Stanford Boulevard Cir (Westbound)<br/>ID: 40945</description>
+		<Point> 
+			<coordinates>
+			-76.817057,39.191736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / University of Phoenix (Northbound)<br/>ID: 43028</description>
+		<Point> 
+			<coordinates>
+			-76.817168,39.189829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanford Blvd / University of Phoenix (Southbound)<br/>ID: 43029</description>
+		<Point> 
+			<coordinates>
+			-76.817332,39.189922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stayton Dr / Patuxent Range Rd (Northbound)<br/>ID: 42030</description>
+		<Point> 
+			<coordinates>
+			-76.799684,39.148397,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stayton Dr / Patuxent Range Rd (Southbound)<br/>ID: 42031</description>
+		<Point> 
+			<coordinates>
+			-76.799773,39.148542,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stayton Dr / Sandy Ct (Northbound)<br/>ID: 42032</description>
+		<Point> 
+			<coordinates>
+			-76.8051,39.143331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stayton Dr / Sandy Ct (Southbound)<br/>ID: 42033</description>
+		<Point> 
+			<coordinates>
+			-76.805153,39.143472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stayton Dr / Wellmoor Ct (Northbound)<br/>ID: 42034</description>
+		<Point> 
+			<coordinates>
+			-76.801808,39.146229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stayton Dr / Wellmoor Ct (Southbound)<br/>ID: 42035</description>
+		<Point> 
+			<coordinates>
+			-76.801921,39.146345,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stephens Rd / Boundless Shade Terrace<br/>ID: 40495</description>
+		<Point> 
+			<coordinates>
+			-76.845676,39.128093,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stephens Rd / Hammonds Overlook Ct<br/>ID: 40494</description>
+		<Point> 
+			<coordinates>
+			-76.845475,39.128098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stevens Forest Rd / Camelback Ln<br/>ID: 40741</description>
+		<Point> 
+			<coordinates>
+			-76.847973,39.208347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stevens Forest Rd / Jacobs Ladder<br/>ID: 40743</description>
+		<Point> 
+			<coordinates>
+			-76.847674,39.206709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stevens Forest Rd / Kilimanjaro Rd<br/>ID: 40744</description>
+		<Point> 
+			<coordinates>
+			-76.847028,39.206077,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stevens Forest Rd / Santiago Rd<br/>ID: 40742</description>
+		<Point> 
+			<coordinates>
+			-76.847795,39.208491,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Bright Plume<br/>ID: 40746</description>
+		<Point> 
+			<coordinates>
+			-76.882516,39.204985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Hickory Ridge Rd (Northbound)<br/>ID: 40631</description>
+		<Point> 
+			<coordinates>
+			-76.884839,39.210526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Hickory Ridge Rd (Southbound)<br/>ID: 40632</description>
+		<Point> 
+			<coordinates>
+			-76.884978,39.210638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Misty Arch Run (Northbound)<br/>ID: 42036</description>
+		<Point> 
+			<coordinates>
+			-76.884742,39.207728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Misty Arch Run (Southbound)<br/>ID: 42037</description>
+		<Point> 
+			<coordinates>
+			-76.88492,39.208006,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Owen Brown Rd (Northbound)<br/>ID: 40749</description>
+		<Point> 
+			<coordinates>
+			-76.882305,39.199209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Owen Brown Rd (Southbound)<br/>ID: 40750</description>
+		<Point> 
+			<coordinates>
+			-76.882421,39.199161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Spring / Slender Sky<br/>ID: 40747</description>
+		<Point> 
+			<coordinates>
+			-76.882068,39.204756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunnyside Ave / Rhode Island Ave (Eastbound)<br/>ID: 30144</description>
+		<Point> 
+			<coordinates>
+			-76.915091,39.024405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunnyside Ave / Rhode Island Ave (Westbound)<br/>ID: 30145</description>
+		<Point> 
+			<coordinates>
+			-76.914979,39.024549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunnyside Ave / Tucker St (Eastbound)<br/>ID: 30146</description>
+		<Point> 
+			<coordinates>
+			-76.909516,39.023084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunnyside Ave / Tucker St (Westbound)<br/>ID: 30147</description>
+		<Point> 
+			<coordinates>
+			-76.909254,39.023251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Cloudleap Ct (Eastbound)<br/>ID: 40753</description>
+		<Point> 
+			<coordinates>
+			-76.815298,39.208275,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Cloudleap Ct (Westbound)<br/>ID: 41022</description>
+		<Point> 
+			<coordinates>
+			-76.815024,39.208323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Flamepool Way (Northbound)<br/>ID: 40755</description>
+		<Point> 
+			<coordinates>
+			-76.823908,39.210708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Flamepool Way (Southbound)<br/>ID: 40756</description>
+		<Point> 
+			<coordinates>
+			-76.824134,39.210669,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Hayshed Ln (Northbound)<br/>ID: 40752</description>
+		<Point> 
+			<coordinates>
+			-76.815808,39.209857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Hayshed Ln (Southbound)<br/>ID: 40751</description>
+		<Point> 
+			<coordinates>
+			-76.815937,39.209572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / High Tor Hill (Eastbound)<br/>ID: 40648</description>
+		<Point> 
+			<coordinates>
+			-76.817046,39.21217,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / High Tor Hill (Westbound)<br/>ID: 40647</description>
+		<Point> 
+			<coordinates>
+			-76.816913,39.212291,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Old Dobbin Ln (Eastbound)<br/>ID: 40914</description>
+		<Point> 
+			<coordinates>
+			-76.812016,39.207189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Old Dobbin Ln (Westbound)<br/>ID: 40915</description>
+		<Point> 
+			<coordinates>
+			-76.812011,39.20732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Phelps Luck Dr (Eastbound)<br/>ID: 40693</description>
+		<Point> 
+			<coordinates>
+			-76.822034,39.213205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Phelps Luck Dr (Westbound)<br/>ID: 40692</description>
+		<Point> 
+			<coordinates>
+			-76.822125,39.21334,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Snowden River Pkwy (Eastbound)<br/>ID: 40916</description>
+		<Point> 
+			<coordinates>
+			-76.807439,39.207284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamar Dr / Snowden River Pkwy (Westbound)<br/>ID: 40913</description>
+		<Point> 
+			<coordinates>
+			-76.807637,39.207469,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / Longlook Ln (Northbound)<br/>ID: 40758</description>
+		<Point> 
+			<coordinates>
+			-76.840445,39.215251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / Longlook Ln (Southbound)<br/>ID: 40757</description>
+		<Point> 
+			<coordinates>
+			-76.840545,39.215403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / Mirrorlight Pl<br/>ID: 40961</description>
+		<Point> 
+			<coordinates>
+			-76.840727,39.217564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / Oakland Mills Rd<br/>ID: 40759</description>
+		<Point> 
+			<coordinates>
+			-76.840449,39.218417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / Timesweep Ln<br/>ID: 40795</description>
+		<Point> 
+			<coordinates>
+			-76.841406,39.212223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / Twin Knolls Rd<br/>ID: 40760</description>
+		<Point> 
+			<coordinates>
+			-76.840088,39.219151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thunder Hill Rd / White Acre Rd<br/>ID: 40796</description>
+		<Point> 
+			<coordinates>
+			-76.841745,39.211842,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Toll House Rd / Manahan Dr (Northbound)<br/>ID: 40800</description>
+		<Point> 
+			<coordinates>
+			-76.818358,39.265998,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Toll House Rd / Manahan Dr (Southbound)<br/>ID: 40799</description>
+		<Point> 
+			<coordinates>
+			-76.818528,39.266054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Toll House Rd / Old Columbia Pike (Northbound)<br/>ID: 40801</description>
+		<Point> 
+			<coordinates>
+			-76.81814,39.257537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Toll House Rd / Old Columbia Pike (Southbound)<br/>ID: 40802</description>
+		<Point> 
+			<coordinates>
+			-76.818281,39.257458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town and Country Blvd / North Ridge Rd (Eastbound)<br/>ID: 40972</description>
+		<Point> 
+			<coordinates>
+			-76.819824,39.287112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town and Country Blvd / North Ridge Rd (Westbound)<br/>ID: 40806</description>
+		<Point> 
+			<coordinates>
+			-76.819949,39.287247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town and Country Blvd / Rogers Ave (Eastbound)<br/>ID: 40805</description>
+		<Point> 
+			<coordinates>
+			-76.811196,39.287063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town and Country Blvd / Rogers Ave (Westbound)<br/>ID: 40803</description>
+		<Point> 
+			<coordinates>
+			-76.811177,39.287191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town and Country Blvd / West Springs Dr (Eastbound)<br/>ID: 40971</description>
+		<Point> 
+			<coordinates>
+			-76.815861,39.287031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town and Country Blvd / West Springs Dr (Westbound)<br/>ID: 40807</description>
+		<Point> 
+			<coordinates>
+			-76.816255,39.28718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Towne Centre Laurel<br/>ID: 30000</description>
+		<Point> 
+			<coordinates>
+			-76.859126,39.094751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Twin Rivers Rd / Harpers Farm Rd (Eastbound)<br/>ID: 40814</description>
+		<Point> 
+			<coordinates>
+			-76.879444,39.219519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Twin Rivers Rd / Harpers Farm Rd (Westbound)<br/>ID: 40811</description>
+		<Point> 
+			<coordinates>
+			-76.87943,39.219702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Twin Rivers Rd / Trumpeter Rd (Eastbound)<br/>ID: 42814</description>
+		<Point> 
+			<coordinates>
+			-76.870305,39.219152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Twin Rivers Rd / Trumpeter Rd (Westbound)<br/>ID: 40813</description>
+		<Point> 
+			<coordinates>
+			-76.870163,39.219263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / Alan Dr<br/>ID: 30149</description>
+		<Point> 
+			<coordinates>
+			-76.872361,39.0992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / Cherry Ln (Northbound)<br/>ID: 30150</description>
+		<Point> 
+			<coordinates>
+			-76.875614,39.094012,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / Cherry Ln (Southbound)<br/>ID: 30151</description>
+		<Point> 
+			<coordinates>
+			-76.875879,39.09385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / Erica Ln<br/>ID: 30152</description>
+		<Point> 
+			<coordinates>
+			-76.874325,39.096918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / Killbarron Dr<br/>ID: 30153</description>
+		<Point> 
+			<coordinates>
+			-76.876744,39.08894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / Olive Branch Way<br/>ID: 30154</description>
+		<Point> 
+			<coordinates>
+			-76.876606,39.089587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / UM Laurel Medical Center (Northbound)<br/>ID: 30172</description>
+		<Point> 
+			<coordinates>
+			-76.87976,39.086041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Dusen Rd / UM Laurel Medical Center (Southbound)<br/>ID: 30171</description>
+		<Point> 
+			<coordinates>
+			-76.87958,39.086465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vollmerhausen Rd / Birchwood Way<br/>ID: 40837</description>
+		<Point> 
+			<coordinates>
+			-76.818205,39.149278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vollmerhausen Rd / Castleford Dr<br/>ID: 40142</description>
+		<Point> 
+			<coordinates>
+			-76.82045,39.148593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vollmerhausen Rd / Rosewood Way<br/>ID: 40194</description>
+		<Point> 
+			<coordinates>
+			-76.82057,39.148715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vollmerhausen Rd / Willowwood Way<br/>ID: 40838</description>
+		<Point> 
+			<coordinates>
+			-76.818418,39.149038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walmart at Ellicott City<br/>ID: 40841</description>
+		<Point> 
+			<coordinates>
+			-76.821557,39.282252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walmart at Russett Green East - Laurel<br/>ID: 20231</description>
+		<Point> 
+			<coordinates>
+			-76.802691,39.100986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Blue Stream Dr (Northbound)<br/>ID: 40816</description>
+		<Point> 
+			<coordinates>
+			-76.7742,39.176784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Blue Stream Dr (Southbound)<br/>ID: 40834</description>
+		<Point> 
+			<coordinates>
+			-76.774516,39.176886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Bowie Rd<br/>ID: 30155</description>
+		<Point> 
+			<coordinates>
+			-76.850563,39.097559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Brewers Ct (Northbound)<br/>ID: 40103</description>
+		<Point> 
+			<coordinates>
+			-76.833057,39.114461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Brewers Ct (Southbound)<br/>ID: 40209</description>
+		<Point> 
+			<coordinates>
+			-76.83331,39.114651,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Cedar Ave<br/>ID: 40820</description>
+		<Point> 
+			<coordinates>
+			-76.789443,39.167596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Compton Ave<br/>ID: 30156</description>
+		<Point> 
+			<coordinates>
+			-76.849088,39.09894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Cooney Ln (Northbound)<br/>ID: 40988</description>
+		<Point> 
+			<coordinates>
+			-76.766538,39.181911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Cooney Ln (Southbound)<br/>ID: 40819</description>
+		<Point> 
+			<coordinates>
+			-76.765583,39.182885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Corridor Rd<br/>ID: 40966</description>
+		<Point> 
+			<coordinates>
+			-76.814726,39.135391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Country Meadows Apartments<br/>ID: 40208</description>
+		<Point> 
+			<coordinates>
+			-76.829138,39.118947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Dorsey Rd<br/>ID: 40829</description>
+		<Point> 
+			<coordinates>
+			-76.763988,39.183621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Ducketts Ln<br/>ID: 40984</description>
+		<Point> 
+			<coordinates>
+			-76.742896,39.196923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Elkridge Corners Shopping Center<br/>ID: 43030</description>
+		<Point> 
+			<coordinates>
+			-76.727883,39.206682,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Fleming St<br/>ID: 40987</description>
+		<Point> 
+			<coordinates>
+			-76.792968,39.162764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Freestate Dr (Northbound)<br/>ID: 40130</description>
+		<Point> 
+			<coordinates>
+			-76.822046,39.126886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Freestate Dr (Southbound)<br/>ID: 40206</description>
+		<Point> 
+			<coordinates>
+			-76.821992,39.127449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Gorman Rd<br/>ID: 40967</description>
+		<Point> 
+			<coordinates>
+			-76.819657,39.130375,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Hill St<br/>ID: 40210</description>
+		<Point> 
+			<coordinates>
+			-76.834316,39.113697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Howard St<br/>ID: 40968</description>
+		<Point> 
+			<coordinates>
+			-76.815907,39.13537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Laurel Ave<br/>ID: 30159</description>
+		<Point> 
+			<coordinates>
+			-76.846543,39.101361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Loudon Ave (Northbound)<br/>ID: 40982</description>
+		<Point> 
+			<coordinates>
+			-76.740118,39.19818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Loudon Ave (Southbound)<br/>ID: 40983</description>
+		<Point> 
+			<coordinates>
+			-76.740295,39.19836,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Lynn Buff Ct<br/>ID: 40207</description>
+		<Point> 
+			<coordinates>
+			-76.825855,39.122531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Madison Ave<br/>ID: 40211</description>
+		<Point> 
+			<coordinates>
+			-76.838869,39.108646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Maier Rd<br/>ID: 40128</description>
+		<Point> 
+			<coordinates>
+			-76.826749,39.121069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Meadowridge Rd<br/>ID: 40830</description>
+		<Point> 
+			<coordinates>
+			-76.764589,39.183581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Mission Place Apartments<br/>ID: 40986</description>
+		<Point> 
+			<coordinates>
+			-76.793302,39.162845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Port Capital Dr (Northbound)<br/>ID: 40832</description>
+		<Point> 
+			<coordinates>
+			-76.778364,39.174568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Port Capital Dr (Southbound)<br/>ID: 40985</description>
+		<Point> 
+			<coordinates>
+			-76.77921,39.17442,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Prince George St<br/>ID: 30160</description>
+		<Point> 
+			<coordinates>
+			-76.844482,39.103303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Savage Industrial Park<br/>ID: 40129</description>
+		<Point> 
+			<coordinates>
+			-76.824284,39.124115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Blvd / Troy Hill Dr<br/>ID: 40808</description>
+		<Point> 
+			<coordinates>
+			-76.74638,39.195139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waterloo Park<br/>ID: 40909</description>
+		<Point> 
+			<coordinates>
+			-76.786661,39.182759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whiskey Bottom Rd / All Saints Rd<br/>ID: 40107</description>
+		<Point> 
+			<coordinates>
+			-76.843111,39.125156,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whiskey Bottom Rd / Glen Ridge Dr<br/>ID: 40105</description>
+		<Point> 
+			<coordinates>
+			-76.837823,39.120452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whiskey Bottom Rd / Harmony Ln<br/>ID: 40491</description>
+		<Point> 
+			<coordinates>
+			-76.841642,39.124322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whiskey Bottom Rd / Manorwood Rd<br/>ID: 42041</description>
+		<Point> 
+			<coordinates>
+			-76.838113,39.120744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whiskey Bottom Rd / Moonshine Hollow<br/>ID: 40106</description>
+		<Point> 
+			<coordinates>
+			-76.841342,39.123762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: White Acre Rd / Basket Ring Dr (Eastbound)<br/>ID: 40797</description>
+		<Point> 
+			<coordinates>
+			-76.845496,39.21206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: White Acre Rd / Basket Ring Dr (Westbound)<br/>ID: 40798</description>
+		<Point> 
+			<coordinates>
+			-76.845694,39.212169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wilde Lake Village Center (Northbound)<br/>ID: 40843</description>
+		<Point> 
+			<coordinates>
+			-76.875821,39.219898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wilde Lake Village Center (Southbound)<br/>ID: 42042</description>
+		<Point> 
+			<coordinates>
+			-76.875985,39.2199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windstream Dr / Mall in Columbia (Northbound)<br/>ID: 40815</description>
+		<Point> 
+			<coordinates>
+			-76.861096,39.219407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windstream Dr / Mall in Columbia (Southbound)<br/>ID: 40675</description>
+		<Point> 
+			<coordinates>
+			-76.861396,39.219343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodside Ct / Humanim<br/>ID: 40173</description>
+		<Point> 
+			<coordinates>
+			-76.852446,39.193577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodside Ct / Stevens Forest Rd<br/>ID: 40164</description>
+		<Point> 
+			<coordinates>
+			-76.853318,39.196823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodside Ct / VEIP Facility<br/>ID: 43042</description>
+		<Point> 
+			<coordinates>
+			-76.853247,39.194694,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

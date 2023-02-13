@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ct-norwalk routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>10-20-westport</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ct-norwalk<br/>EDI: 1.05</description>
+		<LineString> 
+			<coordinates>
+			-73.421165,41.096634,0
+			-73.423721,41.15514,0
+			-73.421539,41.15992,0
+			-73.416374,41.168388,0
+			-73.41227,41.18021,0
+			-73.420593,41.185055,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

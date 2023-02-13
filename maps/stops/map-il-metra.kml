@@ -1,0 +1,2174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>il-metra stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 18th St.<br/>ID: 18th-up</description>
+		<Point> 
+			<coordinates>
+			-87.618056,41.858333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 27th St.<br/>ID: 27th-up</description>
+		<Point> 
+			<coordinates>
+			-87.613333,41.844167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 35th St. - Lou Jones<br/>ID: 35th</description>
+		<Point> 
+			<coordinates>
+			-87.629167,41.831389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 47th St. (Kenwood)<br/>ID: 47th-up</description>
+		<Point> 
+			<coordinates>
+			-87.591389,41.809722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 51st/53rd St. (Hyde Park)<br/>ID: 51st-53rd</description>
+		<Point> 
+			<coordinates>
+			-87.586944,41.8,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 55th - 56th - 57th St.<br/>ID: 55-56-57th</description>
+		<Point> 
+			<coordinates>
+			-87.5875,41.793333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 59th St. (U. of Chicago)<br/>ID: 59th-up</description>
+		<Point> 
+			<coordinates>
+			-87.588611,41.788056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 63rd St.<br/>ID: 63rd-up</description>
+		<Point> 
+			<coordinates>
+			-87.590556,41.780278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 75th St. (Grand Crossing)<br/>ID: 75th-up</description>
+		<Point> 
+			<coordinates>
+			-87.595278,41.758889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 79th St. (Chatham)<br/>ID: 79th-up</description>
+		<Point> 
+			<coordinates>
+			-87.597222,41.750833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 83rd St.<br/>ID: 83rd-sc</description>
+		<Point> 
+			<coordinates>
+			-87.551667,41.745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 83rd St. (Avalon Park)<br/>ID: 83rd-up</description>
+		<Point> 
+			<coordinates>
+			-87.598611,41.744167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 87th St.<br/>ID: 87th-sc</description>
+		<Point> 
+			<coordinates>
+			-87.548333,41.737778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 87th St. (Woodruff)<br/>ID: 87th-up</description>
+		<Point> 
+			<coordinates>
+			-87.600278,41.736944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 91st St.<br/>ID: 91st-up</description>
+		<Point> 
+			<coordinates>
+			-87.601944,41.729444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 91st St. - Beverly Hills<br/>ID: 91st-bev</description>
+		<Point> 
+			<coordinates>
+			-87.667222,41.728056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 95th St.<br/>ID: 95th-up</description>
+		<Point> 
+			<coordinates>
+			-87.603889,41.721944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 95th St. - Beverly Hills<br/>ID: 95th-bev</description>
+		<Point> 
+			<coordinates>
+			-87.667222,41.721389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 95th St. - Longwood<br/>ID: longwood</description>
+		<Point> 
+			<coordinates>
+			-87.650278,41.721111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 99th St. - Beverly Hills<br/>ID: 99th-bev</description>
+		<Point> 
+			<coordinates>
+			-87.6675,41.713611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 103rd St. (Rosemoor)<br/>ID: 103rd-up</description>
+		<Point> 
+			<coordinates>
+			-87.607222,41.706944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 103rd St. - Beverly Hills<br/>ID: 103rd-bev</description>
+		<Point> 
+			<coordinates>
+			-87.668889,41.706111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 103rd St. - Washington Hts.<br/>ID: washhgts</description>
+		<Point> 
+			<coordinates>
+			-87.655833,41.705556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 107th St.<br/>ID: 107th-up</description>
+		<Point> 
+			<coordinates>
+			-87.608889,41.699722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 107th St. - Beverly Hills<br/>ID: 107th-bev</description>
+		<Point> 
+			<coordinates>
+			-87.67,41.698889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 111th St. (Pullman)<br/>ID: 111th-up</description>
+		<Point> 
+			<coordinates>
+			-87.610556,41.692778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 111th St. - Morgan Park<br/>ID: 111th-bev</description>
+		<Point> 
+			<coordinates>
+			-87.670556,41.692778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 115th St. - Morgan Park<br/>ID: 115th-bev</description>
+		<Point> 
+			<coordinates>
+			-87.671667,41.685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 119th St.<br/>ID: 119th-bev</description>
+		<Point> 
+			<coordinates>
+			-87.6725,41.676389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 123rd St.<br/>ID: 123rd-bev</description>
+		<Point> 
+			<coordinates>
+			-87.673611,41.67,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 147th St.<br/>ID: 147th-up</description>
+		<Point> 
+			<coordinates>
+			-87.636111,41.622778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 211th St.<br/>ID: 211th-up</description>
+		<Point> 
+			<coordinates>
+			-87.698333,41.506111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Antioch<br/>ID: antioch</description>
+		<Point> 
+			<coordinates>
+			-88.0925,42.481111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Heights<br/>ID: arlingtnht</description>
+		<Point> 
+			<coordinates>
+			-87.983611,42.084167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Park<br/>ID: arlingtnpk</description>
+		<Point> 
+			<coordinates>
+			-88.009167,42.095278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashburn<br/>ID: ashburn</description>
+		<Point> 
+			<coordinates>
+			-87.7125,41.741667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashland<br/>ID: ashland</description>
+		<Point> 
+			<coordinates>
+			-87.660556,41.669444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Aurora<br/>ID: aurora</description>
+		<Point> 
+			<coordinates>
+			-88.308333,41.760833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barrington<br/>ID: barrington</description>
+		<Point> 
+			<coordinates>
+			-88.131944,42.152778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bartlett<br/>ID: bartlett</description>
+		<Point> 
+			<coordinates>
+			-88.183889,41.992222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellwood<br/>ID: bellwood</description>
+		<Point> 
+			<coordinates>
+			-87.8825,41.891389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Belmont<br/>ID: belmont</description>
+		<Point> 
+			<coordinates>
+			-88.038056,41.795278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bensenville<br/>ID: bensenvil</description>
+		<Point> 
+			<coordinates>
+			-87.941944,41.956944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Berkeley<br/>ID: berkeley</description>
+		<Point> 
+			<coordinates>
+			-87.915278,41.896111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Berwyn<br/>ID: berwyn</description>
+		<Point> 
+			<coordinates>
+			-87.793611,41.833056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Timber<br/>ID: bigtimber</description>
+		<Point> 
+			<coordinates>
+			-88.327778,42.058611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Blue Island<br/>ID: blueisland</description>
+		<Point> 
+			<coordinates>
+			-87.675833,41.656111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Blue Island-Vermont<br/>ID: vermont</description>
+		<Point> 
+			<coordinates>
+			-87.677778,41.654722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Braeside<br/>ID: braeside</description>
+		<Point> 
+			<coordinates>
+			-87.7725,42.152778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brainerd<br/>ID: brainerd</description>
+		<Point> 
+			<coordinates>
+			-87.658889,41.732222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brookfield<br/>ID: brookfield</description>
+		<Point> 
+			<coordinates>
+			-87.843056,41.821944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bryn Mawr<br/>ID: brynmawr</description>
+		<Point> 
+			<coordinates>
+			-87.576667,41.766111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Buffalo Grove<br/>ID: buffgrove</description>
+		<Point> 
+			<coordinates>
+			-87.941389,42.168611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burr Oak<br/>ID: burroak</description>
+		<Point> 
+			<coordinates>
+			-87.668889,41.662222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calumet<br/>ID: calumet</description>
+		<Point> 
+			<coordinates>
+			-87.6625,41.573611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cary<br/>ID: cary</description>
+		<Point> 
+			<coordinates>
+			-88.241389,42.208889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Central St.<br/>ID: centralst</description>
+		<Point> 
+			<coordinates>
+			-87.698056,42.064167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cheltenham (79th St.)<br/>ID: 79th-sc</description>
+		<Point> 
+			<coordinates>
+			-87.5525,41.752222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chicago OTC<br/>ID: otc</description>
+		<Point> 
+			<coordinates>
+			-87.640556,41.882222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chicago Ridge<br/>ID: chicridge</description>
+		<Point> 
+			<coordinates>
+			-87.780278,41.703333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chicago Union Station<br/>ID: cus</description>
+		<Point> 
+			<coordinates>
+			-87.638889,41.878889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cicero<br/>ID: cicero</description>
+		<Point> 
+			<coordinates>
+			-87.745556,41.844167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clarendon Hills<br/>ID: clarndnhil</description>
+		<Point> 
+			<coordinates>
+			-87.953611,41.796944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clybourn<br/>ID: clybourn</description>
+		<Point> 
+			<coordinates>
+			-87.668056,41.916944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Ave<br/>ID: collegeave</description>
+		<Point> 
+			<coordinates>
+			-88.090278,41.868333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Congress Park<br/>ID: congresspk</description>
+		<Point> 
+			<coordinates>
+			-87.8575,41.818889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crystal Lake<br/>ID: crystal</description>
+		<Point> 
+			<coordinates>
+			-88.317222,42.244167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cumberland<br/>ID: cumberland</description>
+		<Point> 
+			<coordinates>
+			-87.912222,42.0525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dee Road<br/>ID: deeroad</description>
+		<Point> 
+			<coordinates>
+			-87.856111,42.024167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield<br/>ID: deerfield</description>
+		<Point> 
+			<coordinates>
+			-87.85,42.168056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Des Plaines<br/>ID: desplaines</description>
+		<Point> 
+			<coordinates>
+			-87.886667,42.040833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Downers Grove<br/>ID: mainst-dg</description>
+		<Point> 
+			<coordinates>
+			-88.009722,41.795278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edgebrook<br/>ID: edgebrook</description>
+		<Point> 
+			<coordinates>
+			-87.765556,41.997778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edison Park<br/>ID: edisonpk</description>
+		<Point> 
+			<coordinates>
+			-87.8175,42.002222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elburn<br/>ID: elburn</description>
+		<Point> 
+			<coordinates>
+			-88.463889,41.890556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elgin<br/>ID: elgin</description>
+		<Point> 
+			<coordinates>
+			-88.286111,42.036111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elmhurst<br/>ID: elmhurst</description>
+		<Point> 
+			<coordinates>
+			-87.940833,41.899722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elmwood Park<br/>ID: elmwoodpk</description>
+		<Point> 
+			<coordinates>
+			-87.814722,41.924722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Evanston (Davis St.)<br/>ID: evanston</description>
+		<Point> 
+			<coordinates>
+			-87.684722,42.048056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairview Ave.<br/>ID: fairviewdg</description>
+		<Point> 
+			<coordinates>
+			-87.993611,41.795278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Flossmoor<br/>ID: flossmoor</description>
+		<Point> 
+			<coordinates>
+			-87.678611,41.543056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Forest Glen<br/>ID: forestglen</description>
+		<Point> 
+			<coordinates>
+			-87.755556,41.978056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Sheridan<br/>ID: ftsheridan</description>
+		<Point> 
+			<coordinates>
+			-87.820833,42.2175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fox Lake<br/>ID: foxlake</description>
+		<Point> 
+			<coordinates>
+			-88.182222,42.398333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fox River Grove<br/>ID: foxrg</description>
+		<Point> 
+			<coordinates>
+			-88.219444,42.197778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Park<br/>ID: franklin</description>
+		<Point> 
+			<coordinates>
+			-87.866389,41.936667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Pk<br/>ID: franklinpk</description>
+		<Point> 
+			<coordinates>
+			-87.86,41.937778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Galewood<br/>ID: galewood</description>
+		<Point> 
+			<coordinates>
+			-87.785833,41.916389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Geneva<br/>ID: geneva</description>
+		<Point> 
+			<coordinates>
+			-88.31,41.881667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gladstone Park<br/>ID: gladstonep</description>
+		<Point> 
+			<coordinates>
+			-87.778056,41.979722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glen Ellyn<br/>ID: glenellyn</description>
+		<Point> 
+			<coordinates>
+			-88.064722,41.876667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glen/N. Glenview<br/>ID: nglenview</description>
+		<Point> 
+			<coordinates>
+			-87.815833,42.0975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glencoe<br/>ID: glencoe</description>
+		<Point> 
+			<coordinates>
+			-87.758056,42.135556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glenview<br/>ID: glenview</description>
+		<Point> 
+			<coordinates>
+			-87.805556,42.075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Golf<br/>ID: golf</description>
+		<Point> 
+			<coordinates>
+			-87.796944,42.058333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand/Cicero<br/>ID: grand-cic</description>
+		<Point> 
+			<coordinates>
+			-87.746111,41.914444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grayland<br/>ID: grayland</description>
+		<Point> 
+			<coordinates>
+			-87.740278,41.948889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grayslake<br/>ID: grayslake</description>
+		<Point> 
+			<coordinates>
+			-88.043333,42.333611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Great Lakes<br/>ID: grtlakes</description>
+		<Point> 
+			<coordinates>
+			-87.846389,42.306944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gresham<br/>ID: gresham</description>
+		<Point> 
+			<coordinates>
+			-87.644722,41.736389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Halsted Street<br/>ID: halsted</description>
+		<Point> 
+			<coordinates>
+			-87.647222,41.860278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hanover Park<br/>ID: hanoverp</description>
+		<Point> 
+			<coordinates>
+			-88.149167,41.988056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hanson Park<br/>ID: hansonpk</description>
+		<Point> 
+			<coordinates>
+			-87.766944,41.916667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harlem Ave.<br/>ID: harlem</description>
+		<Point> 
+			<coordinates>
+			-87.801944,41.831389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harvard<br/>ID: harvard</description>
+		<Point> 
+			<coordinates>
+			-88.6175,42.419722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harvey<br/>ID: harvey</description>
+		<Point> 
+			<coordinates>
+			-87.643889,41.608333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hazel Crest<br/>ID: hazelcrest</description>
+		<Point> 
+			<coordinates>
+			-87.658611,41.580833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Healy<br/>ID: healy</description>
+		<Point> 
+			<coordinates>
+			-87.727778,41.924722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hickory Creek<br/>ID: hickorycrk</description>
+		<Point> 
+			<coordinates>
+			-87.845556,41.548611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland Park<br/>ID: highlandpk</description>
+		<Point> 
+			<coordinates>
+			-87.7975,42.183333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highlands<br/>ID: highlands</description>
+		<Point> 
+			<coordinates>
+			-87.918333,41.805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highwood<br/>ID: highwood</description>
+		<Point> 
+			<coordinates>
+			-87.810556,42.203333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hinsdale<br/>ID: hinsdale</description>
+		<Point> 
+			<coordinates>
+			-87.928333,41.802778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hollywood<br/>ID: hollywood</description>
+		<Point> 
+			<coordinates>
+			-87.833889,41.824444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homewood<br/>ID: homewood</description>
+		<Point> 
+			<coordinates>
+			-87.668611,41.562222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hubbard Woods<br/>ID: hubardwood</description>
+		<Point> 
+			<coordinates>
+			-87.743611,42.118056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Indian Hill<br/>ID: indianhill</description>
+		<Point> 
+			<coordinates>
+			-87.723889,42.094444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ingleside<br/>ID: ingleside</description>
+		<Point> 
+			<coordinates>
+			-88.153611,42.383889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Irving Park<br/>ID: irvingpk</description>
+		<Point> 
+			<coordinates>
+			-87.729722,41.9525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Itasca<br/>ID: itasca</description>
+		<Point> 
+			<coordinates>
+			-88.014167,41.971389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ivanhoe<br/>ID: ivanhoe</description>
+		<Point> 
+			<coordinates>
+			-87.630278,41.633333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson Park<br/>ID: jeffersonp</description>
+		<Point> 
+			<coordinates>
+			-87.763333,41.971389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Joliet<br/>ID: joliet</description>
+		<Point> 
+			<coordinates>
+			-88.079722,41.524444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kedzie<br/>ID: kedzie</description>
+		<Point> 
+			<coordinates>
+			-87.706944,41.888333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenilworth<br/>ID: kenilworth</description>
+		<Point> 
+			<coordinates>
+			-87.716667,42.086389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenosha<br/>ID: kenosha</description>
+		<Point> 
+			<coordinates>
+			-87.825833,42.585833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kensington<br/>ID: kensingtn</description>
+		<Point> 
+			<coordinates>
+			-87.612222,41.685833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: La Fox<br/>ID: lafox</description>
+		<Point> 
+			<coordinates>
+			-88.412222,41.886667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: LaGrange Road<br/>ID: lagrange</description>
+		<Point> 
+			<coordinates>
+			-87.871111,41.815833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: LaSalle Street<br/>ID: lss</description>
+		<Point> 
+			<coordinates>
+			-87.632222,41.876389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Bluff<br/>ID: lakebluff</description>
+		<Point> 
+			<coordinates>
+			-87.846667,42.279722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Forest<br/>ID: lakefrst</description>
+		<Point> 
+			<coordinates>
+			-87.874722,42.223611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Forest.<br/>ID: lkforest</description>
+		<Point> 
+			<coordinates>
+			-87.839722,42.2525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Villa<br/>ID: lakevilla</description>
+		<Point> 
+			<coordinates>
+			-88.079444,42.4175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake-Cook<br/>ID: lakecookrd</description>
+		<Point> 
+			<coordinates>
+			-87.841389,42.151667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laraway Road<br/>ID: laraway</description>
+		<Point> 
+			<coordinates>
+			-87.959722,41.484722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lavergne<br/>ID: lavergne</description>
+		<Point> 
+			<coordinates>
+			-87.783333,41.835556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lemont<br/>ID: lemont</description>
+		<Point> 
+			<coordinates>
+			-88.0025,41.673611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Libertyville<br/>ID: libertyvil</description>
+		<Point> 
+			<coordinates>
+			-87.956389,42.291111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lisle<br/>ID: lisle</description>
+		<Point> 
+			<coordinates>
+			-88.071944,41.797778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lockport<br/>ID: lockport</description>
+		<Point> 
+			<coordinates>
+			-88.060278,41.585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lombard<br/>ID: lombard</description>
+		<Point> 
+			<coordinates>
+			-88.018611,41.886667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Lake<br/>ID: longlake</description>
+		<Point> 
+			<coordinates>
+			-88.128056,42.368056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St.<br/>ID: mainst</description>
+		<Point> 
+			<coordinates>
+			-87.68,42.033333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manhattan<br/>ID: manhattan</description>
+		<Point> 
+			<coordinates>
+			-87.989167,41.418333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mannheim<br/>ID: mannheim</description>
+		<Point> 
+			<coordinates>
+			-87.883333,41.941667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mars<br/>ID: mars</description>
+		<Point> 
+			<coordinates>
+			-87.794444,41.919167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matteson<br/>ID: matteson</description>
+		<Point> 
+			<coordinates>
+			-87.702222,41.498611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mayfair<br/>ID: mayfair</description>
+		<Point> 
+			<coordinates>
+			-87.745833,41.959722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maywood<br/>ID: maywood</description>
+		<Point> 
+			<coordinates>
+			-87.838611,41.888333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McCormick Place<br/>ID: mccormick</description>
+		<Point> 
+			<coordinates>
+			-87.616389,41.851389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McHenry<br/>ID: mchenry</description>
+		<Point> 
+			<coordinates>
+			-88.276111,42.343333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medinah<br/>ID: medinah</description>
+		<Point> 
+			<coordinates>
+			-88.050833,41.978056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Melrose Park<br/>ID: melrosepk</description>
+		<Point> 
+			<coordinates>
+			-87.855556,41.890278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Midlothian<br/>ID: midlothian</description>
+		<Point> 
+			<coordinates>
+			-87.711667,41.626389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millennium Station<br/>ID: millennium</description>
+		<Point> 
+			<coordinates>
+			-87.623056,41.884167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mokena<br/>ID: mokena</description>
+		<Point> 
+			<coordinates>
+			-87.886667,41.530833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mont Clare<br/>ID: montclare</description>
+		<Point> 
+			<coordinates>
+			-87.801667,41.921667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Morton Grove<br/>ID: mortongrv</description>
+		<Point> 
+			<coordinates>
+			-87.785278,42.035,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mt. Prospect<br/>ID: mtprospect</description>
+		<Point> 
+			<coordinates>
+			-87.936111,42.063056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mundelein<br/>ID: mundelein</description>
+		<Point> 
+			<coordinates>
+			-87.998056,42.266944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Museum Campus/11th St.<br/>ID: museum</description>
+		<Point> 
+			<coordinates>
+			-87.621389,41.868611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Naperville<br/>ID: naperville</description>
+		<Point> 
+			<coordinates>
+			-88.145556,41.779722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: National St<br/>ID: nationals</description>
+		<Point> 
+			<coordinates>
+			-88.278889,42.026389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Lenox<br/>ID: newlenox</description>
+		<Point> 
+			<coordinates>
+			-87.965278,41.514444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Chicago<br/>ID: nchicago</description>
+		<Point> 
+			<coordinates>
+			-87.836944,42.328611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northbrook<br/>ID: nbrook</description>
+		<Point> 
+			<coordinates>
+			-87.827778,42.126944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Norwood Park<br/>ID: norwoodp</description>
+		<Point> 
+			<coordinates>
+			-87.798889,41.991667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: O'Hare Transfer<br/>ID: ohare</description>
+		<Point> 
+			<coordinates>
+			-87.880556,41.995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Forest<br/>ID: oakforest</description>
+		<Point> 
+			<coordinates>
+			-87.738333,41.604444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Lawn Patriot<br/>ID: oaklawn</description>
+		<Point> 
+			<coordinates>
+			-87.748611,41.719444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Park<br/>ID: oakpark</description>
+		<Point> 
+			<coordinates>
+			-87.801111,41.886944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Olympia Fields<br/>ID: olympia</description>
+		<Point> 
+			<coordinates>
+			-87.69,41.521389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orland Park 143rd<br/>ID: 143rd-sws</description>
+		<Point> 
+			<coordinates>
+			-87.859167,41.630556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orland Park 153rd<br/>ID: 153rd-sws</description>
+		<Point> 
+			<coordinates>
+			-87.873333,41.609444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orland Park 179th<br/>ID: 179th-sws</description>
+		<Point> 
+			<coordinates>
+			-87.9025,41.563889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palatine<br/>ID: palatine</description>
+		<Point> 
+			<coordinates>
+			-88.048333,42.113056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palos Heights<br/>ID: paloshts</description>
+		<Point> 
+			<coordinates>
+			-87.806944,41.681944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Palos Park<br/>ID: palospark</description>
+		<Point> 
+			<coordinates>
+			-87.820278,41.668889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park Ridge<br/>ID: parkridge</description>
+		<Point> 
+			<coordinates>
+			-87.831667,42.010278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pingree Road<br/>ID: pingree</description>
+		<Point> 
+			<coordinates>
+			-88.298056,42.234167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Prairie Crossing<br/>ID: prairiexng</description>
+		<Point> 
+			<coordinates>
+			-88.015278,42.320833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Prairie Crossing.<br/>ID: praircross</description>
+		<Point> 
+			<coordinates>
+			-88.017222,42.318056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Prairie St.<br/>ID: prairiest</description>
+		<Point> 
+			<coordinates>
+			-87.675,41.6625,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Prairie View<br/>ID: prairievw</description>
+		<Point> 
+			<coordinates>
+			-87.955833,42.198056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Prospect Hts<br/>ID: prospecthg</description>
+		<Point> 
+			<coordinates>
+			-87.908056,42.092222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Racine<br/>ID: racine</description>
+		<Point> 
+			<coordinates>
+			-87.651944,41.674167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ravenswood<br/>ID: ravenswood</description>
+		<Point> 
+			<coordinates>
+			-87.674444,41.968333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ravinia<br/>ID: ravinia</description>
+		<Point> 
+			<coordinates>
+			-87.782778,42.165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ravinia Park<br/>ID: raviniapk</description>
+		<Point> 
+			<coordinates>
+			-87.776944,42.158056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Richton Park<br/>ID: richton</description>
+		<Point> 
+			<coordinates>
+			-87.709444,41.485556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: River Forest<br/>ID: rivrforest</description>
+		<Point> 
+			<coordinates>
+			-87.825,41.886944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: River Grove<br/>ID: rivergrove</description>
+		<Point> 
+			<coordinates>
+			-87.836111,41.931111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverdale<br/>ID: riverdale</description>
+		<Point> 
+			<coordinates>
+			-87.623333,41.646667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside<br/>ID: riverside</description>
+		<Point> 
+			<coordinates>
+			-87.82,41.827222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robbins<br/>ID: robbins</description>
+		<Point> 
+			<coordinates>
+			-87.694444,41.640833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rogers Park<br/>ID: rogerpk</description>
+		<Point> 
+			<coordinates>
+			-87.675556,42.009444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Romeoville<br/>ID: romeoville</description>
+		<Point> 
+			<coordinates>
+			-88.049444,41.637222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Roselle<br/>ID: roselle</description>
+		<Point> 
+			<coordinates>
+			-88.067222,41.981389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rosemont<br/>ID: rosemont</description>
+		<Point> 
+			<coordinates>
+			-87.873889,41.976111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Round Lake<br/>ID: roundlake</description>
+		<Point> 
+			<coordinates>
+			-88.094167,42.354444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Round Lake Beach<br/>ID: roundlkbch</description>
+		<Point> 
+			<coordinates>
+			-88.065556,42.385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 59<br/>ID: route59</description>
+		<Point> 
+			<coordinates>
+			-88.208611,41.777778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Schaumburg<br/>ID: schaum</description>
+		<Point> 
+			<coordinates>
+			-88.118056,41.989167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Schiller Park<br/>ID: schillerpk</description>
+		<Point> 
+			<coordinates>
+			-87.870556,41.962778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Chicago (93rd)<br/>ID: 93rd-sc</description>
+		<Point> 
+			<coordinates>
+			-87.547778,41.726667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Shore<br/>ID: southshore</description>
+		<Point> 
+			<coordinates>
+			-87.565833,41.765278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State St.<br/>ID: statest</description>
+		<Point> 
+			<coordinates>
+			-87.621944,41.674444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stewart Ridge<br/>ID: stewartrid</description>
+		<Point> 
+			<coordinates>
+			-87.631667,41.674444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Ave.<br/>ID: stoneave</description>
+		<Point> 
+			<coordinates>
+			-87.878333,41.814167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stony Island<br/>ID: stonyislnd</description>
+		<Point> 
+			<coordinates>
+			-87.586944,41.766111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Summit<br/>ID: summit</description>
+		<Point> 
+			<coordinates>
+			-87.809722,41.795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tinley Park<br/>ID: tinleypark</description>
+		<Point> 
+			<coordinates>
+			-87.782778,41.575833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tinley-80th<br/>ID: tinley80th</description>
+		<Point> 
+			<coordinates>
+			-87.809444,41.564444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: University Park<br/>ID: university</description>
+		<Point> 
+			<coordinates>
+			-87.723333,41.459444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Van Buren St.<br/>ID: vanburen</description>
+		<Point> 
+			<coordinates>
+			-87.623056,41.876944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vernon Hills<br/>ID: vernon</description>
+		<Point> 
+			<coordinates>
+			-87.964444,42.215556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Villa Park<br/>ID: villapark</description>
+		<Point> 
+			<coordinates>
+			-87.9775,41.896389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington St (Grayslake)<br/>ID: ncsgrayslk</description>
+		<Point> 
+			<coordinates>
+			-88.050556,42.359167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waukegan<br/>ID: waukegan</description>
+		<Point> 
+			<coordinates>
+			-87.828333,42.360556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Chicago<br/>ID: wchicago</description>
+		<Point> 
+			<coordinates>
+			-88.198889,41.881111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Hinsdale<br/>ID: whinsdale</description>
+		<Point> 
+			<coordinates>
+			-87.945278,41.798889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Pullman<br/>ID: wpullman</description>
+		<Point> 
+			<coordinates>
+			-87.642222,41.674167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Western Ave<br/>ID: westernave</description>
+		<Point> 
+			<coordinates>
+			-87.688056,41.889167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Western Avenue<br/>ID: bnwestern</description>
+		<Point> 
+			<coordinates>
+			-87.685278,41.857778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Western Springs<br/>ID: westspring</description>
+		<Point> 
+			<coordinates>
+			-87.901111,41.808889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westmont<br/>ID: westmont</description>
+		<Point> 
+			<coordinates>
+			-87.976389,41.795556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wheaton<br/>ID: wheaton</description>
+		<Point> 
+			<coordinates>
+			-88.111944,41.864444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wheeling<br/>ID: wheeling</description>
+		<Point> 
+			<coordinates>
+			-87.927222,42.136389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Willow Springs<br/>ID: willowsprn</description>
+		<Point> 
+			<coordinates>
+			-87.878333,41.733333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wilmette<br/>ID: wilmette</description>
+		<Point> 
+			<coordinates>
+			-87.709167,42.077222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Windsor Park<br/>ID: windsorpk</description>
+		<Point> 
+			<coordinates>
+			-87.559444,41.758611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winfield<br/>ID: winfield</description>
+		<Point> 
+			<coordinates>
+			-88.156944,41.87,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winnetka<br/>ID: winnetka</description>
+		<Point> 
+			<coordinates>
+			-87.732778,42.105278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winthrop Harbor<br/>ID: winthrop</description>
+		<Point> 
+			<coordinates>
+			-87.816111,42.482778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wood Dale<br/>ID: wooddale</description>
+		<Point> 
+			<coordinates>
+			-87.975278,41.9625,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodstock<br/>ID: woodstock</description>
+		<Point> 
+			<coordinates>
+			-88.4475,42.316944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Worth<br/>ID: worth</description>
+		<Point> 
+			<coordinates>
+			-87.795833,41.691389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wrightwood<br/>ID: wrightwood</description>
+		<Point> 
+			<coordinates>
+			-87.703611,41.748889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Zion<br/>ID: zion</description>
+		<Point> 
+			<coordinates>
+			-87.818056,42.449167,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

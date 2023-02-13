@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ma-frta stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Academy at Charlemont<br/>ID: 2505769</description>
+		<Point> 
+			<coordinates>
+			-72.825337,42.618846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Academy of Music<br/>ID: 2505768</description>
+		<Point> 
+			<coordinates>
+			-72.633408,42.31766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A and 3rd St<br/>ID: 2505764</description>
+		<Point> 
+			<coordinates>
+			-72.556395,42.60802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A and 3rd St<br/>ID: 2505765</description>
+		<Point> 
+			<coordinates>
+			-72.556535,42.607889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A and 11th St<br/>ID: 2505766</description>
+		<Point> 
+			<coordinates>
+			-72.563369,42.602119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A and 11th St<br/>ID: 2505767</description>
+		<Point> 
+			<coordinates>
+			-72.56334,42.601844,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A and Carnegie Library<br/>ID: 2505763</description>
+		<Point> 
+			<coordinates>
+			-72.560783,42.604156,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A and Food City (E)<br/>ID: 2505762</description>
+		<Point> 
+			<coordinates>
+			-72.5609,42.604502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A at Hubies Tavern<br/>ID: 2505761</description>
+		<Point> 
+			<coordinates>
+			-72.556627,42.608524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ave A at The Shea Theater<br/>ID: 2505760</description>
+		<Point> 
+			<coordinates>
+			-72.556496,42.608329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Y Plaza<br/>ID: 2505759</description>
+		<Point> 
+			<coordinates>
+			-72.624709,42.586646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Y Walmart Plaza<br/>ID: 2505758</description>
+		<Point> 
+			<coordinates>
+			-72.641127,42.341712,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charlemont Center<br/>ID: 2505757</description>
+		<Point> 
+			<coordinates>
+			-72.876935,42.627467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charlemont Park &amp; Ride<br/>ID: 2505756</description>
+		<Point> 
+			<coordinates>
+			-72.74899,42.619392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Rum Plaza<br/>ID: 2505755</description>
+		<Point> 
+			<coordinates>
+			-72.587,42.608063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Colrain Rd and Shelburne Rd<br/>ID: 2505751</description>
+		<Point> 
+			<coordinates>
+			-72.623412,42.587627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Colrain Rd and Shelburne Rd<br/>ID: 2505752</description>
+		<Point> 
+			<coordinates>
+			-72.623489,42.587288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Colrain Rd at Charlene Manor<br/>ID: 2505753</description>
+		<Point> 
+			<coordinates>
+			-72.620416,42.591352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Colrain Rd at Charlene Manor<br/>ID: 2505754</description>
+		<Point> 
+			<coordinates>
+			-72.620162,42.591201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Corporate Center<br/>ID: 2505750</description>
+		<Point> 
+			<coordinates>
+			-72.62355,42.576425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield St and Meridian St<br/>ID: 2505746</description>
+		<Point> 
+			<coordinates>
+			-72.599335,42.580691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield St and Meridian St<br/>ID: 2505747</description>
+		<Point> 
+			<coordinates>
+			-72.598985,42.58027,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield St and Washington St<br/>ID: 2505744</description>
+		<Point> 
+			<coordinates>
+			-72.598348,42.577949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield St and Washington St<br/>ID: 2505745</description>
+		<Point> 
+			<coordinates>
+			-72.598177,42.577986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield St at Meadows Golf<br/>ID: 2505748</description>
+		<Point> 
+			<coordinates>
+			-72.594387,42.571917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Deerfield St at Meadows Golf<br/>ID: 2505749</description>
+		<Point> 
+			<coordinates>
+			-72.595111,42.572454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Colonial Acres Apts<br/>ID: 2505742</description>
+		<Point> 
+			<coordinates>
+			-72.301664,42.585864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Colonial Acres Apts<br/>ID: 2505743</description>
+		<Point> 
+			<coordinates>
+			-72.301467,42.585702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Leisure Woods<br/>ID: 2505740</description>
+		<Point> 
+			<coordinates>
+			-72.286069,42.57855,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Leisure Woods<br/>ID: 2505741</description>
+		<Point> 
+			<coordinates>
+			-72.286425,42.578719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Orange Food Pantry<br/>ID: 2505739</description>
+		<Point> 
+			<coordinates>
+			-72.304567,42.590404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Orange Riverfront Park<br/>ID: 2505737</description>
+		<Point> 
+			<coordinates>
+			-72.30893,42.588614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Orange Riverfront Park<br/>ID: 2505738</description>
+		<Point> 
+			<coordinates>
+			-72.308986,42.588503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Orange Senior Center<br/>ID: 2505736</description>
+		<Point> 
+			<coordinates>
+			-72.303976,42.590255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Pinecrest Apts<br/>ID: 2505734</description>
+		<Point> 
+			<coordinates>
+			-72.290683,42.582899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E River St at Pinecrest Apts<br/>ID: 2505735</description>
+		<Point> 
+			<coordinates>
+			-72.290818,42.583163,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St and Oak Cts<br/>ID: 2505726</description>
+		<Point> 
+			<coordinates>
+			-72.61122,42.601416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St and Oak Cts<br/>ID: 2505727</description>
+		<Point> 
+			<coordinates>
+			-72.611052,42.601485,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St at CDH Health Ctr<br/>ID: 2505732</description>
+		<Point> 
+			<coordinates>
+			-72.612415,42.477418,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St at CDH Health Ctr<br/>ID: 2505733</description>
+		<Point> 
+			<coordinates>
+			-72.612795,42.477536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St at Elm Terrace Apts<br/>ID: 2505730</description>
+		<Point> 
+			<coordinates>
+			-72.611323,42.596305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St at Elm Terrace Apts<br/>ID: 2505731</description>
+		<Point> 
+			<coordinates>
+			-72.61113,42.596606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St at Greenfield Gardens Apts<br/>ID: 2505728</description>
+		<Point> 
+			<coordinates>
+			-72.611202,42.591861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St at Greenfield Gardens Apts<br/>ID: 2505729</description>
+		<Point> 
+			<coordinates>
+			-72.611014,42.592898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Erving Center<br/>ID: 2505725</description>
+		<Point> 
+			<coordinates>
+			-72.399849,42.599516,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Erving Center<br/>ID: 3453596</description>
+		<Point> 
+			<coordinates>
+			-72.399866,42.599642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ervinside Bowling Alley<br/>ID: 2505723</description>
+		<Point> 
+			<coordinates>
+			-72.489328,42.586423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farren Care Center<br/>ID: 2505721</description>
+		<Point> 
+			<coordinates>
+			-72.575848,42.586349,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farren Care Center<br/>ID: 2505722</description>
+		<Point> 
+			<coordinates>
+			-72.575528,42.586208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St and Cleveland St<br/>ID: 2505720</description>
+		<Point> 
+			<coordinates>
+			-72.592384,42.602672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St and Grant St<br/>ID: 2505718</description>
+		<Point> 
+			<coordinates>
+			-72.590864,42.603953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St and Kenwood St<br/>ID: 2505716</description>
+		<Point> 
+			<coordinates>
+			-72.594668,42.600362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St and Osgood St<br/>ID: 2505715</description>
+		<Point> 
+			<coordinates>
+			-72.599565,42.589504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St and Smith St<br/>ID: 2505714</description>
+		<Point> 
+			<coordinates>
+			-72.593936,42.600815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St at CVS<br/>ID: 2505719</description>
+		<Point> 
+			<coordinates>
+			-72.598174,42.592314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal St at Greenfield Savings Bank<br/>ID: 2505717</description>
+		<Point> 
+			<coordinates>
+			-72.59962,42.588877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federated Church of Charlemont<br/>ID: 2505712</description>
+		<Point> 
+			<coordinates>
+			-72.869695,42.628084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federated Church of Charlemont<br/>ID: 2505713</description>
+		<Point> 
+			<coordinates>
+			-72.869708,42.627971,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin County Tech School<br/>ID: 2505711</description>
+		<Point> 
+			<coordinates>
+			-72.522459,42.597473,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Center School<br/>ID: 2505709</description>
+		<Point> 
+			<coordinates>
+			-72.581055,42.575446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Center School<br/>ID: 2505710</description>
+		<Point> 
+			<coordinates>
+			-72.581314,42.574954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Community College<br/>ID: 2505708</description>
+		<Point> 
+			<coordinates>
+			-72.630279,42.599867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield High School<br/>ID: 2505706</description>
+		<Point> 
+			<coordinates>
+			-72.594143,42.606656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield High School<br/>ID: 2505707</description>
+		<Point> 
+			<coordinates>
+			-72.596109,42.60652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Middle School<br/>ID: 2505704</description>
+		<Point> 
+			<coordinates>
+			-72.597455,42.59578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Middle School<br/>ID: 2505705</description>
+		<Point> 
+			<coordinates>
+			-72.597174,42.596168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd at Magic Wings<br/>ID: 2505702</description>
+		<Point> 
+			<coordinates>
+			-72.605387,42.510223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd at Magic Wings<br/>ID: 2505703</description>
+		<Point> 
+			<coordinates>
+			-72.605312,42.510652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd at Sunoco<br/>ID: 2505700</description>
+		<Point> 
+			<coordinates>
+			-72.59978,42.552441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd at Sunoco<br/>ID: 2505701</description>
+		<Point> 
+			<coordinates>
+			-72.599908,42.552604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd at Yankee Candle Corp<br/>ID: 2505698</description>
+		<Point> 
+			<coordinates>
+			-72.610292,42.494421,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenfield Rd at Yankee Candle Corp<br/>ID: 2505699</description>
+		<Point> 
+			<coordinates>
+			-72.610534,42.494603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hannaford Supermarket Plaza<br/>ID: 2505697</description>
+		<Point> 
+			<coordinates>
+			-72.26271,42.582927,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and Church St<br/>ID: 2505696</description>
+		<Point> 
+			<coordinates>
+			-72.594842,42.589646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and George St<br/>ID: 2505693</description>
+		<Point> 
+			<coordinates>
+			-72.594104,42.590755,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and Hastings St<br/>ID: 2505690</description>
+		<Point> 
+			<coordinates>
+			-72.588434,42.598232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and Hastings St<br/>ID: 2505691</description>
+		<Point> 
+			<coordinates>
+			-72.588491,42.59796,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and Lincoln St<br/>ID: 2505689</description>
+		<Point> 
+			<coordinates>
+			-72.585788,42.60063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and Silver St<br/>ID: 2505688</description>
+		<Point> 
+			<coordinates>
+			-72.579752,42.604403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St and Wildwood Ave<br/>ID: 2505687</description>
+		<Point> 
+			<coordinates>
+			-72.578502,42.605403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St at Franklin Medical Center<br/>ID: 2505694</description>
+		<Point> 
+			<coordinates>
+			-72.59204,42.594903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St at Franklin Medical Center<br/>ID: 2505695</description>
+		<Point> 
+			<coordinates>
+			-72.591836,42.594921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St at Greenfield Police Dept<br/>ID: 2505692</description>
+		<Point> 
+			<coordinates>
+			-72.584602,42.60149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: JWO Transit Center<br/>ID: 2505686</description>
+		<Point> 
+			<coordinates>
+			-72.600632,42.585745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St and Barret St<br/>ID: 2505684</description>
+		<Point> 
+			<coordinates>
+			-72.635995,42.334297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St and Barret St<br/>ID: 2505685</description>
+		<Point> 
+			<coordinates>
+			-72.635505,42.333852,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St at Lia Toyota<br/>ID: 2505683</description>
+		<Point> 
+			<coordinates>
+			-72.634484,42.331228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King St at Sakura Buffet<br/>ID: 2505682</description>
+		<Point> 
+			<coordinates>
+			-72.634232,42.331283,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St and 4th St<br/>ID: 2505680</description>
+		<Point> 
+			<coordinates>
+			-72.555484,42.606479,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St and 4th St<br/>ID: 2505681</description>
+		<Point> 
+			<coordinates>
+			-72.55545,42.606241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St and 7th St<br/>ID: 2505678</description>
+		<Point> 
+			<coordinates>
+			-72.557779,42.604259,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St and 7th St<br/>ID: 2505679</description>
+		<Point> 
+			<coordinates>
+			-72.55761,42.60416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Leyden Woods at Aster Court<br/>ID: 2505677</description>
+		<Point> 
+			<coordinates>
+			-72.614459,42.619393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St and Fort Sq<br/>ID: 2505674</description>
+		<Point> 
+			<coordinates>
+			-72.608391,42.587347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St and Miles St<br/>ID: 2505675</description>
+		<Point> 
+			<coordinates>
+			-72.603246,42.587719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St and Wells St<br/>ID: 2505671</description>
+		<Point> 
+			<coordinates>
+			-72.604908,42.587724,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St at Cafe<br/>ID: 2505676</description>
+		<Point> 
+			<coordinates>
+			-72.598341,42.587704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St at Mohawk Mall<br/>ID: 2505672</description>
+		<Point> 
+			<coordinates>
+			-72.60601,42.587375,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St at YMCA<br/>ID: 2505673</description>
+		<Point> 
+			<coordinates>
+			-72.597534,42.587337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Center<br/>ID: 2505669</description>
+		<Point> 
+			<coordinates>
+			-72.494716,42.578688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Center<br/>ID: 2505670</description>
+		<Point> 
+			<coordinates>
+			-72.494569,42.578723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd and Industrial Blvd<br/>ID: 2505665</description>
+		<Point> 
+			<coordinates>
+			-72.528365,42.589683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd and Industrial Blvd<br/>ID: 2505666</description>
+		<Point> 
+			<coordinates>
+			-72.528579,42.589374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd and Mineral Rd<br/>ID: 2505663</description>
+		<Point> 
+			<coordinates>
+			-72.509363,42.579401,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd and Mineral Rd<br/>ID: 2505664</description>
+		<Point> 
+			<coordinates>
+			-72.509963,42.579476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd and NCross Rd<br/>ID: 2505661</description>
+		<Point> 
+			<coordinates>
+			-72.540027,42.58983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd and NCross Rd<br/>ID: 2505662</description>
+		<Point> 
+			<coordinates>
+			-72.540207,42.589752,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd at Highland Apts<br/>ID: 2505667</description>
+		<Point> 
+			<coordinates>
+			-72.500329,42.576967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millers Falls Rd at Highland Apts<br/>ID: 2505668</description>
+		<Point> 
+			<coordinates>
+			-72.500328,42.576831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mohawk High School<br/>ID: 2505660</description>
+		<Point> 
+			<coordinates>
+			-72.756026,42.615963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montague Center<br/>ID: 2505658</description>
+		<Point> 
+			<coordinates>
+			-72.532073,42.532889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montague Center<br/>ID: 2505659</description>
+		<Point> 
+			<coordinates>
+			-72.531873,42.533383,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montague St and Crocker Ave<br/>ID: 2505656</description>
+		<Point> 
+			<coordinates>
+			-72.559652,42.599232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montague St and Crocker Ave<br/>ID: 2505657</description>
+		<Point> 
+			<coordinates>
+			-72.559203,42.599003,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N King St at B'Nai Israel Cemetery<br/>ID: 2505655</description>
+		<Point> 
+			<coordinates>
+			-72.641828,42.35282,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N King St at Rockridge Community<br/>ID: 2505654</description>
+		<Point> 
+			<coordinates>
+			-72.64058,42.354905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main St at Frontier High School<br/>ID: 2505653</description>
+		<Point> 
+			<coordinates>
+			-72.604536,42.484063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Center<br/>ID: 2505652</description>
+		<Point> 
+			<coordinates>
+			-72.308382,42.590356,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park Villa Apts<br/>ID: 2505651</description>
+		<Point> 
+			<coordinates>
+			-72.555752,42.588788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pelican Products<br/>ID: 2505650</description>
+		<Point> 
+			<coordinates>
+			-72.607243,42.48747,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Registry of Motor Vehicles<br/>ID: 2505649</description>
+		<Point> 
+			<coordinates>
+			-72.618205,42.585697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scotty's Store<br/>ID: 2505647</description>
+		<Point> 
+			<coordinates>
+			-72.551428,42.59977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scotty's Store<br/>ID: 2505648</description>
+		<Point> 
+			<coordinates>
+			-72.551634,42.599754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shelburne Falls Center at Arms Library<br/>ID: 2505645</description>
+		<Point> 
+			<coordinates>
+			-72.737987,42.603848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shelburne Falls Center at Arms Library<br/>ID: 2505646</description>
+		<Point> 
+			<coordinates>
+			-72.738169,42.603845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver St and Country Club Rd<br/>ID: 2505644</description>
+		<Point> 
+			<coordinates>
+			-72.601436,42.606363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver St and Vernon St<br/>ID: 2505643</description>
+		<Point> 
+			<coordinates>
+			-72.601214,42.60624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Deerfield Cemetery<br/>ID: 2505642</description>
+		<Point> 
+			<coordinates>
+			-72.607003,42.476307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Deerfield Center<br/>ID: 2505641</description>
+		<Point> 
+			<coordinates>
+			-72.607209,42.476829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Deerfield Center Common<br/>ID: 3453595</description>
+		<Point> 
+			<coordinates>
+			-72.607685,42.477727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Deerfield Common<br/>ID: 2505640</description>
+		<Point> 
+			<coordinates>
+			-72.608011,42.477815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State Rd and Christian Ln<br/>ID: 2505637</description>
+		<Point> 
+			<coordinates>
+			-72.62579,42.444452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State Rd and Christian Ln<br/>ID: 2505638</description>
+		<Point> 
+			<coordinates>
+			-72.625787,42.445277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State Rd at Books-n-More<br/>ID: 2505639</description>
+		<Point> 
+			<coordinates>
+			-72.62174,42.416045,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State Rd at Muffin's Store<br/>ID: 2505636</description>
+		<Point> 
+			<coordinates>
+			-72.621219,42.418591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State Rd at Orchard Trailer<br/>ID: 2505635</description>
+		<Point> 
+			<coordinates>
+			-72.62163,42.425321,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State Rd at Tom's Hot Dogs<br/>ID: 2505634</description>
+		<Point> 
+			<coordinates>
+			-72.622127,42.423289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State St and Bedford Terrace (S)<br/>ID: 2505633</description>
+		<Point> 
+			<coordinates>
+			-72.634441,42.32001,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop Plaza<br/>ID: 2505632</description>
+		<Point> 
+			<coordinates>
+			-72.575062,42.606832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarloaf Estates<br/>ID: 2505631</description>
+		<Point> 
+			<coordinates>
+			-72.58131,42.457829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarloaf St and Gromacki Ave<br/>ID: 2505630</description>
+		<Point> 
+			<coordinates>
+			-72.596992,42.469248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarloaf St and Mountain Rd<br/>ID: 2505629</description>
+		<Point> 
+			<coordinates>
+			-72.601153,42.472398,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarloaf St at Post Office<br/>ID: 2505628</description>
+		<Point> 
+			<coordinates>
+			-72.602202,42.47294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sugarloaf State Park<br/>ID: 2505627</description>
+		<Point> 
+			<coordinates>
+			-72.595247,42.467942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunderland Rd at Deerfield Industrial Park<br/>ID: 2505625</description>
+		<Point> 
+			<coordinates>
+			-72.60604,42.467666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunderland Rd at Deerfield Industrial Park<br/>ID: 2505626</description>
+		<Point> 
+			<coordinates>
+			-72.60616,42.467881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turners Falls Rd and Turnpike Rd<br/>ID: 2505621</description>
+		<Point> 
+			<coordinates>
+			-72.548292,42.588239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turners Falls Rd and Turnpike Rd<br/>ID: 2505622</description>
+		<Point> 
+			<coordinates>
+			-72.54847,42.588437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turnpike Rd at Turners Falls High School<br/>ID: 2505623</description>
+		<Point> 
+			<coordinates>
+			-72.544117,42.588474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turnpike Rd at Turners Falls High School<br/>ID: 2505624</description>
+		<Point> 
+			<coordinates>
+			-72.544231,42.588371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: WalMart Plaza Orange<br/>ID: 2505620</description>
+		<Point> 
+			<coordinates>
+			-72.284163,42.588176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West River Health Center<br/>ID: 2505618</description>
+		<Point> 
+			<coordinates>
+			-72.330021,42.592253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West River Health Center<br/>ID: 2505619</description>
+		<Point> 
+			<coordinates>
+			-72.329829,42.592109,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St and Depot Rd<br/>ID: 2505615</description>
+		<Point> 
+			<coordinates>
+			-72.622852,42.411075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St and Mountain Dr<br/>ID: 2505609</description>
+		<Point> 
+			<coordinates>
+			-72.622901,42.411666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St and Plain Rd<br/>ID: 2505607</description>
+		<Point> 
+			<coordinates>
+			-72.62554,42.401769,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St and Plain Rd<br/>ID: 2505608</description>
+		<Point> 
+			<coordinates>
+			-72.625235,42.402141,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at Danco Modern Plaza<br/>ID: 2505616</description>
+		<Point> 
+			<coordinates>
+			-72.637425,42.367538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at Danco Modern Plaza<br/>ID: 2505617</description>
+		<Point> 
+			<coordinates>
+			-72.636949,42.368157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at FedEx<br/>ID: 2505613</description>
+		<Point> 
+			<coordinates>
+			-72.633243,42.389803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at FedEx<br/>ID: 2505614</description>
+		<Point> 
+			<coordinates>
+			-72.633052,42.389451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at Hatfield Pub<br/>ID: 2505612</description>
+		<Point> 
+			<coordinates>
+			-72.623598,42.408169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at Kenwood Apts<br/>ID: 2505610</description>
+		<Point> 
+			<coordinates>
+			-72.631639,42.394923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St at Kenwood Apts<br/>ID: 2505611</description>
+		<Point> 
+			<coordinates>
+			-72.631413,42.394802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whately Park and Ride<br/>ID: 2505606</description>
+		<Point> 
+			<coordinates>
+			-72.615311,42.469898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisdom Way and County Fairgrounds<br/>ID: 2505604</description>
+		<Point> 
+			<coordinates>
+			-72.610194,42.580174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisdom Way and County Fairgrounds<br/>ID: 2505605</description>
+		<Point> 
+			<coordinates>
+			-72.610075,42.580046,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

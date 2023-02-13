@@ -1,0 +1,2408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ny-dutchess stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adams (East Entrance)<br/>ID: 311</description>
+		<Point> 
+			<coordinates>
+			-73.877377,41.700649,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Center for Autism<br/>ID: 111</description>
+		<Point> 
+			<coordinates>
+			-73.934209,41.826653,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Heights<br/>ID: 504</description>
+		<Point> 
+			<coordinates>
+			-73.90262,41.703752,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Astor<br/>ID: 109</description>
+		<Point> 
+			<coordinates>
+			-73.912432,41.924871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bain Avenue &amp; Talmadge Street<br/>ID: 376</description>
+		<Point> 
+			<coordinates>
+			-73.93351,41.711242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bard College (Kline Bus Stop North)<br/>ID: 81</description>
+		<Point> 
+			<coordinates>
+			-73.908188,42.023082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bard College (Kline Bus Stop South)<br/>ID: 97</description>
+		<Point> 
+			<coordinates>
+			-73.908258,42.023126,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barnes &amp; Noble<br/>ID: 227</description>
+		<Point> 
+			<coordinates>
+			-73.928853,41.661463,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beacon Intermodal Center<br/>ID: 500</description>
+		<Point> 
+			<coordinates>
+			-73.963172,41.524734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beacon Post Office<br/>ID: 35</description>
+		<Point> 
+			<coordinates>
+			-73.968598,41.503724,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beacon Theater<br/>ID: 203</description>
+		<Point> 
+			<coordinates>
+			-73.965821,41.502577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beacon Train Station<br/>ID: 201</description>
+		<Point> 
+			<coordinates>
+			-73.984616,41.506482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beekman Stop &amp; Shop<br/>ID: 167</description>
+		<Point> 
+			<coordinates>
+			-73.69629,41.627551,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big W BBQ<br/>ID: 175</description>
+		<Point> 
+			<coordinates>
+			-73.574244,41.626924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burger King<br/>ID: 315</description>
+		<Point> 
+			<coordinates>
+			-73.890717,41.697426,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 28 (Old Hopewell Road) &amp; Route 9<br/>ID: 510</description>
+		<Point> 
+			<coordinates>
+			-73.908653,41.579068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 41 (East Market Street) W &amp; Route 9G (Violet Avenue)<br/>ID: 116</description>
+		<Point> 
+			<coordinates>
+			-73.915484,41.788547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 41 (East Market Street) W &amp; Route 9<br/>ID: 80</description>
+		<Point> 
+			<coordinates>
+			-73.935747,41.791556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 75 (Innis Avenue) &amp; Salt Point Tpk<br/>ID: 332</description>
+		<Point> 
+			<coordinates>
+			-73.902672,41.71461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 77 (Vassar Road) &amp; Route 9<br/>ID: 207</description>
+		<Point> 
+			<coordinates>
+			-73.914939,41.617269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 78 (Broadway) &amp; Route 9G South<br/>ID: 82</description>
+		<Point> 
+			<coordinates>
+			-73.898501,42.0565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 93 (Myers Corners Road) and CR 94 (All Angels Hill Road)<br/>ID: 502</description>
+		<Point> 
+			<coordinates>
+			-73.873048,41.60594,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 95 &amp; Eastern Dutchess Govt. Center<br/>ID: 135</description>
+		<Point> 
+			<coordinates>
+			-73.700227,41.764059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CR 114 (Main Street) W &amp; NY 376 (Raymond Avenue)<br/>ID: 316</description>
+		<Point> 
+			<coordinates>
+			-73.903516,41.696523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cannon St &amp; Clinton St<br/>ID: 385</description>
+		<Point> 
+			<coordinates>
+			-73.920964,41.700568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Castle Point<br/>ID: 56</description>
+		<Point> 
+			<coordinates>
+			-73.96315,41.542294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chamber of Commerce<br/>ID: 169</description>
+		<Point> 
+			<coordinates>
+			-73.601016,41.564299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cherry Hill Townhomes<br/>ID: 310</description>
+		<Point> 
+			<coordinates>
+			-73.878806,41.701654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Church St &amp; Market St<br/>ID: 5</description>
+		<Point> 
+			<coordinates>
+			-73.930164,41.701429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Ave across from Poughkeepsie Middle School<br/>ID: 370</description>
+		<Point> 
+			<coordinates>
+			-73.911824,41.691967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Avenue &amp; Poughkeepsie Middle School<br/>ID: 371</description>
+		<Point> 
+			<coordinates>
+			-73.911759,41.692112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Avenue W &amp; Worrall Avenue<br/>ID: 355</description>
+		<Point> 
+			<coordinates>
+			-73.910433,41.691821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Collegeview Ave &amp; Fairmont Ave (Vassar College)<br/>ID: 308</description>
+		<Point> 
+			<coordinates>
+			-73.897254,41.691201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottage Road E &amp; Cheney Drive<br/>ID: 282</description>
+		<Point> 
+			<coordinates>
+			-73.906293,41.733099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottage Road E &amp; Route 9G (Violet Avenue)<br/>ID: 120</description>
+		<Point> 
+			<coordinates>
+			-73.908593,41.73543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottage Road W &amp; Cheney Drive<br/>ID: 283</description>
+		<Point> 
+			<coordinates>
+			-73.906121,41.733092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottage Road W &amp; Route 9G (Violet Avenue)<br/>ID: 91</description>
+		<Point> 
+			<coordinates>
+			-73.908475,41.73554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cousins Cafe<br/>ID: 174</description>
+		<Point> 
+			<coordinates>
+			-73.566468,41.643247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DCC - Lot E Bus Shelter<br/>ID: 89</description>
+		<Point> 
+			<coordinates>
+			-73.902851,41.724972,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DCC - Washington Hall<br/>ID: 220</description>
+		<Point> 
+			<coordinates>
+			-73.904043,41.727433,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DIA<br/>ID: 202</description>
+		<Point> 
+			<coordinates>
+			-73.983746,41.502507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dongan Place &amp; Mill Street<br/>ID: 2</description>
+		<Point> 
+			<coordinates>
+			-73.935253,41.707926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dutchess County Fairgrounds<br/>ID: 103</description>
+		<Point> 
+			<coordinates>
+			-73.910592,41.935411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dutchess Day School East<br/>ID: 143</description>
+		<Point> 
+			<coordinates>
+			-73.665087,41.775631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dutchess Day School West<br/>ID: 148</description>
+		<Point> 
+			<coordinates>
+			-73.664748,41.775706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dutchess Mall<br/>ID: 34</description>
+		<Point> 
+			<coordinates>
+			-73.890438,41.518571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main Street &amp; Main Street<br/>ID: 205</description>
+		<Point> 
+			<coordinates>
+			-73.962191,41.502453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Market Street &amp; Route 9 North<br/>ID: 107</description>
+		<Point> 
+			<coordinates>
+			-73.912564,41.927275,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm Street &amp; Route 9 South<br/>ID: 189</description>
+		<Point> 
+			<coordinates>
+			-73.897526,41.533733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: FDR Home<br/>ID: 125</description>
+		<Point> 
+			<coordinates>
+			-73.933564,41.770207,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairmont Ave &amp; Collegeview Ave (Vassar College)<br/>ID: 307</description>
+		<Point> 
+			<coordinates>
+			-73.897238,41.691363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Forbus Street &amp; South Cherry Street<br/>ID: 365</description>
+		<Point> 
+			<coordinates>
+			-73.918327,41.695509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Forbus Street E (Poughkeepsie High School)<br/>ID: 363</description>
+		<Point> 
+			<coordinates>
+			-73.914232,41.694239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Forbus Street W (Poughkeepsie High School)<br/>ID: 364</description>
+		<Point> 
+			<coordinates>
+			-73.913578,41.694237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Forrestal Heights<br/>ID: 70</description>
+		<Point> 
+			<coordinates>
+			-73.975892,41.500835,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fowler St &amp; Teller Ave<br/>ID: 210</description>
+		<Point> 
+			<coordinates>
+			-73.969916,41.499856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Front Street &amp; Franklin Avenue<br/>ID: 136</description>
+		<Point> 
+			<coordinates>
+			-73.695834,41.785123,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fulton Street &amp; Beck Place (Marist)<br/>ID: 117</description>
+		<Point> 
+			<coordinates>
+			-73.930854,41.723283,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fulton Street &amp; Route 9G (Violet Ave.)<br/>ID: 121</description>
+		<Point> 
+			<coordinates>
+			-73.911372,41.726359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Galleria Food Court<br/>ID: 15</description>
+		<Point> 
+			<coordinates>
+			-73.921319,41.624762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gerald Drive &amp; Rinaldi Boulevard<br/>ID: 382</description>
+		<Point> 
+			<coordinates>
+			-73.938311,41.700357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Ave &amp; Hooker Ave<br/>ID: 253</description>
+		<Point> 
+			<coordinates>
+			-73.909961,41.68585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hannaford<br/>ID: 171</description>
+		<Point> 
+			<coordinates>
+			-73.583399,41.536821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hannaford / Daily Planet<br/>ID: 164</description>
+		<Point> 
+			<coordinates>
+			-73.795366,41.668174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hooker Avenue &amp; Ferris<br/>ID: 252</description>
+		<Point> 
+			<coordinates>
+			-73.916966,41.689032,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hooker Avenue &amp; South Hamilton<br/>ID: 251</description>
+		<Point> 
+			<coordinates>
+			-73.925608,41.699076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hooker Avenue &amp; Wilbur Boulevard<br/>ID: 348</description>
+		<Point> 
+			<coordinates>
+			-73.907471,41.685059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hooker Avenue E &amp; South Clinton Street<br/>ID: 384</description>
+		<Point> 
+			<coordinates>
+			-73.923495,41.696708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hooker at Beachwood Terrace<br/>ID: 271</description>
+		<Point> 
+			<coordinates>
+			-73.916011,41.688764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hopewell - Acme Plaza<br/>ID: 185</description>
+		<Point> 
+			<coordinates>
+			-73.811396,41.579934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howland Avenue &amp; East Main Street<br/>ID: 211</description>
+		<Point> 
+			<coordinates>
+			-73.954556,41.498921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hudson Avenue &amp; Howard Street<br/>ID: 333</description>
+		<Point> 
+			<coordinates>
+			-73.908484,41.710717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hudson Plaza - Price Chopper/Dutchess Dialysis<br/>ID: 224</description>
+		<Point> 
+			<coordinates>
+			-73.931814,41.665555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyde Park Reformed Dutch Church<br/>ID: 102</description>
+		<Point> 
+			<coordinates>
+			-73.93651,41.792151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyde Park Shopping Center<br/>ID: 83</description>
+		<Point> 
+			<coordinates>
+			-73.93312,41.784458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyde Park Stop &amp; Shop<br/>ID: 94</description>
+		<Point> 
+			<coordinates>
+			-73.93177,41.763689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: IBM-East Fishkill<br/>ID: 186</description>
+		<Point> 
+			<coordinates>
+			-73.825795,41.542415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Innis Ave S &amp; Main St<br/>ID: 344</description>
+		<Point> 
+			<coordinates>
+			-73.908534,41.697648,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Innis Avenue &amp; Mountain Brook Apartments<br/>ID: 343</description>
+		<Point> 
+			<coordinates>
+			-73.903544,41.707566,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: King's Apartments<br/>ID: 170</description>
+		<Point> 
+			<coordinates>
+			-73.591921,41.566568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kmart<br/>ID: 314</description>
+		<Point> 
+			<coordinates>
+			-73.890202,41.698545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lakeview Arms Apartments<br/>ID: 340</description>
+		<Point> 
+			<coordinates>
+			-73.906703,41.715572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Market St<br/>ID: 1</description>
+		<Point> 
+			<coordinates>
+			-73.928794,41.704121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Route 9<br/>ID: 188</description>
+		<Point> 
+			<coordinates>
+			-73.900598,41.535591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St. &amp; Fairmont<br/>ID: 223</description>
+		<Point> 
+			<coordinates>
+			-73.896625,41.695559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street &amp; Cliff Street<br/>ID: 71</description>
+		<Point> 
+			<coordinates>
+			-73.975087,41.507887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street &amp; Innis Avenue<br/>ID: 318</description>
+		<Point> 
+			<coordinates>
+			-73.909054,41.697643,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street &amp; Route 52 (Fishkill Avenue)<br/>ID: 204</description>
+		<Point> 
+			<coordinates>
+			-73.966853,41.503363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street &amp; S Brett (Key Foods)<br/>ID: 60</description>
+		<Point> 
+			<coordinates>
+			-73.971756,41.506012,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street &amp; Veterans Place<br/>ID: 200</description>
+		<Point> 
+			<coordinates>
+			-73.968418,41.504142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street &amp; Worrall Avenue<br/>ID: 306</description>
+		<Point> 
+			<coordinates>
+			-73.90864,41.697417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street E &amp; Church Street<br/>ID: 305</description>
+		<Point> 
+			<coordinates>
+			-73.91262,41.698448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street E &amp; Columbus Drive<br/>ID: 4</description>
+		<Point> 
+			<coordinates>
+			-73.930754,41.704657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street E &amp; Market Street (No stop at Hub)<br/>ID: 302</description>
+		<Point> 
+			<coordinates>
+			-73.929088,41.704179,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street E &amp; South Cherry Street<br/>ID: 304</description>
+		<Point> 
+			<coordinates>
+			-73.918622,41.700907,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street E &amp; South Hamilton Street<br/>ID: 303</description>
+		<Point> 
+			<coordinates>
+			-73.923823,41.702178,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manchester Road &amp; Rt 55<br/>ID: 507</description>
+		<Point> 
+			<coordinates>
+			-73.888405,41.691552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mansion &amp; Washington<br/>ID: 288</description>
+		<Point> 
+			<coordinates>
+			-73.929252,41.7073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mansion Street &amp; Catharine Street<br/>ID: 373</description>
+		<Point> 
+			<coordinates>
+			-73.92295,41.706468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mansion Street &amp; Garden Street<br/>ID: 369</description>
+		<Point> 
+			<coordinates>
+			-73.925868,41.706829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mansion Street &amp; North Clinton Street (Earline Patrice Park)<br/>ID: 336</description>
+		<Point> 
+			<coordinates>
+			-73.919427,41.705971,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mansion Street &amp; Smith Street<br/>ID: 338</description>
+		<Point> 
+			<coordinates>
+			-73.916741,41.705634,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maplewood Apartments (457 Maple St)<br/>ID: 390</description>
+		<Point> 
+			<coordinates>
+			-73.912593,41.700975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market Street &amp; Church Street East<br/>ID: 130</description>
+		<Point> 
+			<coordinates>
+			-73.929521,41.701768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market Street &amp; Montgomery Street (Fountain)<br/>ID: 6</description>
+		<Point> 
+			<coordinates>
+			-73.931056,41.699699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mesier Park Southbound<br/>ID: 50</description>
+		<Point> 
+			<coordinates>
+			-73.918417,41.597872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mid-Hudson Regional Hospital<br/>ID: 280</description>
+		<Point> 
+			<coordinates>
+			-73.927791,41.718843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mill Street &amp; North Clover Street<br/>ID: 378</description>
+		<Point> 
+			<coordinates>
+			-73.934846,41.707649,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mill Street &amp; Verrazano Boulevard<br/>ID: 84</description>
+		<Point> 
+			<coordinates>
+			-73.935172,41.708799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montgomery Street E @ S Hamilton Street<br/>ID: 273</description>
+		<Point> 
+			<coordinates>
+			-73.925561,41.698948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: NY 376 (Raymond Avenue) N &amp; CR 114 (Main Street)<br/>ID: 309</description>
+		<Point> 
+			<coordinates>
+			-73.902628,41.696248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Hamburg Train Station<br/>ID: 503</description>
+		<Point> 
+			<coordinates>
+			-73.94742,41.586775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Cherry Street &amp; Rt 44/55 West<br/>ID: 509</description>
+		<Point> 
+			<coordinates>
+			-73.917492,41.702112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Clover Street &amp; Main Street<br/>ID: 379</description>
+		<Point> 
+			<coordinates>
+			-73.935578,41.705787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Rd &amp; Fulton Street (across from Beck Place)<br/>ID: 122</description>
+		<Point> 
+			<coordinates>
+			-73.930387,41.723483,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Dutchess Hospital / DC Fairgrounds<br/>ID: 105</description>
+		<Point> 
+			<coordinates>
+			-73.911412,41.934948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Post Road &amp; Route 9 South<br/>ID: 124</description>
+		<Point> 
+			<coordinates>
+			-73.893514,41.957881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orchard Place &amp; Taylor Avenue<br/>ID: 374</description>
+		<Point> 
+			<coordinates>
+			-73.927161,41.7127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Page Park Drive &amp; Ireland Drive Ext<br/>ID: 172</description>
+		<Point> 
+			<coordinates>
+			-73.873092,41.688269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phillip Allen Swartz Apartments<br/>ID: 391</description>
+		<Point> 
+			<coordinates>
+			-73.910345,41.703116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine Street &amp; Katherine Street<br/>ID: 100</description>
+		<Point> 
+			<coordinates>
+			-73.911424,42.059944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poughkeepsie Plaza - Marshalls<br/>ID: 228</description>
+		<Point> 
+			<coordinates>
+			-73.928147,41.666066,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poughkeepsie Train Station<br/>ID: 3</description>
+		<Point> 
+			<coordinates>
+			-73.93772,41.706521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Hook Public Library<br/>ID: 108</description>
+		<Point> 
+			<coordinates>
+			-73.876977,41.993488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Robin<br/>ID: 226</description>
+		<Point> 
+			<coordinates>
+			-73.932065,41.659607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Residence Inn<br/>ID: 225</description>
+		<Point> 
+			<coordinates>
+			-73.93187,41.660926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rhinebeck Tops<br/>ID: 104</description>
+		<Point> 
+			<coordinates>
+			-73.900609,41.946379,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgefield Apartments<br/>ID: 331</description>
+		<Point> 
+			<coordinates>
+			-73.903762,41.706257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rinaldi Blvd &amp; Main<br/>ID: 380</description>
+		<Point> 
+			<coordinates>
+			-73.938417,41.705233,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rinaldi Boulevard &amp; Gerald Drive<br/>ID: 381</description>
+		<Point> 
+			<coordinates>
+			-73.938346,41.702981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 &amp; CR 41 (West Market Street)<br/>ID: 112</description>
+		<Point> 
+			<coordinates>
+			-73.936277,41.791225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 &amp; Crumwold Place<br/>ID: 113</description>
+		<Point> 
+			<coordinates>
+			-73.93278,41.783089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 &amp; Market Street<br/>ID: 101</description>
+		<Point> 
+			<coordinates>
+			-73.912673,41.927152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 &amp; Old Post Road (Mills Mansion)<br/>ID: 110</description>
+		<Point> 
+			<coordinates>
+			-73.930811,41.839693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Barnes &amp; Noble<br/>ID: 21</description>
+		<Point> 
+			<coordinates>
+			-73.92992,41.662315,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Beechwood Ave<br/>ID: 23</description>
+		<Point> 
+			<coordinates>
+			-73.928737,41.672569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Casperkill Golf Club<br/>ID: 19</description>
+		<Point> 
+			<coordinates>
+			-73.925135,41.647647,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Elm Street<br/>ID: 187</description>
+		<Point> 
+			<coordinates>
+			-73.896977,41.533822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Kingwood Park<br/>ID: 20</description>
+		<Point> 
+			<coordinates>
+			-73.92806,41.651278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Olive Garden<br/>ID: 17</description>
+		<Point> 
+			<coordinates>
+			-73.915892,41.629341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Poughkeepsie Plaza<br/>ID: 22</description>
+		<Point> 
+			<coordinates>
+			-73.929513,41.667115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N &amp; Sharon Drive<br/>ID: 24</description>
+		<Point> 
+			<coordinates>
+			-73.928732,41.678259,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 N (across from Red Lobster)<br/>ID: 18</description>
+		<Point> 
+			<coordinates>
+			-73.92138,41.643755,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 North &amp; Wey Road<br/>ID: 95</description>
+		<Point> 
+			<coordinates>
+			-73.893539,41.957585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 North (Across from Stop &amp; Shop)<br/>ID: 88</description>
+		<Point> 
+			<coordinates>
+			-73.930148,41.763143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S &amp; Anthony Drive<br/>ID: 12</description>
+		<Point> 
+			<coordinates>
+			-73.925472,41.647507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S &amp; Beechwood Avenue<br/>ID: 8</description>
+		<Point> 
+			<coordinates>
+			-73.929097,41.672403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S &amp; CR 48 (IBM Rd)<br/>ID: 11</description>
+		<Point> 
+			<coordinates>
+			-73.928268,41.650954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S &amp; Red Lobster<br/>ID: 13</description>
+		<Point> 
+			<coordinates>
+			-73.921602,41.643536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S &amp; Sharon Drive<br/>ID: 7</description>
+		<Point> 
+			<coordinates>
+			-73.928865,41.677515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S &amp; Speedway<br/>ID: 10</description>
+		<Point> 
+			<coordinates>
+			-73.930267,41.662406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 S (across from Olive Garden)<br/>ID: 14</description>
+		<Point> 
+			<coordinates>
+			-73.916235,41.629449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 South (Stop &amp; Shop Entrance)<br/>ID: 106</description>
+		<Point> 
+			<coordinates>
+			-73.930396,41.763083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 South @ Marist College Cutout<br/>ID: 86</description>
+		<Point> 
+			<coordinates>
+			-73.93193,41.722767,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D &amp; Carmine Dr<br/>ID: 53</description>
+		<Point> 
+			<coordinates>
+			-73.920281,41.591459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D &amp; Verplanck Ave<br/>ID: 506</description>
+		<Point> 
+			<coordinates>
+			-73.976615,41.512447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D (Wolcott Avenue) &amp; Beacon Street<br/>ID: 209</description>
+		<Point> 
+			<coordinates>
+			-73.978553,41.507053,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D (Wolcott Avenue) &amp; Howland Avenue (Mount Beacon)<br/>ID: 212</description>
+		<Point> 
+			<coordinates>
+			-73.959663,41.494007,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D (Wolcott Avenue) &amp; Jordan Road<br/>ID: 208</description>
+		<Point> 
+			<coordinates>
+			-73.974832,41.500606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; CR 28 (Old Hopewell Rd)<br/>ID: 66</description>
+		<Point> 
+			<coordinates>
+			-73.929523,41.580773,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; CR 93 (Middlebush Rd)<br/>ID: 67</description>
+		<Point> 
+			<coordinates>
+			-73.922161,41.585736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Chelsea Rd<br/>ID: 64</description>
+		<Point> 
+			<coordinates>
+			-73.943189,41.549526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Delavergne Ave<br/>ID: 69</description>
+		<Point> 
+			<coordinates>
+			-73.920626,41.607428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Dutchess Stadium<br/>ID: 62</description>
+		<Point> 
+			<coordinates>
+			-73.96254,41.52826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Main Street<br/>ID: 59</description>
+		<Point> 
+			<coordinates>
+			-73.977519,41.508272,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Misk Ln<br/>ID: 65</description>
+		<Point> 
+			<coordinates>
+			-73.933106,41.572371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Pappas Ln<br/>ID: 63</description>
+		<Point> 
+			<coordinates>
+			-73.965604,41.526576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D N &amp; Spring St (Mesier Park)<br/>ID: 68</description>
+		<Point> 
+			<coordinates>
+			-73.918333,41.597994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D S &amp; Alpine Dr<br/>ID: 54</description>
+		<Point> 
+			<coordinates>
+			-73.93356,41.571744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D S &amp; Chelsea Ridge Apts.<br/>ID: 55</description>
+		<Point> 
+			<coordinates>
+			-73.943965,41.552047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D S &amp; Delavergne Avenue<br/>ID: 51</description>
+		<Point> 
+			<coordinates>
+			-73.920657,41.607901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D S &amp; Hudson View Drive<br/>ID: 58</description>
+		<Point> 
+			<coordinates>
+			-73.973559,41.522457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D S (across from Dutchess Stadium)<br/>ID: 57</description>
+		<Point> 
+			<coordinates>
+			-73.962833,41.528379,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D S (across from School Street)<br/>ID: 52</description>
+		<Point> 
+			<coordinates>
+			-73.920933,41.60211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9D and Beekman Street<br/>ID: 72</description>
+		<Point> 
+			<coordinates>
+			-73.977656,41.509617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9G &amp; CR 78 (Broadway)<br/>ID: 99</description>
+		<Point> 
+			<coordinates>
+			-73.898412,42.056701,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9G &amp; Route 199<br/>ID: 90</description>
+		<Point> 
+			<coordinates>
+			-73.907846,42.000118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9G (Violet Ave.) &amp; West Dorsey Lane<br/>ID: 119</description>
+		<Point> 
+			<coordinates>
+			-73.91132,41.744475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9G (Violet Avenue) &amp; East Dorsey Lane<br/>ID: 92</description>
+		<Point> 
+			<coordinates>
+			-73.911122,41.744381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9G (Violet Avenue) &amp; Fulton Street<br/>ID: 87</description>
+		<Point> 
+			<coordinates>
+			-73.911178,41.72628,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9S &amp; Hudson Plaza<br/>ID: 9</description>
+		<Point> 
+			<coordinates>
+			-73.929951,41.666034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 22 &amp; Route 343 West<br/>ID: 147</description>
+		<Point> 
+			<coordinates>
+			-73.58067,41.758557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 22 North (Across from Big W BBQ)<br/>ID: 173</description>
+		<Point> 
+			<coordinates>
+			-73.574105,41.626915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; ACME<br/>ID: 141</description>
+		<Point> 
+			<coordinates>
+			-73.825439,41.74416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Adams<br/>ID: 153</description>
+		<Point> 
+			<coordinates>
+			-73.878829,41.699546,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Arnoff<br/>ID: 140</description>
+		<Point> 
+			<coordinates>
+			-73.841525,41.726414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Canterbury Plaza / Adams<br/>ID: 139</description>
+		<Point> 
+			<coordinates>
+			-73.878664,41.699477,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Chase Bank<br/>ID: 145</description>
+		<Point> 
+			<coordinates>
+			-73.824281,41.744225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Hillside Terrace Apts.<br/>ID: 151</description>
+		<Point> 
+			<coordinates>
+			-73.843545,41.724737,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Magurno Lane<br/>ID: 152</description>
+		<Point> 
+			<coordinates>
+			-73.855467,41.717802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Pleasant Valley Bike Shop<br/>ID: 150</description>
+		<Point> 
+			<coordinates>
+			-73.828573,41.743309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Rochdale Road<br/>ID: 132</description>
+		<Point> 
+			<coordinates>
+			-73.854239,41.717875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Town Hall<br/>ID: 133</description>
+		<Point> 
+			<coordinates>
+			-73.82901,41.742822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Washington Hollow Plaza East<br/>ID: 134</description>
+		<Point> 
+			<coordinates>
+			-73.756703,41.782556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 &amp; Washington Hollow Plaza West<br/>ID: 149</description>
+		<Point> 
+			<coordinates>
+			-73.757159,41.782519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 E &amp; Burnett Boulevard<br/>ID: 131</description>
+		<Point> 
+			<coordinates>
+			-73.889147,41.696788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 W &amp; Burnett Boulevard<br/>ID: 312</description>
+		<Point> 
+			<coordinates>
+			-73.888583,41.697295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44 W &amp; Dutchess Center<br/>ID: 154</description>
+		<Point> 
+			<coordinates>
+			-73.890219,41.696756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 44/55 W (Maple Street) &amp; Innis Avenue<br/>ID: 330</description>
+		<Point> 
+			<coordinates>
+			-73.907733,41.699158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 52 (Fishkill Ave) &amp; Main Street<br/>ID: 193</description>
+		<Point> 
+			<coordinates>
+			-73.967003,41.503688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 52 W (Main Street) &amp; Church Street<br/>ID: 192</description>
+		<Point> 
+			<coordinates>
+			-73.900585,41.535787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 &amp; CR 21 (Bruzgal Road)<br/>ID: 166</description>
+		<Point> 
+			<coordinates>
+			-73.728744,41.651474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 E &amp; Burnett Boulevard<br/>ID: 161</description>
+		<Point> 
+			<coordinates>
+			-73.889778,41.692329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 E (Cutout) &amp; Old Manchester Road<br/>ID: 162</description>
+		<Point> 
+			<coordinates>
+			-73.862653,41.683243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 East &amp; E. Noxon Road<br/>ID: 178</description>
+		<Point> 
+			<coordinates>
+			-73.72923,41.651963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 East &amp; Route 82<br/>ID: 177</description>
+		<Point> 
+			<coordinates>
+			-73.763798,41.6711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 East &amp; Route 216<br/>ID: 179</description>
+		<Point> 
+			<coordinates>
+			-73.673576,41.607353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 W &amp; Hudson River Housing<br/>ID: 160</description>
+		<Point> 
+			<coordinates>
+			-73.863659,41.684046,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 55 West &amp; Route 82<br/>ID: 165</description>
+		<Point> 
+			<coordinates>
+			-73.763852,41.671271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 199 &amp; Route 9 South<br/>ID: 98</description>
+		<Point> 
+			<coordinates>
+			-73.876478,41.994209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 199 &amp; Route 9G<br/>ID: 96</description>
+		<Point> 
+			<coordinates>
+			-73.908673,42.000768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 216 &amp; Route 55 West<br/>ID: 168</description>
+		<Point> 
+			<coordinates>
+			-73.673298,41.607419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 343 &amp; Route 22 East<br/>ID: 137</description>
+		<Point> 
+			<coordinates>
+			-73.580299,41.758636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 376 &amp; CR 77 (Vassar Road)<br/>ID: 206</description>
+		<Point> 
+			<coordinates>
+			-73.874865,41.654602,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Adams<br/>ID: 45</description>
+		<Point> 
+			<coordinates>
+			-73.909031,41.57373,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Commonwealth Ave (ShopRite)<br/>ID: 38</description>
+		<Point> 
+			<coordinates>
+			-73.900483,41.538494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Hannaford<br/>ID: 40</description>
+		<Point> 
+			<coordinates>
+			-73.907662,41.589709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Kohl's<br/>ID: 43</description>
+		<Point> 
+			<coordinates>
+			-73.912609,41.612118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Merritt Blvd<br/>ID: 32</description>
+		<Point> 
+			<coordinates>
+			-73.893573,41.530381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; New Hackensack Rd<br/>ID: 41</description>
+		<Point> 
+			<coordinates>
+			-73.911228,41.598736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Old Hopewell Rd<br/>ID: 39</description>
+		<Point> 
+			<coordinates>
+			-73.908843,41.579636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Red Line Diner<br/>ID: 36</description>
+		<Point> 
+			<coordinates>
+			-73.892643,41.528809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 N &amp; Scenic Dr<br/>ID: 42</description>
+		<Point> 
+			<coordinates>
+			-73.911802,41.603815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Adams<br/>ID: 44</description>
+		<Point> 
+			<coordinates>
+			-73.909365,41.572925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Church St<br/>ID: 31</description>
+		<Point> 
+			<coordinates>
+			-73.900656,41.537879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Colonial Dr<br/>ID: 27</description>
+		<Point> 
+			<coordinates>
+			-73.911721,41.599736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Hark Plaza<br/>ID: 30</description>
+		<Point> 
+			<coordinates>
+			-73.909377,41.578681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Middlebush Rd<br/>ID: 29</description>
+		<Point> 
+			<coordinates>
+			-73.908071,41.5897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; W Merritt Blvd<br/>ID: 37</description>
+		<Point> 
+			<coordinates>
+			-73.894001,41.530047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Wenliss Terrace<br/>ID: 28</description>
+		<Point> 
+			<coordinates>
+			-73.909957,41.594183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 S &amp; Westside Plaza<br/>ID: 26</description>
+		<Point> 
+			<coordinates>
+			-73.913822,41.613297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 55 East &amp; Firemens Way (Cutout)<br/>ID: 176</description>
+		<Point> 
+			<coordinates>
+			-73.854598,41.68014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 55 W &amp; Commerce Street<br/>ID: 163</description>
+		<Point> 
+			<coordinates>
+			-73.857087,41.681327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Cherry St &amp; Route 44<br/>ID: 508</description>
+		<Point> 
+			<coordinates>
+			-73.918358,41.698353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Salt Point Tpk &amp; CR 75 (Innis Avenue)<br/>ID: 342</description>
+		<Point> 
+			<coordinates>
+			-73.902815,41.714429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ShopRite &amp; Winslow Gate Road<br/>ID: 284</description>
+		<Point> 
+			<coordinates>
+			-73.92942,41.729827,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith Street &amp; Mansion Street<br/>ID: 335</description>
+		<Point> 
+			<coordinates>
+			-73.916759,41.70555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith Street &amp; Weed Street<br/>ID: 339</description>
+		<Point> 
+			<coordinates>
+			-73.910873,41.709912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Avenue / Market Street &amp; Montgomery Street<br/>ID: 25</description>
+		<Point> 
+			<coordinates>
+			-73.930825,41.699331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Clinton &amp; Hooker<br/>ID: 272</description>
+		<Point> 
+			<coordinates>
+			-73.923093,41.696566,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Grand Avenue &amp; Main Street<br/>ID: 372</description>
+		<Point> 
+			<coordinates>
+			-73.905713,41.69675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spring Manor E<br/>ID: 293</description>
+		<Point> 
+			<coordinates>
+			-73.927286,41.67788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spring Manor W<br/>ID: 292</description>
+		<Point> 
+			<coordinates>
+			-73.927175,41.678027,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spruce Street &amp; Delafield Street<br/>ID: 377</description>
+		<Point> 
+			<coordinates>
+			-73.933406,41.714414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St. Simeons<br/>ID: 291</description>
+		<Point> 
+			<coordinates>
+			-73.921764,41.682171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop<br/>ID: 313</description>
+		<Point> 
+			<coordinates>
+			-73.886949,41.700555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taconic D.D.S.O.<br/>ID: 138</description>
+		<Point> 
+			<coordinates>
+			-73.558793,41.77053,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taft Avenue &amp; Main Street<br/>ID: 222</description>
+		<Point> 
+			<coordinates>
+			-73.897123,41.695782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Teller Avenue &amp; Main Street<br/>ID: 194</description>
+		<Point> 
+			<coordinates>
+			-73.967185,41.503105,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tenmile River Railroad Station East<br/>ID: 142</description>
+		<Point> 
+			<coordinates>
+			-73.558029,41.780222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tenmile River Railroad Station West<br/>ID: 146</description>
+		<Point> 
+			<coordinates>
+			-73.557752,41.780169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Shoppes at South Hills<br/>ID: 16</description>
+		<Point> 
+			<coordinates>
+			-73.920351,41.616369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tioranda Avenue &amp; Route 9D (Wolcott Avenue)<br/>ID: 213</description>
+		<Point> 
+			<coordinates>
+			-73.967416,41.49858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vassar Brothers Medical Center<br/>ID: 290</description>
+		<Point> 
+			<coordinates>
+			-73.93475,41.694551,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vassar Garden Apartments<br/>ID: 144</description>
+		<Point> 
+			<coordinates>
+			-73.903942,41.694364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Verrazano Boulevard &amp; Washington Street<br/>ID: 85</description>
+		<Point> 
+			<coordinates>
+			-73.930049,41.709543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Center Street &amp; Teller Avenue<br/>ID: 61</description>
+		<Point> 
+			<coordinates>
+			-73.969778,41.500235,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walmart (Fishkill)<br/>ID: 33</description>
+		<Point> 
+			<coordinates>
+			-73.898482,41.529742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington St. N. &amp; Mansion St.<br/>ID: 286</description>
+		<Point> 
+			<coordinates>
+			-73.928733,41.707882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Street &amp; Bain Avenue<br/>ID: 375</description>
+		<Point> 
+			<coordinates>
+			-73.929861,41.711366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Street &amp; Mansion Street (Interfaith Towers)<br/>ID: 287</description>
+		<Point> 
+			<coordinates>
+			-73.928977,41.707912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Street &amp; Verrazano Boulevard<br/>ID: 123</description>
+		<Point> 
+			<coordinates>
+			-73.929517,41.710069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Weed Street &amp; Smith Street<br/>ID: 334</description>
+		<Point> 
+			<coordinates>
+			-73.910444,41.710125,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Dorsey Lane &amp; Route 9 (CIA)<br/>ID: 118</description>
+		<Point> 
+			<coordinates>
+			-73.930102,41.743864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Dorsey Lane &amp; Route 9N (CIA)<br/>ID: 93</description>
+		<Point> 
+			<coordinates>
+			-73.930769,41.744269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Worrall Avenue &amp; Main Street<br/>ID: 356</description>
+		<Point> 
+			<coordinates>
+			-73.908568,41.697021,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

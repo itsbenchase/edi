@@ -649,12 +649,53 @@ public class ediCalc
       }
 
       // full line haversine
-      double firstLon = Math.toRadians(Math.abs(theLine[0].getLon()));
-      double lastLon = Math.toRadians(Math.abs(theLine[theLine.length  - 1].getLon())); // 11 is temp
-      double firstLat = Math.toRadians(Math.abs(theLine[0].getLat()));
-      double lastLat = Math.toRadians(Math.abs(theLine[theLine.length - 1].getLat())); // 11 is temp
-      double difflon = lastLon - firstLon;
-      double difflat = lastLat - firstLat;
+      double firstLon = Math.toRadians(theLine[0].getLon());
+      double lastLon = Math.toRadians(theLine[theLine.length  - 1].getLon()); // 11 is temp
+      double firstLat = Math.toRadians(theLine[0].getLat());
+      double lastLat = Math.toRadians(theLine[theLine.length - 1].getLat()); // 11 is temp
+      double difflon = 0; // placeholder
+      double difflat = 0; // placeholder
+
+      // longitude math
+      if (firstLon >= 0 && lastLon >= 0)
+      {
+        difflon = lastLon - firstLon;
+      }
+      else if (firstLon <= 0 && lastLon <= 0)
+      {
+        lastLon = Math.abs(lastLon);
+        firstLon = Math.abs(firstLon);
+        difflon = lastLon - firstLon;
+      }
+      else if (firstLon <= 0 && lastLon >= 0)
+      {
+        difflon = Math.abs(firstLon - lastLon);
+      }
+      else if (firstLon >= 0 && lastLon <= 0)
+      {
+        difflon = Math.abs(lastLon - firstLon);
+      }
+
+      // latitude math
+      if (firstLat >= 0 && lastLat >= 0)
+      {
+        difflat = lastLat - firstLat;
+      }
+      else if (firstLat <= 0 && lastLat <= 0)
+      {
+        lastLat = Math.abs(lastLat);
+        firstLat = Math.abs(firstLat);
+        difflat = lastLat - firstLat;
+      }
+      else if (firstLat <= 0 && lastLat >= 0)
+      {
+        difflat = Math.abs(firstLat - lastLat);
+      }
+      else if (firstLat >= 0 && lastLat <= 0)
+      {
+        difflat = Math.abs(lastLat - firstLat);
+      }
+
       double a1 = Math.pow(Math.sin(difflat / 2), 2) + Math.cos(firstLat) * Math.cos(lastLat) * Math.pow(Math.sin(difflon / 2), 2);      
       double c1 = 2 * Math.asin(Math.sqrt(a1));
       double r1 = 3963;
@@ -788,12 +829,53 @@ public class ediCalc
     }
 
     // full line haversine
-    double firstLon = Math.toRadians(Math.abs(theLine[0].getLon()));
-    double lastLon = Math.toRadians(Math.abs(theLine[theLine.length  - 1].getLon())); // 11 is temp
-    double firstLat = Math.toRadians(Math.abs(theLine[0].getLat()));
-    double lastLat = Math.toRadians(Math.abs(theLine[theLine.length - 1].getLat())); // 11 is temp
-    double difflon = lastLon - firstLon;
-    double difflat = lastLat - firstLat;
+    double firstLon = Math.toRadians(theLine[0].getLon());
+    double lastLon = Math.toRadians(theLine[theLine.length  - 1].getLon());
+    double firstLat = Math.toRadians(theLine[0].getLat());
+    double lastLat = Math.toRadians(theLine[theLine.length - 1].getLat());
+    double difflon = 0; // placeholder
+    double difflat = 0; // placeholder
+
+    // longitude math
+    if (firstLon >= 0 && lastLon >= 0)
+    {
+      difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon <= 0)
+    {
+      lastLon = Math.abs(lastLon);
+      firstLon = Math.abs(firstLon);
+      difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon >= 0)
+    {
+      difflon = Math.abs(firstLon - lastLon);
+    }
+    else if (firstLon >= 0 && lastLon <= 0)
+    {
+      difflon = Math.abs(lastLon - firstLon);
+    }
+
+    // latitude math
+    if (firstLat >= 0 && lastLat >= 0)
+    {
+      difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat <= 0)
+    {
+      lastLat = Math.abs(lastLat);
+      firstLat = Math.abs(firstLat);
+      difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat >= 0)
+    {
+      difflat = Math.abs(firstLat - lastLat);
+    }
+    else if (firstLat >= 0 && lastLat <= 0)
+    {
+      difflat = Math.abs(lastLat - firstLat);
+    }
+
     double a1 = Math.pow(Math.sin(difflat / 2), 2) + Math.cos(firstLat) * Math.cos(lastLat) * Math.pow(Math.sin(difflon / 2), 2);      
     double c1 = 2 * Math.asin(Math.sqrt(a1));
     double r1 = 3963;

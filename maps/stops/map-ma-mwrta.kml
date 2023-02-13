@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ma-mwrta stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9 / 27 Shopping Plaza<br/>ID: N20</description>
+		<Point> 
+			<coordinates>
+			-71.359134,42.301094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 500 Staples Dr rear Entrance<br/>ID: F59</description>
+		<Point> 
+			<coordinates>
+			-71.492766,42.290792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Academy Knoll Apartments<br/>ID: MB8</description>
+		<Point> 
+			<coordinates>
+			-71.56048,42.341978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Apex Entertainment<br/>ID: MB20</description>
+		<Point> 
+			<coordinates>
+			-71.591603,42.337639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington St / Waushakum St<br/>ID: F65</description>
+		<Point> 
+			<coordinates>
+			-71.417529,42.271221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arsenal Rd<br/>ID: F42</description>
+		<Point> 
+			<coordinates>
+			-71.41065,42.295707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashland High School<br/>ID: A2</description>
+		<Point> 
+			<coordinates>
+			-71.472433,42.25058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashland MBTA<br/>ID: A6</description>
+		<Point> 
+			<coordinates>
+			-71.483038,42.261381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Avenu at Natick<br/>ID: N57</description>
+		<Point> 
+			<coordinates>
+			-71.379806,42.301014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: BJ’s Wholesale Club<br/>ID: F67</description>
+		<Point> 
+			<coordinates>
+			-71.39909,42.306957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Banana Lot / Intermodal Center<br/>ID: F56</description>
+		<Point> 
+			<coordinates>
+			-71.417529,42.277084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beaver St &amp; Second St<br/>ID: F51</description>
+		<Point> 
+			<coordinates>
+			-71.402115,42.274105,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bethany Hill<br/>ID: F04</description>
+		<Point> 
+			<coordinates>
+			-71.432618,42.268521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Birmingham Court<br/>ID: MF22</description>
+		<Point> 
+			<coordinates>
+			-71.518674,42.151199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Blandin Hub<br/>ID: BH</description>
+		<Point> 
+			<coordinates>
+			-71.411844,42.275875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broad St / Lincoln St<br/>ID: MB9</description>
+		<Point> 
+			<coordinates>
+			-71.562938,42.343862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: California Ave<br/>ID: F13</description>
+		<Point> 
+			<coordinates>
+			-71.482665,42.298531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Callahan Center<br/>ID: F84</description>
+		<Point> 
+			<coordinates>
+			-71.427725,42.293601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Carlson Rd<br/>ID: F06</description>
+		<Point> 
+			<coordinates>
+			-71.397011,42.272918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Gardens<br/>ID: N28</description>
+		<Point> 
+			<coordinates>
+			-71.355359,42.273839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Street<br/>ID: W2</description>
+		<Point> 
+			<coordinates>
+			-71.248462,42.318384,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Terrace<br/>ID: N29</description>
+		<Point> 
+			<coordinates>
+			-71.355696,42.272928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Central St &amp; Route 30<br/>ID: S8</description>
+		<Point> 
+			<coordinates>
+			-71.509606,42.302183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Central St / Cherry St<br/>ID: S5</description>
+		<Point> 
+			<coordinates>
+			-71.506325,42.296227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chinese Gospel Church<br/>ID: S6</description>
+		<Point> 
+			<coordinates>
+			-71.504718,42.294497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cirrus Apartments<br/>ID: A5</description>
+		<Point> 
+			<coordinates>
+			-71.47833,42.256266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Colonial Rd Capital Rd Housing<br/>ID: MF19</description>
+		<Point> 
+			<coordinates>
+			-71.537067,42.156893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Concord St &amp; Howard St/Downtown Common<br/>ID: F05</description>
+		<Point> 
+			<coordinates>
+			-71.416779,42.27765,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Concord St / Anzio Rd<br/>ID: F73</description>
+		<Point> 
+			<coordinates>
+			-71.40918,42.293092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Coolidge Gardens<br/>ID: N30</description>
+		<Point> 
+			<coordinates>
+			-71.347079,42.280532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crossing Blvd<br/>ID: F36</description>
+		<Point> 
+			<coordinates>
+			-71.490253,42.294937,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Downtown Southborough<br/>ID: S3</description>
+		<Point> 
+			<coordinates>
+			-71.526023,42.305753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: EMK Community Health<br/>ID: MF14</description>
+		<Point> 
+			<coordinates>
+			-71.5188,42.127417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main St Shelter at Beech St<br/>ID: MF9</description>
+		<Point> 
+			<coordinates>
+			-71.513349,42.14364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Edmans House<br/>ID: F85</description>
+		<Point> 
+			<coordinates>
+			-71.437487,42.329685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Esplanade Housing<br/>ID: H3</description>
+		<Point> 
+			<coordinates>
+			-71.560532,42.39214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farm Road &amp; Route 20<br/>ID: MB15</description>
+		<Point> 
+			<coordinates>
+			-71.508256,42.347862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Flutie Pass Park and Ride<br/>ID: F40</description>
+		<Point> 
+			<coordinates>
+			-71.390905,42.300721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Framingham Center<br/>ID: F16</description>
+		<Point> 
+			<coordinates>
+			-71.43454,42.3005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Framingham High School<br/>ID: F82</description>
+		<Point> 
+			<coordinates>
+			-71.400212,42.3192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Framingham MBTA Station<br/>ID: F02</description>
+		<Point> 
+			<coordinates>
+			-71.417774,42.276555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Framingham State University<br/>ID: F11</description>
+		<Point> 
+			<coordinates>
+			-71.43723,42.29773,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin / Mt. Wayte<br/>ID: F54</description>
+		<Point> 
+			<coordinates>
+			-71.428665,42.290064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin St &amp; Proctor St<br/>ID: F57</description>
+		<Point> 
+			<coordinates>
+			-71.418779,42.279632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fruit St / S. Mail St<br/>ID: MF13</description>
+		<Point> 
+			<coordinates>
+			-71.520771,42.133482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Halstead Apartments<br/>ID: F49</description>
+		<Point> 
+			<coordinates>
+			-71.469367,42.293617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Halstead Apartments Rear Parking<br/>ID: F58</description>
+		<Point> 
+			<coordinates>
+			-71.470822,42.293592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hannafords Plaza / CVS<br/>ID: MF23</description>
+		<Point> 
+			<coordinates>
+			-71.502209,42.150182,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hannaford’s Plaza Marlborough<br/>ID: MB18</description>
+		<Point> 
+			<coordinates>
+			-71.5916,42.339746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St<br/>ID: F34</description>
+		<Point> 
+			<coordinates>
+			-71.435702,42.300134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland Commons - Bed Bath and Beyond<br/>ID: H7</description>
+		<Point> 
+			<coordinates>
+			-71.596774,42.395311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland Commons - Market Basket<br/>ID: H8</description>
+		<Point> 
+			<coordinates>
+			-71.595115,42.396663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holliston Congregational Church<br/>ID: HL4</description>
+		<Point> 
+			<coordinates>
+			-71.429172,42.201486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holliston Public Library<br/>ID: HL1</description>
+		<Point> 
+			<coordinates>
+			-71.429371,42.200706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homer Ave &amp; Main St<br/>ID: A1</description>
+		<Point> 
+			<coordinates>
+			-71.463991,42.259513,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hopkinton Center<br/>ID: HP3</description>
+		<Point> 
+			<coordinates>
+			-71.522133,42.228263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hudson Housing Authority<br/>ID: H9</description>
+		<Point> 
+			<coordinates>
+			-71.573287,42.384332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hudson Senior Center<br/>ID: H4</description>
+		<Point> 
+			<coordinates>
+			-71.566775,42.393239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hudson Stop and Shop<br/>ID: H2</description>
+		<Point> 
+			<coordinates>
+			-71.563338,42.378091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hudson WalMart<br/>ID: H1</description>
+		<Point> 
+			<coordinates>
+			-71.55909,42.374993,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kansas St &amp; Route 27<br/>ID: N33</description>
+		<Point> 
+			<coordinates>
+			-71.3564,42.29151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kendall Plaza<br/>ID: N52</description>
+		<Point> 
+			<coordinates>
+			-71.392225,42.282588,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kohl’s<br/>ID: F26</description>
+		<Point> 
+			<coordinates>
+			-71.397203,42.302968,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Leonard Morse Hospital<br/>ID: N16</description>
+		<Point> 
+			<coordinates>
+			-71.334073,42.280355,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln St &amp; Pearl St<br/>ID: F30</description>
+		<Point> 
+			<coordinates>
+			-71.416022,42.282087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln St &amp; Pleasant St<br/>ID: MB2</description>
+		<Point> 
+			<coordinates>
+			-71.559561,42.345905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MCI / Adesa<br/>ID: F60</description>
+		<Point> 
+			<coordinates>
+			-71.407754,42.263876,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Machado House<br/>ID: H5</description>
+		<Point> 
+			<coordinates>
+			-71.567289,42.3948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maher Court<br/>ID: MF8</description>
+		<Point> 
+			<coordinates>
+			-71.511732,42.147563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St<br/>ID: MB7</description>
+		<Point> 
+			<coordinates>
+			-71.54646,42.347161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall Rd / Flutie Pass<br/>ID: N50</description>
+		<Point> 
+			<coordinates>
+			-71.387823,42.301664,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple St / S. Mill St<br/>ID: MB12</description>
+		<Point> 
+			<coordinates>
+			-71.541039,42.331905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple St / Walker St<br/>ID: MB6</description>
+		<Point> 
+			<coordinates>
+			-71.541075,42.333138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market Basket<br/>ID: A3</description>
+		<Point> 
+			<coordinates>
+			-71.426943,42.257457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marlborough City Hall<br/>ID: MB1</description>
+		<Point> 
+			<coordinates>
+			-71.545838,42.346873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marlborough Hospital<br/>ID: MB13</description>
+		<Point> 
+			<coordinates>
+			-71.554882,42.353745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MassBay Community College<br/>ID: F28</description>
+		<Point> 
+			<coordinates>
+			-71.413043,42.291342,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MassBay Community College<br/>ID: W18</description>
+		<Point> 
+			<coordinates>
+			-71.262961,42.311932,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Math Works<br/>ID: N36</description>
+		<Point> 
+			<coordinates>
+			-71.350235,42.300621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mathworks Lakeside<br/>ID: N38</description>
+		<Point> 
+			<coordinates>
+			-71.37585,42.302639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Memorial House (Winthrop &amp; Hollis)<br/>ID: F68</description>
+		<Point> 
+			<coordinates>
+			-71.419979,42.270069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MetroWest Medical Center<br/>ID: F15</description>
+		<Point> 
+			<coordinates>
+			-71.420043,42.284385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Crossing<br/>ID: MF6</description>
+		<Point> 
+			<coordinates>
+			-71.488361,42.149921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford High School<br/>ID: MF18</description>
+		<Point> 
+			<coordinates>
+			-71.532409,42.150858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Kohls<br/>ID: MF24</description>
+		<Point> 
+			<coordinates>
+			-71.489391,42.147858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Library<br/>ID: MF5</description>
+		<Point> 
+			<coordinates>
+			-71.523115,42.144004,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Police and Post Office<br/>ID: MF12</description>
+		<Point> 
+			<coordinates>
+			-71.521175,42.139082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Regional Medical Center<br/>ID: MF15</description>
+		<Point> 
+			<coordinates>
+			-71.528843,42.132698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Senior Center<br/>ID: MF11</description>
+		<Point> 
+			<coordinates>
+			-71.515482,42.140846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Shaw’s / Wallgreen’s<br/>ID: MF16</description>
+		<Point> 
+			<coordinates>
+			-71.53469,42.138221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Target<br/>ID: MF7</description>
+		<Point> 
+			<coordinates>
+			-71.499905,42.160471,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Town Hall<br/>ID: MF10</description>
+		<Point> 
+			<coordinates>
+			-71.517996,42.142458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mission Springs<br/>ID: HL2</description>
+		<Point> 
+			<coordinates>
+			-71.444045,42.179225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moran Park / Downtown MBTA<br/>ID: N44</description>
+		<Point> 
+			<coordinates>
+			-71.347757,42.28545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Natick Common<br/>ID: N15</description>
+		<Point> 
+			<coordinates>
+			-71.34729,42.28378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Natick Mall - Wegmans<br/>ID: N21</description>
+		<Point> 
+			<coordinates>
+			-71.386351,42.301467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New York Ave<br/>ID: F55</description>
+		<Point> 
+			<coordinates>
+			-71.488205,42.29984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield Drive West Central St<br/>ID: F87</description>
+		<Point> 
+			<coordinates>
+			-71.389547,42.281991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newton and Weed St<br/>ID: MB22</description>
+		<Point> 
+			<coordinates>
+			-71.550655,42.346049,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newton-Wellesley Hospital<br/>ID: W4</description>
+		<Point> 
+			<coordinates>
+			-71.246409,42.332436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nobscot Fire Station<br/>ID: F20</description>
+		<Point> 
+			<coordinates>
+			-71.432253,42.329558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nobscot Shopping Center<br/>ID: F53</description>
+		<Point> 
+			<coordinates>
+			-71.434264,42.328686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak St<br/>ID: W1</description>
+		<Point> 
+			<coordinates>
+			-71.33197,42.303611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pinefield<br/>ID: F21</description>
+		<Point> 
+			<coordinates>
+			-71.402609,42.326086,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Post Road Shopping Center<br/>ID: MB14</description>
+		<Point> 
+			<coordinates>
+			-71.535998,42.351793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Price Chopper Hopkinton<br/>ID: HP6</description>
+		<Point> 
+			<coordinates>
+			-71.551598,42.209604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside Station<br/>ID: Ne2</description>
+		<Point> 
+			<coordinates>
+			-71.251776,42.337041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Roche Bros.<br/>ID: N27</description>
+		<Point> 
+			<coordinates>
+			-71.376886,42.282056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rose Kennedy Lane<br/>ID: F29</description>
+		<Point> 
+			<coordinates>
+			-71.41346,42.290524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 9 / Beacon St<br/>ID: F72</description>
+		<Point> 
+			<coordinates>
+			-71.408816,42.298298,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 20 &amp; Felton St<br/>ID: MB3</description>
+		<Point> 
+			<coordinates>
+			-71.578717,42.341322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 85 &amp; Route 135<br/>ID: HP4</description>
+		<Point> 
+			<coordinates>
+			-71.52194,42.228462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 9 East Park &amp; Ride<br/>ID: F08</description>
+		<Point> 
+			<coordinates>
+			-71.483633,42.296406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Second St at Rec Center<br/>ID: F86</description>
+		<Point> 
+			<coordinates>
+			-71.400084,42.276673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Senior Center<br/>ID: N17</description>
+		<Point> 
+			<coordinates>
+			-71.337616,42.286106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw’s Supermarket<br/>ID: A4</description>
+		<Point> 
+			<coordinates>
+			-71.432533,42.240777,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sherwood Plaza<br/>ID: N22</description>
+		<Point> 
+			<coordinates>
+			-71.385415,42.298829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sherwood Village on Mill St.<br/>ID: N23</description>
+		<Point> 
+			<coordinates>
+			-71.383639,42.288441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoppers World Shelter<br/>ID: F25</description>
+		<Point> 
+			<coordinates>
+			-71.394922,42.299806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Simrah Gardens<br/>ID: H6</description>
+		<Point> 
+			<coordinates>
+			-71.597555,42.400096,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Solomon Pond Mall<br/>ID: MB5</description>
+		<Point> 
+			<coordinates>
+			-71.61249,42.35511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South St &amp; Hayward St<br/>ID: HP5</description>
+		<Point> 
+			<coordinates>
+			-71.545307,42.205149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spruce St<br/>ID: MF26</description>
+		<Point> 
+			<coordinates>
+			-71.519333,42.142207,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St Patrick’s Manor<br/>ID: F81</description>
+		<Point> 
+			<coordinates>
+			-71.429958,42.30848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Staples Drive<br/>ID: F14</description>
+		<Point> 
+			<coordinates>
+			-71.488357,42.291077,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop and Shop<br/>ID: F12</description>
+		<Point> 
+			<coordinates>
+			-71.448763,42.297811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Super Stop and Shop<br/>ID: F22</description>
+		<Point> 
+			<coordinates>
+			-71.401722,42.305965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tarelli Ter / Waverly St<br/>ID: F66</description>
+		<Point> 
+			<coordinates>
+			-71.403112,42.279805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Target Marlborough<br/>ID: MB21</description>
+		<Point> 
+			<coordinates>
+			-71.504626,42.348116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Union Ave / Lincoln St.<br/>ID: F70</description>
+		<Point> 
+			<coordinates>
+			-71.421621,42.285101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vernon St &amp; Pleasant St<br/>ID: F19</description>
+		<Point> 
+			<coordinates>
+			-71.436088,42.300806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walmart<br/>ID: F43</description>
+		<Point> 
+			<coordinates>
+			-71.400487,42.300242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wayside Inn Store / Hager St<br/>ID: MB17</description>
+		<Point> 
+			<coordinates>
+			-71.487585,42.351638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wellesley Office Park<br/>ID: PING1</description>
+		<Point> 
+			<coordinates>
+			-71.253132,42.327034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Weston Rd<br/>ID: W19</description>
+		<Point> 
+			<coordinates>
+			-71.312662,42.305336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: White Bagley Rd &amp; Boston Rd<br/>ID: S2</description>
+		<Point> 
+			<coordinates>
+			-71.516147,42.304476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodland MBTA Train Station<br/>ID: W5</description>
+		<Point> 
+			<coordinates>
+			-71.243103,42.333181,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>
