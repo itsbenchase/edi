@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.io.File;
 import java.io.FileWriter;
 
-public class stopMap
+public class StopMap
 {
   public static void main(String [] args)
   {

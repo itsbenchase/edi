@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class list
+public class StopList
 {
   public static void main(String [] args)
   {

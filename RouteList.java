@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class routeList
+public class RouteList
 {
   public static void main(String [] args)
   {

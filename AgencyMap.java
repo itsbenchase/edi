@@ -1,9 +1,10 @@
+// creates individual agency maps
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
 import java.io.FileWriter;
 
-public class mapGen
+public class AgencyMap
 {
   public static void main(String [] args)
   {
@@ -192,6 +193,8 @@ public class mapGen
       {
         System.out.println("Error.");
       }
+
+      System.out.println("Agency Maps: " + (a + 1) + " / " + agencies.size());
     }
   }
 }
