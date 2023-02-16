@@ -10,7 +10,7 @@ public class Stop
   private double lon; // stop longitude
   private int order; // order in line
   private String lineEDI; // line stop is on
-  private double edi; // edi of a route, only used in mapGen
+  private double edi; // edi of a route, only used in FullMap and AgencyMap
   private ArrayList<String> line; // not used in EDI (Fixing Fare Zones only)
 
   // this is a generic class used in both EDI and Fixing Fare Zones.
@@ -52,7 +52,7 @@ public class Stop
     lon = lo;
     lineEDI = l;
   }
-  public Stop(String l, double e)
+  public Stop(String l, double e) // in FullMap and AgencyMap
   {
     lineEDI = l;
     edi = e;
