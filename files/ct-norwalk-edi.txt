@@ -1,6 +1,173 @@
-142;South Norwalk Railroad Station;41.096634;-73.421165;10-20-westport;1
-211;Department of Motor Vehicles;41.15514;-73.423721;10-20-westport;2
-292;iPark 1 (L.A. Fitness);41.15992;-73.421539;10-20-westport;3
-199;50 Danbury Rd;41.168388;-73.416374;10-20-westport;4
-200;10 / 20 Westport Rd;41.18021;-73.41227;10-20-westport;5
-201;187 Danbury Rd;41.185055;-73.420593;10-20-westport;6
+186;Norwalk Community College;41.101311;-73.451271;Conn Ave;1
+119;75 Richards Ave. & Connecticut Ave.;41.094662;-73.451073;Conn Ave;2
+111;680 Connecticut Ave. / Wal-Mart;41.094975;-73.449493;Conn Ave;3
+91;500 Connecticut Ave. / Kohl's;41.098408;-73.443741;Conn Ave;4
+87;444 Connecticut Ave. / Sports Authority;41.100346;-73.441071;Conn Ave;5
+1;100 Connecticut Ave. & Clinton;41.106358;-73.425858;Conn Ave;6
+194;Maple & Van Buren;41.11174;-73.419716;Conn Ave;7
+298;Jefferson Elem School OB;41.115269;-73.420044;Conn Ave;8
+149;WHEELS Hub;41.118259;-73.414993;Conn Ave;9
+184;YMCA;41.11121;-73.417145;Conn Ave;10
+66;30 West Ave. / Norwalk Housing Authority;41.102787;-73.419952;Conn Ave;11
+142;South Norwalk Railroad Station;41.096634;-73.421165;Conn Ave;12
+182;Roodner Court;41.084663;-73.426331;Conn Ave;13
+183;Wilson Ave;41.080044;-73.42305;Conn Ave;14
+179;Dock;41.082706;-73.415794;Main Ave;1
+123;86 Woodward Ave. & Meadow;41.089848;-73.415924;Main Ave;2
+94;52 Woodward Ave. & Burritt;41.091499;-73.416786;Main Ave;3
+391;Burritt & Water NB;41.092098;-73.414818;Main Ave;4
+110;68 Water St. & Elizabeth;41.097343;-73.415977;Main Ave;5
+392;Washington & N Main NB;41.099098;-73.418831;Main Ave;6
+39;17 West Ave. / Grace Baptist Church;41.103474;-73.419922;Main Ave;7
+90;467 West Ave. & Butler (across from Y.M.);41.110573;-73.417557;Main Ave;8
+104;627 West Ave. & Chapel;41.114365;-73.415207;Main Ave;9
+149;WHEELS Hub;41.118259;-73.414993;Main Ave;10
+366;Cross & Main DB;41.121403;-73.413177;Main Ave;11
+370;Main & New Cannan OB;41.126736;-73.421394;Main Ave;12
+56;258 Main Ave. & Maplewood;41.131721;-73.423584;Main Ave;13
+59;276 Main Ave.;41.133343;-73.423134;Main Ave;14
+77;350 Main Ave. & Briggs High School;41.138882;-73.426071;Main Ave;15
+192;Stop & Shop;41.140511;-73.425774;Main Ave;16
+44;20 Glover Ave & Vertrue;41.143433;-73.427498;Main Ave;17
+193;Merritt 7;41.14817;-73.426102;Main Ave;18
+211;Department of Motor Vehicles;41.15514;-73.423721;Main Ave;19
+164;Wal-Mart;41.159199;-73.419411;Main Ave;20
+149;WHEELS Hub;41.118259;-73.414993;13;1
+298;Jefferson Elem School OB;41.115269;-73.420044;13;2
+132;Connecticut Ave. & Maple / Norwalk Hospital;41.111572;-73.419563;13;3
+106;64 Connecticut Ave. & Woodbury;41.107475;-73.422066;13;4
+191;Stuart;41.107071;-73.423431;13;5
+1;100 Connecticut Ave. & Clinton;41.106358;-73.425858;13;6
+45;200 Connecticut Ave. / Silver Star Diner;41.104168;-73.43232;13;7
+185;Scribner & Connecticut;41.102547;-73.435944;13;8
+72;330 Connecticut Ave. / T.J. Maxx;41.101826;-73.437828;13;9
+87;444 Connecticut Ave. / Sports Authority;41.100346;-73.441071;13;10
+91;500 Connecticut Ave. / Kohl's;41.098408;-73.443741;13;11
+98;554 Connecticut Ave. / Oak Knoll Condos;41.096554;-73.446754;13;12
+111;680 Connecticut Ave. / Wal-Mart;41.094975;-73.449493;13;13
+119;75 Richards Ave. & Connecticut Ave.;41.094662;-73.451073;13;14
+40;188 Richards Ave. / N.C.C. East Campus;41.102161;-73.450714;13;15
+149;WHEELS Hub;41.118259;-73.414993;11;1
+116;71 Wall Street;41.117458;-73.413795;11;2
+14;128 East Ave. across from City Hall;41.113052;-73.407677;11;3
+174;Thruway & East;41.108559;-73.406181;11;4
+48;208 East Ave. / St. Thomas Parish Ctr.;41.105728;-73.40509;11;5
+320;East Norwalk Railroad Station OB;41.104206;-73.404587;11;6
+321;25 Van Zant St OB;41.101326;-73.407898;11;7
+6;11 Fort Point & Van Zant;41.100788;-73.411057;11;8
+136;Fort Point & Liberty Square;41.100109;-73.411469;11;9
+127;99 Washington St.;41.098965;-73.417694;11;10
+15;13 South Main St. & Washington;41.098545;-73.418907;11;11
+323;S Main & Monroe OB;41.096764;-73.419052;11;12
+142;South Norwalk Railroad Station;41.096634;-73.421165;11;13
+89;45 Ely Ave;41.093338;-73.423714;11;14
+318;Lowe St & MLK OB;41.092983;-73.424721;11;15
+69;32 Lowe St. & Cleveland;41.093884;-73.425774;11;16
+20;14 Lowe St. & Hamilton;41.095055;-73.425842;11;17
+324;Taylor & Hillside OB;41.098202;-73.427048;11;18
+316;Morton & Taylor OB;41.100758;-73.429283;11;19
+185;Scribner & Connecticut;41.102547;-73.435944;11;20
+72;330 Connecticut Ave. / T.J. Maxx;41.101826;-73.437828;11;21
+87;444 Connecticut Ave. / Sports Authority;41.100346;-73.441071;11;22
+91;500 Connecticut Ave. / Kohl's;41.098408;-73.443741;11;23
+98;554 Connecticut Ave. / Oak Knoll Condos;41.096554;-73.446754;11;24
+111;680 Connecticut Ave. / Wal-Mart;41.094975;-73.449493;11;25
+119;75 Richards Ave. & Connecticut Ave.;41.094662;-73.451073;11;26
+40;188 Richards Ave. / N.C.C. East Campus;41.102161;-73.450714;11;27
+149;WHEELS Hub;41.118259;-73.414993;10;1
+117;710 West Ave. & Mott Ave.;41.116196;-73.414841;10;2
+113;696 West Ave. & Chapel St. / CVS;41.114368;-73.415222;10;3
+103;602 West Ave. & Arch St.;41.112923;-73.415848;10;4
+92;500 West Ave. & Maple St.;41.111507;-73.416771;10;5
+80;370 West Ave. / Y.M.C.A.;41.111168;-73.417061;10;6
+122;84 West Ave. & Reed St.;41.104263;-73.419785;10;7
+66;30 West Ave. / Norwalk Housing Authority;41.102787;-73.419952;10;8
+61;28 Martin Luther King Jr. Dr. / St. Paul;41.100342;-73.421677;10;9
+139;Martin Luther King Jr. Dr. & Madison;41.09819;-73.422569;10;10
+50;24 1/2 Monroe St. / Norwalk Housing Auth;41.096615;-73.421692;10;11
+142;South Norwalk Railroad Station;41.096634;-73.421165;10;12
+89;45 Ely Ave;41.093338;-73.423714;10;13
+51;24 Lexington Ave.;41.091969;-73.423302;10;14
+93;52 Lexington Ave. & Austin;41.090096;-73.42337;10;15
+118;72 Lexington Ave. & Hemlock;41.088924;-73.423828;10;16
+2;100 Lexington Ave. & Knapp;41.087486;-73.42424;10;17
+52;242 Ely Ave. & Moscariello;41.085999;-73.425926;10;18
+135;Ely Ave. / Roodner Court;41.08466;-73.426331;10;19
+63;284 Ely Ave. & Testa Pl.;41.08358;-73.427391;10;20
+68;316 Ely Ave.;41.081451;-73.42791;10;21
+74;345 Ely Ave / Swank Inc.;41.079174;-73.427422;10;22
+79;366 Ely Ave. & Duke Pl.;41.078068;-73.426941;10;23
+149;WHEELS Hub;41.118259;-73.414993;9;1
+151;Hospital;41.110508;-73.420609;9;2
+17;135 Connecticut Ave. & Cedar;41.105038;-73.428909;9;3
+142;South Norwalk Railroad Station;41.096634;-73.421165;9;4
+129;Burritt & 50 Woodward Ave.;41.09148;-73.416893;9;5
+149;WHEELS Hub;41.118259;-73.414993;7;1
+116;71 Wall Street;41.117458;-73.413795;7;2
+171;Stew Leonard's;41.122829;-73.402901;7;3
+30;152 Westport Ave. & George St. / Kingsway;41.123539;-73.401093;7;4
+53;250 Westport Ave. & County St.;41.124538;-73.396774;7;5
+307;Westport Ave & Strawberry Ave;41.125629;-73.391212;7;6
+172;Norwalk High School OB;41.121693;-73.391602;7;7
+308;Naramake Elem School OB;41.120613;-73.392197;7;8
+310;Nathan Hale Middle School OB;41.117512;-73.395187;7;9
+134;East Norwalk Railroad Station;41.104206;-73.404587;7;10
+312;Ludlow Shopping Center OB;41.103031;-73.404175;7;11
+314;Marvin Elem School OB;41.093792;-73.396652;7;12
+130;Calf Pasture Beach Rd. & Canfield Ave.;41.087593;-73.394119;7;13
+213;Wilton Center;41.190941;-73.427643;4;1
+212;Wolfpit Park & Ride Lot;41.183731;-73.419144;4;2
+199;50 Danbury Rd;41.168388;-73.416374;4;3
+292;iPark 1 (L.A. Fitness);41.15992;-73.421539;4;4
+293;iPark 2 (Crosswalk);41.158836;-73.421646;4;5
+305;All Saints School IB;41.137665;-73.4161;4;6
+163;West Rocks School;41.134602;-73.414169;4;7
+162;Park & North;41.12138;-73.408669;4;8
+149;WHEELS Hub;41.118259;-73.414993;4;9
+95;527 Main Ave. / Sunnoco / DMV;41.154732;-73.42408;3;1
+3;101 Merritt 7 & Main Ave.;41.151302;-73.425072;3;2
+46;201 / 301 Merritt 7 & Main Ave.;41.149864;-73.425636;3;3
+85;401 / 501 Merritt 7 & Main Ave.;41.148159;-73.42614;3;4
+102;601 Merritt 7 & Main Ave.;41.146221;-73.426392;3;5
+120;801 Merritt 7 & Main Ave.;41.145134;-73.426338;3;6
+81;377 Main Ave. (across from Stop & Shop);41.1408;-73.425842;3;7
+78;353 Main Ave. (across from Briggs High);41.140202;-73.426025;3;8
+75;345 Main Ave. & Parkway Plaza;41.139301;-73.426224;3;9
+71;327 Main Ave. & Perry Ave. / CVS;41.136044;-73.424797;3;10
+57;267 Main Ave. & Diamond Plaza;41.133274;-73.424194;3;11
+54;253 Main Ave & Broad St.;41.132187;-73.423866;3;12
+101;6 Ward St. & Main Ave. / Bank of America;41.129978;-73.422989;3;13
+34;16 Ward St. & Thames;41.130268;-73.420822;3;14
+125;95 Ward St. & Union Ave.;41.127167;-73.413956;3;15
+86;43 Union Ave. Senior Court;41.126186;-73.414604;3;16
+159;Main & Union;41.124073;-73.416016;3;17
+13;125 Main St. & West Main St.;41.123131;-73.415688;3;18
+138;Main St. & School;41.121933;-73.41452;3;19
+149;WHEELS Hub;41.118259;-73.414993;3;20
+156;Spring Hill & Ponus;41.125965;-73.430939;1-in;1
+295;Ponus Ridge Middle School;41.12344;-73.440895;1-in;2
+296;Fillow St & N Taylor Ave;41.117882;-73.438454;1-in;3
+32;155 N. Taylor & Windward;41.113674;-73.439247;1-in;4
+154;N. Taylor & Benedict;41.110008;-73.433983;1-in;5
+67;31 Stevens Street / Norwalk Hospital;41.110332;-73.421478;1-in;6
+294;Jefferson Elem School IB;41.115341;-73.419899;1-in;7
+149;WHEELS Hub;41.118259;-73.414993;1-in;8
+149;WHEELS Hub;41.118259;-73.414993;1-out;1
+298;Jefferson Elem School OB;41.115269;-73.420044;1-out;2
+67;31 Stevens Street / Norwalk Hospital;41.110332;-73.421478;1-out;3
+152;Kendall School;41.118656;-73.433044;1-out;4
+295;Ponus Ridge Middle School;41.12344;-73.440895;1-out;5
+156;Spring Hill & Ponus;41.125965;-73.430939;1-out;6
+142;South Norwalk Railroad Station;41.096634;-73.421165;Merritt 7;1
+95;527 Main Ave. / Sunnoco / DMV;41.154732;-73.42408;Merritt 7;2
+372;101 Merritt 7;41.150967;-73.425171;Merritt 7;3
+46;201 / 301 Merritt 7 & Main Ave.;41.149864;-73.425636;Merritt 7;4
+85;401 / 501 Merritt 7 & Main Ave.;41.148159;-73.42614;Merritt 7;5
+205;601 Merritt 7;41.146248;-73.426392;Merritt 7;6
+207;Merritt on the River;41.143581;-73.425888;Merritt 7;7
+142;South Norwalk Railroad Station;41.096634;-73.421165;10-20 Westport;1
+211;Department of Motor Vehicles;41.15514;-73.423721;10-20 Westport;2
+292;iPark 1 (L.A. Fitness);41.15992;-73.421539;10-20 Westport;3
+199;50 Danbury Rd;41.168388;-73.416374;10-20 Westport;4
+200;10 / 20 Westport Rd;41.18021;-73.41227;10-20 Westport;5
+201;187 Danbury Rd;41.185055;-73.420593;10-20 Westport;6

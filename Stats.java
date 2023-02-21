@@ -35,6 +35,7 @@ public class Stats
 
       ArrayList<Double> lengths = new ArrayList<Double>(); // stores all lengths
       ArrayList<Double> edis = new ArrayList<Double>();
+      double totals = 0.00; // total EDI miles in agency
 
       // global database search
       if (agencyChoice.equalsIgnoreCase("global"))
@@ -69,6 +70,7 @@ public class Stats
 
               lengths.add(miles);
               edis.add(edi);
+              totals += miles;
             }
           }
           catch (Exception e)
@@ -94,6 +96,7 @@ public class Stats
 
             lengths.add(miles);
             edis.add(edi);
+            totals += miles;
           }
         }
         catch (Exception e)
@@ -178,7 +181,11 @@ public class Stats
         medianLength = Math.round(medianLength * 100.0) / 100.0;
       }
 
+      // round total miles
+      totals = Math.round(totals * 100.0) / 100.0;
+
       System.out.println("Routes Searched: " + lengths.size());
+      System.out.println("Total EDI Miles: " + totals + " miles");
       System.out.println("Mean EDI: " + meanEdi);
       System.out.println("Median EDI: " + medianEdi);
       System.out.println("Mean Length: " + meanLength + " miles");
