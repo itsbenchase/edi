@@ -1300,8 +1300,8 @@
 	</Placemark>
 	<Placemark> 
 		<name>129</name>
-		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 3.02</description>
+		<styleUrl>#2.5</styleUrl>
+		<description>Agency: pa-septa<br/>EDI: 2.52</description>
 		<LineString> 
 			<coordinates>
 			-74.981369,40.064401,0
@@ -1343,7 +1343,7 @@
 			-74.900293,40.123272,0
 			-74.902703,40.117543,0
 			-74.902435,40.115373,0
-			-74.854232,40.127917,0
+			-74.899127,40.111289,0
 			-74.900131,40.113176,0
 			-74.897524,40.115263,0
 			-74.894912,40.116359,0
