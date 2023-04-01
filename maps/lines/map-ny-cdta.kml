@@ -45,6 +45,27 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
+		<name>830</name>
+		<styleUrl>#4.0</styleUrl>
+		<description>Agency: ny-cdta<br/>EDI: 8.21</description>
+		<LineString> 
+			<coordinates>
+			-73.91916,42.83213,0
+			-73.91961,42.83136,0
+			-73.92408,42.82424,0
+			-73.934519,42.812915,0
+			-73.9392,42.80912,0
+			-73.939778,42.791713,0
+			-73.915521,42.781342,0
+			-73.920203,42.783639,0
+			-73.906071,42.782188,0
+			-73.890109,42.775155,0
+			-73.934581,42.823695,0
+			-73.943953,42.84263,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>370</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Agency: ny-cdta<br/>EDI: 1.17</description>

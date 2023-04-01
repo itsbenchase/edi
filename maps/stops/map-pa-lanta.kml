@@ -20100,6 +20100,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Walbert at Brandywine Rd<br/>ID: 6642</description>
+		<Point> 
+			<coordinates>
+			-75.542046,40.614146,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Walbert at Cedar Crest EB<br/>ID: 4085</description>
 		<Point> 
 			<coordinates>
@@ -20136,6 +20145,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Walbert at Penns Crossing<br/>ID: 6638</description>
+		<Point> 
+			<coordinates>
+			-75.547605,40.613674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Walbert at Pond EB<br/>ID: 3192</description>
 		<Point> 
 			<coordinates>
@@ -20167,6 +20185,42 @@
 		<Point> 
 			<coordinates>
 			-75.562235,40.611542,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walbert at Springhouse Rd<br/>ID: 6640</description>
+		<Point> 
+			<coordinates>
+			-75.545492,40.613503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walbert at Stone Tavern Blvd<br/>ID: 6635</description>
+		<Point> 
+			<coordinates>
+			-75.550888,40.613821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walbert at Valley View Dr<br/>ID: 6633</description>
+		<Point> 
+			<coordinates>
+			-75.555255,40.613047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walbert at Wethersfield Dr<br/>ID: 6631</description>
+		<Point> 
+			<coordinates>
+			-75.558216,40.612289,0
 			</coordinates> 
 		</Point> 
 	</Placemark>

@@ -334,7 +334,7 @@ public class ediOnline
               if (stops.get(i).getID().equalsIgnoreCase(customStop))
               {
                 stopCount++;
-                System.out.println("Added: " + stops.get(i).getName());
+                System.out.print("Added: " + stops.get(i).getName() + " ");
                 Stop addStop = new Stop(stops.get(i).getID(), stops.get(i).getName(), stops.get(i).getLat(), stops.get(i).getLon(), lineName, stopCount);
                 stops.add(addStop);
                 custom.add(stops.get(i));
