@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ma-ccrta stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adventure Bound<br/>ID: 2750519</description>
+		<Point> 
+			<coordinates>
+			-70.074886,42.038011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adventure Camping Ground<br/>ID: 2615662</description>
+		<Point> 
+			<coordinates>
+			-70.079944,42.044693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Algonquin Avenue @ Route 151 - Mashpee<br/>ID: 800659</description>
+		<Point> 
+			<coordinates>
+			-70.514603,41.616256,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anchorage / Crowell Road - Chatham<br/>ID: 800591</description>
+		<Point> 
+			<coordinates>
+			-69.965894,41.691424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barnstable Harbor<br/>ID: 800563</description>
+		<Point> 
+			<coordinates>
+			-70.298027,41.708668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barnstable Municipal Airport<br/>ID: 2455476</description>
+		<Point> 
+			<coordinates>
+			-70.287181,41.667022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barnstable Senior Center<br/>ID: 805281</description>
+		<Point> 
+			<coordinates>
+			-70.316892,41.659899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bassett Lane - Hyannis<br/>ID: 800638</description>
+		<Point> 
+			<coordinates>
+			-70.289168,41.650143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beech Forest - Provincetown<br/>ID: 800631</description>
+		<Point> 
+			<coordinates>
+			-70.192717,42.06563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beech Forest Parking Lot<br/>ID: 2615667</description>
+		<Point> 
+			<coordinates>
+			-70.193634,42.066341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bell Tower Mall - Centerville<br/>ID: 800666</description>
+		<Point> 
+			<coordinates>
+			-70.345399,41.657134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bismore Park<br/>ID: 2615666</description>
+		<Point> 
+			<coordinates>
+			-70.279855,41.649112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Blackfish Variety (Farrell's Market) - Wellfleet<br/>ID: 800610</description>
+		<Point> 
+			<coordinates>
+			-69.994566,41.917199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne COA<br/>ID: 800682</description>
+		<Point> 
+			<coordinates>
+			-70.604325,41.749455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne Housing Authority - Roland Phinney Place - Pocasset<br/>ID: 800654</description>
+		<Point> 
+			<coordinates>
+			-70.617864,41.692069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne Oaks Housing Authority - Bourne<br/>ID: 800680</description>
+		<Point> 
+			<coordinates>
+			-70.598541,41.753072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne Recreation Area<br/>ID: 2536010</description>
+		<Point> 
+			<coordinates>
+			-70.588715,41.746766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne Recreation Area<br/>ID: 2754714</description>
+		<Point> 
+			<coordinates>
+			-70.588223,41.746515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne Scenic Park<br/>ID: 800681</description>
+		<Point> 
+			<coordinates>
+			-70.590949,41.751672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bourne Town Hall<br/>ID: 2618270</description>
+		<Point> 
+			<coordinates>
+			-70.601963,41.747893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brackett Road @ Route 6 - Eastham<br/>ID: 800676</description>
+		<Point> 
+			<coordinates>
+			-69.986945,41.856591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brewster Senior Housing / COA<br/>ID: 800603</description>
+		<Point> 
+			<coordinates>
+			-70.090138,41.756823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brewster Town Hall<br/>ID: 845491</description>
+		<Point> 
+			<coordinates>
+			-70.074382,41.763765,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broad Reach Healthcare<br/>ID: 2383148</description>
+		<Point> 
+			<coordinates>
+			-69.965306,41.70034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bucatino Restaurant - Route 151<br/>ID: 2483595</description>
+		<Point> 
+			<coordinates>
+			-70.611997,41.646377,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Buzzards Bay Train Station<br/>ID: 800675</description>
+		<Point> 
+			<coordinates>
+			-70.615218,41.744823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CORD - Independent Center<br/>ID: 3451954</description>
+		<Point> 
+			<coordinates>
+			-70.297158,41.674614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canal View Apartments - Sagamore<br/>ID: 800642</description>
+		<Point> 
+			<coordinates>
+			-70.539887,41.773428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canterbury Plaza - Sandwich<br/>ID: 800650</description>
+		<Point> 
+			<coordinates>
+			-70.488464,41.708328,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Community College - West Barnstable<br/>ID: 800561</description>
+		<Point> 
+			<coordinates>
+			-70.337526,41.690621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Five<br/>ID: 2577261</description>
+		<Point> 
+			<coordinates>
+			-70.321142,41.68019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Five<br/>ID: 2577901</description>
+		<Point> 
+			<coordinates>
+			-70.320818,41.679718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Five (HQ)<br/>ID: 2577260</description>
+		<Point> 
+			<coordinates>
+			-70.319389,41.679393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Five (HQ)<br/>ID: 2577900</description>
+		<Point> 
+			<coordinates>
+			-70.31963,41.679221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Hospital (Bayview Street) - Hyannis<br/>ID: 800581</description>
+		<Point> 
+			<coordinates>
+			-70.272117,41.652859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Lighthouse Charter School - East Harwich<br/>ID: 800601</description>
+		<Point> 
+			<coordinates>
+			-70.024666,41.711394,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Mall (Mens Warehouse) - Hyannis<br/>ID: 800554</description>
+		<Point> 
+			<coordinates>
+			-70.299033,41.667836,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Mall Entrance / Route 28 - Hyannis<br/>ID: 800564</description>
+		<Point> 
+			<coordinates>
+			-70.294989,41.664885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Cod Senior Residences - Pocasset<br/>ID: 800655</description>
+		<Point> 
+			<coordinates>
+			-70.601371,41.686205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Codder Resort - Hyannis<br/>ID: 800560</description>
+		<Point> 
+			<coordinates>
+			-70.310742,41.675375,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cape Side Convenience - Bourne<br/>ID: 800652</description>
+		<Point> 
+			<coordinates>
+			-70.588969,41.742638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capetown Plaza - Hyannis<br/>ID: 800555</description>
+		<Point> 
+			<coordinates>
+			-70.295209,41.670189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Career Opportunities @ North Street<br/>ID: 805280</description>
+		<Point> 
+			<coordinates>
+			-70.294861,41.649374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cataumet Motel / Steamship Authority Cataumet Parking Lot<br/>ID: 800656</description>
+		<Point> 
+			<coordinates>
+			-70.60299,41.666721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Centerville (Old Stage Road &amp; Main Street)<br/>ID: 800566</description>
+		<Point> 
+			<coordinates>
+			-70.348551,41.64973,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clipper Ship Apartments<br/>ID: 2483887</description>
+		<Point> 
+			<coordinates>
+			-70.586577,41.571888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clipper Ship Apartments<br/>ID: 805265</description>
+		<Point> 
+			<coordinates>
+			-70.586674,41.571979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Colonial Plaza - Falmouth<br/>ID: 800620</description>
+		<Point> 
+			<coordinates>
+			-70.600112,41.555067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Community Health Center of Cape Cod<br/>ID: 800571</description>
+		<Point> 
+			<coordinates>
+			-70.48999,41.607559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Continental Housing Authority - Bourne<br/>ID: 800679</description>
+		<Point> 
+			<coordinates>
+			-70.595584,41.7574,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cotuit Road &amp; Farmersville Road - Sandwich<br/>ID: 800663</description>
+		<Point> 
+			<coordinates>
+			-70.481658,41.696464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: County Road @ Beach Street - Monument Beach<br/>ID: 800653</description>
+		<Point> 
+			<coordinates>
+			-70.608946,41.718044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Courthouse Complex - Barnstable<br/>ID: 800562</description>
+		<Point> 
+			<coordinates>
+			-70.303038,41.70032,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cranberry Plaza Walmart - Wareham<br/>ID: 800683</description>
+		<Point> 
+			<coordinates>
+			-70.663379,41.758072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cumberland Farms Provincetown<br/>ID: 2750520</description>
+		<Point> 
+			<coordinates>
+			-70.195977,42.053727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dennis Commons / Elder Services<br/>ID: 800684</description>
+		<Point> 
+			<coordinates>
+			-70.148149,41.66979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Department of Transitional Assistance @ North Street<br/>ID: 2483886</description>
+		<Point> 
+			<coordinates>
+			-70.289181,41.652059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Department of Transitional Assistance @ North Street<br/>ID: 805279</description>
+		<Point> 
+			<coordinates>
+			-70.289257,41.652135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Falmouth Dunkin Donuts<br/>ID: 800572</description>
+		<Point> 
+			<coordinates>
+			-70.560741,41.578656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastham Town Hall / Superette<br/>ID: 800605</description>
+		<Point> 
+			<coordinates>
+			-69.973642,41.829763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Bus Depot<br/>ID: 800575</description>
+		<Point> 
+			<coordinates>
+			-70.623239,41.556834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Chamber of Commerce<br/>ID: 800625</description>
+		<Point> 
+			<coordinates>
+			-70.616674,41.552334,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Hospital<br/>ID: 2535998</description>
+		<Point> 
+			<coordinates>
+			-70.621415,41.563949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Library<br/>ID: 800621</description>
+		<Point> 
+			<coordinates>
+			-70.614071,41.552095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Mall<br/>ID: 800574</description>
+		<Point> 
+			<coordinates>
+			-70.594186,41.561321,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Plaza<br/>ID: 800619</description>
+		<Point> 
+			<coordinates>
+			-70.599781,41.556172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Falmouth Public Library<br/>ID: 2558941</description>
+		<Point> 
+			<coordinates>
+			-70.615238,41.553127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Festival Mall - Hyannis<br/>ID: 800557</description>
+		<Point> 
+			<coordinates>
+			-70.303996,41.675976,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: First Pilgrims Park / Provincetown Inn - Provincetown<br/>ID: 800633</description>
+		<Point> 
+			<coordinates>
+			-70.196152,42.037244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Points - Eastham<br/>ID: 800607</description>
+		<Point> 
+			<coordinates>
+			-69.985569,41.846504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gill Rd. (Welleflett Cinema)<br/>ID: 811990</description>
+		<Point> 
+			<coordinates>
+			-69.988264,41.879706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hampton Inn Bourne<br/>ID: 2618268</description>
+		<Point> 
+			<coordinates>
+			-70.602856,41.746559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor Community Health Center<br/>ID: 805266</description>
+		<Point> 
+			<coordinates>
+			-70.297801,41.675454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harmony Hill Road - Bourne<br/>ID: 800672</description>
+		<Point> 
+			<coordinates>
+			-70.585079,41.713514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harwich Community Center / High School<br/>ID: 800599</description>
+		<Point> 
+			<coordinates>
+			-70.069797,41.692133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Head of the Meadow Beach - North Truro<br/>ID: 800669</description>
+		<Point> 
+			<coordinates>
+			-70.085435,42.038066,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Heritage Museums - Sandwich<br/>ID: 800661</description>
+		<Point> 
+			<coordinates>
+			-70.508405,41.748896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Heritage Park - Sandwich<br/>ID: 800648</description>
+		<Point> 
+			<coordinates>
+			-70.489098,41.710793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Herring Cove Beach<br/>ID: 2615670</description>
+		<Point> 
+			<coordinates>
+			-70.22023,42.04846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Herring Cove Beach - Provincetown<br/>ID: 800632</description>
+		<Point> 
+			<coordinates>
+			-70.216447,42.043813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Higgins Crowell Road - West Yarmouth<br/>ID: 800582</description>
+		<Point> 
+			<coordinates>
+			-70.242088,41.650629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland Museum &amp; Lighthouse - North Truro<br/>ID: 800629</description>
+		<Point> 
+			<coordinates>
+			-70.064984,42.038762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland Road &amp; Route 6 - North Truro<br/>ID: 800615</description>
+		<Point> 
+			<coordinates>
+			-70.082229,42.035359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homeport - Falmouth<br/>ID: 2535997</description>
+		<Point> 
+			<coordinates>
+			-70.612206,41.561486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Horton's Camping Resort - North Truro<br/>ID: 800627</description>
+		<Point> 
+			<coordinates>
+			-70.066096,42.035918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hy-Line Ferry Docks - Hyannis<br/>ID: 800639</description>
+		<Point> 
+			<coordinates>
+			-70.279944,41.648034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyannis Conference Center<br/>ID: 2615665</description>
+		<Point> 
+			<coordinates>
+			-70.296748,41.646135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyannis Transportation Center (HTC)<br/>ID: 800551</description>
+		<Point> 
+			<coordinates>
+			-70.280176,41.656589,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyannis Youth &amp; Community Center<br/>ID: 800553</description>
+		<Point> 
+			<coordinates>
+			-70.292781,41.654563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Island Queen Ferry - Falmouth<br/>ID: 800674</description>
+		<Point> 
+			<coordinates>
+			-70.600534,41.552181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: JFK Memorial Beach<br/>ID: 2455545</description>
+		<Point> 
+			<coordinates>
+			-70.278113,41.640959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: JFK Museum - Hyannis<br/>ID: 800637</description>
+		<Point> 
+			<coordinates>
+			-70.284375,41.652577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jam's Store - Truro<br/>ID: 800612</description>
+		<Point> 
+			<coordinates>
+			-70.049923,41.993412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kalmus Beach<br/>ID: 2537678</description>
+		<Point> 
+			<coordinates>
+			-70.280853,41.635612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Keystone Place<br/>ID: 2618269</description>
+		<Point> 
+			<coordinates>
+			-70.60485,41.746976,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: LeCount Hollow Road - South Wellfleet<br/>ID: 800668</description>
+		<Point> 
+			<coordinates>
+			-69.989664,41.916323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MacMillan Pier - Provincetown<br/>ID: 800616</description>
+		<Point> 
+			<coordinates>
+			-70.18624,42.050958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street - South Yarmouth<br/>ID: 800585</description>
+		<Point> 
+			<coordinates>
+			-70.185688,41.666857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street / CVS / Mobil - Orleans<br/>ID: 800595</description>
+		<Point> 
+			<coordinates>
+			-69.991832,41.787854,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street / Land Ho - Orleans<br/>ID: 800594</description>
+		<Point> 
+			<coordinates>
+			-69.99142,41.78824,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maplewood Brewster<br/>ID: 2754715</description>
+		<Point> 
+			<coordinates>
+			-70.081282,41.739995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marconi Beach<br/>ID: 831902</description>
+		<Point> 
+			<coordinates>
+			-69.983429,41.904744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market Basket - Sagamore<br/>ID: 800660</description>
+		<Point> 
+			<coordinates>
+			-70.545953,41.771161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marstons Mills Marketplace<br/>ID: 800568</description>
+		<Point> 
+			<coordinates>
+			-70.426437,41.647959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mashpee Commons (Stop &amp; Shop)<br/>ID: 800569</description>
+		<Point> 
+			<coordinates>
+			-70.489449,41.619243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mashpee Village<br/>ID: 2383149</description>
+		<Point> 
+			<coordinates>
+			-70.505788,41.621614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maurice's Market<br/>ID: 811989</description>
+		<Point> 
+			<coordinates>
+			-69.988004,41.879427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Morton Road - South Chatham<br/>ID: 800590</description>
+		<Point> 
+			<coordinates>
+			-70.026646,41.678759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Municipal Lot A - Dennis Port<br/>ID: 800587</description>
+		<Point> 
+			<coordinates>
+			-70.123136,41.668344,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nauset Regional High School - Eastham<br/>ID: 800609</description>
+		<Point> 
+			<coordinates>
+			-69.968598,41.858374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nickerson State Park - Brewster<br/>ID: 800604</description>
+		<Point> 
+			<coordinates>
+			-70.030742,41.77519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ocean State Job Lot - Buzzards Bay<br/>ID: 800640</description>
+		<Point> 
+			<coordinates>
+			-70.598997,41.751686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Cobb Library - Truro<br/>ID: 800671</description>
+		<Point> 
+			<coordinates>
+			-70.050964,41.994787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Colony Village - Orleans<br/>ID: 800597</description>
+		<Point> 
+			<coordinates>
+			-69.997352,41.785393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: One Trowbridge Place<br/>ID: 2629093</description>
+		<Point> 
+			<coordinates>
+			-70.598003,41.740819,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Osterville (Tower Hill Road &amp; Main Street)<br/>ID: 800567</description>
+		<Point> 
+			<coordinates>
+			-70.383099,41.627971,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Outer Cape Health Services / Maushop Senior Housing - Provincetown<br/>ID: 800677</description>
+		<Point> 
+			<coordinates>
+			-70.183973,42.058487,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oyster Pond Road - Falmouth<br/>ID: 800623</description>
+		<Point> 
+			<coordinates>
+			-70.648431,41.54374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P&amp;B Bus Stop / Dutra's Market - North Truro<br/>ID: 800628</description>
+		<Point> 
+			<coordinates>
+			-70.084786,42.0341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patriot Square - South Dennis<br/>ID: 800586</description>
+		<Point> 
+			<coordinates>
+			-70.15047,41.695061,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Payomet Tent - Truro<br/>ID: 800678</description>
+		<Point> 
+			<coordinates>
+			-70.05653,42.031289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Perry Avenue &amp; Main Street<br/>ID: 2629091</description>
+		<Point> 
+			<coordinates>
+			-70.603486,41.749675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Province Land Road - Provincetown<br/>ID: 800670</description>
+		<Point> 
+			<coordinates>
+			-70.217019,42.04638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Province Lands Visitor Center - Provincetown<br/>ID: 800635</description>
+		<Point> 
+			<coordinates>
+			-70.205744,42.073859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Provincetown Airport<br/>ID: 2615668</description>
+		<Point> 
+			<coordinates>
+			-70.217068,42.076226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Provincetown Inn<br/>ID: 2615671</description>
+		<Point> 
+			<coordinates>
+			-70.195489,42.037395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Provincetown Municipal Airport<br/>ID: 800636</description>
+		<Point> 
+			<coordinates>
+			-70.217163,42.076165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Provincetown Visitor Center<br/>ID: 2615663</description>
+		<Point> 
+			<coordinates>
+			-70.205676,42.073719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Race Lane &amp; Osterville-West Barnstable Road - Sandwich<br/>ID: 800665</description>
+		<Point> 
+			<coordinates>
+			-70.387141,41.677082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Race Lane / Farmersville Road &amp; Great Hill Road - Sandwich<br/>ID: 800664</description>
+		<Point> 
+			<coordinates>
+			-70.444168,41.690338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Race Point - Provincetown<br/>ID: 800634</description>
+		<Point> 
+			<coordinates>
+			-70.21812,42.07931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Race Point Beach<br/>ID: 2615669</description>
+		<Point> 
+			<coordinates>
+			-70.219502,42.079373,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Resort and Conference Center at Hyannis<br/>ID: 2537677</description>
+		<Point> 
+			<coordinates>
+			-70.297572,41.645999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 28 - Harwich Port<br/>ID: 800589</description>
+		<Point> 
+			<coordinates>
+			-70.080082,41.668043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 39 - South Orleans<br/>ID: 800593</description>
+		<Point> 
+			<coordinates>
+			-69.990938,41.752914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 151 &amp; Route 28A - North Falmouth<br/>ID: 800657</description>
+		<Point> 
+			<coordinates>
+			-70.612639,41.646696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rte 28 @ Jones Rd (Stop &amp; Shop)<br/>ID: 2611957</description>
+		<Point> 
+			<coordinates>
+			-70.598873,41.561098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rte 28 @ Jones Rd (Stop &amp; Shop)<br/>ID: 800573</description>
+		<Point> 
+			<coordinates>
+			-70.5991,41.561143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Yarmouth Town Hall<br/>ID: 800685</description>
+		<Point> 
+			<coordinates>
+			-70.199049,41.66399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sagamore Park &amp; Ride<br/>ID: 800641</description>
+		<Point> 
+			<coordinates>
+			-70.542438,41.780954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Salt Pond Visitor Center - Eastham<br/>ID: 800606</description>
+		<Point> 
+			<coordinates>
+			-69.971966,41.838034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sandwich COA<br/>ID: 800647</description>
+		<Point> 
+			<coordinates>
+			-70.460636,41.7214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sandwich High School<br/>ID: 2327016</description>
+		<Point> 
+			<coordinates>
+			-70.458191,41.735482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sandwich Housing Authority - Tom's Way - Sandwich<br/>ID: 800649</description>
+		<Point> 
+			<coordinates>
+			-70.489844,41.708343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sandwich Road @ Route 151 - East Falmouth<br/>ID: 800658</description>
+		<Point> 
+			<coordinates>
+			-70.549733,41.62477,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sandwich Town Hall<br/>ID: 800645</description>
+		<Point> 
+			<coordinates>
+			-70.500533,41.75825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sea Crest Hotel - North Falmouth<br/>ID: 800662</description>
+		<Point> 
+			<coordinates>
+			-70.637825,41.626129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sea Gull Motel<br/>ID: 2615664</description>
+		<Point> 
+			<coordinates>
+			-70.143566,42.061075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Seacoast Shores Boulevard - East Falmouth<br/>ID: 800673</description>
+		<Point> 
+			<coordinates>
+			-70.533946,41.580442,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Seaman's Bank @ Route 6 - Eastham<br/>ID: 800608</description>
+		<Point> 
+			<coordinates>
+			-69.987723,41.854667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shaw's - South Yarmouth<br/>ID: 800584</description>
+		<Point> 
+			<coordinates>
+			-70.2022,41.662202,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shawme Heights - Sandwich<br/>ID: 800643</description>
+		<Point> 
+			<coordinates>
+			-70.506363,41.763273,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shining Sea Bike Path - Falmouth<br/>ID: 800622</description>
+		<Point> 
+			<coordinates>
+			-70.627086,41.551519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Skaket Corners - Orleans<br/>ID: 800596</description>
+		<Point> 
+			<coordinates>
+			-70.002528,41.78023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Social Security Office<br/>ID: 2455477</description>
+		<Point> 
+			<coordinates>
+			-70.298665,41.672616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Cape Village (Marshalls) - Mashpee<br/>ID: 800570</description>
+		<Point> 
+			<coordinates>
+			-70.488287,41.611493,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southwind Plaza - Hyannis<br/>ID: 800556</description>
+		<Point> 
+			<coordinates>
+			-70.301842,41.675083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spaulding Rehabilitation - East Sandwich<br/>ID: 800646</description>
+		<Point> 
+			<coordinates>
+			-70.467868,41.733048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St. Francis / Pope John Paul - Hyannis<br/>ID: 800577</description>
+		<Point> 
+			<coordinates>
+			-70.284992,41.648343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Star Market - Harwich Port<br/>ID: 800588</description>
+		<Point> 
+			<coordinates>
+			-70.092812,41.672995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Steamship Authority Ferry Docks - Hyannis<br/>ID: 800552</description>
+		<Point> 
+			<coordinates>
+			-70.277411,41.650733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Steamship Authority Ferry Docks - Woods Hole<br/>ID: 800576</description>
+		<Point> 
+			<coordinates>
+			-70.669797,41.52303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stone Horse Motel<br/>ID: 2615660</description>
+		<Point> 
+			<coordinates>
+			-70.048881,41.675239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - East Harwich<br/>ID: 800600</description>
+		<Point> 
+			<coordinates>
+			-70.018943,41.706445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - Orleans<br/>ID: 800598</description>
+		<Point> 
+			<coordinates>
+			-69.985665,41.796182,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - Provincetown<br/>ID: 800617</description>
+		<Point> 
+			<coordinates>
+			-70.195276,42.050534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - Quaker Meeting House Road - Sandwich<br/>ID: 800651</description>
+		<Point> 
+			<coordinates>
+			-70.485471,41.7014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - Route 6A - Sandwich<br/>ID: 800644</description>
+		<Point> 
+			<coordinates>
+			-70.509442,41.766387,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - South Yarmouth<br/>ID: 800583</description>
+		<Point> 
+			<coordinates>
+			-70.207195,41.658091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sturgis Charter School -- Main Street - Hyannis<br/>ID: 800578</description>
+		<Point> 
+			<coordinates>
+			-70.285388,41.652118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sturgis Charter School -- West Main Street - Hyannis<br/>ID: 800580</description>
+		<Point> 
+			<coordinates>
+			-70.300628,41.647759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sturgis Charter School @ South Street - Hyannis<br/>ID: 800579</description>
+		<Point> 
+			<coordinates>
+			-70.284348,41.650688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunny Pines<br/>ID: 2754712</description>
+		<Point> 
+			<coordinates>
+			-70.004592,41.733166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Super Stop &amp; Shop (Liberty Square) - Hyannis<br/>ID: 800559</description>
+		<Point> 
+			<coordinates>
+			-70.307469,41.6759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tataket Apartments<br/>ID: 2577258</description>
+		<Point> 
+			<coordinates>
+			-70.597214,41.564301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Hall Lawton Bus Shelter<br/>ID: 800686</description>
+		<Point> 
+			<coordinates>
+			-70.19749,41.664041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Trial Court<br/>ID: 2536007</description>
+		<Point> 
+			<coordinates>
+			-70.613562,41.562076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Trinity Christian Academy<br/>ID: 805283</description>
+		<Point> 
+			<coordinates>
+			-70.280857,41.684078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Truro Central Village Plaza @ Route 6<br/>ID: 800614</description>
+		<Point> 
+			<coordinates>
+			-70.070861,42.013924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Truro Vineyard<br/>ID: 2750521</description>
+		<Point> 
+			<coordinates>
+			-70.079091,42.029779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor House Apartments<br/>ID: 2629092</description>
+		<Point> 
+			<coordinates>
+			-70.5922,41.743531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Underpass Road &amp; Snow Road - Brewster<br/>ID: 800602</description>
+		<Point> 
+			<coordinates>
+			-70.066313,41.756593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Veterans Field Rd<br/>ID: 800592</description>
+		<Point> 
+			<coordinates>
+			-69.961949,41.682656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Village Green Apartments<br/>ID: 805282</description>
+		<Point> 
+			<coordinates>
+			-70.283486,41.683023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water Street / Luscombe Avenue - Woods Hole<br/>ID: 800626</description>
+		<Point> 
+			<coordinates>
+			-70.669412,41.523854,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wellfleet Center (Bank Street)<br/>ID: 800611</description>
+		<Point> 
+			<coordinates>
+			-70.030784,41.937534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wellfleet Dunkin Donuts<br/>ID: 800687</description>
+		<Point> 
+			<coordinates>
+			-70.017518,41.92921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Main Street &amp; Route 28 - Centerville<br/>ID: 800565</description>
+		<Point> 
+			<coordinates>
+			-70.332487,41.657707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Main Street @ Star Market - Hyannis<br/>ID: 800667</description>
+		<Point> 
+			<coordinates>
+			-70.317918,41.652074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitmanville Road @ Route 6 - Truro<br/>ID: 800613</description>
+		<Point> 
+			<coordinates>
+			-70.070568,42.013719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wilkens Outpatient Medical Complex - Hyannis<br/>ID: 800558</description>
+		<Point> 
+			<coordinates>
+			-70.303667,41.678282,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woods Hole Oceanographic Institution<br/>ID: 800624</description>
+		<Point> 
+			<coordinates>
+			-70.653101,41.534499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Yarmouth Commons<br/>ID: 2577259</description>
+		<Point> 
+			<coordinates>
+			-70.212144,41.653042,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

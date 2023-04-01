@@ -1,0 +1,2813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-unitrans stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1st St &amp; C St (EB)<br/>ID: 22002</description>
+		<Point> 
+			<coordinates>
+			-121.742543,38.541523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1st St &amp; D St (WB)<br/>ID: 22003</description>
+		<Point> 
+			<coordinates>
+			-121.742051,38.541818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St &amp; B St (EB)<br/>ID: 22005</description>
+		<Point> 
+			<coordinates>
+			-121.743914,38.542661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St &amp; E St (EB)<br/>ID: 22007</description>
+		<Point> 
+			<coordinates>
+			-121.741185,38.543139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St &amp; E St (WB)<br/>ID: 22009</description>
+		<Point> 
+			<coordinates>
+			-121.74093,38.54333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St. &amp; Target (WB)<br/>ID: 22282</description>
+		<Point> 
+			<coordinates>
+			-121.69776,38.553718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd Street &amp; Cousteau Place (WB)<br/>ID: 22326</description>
+		<Point> 
+			<coordinates>
+			-121.71092,38.550112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; C St (EB)<br/>ID: 22016</description>
+		<Point> 
+			<coordinates>
+			-121.743222,38.544133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; C St (WB)<br/>ID: 22015</description>
+		<Point> 
+			<coordinates>
+			-121.743911,38.544213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; E St (EB)<br/>ID: 22018</description>
+		<Point> 
+			<coordinates>
+			-121.741143,38.544507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; E St (WB)<br/>ID: 22017</description>
+		<Point> 
+			<coordinates>
+			-121.741693,38.54455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; K St (EB)<br/>ID: 22031</description>
+		<Point> 
+			<coordinates>
+			-121.734501,38.545644,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; K St (WB)<br/>ID: 22030</description>
+		<Point> 
+			<coordinates>
+			-121.735093,38.545749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Cantrill / Greystone (WB)<br/>ID: 22072</description>
+		<Point> 
+			<coordinates>
+			-121.721356,38.551533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Cantrill / Police Station (EB)<br/>ID: 22073</description>
+		<Point> 
+			<coordinates>
+			-121.719045,38.551779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; D St (EB)<br/>ID: 22025</description>
+		<Point> 
+			<coordinates>
+			-121.742982,38.546886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; D St (WB)<br/>ID: 22026</description>
+		<Point> 
+			<coordinates>
+			-121.743576,38.546951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Davis Public Works Corp Yard (WB)<br/>ID: 22078</description>
+		<Point> 
+			<coordinates>
+			-121.730801,38.548896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; G St (EB)<br/>ID: 22028</description>
+		<Point> 
+			<coordinates>
+			-121.739607,38.547395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; I St (WB)<br/>ID: 22029</description>
+		<Point> 
+			<coordinates>
+			-121.737895,38.547933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pelz Bike Path (WB)<br/>ID: 22069</description>
+		<Point> 
+			<coordinates>
+			-121.709321,38.554832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pena Drive (EB)<br/>ID: 22234</description>
+		<Point> 
+			<coordinates>
+			-121.715379,38.552682,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pole Line Rd / D.M.V (EB)<br/>ID: 22076</description>
+		<Point> 
+			<coordinates>
+			-121.727627,38.548562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pole Line Rd / D.M.V (WB)<br/>ID: 22077</description>
+		<Point> 
+			<coordinates>
+			-121.727775,38.548835,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Post Office / Pole Line (EB)<br/>ID: 22075</description>
+		<Point> 
+			<coordinates>
+			-121.724539,38.549083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Post Office / Pole Line Rd (WB)<br/>ID: 22074</description>
+		<Point> 
+			<coordinates>
+			-121.724979,38.549226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; San Rafael St (WB)<br/>ID: 22071</description>
+		<Point> 
+			<coordinates>
+			-121.716511,38.552633,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Spafford (WB)<br/>ID: 22238</description>
+		<Point> 
+			<coordinates>
+			-121.71357,38.553332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Spafford St (EB)<br/>ID: 22237</description>
+		<Point> 
+			<coordinates>
+			-121.712444,38.553424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Verona Terrace (SB)<br/>ID: 22068</description>
+		<Point> 
+			<coordinates>
+			-121.705357,38.556893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Windmere Apts. (EB)<br/>ID: 22070</description>
+		<Point> 
+			<coordinates>
+			-121.709777,38.554599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Street &amp; K Street (EB)<br/>ID: 22319</description>
+		<Point> 
+			<coordinates>
+			-121.735642,38.548176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Street &amp; L Street (WB)<br/>ID: 22317</description>
+		<Point> 
+			<coordinates>
+			-121.735275,38.548392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Street &amp; Verona Terrace (EB)<br/>ID: 22300</description>
+		<Point> 
+			<coordinates>
+			-121.705363,38.556453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; Chestnut Lane / Grocery Outlet (EB)<br/>ID: 22102</description>
+		<Point> 
+			<coordinates>
+			-121.730341,38.553291,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; Chestnut Lane / Grocery Outlet (WB)<br/>ID: 22103</description>
+		<Point> 
+			<coordinates>
+			-121.73131,38.553514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; D St (EB)<br/>ID: 22121</description>
+		<Point> 
+			<coordinates>
+			-121.744008,38.550929,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; D St (WB)<br/>ID: 22120</description>
+		<Point> 
+			<coordinates>
+			-121.744722,38.55101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; G St (EB)<br/>ID: 22119</description>
+		<Point> 
+			<coordinates>
+			-121.74127,38.551422,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; G St (WB)<br/>ID: 22118</description>
+		<Point> 
+			<coordinates>
+			-121.74127,38.551592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; J St (EB)<br/>ID: 22111</description>
+		<Point> 
+			<coordinates>
+			-121.738917,38.5517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; J St (WB)<br/>ID: 22110</description>
+		<Point> 
+			<coordinates>
+			-121.738996,38.551915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; L St (EB)<br/>ID: 22105</description>
+		<Point> 
+			<coordinates>
+			-121.734357,38.552776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; L St (WB)<br/>ID: 22104</description>
+		<Point> 
+			<coordinates>
+			-121.73544,38.552666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St &amp; Sycamore Ln (WB)<br/>ID: 22184</description>
+		<Point> 
+			<coordinates>
+			-121.764706,38.550582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; B St / Library (EB)<br/>ID: 22124</description>
+		<Point> 
+			<coordinates>
+			-121.747879,38.555899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; B St / Library (WB)<br/>ID: 22123</description>
+		<Point> 
+			<coordinates>
+			-121.748155,38.556086,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; Davis High School (WB)<br/>ID: 22125</description>
+		<Point> 
+			<coordinates>
+			-121.750585,38.555965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; F St (WB)<br/>ID: 22114</description>
+		<Point> 
+			<coordinates>
+			-121.743812,38.556939,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; Oak St (WB)<br/>ID: 22147</description>
+		<Point> 
+			<coordinates>
+			-121.752524,38.555945,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14th St &amp; Oak St / Davis High School (EB)<br/>ID: 22146</description>
+		<Point> 
+			<coordinates>
+			-121.751814,38.555718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra &amp; 5th / Verona (EB)<br/>ID: 22293</description>
+		<Point> 
+			<coordinates>
+			-121.706264,38.558171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra &amp; Atlantis / Arroyo (WB)<br/>ID: 22299</description>
+		<Point> 
+			<coordinates>
+			-121.699002,38.558117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; 5th St (EB)<br/>ID: 22067</description>
+		<Point> 
+			<coordinates>
+			-121.704304,38.557806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; 5th St (WB)<br/>ID: 22973</description>
+		<Point> 
+			<coordinates>
+			-121.705705,38.558258,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; Arroyo Ave (EB)<br/>ID: 22235</description>
+		<Point> 
+			<coordinates>
+			-121.699464,38.557859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; Atlantis / Carcia (WB)<br/>ID: 22236</description>
+		<Point> 
+			<coordinates>
+			-121.703456,38.558043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; Loyola Drive (EB)<br/>ID: 22291</description>
+		<Point> 
+			<coordinates>
+			-121.709008,38.560076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; Loyola Drive (WB)<br/>ID: 22290</description>
+		<Point> 
+			<coordinates>
+			-121.708768,38.560161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; Mace Blvd (EB)<br/>ID: 22066</description>
+		<Point> 
+			<coordinates>
+			-121.696975,38.558545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra Drive &amp; Mace Blvd (WB)<br/>ID: 22065</description>
+		<Point> 
+			<coordinates>
+			-121.697224,38.558731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alvarado &amp; Anderson (WB)<br/>ID: 22132</description>
+		<Point> 
+			<coordinates>
+			-121.757953,38.562177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alvarado Ave &amp; Anderson (EB)<br/>ID: 22135</description>
+		<Point> 
+			<coordinates>
+			-121.759546,38.561996,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alvarado Ave &amp; Anderson (WB)<br/>ID: 22134</description>
+		<Point> 
+			<coordinates>
+			-121.759369,38.562206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alvarado Ave &amp; Espana (WB)<br/>ID: 22133</description>
+		<Point> 
+			<coordinates>
+			-121.754914,38.56181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alvarado Ave &amp; Sycamore (EB)<br/>ID: 22137</description>
+		<Point> 
+			<coordinates>
+			-121.763012,38.561942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alvarado Ave &amp; Sycamore (WB) - Drop Off Only<br/>ID: 22136</description>
+		<Point> 
+			<coordinates>
+			-121.763253,38.562097,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Alvarado (SB)<br/>ID: 22365</description>
+		<Point> 
+			<coordinates>
+			-121.75865,38.562604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Catalina (SB)<br/>ID: 22366</description>
+		<Point> 
+			<coordinates>
+			-121.758529,38.567536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Oriole (NB)<br/>ID: 22129</description>
+		<Point> 
+			<coordinates>
+			-121.755542,38.572335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Oriole (SB)<br/>ID: 22367</description>
+		<Point> 
+			<coordinates>
+			-121.755837,38.572339,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Sandpiper (EB)<br/>ID: 22128</description>
+		<Point> 
+			<coordinates>
+			-121.7486,38.57313,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Sandpiper (WB)<br/>ID: 22368</description>
+		<Point> 
+			<coordinates>
+			-121.748535,38.573359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Sunset (NB)<br/>ID: 22301</description>
+		<Point> 
+			<coordinates>
+			-121.758621,38.549044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson &amp; Sunset (SB)<br/>ID: 22302</description>
+		<Point> 
+			<coordinates>
+			-121.75883,38.548921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Amherst Drive (NB)<br/>ID: 22157</description>
+		<Point> 
+			<coordinates>
+			-121.758497,38.55267,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Amherst Drive (SB)<br/>ID: 22158</description>
+		<Point> 
+			<coordinates>
+			-121.75881,38.55229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Bianco (NB)<br/>ID: 22131</description>
+		<Point> 
+			<coordinates>
+			-121.75835,38.563072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Hanover Drive / Anderson Plaza / SaveMart (NB)<br/>ID: 22154</description>
+		<Point> 
+			<coordinates>
+			-121.758402,38.559455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Hanover Drive / Anderson Plaza / SaveMart (SB)<br/>ID: 22155</description>
+		<Point> 
+			<coordinates>
+			-121.758707,38.558559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Russell Blvd (NB)<br/>ID: 22160</description>
+		<Point> 
+			<coordinates>
+			-121.758572,38.546911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Russell Blvd (SB)<br/>ID: 22159</description>
+		<Point> 
+			<coordinates>
+			-121.758874,38.547301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Valencia (NB)<br/>ID: 22130</description>
+		<Point> 
+			<coordinates>
+			-121.75832,38.567411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Villanova Drive (NB)<br/>ID: 22153</description>
+		<Point> 
+			<coordinates>
+			-121.758419,38.556573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson Rd &amp; Villanova Drive (SB)<br/>ID: 22156</description>
+		<Point> 
+			<coordinates>
+			-121.758736,38.555919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Bucklebury Rd (NB)<br/>ID: 22494</description>
+		<Point> 
+			<coordinates>
+			-121.778511,38.54888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Bucklebury Rd (SB)<br/>ID: 22224</description>
+		<Point> 
+			<coordinates>
+			-121.778798,38.548774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Cabot St (NB)<br/>ID: 22209</description>
+		<Point> 
+			<coordinates>
+			-121.784973,38.55394,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Cabot St (SB)<br/>ID: 22210</description>
+		<Point> 
+			<coordinates>
+			-121.784842,38.553711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Calaveras Ave / Emerson Junior High (NB)<br/>ID: 22495</description>
+		<Point> 
+			<coordinates>
+			-121.778964,38.550708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Lake Blvd (NB)<br/>ID: 22207</description>
+		<Point> 
+			<coordinates>
+			-121.787009,38.555228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Lake Blvd (SB)<br/>ID: 22208</description>
+		<Point> 
+			<coordinates>
+			-121.786907,38.55497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Shasta Drive (NB)<br/>ID: 22212</description>
+		<Point> 
+			<coordinates>
+			-121.782082,38.553847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Shasta Drive (SB)<br/>ID: 22211</description>
+		<Point> 
+			<coordinates>
+			-121.781366,38.553475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington Blvd &amp; Westernesse / Emerson Junior High (SB)<br/>ID: 22223</description>
+		<Point> 
+			<coordinates>
+			-121.779268,38.550279,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arthur St &amp; Alameda Ave (SB)<br/>ID: 22221</description>
+		<Point> 
+			<coordinates>
+			-121.77068,38.547687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arthur St &amp; North Adams St (SB)<br/>ID: 22220</description>
+		<Point> 
+			<coordinates>
+			-121.770508,38.551606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B St &amp; 4th St / Central Park (NB)<br/>ID: 22013</description>
+		<Point> 
+			<coordinates>
+			-121.74487,38.544903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B St &amp; 4th St / Central Park (SB)<br/>ID: 22014</description>
+		<Point> 
+			<coordinates>
+			-121.745131,38.545045,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B St &amp; 5th St (NB)<br/>ID: 22022</description>
+		<Point> 
+			<coordinates>
+			-121.745445,38.547003,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B St &amp; 7th St (NB)<br/>ID: 22024</description>
+		<Point> 
+			<coordinates>
+			-121.746057,38.549654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B St &amp; 7th St (SB)<br/>ID: 22023</description>
+		<Point> 
+			<coordinates>
+			-121.746168,38.548927,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C St &amp; 1st St (SB)<br/>ID: 22006</description>
+		<Point> 
+			<coordinates>
+			-121.74309,38.541913,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catalina Drive &amp; Alvarado Ave (NB)<br/>ID: 22126</description>
+		<Point> 
+			<coordinates>
+			-121.750314,38.561405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chiles Rd &amp; Mace Blvd (WB)<br/>ID: 22352</description>
+		<Point> 
+			<coordinates>
+			-121.693521,38.551013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chiles Rd &amp; Mace Blvd El Macero / Nugget (EB)<br/>ID: 22061</description>
+		<Point> 
+			<coordinates>
+			-121.693476,38.550766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Alhambra Drive (EB)<br/>ID: 22079</description>
+		<Point> 
+			<coordinates>
+			-121.708874,38.564067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Denali Drive (EB)<br/>ID: 22201</description>
+		<Point> 
+			<coordinates>
+			-121.778241,38.560853,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; J St (EB)<br/>ID: 22098</description>
+		<Point> 
+			<coordinates>
+			-121.737931,38.560465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; J St (WB)<br/>ID: 22097</description>
+		<Point> 
+			<coordinates>
+			-121.739065,38.560745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; John Jones Rd / Sutter Hospital (WB)<br/>ID: 22199</description>
+		<Point> 
+			<coordinates>
+			-121.770763,38.56108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Mace Blvd / Harper Junior High (EB)<br/>ID: 22245</description>
+		<Point> 
+			<coordinates>
+			-121.70003,38.564796,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Pole Line Rd (EB)<br/>ID: 22096</description>
+		<Point> 
+			<coordinates>
+			-121.731992,38.562161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Pole Line Rd (WB)<br/>ID: 22362</description>
+		<Point> 
+			<coordinates>
+			-121.73024,38.562652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Shasta Drive (WB)<br/>ID: 22200</description>
+		<Point> 
+			<coordinates>
+			-121.772969,38.561071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Shasta Drive / Sutter Hospital (EB)<br/>ID: 22198</description>
+		<Point> 
+			<coordinates>
+			-121.771723,38.56072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Sycamore Lane / Marketplace (EB)<br/>ID: 22197</description>
+		<Point> 
+			<coordinates>
+			-121.764541,38.560702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Sycamore Lane / Marketplace (WB)<br/>ID: 22196</description>
+		<Point> 
+			<coordinates>
+			-121.76464,38.561014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; West Area Bike Path (EB)<br/>ID: 22202</description>
+		<Point> 
+			<coordinates>
+			-121.781988,38.560952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Wright Blvd (EB)<br/>ID: 22364</description>
+		<Point> 
+			<coordinates>
+			-121.717839,38.563304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covell Blvd &amp; Wright Blvd (WB)<br/>ID: 22363</description>
+		<Point> 
+			<coordinates>
+			-121.718295,38.563519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Drew Ave / Kaiser (EB)<br/>ID: 22037</description>
+		<Point> 
+			<coordinates>
+			-121.726847,38.539742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Drew Ave / Kaiser (WB)<br/>ID: 22036</description>
+		<Point> 
+			<coordinates>
+			-121.727536,38.540044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Drummond Avenue (EB)<br/>ID: 22048</description>
+		<Point> 
+			<coordinates>
+			-121.712628,38.547353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; El Cemonte Ave (EB)<br/>ID: 22497</description>
+		<Point> 
+			<coordinates>
+			-121.689966,38.548811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; El Cemonte Ave (WB)<br/>ID: 22063</description>
+		<Point> 
+			<coordinates>
+			-121.690089,38.548964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Ensenada Drive (EB)<br/>ID: 22056</description>
+		<Point> 
+			<coordinates>
+			-121.69978,38.547758,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Ensenada Drive (WB)<br/>ID: 22055</description>
+		<Point> 
+			<coordinates>
+			-121.699944,38.548026,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Halsey Circle (WB)<br/>ID: 22045</description>
+		<Point> 
+			<coordinates>
+			-121.722534,38.54324,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; La Vida Way (EB)<br/>ID: 22054</description>
+		<Point> 
+			<coordinates>
+			-121.702727,38.548071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; La Vida Way (WB)<br/>ID: 22053</description>
+		<Point> 
+			<coordinates>
+			-121.703051,38.548228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Mace Blvd (EB)<br/>ID: 22172</description>
+		<Point> 
+			<coordinates>
+			-121.693596,38.548641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Mace Blvd (WB)<br/>ID: 22064</description>
+		<Point> 
+			<coordinates>
+			-121.692576,38.548844,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Ohlone Street (EB)<br/>ID: 22051</description>
+		<Point> 
+			<coordinates>
+			-121.706092,38.547404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Ohlone Street (WB)<br/>ID: 22052</description>
+		<Point> 
+			<coordinates>
+			-121.706556,38.547689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Research Park Drive (EB)<br/>ID: 22035</description>
+		<Point> 
+			<coordinates>
+			-121.730809,38.539843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Research Park Drive (WB)<br/>ID: 22034</description>
+		<Point> 
+			<coordinates>
+			-121.730212,38.540122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Schmeiser Ave (WB)<br/>ID: 22343</description>
+		<Point> 
+			<coordinates>
+			-121.68376,38.549829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Sunrise Court (EB)<br/>ID: 22057</description>
+		<Point> 
+			<coordinates>
+			-121.696718,38.547924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Sunrise Court (WB)<br/>ID: 22058</description>
+		<Point> 
+			<coordinates>
+			-121.696241,38.54842,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Valdora St (EB)<br/>ID: 22041</description>
+		<Point> 
+			<coordinates>
+			-121.723985,38.540227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cowell Blvd &amp; Valdora Street / Safeway (WB)<br/>ID: 22038</description>
+		<Point> 
+			<coordinates>
+			-121.725093,38.540116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dairy Rd &amp; La Rue Rd (SB)<br/>ID: 22269</description>
+		<Point> 
+			<coordinates>
+			-121.759012,38.534458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dairy Road &amp; Tercero (SB)<br/>ID: 22284</description>
+		<Point> 
+			<coordinates>
+			-121.758987,38.535963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drake Drive &amp; Drake Apartments (WB)<br/>ID: 22194</description>
+		<Point> 
+			<coordinates>
+			-121.761237,38.560089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drew &amp; Research Park Drive (NB)<br/>ID: 22296</description>
+		<Point> 
+			<coordinates>
+			-121.727352,38.543596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drew Ave &amp; Cowell Blvd (NB)<br/>ID: 22295</description>
+		<Point> 
+			<coordinates>
+			-121.726975,38.540193,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drummond &amp; Albany (NB)<br/>ID: 22255</description>
+		<Point> 
+			<coordinates>
+			-121.713259,38.545975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drummond Ave &amp; Cowell (SB)<br/>ID: 22047</description>
+		<Point> 
+			<coordinates>
+			-121.713367,38.547133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drummond Ave &amp; Lillard Drive (SB)<br/>ID: 22046</description>
+		<Point> 
+			<coordinates>
+			-121.713573,38.543707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East 8th Street &amp; Pole Line Road (WB)<br/>ID: 22281</description>
+		<Point> 
+			<coordinates>
+			-121.727635,38.553432,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: El Cemonte Ave &amp; Glide Drive (SB)<br/>ID: 22062</description>
+		<Point> 
+			<coordinates>
+			-121.691028,38.550877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 4th St (NB)<br/>ID: 22020</description>
+		<Point> 
+			<coordinates>
+			-121.740677,38.546296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 4th St (SB)<br/>ID: 22019</description>
+		<Point> 
+			<coordinates>
+			-121.740698,38.545691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 6th St (SB)<br/>ID: 22010</description>
+		<Point> 
+			<coordinates>
+			-121.741446,38.54839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 6th Street (NB)<br/>ID: 22027</description>
+		<Point> 
+			<coordinates>
+			-121.74143,38.548795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 8th St (SB)<br/>ID: 22122</description>
+		<Point> 
+			<coordinates>
+			-121.742151,38.550924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 8th St (NB)<br/>ID: 22117</description>
+		<Point> 
+			<coordinates>
+			-121.74199,38.551615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 12th St (NB)<br/>ID: 22116</description>
+		<Point> 
+			<coordinates>
+			-121.742602,38.555262,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; 14th St (NB)<br/>ID: 22115</description>
+		<Point> 
+			<coordinates>
+			-121.743296,38.557187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; Bueno (NB)<br/>ID: 22369</description>
+		<Point> 
+			<coordinates>
+			-121.744522,38.56173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; Covell Blvd (NB)<br/>ID: 22112</description>
+		<Point> 
+			<coordinates>
+			-121.744673,38.559627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; Covell Blvd (SB)<br/>ID: 22113</description>
+		<Point> 
+			<coordinates>
+			-121.744958,38.560114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St &amp; Faro (NB)<br/>ID: 22370</description>
+		<Point> 
+			<coordinates>
+			-121.745155,38.56645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F Street &amp; Bueno (SB)<br/>ID: 22313</description>
+		<Point> 
+			<coordinates>
+			-121.744797,38.56173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F Street &amp; Faro (SB)<br/>ID: 22312</description>
+		<Point> 
+			<coordinates>
+			-121.74532,38.566094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F Street &amp; Grande (SB)<br/>ID: 22127</description>
+		<Point> 
+			<coordinates>
+			-121.746277,38.569184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garrod Drive &amp; Lot 51 / Equine Center<br/>ID: 22604</description>
+		<Point> 
+			<coordinates>
+			-121.766349,38.530406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garrod Drive &amp; Lot 54 / 55<br/>ID: 22605</description>
+		<Point> 
+			<coordinates>
+			-121.761947,38.531479,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garrod Drive at Putah Creek Lodge Parking Lot<br/>ID: 22606</description>
+		<Point> 
+			<coordinates>
+			-121.760613,38.532513,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glide Drive &amp; El Cemonte Ave (EB)<br/>ID: 22496</description>
+		<Point> 
+			<coordinates>
+			-121.690542,38.551355,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glide Drive &amp; El Cemonte Ave (WB)<br/>ID: 22359</description>
+		<Point> 
+			<coordinates>
+			-121.689936,38.551916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glide Drive &amp; Schmeiser Ave (EB)<br/>ID: 22344</description>
+		<Point> 
+			<coordinates>
+			-121.684202,38.552212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glide Drive &amp; Schmeiser Ave (WB)<br/>ID: 22358</description>
+		<Point> 
+			<coordinates>
+			-121.684379,38.552428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St &amp; 2nd St / Amtrak (NB)<br/>ID: 22011</description>
+		<Point> 
+			<coordinates>
+			-121.738023,38.543988,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St &amp; 2nd St / Amtrak (SB)<br/>ID: 22012</description>
+		<Point> 
+			<coordinates>
+			-121.738245,38.543941,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Health Sciences Drive &amp; Lot 53<br/>ID: 22602</description>
+		<Point> 
+			<coordinates>
+			-121.767487,38.534574,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Health Sciences Drive &amp; Lot 57<br/>ID: 22603</description>
+		<Point> 
+			<coordinates>
+			-121.76757,38.532296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Humboldt Ave &amp; Arthur St (EB)<br/>ID: 22217</description>
+		<Point> 
+			<coordinates>
+			-121.771111,38.552806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Humboldt Ave &amp; Imperial / Emerson Junior High (EB)<br/>ID: 22216</description>
+		<Point> 
+			<coordinates>
+			-121.776013,38.552756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison &amp; Bioletti Temp Terminal<br/>ID: 22609</description>
+		<Point> 
+			<coordinates>
+			-121.756864,38.539154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison &amp; Dairy Road<br/>ID: 22608</description>
+		<Point> 
+			<coordinates>
+			-121.758627,38.539122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison &amp; Sage (NB)<br/>ID: 22286</description>
+		<Point> 
+			<coordinates>
+			-121.771469,38.538658,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison &amp; Sage (SB)<br/>ID: 22287</description>
+		<Point> 
+			<coordinates>
+			-121.771806,38.538515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Art Building (EB)<br/>ID: 22169</description>
+		<Point> 
+			<coordinates>
+			-121.748375,38.539195,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Bioletti Way (EB)<br/>ID: 22173</description>
+		<Point> 
+			<coordinates>
+			-121.755774,38.53903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Ext Center (WB)<br/>ID: 22239</description>
+		<Point> 
+			<coordinates>
+			-121.762285,38.538839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Health Sci Drive (EB)<br/>ID: 22240</description>
+		<Point> 
+			<coordinates>
+			-121.763945,38.537486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Health Sciences Drive (WB)<br/>ID: 22361</description>
+		<Point> 
+			<coordinates>
+			-121.764306,38.537511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Old Davis Road (EB)<br/>ID: 22000</description>
+		<Point> 
+			<coordinates>
+			-121.746053,38.540031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Old Davis Road (WB)<br/>ID: 22001</description>
+		<Point> 
+			<coordinates>
+			-121.746139,38.540158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hutchison Drive &amp; Shields Library (WB)<br/>ID: 22168</description>
+		<Point> 
+			<coordinates>
+			-121.748917,38.539287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; 8th St (SB)<br/>ID: 22233</description>
+		<Point> 
+			<coordinates>
+			-121.738811,38.552042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; Alice St (SB)<br/>ID: 22101</description>
+		<Point> 
+			<coordinates>
+			-121.739913,38.554371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; Cranbrook Ct (SB)<br/>ID: 22099</description>
+		<Point> 
+			<coordinates>
+			-121.738707,38.559763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; Drexel Drive (NB)<br/>ID: 22371</description>
+		<Point> 
+			<coordinates>
+			-121.740636,38.557104,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; Drexel Drive / Holmes Junior High (SB)<br/>ID: 22100</description>
+		<Point> 
+			<coordinates>
+			-121.740771,38.556975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; Menlo Drive (NB)<br/>ID: 22372</description>
+		<Point> 
+			<coordinates>
+			-121.739166,38.558958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jade St at Sage St - Drop Off Only (WB)<br/>ID: 22306</description>
+		<Point> 
+			<coordinates>
+			-121.771641,38.541096,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St &amp; 4th St (NB)<br/>ID: 22033</description>
+		<Point> 
+			<coordinates>
+			-121.734054,38.547423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St &amp; 425 (SB)<br/>ID: 22032</description>
+		<Point> 
+			<coordinates>
+			-121.734336,38.547739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L Street &amp; Duke (SB)<br/>ID: 22325</description>
+		<Point> 
+			<coordinates>
+			-121.734861,38.550094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: La Rue &amp; Aggie Stadium (NB)<br/>ID: 22310</description>
+		<Point> 
+			<coordinates>
+			-121.76082,38.536399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: La Rue &amp; Dairy Facility<br/>ID: 22607</description>
+		<Point> 
+			<coordinates>
+			-121.760749,38.536982,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: La Rue Rd &amp; Orchard / ARC (NB)<br/>ID: 22175</description>
+		<Point> 
+			<coordinates>
+			-121.759833,38.54402,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: La Rue Rd &amp; Orchard / ARC (SB)<br/>ID: 22176</description>
+		<Point> 
+			<coordinates>
+			-121.760887,38.542506,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Covell Blvd (NB)<br/>ID: 22204</description>
+		<Point> 
+			<coordinates>
+			-121.786037,38.560424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Covell Blvd (SB)<br/>ID: 22203</description>
+		<Point> 
+			<coordinates>
+			-121.786324,38.560463,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Oyster Bay (SB)<br/>ID: 22205</description>
+		<Point> 
+			<coordinates>
+			-121.786646,38.557567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Portage Bay (NB)<br/>ID: 22226</description>
+		<Point> 
+			<coordinates>
+			-121.788493,38.548955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Portage Bay (SB)<br/>ID: 22387</description>
+		<Point> 
+			<coordinates>
+			-121.789079,38.548788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Salem Ave (NB)<br/>ID: 22227</description>
+		<Point> 
+			<coordinates>
+			-121.787302,38.550439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Westlake Plaza (NB)<br/>ID: 22228</description>
+		<Point> 
+			<coordinates>
+			-121.78752,38.553321,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Westlake Plaza (SB)<br/>ID: 22373</description>
+		<Point> 
+			<coordinates>
+			-121.787759,38.553688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Blvd &amp; Wood Circle (NB)<br/>ID: 22206</description>
+		<Point> 
+			<coordinates>
+			-121.786443,38.557464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lillard &amp; Drummond (EB)<br/>ID: 22254</description>
+		<Point> 
+			<coordinates>
+			-121.714859,38.543201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lillard Drive &amp; Cowell Blvd (EB)<br/>ID: 22297</description>
+		<Point> 
+			<coordinates>
+			-121.722191,38.541165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lillard Drive &amp; Evans Court (WB)<br/>ID: 22043</description>
+		<Point> 
+			<coordinates>
+			-121.71758,38.541782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lillard Drive &amp; Evans Ct (EB)<br/>ID: 22174</description>
+		<Point> 
+			<coordinates>
+			-121.717347,38.541664,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lillard Drive &amp; Farragut Circle (WB)<br/>ID: 22042</description>
+		<Point> 
+			<coordinates>
+			-121.720724,38.54136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola Drive &amp; Nutmeg Ln (WB)<br/>ID: 22088</description>
+		<Point> 
+			<coordinates>
+			-121.722996,38.557765,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola Drive &amp; Regis Dr (WB)<br/>ID: 22091</description>
+		<Point> 
+			<coordinates>
+			-121.720308,38.557898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola Drive &amp; Whittier Drive (WB)<br/>ID: 22087</description>
+		<Point> 
+			<coordinates>
+			-121.727345,38.557603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace Blvd &amp; 2nd St (NB)<br/>ID: 22244</description>
+		<Point> 
+			<coordinates>
+			-121.693953,38.556249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace Blvd &amp; 2nd St (SB)<br/>ID: 22243</description>
+		<Point> 
+			<coordinates>
+			-121.694301,38.557751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace Blvd &amp; Chiles Road / El Macero / Nugget (SB)<br/>ID: 22059</description>
+		<Point> 
+			<coordinates>
+			-121.694573,38.549739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace Blvd &amp; Cowell Blvd / El Macero / Nugget (NB)<br/>ID: 22060</description>
+		<Point> 
+			<coordinates>
+			-121.694247,38.549276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Memorial Union &amp; Main Island (NB)<br/>ID: 22272</description>
+		<Point> 
+			<coordinates>
+			-121.750044,38.54386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Memorial Union &amp; East Island (SB)<br/>ID: 22274</description>
+		<Point> 
+			<coordinates>
+			-121.749574,38.543621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Memorial Union &amp; Main Island (SB)<br/>ID: 22273</description>
+		<Point> 
+			<coordinates>
+			-121.749755,38.543593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Memorial Union Terminal Arrival &amp; Howard Way (NB)<br/>ID: 22167</description>
+		<Point> 
+			<coordinates>
+			-121.749798,38.543983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monarch Ln &amp; Campbell (SB)<br/>ID: 22081</description>
+		<Point> 
+			<coordinates>
+			-121.714597,38.562669,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore &amp; Pole Line Rd (WB)<br/>ID: 22375</description>
+		<Point> 
+			<coordinates>
+			-121.729552,38.570436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore &amp; Sargent (WB)<br/>ID: 22374</description>
+		<Point> 
+			<coordinates>
+			-121.71983,38.564383,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore Blvd &amp; Pole Line Rd (EB)<br/>ID: 22249</description>
+		<Point> 
+			<coordinates>
+			-121.729186,38.570257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore Blvd &amp; Pollock (EB)<br/>ID: 22250</description>
+		<Point> 
+			<coordinates>
+			-121.719168,38.564417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore Blvd &amp; Raphael (EB)<br/>ID: 22261</description>
+		<Point> 
+			<coordinates>
+			-121.72346,38.565016,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore Blvd &amp; Rockwell (EB)<br/>ID: 22294</description>
+		<Point> 
+			<coordinates>
+			-121.726649,38.568603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moore Village (WB)<br/>ID: 22376</description>
+		<Point> 
+			<coordinates>
+			-121.724054,38.566255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Sycamore Loop (NB)<br/>ID: 22144</description>
+		<Point> 
+			<coordinates>
+			-121.766986,38.568246,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak &amp; 14th Street (NB)<br/>ID: 22314</description>
+		<Point> 
+			<coordinates>
+			-121.752208,38.55609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; 8th St (NB)<br/>ID: 22163</description>
+		<Point> 
+			<coordinates>
+			-121.752611,38.551035,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; 8th St (SB)<br/>ID: 22164</description>
+		<Point> 
+			<coordinates>
+			-121.752853,38.55044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; 14th St (SB)<br/>ID: 22148</description>
+		<Point> 
+			<coordinates>
+			-121.752423,38.555563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; Antioch Drive (NB)<br/>ID: 22161</description>
+		<Point> 
+			<coordinates>
+			-121.752569,38.553345,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; Antioch Drive (SB)<br/>ID: 22162</description>
+		<Point> 
+			<coordinates>
+			-121.752779,38.552723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; Covell (NB)<br/>ID: 22145</description>
+		<Point> 
+			<coordinates>
+			-121.752138,38.56034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; Russell Blvd (NB)<br/>ID: 22165</description>
+		<Point> 
+			<coordinates>
+			-121.752651,38.546644,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak Ave &amp; Russell Blvd (SB)<br/>ID: 22166</description>
+		<Point> 
+			<coordinates>
+			-121.752911,38.54649,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pena &amp; 2nd St. (NB)<br/>ID: 22283</description>
+		<Point> 
+			<coordinates>
+			-121.7157,38.55023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line &amp; Donner (NB)<br/>ID: 22260</description>
+		<Point> 
+			<coordinates>
+			-121.730755,38.566605,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line &amp; S Diameter Drive (NB)<br/>ID: 22044</description>
+		<Point> 
+			<coordinates>
+			-121.726707,38.550296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line &amp; Wahl Way (SB)<br/>ID: 22280</description>
+		<Point> 
+			<coordinates>
+			-121.727476,38.555187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line Rd &amp; 8th St (NB)<br/>ID: 22094</description>
+		<Point> 
+			<coordinates>
+			-121.727256,38.553959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line Rd &amp; Claremont Drive (NB)<br/>ID: 22092</description>
+		<Point> 
+			<coordinates>
+			-121.730989,38.561447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line Rd &amp; Cowell Blvd (NB)<br/>ID: 22040</description>
+		<Point> 
+			<coordinates>
+			-121.724375,38.54221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line Rd &amp; Cowell Blvd (SB)<br/>ID: 22039</description>
+		<Point> 
+			<coordinates>
+			-121.72519,38.542589,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line Rd &amp; Loyola Drive (NB)<br/>ID: 22357</description>
+		<Point> 
+			<coordinates>
+			-121.727317,38.556161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pole Line Rd &amp; Picasso Ave (NB)<br/>ID: 22106</description>
+		<Point> 
+			<coordinates>
+			-121.730865,38.564358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Radcliffe Drive &amp; Apple Ln (NB)<br/>ID: 22193</description>
+		<Point> 
+			<coordinates>
+			-121.760557,38.55862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Research Park Drive &amp; Cowell (EB)<br/>ID: 22318</description>
+		<Point> 
+			<coordinates>
+			-121.724102,38.545216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Richards Blvd &amp; Olive Drive (NB)<br/>ID: 22242</description>
+		<Point> 
+			<coordinates>
+			-121.73832,38.540795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Richards Blvd &amp; Olive Drive (SB)<br/>ID: 22004</description>
+		<Point> 
+			<coordinates>
+			-121.738537,38.540645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell &amp; A St (EB)<br/>ID: 22008</description>
+		<Point> 
+			<coordinates>
+			-121.747104,38.546127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell &amp; Arthur (EB)<br/>ID: 22316</description>
+		<Point> 
+			<coordinates>
+			-121.77112,38.546378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Blvd &amp; A Street / City Hall (WB)<br/>ID: 22021</description>
+		<Point> 
+			<coordinates>
+			-121.746873,38.546382,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Blvd &amp; Arlington Farm (WB)<br/>ID: 22229</description>
+		<Point> 
+			<coordinates>
+			-121.785855,38.546797,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Blvd &amp; Arthur St (WB)<br/>ID: 22225</description>
+		<Point> 
+			<coordinates>
+			-121.771018,38.546553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Blvd &amp; Sycamore Lane / Trader Joe's (EB)<br/>ID: 22177</description>
+		<Point> 
+			<coordinates>
+			-121.761999,38.546237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Blvd &amp; Sycamore Lane / Trader Joe's (WB)<br/>ID: 22178</description>
+		<Point> 
+			<coordinates>
+			-121.763497,38.546489,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Schmeiser Ave &amp; Cowell Blvd (NB)<br/>ID: 22498</description>
+		<Point> 
+			<coordinates>
+			-121.683489,38.549914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Covell (SB)<br/>ID: 22378</description>
+		<Point> 
+			<coordinates>
+			-121.772896,38.559936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Denali (EB)<br/>ID: 22379</description>
+		<Point> 
+			<coordinates>
+			-121.779859,38.555123,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Denali (WB)<br/>ID: 22380</description>
+		<Point> 
+			<coordinates>
+			-121.780202,38.55529,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; El Capitan (EB)<br/>ID: 22381</description>
+		<Point> 
+			<coordinates>
+			-121.775149,38.555305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; El Capitan (WB)<br/>ID: 22382</description>
+		<Point> 
+			<coordinates>
+			-121.775482,38.555582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Hampton (EB)<br/>ID: 22383</description>
+		<Point> 
+			<coordinates>
+			-121.772424,38.555405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Hampton (WB)<br/>ID: 22384</description>
+		<Point> 
+			<coordinates>
+			-121.772907,38.555624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Rio Grande (NB)<br/>ID: 22385</description>
+		<Point> 
+			<coordinates>
+			-121.771126,38.557276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shasta &amp; Rio Grande (SB)<br/>ID: 22386</description>
+		<Point> 
+			<coordinates>
+			-121.771576,38.556983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silo Terminal &amp; Center Island (EB)<br/>ID: 22257</description>
+		<Point> 
+			<coordinates>
+			-121.753079,38.539346,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silo Terminal &amp; Center Island (WB)<br/>ID: 22256</description>
+		<Point> 
+			<coordinates>
+			-121.753094,38.539142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silo Terminal &amp; Haring Hall (WB)<br/>ID: 22258</description>
+		<Point> 
+			<coordinates>
+			-121.753685,38.539329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore &amp; 8th (SB)<br/>ID: 22292</description>
+		<Point> 
+			<coordinates>
+			-121.764219,38.550607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; 8th St (NB)<br/>ID: 22185</description>
+		<Point> 
+			<coordinates>
+			-121.764404,38.550965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Alvarado (SB)<br/>ID: 22138</description>
+		<Point> 
+			<coordinates>
+			-121.765042,38.562525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Antelope (NB) - Drop Off Only<br/>ID: 22140</description>
+		<Point> 
+			<coordinates>
+			-121.765611,38.564446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Antelope (SB)<br/>ID: 22141</description>
+		<Point> 
+			<coordinates>
+			-121.765854,38.564357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Bucknell Drive (NB)<br/>ID: 22188</description>
+		<Point> 
+			<coordinates>
+			-121.764838,38.554912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Chaparral Apts (NB) - Drop Off Only<br/>ID: 22142</description>
+		<Point> 
+			<coordinates>
+			-121.765557,38.566309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Chaparral Apts (SB)<br/>ID: 22143</description>
+		<Point> 
+			<coordinates>
+			-121.76584,38.566025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Colby Drive (SB)<br/>ID: 22187</description>
+		<Point> 
+			<coordinates>
+			-121.765045,38.555308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Cornell Drive (NB)<br/>ID: 22189</description>
+		<Point> 
+			<coordinates>
+			-121.764886,38.553481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Cornell Drive (SB)<br/>ID: 22190</description>
+		<Point> 
+			<coordinates>
+			-121.765096,38.552939,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Drake Drive (SB)<br/>ID: 22195</description>
+		<Point> 
+			<coordinates>
+			-121.76406,38.559408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Notre Dame Drive (SB)<br/>ID: 22192</description>
+		<Point> 
+			<coordinates>
+			-121.764821,38.558492,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Pepperwood Apts (NB) - Drop Off Only<br/>ID: 22139</description>
+		<Point> 
+			<coordinates>
+			-121.765419,38.56314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Radcliffe Drive (NB)<br/>ID: 22191</description>
+		<Point> 
+			<coordinates>
+			-121.764724,38.558244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Russell / Trader Joe's (NB)<br/>ID: 22230</description>
+		<Point> 
+			<coordinates>
+			-121.761669,38.547509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Russell / Trader Joe's (SB)<br/>ID: 22179</description>
+		<Point> 
+			<coordinates>
+			-121.761982,38.547383,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore Ln &amp; Villanova Drive (NB)<br/>ID: 22186</description>
+		<Point> 
+			<coordinates>
+			-121.764806,38.556476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Temple Drive &amp; Balsam Pl (WB)<br/>ID: 22082</description>
+		<Point> 
+			<coordinates>
+			-121.717197,38.561984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Green / 2080 Tilia St (EB)<br/>ID: 22305</description>
+		<Point> 
+			<coordinates>
+			-121.77525,38.541995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tilia &amp; Celadon (EB)<br/>ID: 22304</description>
+		<Point> 
+			<coordinates>
+			-121.773298,38.541897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip Ln &amp; Cascade Pl (SB)<br/>ID: 22085</description>
+		<Point> 
+			<coordinates>
+			-121.717411,38.558242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Villanova Drive &amp; Anderson Rd (EB)<br/>ID: 22150</description>
+		<Point> 
+			<coordinates>
+			-121.757881,38.55615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Villanova Drive &amp; Reed Drive (WB)<br/>ID: 22149</description>
+		<Point> 
+			<coordinates>
+			-121.756564,38.556407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wake Forest Drive &amp; 8th Street (SB)<br/>ID: 22182</description>
+		<Point> 
+			<coordinates>
+			-121.76684,38.549023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wake Forest Drive &amp; Oxford Circle / Cuarto Dorms (EB)<br/>ID: 22181</description>
+		<Point> 
+			<coordinates>
+			-121.763945,38.547933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Village Sq &amp; Community College (SB)<br/>ID: 22289</description>
+		<Point> 
+			<coordinates>
+			-121.77171,38.540823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Village Sq &amp; Town Square (NB) - Drop Off Only<br/>ID: 22288</description>
+		<Point> 
+			<coordinates>
+			-121.771486,38.541215,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

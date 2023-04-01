@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ct-norwalk stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6 Ward St. &amp; Main Ave. / Bank of America<br/>ID: 101</description>
+		<Point> 
+			<coordinates>
+			-73.422989,41.129978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 10 / 20 Westport Rd<br/>ID: 200</description>
+		<Point> 
+			<coordinates>
+			-73.41227,41.18021,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11 Fort Point &amp; Van Zant<br/>ID: 6</description>
+		<Point> 
+			<coordinates>
+			-73.411057,41.100788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11 North Main St. &amp; Washington<br/>ID: 7</description>
+		<Point> 
+			<coordinates>
+			-73.418678,41.099331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 13 South Main St. &amp; Washington<br/>ID: 15</description>
+		<Point> 
+			<coordinates>
+			-73.418907,41.098545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14 Lowe St. &amp; Hamilton<br/>ID: 20</description>
+		<Point> 
+			<coordinates>
+			-73.425842,41.095055,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 14 Union Ave. &amp; Eclipse<br/>ID: 21</description>
+		<Point> 
+			<coordinates>
+			-73.415123,41.125305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15 Ward St. &amp; Aiken<br/>ID: 24</description>
+		<Point> 
+			<coordinates>
+			-73.421082,41.130337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 16 Ward St. &amp; Thames<br/>ID: 34</description>
+		<Point> 
+			<coordinates>
+			-73.420822,41.130268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 17 West Ave. / Grace Baptist Church<br/>ID: 39</description>
+		<Point> 
+			<coordinates>
+			-73.419922,41.103474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 20 Glover Ave &amp; Vertrue<br/>ID: 44</description>
+		<Point> 
+			<coordinates>
+			-73.427498,41.143433,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 24 1/2 Monroe St. / Norwalk Housing Auth<br/>ID: 50</description>
+		<Point> 
+			<coordinates>
+			-73.421692,41.096615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 24 Lexington Ave.<br/>ID: 51</description>
+		<Point> 
+			<coordinates>
+			-73.423302,41.091969,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 25 Van Zant St IB<br/>ID: 322</description>
+		<Point> 
+			<coordinates>
+			-73.406845,41.101444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 25 Van Zant St OB<br/>ID: 321</description>
+		<Point> 
+			<coordinates>
+			-73.407898,41.101326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 28 France St. &amp; Lumle Circle<br/>ID: 60</description>
+		<Point> 
+			<coordinates>
+			-73.409729,41.12421,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 28 Martin Luther King Jr. Dr. / St. Paul<br/>ID: 61</description>
+		<Point> 
+			<coordinates>
+			-73.421677,41.100342,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 30 West Ave. / Norwalk Housing Authority<br/>ID: 66</description>
+		<Point> 
+			<coordinates>
+			-73.419952,41.102787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 31 Stevens Street / Norwalk Hospital<br/>ID: 67</description>
+		<Point> 
+			<coordinates>
+			-73.421478,41.110332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 32 Lowe St. &amp; Cleveland<br/>ID: 69</description>
+		<Point> 
+			<coordinates>
+			-73.425774,41.093884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 40 South Main St. &amp; Haviland<br/>ID: 84</description>
+		<Point> 
+			<coordinates>
+			-73.418861,41.098206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 43 Union Ave. Senior Court<br/>ID: 86</description>
+		<Point> 
+			<coordinates>
+			-73.414604,41.126186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 45 Ely Ave<br/>ID: 89</description>
+		<Point> 
+			<coordinates>
+			-73.423714,41.093338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 50 Danbury Rd<br/>ID: 199</description>
+		<Point> 
+			<coordinates>
+			-73.416374,41.168388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 52 Lexington Ave. &amp; Austin<br/>ID: 93</description>
+		<Point> 
+			<coordinates>
+			-73.42337,41.090096,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 52 Woodward Ave. &amp; Burritt<br/>ID: 94</description>
+		<Point> 
+			<coordinates>
+			-73.416786,41.091499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 53 Ward St. &amp; Irving Freese Apt.<br/>ID: 96</description>
+		<Point> 
+			<coordinates>
+			-73.417465,41.129406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 59 Connecticut Ave. / Toys R Us<br/>ID: 99</description>
+		<Point> 
+			<coordinates>
+			-73.422073,41.107479,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 63 North Main St. &amp; Ann St.<br/>ID: 105</description>
+		<Point> 
+			<coordinates>
+			-73.41951,41.100918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 64 Connecticut Ave. &amp; Woodbury<br/>ID: 106</description>
+		<Point> 
+			<coordinates>
+			-73.422066,41.107475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 64 South Main St. &amp; Hanford<br/>ID: 107</description>
+		<Point> 
+			<coordinates>
+			-73.418961,41.096584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 68 Water St. &amp; Elizabeth<br/>ID: 110</description>
+		<Point> 
+			<coordinates>
+			-73.415977,41.097343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 69 Water St. &amp; Elizabeth<br/>ID: 112</description>
+		<Point> 
+			<coordinates>
+			-73.415977,41.097343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 71 Wall Street<br/>ID: 116</description>
+		<Point> 
+			<coordinates>
+			-73.413795,41.117458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 72 Lexington Ave. &amp; Hemlock<br/>ID: 118</description>
+		<Point> 
+			<coordinates>
+			-73.423828,41.088924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 75 Richards Ave. &amp; Connecticut Ave.<br/>ID: 119</description>
+		<Point> 
+			<coordinates>
+			-73.451073,41.094662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 81 Woodward Ave. &amp; Meadow St.<br/>ID: 121</description>
+		<Point> 
+			<coordinates>
+			-73.415924,41.089848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 84 West Ave. &amp; Reed St.<br/>ID: 122</description>
+		<Point> 
+			<coordinates>
+			-73.419785,41.104263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 86 Woodward Ave. &amp; Meadow<br/>ID: 123</description>
+		<Point> 
+			<coordinates>
+			-73.415924,41.089848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 93 Richards Ave. / Riverview Apts.<br/>ID: 124</description>
+		<Point> 
+			<coordinates>
+			-73.450966,41.094666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 95 Ward St. &amp; Union Ave.<br/>ID: 125</description>
+		<Point> 
+			<coordinates>
+			-73.413956,41.127167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 96 South Main St. &amp; Raymond<br/>ID: 126</description>
+		<Point> 
+			<coordinates>
+			-73.419029,41.095284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 99 Washington St.<br/>ID: 127</description>
+		<Point> 
+			<coordinates>
+			-73.417694,41.098965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 100 Connecticut Ave. &amp; Clinton<br/>ID: 1</description>
+		<Point> 
+			<coordinates>
+			-73.425858,41.106358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 100 Lexington Ave. &amp; Knapp<br/>ID: 2</description>
+		<Point> 
+			<coordinates>
+			-73.42424,41.087486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 101 Merritt 7<br/>ID: 372</description>
+		<Point> 
+			<coordinates>
+			-73.425171,41.150967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 101 Merritt 7 &amp; Main Ave.<br/>ID: 3</description>
+		<Point> 
+			<coordinates>
+			-73.425072,41.151302,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 108 South Main St. &amp; Concord<br/>ID: 4</description>
+		<Point> 
+			<coordinates>
+			-73.419083,41.093636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 114 Washington Street<br/>ID: 8</description>
+		<Point> 
+			<coordinates>
+			-73.417297,41.098839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 120 Scribner &amp; Suncrest / Best Buy<br/>ID: 10</description>
+		<Point> 
+			<coordinates>
+			-73.437912,41.103989,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 121 Water St. &amp; Hanford<br/>ID: 11</description>
+		<Point> 
+			<coordinates>
+			-73.415726,41.096043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 125 East Ave. / City Hall<br/>ID: 12</description>
+		<Point> 
+			<coordinates>
+			-73.407501,41.112766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 125 Main St. &amp; West Main St.<br/>ID: 13</description>
+		<Point> 
+			<coordinates>
+			-73.415688,41.123131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 128 East Ave. across from City Hall<br/>ID: 14</description>
+		<Point> 
+			<coordinates>
+			-73.407677,41.113052,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 135 Connecticut Ave. &amp; Cedar<br/>ID: 17</description>
+		<Point> 
+			<coordinates>
+			-73.428909,41.105038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 143 Main St. prior to Union<br/>ID: 23</description>
+		<Point> 
+			<coordinates>
+			-73.416931,41.124531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 150 Glover Ave. &amp; U.S. Surgical 1st Ent.<br/>ID: 25</description>
+		<Point> 
+			<coordinates>
+			-73.427391,41.151287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 150 Glover Ave. &amp; U.S. Surgical 2nd Ent.<br/>ID: 26</description>
+		<Point> 
+			<coordinates>
+			-73.427086,41.152512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 150 South Main St. &amp; Grove<br/>ID: 27</description>
+		<Point> 
+			<coordinates>
+			-73.419312,41.09063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 151 Westport Ave. &amp; George Street / King<br/>ID: 28</description>
+		<Point> 
+			<coordinates>
+			-73.400887,41.123451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 152 Westport Ave. &amp; George St. / Kingsway<br/>ID: 30</description>
+		<Point> 
+			<coordinates>
+			-73.401093,41.123539,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 155 Main St. &amp; Holmes<br/>ID: 31</description>
+		<Point> 
+			<coordinates>
+			-73.418343,41.125206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 155 N. Taylor &amp; Windward<br/>ID: 32</description>
+		<Point> 
+			<coordinates>
+			-73.439247,41.113674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 166 Glover Ave. &amp; Vectron<br/>ID: 37</description>
+		<Point> 
+			<coordinates>
+			-73.426765,41.153297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 187 Danbury Rd<br/>ID: 201</description>
+		<Point> 
+			<coordinates>
+			-73.420593,41.185055,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 188 Richards Ave. / N.C.C. East Campus<br/>ID: 40</description>
+		<Point> 
+			<coordinates>
+			-73.450714,41.102161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 189 Connecticut Ave. / Linens &amp; Things<br/>ID: 42</description>
+		<Point> 
+			<coordinates>
+			-73.432571,41.10371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 191 East Ave. &amp; Raymond<br/>ID: 43</description>
+		<Point> 
+			<coordinates>
+			-73.405289,41.106873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 200 Connecticut Ave. / Silver Star Diner<br/>ID: 45</description>
+		<Point> 
+			<coordinates>
+			-73.43232,41.104168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 201 / 301 Merritt 7 &amp; Main Ave.<br/>ID: 46</description>
+		<Point> 
+			<coordinates>
+			-73.425636,41.149864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 201 / 301 Merritt 7<br/>ID: 203</description>
+		<Point> 
+			<coordinates>
+			-73.425537,41.149818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 207 East Ave.&amp; Myrtle / St. Thomas Church<br/>ID: 47</description>
+		<Point> 
+			<coordinates>
+			-73.404793,41.105392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 208 East Ave. / St. Thomas Parish Ctr.<br/>ID: 48</description>
+		<Point> 
+			<coordinates>
+			-73.40509,41.105728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 218 South Main St. &amp; Meadow<br/>ID: 49</description>
+		<Point> 
+			<coordinates>
+			-73.420807,41.086052,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 242 Ely Ave. &amp; Moscariello<br/>ID: 52</description>
+		<Point> 
+			<coordinates>
+			-73.425926,41.085999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 250 Westport Ave. &amp; County St.<br/>ID: 53</description>
+		<Point> 
+			<coordinates>
+			-73.396774,41.124538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 253 Main Ave &amp; Broad St.<br/>ID: 54</description>
+		<Point> 
+			<coordinates>
+			-73.423866,41.132187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 253 Wilson Ave. &amp; Grey Rock<br/>ID: 55</description>
+		<Point> 
+			<coordinates>
+			-73.423843,41.078732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 258 Main Ave. &amp; Maplewood<br/>ID: 56</description>
+		<Point> 
+			<coordinates>
+			-73.423584,41.131721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 267 Main Ave. &amp; Diamond Plaza<br/>ID: 57</description>
+		<Point> 
+			<coordinates>
+			-73.424194,41.133274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 275 Wilson Ave. / NTD Offices<br/>ID: 58</description>
+		<Point> 
+			<coordinates>
+			-73.423042,41.080051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 276 Main Ave.<br/>ID: 59</description>
+		<Point> 
+			<coordinates>
+			-73.423134,41.133343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 281 Connecticut Ave. Scribner<br/>ID: 62</description>
+		<Point> 
+			<coordinates>
+			-73.435463,41.102615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 284 Ely Ave. &amp; Testa Pl.<br/>ID: 63</description>
+		<Point> 
+			<coordinates>
+			-73.427391,41.08358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 296 Main Ave. &amp; Coach Run Condos<br/>ID: 64</description>
+		<Point> 
+			<coordinates>
+			-73.424377,41.135071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 316 Ely Ave.<br/>ID: 68</description>
+		<Point> 
+			<coordinates>
+			-73.42791,41.081451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 326 Main Ave. &amp; Norwalk Glass Co.<br/>ID: 70</description>
+		<Point> 
+			<coordinates>
+			-73.424644,41.136192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 327 Main Ave. &amp; Perry Ave. / CVS<br/>ID: 71</description>
+		<Point> 
+			<coordinates>
+			-73.424797,41.136044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 330 Connecticut Ave. / T.J. Maxx<br/>ID: 72</description>
+		<Point> 
+			<coordinates>
+			-73.437828,41.101826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 334 Wilson Ave. / First Student Transit<br/>ID: 73</description>
+		<Point> 
+			<coordinates>
+			-73.421608,41.083504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 345 Ely Ave / Swank Inc.<br/>ID: 74</description>
+		<Point> 
+			<coordinates>
+			-73.427422,41.079174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 345 Main Ave. &amp; Parkway Plaza<br/>ID: 75</description>
+		<Point> 
+			<coordinates>
+			-73.426224,41.139301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 346 Main Ave. &amp; The Hour<br/>ID: 76</description>
+		<Point> 
+			<coordinates>
+			-73.425896,41.138344,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 350 Main Ave. &amp; Briggs High School<br/>ID: 77</description>
+		<Point> 
+			<coordinates>
+			-73.426071,41.138882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 353 Main Ave. (across from Briggs High)<br/>ID: 78</description>
+		<Point> 
+			<coordinates>
+			-73.426025,41.140202,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 366 Ely Ave. &amp; Duke Pl.<br/>ID: 79</description>
+		<Point> 
+			<coordinates>
+			-73.426941,41.078068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 370 West Ave. / Y.M.C.A.<br/>ID: 80</description>
+		<Point> 
+			<coordinates>
+			-73.417061,41.111168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 377 Main Ave. (across from Stop &amp; Shop)<br/>ID: 81</description>
+		<Point> 
+			<coordinates>
+			-73.425842,41.1408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 380 Main Ave. &amp; Stop &amp; Shop<br/>ID: 82</description>
+		<Point> 
+			<coordinates>
+			-73.425835,41.140499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 385 Connecticut Ave. / Stop &amp; Shop - 2nd<br/>ID: 83</description>
+		<Point> 
+			<coordinates>
+			-73.440948,41.100285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 401 / 501 Merritt 7 &amp; Main Ave.<br/>ID: 85</description>
+		<Point> 
+			<coordinates>
+			-73.42614,41.148159,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 401 / 501 Merritt 7<br/>ID: 204</description>
+		<Point> 
+			<coordinates>
+			-73.426086,41.148335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 444 Connecticut Ave. / Sports Authority<br/>ID: 87</description>
+		<Point> 
+			<coordinates>
+			-73.441071,41.100346,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 445 Connecticut Ave. / Stop &amp; Shop<br/>ID: 88</description>
+		<Point> 
+			<coordinates>
+			-73.440659,41.100571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 467 West Ave. &amp; Butler (across from Y.M.)<br/>ID: 90</description>
+		<Point> 
+			<coordinates>
+			-73.417557,41.110573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 500 Connecticut Ave. / Kohl's<br/>ID: 91</description>
+		<Point> 
+			<coordinates>
+			-73.443741,41.098408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 500 West Ave. &amp; Maple St.<br/>ID: 92</description>
+		<Point> 
+			<coordinates>
+			-73.416771,41.111507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 527 Main Ave. / Sunnoco / DMV<br/>ID: 95</description>
+		<Point> 
+			<coordinates>
+			-73.42408,41.154732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 539 West Ave. &amp; Merwin<br/>ID: 97</description>
+		<Point> 
+			<coordinates>
+			-73.416138,41.112377,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 554 Connecticut Ave. / Oak Knoll Condos<br/>ID: 98</description>
+		<Point> 
+			<coordinates>
+			-73.446754,41.096554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 595 Connecticut Ave. &amp; Keeler<br/>ID: 100</description>
+		<Point> 
+			<coordinates>
+			-73.446274,41.096645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 601 Merritt 7<br/>ID: 205</description>
+		<Point> 
+			<coordinates>
+			-73.426392,41.146248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 601 Merritt 7 &amp; Main Ave.<br/>ID: 102</description>
+		<Point> 
+			<coordinates>
+			-73.426392,41.146221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 602 West Ave. &amp; Arch St.<br/>ID: 103</description>
+		<Point> 
+			<coordinates>
+			-73.415848,41.112923,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 627 West Ave. &amp; Chapel<br/>ID: 104</description>
+		<Point> 
+			<coordinates>
+			-73.415207,41.114365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 641 Connecticut Ave. / Raymour &amp; Flannigan<br/>ID: 108</description>
+		<Point> 
+			<coordinates>
+			-73.448219,41.09539,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 680 Connecticut Ave. / Wal-Mart<br/>ID: 111</description>
+		<Point> 
+			<coordinates>
+			-73.449493,41.094975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 696 West Ave. &amp; Chapel St. / CVS<br/>ID: 113</description>
+		<Point> 
+			<coordinates>
+			-73.415222,41.114368,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 701 Connecticut Ave. / Rip Van Winkle La<br/>ID: 114</description>
+		<Point> 
+			<coordinates>
+			-73.450066,41.094345,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 701 West Ave. &amp; Leonard<br/>ID: 115</description>
+		<Point> 
+			<coordinates>
+			-73.415009,41.115307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 710 West Ave. &amp; Mott Ave.<br/>ID: 117</description>
+		<Point> 
+			<coordinates>
+			-73.414841,41.116196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 801 Merritt 7 &amp; Main Ave.<br/>ID: 120</description>
+		<Point> 
+			<coordinates>
+			-73.426338,41.145134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints School IB<br/>ID: 305</description>
+		<Point> 
+			<coordinates>
+			-73.4161,41.137665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: All Saints School OB<br/>ID: 304</description>
+		<Point> 
+			<coordinates>
+			-73.415939,41.137707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Amogerone &amp; Mason<br/>ID: 281</description>
+		<Point> 
+			<coordinates>
+			-73.624779,41.030396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barnam Ave &amp; Vet MF<br/>ID: 345</description>
+		<Point> 
+			<coordinates>
+			-73.122681,41.198425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barnam Ave &amp; Vet NW<br/>ID: 344</description>
+		<Point> 
+			<coordinates>
+			-73.122704,41.198681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Belden Avenue<br/>ID: 198</description>
+		<Point> 
+			<coordinates>
+			-73.417747,41.118404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burritt &amp; 50 Woodward Ave.<br/>ID: 129</description>
+		<Point> 
+			<coordinates>
+			-73.416893,41.09148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burritt &amp; Water<br/>ID: 178</description>
+		<Point> 
+			<coordinates>
+			-73.414886,41.092037,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burritt &amp; Water NB<br/>ID: 391</description>
+		<Point> 
+			<coordinates>
+			-73.414818,41.092098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calf Pasture Beach Rd. &amp; Canfield Ave.<br/>ID: 130</description>
+		<Point> 
+			<coordinates>
+			-73.394119,41.087593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catherine St &amp; Main St<br/>ID: 302</description>
+		<Point> 
+			<coordinates>
+			-73.419662,41.125591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Connecticut Ave &amp; Central NW<br/>ID: 348</description>
+		<Point> 
+			<coordinates>
+			-73.165726,41.180378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Connecticut Ave. &amp; Fairfield Ave. (across)<br/>ID: 131</description>
+		<Point> 
+			<coordinates>
+			-73.426323,41.106014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Connecticut Ave. &amp; Maple / Norwalk Hospital<br/>ID: 132</description>
+		<Point> 
+			<coordinates>
+			-73.419563,41.111572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Connecticut Post Mall<br/>ID: 230</description>
+		<Point> 
+			<coordinates>
+			-73.036446,41.236248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Conneticut Ave &amp; Stuart<br/>ID: 197</description>
+		<Point> 
+			<coordinates>
+			-73.423431,41.107067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cross &amp; Main DB<br/>ID: 366</description>
+		<Point> 
+			<coordinates>
+			-73.413177,41.121403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cross St &amp; Wilton Ave<br/>ID: 301</description>
+		<Point> 
+			<coordinates>
+			-73.416946,41.119953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Department of Motor Vehicles<br/>ID: 211</description>
+		<Point> 
+			<coordinates>
+			-73.423721,41.15514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Devon Center MF<br/>ID: 343</description>
+		<Point> 
+			<coordinates>
+			-73.108833,41.199867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Devon Center NW<br/>ID: 342</description>
+		<Point> 
+			<coordinates>
+			-73.101196,41.202629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dock<br/>ID: 179</description>
+		<Point> 
+			<coordinates>
+			-73.415794,41.082706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dock Shopping Center<br/>ID: 228</description>
+		<Point> 
+			<coordinates>
+			-73.112793,41.202099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Ave. &amp; Roger Sq. (across from cemetery)<br/>ID: 133</description>
+		<Point> 
+			<coordinates>
+			-73.403137,41.102798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Norwalk RR Station<br/>ID: 386</description>
+		<Point> 
+			<coordinates>
+			-73.404449,41.104019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Norwalk RR Station<br/>ID: 175</description>
+		<Point> 
+			<coordinates>
+			-73.404449,41.104019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Norwalk Railroad Station<br/>ID: 134</description>
+		<Point> 
+			<coordinates>
+			-73.404587,41.104206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Norwalk Railroad Station OB<br/>ID: 320</description>
+		<Point> 
+			<coordinates>
+			-73.404587,41.104206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ely Ave. / Roodner Court<br/>ID: 135</description>
+		<Point> 
+			<coordinates>
+			-73.426331,41.08466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield &amp; Brewster MF<br/>ID: 352</description>
+		<Point> 
+			<coordinates>
+			-73.226524,41.157291,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield &amp; Brewster NW<br/>ID: 351</description>
+		<Point> 
+			<coordinates>
+			-73.226395,41.157722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield &amp; State NW<br/>ID: 350</description>
+		<Point> 
+			<coordinates>
+			-73.214989,41.168919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield Circle<br/>ID: 225</description>
+		<Point> 
+			<coordinates>
+			-73.247536,41.147877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield RR Station MF<br/>ID: 354</description>
+		<Point> 
+			<coordinates>
+			-73.256363,41.141388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield RR Station NW<br/>ID: 353</description>
+		<Point> 
+			<coordinates>
+			-73.256073,41.141903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fillow St &amp; N Taylor Ave<br/>ID: 296</description>
+		<Point> 
+			<coordinates>
+			-73.438454,41.117882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Point &amp; Liberty Square<br/>ID: 136</description>
+		<Point> 
+			<coordinates>
+			-73.411469,41.100109,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Point &amp; Seaview Ave. / Vets Park<br/>ID: 137</description>
+		<Point> 
+			<coordinates>
+			-73.411926,41.099731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greater Bridgeport Bus Terminal<br/>ID: 226</description>
+		<Point> 
+			<coordinates>
+			-73.187386,41.18121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenwich Hospital<br/>ID: 280</description>
+		<Point> 
+			<coordinates>
+			-73.629066,41.033424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenwich RR<br/>ID: 275</description>
+		<Point> 
+			<coordinates>
+			-73.625763,41.021576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hospital<br/>ID: 151</description>
+		<Point> 
+			<coordinates>
+			-73.420609,41.110508,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: iPark 1 (L.A. Fitness)<br/>ID: 292</description>
+		<Point> 
+			<coordinates>
+			-73.421539,41.15992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: iPark 2 (Crosswalk)<br/>ID: 293</description>
+		<Point> 
+			<coordinates>
+			-73.421646,41.158836,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson Elem School IB<br/>ID: 294</description>
+		<Point> 
+			<coordinates>
+			-73.419899,41.115341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson Elem School OB<br/>ID: 298</description>
+		<Point> 
+			<coordinates>
+			-73.420044,41.115269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: John &amp; Park NW<br/>ID: 349</description>
+		<Point> 
+			<coordinates>
+			-73.198158,41.174698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kendall School<br/>ID: 152</description>
+		<Point> 
+			<coordinates>
+			-73.433044,41.118656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lafayette &amp; Putnam<br/>ID: 279</description>
+		<Point> 
+			<coordinates>
+			-73.626869,41.031288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lowe &amp; Cleveland IB<br/>ID: 327</description>
+		<Point> 
+			<coordinates>
+			-73.425919,41.093899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lowe &amp; Hamilton IB<br/>ID: 326</description>
+		<Point> 
+			<coordinates>
+			-73.425934,41.095257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lowe St &amp; MLK IB<br/>ID: 319</description>
+		<Point> 
+			<coordinates>
+			-73.425262,41.092892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lowe St &amp; MLK OB<br/>ID: 318</description>
+		<Point> 
+			<coordinates>
+			-73.424721,41.092983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ludlow Shopping Center IB<br/>ID: 313</description>
+		<Point> 
+			<coordinates>
+			-73.403214,41.10294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ludlow Shopping Center OB<br/>ID: 312</description>
+		<Point> 
+			<coordinates>
+			-73.404175,41.103031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Glover<br/>ID: 402</description>
+		<Point> 
+			<coordinates>
+			-73.404175,41.103031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; New Cannan IB<br/>ID: 371</description>
+		<Point> 
+			<coordinates>
+			-73.422127,41.12706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; New Cannan OB<br/>ID: 370</description>
+		<Point> 
+			<coordinates>
+			-73.421394,41.126736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Union<br/>ID: 159</description>
+		<Point> 
+			<coordinates>
+			-73.416016,41.124073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Stratford Ave<br/>ID: 227</description>
+		<Point> 
+			<coordinates>
+			-73.130356,41.186832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St. &amp; School<br/>ID: 138</description>
+		<Point> 
+			<coordinates>
+			-73.41452,41.121933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple &amp; Van Buren<br/>ID: 194</description>
+		<Point> 
+			<coordinates>
+			-73.419716,41.11174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Martin Luther King Jr. Dr. &amp; Madison<br/>ID: 139</description>
+		<Point> 
+			<coordinates>
+			-73.422569,41.09819,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marvin Elem School IB<br/>ID: 315</description>
+		<Point> 
+			<coordinates>
+			-73.396172,41.093536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marvin Elem School OB<br/>ID: 314</description>
+		<Point> 
+			<coordinates>
+			-73.396652,41.093792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merritt 7<br/>ID: 193</description>
+		<Point> 
+			<coordinates>
+			-73.426102,41.14817,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merritt 7 RR Station<br/>ID: 208</description>
+		<Point> 
+			<coordinates>
+			-73.427826,41.146587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merritt 7 SB<br/>ID: 390</description>
+		<Point> 
+			<coordinates>
+			-73.426201,41.14817,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merritt on the River<br/>ID: 207</description>
+		<Point> 
+			<coordinates>
+			-73.425888,41.143581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Green MF<br/>ID: 385</description>
+		<Point> 
+			<coordinates>
+			-73.057724,41.221764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Green NW<br/>ID: 229</description>
+		<Point> 
+			<coordinates>
+			-73.057083,41.222309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Hospital MF<br/>ID: 341</description>
+		<Point> 
+			<coordinates>
+			-73.066422,41.217072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Hospital NW<br/>ID: 340</description>
+		<Point> 
+			<coordinates>
+			-73.066368,41.217224,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Plaza MF<br/>ID: 337</description>
+		<Point> 
+			<coordinates>
+			-73.049751,41.228527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford Plaza NW<br/>ID: 336</description>
+		<Point> 
+			<coordinates>
+			-73.049934,41.228683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford RR Station MF<br/>ID: 339</description>
+		<Point> 
+			<coordinates>
+			-73.057167,41.223526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milford RR Station NW<br/>ID: 338</description>
+		<Point> 
+			<coordinates>
+			-73.057381,41.22348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Morton &amp; Taylor IB<br/>ID: 317</description>
+		<Point> 
+			<coordinates>
+			-73.429062,41.10067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Morton &amp; Taylor OB<br/>ID: 316</description>
+		<Point> 
+			<coordinates>
+			-73.429283,41.100758,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Taylor &amp; Benedict<br/>ID: 154</description>
+		<Point> 
+			<coordinates>
+			-73.433983,41.110008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Naramake Elem School IB<br/>ID: 309</description>
+		<Point> 
+			<coordinates>
+			-73.39196,41.120667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Naramake Elem School OB<br/>ID: 308</description>
+		<Point> 
+			<coordinates>
+			-73.392197,41.120613,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nathan Hale Middle School OB<br/>ID: 310</description>
+		<Point> 
+			<coordinates>
+			-73.395187,41.117512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Norden Park / Avalon East Norwalk<br/>ID: 173</description>
+		<Point> 
+			<coordinates>
+			-73.387993,41.113449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Seven<br/>ID: 209</description>
+		<Point> 
+			<coordinates>
+			-73.427414,41.151257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Norwalk Community College<br/>ID: 186</description>
+		<Point> 
+			<coordinates>
+			-73.451271,41.101311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Norwalk High IB<br/>ID: 384</description>
+		<Point> 
+			<coordinates>
+			-73.391418,41.121708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Norwalk High School OB<br/>ID: 172</description>
+		<Point> 
+			<coordinates>
+			-73.391602,41.121693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park &amp; North<br/>ID: 162</description>
+		<Point> 
+			<coordinates>
+			-73.408669,41.12138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park Street OB<br/>ID: 303</description>
+		<Point> 
+			<coordinates>
+			-73.408226,41.118385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ponus Ridge Middle School<br/>ID: 295</description>
+		<Point> 
+			<coordinates>
+			-73.440895,41.12344,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Post Rd &amp; Compo MF<br/>ID: 358</description>
+		<Point> 
+			<coordinates>
+			-73.354004,41.140553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Post Rd &amp; Compo NW<br/>ID: 357</description>
+		<Point> 
+			<coordinates>
+			-73.352432,41.140373,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Post Rd &amp; Lois St<br/>ID: 222</description>
+		<Point> 
+			<coordinates>
+			-73.384346,41.127605,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Post Rd &amp; Sherwood MF<br/>ID: 356</description>
+		<Point> 
+			<coordinates>
+			-73.337433,41.137703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Post Rd &amp; Sherwood NW<br/>ID: 355</description>
+		<Point> 
+			<coordinates>
+			-73.334503,41.138264,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Putnam &amp; Field Point<br/>ID: 278</description>
+		<Point> 
+			<coordinates>
+			-73.629486,41.027882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Roodner Court<br/>ID: 182</description>
+		<Point> 
+			<coordinates>
+			-73.426331,41.084663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main &amp; Monroe OB<br/>ID: 323</description>
+		<Point> 
+			<coordinates>
+			-73.419052,41.096764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scribner &amp; Connecticut<br/>ID: 185</description>
+		<Point> 
+			<coordinates>
+			-73.435944,41.102547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Soundview &amp; Field Point<br/>ID: 276</description>
+		<Point> 
+			<coordinates>
+			-73.630867,41.023659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main St. &amp; Merritt<br/>ID: 140</description>
+		<Point> 
+			<coordinates>
+			-73.419151,41.09206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main St. &amp; Novak<br/>ID: 141</description>
+		<Point> 
+			<coordinates>
+			-73.420357,41.088223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Norwalk Railroad Station<br/>ID: 142</description>
+		<Point> 
+			<coordinates>
+			-73.421165,41.096634,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spring Hill &amp; Ponus<br/>ID: 156</description>
+		<Point> 
+			<coordinates>
+			-73.430939,41.125965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State &amp; Fairfield MF<br/>ID: 360</description>
+		<Point> 
+			<coordinates>
+			-73.214828,41.168533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: State &amp; Park MF<br/>ID: 359</description>
+		<Point> 
+			<coordinates>
+			-73.198357,41.173721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stew Leonard's<br/>ID: 171</description>
+		<Point> 
+			<coordinates>
+			-73.402901,41.122829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop<br/>ID: 192</description>
+		<Point> 
+			<coordinates>
+			-73.425774,41.140511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop SB<br/>ID: 389</description>
+		<Point> 
+			<coordinates>
+			-73.425797,41.140499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stratford &amp; Central MF<br/>ID: 361</description>
+		<Point> 
+			<coordinates>
+			-73.165871,41.178223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stratford &amp; Surf MF<br/>ID: 362</description>
+		<Point> 
+			<coordinates>
+			-73.148994,41.184212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stratford RR Station MF<br/>ID: 347</description>
+		<Point> 
+			<coordinates>
+			-73.131638,41.194599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stratford RR Station NW<br/>ID: 346</description>
+		<Point> 
+			<coordinates>
+			-73.131958,41.194496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Strawberry Hill &amp; Westport Ave<br/>ID: 311</description>
+		<Point> 
+			<coordinates>
+			-73.391579,41.125969,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Strawberry Hill Ave. / Nathan Hale Middle<br/>ID: 143</description>
+		<Point> 
+			<coordinates>
+			-73.395378,41.117142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stuart<br/>ID: 191</description>
+		<Point> 
+			<coordinates>
+			-73.423431,41.107071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor &amp; Hillside IB<br/>ID: 325</description>
+		<Point> 
+			<coordinates>
+			-73.427467,41.098427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor &amp; Hillside OB<br/>ID: 324</description>
+		<Point> 
+			<coordinates>
+			-73.427048,41.098202,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The CURB<br/>ID: 210</description>
+		<Point> 
+			<coordinates>
+			-73.426804,41.15329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Towers<br/>ID: 206</description>
+		<Point> 
+			<coordinates>
+			-73.428535,41.144508,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thruway &amp; East<br/>ID: 174</description>
+		<Point> 
+			<coordinates>
+			-73.406181,41.108559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Hall (Greenwich)<br/>ID: 277</description>
+		<Point> 
+			<coordinates>
+			-73.629639,41.025017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: WHEELS Hub<br/>ID: 149</description>
+		<Point> 
+			<coordinates>
+			-73.414993,41.118259,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wal-Mart<br/>ID: 164</description>
+		<Point> 
+			<coordinates>
+			-73.419411,41.159199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wal-Mart Shopping Ctr / Behind Shell Sta<br/>ID: 145</description>
+		<Point> 
+			<coordinates>
+			-73.419769,41.158398,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; N Main NB<br/>ID: 392</description>
+		<Point> 
+			<coordinates>
+			-73.418831,41.099098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; North Main<br/>ID: 177</description>
+		<Point> 
+			<coordinates>
+			-73.418823,41.099014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; South Main<br/>ID: 202</description>
+		<Point> 
+			<coordinates>
+			-73.418823,41.099014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave. &amp; Reed St. (across from Shell)<br/>ID: 147</description>
+		<Point> 
+			<coordinates>
+			-73.419777,41.104263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Rocks School<br/>ID: 163</description>
+		<Point> 
+			<coordinates>
+			-73.414169,41.134602,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westport &amp; East<br/>ID: 170</description>
+		<Point> 
+			<coordinates>
+			-73.40683,41.12133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westport Ave &amp; Strawberry Ave<br/>ID: 307</description>
+		<Point> 
+			<coordinates>
+			-73.391212,41.125629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westport Post Rd &amp; Bulkley<br/>ID: 224</description>
+		<Point> 
+			<coordinates>
+			-73.299965,41.138283,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westport Post Rd &amp; Main St<br/>ID: 223</description>
+		<Point> 
+			<coordinates>
+			-73.36142,41.14135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wilson Ave<br/>ID: 183</description>
+		<Point> 
+			<coordinates>
+			-73.42305,41.080044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wilton Center<br/>ID: 213</description>
+		<Point> 
+			<coordinates>
+			-73.427643,41.190941,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wolfpit Park &amp; Ride Lot<br/>ID: 212</description>
+		<Point> 
+			<coordinates>
+			-73.419144,41.183731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: YMCA<br/>ID: 184</description>
+		<Point> 
+			<coordinates>
+			-73.417145,41.11121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: YMCA IB<br/>ID: 388</description>
+		<Point> 
+			<coordinates>
+			-73.417099,41.111198,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

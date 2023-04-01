@@ -1,0 +1,5117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ct-9town stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 288 Flanders Rd<br/>ID: 2613906</description>
+		<Point> 
+			<coordinates>
+			-72.209733,41.361759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 288 Flanders Rd - East Lyme<br/>ID: 2615483</description>
+		<Point> 
+			<coordinates>
+			-72.209383,41.362287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 415 Killingworth Rd - Haddam<br/>ID: 2483581</description>
+		<Point> 
+			<coordinates>
+			-72.55814,41.46872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 415 Killingworth Rd - Higganum<br/>ID: 2483882</description>
+		<Point> 
+			<coordinates>
+			-72.557431,41.469048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bokum Shopping Plaza<br/>ID: 848440</description>
+		<Point> 
+			<coordinates>
+			-72.413823,41.339926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradley Rd &amp; Vista Life Innovations<br/>ID: 848320</description>
+		<Point> 
+			<coordinates>
+			-72.596186,41.283176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradley Rd &amp; Wall St<br/>ID: 848319</description>
+		<Point> 
+			<coordinates>
+			-72.594102,41.283061,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradley Road &amp; Route 79<br/>ID: 848321</description>
+		<Point> 
+			<coordinates>
+			-72.598256,41.282352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chester Center<br/>ID: 848609</description>
+		<Point> 
+			<coordinates>
+			-72.449522,41.403754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chester Park and Ride<br/>ID: 848591</description>
+		<Point> 
+			<coordinates>
+			-72.474071,41.398956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clinton Crossings Mall<br/>ID: 848345</description>
+		<Point> 
+			<coordinates>
+			-72.533876,41.292774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clinton Town Docks<br/>ID: 2615580</description>
+		<Point> 
+			<coordinates>
+			-72.53004,41.269476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clinton Train Station<br/>ID: 3878777</description>
+		<Point> 
+			<coordinates>
+			-72.528267,41.279422,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clinton Train Station Central Ave<br/>ID: 3878782</description>
+		<Point> 
+			<coordinates>
+			-72.528404,41.279992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College St &amp; S Cove Rd<br/>ID: 848479</description>
+		<Point> 
+			<coordinates>
+			-72.36262,41.2834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College St &amp; Willard Ave<br/>ID: 848480</description>
+		<Point> 
+			<coordinates>
+			-72.357057,41.283823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College St &amp; Willard Ave<br/>ID: 848483</description>
+		<Point> 
+			<coordinates>
+			-72.357607,41.283888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Main St &amp; Downtown Clinton (Clinton Arts District)<br/>ID: 2559168</description>
+		<Point> 
+			<coordinates>
+			-72.525448,41.278465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East End<br/>ID: 848364</description>
+		<Point> 
+			<coordinates>
+			-72.489177,41.273203,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St &amp; Main St<br/>ID: 848472</description>
+		<Point> 
+			<coordinates>
+			-72.377299,41.294938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St &amp; Pond Rd<br/>ID: 848229</description>
+		<Point> 
+			<coordinates>
+			-72.377798,41.295025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm St &amp; Route 1<br/>ID: 848408</description>
+		<Point> 
+			<coordinates>
+			-72.380912,41.29522,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Essex Center<br/>ID: 848451</description>
+		<Point> 
+			<coordinates>
+			-72.390961,41.3532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Essex Park and Ride<br/>ID: 848603</description>
+		<Point> 
+			<coordinates>
+			-72.424433,41.362468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Essex Rd &amp; Emergi Ln<br/>ID: 848256</description>
+		<Point> 
+			<coordinates>
+			-72.447799,41.287687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Essex Rd &amp; Norris Ave<br/>ID: 848382</description>
+		<Point> 
+			<coordinates>
+			-72.447796,41.287788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Essex Rd &amp; Route 1<br/>ID: 848255</description>
+		<Point> 
+			<coordinates>
+			-72.448212,41.28599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Flat Rock Pl &amp; Essex Rd<br/>ID: 848260</description>
+		<Point> 
+			<coordinates>
+			-72.443944,41.289952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Flat Rock Pl &amp; Essex Rd<br/>ID: 848378</description>
+		<Point> 
+			<coordinates>
+			-72.445079,41.289878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River RD &amp; Colton Rd<br/>ID: 848119</description>
+		<Point> 
+			<coordinates>
+			-72.258346,41.320385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Colton Rd<br/>ID: 848205</description>
+		<Point> 
+			<coordinates>
+			-72.258276,41.320462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Hatchetts Hill Rd<br/>ID: 848118</description>
+		<Point> 
+			<coordinates>
+			-72.259119,41.321848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Hatchetts Hill Rd<br/>ID: 848206</description>
+		<Point> 
+			<coordinates>
+			-72.259065,41.322047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Jean Dr<br/>ID: 848120</description>
+		<Point> 
+			<coordinates>
+			-72.256436,41.313266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Jean Dr<br/>ID: 848204</description>
+		<Point> 
+			<coordinates>
+			-72.256385,41.313362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Over Brook Rd<br/>ID: 848116</description>
+		<Point> 
+			<coordinates>
+			-72.262868,41.334142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Over Brook Rd<br/>ID: 848208</description>
+		<Point> 
+			<coordinates>
+			-72.262836,41.334313,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Park &amp; Ride<br/>ID: 848117</description>
+		<Point> 
+			<coordinates>
+			-72.259725,41.324019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Park &amp; Ride<br/>ID: 848207</description>
+		<Point> 
+			<coordinates>
+			-72.259583,41.323965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Route 1<br/>ID: 848115</description>
+		<Point> 
+			<coordinates>
+			-72.266114,41.341742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile River Rd &amp; Shore Rd<br/>ID: 848121</description>
+		<Point> 
+			<coordinates>
+			-72.255551,41.309369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Four Mile Road &amp; Route 1<br/>ID: 848209</description>
+		<Point> 
+			<coordinates>
+			-72.266153,41.342013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goodspeed Opera House<br/>ID: 848620</description>
+		<Point> 
+			<coordinates>
+			-72.461992,41.452341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Guilford<br/>ID: 2388295</description>
+		<Point> 
+			<coordinates>
+			-72.657962,41.289391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hammonasset Beach<br/>ID: 2740484</description>
+		<Point> 
+			<coordinates>
+			-72.556823,41.261431,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hammonasset Camp Ground<br/>ID: 3878783</description>
+		<Point> 
+			<coordinates>
+			-72.558639,41.27098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hammonassett Campgrounds<br/>ID: 3878778</description>
+		<Point> 
+			<coordinates>
+			-72.557108,41.26916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; John St<br/>ID: 848350</description>
+		<Point> 
+			<coordinates>
+			-72.526556,41.283487,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; N High St<br/>ID: 848293</description>
+		<Point> 
+			<coordinates>
+			-72.527964,41.286869,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; N High St<br/>ID: 848348</description>
+		<Point> 
+			<coordinates>
+			-72.528171,41.286915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; Old Mill Rd<br/>ID: 848300</description>
+		<Point> 
+			<coordinates>
+			-72.52679,41.284644,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; Old Mill Rd<br/>ID: 848341</description>
+		<Point> 
+			<coordinates>
+			-72.526752,41.284791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; Silverbrook Ln<br/>ID: 848339</description>
+		<Point> 
+			<coordinates>
+			-72.526564,41.282529,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High St &amp; Sterling Dr<br/>ID: 848340</description>
+		<Point> 
+			<coordinates>
+			-72.526487,41.283964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Huntington &amp; Broad St<br/>ID: 848221</description>
+		<Point> 
+			<coordinates>
+			-72.099632,41.356107,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Killingworth Tpke &amp; Glenwood Rd<br/>ID: 848294</description>
+		<Point> 
+			<coordinates>
+			-72.529131,41.289211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Killingworth Tpke &amp; HCH Library<br/>ID: 848297</description>
+		<Point> 
+			<coordinates>
+			-72.530191,41.29123,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Killingworth Tpke &amp; HCH Library<br/>ID: 848344</description>
+		<Point> 
+			<coordinates>
+			-72.530065,41.291327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Killingworth Tpke &amp; Park &amp; Ride<br/>ID: 848298</description>
+		<Point> 
+			<coordinates>
+			-72.529346,41.289251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Killingworth Village - Killingworth<br/>ID: 2456326</description>
+		<Point> 
+			<coordinates>
+			-72.561159,41.350711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Liberty Green &amp; Route 1<br/>ID: 848285</description>
+		<Point> 
+			<coordinates>
+			-72.517497,41.276888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lobster Landing<br/>ID: 2615602</description>
+		<Point> 
+			<coordinates>
+			-72.528177,41.269297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme Academy of Fine Arts<br/>ID: 848173</description>
+		<Point> 
+			<coordinates>
+			-72.328314,41.322235,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme Art Academy<br/>ID: 848149</description>
+		<Point> 
+			<coordinates>
+			-72.328304,41.321995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Academy Ln<br/>ID: 848145</description>
+		<Point> 
+			<coordinates>
+			-72.330519,41.314329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Academy Ln<br/>ID: 848178</description>
+		<Point> 
+			<coordinates>
+			-72.330667,41.314364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Center School<br/>ID: 848147</description>
+		<Point> 
+			<coordinates>
+			-72.3295,41.317827,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Ferry Rd<br/>ID: 848144</description>
+		<Point> 
+			<coordinates>
+			-72.33116,41.313201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Ferry Rd<br/>ID: 848179</description>
+		<Point> 
+			<coordinates>
+			-72.331538,41.312855,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Library Ln<br/>ID: 848146</description>
+		<Point> 
+			<coordinates>
+			-72.329741,41.315895,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme St &amp; Library Ln<br/>ID: 848177</description>
+		<Point> 
+			<coordinates>
+			-72.32987,41.315959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lyme Youth Services Bureau<br/>ID: 848175</description>
+		<Point> 
+			<coordinates>
+			-72.3295,41.318869,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lymewood<br/>ID: 849860</description>
+		<Point> 
+			<coordinates>
+			-72.285635,41.349809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison Center - Wall Street<br/>ID: 3878784</description>
+		<Point> 
+			<coordinates>
+			-72.594583,41.280092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison Center<br/>ID: 2740494</description>
+		<Point> 
+			<coordinates>
+			-72.595164,41.279597,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison Park and Ride<br/>ID: 2740496</description>
+		<Point> 
+			<coordinates>
+			-72.601749,41.288791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison Train Station<br/>ID: 2740495</description>
+		<Point> 
+			<coordinates>
+			-72.599141,41.28261,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; MLK<br/>ID: 848645</description>
+		<Point> 
+			<coordinates>
+			-72.647945,41.557952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Adam's Market Deep River<br/>ID: 848539</description>
+		<Point> 
+			<coordinates>
+			-72.435376,41.384656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Auto Plus<br/>ID: 848432</description>
+		<Point> 
+			<coordinates>
+			-72.425994,41.367434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Banbury Crossing<br/>ID: 848477</description>
+		<Point> 
+			<coordinates>
+			-72.374317,41.28445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Banbury Crossing<br/>ID: 848486</description>
+		<Point> 
+			<coordinates>
+			-72.374438,41.284658,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Bridge St<br/>ID: 848424</description>
+		<Point> 
+			<coordinates>
+			-72.437432,41.389175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Comstock<br/>ID: 849855</description>
+		<Point> 
+			<coordinates>
+			-72.436574,41.347461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Coulter St<br/>ID: 848491</description>
+		<Point> 
+			<coordinates>
+			-72.376556,41.294904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Crescent St<br/>ID: 848541</description>
+		<Point> 
+			<coordinates>
+			-72.437359,41.389216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Crescent St<br/>ID: 848553</description>
+		<Point> 
+			<coordinates>
+			-72.646173,41.555451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Deep River Market<br/>ID: 848430</description>
+		<Point> 
+			<coordinates>
+			-72.428811,41.371109,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Deep River Rent All<br/>ID: 848533</description>
+		<Point> 
+			<coordinates>
+			-72.426108,41.367713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Dump Rd<br/>ID: 848433</description>
+		<Point> 
+			<coordinates>
+			-72.42469,41.365335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Dump Rd<br/>ID: 848532</description>
+		<Point> 
+			<coordinates>
+			-72.42445,41.365158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Dunkin Donuts<br/>ID: 848427</description>
+		<Point> 
+			<coordinates>
+			-72.43427,41.380309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Earl St<br/>ID: 849853</description>
+		<Point> 
+			<coordinates>
+			-72.422599,41.34937,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Elm St<br/>ID: 848225</description>
+		<Point> 
+			<coordinates>
+			-72.376841,41.295174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Elmwood St<br/>ID: 848226</description>
+		<Point> 
+			<coordinates>
+			-72.376602,41.293541,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Elmwood St<br/>ID: 848228</description>
+		<Point> 
+			<coordinates>
+			-72.376382,41.293533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Essex Court<br/>ID: 848445</description>
+		<Point> 
+			<coordinates>
+			-72.408912,41.351863,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Essex Court<br/>ID: 848520</description>
+		<Point> 
+			<coordinates>
+			-72.408496,41.351919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Essex Elementary<br/>ID: 849852</description>
+		<Point> 
+			<coordinates>
+			-72.419418,41.351049,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Essex Plaza<br/>ID: 848519</description>
+		<Point> 
+			<coordinates>
+			-72.405264,41.351694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Essex Steam Train<br/>ID: 848446</description>
+		<Point> 
+			<coordinates>
+			-72.405497,41.351583,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; FTD<br/>ID: 848444</description>
+		<Point> 
+			<coordinates>
+			-72.412439,41.35175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Falls River Dr<br/>ID: 849854</description>
+		<Point> 
+			<coordinates>
+			-72.431483,41.347387,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Georgetown Woods<br/>ID: 848535</description>
+		<Point> 
+			<coordinates>
+			-72.428857,41.37135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Ivoryton Inn<br/>ID: 849857</description>
+		<Point> 
+			<coordinates>
+			-72.442973,41.34721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Kelsey Hill Rd<br/>ID: 848431</description>
+		<Point> 
+			<coordinates>
+			-72.427862,41.369572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Kelsey Hill Rd<br/>ID: 848534</description>
+		<Point> 
+			<coordinates>
+			-72.428098,41.37004,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Kirkland Commons<br/>ID: 848422</description>
+		<Point> 
+			<coordinates>
+			-72.438666,41.392399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Kirtland ST<br/>ID: 848542</description>
+		<Point> 
+			<coordinates>
+			-72.438116,41.390904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Maple Ave<br/>ID: 848478</description>
+		<Point> 
+			<coordinates>
+			-72.371755,41.283894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Maple St<br/>ID: 848416</description>
+		<Point> 
+			<coordinates>
+			-72.449133,41.402323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Maple St<br/>ID: 848549</description>
+		<Point> 
+			<coordinates>
+			-72.449172,41.402381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Maynard Rd<br/>ID: 848473</description>
+		<Point> 
+			<coordinates>
+			-72.376379,41.291885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Maynard Rd<br/>ID: 848490</description>
+		<Point> 
+			<coordinates>
+			-72.37621,41.2925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Middlesex Tpke<br/>ID: 848418</description>
+		<Point> 
+			<coordinates>
+			-72.442588,41.401916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Middlesex Tpke<br/>ID: 848547</description>
+		<Point> 
+			<coordinates>
+			-72.442676,41.401974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; N Cove Rd<br/>ID: 848484</description>
+		<Point> 
+			<coordinates>
+			-72.36365,41.283374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; N Main St<br/>ID: 849856</description>
+		<Point> 
+			<coordinates>
+			-72.441155,41.3484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Nott Ln<br/>ID: 848452</description>
+		<Point> 
+			<coordinates>
+			-72.389933,41.352785,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Old Boston Post Rd<br/>ID: 848475</description>
+		<Point> 
+			<coordinates>
+			-72.375867,41.288672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Old Boston Post Rd<br/>ID: 848488</description>
+		<Point> 
+			<coordinates>
+			-72.375744,41.288809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Parker Ln<br/>ID: 848512</description>
+		<Point> 
+			<coordinates>
+			-72.387529,41.35174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Pennywise Ln<br/>ID: 848476</description>
+		<Point> 
+			<coordinates>
+			-72.375489,41.286734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Pennywise Ln<br/>ID: 848487</description>
+		<Point> 
+			<coordinates>
+			-72.375363,41.286637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Pent Rd<br/>ID: 848429</description>
+		<Point> 
+			<coordinates>
+			-72.430032,41.373308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Piano Works<br/>ID: 848423</description>
+		<Point> 
+			<coordinates>
+			-72.438148,41.390638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Planting Field Pl<br/>ID: 848485</description>
+		<Point> 
+			<coordinates>
+			-72.372474,41.284079,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Quality Care Pharmacy<br/>ID: 848521</description>
+		<Point> 
+			<coordinates>
+			-72.412206,41.351865,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Railroad Ave<br/>ID: 848546</description>
+		<Point> 
+			<coordinates>
+			-72.441769,41.401353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Rattling Valley Rd<br/>ID: 848536</description>
+		<Point> 
+			<coordinates>
+			-72.430093,41.37358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Riverview Ave<br/>ID: 848428</description>
+		<Point> 
+			<coordinates>
+			-72.431193,41.375319,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Riverview Ave<br/>ID: 848537</description>
+		<Point> 
+			<coordinates>
+			-72.431249,41.375591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; School Ln<br/>ID: 848417</description>
+		<Point> 
+			<coordinates>
+			-72.445393,41.402161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; School Ln<br/>ID: 848548</description>
+		<Point> 
+			<coordinates>
+			-72.445122,41.402232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Sheffield St<br/>ID: 848474</description>
+		<Point> 
+			<coordinates>
+			-72.376165,41.290645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Sheffield St<br/>ID: 848489</description>
+		<Point> 
+			<coordinates>
+			-72.375974,41.290793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Spring St<br/>ID: 848543</description>
+		<Point> 
+			<coordinates>
+			-72.438467,41.392087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Union St<br/>ID: 848538</description>
+		<Point> 
+			<coordinates>
+			-72.434109,41.380039,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Village St<br/>ID: 848425</description>
+		<Point> 
+			<coordinates>
+			-72.436067,41.386744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Village St<br/>ID: 848540</description>
+		<Point> 
+			<coordinates>
+			-72.435935,41.386726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Walgreens<br/>ID: 848426</description>
+		<Point> 
+			<coordinates>
+			-72.435463,41.384603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; William St<br/>ID: 848552</description>
+		<Point> 
+			<coordinates>
+			-72.648321,41.558127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Winter Ave<br/>ID: 848421</description>
+		<Point> 
+			<coordinates>
+			-72.439041,41.393667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Winter Ave<br/>ID: 848544</description>
+		<Point> 
+			<coordinates>
+			-72.438969,41.393775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main and Walnut Ivoryton<br/>ID: 848522</description>
+		<Point> 
+			<coordinates>
+			-72.446523,41.346078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McCurdy Rd &amp; Johnny Cake Hill Rd<br/>ID: 848143</description>
+		<Point> 
+			<coordinates>
+			-72.327201,41.308676,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McCurdy Rd &amp; Johnny Cake Hill Rd<br/>ID: 848180</description>
+		<Point> 
+			<coordinates>
+			-72.327294,41.308661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McCurdy Rd &amp; Old Lyme Country Club<br/>ID: 848142</description>
+		<Point> 
+			<coordinates>
+			-72.326944,41.304387,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McCurdy Rd &amp; Old Lyme Country Club<br/>ID: 848181</description>
+		<Point> 
+			<coordinates>
+			-72.327029,41.3044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McCurdy Rd &amp; Shore Rd<br/>ID: 848182</description>
+		<Point> 
+			<coordinates>
+			-72.327141,41.302022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Community College<br/>ID: 848642</description>
+		<Point> 
+			<coordinates>
+			-72.612073,41.53986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Hospital<br/>ID: 848644</description>
+		<Point> 
+			<coordinates>
+			-72.64621,41.555758,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Bokum Rd<br/>ID: 848464</description>
+		<Point> 
+			<coordinates>
+			-72.382514,41.315081,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Bokum Rd<br/>ID: 848499</description>
+		<Point> 
+			<coordinates>
+			-72.382409,41.315075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Essex Rd<br/>ID: 848502</description>
+		<Point> 
+			<coordinates>
+			-72.377906,41.326158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Gates Rd<br/>ID: 848506</description>
+		<Point> 
+			<coordinates>
+			-72.392194,41.343351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Oceanside Auto<br/>ID: 848503</description>
+		<Point> 
+			<coordinates>
+			-72.378303,41.3278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Old Spring Brook Rd<br/>ID: 848501</description>
+		<Point> 
+			<coordinates>
+			-72.377967,41.324071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Otter Cove<br/>ID: 848461</description>
+		<Point> 
+			<coordinates>
+			-72.379789,41.331874,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Otter Cove<br/>ID: 848504</description>
+		<Point> 
+			<coordinates>
+			-72.379563,41.331757,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Pratt St<br/>ID: 848420</description>
+		<Point> 
+			<coordinates>
+			-72.441698,41.400073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Pratt St<br/>ID: 848545</description>
+		<Point> 
+			<coordinates>
+			-72.441621,41.400131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Reservoir Rd<br/>ID: 848466</description>
+		<Point> 
+			<coordinates>
+			-72.38198,41.309293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Reservoir Rd<br/>ID: 848497</description>
+		<Point> 
+			<coordinates>
+			-72.381806,41.309295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Reservoir Rd<br/>ID: 848595</description>
+		<Point> 
+			<coordinates>
+			-72.381985,41.309349,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Reservoir Rd<br/>ID: 848600</description>
+		<Point> 
+			<coordinates>
+			-72.381808,41.309232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; S Cove Rd<br/>ID: 848505</description>
+		<Point> 
+			<coordinates>
+			-72.385325,41.337693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; S Main St<br/>ID: 848507</description>
+		<Point> 
+			<coordinates>
+			-72.393774,41.346104,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Saybrook Vetrinary<br/>ID: 848462</description>
+		<Point> 
+			<coordinates>
+			-72.378407,41.32779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; St Joseph's<br/>ID: 848419</description>
+		<Point> 
+			<coordinates>
+			-72.441825,41.40091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Tractor Supply<br/>ID: 848498</description>
+		<Point> 
+			<coordinates>
+			-72.382817,41.312822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Tractor Supply<br/>ID: 848594</description>
+		<Point> 
+			<coordinates>
+			-72.382731,41.312343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Yale NH Medical Center<br/>ID: 848500</description>
+		<Point> 
+			<coordinates>
+			-72.37871,41.321408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Tpke &amp; Yale NH Medical Center<br/>ID: 848593</description>
+		<Point> 
+			<coordinates>
+			-72.378815,41.321465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown Bus Terminal<br/>ID: 848646</description>
+		<Point> 
+			<coordinates>
+			-72.649179,41.561287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main St &amp; Route 1<br/>ID: 848224</description>
+		<Point> 
+			<coordinates>
+			-72.377318,41.297715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main St &amp; Route 1<br/>ID: 848412</description>
+		<Point> 
+			<coordinates>
+			-72.377305,41.297856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main St &amp; Route 1<br/>ID: 848492</description>
+		<Point> 
+			<coordinates>
+			-72.377364,41.297977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New London Train Station<br/>ID: 848104</description>
+		<Point> 
+			<coordinates>
+			-72.093452,41.355713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Lyme Fire Department<br/>ID: 848148</description>
+		<Point> 
+			<coordinates>
+			-72.329028,41.320304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Lyme Fire Station<br/>ID: 848174</description>
+		<Point> 
+			<coordinates>
+			-72.329169,41.320268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Lyme Marketplace<br/>ID: 848152</description>
+		<Point> 
+			<coordinates>
+			-72.337677,41.322428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Lyme Senior Center<br/>ID: 848210</description>
+		<Point> 
+			<coordinates>
+			-72.30576,41.350357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Lyme Town Hall<br/>ID: 848176</description>
+		<Point> 
+			<coordinates>
+			-72.329716,41.31745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Saybrook Senior Center<br/>ID: 848411</description>
+		<Point> 
+			<coordinates>
+			-72.372953,41.292185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Saybrook Stop and Shop<br/>ID: 848471</description>
+		<Point> 
+			<coordinates>
+			-72.383397,41.296707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Saybrook Train Station Bus Shelter<br/>ID: 848159</description>
+		<Point> 
+			<coordinates>
+			-72.378111,41.299729,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pilot's Point Marina<br/>ID: 2615581</description>
+		<Point> 
+			<coordinates>
+			-72.469942,41.271502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pratt St &amp; Ferry St<br/>ID: 848513</description>
+		<Point> 
+			<coordinates>
+			-72.386419,41.352694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pratt St &amp; N Main St<br/>ID: 848514</description>
+		<Point> 
+			<coordinates>
+			-72.390769,41.353421,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Randloph Rd &amp; Saybrook Rd<br/>ID: 848556</description>
+		<Point> 
+			<coordinates>
+			-72.614876,41.535283,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Randolph Rd &amp; Saybrook Rd<br/>ID: 848641</description>
+		<Point> 
+			<coordinates>
+			-72.615037,41.535164,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Ancient Hwy<br/>ID: 848108</description>
+		<Point> 
+			<coordinates>
+			-72.226583,41.367151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Ancient Hwy<br/>ID: 848217</description>
+		<Point> 
+			<coordinates>
+			-72.226946,41.36696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Apple Rehab<br/>ID: 848245</description>
+		<Point> 
+			<coordinates>
+			-72.420918,41.284184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; AutoZone<br/>ID: 848281</description>
+		<Point> 
+			<coordinates>
+			-72.507784,41.273206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Beach Park Rd<br/>ID: 848357</description>
+		<Point> 
+			<coordinates>
+			-72.509125,41.273668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Beach Rd<br/>ID: 848362</description>
+		<Point> 
+			<coordinates>
+			-72.493251,41.272247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Beach Tree Cottages<br/>ID: 848312</description>
+		<Point> 
+			<coordinates>
+			-72.565848,41.273537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Beach Tree Cottages<br/>ID: 848330</description>
+		<Point> 
+			<coordinates>
+			-72.565856,41.273458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Bellstone Ave<br/>ID: 848373</description>
+		<Point> 
+			<coordinates>
+			-72.458769,41.280598,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Big Y<br/>ID: 848242</description>
+		<Point> 
+			<coordinates>
+			-72.414848,41.286478,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Bluff Ave<br/>ID: 848275</description>
+		<Point> 
+			<coordinates>
+			-72.492114,41.272596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Brewers West<br/>ID: 848369</description>
+		<Point> 
+			<coordinates>
+			-72.475492,41.274849,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Broadway S<br/>ID: 848366</description>
+		<Point> 
+			<coordinates>
+			-72.48576,41.274047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Canterbury Ln<br/>ID: 848286</description>
+		<Point> 
+			<coordinates>
+			-72.519954,41.277283,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Canterbury Ln<br/>ID: 848353</description>
+		<Point> 
+			<coordinates>
+			-72.51991,41.2772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Captain Ln<br/>ID: 848238</description>
+		<Point> 
+			<coordinates>
+			-72.400165,41.287455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Captains Ln<br/>ID: 848401</description>
+		<Point> 
+			<coordinates>
+			-72.400286,41.287375,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Center Rd<br/>ID: 848241</description>
+		<Point> 
+			<coordinates>
+			-72.412155,41.286413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Center Rd<br/>ID: 848398</description>
+		<Point> 
+			<coordinates>
+			-72.412058,41.286337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Chapman Beach Rd<br/>ID: 848246</description>
+		<Point> 
+			<coordinates>
+			-72.423149,41.281572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Chapman Beach Rd<br/>ID: 848393</description>
+		<Point> 
+			<coordinates>
+			-72.423246,41.281261,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Chestnut Dr<br/>ID: 848272</description>
+		<Point> 
+			<coordinates>
+			-72.486068,41.274051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Church Ln<br/>ID: 848106</description>
+		<Point> 
+			<coordinates>
+			-72.215415,41.366245,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Church Ln<br/>ID: 848219</description>
+		<Point> 
+			<coordinates>
+			-72.214927,41.365982,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Church Rd<br/>ID: 848288</description>
+		<Point> 
+			<coordinates>
+			-72.522623,41.277753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Clinton Town Hall<br/>ID: 848352</description>
+		<Point> 
+			<coordinates>
+			-72.523303,41.277859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; College St<br/>ID: 848284</description>
+		<Point> 
+			<coordinates>
+			-72.515734,41.276551,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; College St<br/>ID: 848355</description>
+		<Point> 
+			<coordinates>
+			-72.515538,41.27644,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Cottage Rd<br/>ID: 848308</description>
+		<Point> 
+			<coordinates>
+			-72.548376,41.275238,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Cottage Rd<br/>ID: 848334</description>
+		<Point> 
+			<coordinates>
+			-72.548231,41.275204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Dean Rd<br/>ID: 848111</description>
+		<Point> 
+			<coordinates>
+			-72.245903,41.35926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Dean Rd<br/>ID: 848214</description>
+		<Point> 
+			<coordinates>
+			-72.246233,41.359159,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Donnelly Rd<br/>ID: 848237</description>
+		<Point> 
+			<coordinates>
+			-72.398044,41.2875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Donnelly Rd<br/>ID: 848402</description>
+		<Point> 
+			<coordinates>
+			-72.397816,41.287427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Downtown Clinton<br/>ID: 848351</description>
+		<Point> 
+			<coordinates>
+			-72.525695,41.278613,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Dudley Ln<br/>ID: 848310</description>
+		<Point> 
+			<coordinates>
+			-72.554856,41.274277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Dudley Ln<br/>ID: 848332</description>
+		<Point> 
+			<coordinates>
+			-72.554027,41.274247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; E Wharf Rd<br/>ID: 848326</description>
+		<Point> 
+			<coordinates>
+			-72.590581,41.278899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Eckford Ave<br/>ID: 848266</description>
+		<Point> 
+			<coordinates>
+			-72.460547,41.279512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Economy Dr<br/>ID: 848252</description>
+		<Point> 
+			<coordinates>
+			-72.439165,41.282422,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Economy Dr<br/>ID: 848386</description>
+		<Point> 
+			<coordinates>
+			-72.439382,41.282451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Evergreen Springs<br/>ID: 848306</description>
+		<Point> 
+			<coordinates>
+			-72.540528,41.277617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Flanders Rd<br/>ID: 848105</description>
+		<Point> 
+			<coordinates>
+			-72.210651,41.366203,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Flanders Road<br/>ID: 848220</description>
+		<Point> 
+			<coordinates>
+			-72.210105,41.366134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Florence Griswold Museum<br/>ID: 848172</description>
+		<Point> 
+			<coordinates>
+			-72.328727,41.323838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Food Bag<br/>ID: 848397</description>
+		<Point> 
+			<coordinates>
+			-72.414775,41.286367,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Foxwood<br/>ID: 848389</description>
+		<Point> 
+			<coordinates>
+			-72.431113,41.280776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Golf Links Rd<br/>ID: 848383</description>
+		<Point> 
+			<coordinates>
+			-72.447125,41.28517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Goodwill<br/>ID: 848273</description>
+		<Point> 
+			<coordinates>
+			-72.487471,41.273688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Green Acres Park<br/>ID: 848247</description>
+		<Point> 
+			<coordinates>
+			-72.427972,41.28083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Grove Beach Rd N<br/>ID: 848271</description>
+		<Point> 
+			<coordinates>
+			-72.483346,41.274767,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Grove Beach Rd S<br/>ID: 848367</description>
+		<Point> 
+			<coordinates>
+			-72.483311,41.274686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Grove Gardens<br/>ID: 848274</description>
+		<Point> 
+			<coordinates>
+			-72.489131,41.273297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Grove St<br/>ID: 848303</description>
+		<Point> 
+			<coordinates>
+			-72.532347,41.279322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Grove St<br/>ID: 848337</description>
+		<Point> 
+			<coordinates>
+			-72.532111,41.279268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Hammock Rd<br/>ID: 848268</description>
+		<Point> 
+			<coordinates>
+			-72.46968,41.277464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Hammock Rd S<br/>ID: 848370</description>
+		<Point> 
+			<coordinates>
+			-72.470549,41.277041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Hammonassett<br/>ID: 848331</description>
+		<Point> 
+			<coordinates>
+			-72.557404,41.274029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Hamonnasset<br/>ID: 848311</description>
+		<Point> 
+			<coordinates>
+			-72.557117,41.274124,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Harvey Dr<br/>ID: 848244</description>
+		<Point> 
+			<coordinates>
+			-72.419279,41.285391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Harvey Dr<br/>ID: 848395</description>
+		<Point> 
+			<coordinates>
+			-72.41908,41.285415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Holiday Motel<br/>ID: 848363</description>
+		<Point> 
+			<coordinates>
+			-72.491454,41.272674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; I 95 N<br/>ID: 848168</description>
+		<Point> 
+			<coordinates>
+			-72.364208,41.311614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Ingham Hill Rd<br/>ID: 848236</description>
+		<Point> 
+			<coordinates>
+			-72.394162,41.2876,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; John St<br/>ID: 848302</description>
+		<Point> 
+			<coordinates>
+			-72.528871,41.278768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; King St<br/>ID: 848233</description>
+		<Point> 
+			<coordinates>
+			-72.383356,41.292056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Knollwood Dr<br/>ID: 848305</description>
+		<Point> 
+			<coordinates>
+			-72.538417,41.27796,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Knollwood Dr<br/>ID: 848336</description>
+		<Point> 
+			<coordinates>
+			-72.538811,41.277807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Lamplighter<br/>ID: 848279</description>
+		<Point> 
+			<coordinates>
+			-72.504455,41.271666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Liberty Green<br/>ID: 848354</description>
+		<Point> 
+			<coordinates>
+			-72.517386,41.276752,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Liberty St<br/>ID: 848327</description>
+		<Point> 
+			<coordinates>
+			-72.584894,41.277839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Liberty St<br/>ID: 848329</description>
+		<Point> 
+			<coordinates>
+			-72.573533,41.27444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Log Cabin<br/>ID: 848359</description>
+		<Point> 
+			<coordinates>
+			-72.505154,41.271814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Lovers Ln<br/>ID: 848109</description>
+		<Point> 
+			<coordinates>
+			-72.233131,41.365579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Lovers Ln<br/>ID: 848216</description>
+		<Point> 
+			<coordinates>
+			-72.233517,41.365368,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Lovers Ln<br/>ID: 848315</description>
+		<Point> 
+			<coordinates>
+			-72.58468,41.277919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Lumberyard Rd<br/>ID: 848304</description>
+		<Point> 
+			<coordinates>
+			-72.536027,41.278488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Lynde St<br/>ID: 848407</description>
+		<Point> 
+			<coordinates>
+			-72.381173,41.293703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Madison Marketplace<br/>ID: 848309</description>
+		<Point> 
+			<coordinates>
+			-72.551074,41.274521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Madison Marketplace<br/>ID: 848333</description>
+		<Point> 
+			<coordinates>
+			-72.551002,41.274434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Main St<br/>ID: 848161</description>
+		<Point> 
+			<coordinates>
+			-72.377887,41.296623,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Main St<br/>ID: 848495</description>
+		<Point> 
+			<coordinates>
+			-72.377826,41.296481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Malones<br/>ID: 848365</description>
+		<Point> 
+			<coordinates>
+			-72.487294,41.273654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Marine Ave<br/>ID: 848276</description>
+		<Point> 
+			<coordinates>
+			-72.494134,41.272122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Mill Rock Rd<br/>ID: 848157</description>
+		<Point> 
+			<coordinates>
+			-72.375559,41.303476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Mill Rock Rd<br/>ID: 848165</description>
+		<Point> 
+			<coordinates>
+			-72.375612,41.30328,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Moorings<br/>ID: 848277</description>
+		<Point> 
+			<coordinates>
+			-72.499648,41.271066,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Moorings<br/>ID: 848361</description>
+		<Point> 
+			<coordinates>
+			-72.499597,41.270967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; N Bride Brook Rd<br/>ID: 848112</description>
+		<Point> 
+			<coordinates>
+			-72.251324,41.355396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; N Bride Brook Rd<br/>ID: 848213</description>
+		<Point> 
+			<coordinates>
+			-72.251217,41.355416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Naomi Ln<br/>ID: 848110</description>
+		<Point> 
+			<coordinates>
+			-72.240145,41.360989,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Naomi Ln<br/>ID: 848215</description>
+		<Point> 
+			<coordinates>
+			-72.240188,41.360866,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Ocean State Job Lot<br/>ID: 848234</description>
+		<Point> 
+			<coordinates>
+			-72.38633,41.290039,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Boston Post Rd<br/>ID: 848235</description>
+		<Point> 
+			<coordinates>
+			-72.390426,41.28809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Boston Post Rd<br/>ID: 848404</description>
+		<Point> 
+			<coordinates>
+			-72.390421,41.287991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Clinton Rd Westbrook<br/>ID: 848262</description>
+		<Point> 
+			<coordinates>
+			-72.451313,41.285881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Forge Rd<br/>ID: 848249</description>
+		<Point> 
+			<coordinates>
+			-72.431877,41.280709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Lyme Shopping Center<br/>ID: 848151</description>
+		<Point> 
+			<coordinates>
+			-72.333933,41.323961,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Lyme Shopping Center<br/>ID: 848171</description>
+		<Point> 
+			<coordinates>
+			-72.33377,41.323814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Post Rd<br/>ID: 848283</description>
+		<Point> 
+			<coordinates>
+			-72.512756,41.276067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Post Rd<br/>ID: 848356</description>
+		<Point> 
+			<coordinates>
+			-72.51273,41.275954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Post Rd<br/>ID: 848400</description>
+		<Point> 
+			<coordinates>
+			-72.403915,41.287262,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Post Rd<br/>ID: 848403</description>
+		<Point> 
+			<coordinates>
+			-72.394095,41.287508,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Old Salt Works Rd<br/>ID: 848390</description>
+		<Point> 
+			<coordinates>
+			-72.429369,41.280997,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Orchard St<br/>ID: 848406</description>
+		<Point> 
+			<coordinates>
+			-72.382868,41.292292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Osprey Circle<br/>ID: 848270</description>
+		<Point> 
+			<coordinates>
+			-72.479602,41.275029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pearl Street<br/>ID: 2745340</description>
+		<Point> 
+			<coordinates>
+			-72.52888,41.278694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pier Blue<br/>ID: 848399</description>
+		<Point> 
+			<coordinates>
+			-72.407506,41.28681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pier Blue Guesthouse<br/>ID: 848240</description>
+		<Point> 
+			<coordinates>
+			-72.407565,41.286897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pierson School<br/>ID: 848287</description>
+		<Point> 
+			<coordinates>
+			-72.521443,41.277544,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pilot Point Marina<br/>ID: 848267</description>
+		<Point> 
+			<coordinates>
+			-72.464377,41.278572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pilot Point Marina<br/>ID: 848371</description>
+		<Point> 
+			<coordinates>
+			-72.464863,41.278391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pizza Hut<br/>ID: 848410</description>
+		<Point> 
+			<coordinates>
+			-72.378383,41.296012,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Plants Dam Rd<br/>ID: 848114</description>
+		<Point> 
+			<coordinates>
+			-72.260272,41.34492,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Plants Dam Rd<br/>ID: 848211</description>
+		<Point> 
+			<coordinates>
+			-72.26017,41.344846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Plymouth Ct<br/>ID: 848282</description>
+		<Point> 
+			<coordinates>
+			-72.509355,41.273856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Pond Rd<br/>ID: 848232</description>
+		<Point> 
+			<coordinates>
+			-72.380553,41.294432,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Ripley Hill Rd<br/>ID: 848388</description>
+		<Point> 
+			<coordinates>
+			-72.435431,41.280794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; River St<br/>ID: 848164</description>
+		<Point> 
+			<coordinates>
+			-72.375977,41.298702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Riverview Rd<br/>ID: 848368</description>
+		<Point> 
+			<coordinates>
+			-72.479567,41.274924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Roamtree Dr<br/>ID: 848156</description>
+		<Point> 
+			<coordinates>
+			-72.369245,41.307554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Roamtree Dr<br/>ID: 848166</description>
+		<Point> 
+			<coordinates>
+			-72.36939,41.307157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; SARAH<br/>ID: 848250</description>
+		<Point> 
+			<coordinates>
+			-72.435232,41.280808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Sagamore Terrace Rd<br/>ID: 848392</description>
+		<Point> 
+			<coordinates>
+			-72.425831,41.280215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Salt Island Rd<br/>ID: 848384</description>
+		<Point> 
+			<coordinates>
+			-72.445141,41.284277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; School House Rd<br/>ID: 848239</description>
+		<Point> 
+			<coordinates>
+			-72.4044,41.287348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Scotland Ave<br/>ID: 848316</description>
+		<Point> 
+			<coordinates>
+			-72.590227,41.278889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Seaford Rd<br/>ID: 848248</description>
+		<Point> 
+			<coordinates>
+			-72.428784,41.281017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Seaside Ave<br/>ID: 848374</description>
+		<Point> 
+			<coordinates>
+			-72.455987,41.282467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Signal Hill Rd<br/>ID: 848313</description>
+		<Point> 
+			<coordinates>
+			-72.572417,41.274132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Spencer Plains Rd<br/>ID: 848243</description>
+		<Point> 
+			<coordinates>
+			-72.417728,41.286175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Spencer Plains Rd<br/>ID: 848396</description>
+		<Point> 
+			<coordinates>
+			-72.417184,41.286204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Springbrook<br/>ID: 848167</description>
+		<Point> 
+			<coordinates>
+			-72.366149,41.309978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Stage Rd<br/>ID: 848413</description>
+		<Point> 
+			<coordinates>
+			-72.377745,41.298827,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Staples<br/>ID: 848405</description>
+		<Point> 
+			<coordinates>
+			-72.386395,41.289845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Stone Ranch Rd<br/>ID: 848113</description>
+		<Point> 
+			<coordinates>
+			-72.255616,41.351049,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Stone Ranch Rd<br/>ID: 848212</description>
+		<Point> 
+			<coordinates>
+			-72.255313,41.351311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Sunny Hill Dr<br/>ID: 848314</description>
+		<Point> 
+			<coordinates>
+			-72.579621,41.276758,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Sunny Hill Dr<br/>ID: 848328</description>
+		<Point> 
+			<coordinates>
+			-72.579511,41.276633,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Thompson Ln<br/>ID: 848394</description>
+		<Point> 
+			<coordinates>
+			-72.420826,41.284136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Tidewater Bait &amp; Tackle<br/>ID: 848269</description>
+		<Point> 
+			<coordinates>
+			-72.474572,41.275115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Upper Pattagansett Rd<br/>ID: 848107</description>
+		<Point> 
+			<coordinates>
+			-72.218942,41.367564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Upper Pattagansett Rd<br/>ID: 848218</description>
+		<Point> 
+			<coordinates>
+			-72.218813,41.367443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Wall St<br/>ID: 848317</description>
+		<Point> 
+			<coordinates>
+			-72.593912,41.279677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Waters Edge<br/>ID: 848251</description>
+		<Point> 
+			<coordinates>
+			-72.436788,41.281376,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Waters Edge<br/>ID: 848387</description>
+		<Point> 
+			<coordinates>
+			-72.436812,41.281288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Wesley Ave<br/>ID: 848264</description>
+		<Point> 
+			<coordinates>
+			-72.456124,41.282471,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Westbrook Ambulance Assoc<br/>ID: 848254</description>
+		<Point> 
+			<coordinates>
+			-72.445065,41.284353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Westbrook Heights Rd<br/>ID: 848253</description>
+		<Point> 
+			<coordinates>
+			-72.441565,41.283396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Westbrook Post Office<br/>ID: 848385</description>
+		<Point> 
+			<coordinates>
+			-72.441286,41.283253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; Westbrook Town Hall<br/>ID: 848265</description>
+		<Point> 
+			<coordinates>
+			-72.458825,41.280659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; William St<br/>ID: 848307</description>
+		<Point> 
+			<coordinates>
+			-72.542969,41.27717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 &amp; William St<br/>ID: 848335</description>
+		<Point> 
+			<coordinates>
+			-72.54262,41.277157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 @ Jet Laundrette<br/>ID: 848372</description>
+		<Point> 
+			<coordinates>
+			-72.461067,41.279183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 1 Green Acres<br/>ID: 848391</description>
+		<Point> 
+			<coordinates>
+			-72.427851,41.280717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 79 &amp; Bradley Rd<br/>ID: 848322</description>
+		<Point> 
+			<coordinates>
+			-72.599204,41.28102,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Barman Rd - Higganum<br/>ID: 2483879</description>
+		<Point> 
+			<coordinates>
+			-72.555441,41.44429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Beechwood Dr<br/>ID: 2483872</description>
+		<Point> 
+			<coordinates>
+			-72.565005,41.374628,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Beechwood Rd - Killingworth<br/>ID: 2483600</description>
+		<Point> 
+			<coordinates>
+			-72.565465,41.374839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Brault Hill Rd - Higganum<br/>ID: 2483587</description>
+		<Point> 
+			<coordinates>
+			-72.560358,41.430456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Burr Rd - Higganum<br/>ID: 2483586</description>
+		<Point> 
+			<coordinates>
+			-72.559545,41.432099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Chittenden Rd- Killingworth<br/>ID: 2483604</description>
+		<Point> 
+			<coordinates>
+			-72.563629,41.355386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Chittenden Rd - Killingworth<br/>ID: 2483867</description>
+		<Point> 
+			<coordinates>
+			-72.56328,41.355347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Egypt Ln - Clinton<br/>ID: 2483611</description>
+		<Point> 
+			<coordinates>
+			-72.539101,41.309565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Evergreen - Clinton<br/>ID: 2483610</description>
+		<Point> 
+			<coordinates>
+			-72.541193,41.316244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Evergreen - Clinton<br/>ID: 2483620</description>
+		<Point> 
+			<coordinates>
+			-72.540869,41.316177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; HK Middle School<br/>ID: 2483874</description>
+		<Point> 
+			<coordinates>
+			-72.564365,41.385645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; HK Middle School - Killingworth<br/>ID: 2483598</description>
+		<Point> 
+			<coordinates>
+			-72.564633,41.385886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Hemlock Dr - Killingworth<br/>ID: 2483603</description>
+		<Point> 
+			<coordinates>
+			-72.566283,41.362895,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Hemlock Dr - Killingworth<br/>ID: 2483869</description>
+		<Point> 
+			<coordinates>
+			-72.565837,41.362637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Hemlock Hill Rd - Clinton<br/>ID: 2483609</description>
+		<Point> 
+			<coordinates>
+			-72.544923,41.321893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Hemlock Hill Rd - Clinton<br/>ID: 2483862</description>
+		<Point> 
+			<coordinates>
+			-72.544479,41.321815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Hidden Lake Rd - Higganum<br/>ID: 2483588</description>
+		<Point> 
+			<coordinates>
+			-72.563872,41.419196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Hurd Bridge Rd - Clinton<br/>ID: 2483618</description>
+		<Point> 
+			<coordinates>
+			-72.535191,41.30595,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Indian River Rec Complex - Clinton<br/>ID: 2483619</description>
+		<Point> 
+			<coordinates>
+			-72.538714,41.309706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Ivy Rd - Higganum<br/>ID: 2483584</description>
+		<Point> 
+			<coordinates>
+			-72.555681,41.445687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Killingworth Library<br/>ID: 2483602</description>
+		<Point> 
+			<coordinates>
+			-72.566109,41.365972,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Killingworth Library - Killingworth<br/>ID: 2483870</description>
+		<Point> 
+			<coordinates>
+			-72.565831,41.365955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Killingworth Town Hall<br/>ID: 2483601</description>
+		<Point> 
+			<coordinates>
+			-72.56544,41.368886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Killingworth Town Hall<br/>ID: 2483871</description>
+		<Point> 
+			<coordinates>
+			-72.565065,41.368834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Killingworth Village<br/>ID: 2456331</description>
+		<Point> 
+			<coordinates>
+			-72.561463,41.350833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Lake Ave - Higganum<br/>ID: 2483579</description>
+		<Point> 
+			<coordinates>
+			-72.558271,41.491983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Lake Rd - Higganum<br/>ID: 2483884</description>
+		<Point> 
+			<coordinates>
+			-72.558001,41.4922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Little City Rd - Higganum<br/>ID: 2483582</description>
+		<Point> 
+			<coordinates>
+			-72.556446,41.464078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Lovers Ln - Killingworth<br/>ID: 2483599</description>
+		<Point> 
+			<coordinates>
+			-72.565793,41.382069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Lovers Ln - Killingworth<br/>ID: 2483873</description>
+		<Point> 
+			<coordinates>
+			-72.565619,41.381586,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Margo Ln - Clinton<br/>ID: 2483613</description>
+		<Point> 
+			<coordinates>
+			-72.533614,41.301309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Morgan High School - Clinton<br/>ID: 2483617</description>
+		<Point> 
+			<coordinates>
+			-72.532859,41.299687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Morris Hubbard Rd - Higganum<br/>ID: 2483883</description>
+		<Point> 
+			<coordinates>
+			-72.555916,41.480278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; N Parker Hill Rd - Killingworth<br/>ID: 2483876</description>
+		<Point> 
+			<coordinates>
+			-72.561403,41.406545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; N Parker Hill - Killingworth<br/>ID: 2483596</description>
+		<Point> 
+			<coordinates>
+			-72.561875,41.407055,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Old Country Rd - Higganum<br/>ID: 2483877</description>
+		<Point> 
+			<coordinates>
+			-72.563532,41.418919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Parker Hill Rd - Higganum<br/>ID: 2483878</description>
+		<Point> 
+			<coordinates>
+			-72.5595,41.431167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Ponsett Rd - Higganum<br/>ID: 2483881</description>
+		<Point> 
+			<coordinates>
+			-72.555756,41.463657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Roast Meat Hill - Clinton<br/>ID: 2483607</description>
+		<Point> 
+			<coordinates>
+			-72.54952,41.326637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Roast Meat Hill - Clinton<br/>ID: 2483864</description>
+		<Point> 
+			<coordinates>
+			-72.549236,41.326814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Rock Ledge - Clinton<br/>ID: 2483612</description>
+		<Point> 
+			<coordinates>
+			-72.53555,41.305815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 80 - Killingworth<br/>ID: 2456330</description>
+		<Point> 
+			<coordinates>
+			-72.566186,41.359035,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 80 - Killingworth<br/>ID: 2483868</description>
+		<Point> 
+			<coordinates>
+			-72.565649,41.359336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 148 - Killingworth<br/>ID: 2483597</description>
+		<Point> 
+			<coordinates>
+			-72.563113,41.390981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 148 - Killingworth<br/>ID: 2483875</description>
+		<Point> 
+			<coordinates>
+			-72.562659,41.390446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 154 Higganum<br/>ID: 2456328</description>
+		<Point> 
+			<coordinates>
+			-72.5593,41.496917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 154 Higganum<br/>ID: 2456329</description>
+		<Point> 
+			<coordinates>
+			-72.559142,41.496744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 154 Higganum<br/>ID: 2483578</description>
+		<Point> 
+			<coordinates>
+			-72.558583,41.496056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Route 154 - Higganum<br/>ID: 2483885</description>
+		<Point> 
+			<coordinates>
+			-72.558463,41.496067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Sherwood Forest - Killingworth<br/>ID: 2483606</description>
+		<Point> 
+			<coordinates>
+			-72.554701,41.337011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Sherwood Forest - Killingworth<br/>ID: 2483865</description>
+		<Point> 
+			<coordinates>
+			-72.554276,41.337141,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Silver Birch Ln - Clinton<br/>ID: 2483608</description>
+		<Point> 
+			<coordinates>
+			-72.548601,41.324839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Silver Birch Ln - Clinton<br/>ID: 2483863</description>
+		<Point> 
+			<coordinates>
+			-72.548396,41.324996,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Skinner Rd - Higganum<br/>ID: 2483580</description>
+		<Point> 
+			<coordinates>
+			-72.556258,41.480677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Soobitsky Rd - Higganum<br/>ID: 2483583</description>
+		<Point> 
+			<coordinates>
+			-72.555309,41.451783,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Soobitsky Rd - Higganum<br/>ID: 2483880</description>
+		<Point> 
+			<coordinates>
+			-72.555107,41.451907,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Stevens Rd - Killingworth<br/>ID: 2483605</description>
+		<Point> 
+			<coordinates>
+			-72.56008,41.34774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Stevens Rd - Killingworth<br/>ID: 2483866</description>
+		<Point> 
+			<coordinates>
+			-72.559672,41.347585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Walnut Hill Rd - Clinton<br/>ID: 2483615</description>
+		<Point> 
+			<coordinates>
+			-72.531673,41.294635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Walnut Hill Rd - Clinton<br/>ID: 2483616</description>
+		<Point> 
+			<coordinates>
+			-72.531529,41.295001,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Woodland Dr - Clinton<br/>ID: 2483614</description>
+		<Point> 
+			<coordinates>
+			-72.533017,41.298126,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 81 &amp; Woods Rd - Higganum<br/>ID: 2483585</description>
+		<Point> 
+			<coordinates>
+			-72.555984,41.44308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Castle View Dr<br/>ID: 848614</description>
+		<Point> 
+			<coordinates>
+			-72.445057,41.42062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Centerbrook Post Office<br/>ID: 848435</description>
+		<Point> 
+			<coordinates>
+			-72.417197,41.353174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Cherry Hill<br/>ID: 848582</description>
+		<Point> 
+			<coordinates>
+			-72.446281,41.422277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Cherry Hill<br/>ID: 848615</description>
+		<Point> 
+			<coordinates>
+			-72.446238,41.422366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Chester Town Hall<br/>ID: 848583</description>
+		<Point> 
+			<coordinates>
+			-72.444947,41.42029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Denlar Dr<br/>ID: 848616</description>
+		<Point> 
+			<coordinates>
+			-72.447249,41.423876,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Kings Hwy<br/>ID: 848584</description>
+		<Point> 
+			<coordinates>
+			-72.442276,41.416229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Kings Hwy<br/>ID: 848613</description>
+		<Point> 
+			<coordinates>
+			-72.442201,41.416281,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Park &amp; Ride<br/>ID: 848434</description>
+		<Point> 
+			<coordinates>
+			-72.424054,41.362614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Park &amp; Ride<br/>ID: 848531</description>
+		<Point> 
+			<coordinates>
+			-72.423951,41.362674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Parkers Point Rd<br/>ID: 848617</description>
+		<Point> 
+			<coordinates>
+			-72.451315,41.428775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; VFW<br/>ID: 848530</description>
+		<Point> 
+			<coordinates>
+			-72.416529,41.352872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 154 &amp; Water St<br/>ID: 848585</description>
+		<Point> 
+			<coordinates>
+			-72.440412,41.412105,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 156 &amp; Route 1<br/>ID: 848153</description>
+		<Point> 
+			<coordinates>
+			-72.340121,41.321781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 156 Park &amp; Ride<br/>ID: 848169</description>
+		<Point> 
+			<coordinates>
+			-72.339445,41.321227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 1 &amp; Florence Griswold Museum<br/>ID: 848150</description>
+		<Point> 
+			<coordinates>
+			-72.328531,41.323979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 154 &amp; Harry's Barber Shop<br/>ID: 848636</description>
+		<Point> 
+			<coordinates>
+			-72.566806,41.500181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 154 &amp; Johnson Rd<br/>ID: 848637</description>
+		<Point> 
+			<coordinates>
+			-72.573645,41.50371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt. 154 and Rt. 81 Higganum<br/>ID: 848634</description>
+		<Point> 
+			<coordinates>
+			-72.557729,41.496932,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rye Field<br/>ID: 849861</description>
+		<Point> 
+			<coordinates>
+			-72.280415,41.347469,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Evans Ln<br/>ID: 848456</description>
+		<Point> 
+			<coordinates>
+			-72.393798,41.351307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Evans Ln<br/>ID: 848509</description>
+		<Point> 
+			<coordinates>
+			-72.393715,41.351331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Mack Ln<br/>ID: 848457</description>
+		<Point> 
+			<coordinates>
+			-72.393324,41.349024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Mack Ln<br/>ID: 848508</description>
+		<Point> 
+			<coordinates>
+			-72.393248,41.348649,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Route 1<br/>ID: 848376</description>
+		<Point> 
+			<coordinates>
+			-72.451221,41.285024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Route 1 Westbrook<br/>ID: 848375</description>
+		<Point> 
+			<coordinates>
+			-72.454049,41.283444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Saybrook Rd<br/>ID: 848458</description>
+		<Point> 
+			<coordinates>
+			-72.394004,41.347139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Samson Rock Rd &amp; Route 1<br/>ID: 848323</description>
+		<Point> 
+			<coordinates>
+			-72.598332,41.278839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sasybrook Rd &amp; Freeman Rd<br/>ID: 848639</description>
+		<Point> 
+			<coordinates>
+			-72.591281,41.511108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Point<br/>ID: 848482</description>
+		<Point> 
+			<coordinates>
+			-72.350028,41.284114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Aircraft Rd<br/>ID: 848557</description>
+		<Point> 
+			<coordinates>
+			-72.592515,41.512116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Aircraft Rd<br/>ID: 848640</description>
+		<Point> 
+			<coordinates>
+			-72.592402,41.512199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Bridge Rd<br/>ID: 848578</description>
+		<Point> 
+			<coordinates>
+			-72.475246,41.447429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Bridge Rd<br/>ID: 848619</description>
+		<Point> 
+			<coordinates>
+			-72.475168,41.447494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Camp Bethel Rd<br/>ID: 848575</description>
+		<Point> 
+			<coordinates>
+			-72.479674,41.455899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Camp Bethel Rd<br/>ID: 848622</description>
+		<Point> 
+			<coordinates>
+			-72.47954,41.456052,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Denlar Dr<br/>ID: 848581</description>
+		<Point> 
+			<coordinates>
+			-72.447324,41.423824,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Depot Hill<br/>ID: 848633</description>
+		<Point> 
+			<coordinates>
+			-72.551093,41.498134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Depot Hill Rd<br/>ID: 848564</description>
+		<Point> 
+			<coordinates>
+			-72.550913,41.498062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Dudley Clark Rd<br/>ID: 848579</description>
+		<Point> 
+			<coordinates>
+			-72.46504,41.440328,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Dudley Clark Rd<br/>ID: 848618</description>
+		<Point> 
+			<coordinates>
+			-72.464831,41.440253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Dunkin Donuts<br/>ID: 848561</description>
+		<Point> 
+			<coordinates>
+			-72.566779,41.50007,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Essex Hills Dr<br/>ID: 848460</description>
+		<Point> 
+			<coordinates>
+			-72.38559,41.337767,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Freeman Rd<br/>ID: 848558</description>
+		<Point> 
+			<coordinates>
+			-72.590996,41.510618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Gates Rd<br/>ID: 848459</description>
+		<Point> 
+			<coordinates>
+			-72.392213,41.343255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Goose Hill Rd<br/>ID: 848580</description>
+		<Point> 
+			<coordinates>
+			-72.451197,41.428514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Haddam Elementary<br/>ID: 848562</description>
+		<Point> 
+			<coordinates>
+			-72.561487,41.497437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Haddam Elementary<br/>ID: 848635</description>
+		<Point> 
+			<coordinates>
+			-72.561444,41.497517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Haddam Meadows<br/>ID: 848630</description>
+		<Point> 
+			<coordinates>
+			-72.518408,41.485304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; High Meadow Pl<br/>ID: 848566</description>
+		<Point> 
+			<coordinates>
+			-72.521398,41.489234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; High Meadow Pl<br/>ID: 848631</description>
+		<Point> 
+			<coordinates>
+			-72.521286,41.48926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Horton Rd<br/>ID: 848625</description>
+		<Point> 
+			<coordinates>
+			-72.488659,41.469183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Island Dock Rd<br/>ID: 848567</description>
+		<Point> 
+			<coordinates>
+			-72.518531,41.485274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Johnson Rd<br/>ID: 848560</description>
+		<Point> 
+			<coordinates>
+			-72.572768,41.503198,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Middletown Professional Park<br/>ID: 848554</description>
+		<Point> 
+			<coordinates>
+			-72.623263,41.540673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Middletown Professional Park<br/>ID: 848643</description>
+		<Point> 
+			<coordinates>
+			-72.623518,41.540936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Old Turnpike Rd<br/>ID: 848572</description>
+		<Point> 
+			<coordinates>
+			-72.48672,41.468596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Plains Rd<br/>ID: 848571</description>
+		<Point> 
+			<coordinates>
+			-72.495016,41.470857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; River Buff Rd<br/>ID: 848626</description>
+		<Point> 
+			<coordinates>
+			-72.495588,41.47108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; River Rd<br/>ID: 848573</description>
+		<Point> 
+			<coordinates>
+			-72.480581,41.465853,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; River Rd<br/>ID: 848624</description>
+		<Point> 
+			<coordinates>
+			-72.480004,41.465433,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Route 81 Higganum<br/>ID: 848563</description>
+		<Point> 
+			<coordinates>
+			-72.557737,41.49684,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Rutty Ferry Rd<br/>ID: 848574</description>
+		<Point> 
+			<coordinates>
+			-72.479355,41.462944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Rutty Ferry Rd<br/>ID: 848623</description>
+		<Point> 
+			<coordinates>
+			-72.479245,41.463338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Saybrook at Haddam<br/>ID: 848576</description>
+		<Point> 
+			<coordinates>
+			-72.477743,41.450497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Saybrook at Haddam<br/>ID: 848621</description>
+		<Point> 
+			<coordinates>
+			-72.477625,41.450503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; School House Ln<br/>ID: 848569</description>
+		<Point> 
+			<coordinates>
+			-72.513848,41.478413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; School House Ln<br/>ID: 848628</description>
+		<Point> 
+			<coordinates>
+			-72.513794,41.478494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Seven Falls<br/>ID: 848559</description>
+		<Point> 
+			<coordinates>
+			-72.580077,41.506581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Seven Falls<br/>ID: 848638</description>
+		<Point> 
+			<coordinates>
+			-72.580089,41.506677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; UConn Extension<br/>ID: 848570</description>
+		<Point> 
+			<coordinates>
+			-72.502864,41.473582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; UConn Extension<br/>ID: 848627</description>
+		<Point> 
+			<coordinates>
+			-72.502765,41.473635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Walkley Hill Rd<br/>ID: 848565</description>
+		<Point> 
+			<coordinates>
+			-72.540533,41.496533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Walkley Hill Rd<br/>ID: 848568</description>
+		<Point> 
+			<coordinates>
+			-72.516249,41.480736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Walkley Hill Rd<br/>ID: 848629</description>
+		<Point> 
+			<coordinates>
+			-72.516002,41.480582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Walkley Hill Rd<br/>ID: 848632</description>
+		<Point> 
+			<coordinates>
+			-72.541115,41.496671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scranton Gazebo Madison<br/>ID: 848325</description>
+		<Point> 
+			<coordinates>
+			-72.595314,41.278617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoprite<br/>ID: 848278</description>
+		<Point> 
+			<coordinates>
+			-72.502124,41.270441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Bailey Rd<br/>ID: 848139</description>
+		<Point> 
+			<coordinates>
+			-72.315869,41.295218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Billow Rd<br/>ID: 848126</description>
+		<Point> 
+			<coordinates>
+			-72.271741,41.290055,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Billow Rd<br/>ID: 848198</description>
+		<Point> 
+			<coordinates>
+			-72.271942,41.289928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Biscayne Blvd<br/>ID: 848193</description>
+		<Point> 
+			<coordinates>
+			-72.281998,41.290458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Breen Ave<br/>ID: 848128</description>
+		<Point> 
+			<coordinates>
+			-72.276183,41.290313,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Breen Ave<br/>ID: 848196</description>
+		<Point> 
+			<coordinates>
+			-72.276043,41.290222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Buttonball Rd<br/>ID: 848135</description>
+		<Point> 
+			<coordinates>
+			-72.306857,41.286627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Buttonball Rd<br/>ID: 848188</description>
+		<Point> 
+			<coordinates>
+			-72.306626,41.286502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Center Beach Ave<br/>ID: 848132</description>
+		<Point> 
+			<coordinates>
+			-72.286829,41.289213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Center Beach Ave<br/>ID: 848191</description>
+		<Point> 
+			<coordinates>
+			-72.286641,41.289172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Columbus Ave<br/>ID: 848131</description>
+		<Point> 
+			<coordinates>
+			-72.28439,41.289845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Columbus Ave<br/>ID: 848192</description>
+		<Point> 
+			<coordinates>
+			-72.284315,41.289791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Cottage Ln<br/>ID: 848130</description>
+		<Point> 
+			<coordinates>
+			-72.280429,41.290476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Dogwood Dr<br/>ID: 848133</description>
+		<Point> 
+			<coordinates>
+			-72.290393,41.288437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Dogwood Dr<br/>ID: 848190</description>
+		<Point> 
+			<coordinates>
+			-72.290197,41.288388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Four Mile River Rd<br/>ID: 848203</description>
+		<Point> 
+			<coordinates>
+			-72.255565,41.308638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Hartford Ave<br/>ID: 848129</description>
+		<Point> 
+			<coordinates>
+			-72.278535,41.290398,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Hartford Ave<br/>ID: 848195</description>
+		<Point> 
+			<coordinates>
+			-72.278452,41.290309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Haywagon Dr<br/>ID: 848134</description>
+		<Point> 
+			<coordinates>
+			-72.294197,41.287673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Haywagon Dr<br/>ID: 848189</description>
+		<Point> 
+			<coordinates>
+			-72.29439,41.287532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Hefflon Farm Rd<br/>ID: 848185</description>
+		<Point> 
+			<coordinates>
+			-72.314238,41.292749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Heflon Farm Rd<br/>ID: 848138</description>
+		<Point> 
+			<coordinates>
+			-72.314233,41.292995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Homestead Cir<br/>ID: 848137</description>
+		<Point> 
+			<coordinates>
+			-72.312843,41.290756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Homestead Cir<br/>ID: 848186</description>
+		<Point> 
+			<coordinates>
+			-72.312952,41.290698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; McCurdy Rd<br/>ID: 848141</description>
+		<Point> 
+			<coordinates>
+			-72.326759,41.301352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Miami Ave<br/>ID: 848194</description>
+		<Point> 
+			<coordinates>
+			-72.280203,41.290377,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Mile Creek Rd<br/>ID: 848123</description>
+		<Point> 
+			<coordinates>
+			-72.258936,41.304804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Mile Creek Rd<br/>ID: 848140</description>
+		<Point> 
+			<coordinates>
+			-72.322647,41.297834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Mile Creek Rd<br/>ID: 848183</description>
+		<Point> 
+			<coordinates>
+			-72.322848,41.297813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Mile Creek Rd<br/>ID: 848201</description>
+		<Point> 
+			<coordinates>
+			-72.258896,41.304937,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Oakridge Dr<br/>ID: 848124</description>
+		<Point> 
+			<coordinates>
+			-72.257692,41.300129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Oakridge Dr<br/>ID: 848200</description>
+		<Point> 
+			<coordinates>
+			-72.257536,41.300441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Old Shore Rd<br/>ID: 848136</description>
+		<Point> 
+			<coordinates>
+			-72.311162,41.288336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Old Shore Rd<br/>ID: 848187</description>
+		<Point> 
+			<coordinates>
+			-72.310663,41.287808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Pine Rd<br/>ID: 848184</description>
+		<Point> 
+			<coordinates>
+			-72.315339,41.294526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Riverdale Landing<br/>ID: 848122</description>
+		<Point> 
+			<coordinates>
+			-72.258346,41.306524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Riverdale Landing<br/>ID: 848202</description>
+		<Point> 
+			<coordinates>
+			-72.258158,41.306609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Sea Spray<br/>ID: 848197</description>
+		<Point> 
+			<coordinates>
+			-72.274131,41.290073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Sea Spray Rd<br/>ID: 848127</description>
+		<Point> 
+			<coordinates>
+			-72.274335,41.290186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Shore Acres Rd<br/>ID: 848125</description>
+		<Point> 
+			<coordinates>
+			-72.258115,41.297733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shore Rd &amp; Shore Acres Rd<br/>ID: 848199</description>
+		<Point> 
+			<coordinates>
+			-72.258461,41.297181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Medical Center<br/>ID: 848380</description>
+		<Point> 
+			<coordinates>
+			-72.437386,41.28993,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Springbrook Rd &amp; I 95<br/>ID: 848154</description>
+		<Point> 
+			<coordinates>
+			-72.365865,41.312226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Springbrook Rd &amp; Route 1<br/>ID: 848155</description>
+		<Point> 
+			<coordinates>
+			-72.367386,41.309672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stage Rd &amp; Route 1<br/>ID: 848467</description>
+		<Point> 
+			<coordinates>
+			-72.376261,41.299146,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stage Rd &amp; Rt 1<br/>ID: 848599</description>
+		<Point> 
+			<coordinates>
+			-72.376393,41.29904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop Clinton<br/>ID: 848358</description>
+		<Point> 
+			<coordinates>
+			-72.505381,41.273669,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop Commons<br/>ID: 2745336</description>
+		<Point> 
+			<coordinates>
+			-72.507468,41.272907,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Woods &amp; Grassy Hill Rd<br/>ID: 849859</description>
+		<Point> 
+			<coordinates>
+			-72.295318,41.349886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Woods &amp; Rogers Lake<br/>ID: 849858</description>
+		<Point> 
+			<coordinates>
+			-72.302908,41.350486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Valley Shore Ymca - Westbrook<br/>ID: 2736244</description>
+		<Point> 
+			<coordinates>
+			-72.43417,41.293654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; Bokum Rd<br/>ID: 848606</description>
+		<Point> 
+			<coordinates>
+			-72.462975,41.399234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; E Liberty St<br/>ID: 848610</description>
+		<Point> 
+			<coordinates>
+			-72.444769,41.40771,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; Inspiration Ln<br/>ID: 848605</description>
+		<Point> 
+			<coordinates>
+			-72.470278,41.399467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; Pelton Hill Rd<br/>ID: 848608</description>
+		<Point> 
+			<coordinates>
+			-72.45408,41.401294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; Route 154<br/>ID: 848612</description>
+		<Point> 
+			<coordinates>
+			-72.440589,41.411615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; Story Hill Rd<br/>ID: 848611</description>
+		<Point> 
+			<coordinates>
+			-72.443794,41.409965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main &amp; Straights Rd<br/>ID: 848607</description>
+		<Point> 
+			<coordinates>
+			-72.458831,41.400448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main St &amp; Bokum Rd<br/>ID: 848589</description>
+		<Point> 
+			<coordinates>
+			-72.463154,41.399284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main St &amp; Inspiration Ln<br/>ID: 848590</description>
+		<Point> 
+			<coordinates>
+			-72.470729,41.399761,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W Main St &amp; Pelton Hill Rd<br/>ID: 848588</description>
+		<Point> 
+			<coordinates>
+			-72.454391,41.401238,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wall St &amp; Brookside Rd<br/>ID: 848318</description>
+		<Point> 
+			<coordinates>
+			-72.593947,41.281372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water St &amp; E Liberty St<br/>ID: 848587</description>
+		<Point> 
+			<coordinates>
+			-72.444862,41.40772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water St &amp; Story Hill Rd<br/>ID: 848586</description>
+		<Point> 
+			<coordinates>
+			-72.443437,41.410416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Grove St<br/>ID: 848450</description>
+		<Point> 
+			<coordinates>
+			-72.395697,41.353745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Grove St<br/>ID: 848515</description>
+		<Point> 
+			<coordinates>
+			-72.396676,41.353906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Middlesex Tpke<br/>ID: 848447</description>
+		<Point> 
+			<coordinates>
+			-72.40167,41.351764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Middlesex Tpke<br/>ID: 848518</description>
+		<Point> 
+			<coordinates>
+			-72.402282,41.351333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Parker Terr<br/>ID: 848449</description>
+		<Point> 
+			<coordinates>
+			-72.399141,41.353842,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Parker Terr<br/>ID: 848516</description>
+		<Point> 
+			<coordinates>
+			-72.39884,41.353985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Sunset Terr<br/>ID: 848448</description>
+		<Point> 
+			<coordinates>
+			-72.400627,41.353025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Ave &amp; Sunset Terr<br/>ID: 848517</description>
+		<Point> 
+			<coordinates>
+			-72.400927,41.352882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Outlets<br/>ID: 848379</description>
+		<Point> 
+			<coordinates>
+			-72.42863,41.288643,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Rd &amp; Industrial Park Rd<br/>ID: 848524</description>
+		<Point> 
+			<coordinates>
+			-72.415459,41.347191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Rd &amp; Industrial Park Rd<br/>ID: 848528</description>
+		<Point> 
+			<coordinates>
+			-72.415668,41.347522,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Rd &amp; Main St<br/>ID: 848437</description>
+		<Point> 
+			<coordinates>
+			-72.416926,41.350977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Rd &amp; Main St<br/>ID: 848443</description>
+		<Point> 
+			<coordinates>
+			-72.416811,41.350931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Rd &amp; Meadowbrook<br/>ID: 848439</description>
+		<Point> 
+			<coordinates>
+			-72.41448,41.346402,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westbrook Rd &amp; Meadowbrook<br/>ID: 848441</description>
+		<Point> 
+			<coordinates>
+			-72.414711,41.346678,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

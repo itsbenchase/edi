@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>il-dekalb routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>12-w</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: il-dekalb<br/>EDI: 1.03</description>
+		<LineString> 
+			<coordinates>
+			-88.464326,41.890536,0
+			-88.68896,41.919961,0
+			-88.741464,41.933011,0
+			-88.744441,41.931197,0
+			-88.752251,41.931339,0
+			-88.755723,41.930843,0
+			-88.758029,41.930847,0
+			-88.765177,41.931199,0
+			-88.769874,41.93112,0
+			-88.771563,41.931084,0
+			-88.772995,41.934151,0
+			-88.770154,41.934676,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>12-e</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: il-dekalb<br/>EDI: 1.06</description>
+		<LineString> 
+			<coordinates>
+			-88.770154,41.934676,0
+			-88.761081,41.938463,0
+			-88.7658,41.931824,0
+			-88.757958,41.93093,0
+			-88.752047,41.931342,0
+			-88.746059,41.929585,0
+			-88.741562,41.93287,0
+			-88.68896,41.919961,0
+			-88.464326,41.890536,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

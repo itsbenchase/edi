@@ -1,0 +1,2021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ma-nrta stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2 Fairgrounds Road (Ferry Connector Lot)<br/>ID: 811358</description>
+		<Point> 
+			<coordinates>
+			-70.087,41.268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 83 Barlett Road<br/>ID: 811319</description>
+		<Point> 
+			<coordinates>
+			-70.11636,41.26265,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 240 Polpis Road<br/>ID: 798538</description>
+		<Point> 
+			<coordinates>
+			-70.021965,41.292456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 240 Polpis Road<br/>ID: 811341</description>
+		<Point> 
+			<coordinates>
+			-70.02186,41.29241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 253 Polpis Road<br/>ID: 798539</description>
+		<Point> 
+			<coordinates>
+			-70.019477,41.294329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 253 Polpis Road<br/>ID: 811342</description>
+		<Point> 
+			<coordinates>
+			-70.01938,41.29435,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 334 Polpis Road<br/>ID: 798540</description>
+		<Point> 
+			<coordinates>
+			-69.996605,41.294933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 334 Polpis Road<br/>ID: 811345</description>
+		<Point> 
+			<coordinates>
+			-69.99673,41.2949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Airport Road / Old South Road<br/>ID: 811241</description>
+		<Point> 
+			<coordinates>
+			-70.06491,41.26107,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Airport Road / Old South Road / Macy's Lane<br/>ID: 798543</description>
+		<Point> 
+			<coordinates>
+			-70.064891,41.261161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Almanack Road<br/>ID: 2578214</description>
+		<Point> 
+			<coordinates>
+			-70.012195,41.297901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Almanack Road<br/>ID: 2578215</description>
+		<Point> 
+			<coordinates>
+			-70.012109,41.297851,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Amelia Drive (Inbound)<br/>ID: 811387</description>
+		<Point> 
+			<coordinates>
+			-70.08413,41.26782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Amelia Drive (Outbound)<br/>ID: 811234</description>
+		<Point> 
+			<coordinates>
+			-70.08424,41.2677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna Drive<br/>ID: 811262</description>
+		<Point> 
+			<coordinates>
+			-70.10015,41.27211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anne's Lane<br/>ID: 798546</description>
+		<Point> 
+			<coordinates>
+			-69.963898,41.271409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anne's Lane<br/>ID: 811349</description>
+		<Point> 
+			<coordinates>
+			-69.96398,41.27141,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Appleton Road<br/>ID: 811316</description>
+		<Point> 
+			<coordinates>
+			-70.107,41.26696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Atlantic Avenue / Prospect Street<br/>ID: 811261</description>
+		<Point> 
+			<coordinates>
+			-70.09911,41.27497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barrett Farm Road / Swift Rock Road (Inbound)<br/>ID: 811376</description>
+		<Point> 
+			<coordinates>
+			-70.14513,41.2818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Barrett Farm Road / Swift Rock Road (Outbound)<br/>ID: 811297</description>
+		<Point> 
+			<coordinates>
+			-70.14532,41.28192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bayberry Court (Inbound)<br/>ID: 811384</description>
+		<Point> 
+			<coordinates>
+			-70.09224,41.2744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bayberry Court (Outbound)<br/>ID: 811308</description>
+		<Point> 
+			<coordinates>
+			-70.0923,41.27435,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bayberry Lane<br/>ID: 798551</description>
+		<Point> 
+			<coordinates>
+			-69.963896,41.275779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bayberry Lane<br/>ID: 811348</description>
+		<Point> 
+			<coordinates>
+			-69.96398,41.27578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boulevarde Road / The Boulevarde<br/>ID: 798552</description>
+		<Point> 
+			<coordinates>
+			-70.093381,41.255911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brinda Lane<br/>ID: 811269</description>
+		<Point> 
+			<coordinates>
+			-70.09488,41.26642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broad Street (in front of Whaling Museum)<br/>ID: 811243</description>
+		<Point> 
+			<coordinates>
+			-70.09861,41.28543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bunker Road<br/>ID: 811226</description>
+		<Point> 
+			<coordinates>
+			-70.04587,41.26712,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bunker Road (Inbound)<br/>ID: 811400</description>
+		<Point> 
+			<coordinates>
+			-70.04582,41.26728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burnt Swamp Lane<br/>ID: 811323</description>
+		<Point> 
+			<coordinates>
+			-70.11905,41.27458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catherine Lane<br/>ID: 811321</description>
+		<Point> 
+			<coordinates>
+			-70.12179,41.26678,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cavalier Stables (Inbound)<br/>ID: 811373</description>
+		<Point> 
+			<coordinates>
+			-70.11383,41.2814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cavalier Stables (Outbound)<br/>ID: 811292</description>
+		<Point> 
+			<coordinates>
+			-70.11383,41.28149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cedar Circle<br/>ID: 811315</description>
+		<Point> 
+			<coordinates>
+			-70.10429,41.26749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chester Street / North Water Street (Inbound)<br/>ID: 2581449</description>
+		<Point> 
+			<coordinates>
+			-70.101632,41.287416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chuck Hollow Road (Inbound)<br/>ID: 811403</description>
+		<Point> 
+			<coordinates>
+			-69.9957,41.26243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chuck Hollow Road (Outbound)<br/>ID: 811229</description>
+		<Point> 
+			<coordinates>
+			-69.9957,41.26231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cliff Road / North Liberty Street (Inbound)<br/>ID: 811366</description>
+		<Point> 
+			<coordinates>
+			-70.107866,41.290474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cliff Road / North Liberty Street (Outbound)<br/>ID: 811285</description>
+		<Point> 
+			<coordinates>
+			-70.107841,41.290577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crooked Lane (Inbound)<br/>ID: 811374</description>
+		<Point> 
+			<coordinates>
+			-70.1197,41.28227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crooked Lane (Outbound)<br/>ID: 811293</description>
+		<Point> 
+			<coordinates>
+			-70.11966,41.28234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Street (Park and Ride)<br/>ID: 811275</description>
+		<Point> 
+			<coordinates>
+			-70.09241,41.2726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Downtown (Washington Street Greenhound Stop)<br/>ID: 811256</description>
+		<Point> 
+			<coordinates>
+			-70.09713,41.28265,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dukes Road (Inbound)<br/>ID: 811372</description>
+		<Point> 
+			<coordinates>
+			-70.1125,41.28134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dukes Road (Outbound)<br/>ID: 811291</description>
+		<Point> 
+			<coordinates>
+			-70.11249,41.28144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Dover Street<br/>ID: 811279</description>
+		<Point> 
+			<coordinates>
+			-70.09489,41.27872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Lincoln Avenue<br/>ID: 811246</description>
+		<Point> 
+			<coordinates>
+			-70.10133,41.28986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Lincoln Avenue<br/>ID: 811407</description>
+		<Point> 
+			<coordinates>
+			-70.101451,41.289806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Egan Lane (Inbound)<br/>ID: 811391</description>
+		<Point> 
+			<coordinates>
+			-70.07183,41.26207,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Egan Lane (Outbound)<br/>ID: 811238</description>
+		<Point> 
+			<coordinates>
+			-70.07185,41.26201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: End of Madaket Road<br/>ID: 811306</description>
+		<Point> 
+			<coordinates>
+			-70.20033,41.27148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F Street (Inbound)<br/>ID: 811383</description>
+		<Point> 
+			<coordinates>
+			-70.19615,41.27309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F Street (Outbound)<br/>ID: 811305</description>
+		<Point> 
+			<coordinates>
+			-70.19625,41.27318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairgrounds Road / Newtown Road<br/>ID: 811310</description>
+		<Point> 
+			<coordinates>
+			-70.08785,41.26851,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairgrounds Road / Surfside Road<br/>ID: 811312</description>
+		<Point> 
+			<coordinates>
+			-70.09734,41.25948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairgrounds Road / Surfside Road<br/>ID: 811840</description>
+		<Point> 
+			<coordinates>
+			-70.097242,41.259414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Faregounds Restaurant / Park and Ride Lot<br/>ID: 798575</description>
+		<Point> 
+			<coordinates>
+			-70.089845,41.266486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Faregrounds Restaurant (Park &amp; Ride Lot)<br/>ID: 811311</description>
+		<Point> 
+			<coordinates>
+			-70.08997,41.2665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Francis Street / Union Street (Outbound)<br/>ID: 811257</description>
+		<Point> 
+			<coordinates>
+			-70.09506,41.27931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Francis Street / Washington Street (Inbound)<br/>ID: 811258</description>
+		<Point> 
+			<coordinates>
+			-70.09426,41.27969,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freedom Square<br/>ID: 811276</description>
+		<Point> 
+			<coordinates>
+			-70.09497,41.27374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Friendship Lane<br/>ID: 811317</description>
+		<Point> 
+			<coordinates>
+			-70.10948,41.26646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goldfinch Drive (Inbound)<br/>ID: 811390</description>
+		<Point> 
+			<coordinates>
+			-70.07578,41.26324,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goldfinch Drive (Outbound)<br/>ID: 811237</description>
+		<Point> 
+			<coordinates>
+			-70.07586,41.26316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grove Lane (Inbound)<br/>ID: 811369</description>
+		<Point> 
+			<coordinates>
+			-70.10914,41.285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grove Lane (Outbound)<br/>ID: 811288</description>
+		<Point> 
+			<coordinates>
+			-70.10922,41.28501,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hawthorne Lane<br/>ID: 811324</description>
+		<Point> 
+			<coordinates>
+			-70.11549,41.2768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hinsdale Road (Inbound)<br/>ID: 811395</description>
+		<Point> 
+			<coordinates>
+			-70.06113,41.26388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hinsdale Road (Outbound)<br/>ID: 811250</description>
+		<Point> 
+			<coordinates>
+			-70.06097,41.26385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hoicks Hollow Road<br/>ID: 798584</description>
+		<Point> 
+			<coordinates>
+			-69.974377,41.284862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hoicks Hollow Road<br/>ID: 811346</description>
+		<Point> 
+			<coordinates>
+			-69.97452,41.28482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hooper Farm Road / Newtown Road<br/>ID: 811272</description>
+		<Point> 
+			<coordinates>
+			-70.09107,41.27061,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hummock Pond Road / Vesper Lane / Somerset Road<br/>ID: 811326</description>
+		<Point> 
+			<coordinates>
+			-70.11013,41.2757,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hussey Farm Road<br/>ID: 811325</description>
+		<Point> 
+			<coordinates>
+			-70.1124,41.27604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hy-Line (Easy Street)<br/>ID: 811359</description>
+		<Point> 
+			<coordinates>
+			-70.09715,41.28387,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hy-Line (New Whale Street)<br/>ID: 811365</description>
+		<Point> 
+			<coordinates>
+			-70.09568,41.28358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jetties Beach<br/>ID: 811247</description>
+		<Point> 
+			<coordinates>
+			-70.10493,41.29553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Joy Street / Mt. Vernon Street<br/>ID: 811327</description>
+		<Point> 
+			<coordinates>
+			-70.10627,41.27746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Life Saving Museum<br/>ID: 798590</description>
+		<Point> 
+			<coordinates>
+			-70.044338,41.290559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Life Saving Museum<br/>ID: 811337</description>
+		<Point> 
+			<coordinates>
+			-70.04439,41.29047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Pond Drive (Inbound)<br/>ID: 811380</description>
+		<Point> 
+			<coordinates>
+			-70.17905,41.27914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Pond Drive (Outbound)<br/>ID: 811301</description>
+		<Point> 
+			<coordinates>
+			-70.17911,41.27921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lovers Lane (Inbound)<br/>ID: 811389</description>
+		<Point> 
+			<coordinates>
+			-70.07777,41.26425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lovers Lane (Outbound)<br/>ID: 811236</description>
+		<Point> 
+			<coordinates>
+			-70.07782,41.2642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MacLean Lane<br/>ID: 2440675</description>
+		<Point> 
+			<coordinates>
+			-70.100057,41.269174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Macy's Lane (Inbound)<br/>ID: 811248</description>
+		<Point> 
+			<coordinates>
+			-70.06458,41.26112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madaket Road (at bike crossing) (Inbound)<br/>ID: 811375</description>
+		<Point> 
+			<coordinates>
+			-70.14141,41.28397,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madaket Road (at bike crossing) (Outbound)<br/>ID: 811296</description>
+		<Point> 
+			<coordinates>
+			-70.14147,41.28406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street / Morey Lane (Outbound)<br/>ID: 811232</description>
+		<Point> 
+			<coordinates>
+			-69.96888,41.26202,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street / West Sankaty Road<br/>ID: 798596</description>
+		<Point> 
+			<coordinates>
+			-69.968189,41.262098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street / West Sankaty Road (Outbound)<br/>ID: 811233</description>
+		<Point> 
+			<coordinates>
+			-69.96822,41.26199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street Rotary – Sconset<br/>ID: 811217</description>
+		<Point> 
+			<coordinates>
+			-69.96498,41.26208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marble Way<br/>ID: 811318</description>
+		<Point> 
+			<coordinates>
+			-70.11338,41.26523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mary Anne Lane (Inbound)<br/>ID: 811393</description>
+		<Point> 
+			<coordinates>
+			-70.06648,41.26132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mary Anne Lane (Outbound)<br/>ID: 811240</description>
+		<Point> 
+			<coordinates>
+			-70.06655,41.26123,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Masaquet Avenue<br/>ID: 811219</description>
+		<Point> 
+			<coordinates>
+			-70.09417,41.25082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Masquet Avenue<br/>ID: 798599</description>
+		<Point> 
+			<coordinates>
+			-70.094053,41.250812,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maxcy Pond Road (Outbound)<br/>ID: 811294</description>
+		<Point> 
+			<coordinates>
+			-70.12882,41.28296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miacomet Avenue<br/>ID: 811265</description>
+		<Point> 
+			<coordinates>
+			-70.10052,41.26505,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milestone Crossing / Sheep Commons Lane<br/>ID: 798602</description>
+		<Point> 
+			<coordinates>
+			-70.066409,41.270196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milestone Crossing / Sheep Commons Lane<br/>ID: 811223</description>
+		<Point> 
+			<coordinates>
+			-70.06652,41.27011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milestone Lane<br/>ID: 811273</description>
+		<Point> 
+			<coordinates>
+			-70.08889,41.27086,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Milestone Road @ Water Company (Outbound)<br/>ID: 811330</description>
+		<Point> 
+			<coordinates>
+			-70.08737,41.27097,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millbrook Road (Inbound)<br/>ID: 811295</description>
+		<Point> 
+			<coordinates>
+			-70.12976,41.28282,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monomoy Road (Inbound)<br/>ID: 811331</description>
+		<Point> 
+			<coordinates>
+			-70.08539,41.27106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moors End Lane / Gardner Road<br/>ID: 798607</description>
+		<Point> 
+			<coordinates>
+			-70.064955,41.281582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Moors End Lane / Gardner Road<br/>ID: 811334</description>
+		<Point> 
+			<coordinates>
+			-70.06487,41.28151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nantucket Elementary School (Park and Ride Lot)<br/>ID: 811263</description>
+		<Point> 
+			<coordinates>
+			-70.09866,41.26873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nantucket Memorial Airport<br/>ID: 811242</description>
+		<Point> 
+			<coordinates>
+			-70.06397,41.25744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Lane / Madaket Road (Inbound)<br/>ID: 811371</description>
+		<Point> 
+			<coordinates>
+			-70.10951,41.28152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Lane / Madaket Road (Outbound)<br/>ID: 811290</description>
+		<Point> 
+			<coordinates>
+			-70.10966,41.28151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Street (Inbound)<br/>ID: 811405</description>
+		<Point> 
+			<coordinates>
+			-69.97303,41.26221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Street (Outbound)<br/>ID: 811231</description>
+		<Point> 
+			<coordinates>
+			-69.97308,41.26209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nobadeer Crossing (Inbound)<br/>ID: 811397</description>
+		<Point> 
+			<coordinates>
+			-70.05999,41.26706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nobadeer Crossing (Outbound)<br/>ID: 811252</description>
+		<Point> 
+			<coordinates>
+			-70.0598,41.26703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nobadeer Farm Road / Milestone Road (Inbound)<br/>ID: 811398</description>
+		<Point> 
+			<coordinates>
+			-70.05872,41.26917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nobadeer Farm Road / Milestone Road (Outbound)<br/>ID: 811224</description>
+		<Point> 
+			<coordinates>
+			-70.05875,41.269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nonantum Avenue<br/>ID: 798615</description>
+		<Point> 
+			<coordinates>
+			-70.094826,41.245693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nonantum Avenue<br/>ID: 811220</description>
+		<Point> 
+			<coordinates>
+			-70.09493,41.2457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Beach Street / Bathing Beach Road (Inbound)<br/>ID: 2538019</description>
+		<Point> 
+			<coordinates>
+			-70.105377,41.292461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Beach Street / Bathing Beach Road (Outbound)<br/>ID: 2538018</description>
+		<Point> 
+			<coordinates>
+			-70.105303,41.292539,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Beach Street / Charles Street (Inbound)<br/>ID: 2538016</description>
+		<Point> 
+			<coordinates>
+			-70.104445,41.291823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Beach Street / Charles Street (Outbound)<br/>ID: 2538015</description>
+		<Point> 
+			<coordinates>
+			-70.104178,41.291787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Beach Street / Easton Street (Inbound)<br/>ID: 811357</description>
+		<Point> 
+			<coordinates>
+			-70.09919,41.28816,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Cambridge Street (Outbound)<br/>ID: 811302</description>
+		<Point> 
+			<coordinates>
+			-70.1871,41.27733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Liberty Street / West Chester Street (Inbound)<br/>ID: 811367</description>
+		<Point> 
+			<coordinates>
+			-70.10766,41.28695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Liberty Street / West Chester Street (Outbound)<br/>ID: 811286</description>
+		<Point> 
+			<coordinates>
+			-70.10789,41.2869,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Pasture Lane<br/>ID: 798618</description>
+		<Point> 
+			<coordinates>
+			-70.059569,41.284688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Pasture Lane<br/>ID: 811335</description>
+		<Point> 
+			<coordinates>
+			-70.05949,41.2846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Water Street / Easton Street (Outbound)<br/>ID: 811244</description>
+		<Point> 
+			<coordinates>
+			-70.10127,41.28743,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Street (Inbound)<br/>ID: 811381</description>
+		<Point> 
+			<coordinates>
+			-70.1914,41.27568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Street (Outbound)<br/>ID: 811303</description>
+		<Point> 
+			<coordinates>
+			-70.19152,41.27578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Street / Landmark House (Inbound)<br/>ID: 811385</description>
+		<Point> 
+			<coordinates>
+			-70.09058,41.27341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Street / Landmark House (Outbound)<br/>ID: 811274</description>
+		<Point> 
+			<coordinates>
+			-70.09067,41.27333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Parker Lane<br/>ID: 811255</description>
+		<Point> 
+			<coordinates>
+			-70.09337,41.26326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Parker Lane<br/>ID: 811268</description>
+		<Point> 
+			<coordinates>
+			-70.09611,41.26472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine Crest Drive (Inbound)<br/>ID: 811392</description>
+		<Point> 
+			<coordinates>
+			-70.06901,41.26161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine Crest Drive (Outbound)<br/>ID: 811239</description>
+		<Point> 
+			<coordinates>
+			-70.06908,41.2615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pleasant Street at 5 Corners<br/>ID: 811277</description>
+		<Point> 
+			<coordinates>
+			-70.09842,41.27719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Polpis Road<br/>ID: 798625</description>
+		<Point> 
+			<coordinates>
+			-70.081035,41.271984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Polpis Road (just past intersection)<br/>ID: 811332</description>
+		<Point> 
+			<coordinates>
+			-70.08095,41.27191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Public Works Department (Inbound)<br/>ID: 811377</description>
+		<Point> 
+			<coordinates>
+			-70.16714,41.28302,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Public Works Department (Outbound)<br/>ID: 811298</description>
+		<Point> 
+			<coordinates>
+			-70.167104,41.283129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quaise Pastures<br/>ID: 798627</description>
+		<Point> 
+			<coordinates>
+			-70.028276,41.291458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quaise Pastures<br/>ID: 811340</description>
+		<Point> 
+			<coordinates>
+			-70.02828,41.29136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quaise Road / Altar Rock Road<br/>ID: 811339</description>
+		<Point> 
+			<coordinates>
+			-70.0329,41.29111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quiase Road / Altar Rock Road<br/>ID: 798628</description>
+		<Point> 
+			<coordinates>
+			-70.032936,41.291196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quidnet Road<br/>ID: 798629</description>
+		<Point> 
+			<coordinates>
+			-70.001789,41.300928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quidnet Road<br/>ID: 811344</description>
+		<Point> 
+			<coordinates>
+			-70.00149,41.30085,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Raceway Drive / Somerset Lane<br/>ID: 811320</description>
+		<Point> 
+			<coordinates>
+			-70.11946,41.263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rosaly Lane / Clifton Street<br/>ID: 798631</description>
+		<Point> 
+			<coordinates>
+			-69.963926,41.267263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rosaly Lane / Clifton Street<br/>ID: 811351</description>
+		<Point> 
+			<coordinates>
+			-69.96402,41.26726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rotary / Old South Road (Inbound)<br/>ID: 811386</description>
+		<Point> 
+			<coordinates>
+			-70.08801,41.27074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rotary / Old South Road (Outbound)<br/>ID: 811309</description>
+		<Point> 
+			<coordinates>
+			-70.08815,41.27069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russells Way (Inbound)<br/>ID: 811401</description>
+		<Point> 
+			<coordinates>
+			-70.03908,41.26629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russells Way (Outbound)<br/>ID: 811227</description>
+		<Point> 
+			<coordinates>
+			-70.03911,41.26613,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sankaty Head Golf Club<br/>ID: 798634</description>
+		<Point> 
+			<coordinates>
+			-69.966403,41.280181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sankaty Head Golf Club<br/>ID: 811347</description>
+		<Point> 
+			<coordinates>
+			-69.96647,41.2801,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sankaty Road / Coffin Street (Inbound)<br/>ID: 811353</description>
+		<Point> 
+			<coordinates>
+			-69.96379,41.26528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sconset Avenue / Emily Street<br/>ID: 798636</description>
+		<Point> 
+			<coordinates>
+			-69.9639,41.269112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sconset Avenue / Emily Street<br/>ID: 811350</description>
+		<Point> 
+			<coordinates>
+			-69.96398,41.26911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sconset Golf Course (Inbound)<br/>ID: 811404</description>
+		<Point> 
+			<coordinates>
+			-69.98486,41.26237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sconset Golf Course (Outbound)<br/>ID: 811230</description>
+		<Point> 
+			<coordinates>
+			-69.98486,41.26228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Second Bridge (Inbound)<br/>ID: 811379</description>
+		<Point> 
+			<coordinates>
+			-70.17644,41.28158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Second Bridge (Outbound)<br/>ID: 811300</description>
+		<Point> 
+			<coordinates>
+			-70.17654,41.28157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shawkemo Road<br/>ID: 798639</description>
+		<Point> 
+			<coordinates>
+			-70.051359,41.288368,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shawkemo Road<br/>ID: 811336</description>
+		<Point> 
+			<coordinates>
+			-70.05126,41.28831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shell Street / Coffin Street (Outbound)<br/>ID: 811352</description>
+		<Point> 
+			<coordinates>
+			-69.96405,41.26545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shimmo Pond Road<br/>ID: 798641</description>
+		<Point> 
+			<coordinates>
+			-70.07106,41.277562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shimmo Pond Road<br/>ID: 811333</description>
+		<Point> 
+			<coordinates>
+			-70.07098,41.2775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Somerset Lane / Hummock Pond Road<br/>ID: 811322</description>
+		<Point> 
+			<coordinates>
+			-70.12344,41.26942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Beach Street / Easton Street (Inbound)<br/>ID: 811282</description>
+		<Point> 
+			<coordinates>
+			-70.099,41.28804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Beach Street / Easton Street (Outbound)<br/>ID: 811245</description>
+		<Point> 
+			<coordinates>
+			-70.09896,41.28824,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Cambridge Street (Inbound)<br/>ID: 811253</description>
+		<Point> 
+			<coordinates>
+			-70.18709,41.27719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Square Rigger Road (Inbound)<br/>ID: 811394</description>
+		<Point> 
+			<coordinates>
+			-70.06183,41.26196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Square Rigger Road (Outbound)<br/>ID: 811249</description>
+		<Point> 
+			<coordinates>
+			-70.06167,41.26193,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Starbuck Road (Inbound)<br/>ID: 811382</description>
+		<Point> 
+			<coordinates>
+			-70.19389,41.27436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Starbuck Road (Outbound)<br/>ID: 811304</description>
+		<Point> 
+			<coordinates>
+			-70.19394,41.27442,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Steamship Authority Stop<br/>ID: 811360</description>
+		<Point> 
+			<coordinates>
+			-70.09678,41.28573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sun Island Road (Inbound)<br/>ID: 811396</description>
+		<Point> 
+			<coordinates>
+			-70.06058,41.26537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sun Island Road (Outbound)<br/>ID: 811251</description>
+		<Point> 
+			<coordinates>
+			-70.06044,41.26534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Surfside Beach<br/>ID: 811221</description>
+		<Point> 
+			<coordinates>
+			-70.09484,41.24403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Surfside Drive<br/>ID: 811313</description>
+		<Point> 
+			<coordinates>
+			-70.09953,41.26288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Surfside Drive / Hooper Farm Road<br/>ID: 811267</description>
+		<Point> 
+			<coordinates>
+			-70.09669,41.26388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Surfside Road / Surfside Drive<br/>ID: 811266</description>
+		<Point> 
+			<coordinates>
+			-70.09951,41.26255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tawpoot Road<br/>ID: 798650</description>
+		<Point> 
+			<coordinates>
+			-70.070735,41.270818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tawpoot Road<br/>ID: 811222</description>
+		<Point> 
+			<coordinates>
+			-70.07085,41.27074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tetawkimmo Drive (Inbound)<br/>ID: 811399</description>
+		<Point> 
+			<coordinates>
+			-70.05715,41.26893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tetawkimmo Drive (Outbound)<br/>ID: 811225</description>
+		<Point> 
+			<coordinates>
+			-70.0572,41.26876,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Boulevarde<br/>ID: 811356</description>
+		<Point> 
+			<coordinates>
+			-70.09358,41.2561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Muse<br/>ID: 811264</description>
+		<Point> 
+			<coordinates>
+			-70.10033,41.26712,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Muse – Covered Shelter Park and Ride Lot<br/>ID: 831947</description>
+		<Point> 
+			<coordinates>
+			-70.100076,41.267343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: The Old Mill<br/>ID: 811328</description>
+		<Point> 
+			<coordinates>
+			-70.10177,41.27718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thirty Acres<br/>ID: 811314</description>
+		<Point> 
+			<coordinates>
+			-70.10246,41.26792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tom Nevers Road (Covered Shelter) (Inbound)<br/>ID: 811402</description>
+		<Point> 
+			<coordinates>
+			-70.01145,41.26232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tom Nevers Road (Covered Shelter) (Outbound)<br/>ID: 811228</description>
+		<Point> 
+			<coordinates>
+			-70.01146,41.26223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Trotters Lane<br/>ID: 811254</description>
+		<Point> 
+			<coordinates>
+			-70.09398,41.26778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Trotters Lane<br/>ID: 811270</description>
+		<Point> 
+			<coordinates>
+			-70.09097,41.26557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UMass Field Station<br/>ID: 798655</description>
+		<Point> 
+			<coordinates>
+			-70.03904,41.290466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UMass Field Station<br/>ID: 811338</description>
+		<Point> 
+			<coordinates>
+			-70.03905,41.29038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Union Street / Orange Street (Outbound)<br/>ID: 811307</description>
+		<Point> 
+			<coordinates>
+			-70.09458,41.27633,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Warren's Landing Road (Inbound)<br/>ID: 811378</description>
+		<Point> 
+			<coordinates>
+			-70.1748,41.28359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Warren's Landing Road (Outbound)<br/>ID: 811299</description>
+		<Point> 
+			<coordinates>
+			-70.17489,41.28371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Street<br/>ID: 811218</description>
+		<Point> 
+			<coordinates>
+			-70.09756,41.28315,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wauwinet Road<br/>ID: 798659</description>
+		<Point> 
+			<coordinates>
+			-70.009136,41.299538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wauwinet Road<br/>ID: 811343</description>
+		<Point> 
+			<coordinates>
+			-70.00886,41.29948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Waydale Road<br/>ID: 811271</description>
+		<Point> 
+			<coordinates>
+			-70.09311,41.26885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Chester Street / Centre Street (Inbound)<br/>ID: 811283</description>
+		<Point> 
+			<coordinates>
+			-70.10271,41.28723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Chester Street / New Lane (Inbound)<br/>ID: 811368</description>
+		<Point> 
+			<coordinates>
+			-70.10866,41.2867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Chester Street / New Lane (Outbound)<br/>ID: 811287</description>
+		<Point> 
+			<coordinates>
+			-70.10879,41.28671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Dover Street / Orange Street<br/>ID: 811278</description>
+		<Point> 
+			<coordinates>
+			-70.0963,41.27832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Sankaty Road / Coffin Street (Outbound)<br/>ID: 811354</description>
+		<Point> 
+			<coordinates>
+			-69.96695,41.26555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Sankaty Road / Main Street (Inbound)<br/>ID: 811216</description>
+		<Point> 
+			<coordinates>
+			-69.96829,41.26212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Sankaty Road / New Street<br/>ID: 798665</description>
+		<Point> 
+			<coordinates>
+			-69.967704,41.263371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Sankaty Road / New Street<br/>ID: 811355</description>
+		<Point> 
+			<coordinates>
+			-69.96781,41.26336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West York Lane at 5 Corners<br/>ID: 811329</description>
+		<Point> 
+			<coordinates>
+			-70.09865,41.27716,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodbury Lane / Meadow Lane (Inbound)<br/>ID: 811370</description>
+		<Point> 
+			<coordinates>
+			-70.10957,41.28341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodbury Lane / Meadow Lane (Outbound)<br/>ID: 811289</description>
+		<Point> 
+			<coordinates>
+			-70.10965,41.28341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York Street / Orange Street<br/>ID: 811259</description>
+		<Point> 
+			<coordinates>
+			-70.09582,41.27813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York Street / Pleasant Street<br/>ID: 811260</description>
+		<Point> 
+			<coordinates>
+			-70.09852,41.27734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Youngs Way (Inbound)<br/>ID: 811388</description>
+		<Point> 
+			<coordinates>
+			-70.08268,41.26698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Youngs Way (Outbound)<br/>ID: 811235</description>
+		<Point> 
+			<coordinates>
+			-70.08274,41.2669,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

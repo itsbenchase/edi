@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ct-mat stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4 Corners<br/>ID: 2750847</description>
+		<Point> 
+			<coordinates>
+			-72.701592,41.563717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 400 Saybrook Rd<br/>ID: 3447080</description>
+		<Point> 
+			<coordinates>
+			-72.627454,41.544285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adams Market<br/>ID: 3447145</description>
+		<Point> 
+			<coordinates>
+			-72.627621,41.568693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Athenian Diner<br/>ID: 3447088</description>
+		<Point> 
+			<coordinates>
+			-72.680753,41.554526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ballfall &amp; Lorraine<br/>ID: 3447175</description>
+		<Point> 
+			<coordinates>
+			-72.701051,41.550029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bartlett &amp; High<br/>ID: 3447140</description>
+		<Point> 
+			<coordinates>
+			-72.620149,41.589893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Best Cleaners<br/>ID: 3451762</description>
+		<Point> 
+			<coordinates>
+			-72.675333,41.588659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bestway Inn<br/>ID: 3451782</description>
+		<Point> 
+			<coordinates>
+			-72.698093,41.54834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Lots<br/>ID: 2750844</description>
+		<Point> 
+			<coordinates>
+			-72.681332,41.55601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Blue &amp; Wesleyan Hills<br/>ID: 2750799</description>
+		<Point> 
+			<coordinates>
+			-72.666782,41.524206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Butternut &amp; Thomas<br/>ID: 3447162</description>
+		<Point> 
+			<coordinates>
+			-72.668053,41.551136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Butternut &amp; West<br/>ID: 3447164</description>
+		<Point> 
+			<coordinates>
+			-72.6718,41.550173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CVH / Silver St<br/>ID: 2750866</description>
+		<Point> 
+			<coordinates>
+			-72.628696,41.554193,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CVS<br/>ID: 3451788</description>
+		<Point> 
+			<coordinates>
+			-72.674732,41.554674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Caffery’s Plaza<br/>ID: 3451760</description>
+		<Point> 
+			<coordinates>
+			-72.671938,41.574217,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Camp &amp; Broad<br/>ID: 3447091</description>
+		<Point> 
+			<coordinates>
+			-72.786607,41.541927,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Camp &amp; Washington<br/>ID: 3447171</description>
+		<Point> 
+			<coordinates>
+			-72.686172,41.553895,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Camp &amp; Westfield<br/>ID: 3447172</description>
+		<Point> 
+			<coordinates>
+			-72.687725,41.56346,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Charton Terrace<br/>ID: 3447047</description>
+		<Point> 
+			<coordinates>
+			-72.668179,41.562538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Church Street / Broad Street<br/>ID: 2750794</description>
+		<Point> 
+			<coordinates>
+			-72.649304,41.556201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clark Hill Rd / North Main St<br/>ID: 2750824</description>
+		<Point> 
+			<coordinates>
+			-72.511921,41.595958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Community Health Center<br/>ID: 3449144</description>
+		<Point> 
+			<coordinates>
+			-72.652639,41.565098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Congdon &amp; East<br/>ID: 3447174</description>
+		<Point> 
+			<coordinates>
+			-72.702316,41.569656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cross &amp; Long<br/>ID: 3447161</description>
+		<Point> 
+			<coordinates>
+			-72.664336,41.551096,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cross St Freeman Athletic Center<br/>ID: 3447160</description>
+		<Point> 
+			<coordinates>
+			-72.661805,41.551992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cubeta &amp; Daddario<br/>ID: 3449138</description>
+		<Point> 
+			<coordinates>
+			-72.667411,41.538245,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cubeta &amp; Kieft<br/>ID: 3447131</description>
+		<Point> 
+			<coordinates>
+			-72.667271,41.540017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DSS / DCF<br/>ID: 3447137</description>
+		<Point> 
+			<coordinates>
+			-72.675593,41.503437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Daddario Rd / Cubeta Rd<br/>ID: 2750817</description>
+		<Point> 
+			<coordinates>
+			-72.667566,41.538238,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dekoven &amp; Union<br/>ID: 3447087</description>
+		<Point> 
+			<coordinates>
+			-72.645413,41.557363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dekoven &amp; Union<br/>ID: 3448161</description>
+		<Point> 
+			<coordinates>
+			-72.644982,41.557403,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dekoven Dr &amp; MLK<br/>ID: 3449142</description>
+		<Point> 
+			<coordinates>
+			-72.645881,41.55847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Downtown Terminal<br/>ID: 2750874</description>
+		<Point> 
+			<coordinates>
+			-72.649125,41.561341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dunkin Donuts<br/>ID: 3447052</description>
+		<Point> 
+			<coordinates>
+			-72.676648,41.600045,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Main &amp; Hillside Av<br/>ID: 3447073</description>
+		<Point> 
+			<coordinates>
+			-72.638519,41.544638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Main &amp; Pratt<br/>ID: 3447098</description>
+		<Point> 
+			<coordinates>
+			-72.800428,41.537414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Hampton Public Library<br/>ID: 3447153</description>
+		<Point> 
+			<coordinates>
+			-72.501255,41.572887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Baer<br/>ID: 3448159</description>
+		<Point> 
+			<coordinates>
+			-72.639239,41.547656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Gravel<br/>ID: 3447094</description>
+		<Point> 
+			<coordinates>
+			-72.775333,41.528496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Jensen Pl<br/>ID: 3447074</description>
+		<Point> 
+			<coordinates>
+			-72.636202,41.542225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Maple<br/>ID: 3449137</description>
+		<Point> 
+			<coordinates>
+			-72.762458,41.525531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Pomeroy<br/>ID: 3447093</description>
+		<Point> 
+			<coordinates>
+			-72.766892,41.526154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Preston<br/>ID: 2750808</description>
+		<Point> 
+			<coordinates>
+			-72.75392,41.526052,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main &amp; Research Pkwy<br/>ID: 3447092</description>
+		<Point> 
+			<coordinates>
+			-72.760115,41.525652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Main St &amp; Silver St<br/>ID: 3447083</description>
+		<Point> 
+			<coordinates>
+			-72.641359,41.551337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East St &amp; Grandview<br/>ID: 3451770</description>
+		<Point> 
+			<coordinates>
+			-72.696972,41.595176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East St &amp; Town Colony<br/>ID: 3451772</description>
+		<Point> 
+			<coordinates>
+			-72.698896,41.591204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East St &amp; Westlake Dr<br/>ID: 2750810</description>
+		<Point> 
+			<coordinates>
+			-72.695219,41.598586,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East St &amp; York<br/>ID: 3451778</description>
+		<Point> 
+			<coordinates>
+			-72.701888,41.57515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farm Hill Elementary School<br/>ID: 2750862</description>
+		<Point> 
+			<coordinates>
+			-72.642364,41.538554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farm Hill Rd @ Plaza<br/>ID: 3447126</description>
+		<Point> 
+			<coordinates>
+			-72.650613,41.543042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: FedEx<br/>ID: 2750830</description>
+		<Point> 
+			<coordinates>
+			-72.720325,41.598559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Food Bag - Route 16<br/>ID: 2750821</description>
+		<Point> 
+			<coordinates>
+			-72.497629,41.567292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Food Bag - Route 66<br/>ID: 2750823</description>
+		<Point> 
+			<coordinates>
+			-72.502202,41.5838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: George &amp; Washington<br/>ID: 3447170</description>
+		<Point> 
+			<coordinates>
+			-72.687758,41.551893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ghezzi's<br/>ID: 3447051</description>
+		<Point> 
+			<coordinates>
+			-72.673994,41.585407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand &amp; Prospect<br/>ID: 3447045</description>
+		<Point> 
+			<coordinates>
+			-72.659872,41.562995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greystone Manor<br/>ID: 2750826</description>
+		<Point> 
+			<coordinates>
+			-72.628064,41.57561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hendley &amp; Butternut<br/>ID: 3447168</description>
+		<Point> 
+			<coordinates>
+			-72.676292,41.547158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High &amp; Church<br/>ID: 3447159</description>
+		<Point> 
+			<coordinates>
+			-72.654622,41.554159,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High &amp; Freestone<br/>ID: 3447143</description>
+		<Point> 
+			<coordinates>
+			-72.630998,41.570922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High &amp; Marlborough<br/>ID: 3447144</description>
+		<Point> 
+			<coordinates>
+			-72.631641,41.5698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High &amp; Spring St<br/>ID: 3447044</description>
+		<Point> 
+			<coordinates>
+			-72.65866,41.566498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High &amp; Stack St<br/>ID: 3447043</description>
+		<Point> 
+			<coordinates>
+			-72.658835,41.568105,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High &amp; William<br/>ID: 3447141</description>
+		<Point> 
+			<coordinates>
+			-72.623207,41.585742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: High / Grand Street<br/>ID: 2750841</description>
+		<Point> 
+			<coordinates>
+			-72.657329,41.563719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Drive Turnaround<br/>ID: 2750822</description>
+		<Point> 
+			<coordinates>
+			-72.487752,41.600839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Liberty &amp; Berlin<br/>ID: 3447046</description>
+		<Point> 
+			<coordinates>
+			-72.661496,41.56098,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Liberty &amp; Catlin<br/>ID: 3447097</description>
+		<Point> 
+			<coordinates>
+			-72.797691,41.53667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Liberty &amp; Center<br/>ID: 3447096</description>
+		<Point> 
+			<coordinates>
+			-72.793234,41.535906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Liberty &amp; Parker<br/>ID: 3447095</description>
+		<Point> 
+			<coordinates>
+			-72.789343,41.535125,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Blue<br/>ID: 2750858</description>
+		<Point> 
+			<coordinates>
+			-72.670815,41.516757,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Daniels<br/>ID: 3447134</description>
+		<Point> 
+			<coordinates>
+			-72.672258,41.528015,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Liberty Bank<br/>ID: 3447132</description>
+		<Point> 
+			<coordinates>
+			-72.668708,41.535257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Long Hill<br/>ID: 3447136</description>
+		<Point> 
+			<coordinates>
+			-72.670897,41.524035,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Long Ln<br/>ID: 3447129</description>
+		<Point> 
+			<coordinates>
+			-72.666133,41.536119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Randolph<br/>ID: 3447133</description>
+		<Point> 
+			<coordinates>
+			-72.670997,41.531132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Long Hill &amp; Yellow<br/>ID: 3447135</description>
+		<Point> 
+			<coordinates>
+			-72.672561,41.526308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Luther Ridge<br/>ID: 2750848</description>
+		<Point> 
+			<coordinates>
+			-72.693505,41.570255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Bartlett<br/>ID: 3447139</description>
+		<Point> 
+			<coordinates>
+			-72.623899,41.590563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; College<br/>ID: 3447118</description>
+		<Point> 
+			<coordinates>
+			-72.649302,41.559515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Ferry<br/>ID: 3447038</description>
+		<Point> 
+			<coordinates>
+			-72.65147,41.563572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Liberty<br/>ID: 3449145</description>
+		<Point> 
+			<coordinates>
+			-72.652171,41.564199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Marlborough<br/>ID: 3449143</description>
+		<Point> 
+			<coordinates>
+			-72.640243,41.573394,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Mill St<br/>ID: 3447069</description>
+		<Point> 
+			<coordinates>
+			-72.718502,41.608729,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Pleasant<br/>ID: 2750864</description>
+		<Point> 
+			<coordinates>
+			-72.647507,41.556766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; Rapallo<br/>ID: 3447039</description>
+		<Point> 
+			<coordinates>
+			-72.652241,41.565044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main &amp; William Street<br/>ID: 2750813</description>
+		<Point> 
+			<coordinates>
+			-72.648375,41.558113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St Ext &amp; W Silver St<br/>ID: 3451632</description>
+		<Point> 
+			<coordinates>
+			-72.64331,41.55121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St Ext / East Main St<br/>ID: 2750867</description>
+		<Point> 
+			<coordinates>
+			-72.639584,41.549131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St Extension &amp; Cooley Ave<br/>ID: 3447071</description>
+		<Point> 
+			<coordinates>
+			-72.643985,41.552307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St Extension &amp; Mill St<br/>ID: 3447072</description>
+		<Point> 
+			<coordinates>
+			-72.640026,41.54864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street<br/>ID: 3447158</description>
+		<Point> 
+			<coordinates>
+			-72.641573,41.572074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main Street Market<br/>ID: 3447037</description>
+		<Point> 
+			<coordinates>
+			-72.650228,41.561482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple &amp; East Main<br/>ID: 3447086</description>
+		<Point> 
+			<coordinates>
+			-72.64299,41.554343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maple St &amp; Maple Pl<br/>ID: 3451753</description>
+		<Point> 
+			<coordinates>
+			-72.641037,41.554583,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marino Manner<br/>ID: 2750860</description>
+		<Point> 
+			<coordinates>
+			-72.661995,41.531782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marlborough Street Burger King<br/>ID: 2750819</description>
+		<Point> 
+			<coordinates>
+			-72.639295,41.572763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: McDonald’s<br/>ID: 3447053</description>
+		<Point> 
+			<coordinates>
+			-72.676252,41.601419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Meriden Railroad Station<br/>ID: 2750806</description>
+		<Point> 
+			<coordinates>
+			-72.799841,41.53963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Metro Square<br/>ID: 2750853</description>
+		<Point> 
+			<coordinates>
+			-72.646479,41.558774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middle &amp; Timber Ridge Rd<br/>ID: 3447068</description>
+		<Point> 
+			<coordinates>
+			-72.721083,41.590544,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middle St &amp; Bysiewicz Dr<br/>ID: 3451793</description>
+		<Point> 
+			<coordinates>
+			-72.720367,41.585901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middle St &amp; Winsupply<br/>ID: 3451796</description>
+		<Point> 
+			<coordinates>
+			-72.72073,41.588689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlefield &amp; George<br/>ID: 3447169</description>
+		<Point> 
+			<coordinates>
+			-72.686862,41.543161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Community College<br/>ID: 2750870</description>
+		<Point> 
+			<coordinates>
+			-72.611993,41.539894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Health Care Center<br/>ID: 3451743</description>
+		<Point> 
+			<coordinates>
+			-72.616591,41.534856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middlesex Hospital<br/>ID: 2750873</description>
+		<Point> 
+			<coordinates>
+			-72.646659,41.556016,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown &amp; Aldens Crossing<br/>ID: 3447155</description>
+		<Point> 
+			<coordinates>
+			-72.529137,41.564308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown &amp; Hog Hill<br/>ID: 3447156</description>
+		<Point> 
+			<coordinates>
+			-72.538221,41.564058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown &amp; Skinner<br/>ID: 3447154</description>
+		<Point> 
+			<coordinates>
+			-72.508462,41.564681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown High Bus Stop Inbound<br/>ID: 2750835</description>
+		<Point> 
+			<coordinates>
+			-72.672503,41.577881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown High Bus Stop Outbound<br/>ID: 2750839</description>
+		<Point> 
+			<coordinates>
+			-72.672309,41.577897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mill &amp; State<br/>ID: 3447099</description>
+		<Point> 
+			<coordinates>
+			-72.798307,41.540753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millbrook &amp; Sand Hill Rd<br/>ID: 3451737</description>
+		<Point> 
+			<coordinates>
+			-72.634794,41.539065,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Millbrook Rd &amp; Randolph Rd<br/>ID: 3447075</description>
+		<Point> 
+			<coordinates>
+			-72.63385,41.533675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main &amp; Free CTR<br/>ID: 3447040</description>
+		<Point> 
+			<coordinates>
+			-72.653986,41.568251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main &amp; High St<br/>ID: 3447042</description>
+		<Point> 
+			<coordinates>
+			-72.658636,41.571341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main &amp; Pease Ave<br/>ID: 3447041</description>
+		<Point> 
+			<coordinates>
+			-72.656061,41.569862,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N Main &amp; Stop and Shop<br/>ID: 3447150</description>
+		<Point> 
+			<coordinates>
+			-72.506569,41.583386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield &amp; Condon St<br/>ID: 3447049</description>
+		<Point> 
+			<coordinates>
+			-72.671533,41.57171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield &amp; Mile Lane<br/>ID: 3447050</description>
+		<Point> 
+			<coordinates>
+			-72.673186,41.583267,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield &amp; Mile ln Inbound<br/>ID: 3447055</description>
+		<Point> 
+			<coordinates>
+			-72.673411,41.583566,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield &amp; Stonycrest Dr Inbound<br/>ID: 3447056</description>
+		<Point> 
+			<coordinates>
+			-72.671248,41.569127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield &amp; Tuttle Outbound<br/>ID: 2750838</description>
+		<Point> 
+			<coordinates>
+			-72.676119,41.59278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield &amp; Tuttle Rd<br/>ID: 3447054</description>
+		<Point> 
+			<coordinates>
+			-72.676789,41.594801,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield / Washington Streets<br/>ID: 2750834</description>
+		<Point> 
+			<coordinates>
+			-72.660758,41.558961,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield Towers<br/>ID: 2750840</description>
+		<Point> 
+			<coordinates>
+			-72.670318,41.565936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newfield Towers Inbound<br/>ID: 3447057</description>
+		<Point> 
+			<coordinates>
+			-72.670533,41.565872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Main Street<br/>ID: 2750842</description>
+		<Point> 
+			<coordinates>
+			-72.653437,41.566897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pearl St / Liberty St<br/>ID: 2750807</description>
+		<Point> 
+			<coordinates>
+			-72.782733,41.533931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pearl Street<br/>ID: 2750843</description>
+		<Point> 
+			<coordinates>
+			-72.654422,41.561051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine &amp; Long Hill<br/>ID: 3447130</description>
+		<Point> 
+			<coordinates>
+			-72.662314,41.537303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine St / Randolph Rd<br/>ID: 2750798</description>
+		<Point> 
+			<coordinates>
+			-72.66827,41.525433,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine Street &amp; Randolph Road<br/>ID: 3460539</description>
+		<Point> 
+			<coordinates>
+			-72.663243,41.531838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pondview Apartments<br/>ID: 3447163</description>
+		<Point> 
+			<coordinates>
+			-72.670648,41.550331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portland Convalescent<br/>ID: 2750827</description>
+		<Point> 
+			<coordinates>
+			-72.636213,41.578596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portland High School<br/>ID: 3447142</description>
+		<Point> 
+			<coordinates>
+			-72.625521,41.580578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Portland-Cobalt &amp; Gospel<br/>ID: 3447157</description>
+		<Point> 
+			<coordinates>
+			-72.606842,41.575819,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pratt &amp; Center<br/>ID: 3447090</description>
+		<Point> 
+			<coordinates>
+			-72.793886,41.54024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pratt &amp; Miller<br/>ID: 3447089</description>
+		<Point> 
+			<coordinates>
+			-72.798346,41.538474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Price Chopper<br/>ID: 2750845</description>
+		<Point> 
+			<coordinates>
+			-72.680736,41.553207,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Price Rite<br/>ID: 2750828</description>
+		<Point> 
+			<coordinates>
+			-72.708962,41.607326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Randolph &amp; Highland<br/>ID: 2750800</description>
+		<Point> 
+			<coordinates>
+			-72.655131,41.531639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Randolph &amp; South Main<br/>ID: 3447128</description>
+		<Point> 
+			<coordinates>
+			-72.660688,41.531637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Randolph Rd &amp; E Ridge Rd<br/>ID: 3451977</description>
+		<Point> 
+			<coordinates>
+			-72.637549,41.533178,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Randolph Rd &amp; Farm Hill<br/>ID: 3451976</description>
+		<Point> 
+			<coordinates>
+			-72.648643,41.532922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridge Rd / Randolph Rd<br/>ID: 2750861</description>
+		<Point> 
+			<coordinates>
+			-72.642112,41.532794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ridgewood &amp; Congdon<br/>ID: 3447173</description>
+		<Point> 
+			<coordinates>
+			-72.691061,41.569054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 16 / Route 66 Inbound<br/>ID: 2750820</description>
+		<Point> 
+			<coordinates>
+			-72.540393,41.564032,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Route 16 / Route 66 Outbound<br/>ID: 2750825</description>
+		<Point> 
+			<coordinates>
+			-72.540186,41.564477,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 372 &amp; Willowbrook<br/>ID: 2750832</description>
+		<Point> 
+			<coordinates>
+			-72.685239,41.602326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell &amp; Ridge<br/>ID: 3447127</description>
+		<Point> 
+			<coordinates>
+			-72.642762,41.542347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell Library<br/>ID: 3449146</description>
+		<Point> 
+			<coordinates>
+			-72.652094,41.560169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell St / Huntinghill Ave<br/>ID: 2750863</description>
+		<Point> 
+			<coordinates>
+			-72.647583,41.541721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Main St &amp; Ace Hardware<br/>ID: 3451978</description>
+		<Point> 
+			<coordinates>
+			-72.652114,41.543149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sagamore Hills<br/>ID: 2750846</description>
+		<Point> 
+			<coordinates>
+			-72.691263,41.549805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Santangelo Circle<br/>ID: 2750859</description>
+		<Point> 
+			<coordinates>
+			-72.664532,41.541254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd &amp; Plaza Entrance<br/>ID: 3447082</description>
+		<Point> 
+			<coordinates>
+			-72.637177,41.547691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Rd / Reservoir Rd<br/>ID: 2750869</description>
+		<Point> 
+			<coordinates>
+			-72.619914,41.539173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saybrook Road Medical Centers<br/>ID: 2750868</description>
+		<Point> 
+			<coordinates>
+			-72.620727,41.541881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sbona Towers<br/>ID: 2750852</description>
+		<Point> 
+			<coordinates>
+			-72.649393,41.557656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shilo Manor<br/>ID: 2750850</description>
+		<Point> 
+			<coordinates>
+			-72.670436,41.549106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoprite<br/>ID: 2750837</description>
+		<Point> 
+			<coordinates>
+			-72.677974,41.605043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver &amp; Elm<br/>ID: 3448160</description>
+		<Point> 
+			<coordinates>
+			-72.640355,41.551698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver &amp; Silvermine<br/>ID: 3447085</description>
+		<Point> 
+			<coordinates>
+			-72.621433,41.557208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver &amp; Wall<br/>ID: 3447084</description>
+		<Point> 
+			<coordinates>
+			-72.638432,41.552099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver St &amp; Flood Dr<br/>ID: 3451636</description>
+		<Point> 
+			<coordinates>
+			-72.62808,41.554248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver St &amp; McKenzie St<br/>ID: 3451634</description>
+		<Point> 
+			<coordinates>
+			-72.636039,41.552609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silver St &amp; Mullaney Way<br/>ID: 3451635</description>
+		<Point> 
+			<coordinates>
+			-72.630417,41.553792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith &amp; Industrial Park Rd<br/>ID: 3447067</description>
+		<Point> 
+			<coordinates>
+			-72.716486,41.583884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith &amp; Middle St<br/>ID: 2750804</description>
+		<Point> 
+			<coordinates>
+			-72.720474,41.584332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Solano Inn<br/>ID: 3447146</description>
+		<Point> 
+			<coordinates>
+			-72.585172,41.561968,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Fire District Fire Station<br/>ID: 3447076</description>
+		<Point> 
+			<coordinates>
+			-72.630044,41.533554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Church<br/>ID: 3447119</description>
+		<Point> 
+			<coordinates>
+			-72.648706,41.555867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Crescent Outbound<br/>ID: 3447120</description>
+		<Point> 
+			<coordinates>
+			-72.648974,41.55479,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Crescent inbound<br/>ID: 3449141</description>
+		<Point> 
+			<coordinates>
+			-72.648785,41.554737,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Glynn<br/>ID: 3447122</description>
+		<Point> 
+			<coordinates>
+			-72.649753,41.551788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Highland<br/>ID: 3447138</description>
+		<Point> 
+			<coordinates>
+			-72.654859,41.536899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Highland<br/>ID: 3449139</description>
+		<Point> 
+			<coordinates>
+			-72.655072,41.536873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Loveland<br/>ID: 3447121</description>
+		<Point> 
+			<coordinates>
+			-72.649425,41.552988,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; McDonald’s<br/>ID: 3447125</description>
+		<Point> 
+			<coordinates>
+			-72.653263,41.540218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Pameacha<br/>ID: 3447124</description>
+		<Point> 
+			<coordinates>
+			-72.65096,41.547478,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Ward<br/>ID: 3449140</description>
+		<Point> 
+			<coordinates>
+			-72.653307,41.539739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main &amp; Warwick<br/>ID: 3447123</description>
+		<Point> 
+			<coordinates>
+			-72.650128,41.550202,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Main St Plaza<br/>ID: 2750818</description>
+		<Point> 
+			<coordinates>
+			-72.64957,41.544753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Standpipe Rd &amp; Bow Ln<br/>ID: 3447081</description>
+		<Point> 
+			<coordinates>
+			-72.629839,41.547523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stonegate Apartments<br/>ID: 2750856</description>
+		<Point> 
+			<coordinates>
+			-72.662861,41.527593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stonycrest Towers<br/>ID: 3447048</description>
+		<Point> 
+			<coordinates>
+			-72.670973,41.568675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - Cromwell<br/>ID: 2750836</description>
+		<Point> 
+			<coordinates>
+			-72.678671,41.602411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stop &amp; Shop - Middletown<br/>ID: 2750872</description>
+		<Point> 
+			<coordinates>
+			-72.637491,41.546088,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Summer Hill Apartments Stop 1<br/>ID: 2750871</description>
+		<Point> 
+			<coordinates>
+			-72.611464,41.528943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Summerhill Apartments Stop 2<br/>ID: 3447078</description>
+		<Point> 
+			<coordinates>
+			-72.613006,41.530177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Summit &amp; Flanders<br/>ID: 3447151</description>
+		<Point> 
+			<coordinates>
+			-72.497347,41.579953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Summit &amp; Main<br/>ID: 3447152</description>
+		<Point> 
+			<coordinates>
+			-72.502306,41.575896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tradewinds Plaza<br/>ID: 3447079</description>
+		<Point> 
+			<coordinates>
+			-72.616338,41.537174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: U-Haul<br/>ID: 3451764</description>
+		<Point> 
+			<coordinates>
+			-72.675779,41.591201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W High &amp; Childs<br/>ID: 3447149</description>
+		<Point> 
+			<coordinates>
+			-72.525537,41.571043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W High &amp; Maple<br/>ID: 3447148</description>
+		<Point> 
+			<coordinates>
+			-72.511189,41.579346,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W High Cobalt Center<br/>ID: 3447147</description>
+		<Point> 
+			<coordinates>
+			-72.55583,41.562386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wadsworth &amp; Shaefer<br/>ID: 3447167</description>
+		<Point> 
+			<coordinates>
+			-72.671286,41.542639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wadsworth St / Henley St<br/>ID: 2750797</description>
+		<Point> 
+			<coordinates>
+			-72.675266,41.541364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walmart<br/>ID: 2750829</description>
+		<Point> 
+			<coordinates>
+			-72.712501,41.605887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Walnut St / Maple St<br/>ID: 2750865</description>
+		<Point> 
+			<coordinates>
+			-72.638395,41.554332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; Broad<br/>ID: 3447059</description>
+		<Point> 
+			<coordinates>
+			-72.653255,41.561446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; High St<br/>ID: 2750814</description>
+		<Point> 
+			<coordinates>
+			-72.656096,41.560503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; Veterans Way<br/>ID: 3447058</description>
+		<Point> 
+			<coordinates>
+			-72.658126,41.559831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; Vine<br/>ID: 3448158</description>
+		<Point> 
+			<coordinates>
+			-72.661216,41.558558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington &amp; West<br/>ID: 3447176</description>
+		<Point> 
+			<coordinates>
+			-72.673131,41.554882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Street &amp; Rourke Dr<br/>ID: 3447177</description>
+		<Point> 
+			<coordinates>
+			-72.668761,41.556133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington Street (Washington Plaza)<br/>ID: 2750802</description>
+		<Point> 
+			<coordinates>
+			-72.680727,41.554351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wesleyan University<br/>ID: 2750851</description>
+		<Point> 
+			<coordinates>
+			-72.658319,41.553702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wesleyan University<br/>ID: 3449147</description>
+		<Point> 
+			<coordinates>
+			-72.657459,41.553731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West &amp; Aresco<br/>ID: 3447165</description>
+		<Point> 
+			<coordinates>
+			-72.671453,41.547783,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West &amp; Rogers<br/>ID: 3447166</description>
+		<Point> 
+			<coordinates>
+			-72.6707,41.544466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West &amp; Wadsworth<br/>ID: 2750849</description>
+		<Point> 
+			<coordinates>
+			-72.670327,41.542823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St &amp; Cromwell Hills Dr<br/>ID: 3447070</description>
+		<Point> 
+			<coordinates>
+			-72.680302,41.602713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westfield Fire Department<br/>ID: 3451775</description>
+		<Point> 
+			<coordinates>
+			-72.702044,41.581771,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westfield Shopping Town (Meriden Mall)<br/>ID: 2750805</description>
+		<Point> 
+			<coordinates>
+			-72.809799,41.55074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Dr &amp; East St<br/>ID: 2750831</description>
+		<Point> 
+			<coordinates>
+			-72.695158,41.599089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Dr &amp; Trolley Crossing<br/>ID: 2750811</description>
+		<Point> 
+			<coordinates>
+			-72.697707,41.598307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Carriage Crossing Ln<br/>ID: 3447065</description>
+		<Point> 
+			<coordinates>
+			-72.70895,41.586739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Highlands Cr<br/>ID: 3447064</description>
+		<Point> 
+			<coordinates>
+			-72.70832,41.587921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Northwoods Ln<br/>ID: 3447062</description>
+		<Point> 
+			<coordinates>
+			-72.703786,41.593762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Rising Trail Dr<br/>ID: 3447061</description>
+		<Point> 
+			<coordinates>
+			-72.703713,41.594709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Russett Ln<br/>ID: 3447060</description>
+		<Point> 
+			<coordinates>
+			-72.701308,41.597042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Smith St<br/>ID: 3447066</description>
+		<Point> 
+			<coordinates>
+			-72.709541,41.58428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Westlake Drive &amp; Town Ridge<br/>ID: 3447063</description>
+		<Point> 
+			<coordinates>
+			-72.707665,41.589396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: William &amp; Broad<br/>ID: 3449148</description>
+		<Point> 
+			<coordinates>
+			-72.650327,41.557183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: William &amp; Hamlin<br/>ID: 2750795</description>
+		<Point> 
+			<coordinates>
+			-72.652093,41.556637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: William &amp; High (Wesleyan University)<br/>ID: 2750809</description>
+		<Point> 
+			<coordinates>
+			-72.654489,41.555722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Xavier High School<br/>ID: 3447077</description>
+		<Point> 
+			<coordinates>
+			-72.621043,41.533922,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

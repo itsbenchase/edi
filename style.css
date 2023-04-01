@@ -1,0 +1,92 @@
+html
+{
+    background-color: #d9ffde;
+}
+
+@font-face {
+    font-family: sourcesans;
+    src: url("font.ttf");
+}
+
+h1
+{
+    font-family: sourcesans;
+    font-size: 40pt;
+    color: #1aab2d;
+}
+
+h3
+{
+    font-family: sourcesans;
+    font-size: 20pt;
+    color: #1aab2d;
+}
+
+p
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+
+table
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+
+th, td 
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:link
+{
+    color: #3ac74d;
+}
+
+a:visited
+{
+    color: #3ac74d;
+}
+
+a:hover
+{
+    color: #1aab2d;
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #bcf5c4;
+}
+  
+li 
+{
+    float: left;
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+
+.bullet
+{
+    float: none;
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+  
+li a 
+{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active
+{
+    background-color: #ace8b4;
+}
