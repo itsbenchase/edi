@@ -38,13 +38,13 @@ class Main
       ben.main(args);
     }
 
-    else if (choice.equalsIgnoreCase("add")) // add stop to database
+    else if (choice.equalsIgnoreCase("update")) // updates database
     {
       update up = new update();
       up.main(args);
     }
 
-    else if (choice.equalsIgnoreCase("add")) // the updating the database file
+    else if (choice.equalsIgnoreCase("add")) // adds stop to database
     {
       addStop add = new addStop();
       add.main(args);
