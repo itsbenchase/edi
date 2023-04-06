@@ -11226,6 +11226,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Foster Center Baptist Church<br/>ID: 73600</description>
+		<Point> 
+			<coordinates>
+			-71.720634,41.784987,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Fountain before Union<br/>ID: 16300</description>
 		<Point> 
 			<coordinates>
@@ -26449,6 +26458,15 @@
 		<Point> 
 			<coordinates>
 			-71.488221,41.778829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scituate Senior Center<br/>ID: 15675</description>
+		<Point> 
+			<coordinates>
+			-71.665029,41.818148,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
