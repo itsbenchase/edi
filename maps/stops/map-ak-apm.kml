@@ -1,0 +1,6116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ak-apm stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Barrow WNW<br/>ID: 1356</description>
+		<Point> 
+			<coordinates>
+			-149.881998,61.219606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Concrete ENE<br/>ID: 1349</description>
+		<Point> 
+			<coordinates>
+			-149.850305,61.219421,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Concrete ESE<br/>ID: 1261</description>
+		<Point> 
+			<coordinates>
+			-149.849235,61.219253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Cordova ENE<br/>ID: 1355</description>
+		<Point> 
+			<coordinates>
+			-149.87897,61.219599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Eagle WNW<br/>ID: 1354</description>
+		<Point> 
+			<coordinates>
+			-149.875516,61.219603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Gambell WNW<br/>ID: 1353</description>
+		<Point> 
+			<coordinates>
+			-149.871593,61.219607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Orca WNW<br/>ID: 1350</description>
+		<Point> 
+			<coordinates>
+			-149.854687,61.219509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Post Road ESE<br/>ID: 1259</description>
+		<Point> 
+			<coordinates>
+			-149.8571,61.21941,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Post Road WNW<br/>ID: 1351</description>
+		<Point> 
+			<coordinates>
+			-149.860537,61.21961,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Reeve WNW<br/>ID: 3018</description>
+		<Point> 
+			<coordinates>
+			-149.837466,61.219629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Reeve WSW<br/>ID: 1263</description>
+		<Point> 
+			<coordinates>
+			-149.837213,61.219395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Sitka ESE<br/>ID: 3688</description>
+		<Point> 
+			<coordinates>
+			-149.844865,61.219451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Sitka WNW<br/>ID: 3689</description>
+		<Point> 
+			<coordinates>
+			-149.846228,61.219565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Unga ESE<br/>ID: 1262</description>
+		<Point> 
+			<coordinates>
+			-149.841129,61.219419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd Avenue &amp; Unga WNW<br/>ID: 1348</description>
+		<Point> 
+			<coordinates>
+			-149.842171,61.219596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Barrow ESE<br/>ID: 1254</description>
+		<Point> 
+			<coordinates>
+			-149.880674,61.2185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Boniface ENE<br/>ID: 7027</description>
+		<Point> 
+			<coordinates>
+			-149.77786,61.21873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Boniface ESE<br/>ID: 7024</description>
+		<Point> 
+			<coordinates>
+			-149.777734,61.218637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Denali ESE<br/>ID: 8005</description>
+		<Point> 
+			<coordinates>
+			-149.876763,61.218452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Hyder WSW<br/>ID: 1257</description>
+		<Point> 
+			<coordinates>
+			-149.869659,61.218462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Karluk ESE<br/>ID: 1258</description>
+		<Point> 
+			<coordinates>
+			-149.862052,61.218518,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Pine WNW<br/>ID: 820</description>
+		<Point> 
+			<coordinates>
+			-149.794372,61.218807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Pine WSW<br/>ID: 755</description>
+		<Point> 
+			<coordinates>
+			-149.794305,61.218696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Shaw WNW<br/>ID: 821</description>
+		<Point> 
+			<coordinates>
+			-149.798769,61.218807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th Avenue &amp; Shaw WSW<br/>ID: 754</description>
+		<Point> 
+			<coordinates>
+			-149.798962,61.218677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; Airport Hgts ESE<br/>ID: 1747</description>
+		<Point> 
+			<coordinates>
+			-149.824028,61.217399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; Airport Hgts WNW<br/>ID: 829</description>
+		<Point> 
+			<coordinates>
+			-149.827712,61.21778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; B Street WNW<br/>ID: 1166</description>
+		<Point> 
+			<coordinates>
+			-149.886447,61.217663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; Barrow WNW<br/>ID: 839</description>
+		<Point> 
+			<coordinates>
+			-149.882007,61.217672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; F Street WNW<br/>ID: 3507</description>
+		<Point> 
+			<coordinates>
+			-149.893845,61.217603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; Gambell WNW<br/>ID: 836</description>
+		<Point> 
+			<coordinates>
+			-149.871757,61.217631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th Avenue &amp; H Street WNW<br/>ID: 1359</description>
+		<Point> 
+			<coordinates>
+			-149.89859,61.217639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; C Street ESE<br/>ID: 2</description>
+		<Point> 
+			<coordinates>
+			-149.886091,61.216517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Cordova WSW<br/>ID: 734</description>
+		<Point> 
+			<coordinates>
+			-149.879999,61.216544,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Creekside WNW<br/>ID: 797</description>
+		<Point> 
+			<coordinates>
+			-149.741704,61.217036,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Creekside WSW<br/>ID: 778</description>
+		<Point> 
+			<coordinates>
+			-149.741557,61.216917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Edward ENE<br/>ID: 7026</description>
+		<Point> 
+			<coordinates>
+			-149.762945,61.216571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Edward ESE<br/>ID: 7025</description>
+		<Point> 
+			<coordinates>
+			-149.762383,61.216474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Idaho ESE<br/>ID: 779</description>
+		<Point> 
+			<coordinates>
+			-149.736835,61.216885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Idaho WNW<br/>ID: 796</description>
+		<Point> 
+			<coordinates>
+			-149.737624,61.216997,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Ingra WSW<br/>ID: 736</description>
+		<Point> 
+			<coordinates>
+			-149.868038,61.216484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; K Street ESE<br/>ID: 1361</description>
+		<Point> 
+			<coordinates>
+			-149.900784,61.216499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Muldoon WNW<br/>ID: 795</description>
+		<Point> 
+			<coordinates>
+			-149.734302,61.217027,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Muldoon WSW<br/>ID: 780</description>
+		<Point> 
+			<coordinates>
+			-149.734397,61.216866,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Newell ENE<br/>ID: 7028</description>
+		<Point> 
+			<coordinates>
+			-149.770499,61.21697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th Avenue &amp; Newell ESE<br/>ID: 7029</description>
+		<Point> 
+			<coordinates>
+			-149.77067,61.216889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th Avenue &amp; Bragaw ESE<br/>ID: 748</description>
+		<Point> 
+			<coordinates>
+			-149.807364,61.21587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th Avenue &amp; Klevin WNW<br/>ID: 824</description>
+		<Point> 
+			<coordinates>
+			-149.805231,61.215987,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7th Avenue &amp; Klevin WSW<br/>ID: 749</description>
+		<Point> 
+			<coordinates>
+			-149.805239,61.215888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; B Street WNW<br/>ID: 3553</description>
+		<Point> 
+			<coordinates>
+			-149.88613,61.213706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; Barrow ENE<br/>ID: 3552</description>
+		<Point> 
+			<coordinates>
+			-149.88098,61.213675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; C Street WNW<br/>ID: 652</description>
+		<Point> 
+			<coordinates>
+			-149.888519,61.213673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; F Street WNW<br/>ID: 3527</description>
+		<Point> 
+			<coordinates>
+			-149.89441,61.213681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; H Street WNW<br/>ID: 3526</description>
+		<Point> 
+			<coordinates>
+			-149.898559,61.213708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; Ingra ESE<br/>ID: 423</description>
+		<Point> 
+			<coordinates>
+			-149.86528,61.213554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; Ingra WNW<br/>ID: 532</description>
+		<Point> 
+			<coordinates>
+			-149.867725,61.213713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; Karluk ENE<br/>ID: 531</description>
+		<Point> 
+			<coordinates>
+			-149.861643,61.21369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; Karluk ESE<br/>ID: 424</description>
+		<Point> 
+			<coordinates>
+			-149.861596,61.213577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th Avenue &amp; L Street ENE<br/>ID: 3525</description>
+		<Point> 
+			<coordinates>
+			-149.902235,61.213718,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 13th Avenue &amp; Eagle ESE<br/>ID: 552</description>
+		<Point> 
+			<coordinates>
+			-149.87439,61.209609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 13th Avenue &amp; Eagle WNW<br/>ID: 635</description>
+		<Point> 
+			<coordinates>
+			-149.875838,61.209743,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 13th Avenue &amp; Gambell ENE<br/>ID: 634</description>
+		<Point> 
+			<coordinates>
+			-149.870023,61.209752,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 13th Avenue &amp; Gambell ESE<br/>ID: 553</description>
+		<Point> 
+			<coordinates>
+			-149.870241,61.209604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Eagle ESE<br/>ID: 3556</description>
+		<Point> 
+			<coordinates>
+			-149.874437,61.207656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Eagle WNW<br/>ID: 3555</description>
+		<Point> 
+			<coordinates>
+			-149.876486,61.207746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Gambell ENE<br/>ID: 3554</description>
+		<Point> 
+			<coordinates>
+			-149.870506,61.207779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Gambell ESE<br/>ID: 554</description>
+		<Point> 
+			<coordinates>
+			-149.869659,61.207584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Ingra ENE<br/>ID: 632</description>
+		<Point> 
+			<coordinates>
+			-149.865041,61.20781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Ingra ESE<br/>ID: 555</description>
+		<Point> 
+			<coordinates>
+			-149.865505,61.207622,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Karluk ESE<br/>ID: 556</description>
+		<Point> 
+			<coordinates>
+			-149.862211,61.207569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Lake Otis WNW<br/>ID: 519</description>
+		<Point> 
+			<coordinates>
+			-149.839461,61.207835,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Medfra ESE<br/>ID: 434</description>
+		<Point> 
+			<coordinates>
+			-149.858184,61.207573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Medfra WNW<br/>ID: 630</description>
+		<Point> 
+			<coordinates>
+			-149.859414,61.207809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Nelchina ENE<br/>ID: 629</description>
+		<Point> 
+			<coordinates>
+			-149.856391,61.207808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Orca ESE<br/>ID: 558</description>
+		<Point> 
+			<coordinates>
+			-149.854072,61.207587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Sitka ESE<br/>ID: 559</description>
+		<Point> 
+			<coordinates>
+			-149.844497,61.207631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th Avenue &amp; Sitka WNW<br/>ID: 628</description>
+		<Point> 
+			<coordinates>
+			-149.846484,61.207798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 17th Avenue &amp; E Street WNW<br/>ID: 656</description>
+		<Point> 
+			<coordinates>
+			-149.893359,61.205314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 17th Avenue &amp; E Street WSW<br/>ID: 245</description>
+		<Point> 
+			<coordinates>
+			-149.892709,61.205181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 19th Avenue &amp; Chugach Manor<br/>ID: 2195</description>
+		<Point> 
+			<coordinates>
+			-149.858078,61.203458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; A Street ESE<br/>ID: 15</description>
+		<Point> 
+			<coordinates>
+			-149.8818,61.188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; A Street WNW<br/>ID: 1117</description>
+		<Point> 
+			<coordinates>
+			-149.883999,61.188099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Arctic ESE<br/>ID: 1208</description>
+		<Point> 
+			<coordinates>
+			-149.895899,61.188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Arctic WNW<br/>ID: 1121</description>
+		<Point> 
+			<coordinates>
+			-149.899199,61.1882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Bering ENE<br/>ID: 1120</description>
+		<Point> 
+			<coordinates>
+			-149.8945,61.1882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; C Street ESE<br/>ID: 14</description>
+		<Point> 
+			<coordinates>
+			-149.8852,61.187999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; C Street WNW<br/>ID: 1118</description>
+		<Point> 
+			<coordinates>
+			-149.888,61.1882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Centerpoint ESE<br/>ID: 1209</description>
+		<Point> 
+			<coordinates>
+			-149.89,61.188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Cope ESE<br/>ID: 1207</description>
+		<Point> 
+			<coordinates>
+			-149.902199,61.187999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Denali WNW<br/>ID: 98</description>
+		<Point> 
+			<coordinates>
+			-149.8782,61.1882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Dorbrandt WNW<br/>ID: 1122</description>
+		<Point> 
+			<coordinates>
+			-149.9056,61.1882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Eureka WNW<br/>ID: 1119</description>
+		<Point> 
+			<coordinates>
+			-149.8911,61.188199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Hiland WNW<br/>ID: 2005</description>
+		<Point> 
+			<coordinates>
+			-149.745089,61.1881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Old Muldoon ENE<br/>ID: 2003</description>
+		<Point> 
+			<coordinates>
+			-149.734488,61.188136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Robin ESE<br/>ID: 1943</description>
+		<Point> 
+			<coordinates>
+			-149.738492,61.187945,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Robin WNW<br/>ID: 2004</description>
+		<Point> 
+			<coordinates>
+			-149.739465,61.188133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Spenard ESE<br/>ID: 1206</description>
+		<Point> 
+			<coordinates>
+			-149.907899,61.188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 36th Avenue &amp; Upland Drive ESE<br/>ID: 1942</description>
+		<Point> 
+			<coordinates>
+			-149.742319,61.187938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 40th Avenue &amp; Denali ENE<br/>ID: 3000</description>
+		<Point> 
+			<coordinates>
+			-149.8751,61.184599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 40th Avenue &amp; Denali ESE<br/>ID: 3001</description>
+		<Point> 
+			<coordinates>
+			-149.875,61.184399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 40th Avenue &amp; Old Seward WNW<br/>ID: 1058</description>
+		<Point> 
+			<coordinates>
+			-149.8693,61.184599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 40th Avenue &amp; Old Seward WSW<br/>ID: 972</description>
+		<Point> 
+			<coordinates>
+			-149.868899,61.184399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 88th Avenue &amp; Blackberry ENE<br/>ID: 3630</description>
+		<Point> 
+			<coordinates>
+			-149.944198,61.141172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 88th Avenue &amp; Cordell ESE<br/>ID: 3687</description>
+		<Point> 
+			<coordinates>
+			-149.943057,61.141008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 88th Avenue &amp; Forest Village ENE<br/>ID: 198</description>
+		<Point> 
+			<coordinates>
+			-149.933426,61.141171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 88th Avenue &amp; Jewel Lake ESE<br/>ID: 162</description>
+		<Point> 
+			<coordinates>
+			-149.949989,61.141014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 88th Avenue &amp; Old Seward WNW<br/>ID: 1564</description>
+		<Point> 
+			<coordinates>
+			-149.866872,61.141181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 11th Avenue NNE<br/>ID: 106</description>
+		<Point> 
+			<coordinates>
+			-149.883276,61.212138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 13th Avenue NNE<br/>ID: 105</description>
+		<Point> 
+			<coordinates>
+			-149.883095,61.210195,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 16th Avenue NNE<br/>ID: 104</description>
+		<Point> 
+			<coordinates>
+			-149.882897,61.206829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 31st Avenue SSE<br/>ID: 100</description>
+		<Point> 
+			<coordinates>
+			-149.882929,61.1924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 34th Avenue NNE<br/>ID: 2036</description>
+		<Point> 
+			<coordinates>
+			-149.882915,61.190572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 36th Avenue NNE<br/>ID: 99</description>
+		<Point> 
+			<coordinates>
+			-149.883126,61.188075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 38th Avenue NNE<br/>ID: 2034</description>
+		<Point> 
+			<coordinates>
+			-149.883821,61.186637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 3rd Avenue NNE<br/>ID: 851</description>
+		<Point> 
+			<coordinates>
+			-149.883716,61.220022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 40th Avenue NNE<br/>ID: 2033</description>
+		<Point> 
+			<coordinates>
+			-149.885655,61.184987,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 6th Avenue NNE<br/>ID: 1253</description>
+		<Point> 
+			<coordinates>
+			-149.883157,61.217301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; 8th Avenue NNE<br/>ID: 250</description>
+		<Point> 
+			<coordinates>
+			-149.883119,61.215022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; Chester Creek Trail<br/>ID: 103</description>
+		<Point> 
+			<coordinates>
+			-149.883145,61.204353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; Fireweed NNE<br/>ID: 102</description>
+		<Point> 
+			<coordinates>
+			-149.882807,61.199169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: A Street &amp; Northern Lights NNE<br/>ID: 101</description>
+		<Point> 
+			<coordinates>
+			-149.882934,61.195933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Abbott &amp; 88th Avenue NNE<br/>ID: 2182</description>
+		<Point> 
+			<coordinates>
+			-149.847275,61.14172,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Abbott &amp; 88th Avenue SSW<br/>ID: 2103</description>
+		<Point> 
+			<coordinates>
+			-149.847793,61.140883,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Abbott &amp; Independence ESE<br/>ID: 1635</description>
+		<Point> 
+			<coordinates>
+			-149.841571,61.137537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Abbott &amp; Lake Otis WNW<br/>ID: 1619</description>
+		<Point> 
+			<coordinates>
+			-149.835388,61.137639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Abbott &amp; Toloff WNW<br/>ID: 2180</description>
+		<Point> 
+			<coordinates>
+			-149.842198,61.137639,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Airport South Terminal<br/>ID: 3024</description>
+		<Point> 
+			<coordinates>
+			-149.979292,61.173144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alaska Regional Hospital N<br/>ID: 517</description>
+		<Point> 
+			<coordinates>
+			-149.82623,61.210244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alaska Regional Hospital S<br/>ID: 438</description>
+		<Point> 
+			<coordinates>
+			-149.82634,61.210132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ambassador &amp; Elmore ENE<br/>ID: 3007</description>
+		<Point> 
+			<coordinates>
+			-149.807528,61.183325,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ambassador &amp; Elmore ESE<br/>ID: 3006</description>
+		<Point> 
+			<coordinates>
+			-149.807164,61.183223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ambassador &amp; Tudor Ctr WNW<br/>ID: 3009</description>
+		<Point> 
+			<coordinates>
+			-149.803185,61.183513,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ambassador &amp; Tudor Ctr WSW<br/>ID: 3008</description>
+		<Point> 
+			<coordinates>
+			-149.802728,61.183297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 19th Avenue SSE<br/>ID: 718</description>
+		<Point> 
+			<coordinates>
+			-149.89768,61.203273,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 19th Avenue SSW<br/>ID: 657</description>
+		<Point> 
+			<coordinates>
+			-149.897904,61.203141,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 22nd Avenue NNE<br/>ID: 717</description>
+		<Point> 
+			<coordinates>
+			-149.897658,61.201366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 22nd Avenue NNW<br/>ID: 658</description>
+		<Point> 
+			<coordinates>
+			-149.897917,61.201067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 27th Avenue SSW<br/>ID: 660</description>
+		<Point> 
+			<coordinates>
+			-149.898141,61.195986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 30th Avenue SSW<br/>ID: 662</description>
+		<Point> 
+			<coordinates>
+			-149.898119,61.192542,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 32nd Avenue NNE<br/>ID: 713</description>
+		<Point> 
+			<coordinates>
+			-149.897785,61.191915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 34th Avenue NNE<br/>ID: 712</description>
+		<Point> 
+			<coordinates>
+			-149.897777,61.190028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 34th Avenue SSW<br/>ID: 664</description>
+		<Point> 
+			<coordinates>
+			-149.898135,61.189158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 36th Avenue NNE<br/>ID: 2204</description>
+		<Point> 
+			<coordinates>
+			-149.897742,61.188398,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 36th Avenue SSE<br/>ID: 711</description>
+		<Point> 
+			<coordinates>
+			-149.897827,61.187186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 36th Avenue SSW<br/>ID: 665</description>
+		<Point> 
+			<coordinates>
+			-149.898117,61.187569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 41st Avenue NNE<br/>ID: 710</description>
+		<Point> 
+			<coordinates>
+			-149.89781,61.184199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 41st Avenue SSW<br/>ID: 667</description>
+		<Point> 
+			<coordinates>
+			-149.898111,61.183871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 42nd Ave SSW<br/>ID: 3723</description>
+		<Point> 
+			<coordinates>
+			-149.898166,61.18275,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 46th Avenue SSE<br/>ID: 708</description>
+		<Point> 
+			<coordinates>
+			-149.897763,61.178835,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 47th Avenue SSE<br/>ID: 707</description>
+		<Point> 
+			<coordinates>
+			-149.897742,61.177043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 54th Avenue SSW<br/>ID: 671</description>
+		<Point> 
+			<coordinates>
+			-149.89817,61.170978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 58th Avenue SSE<br/>ID: 703</description>
+		<Point> 
+			<coordinates>
+			-149.897783,61.168738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 58th Avenue SSW<br/>ID: 674</description>
+		<Point> 
+			<coordinates>
+			-149.898169,61.16784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 67th Avenue NNW<br/>ID: 3589</description>
+		<Point> 
+			<coordinates>
+			-149.892212,61.160804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 70th Avenue NNE<br/>ID: 700</description>
+		<Point> 
+			<coordinates>
+			-149.891924,61.15754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 70th Avenue SSW<br/>ID: 677</description>
+		<Point> 
+			<coordinates>
+			-149.892223,61.15687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 72nd Avenue NNE<br/>ID: 699</description>
+		<Point> 
+			<coordinates>
+			-149.891854,61.155538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 74th Avenue NNE<br/>ID: 698</description>
+		<Point> 
+			<coordinates>
+			-149.891853,61.153981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 74th Avenue NNW<br/>ID: 678</description>
+		<Point> 
+			<coordinates>
+			-149.892211,61.154144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 76th Avenue NNE<br/>ID: 697</description>
+		<Point> 
+			<coordinates>
+			-149.89187,61.152376,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 76th Avenue SSW<br/>ID: 679</description>
+		<Point> 
+			<coordinates>
+			-149.892302,61.151638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; 81st Avenue NNW<br/>ID: 680</description>
+		<Point> 
+			<coordinates>
+			-149.89229,61.149017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Arctic Spur Rd ENE<br/>ID: 702</description>
+		<Point> 
+			<coordinates>
+			-149.895445,61.164262,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Arctic Spur Rd SSW<br/>ID: 675</description>
+		<Point> 
+			<coordinates>
+			-149.89493,61.163721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Benson NNW<br/>ID: 661</description>
+		<Point> 
+			<coordinates>
+			-149.898114,61.194511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Chugach Way NNW<br/>ID: 666</description>
+		<Point> 
+			<coordinates>
+			-149.898121,61.186476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Dimond NNE<br/>ID: 694</description>
+		<Point> 
+			<coordinates>
+			-149.891887,61.145549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Dimond NNW<br/>ID: 2203</description>
+		<Point> 
+			<coordinates>
+			-149.892341,61.146526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Fireweed NNE<br/>ID: 716</description>
+		<Point> 
+			<coordinates>
+			-149.897711,61.199037,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Fireweed SSW<br/>ID: 659</description>
+		<Point> 
+			<coordinates>
+			-149.898079,61.198122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Highlander S NNE<br/>ID: 696</description>
+		<Point> 
+			<coordinates>
+			-149.89192,61.149121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Intl Arpt Rd NNE<br/>ID: 706</description>
+		<Point> 
+			<coordinates>
+			-149.897687,61.174199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Intl Arpt Rd SSW<br/>ID: 670</description>
+		<Point> 
+			<coordinates>
+			-149.898112,61.173133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Lancaster SSW<br/>ID: 669</description>
+		<Point> 
+			<coordinates>
+			-149.898099,61.175565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Northern Lights NNE<br/>ID: 715</description>
+		<Point> 
+			<coordinates>
+			-149.897785,61.195971,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Northern Lights SSE<br/>ID: 714</description>
+		<Point> 
+			<coordinates>
+			-149.897759,61.194934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Potter NNE<br/>ID: 704</description>
+		<Point> 
+			<coordinates>
+			-149.897831,61.171562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Raspberry NNE<br/>ID: 701</description>
+		<Point> 
+			<coordinates>
+			-149.891886,61.159903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Raspberry SSW<br/>ID: 676</description>
+		<Point> 
+			<coordinates>
+			-149.892282,61.158515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Tudor NNE<br/>ID: 709</description>
+		<Point> 
+			<coordinates>
+			-149.897723,61.181137,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arctic &amp; Tudor SSW<br/>ID: 668</description>
+		<Point> 
+			<coordinates>
+			-149.898122,61.179537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ArlENE &amp; 88th Avenue SSW<br/>ID: 3545</description>
+		<Point> 
+			<coordinates>
+			-149.929584,61.14062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; A Street ESE<br/>ID: 280</description>
+		<Point> 
+			<coordinates>
+			-149.879827,61.193691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Arctic ESE<br/>ID: 276</description>
+		<Point> 
+			<coordinates>
+			-149.896939,61.194138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; C Street ESE<br/>ID: 279</description>
+		<Point> 
+			<coordinates>
+			-149.885679,61.194148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Cheechako ESE<br/>ID: 277</description>
+		<Point> 
+			<coordinates>
+			-149.893564,61.194174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Denali ESE<br/>ID: 281</description>
+		<Point> 
+			<coordinates>
+			-149.875134,61.193312,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Eureka ESE<br/>ID: 278</description>
+		<Point> 
+			<coordinates>
+			-149.88993,61.194167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Latouche ESE<br/>ID: 283</description>
+		<Point> 
+			<coordinates>
+			-149.859759,61.194517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Lois ESE<br/>ID: 1154</description>
+		<Point> 
+			<coordinates>
+			-149.9179,61.193799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Minnesota ESE<br/>ID: 274</description>
+		<Point> 
+			<coordinates>
+			-149.911794,61.193619,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; New Seward ESE<br/>ID: 282</description>
+		<Point> 
+			<coordinates>
+			-149.866475,61.193322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benson &amp; Spenard ESE<br/>ID: 275</description>
+		<Point> 
+			<coordinates>
+			-149.904487,61.193942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bluff &amp; Birch ESE<br/>ID: 853</description>
+		<Point> 
+			<coordinates>
+			-149.870173,61.23095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bluff &amp; Dogwood ESE<br/>ID: 854</description>
+		<Point> 
+			<coordinates>
+			-149.866043,61.230368,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Boniface East<br/>ID: 1755</description>
+		<Point> 
+			<coordinates>
+			-149.777366,61.223303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Muldoon ENE<br/>ID: 3559</description>
+		<Point> 
+			<coordinates>
+			-149.730931,61.224231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Newell ESE<br/>ID: 2185</description>
+		<Point> 
+			<coordinates>
+			-149.770653,61.224124,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Patterson ENE<br/>ID: 803</description>
+		<Point> 
+			<coordinates>
+			-149.748244,61.224226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Patterson ESE<br/>ID: 772</description>
+		<Point> 
+			<coordinates>
+			-149.747893,61.224169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Turpin ENE<br/>ID: 804</description>
+		<Point> 
+			<coordinates>
+			-149.755472,61.222893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Turpin ESE<br/>ID: 771</description>
+		<Point> 
+			<coordinates>
+			-149.755078,61.222848,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boundary &amp; Turpin WSW<br/>ID: 782</description>
+		<Point> 
+			<coordinates>
+			-149.756568,61.222814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 16th Avenue NNE<br/>ID: 1316</description>
+		<Point> 
+			<coordinates>
+			-149.80815,61.206889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 16th Avenue NNW<br/>ID: 1294</description>
+		<Point> 
+			<coordinates>
+			-149.808507,61.206494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 19th Avenue SSW<br/>ID: 1295</description>
+		<Point> 
+			<coordinates>
+			-149.808573,61.203668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 20th Avenue NNE<br/>ID: 1315</description>
+		<Point> 
+			<coordinates>
+			-149.80809,61.202869,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 20th Avenue SSW<br/>ID: 1296</description>
+		<Point> 
+			<coordinates>
+			-149.808542,61.202078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 3rd Ave SSW<br/>ID: 7016</description>
+		<Point> 
+			<coordinates>
+			-149.808451,61.21991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 4th Ave NNE<br/>ID: 7015</description>
+		<Point> 
+			<coordinates>
+			-149.808235,61.219074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; 7th Ave NNE<br/>ID: 7017</description>
+		<Point> 
+			<coordinates>
+			-149.808181,61.21625,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; Debarr SSW<br/>ID: 3593</description>
+		<Point> 
+			<coordinates>
+			-149.808538,61.208679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; Glenn Hwy Off-ramp NNE<br/>ID: 7014</description>
+		<Point> 
+			<coordinates>
+			-149.808169,61.222829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; Northern Lights NNE<br/>ID: 1314</description>
+		<Point> 
+			<coordinates>
+			-149.808033,61.199534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; Parsons SSW<br/>ID: 1338</description>
+		<Point> 
+			<coordinates>
+			-149.808594,61.229064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; Peterkin SSW<br/>ID: 1340</description>
+		<Point> 
+			<coordinates>
+			-149.808593,61.225427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bragaw &amp; Thompson SSW<br/>ID: 1339</description>
+		<Point> 
+			<coordinates>
+			-149.808536,61.227228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Business Blvd &amp; Centerfield ENE<br/>ID: 1766</description>
+		<Point> 
+			<coordinates>
+			-149.574367,61.323715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Business Blvd &amp; Centerfield ESE<br/>ID: 1422</description>
+		<Point> 
+			<coordinates>
+			-149.57389,61.323499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Business Blvd &amp; Valley Rvr East<br/>ID: 1380</description>
+		<Point> 
+			<coordinates>
+			-149.574598,61.326295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Business Blvd &amp; Valley Rvr West<br/>ID: 1424</description>
+		<Point> 
+			<coordinates>
+			-149.574745,61.326395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 10th Avenue SSW<br/>ID: 4</description>
+		<Point> 
+			<coordinates>
+			-149.887517,61.212407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 12th Avenue SSW<br/>ID: 5</description>
+		<Point> 
+			<coordinates>
+			-149.887483,61.210297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 14th Avenue NNW<br/>ID: 6</description>
+		<Point> 
+			<coordinates>
+			-149.887494,61.20868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 16th Avenue SSW<br/>ID: 7</description>
+		<Point> 
+			<coordinates>
+			-149.887536,61.20577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 19th Avenue NNW<br/>ID: 8</description>
+		<Point> 
+			<coordinates>
+			-149.887627,61.203688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 22nd Avenue NNW<br/>ID: 9</description>
+		<Point> 
+			<coordinates>
+			-149.88753,61.200839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 31st Avenue NNW<br/>ID: 12</description>
+		<Point> 
+			<coordinates>
+			-149.886781,61.19271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 32nd Avenue SSW<br/>ID: 1690</description>
+		<Point> 
+			<coordinates>
+			-149.886749,61.191068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 34th Avenue SSW<br/>ID: 1917</description>
+		<Point> 
+			<coordinates>
+			-149.886758,61.189372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 36th Avenue SSW<br/>ID: 1918</description>
+		<Point> 
+			<coordinates>
+			-149.886595,61.188073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 40th Avenue SSW<br/>ID: 1919</description>
+		<Point> 
+			<coordinates>
+			-149.886756,61.183706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 5th Avenue NNW<br/>ID: 1357</description>
+		<Point> 
+			<coordinates>
+			-149.887507,61.218099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; 7th Avenue SSW<br/>ID: 3</description>
+		<Point> 
+			<coordinates>
+			-149.887511,61.215198,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; Benson NNW<br/>ID: 11</description>
+		<Point> 
+			<coordinates>
+			-149.886847,61.194527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; Fireweed SSW<br/>ID: 10</description>
+		<Point> 
+			<coordinates>
+			-149.88703,61.197746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: C Street &amp; Tudor NNE<br/>ID: 2032</description>
+		<Point> 
+			<coordinates>
+			-149.88604,61.181596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Centennial &amp; Peck NNE<br/>ID: 3014</description>
+		<Point> 
+			<coordinates>
+			-149.717296,61.222856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Centennial &amp; Peck NNW<br/>ID: 787</description>
+		<Point> 
+			<coordinates>
+			-149.717454,61.222638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Centennial Village<br/>ID: 788</description>
+		<Point> 
+			<coordinates>
+			-149.714436,61.22535,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chugach Manor<br/>ID: 525</description>
+		<Point> 
+			<coordinates>
+			-149.858496,61.203519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chugach View<br/>ID: 429</description>
+		<Point> 
+			<coordinates>
+			-149.857968,61.204811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: City Hall<br/>ID: 1450</description>
+		<Point> 
+			<coordinates>
+			-149.894746,61.216564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; 2761 N<br/>ID: 1345</description>
+		<Point> 
+			<coordinates>
+			-149.829795,61.22263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; 2800 S<br/>ID: 1266</description>
+		<Point> 
+			<coordinates>
+			-149.829287,61.22266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; Chipperfield ENE<br/>ID: 1347</description>
+		<Point> 
+			<coordinates>
+			-149.833683,61.220395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; Chipperfield ESE<br/>ID: 1264</description>
+		<Point> 
+			<coordinates>
+			-149.833099,61.220421,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; Meyer WNW<br/>ID: 1344</description>
+		<Point> 
+			<coordinates>
+			-149.82384,61.224241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; Meyer WSW<br/>ID: 1267</description>
+		<Point> 
+			<coordinates>
+			-149.823433,61.224072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; Taylor WNW<br/>ID: 1343</description>
+		<Point> 
+			<coordinates>
+			-149.817984,61.224244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Commercial &amp; Taylor WSW<br/>ID: 1268</description>
+		<Point> 
+			<coordinates>
+			-149.817108,61.224019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cordova &amp; 11th Avenue SSE<br/>ID: 637</description>
+		<Point> 
+			<coordinates>
+			-149.879021,61.211585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cordova &amp; 11th Avenue SSW<br/>ID: 550</description>
+		<Point> 
+			<coordinates>
+			-149.879328,61.211371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cordova &amp; 14th Avenue SSE<br/>ID: 3557</description>
+		<Point> 
+			<coordinates>
+			-149.879085,61.208603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cordova &amp; 14th Avenue SSW<br/>ID: 3558</description>
+		<Point> 
+			<coordinates>
+			-149.879342,61.208183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cordova &amp; 8th Avenue SSW<br/>ID: 1453</description>
+		<Point> 
+			<coordinates>
+			-149.879313,61.214378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creekside Ctr &amp; Betnu WSW<br/>ID: 7031</description>
+		<Point> 
+			<coordinates>
+			-149.7388,61.212279,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creekside Ctr &amp; Clearwater ESE<br/>ID: 3699</description>
+		<Point> 
+			<coordinates>
+			-149.737297,61.206955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creekside Ctr &amp; Walmart NNE<br/>ID: 7030</description>
+		<Point> 
+			<coordinates>
+			-149.740889,61.21094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Alaska Regional Dr WNW<br/>ID: 518</description>
+		<Point> 
+			<coordinates>
+			-149.831826,61.209446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Atkinson ESE<br/>ID: 454</description>
+		<Point> 
+			<coordinates>
+			-149.766395,61.209593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Beaver ESE<br/>ID: 311</description>
+		<Point> 
+			<coordinates>
+			-149.761849,61.209601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Boniface ENE<br/>ID: 502</description>
+		<Point> 
+			<coordinates>
+			-149.774585,61.209831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Boniface ESE<br/>ID: 452</description>
+		<Point> 
+			<coordinates>
+			-149.775917,61.209634,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Boniface WNW<br/>ID: 503</description>
+		<Point> 
+			<coordinates>
+			-149.779749,61.209852,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Bragaw ENE<br/>ID: 507</description>
+		<Point> 
+			<coordinates>
+			-149.805476,61.209817,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Bragaw ESE<br/>ID: 447</description>
+		<Point> 
+			<coordinates>
+			-149.80723,61.209575,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Bragaw WNW<br/>ID: 1317</description>
+		<Point> 
+			<coordinates>
+			-149.809884,61.209858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Buckner ESE<br/>ID: 453</description>
+		<Point> 
+			<coordinates>
+			-149.771053,61.209592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Charter Cir WSW<br/>ID: 437</description>
+		<Point> 
+			<coordinates>
+			-149.835556,61.207697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Columbine St ENE<br/>ID: 7021</description>
+		<Point> 
+			<coordinates>
+			-149.818655,61.209864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Columbine St ESE<br/>ID: 7022</description>
+		<Point> 
+			<coordinates>
+			-149.817342,61.209651,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Creekside Ctr ENE<br/>ID: 356</description>
+		<Point> 
+			<coordinates>
+			-149.740443,61.209826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Creekside Ctr WNW<br/>ID: 3710</description>
+		<Point> 
+			<coordinates>
+			-149.743743,61.209907,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Creekside Ctr WSW<br/>ID: 331</description>
+		<Point> 
+			<coordinates>
+			-149.741858,61.209597,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Edward ENE<br/>ID: 374</description>
+		<Point> 
+			<coordinates>
+			-149.763378,61.209834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Hoyt ESE<br/>ID: 448</description>
+		<Point> 
+			<coordinates>
+			-149.799486,61.209581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Hoyt WNW<br/>ID: 506</description>
+		<Point> 
+			<coordinates>
+			-149.800893,61.209818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; L Selkregg WNW<br/>ID: 504</description>
+		<Point> 
+			<coordinates>
+			-149.786999,61.209822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; L Selkregg WSW<br/>ID: 450</description>
+		<Point> 
+			<coordinates>
+			-149.786848,61.209581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Muldoon WNW<br/>ID: 355</description>
+		<Point> 
+			<coordinates>
+			-149.73524,61.209843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Nunaka ENE<br/>ID: 501</description>
+		<Point> 
+			<coordinates>
+			-149.768476,61.209833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Patterson ESE<br/>ID: 330</description>
+		<Point> 
+			<coordinates>
+			-149.747621,61.209604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Patterson WNW<br/>ID: 372</description>
+		<Point> 
+			<coordinates>
+			-149.74902,61.209836,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Pine WNW<br/>ID: 505</description>
+		<Point> 
+			<coordinates>
+			-149.79462,61.209825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Pine WSW<br/>ID: 449</description>
+		<Point> 
+			<coordinates>
+			-149.793936,61.209583,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Turpin ESE<br/>ID: 312</description>
+		<Point> 
+			<coordinates>
+			-149.754944,61.209624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Debarr &amp; Turpin WNW<br/>ID: 373</description>
+		<Point> 
+			<coordinates>
+			-149.757059,61.20986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Denali &amp; 36th Avenue SSW<br/>ID: 971</description>
+		<Point> 
+			<coordinates>
+			-149.876999,61.187599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; Arctic ESE<br/>ID: 683</description>
+		<Point> 
+			<coordinates>
+			-149.890696,61.144463,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; C Street ESE<br/>ID: 684</description>
+		<Point> 
+			<coordinates>
+			-149.885168,61.144556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; C Street WNW<br/>ID: 191</description>
+		<Point> 
+			<coordinates>
+			-149.888768,61.144911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; Dimond Ctr Dr WNW<br/>ID: 189</description>
+		<Point> 
+			<coordinates>
+			-149.872669,61.144916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; King ESE<br/>ID: 685</description>
+		<Point> 
+			<coordinates>
+			-149.877424,61.144567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; King WNW<br/>ID: 682</description>
+		<Point> 
+			<coordinates>
+			-149.880355,61.144902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; Minnesota ENE<br/>ID: 193</description>
+		<Point> 
+			<coordinates>
+			-149.905399,61.141255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; Minnesota ESE<br/>ID: 179</description>
+		<Point> 
+			<coordinates>
+			-149.90525,61.140867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; Victor ESE<br/>ID: 177</description>
+		<Point> 
+			<coordinates>
+			-149.919426,61.137289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond &amp; Victor WNW<br/>ID: 195</description>
+		<Point> 
+			<coordinates>
+			-149.923467,61.137654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dimond Transit Center<br/>ID: 57</description>
+		<Point> 
+			<coordinates>
+			-149.871953,61.142763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Diplomacy &amp; Anmc N<br/>ID: 3010</description>
+		<Point> 
+			<coordinates>
+			-149.801484,61.181943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Diplomacy &amp; Tudor Ctr WNW<br/>ID: 3529</description>
+		<Point> 
+			<coordinates>
+			-149.796151,61.181963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Downtown Transit Center<br/>ID: 2051</description>
+		<Point> 
+			<coordinates>
+			-149.896763,61.216553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Street &amp; 10th Avenue NNE<br/>ID: 722</description>
+		<Point> 
+			<coordinates>
+			-149.891274,61.212918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Street &amp; 10th Avenue NNW<br/>ID: 653</description>
+		<Point> 
+			<coordinates>
+			-149.891602,61.21284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Street &amp; 12th Avenue NNE<br/>ID: 721</description>
+		<Point> 
+			<coordinates>
+			-149.891335,61.211013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Street &amp; 12th Avenue SSW<br/>ID: 654</description>
+		<Point> 
+			<coordinates>
+			-149.89156,61.210323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Street &amp; 14th Avenue NNE<br/>ID: 720</description>
+		<Point> 
+			<coordinates>
+			-149.891313,61.209054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Street &amp; 14th Avenue SSW<br/>ID: 655</description>
+		<Point> 
+			<coordinates>
+			-149.891573,61.208367,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eagle River Transit Center<br/>ID: 1863</description>
+		<Point> 
+			<coordinates>
+			-149.573677,61.327765,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elmore &amp; Providence SSE<br/>ID: 611</description>
+		<Point> 
+			<coordinates>
+			-149.810212,61.188318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elmore &amp; Sharon Gagnon SSE<br/>ID: 3013</description>
+		<Point> 
+			<coordinates>
+			-149.808459,61.184873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elmore &amp; Sharon Gagnon SSW<br/>ID: 577</description>
+		<Point> 
+			<coordinates>
+			-149.809055,61.184919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elmore &amp; Tudor Rd NNE<br/>ID: 7018</description>
+		<Point> 
+			<coordinates>
+			-149.807909,61.181415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Glenn Hwy &amp; Boniface On Ramp WNW<br/>ID: 3594</description>
+		<Point> 
+			<coordinates>
+			-149.779399,61.225274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hillcrest &amp; Romig Place ESE<br/>ID: 958</description>
+		<Point> 
+			<coordinates>
+			-149.909788,61.200526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hillcrest &amp; West High School S<br/>ID: 957</description>
+		<Point> 
+			<coordinates>
+			-149.914986,61.200949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hollywood &amp; Elm ENE<br/>ID: 860</description>
+		<Point> 
+			<coordinates>
+			-149.864997,61.229169,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hollywood &amp; Gum ENE<br/>ID: 859</description>
+		<Point> 
+			<coordinates>
+			-149.861853,61.228714,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hollywood &amp; Loop ENE<br/>ID: 861</description>
+		<Point> 
+			<coordinates>
+			-149.874385,61.230365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Huffman &amp; Silverfox ESE<br/>ID: 1015</description>
+		<Point> 
+			<coordinates>
+			-149.859912,61.108556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Huffman Business Park<br/>ID: 1017</description>
+		<Point> 
+			<coordinates>
+			-149.857457,61.110206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyder &amp; 11th Avenue NNE<br/>ID: 3566</description>
+		<Point> 
+			<coordinates>
+			-149.868897,61.211958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyder &amp; 11th Avenue SSW<br/>ID: 3567</description>
+		<Point> 
+			<coordinates>
+			-149.869123,61.211416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hyder &amp; 9th Avenue SSE<br/>ID: 3568</description>
+		<Point> 
+			<coordinates>
+			-149.868806,61.213478,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I Street &amp; 11th Avenue SSE<br/>ID: 1075</description>
+		<Point> 
+			<coordinates>
+			-149.899489,61.211445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I Street &amp; 13th Avenue NNE<br/>ID: 1159</description>
+		<Point> 
+			<coordinates>
+			-149.899465,61.20989,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I Street &amp; 15th Avenue NNE<br/>ID: 1158</description>
+		<Point> 
+			<coordinates>
+			-149.899479,61.208165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I Street &amp; 9th Avenue SSE<br/>ID: 1161</description>
+		<Point> 
+			<coordinates>
+			-149.899457,61.213313,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industry Way &amp; Huffman NNW<br/>ID: 1579</description>
+		<Point> 
+			<coordinates>
+			-149.861393,61.109019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Intl Arpt Rd &amp; Aircrft ESE<br/>ID: 3511</description>
+		<Point> 
+			<coordinates>
+			-149.966894,61.176543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Intl Arpt Rd &amp; Rr Xing WSW<br/>ID: 3033</description>
+		<Point> 
+			<coordinates>
+			-149.953271,61.174778,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Intl Arpt Rd &amp; Rutan WNW<br/>ID: 3696</description>
+		<Point> 
+			<coordinates>
+			-149.960737,61.176805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ivy &amp; Hollywood NNW<br/>ID: 858</description>
+		<Point> 
+			<coordinates>
+			-149.858244,61.22828,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; 82nd Avenue NNE<br/>ID: 213</description>
+		<Point> 
+			<coordinates>
+			-149.951742,61.146967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; 82nd Avenue NNW<br/>ID: 158</description>
+		<Point> 
+			<coordinates>
+			-149.952119,61.146887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; 88th Avenue NNE<br/>ID: 210</description>
+		<Point> 
+			<coordinates>
+			-149.951684,61.141704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; Chevigny ENE<br/>ID: 3548</description>
+		<Point> 
+			<coordinates>
+			-149.946603,61.166635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; Chevigny WSW<br/>ID: 3547</description>
+		<Point> 
+			<coordinates>
+			-149.946237,61.16638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; Raspberry NNE<br/>ID: 3686</description>
+		<Point> 
+			<coordinates>
+			-149.951425,61.159663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; Raspberry SSW<br/>ID: 154</description>
+		<Point> 
+			<coordinates>
+			-149.95201,61.158084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; Strawberry NNE<br/>ID: 215</description>
+		<Point> 
+			<coordinates>
+			-149.951629,61.152486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewel Lake &amp; Strawberry SSW<br/>ID: 156</description>
+		<Point> 
+			<coordinates>
+			-149.952124,61.151514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Karluk &amp; 19th Avenue NNE<br/>ID: 526</description>
+		<Point> 
+			<coordinates>
+			-149.861335,61.204304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenai &amp; Pine ESE<br/>ID: 756</description>
+		<Point> 
+			<coordinates>
+			-149.792299,61.220119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenai &amp; Stewart WNW<br/>ID: 818</description>
+		<Point> 
+			<coordinates>
+			-149.788479,61.220268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenai &amp; Stewart WSW<br/>ID: 757</description>
+		<Point> 
+			<coordinates>
+			-149.788594,61.220127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Klevin &amp; 4th Avenue SSE<br/>ID: 751</description>
+		<Point> 
+			<coordinates>
+			-149.804512,61.218581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Klevin &amp; 4th Avenue SSW<br/>ID: 823</description>
+		<Point> 
+			<coordinates>
+			-149.804718,61.218552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Klevin &amp; 7th Avenue NNE<br/>ID: 750</description>
+		<Point> 
+			<coordinates>
+			-149.804511,61.216175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L Street &amp; 11th Avenue SSW<br/>ID: 1173</description>
+		<Point> 
+			<coordinates>
+			-149.903843,61.211336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L Street &amp; 13th Avenue SSW<br/>ID: 1174</description>
+		<Point> 
+			<coordinates>
+			-149.903821,61.209409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L Street &amp; 9th Avenue SSW<br/>ID: 1172</description>
+		<Point> 
+			<coordinates>
+			-149.903806,61.213311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 36th Avenue SSW<br/>ID: 23</description>
+		<Point> 
+			<coordinates>
+			-149.83846,61.187323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 42nd Avenue NNE<br/>ID: 89</description>
+		<Point> 
+			<coordinates>
+			-149.837999,61.183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 54th Avenue SSW<br/>ID: 29</description>
+		<Point> 
+			<coordinates>
+			-149.838337,61.171576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 63rd Avenue SSE<br/>ID: 82</description>
+		<Point> 
+			<coordinates>
+			-149.8347,61.163,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 63rd Avenue SSW<br/>ID: 32</description>
+		<Point> 
+			<coordinates>
+			-149.835999,61.1635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 68th Avenue NNE<br/>ID: 81</description>
+		<Point> 
+			<coordinates>
+			-149.833996,61.159672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 68th Avenue SSW<br/>ID: 33</description>
+		<Point> 
+			<coordinates>
+			-149.834451,61.158821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 84th Avenue SSE<br/>ID: 77</description>
+		<Point> 
+			<coordinates>
+			-149.833844,61.143452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 85th Avenue NNW<br/>ID: 37</description>
+		<Point> 
+			<coordinates>
+			-149.834352,61.14402,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 88th Avenue NNE<br/>ID: 76</description>
+		<Point> 
+			<coordinates>
+			-149.8339,61.1416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; 88th Avenue SSW<br/>ID: 38</description>
+		<Point> 
+			<coordinates>
+			-149.8344,61.1408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Abbott NNE<br/>ID: 75</description>
+		<Point> 
+			<coordinates>
+			-149.833852,61.138062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Cornell SSE<br/>ID: 397</description>
+		<Point> 
+			<coordinates>
+			-149.838059,61.19139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Cornell SSW<br/>ID: 1300</description>
+		<Point> 
+			<coordinates>
+			-149.838424,61.191707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Dowling NNE<br/>ID: 83</description>
+		<Point> 
+			<coordinates>
+			-149.837927,61.167108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Dowling SSW<br/>ID: 31</description>
+		<Point> 
+			<coordinates>
+			-149.838429,61.165865,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Lore NNE<br/>ID: 79</description>
+		<Point> 
+			<coordinates>
+			-149.833935,61.152491,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Lore SSW<br/>ID: 35</description>
+		<Point> 
+			<coordinates>
+			-149.83442,61.151457,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Northern Lights SSW<br/>ID: 1299</description>
+		<Point> 
+			<coordinates>
+			-149.838504,61.194668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Pago Pago NNE<br/>ID: 84</description>
+		<Point> 
+			<coordinates>
+			-149.838,61.168999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Pago Pago NNW<br/>ID: 30</description>
+		<Point> 
+			<coordinates>
+			-149.838399,61.168899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Providence NNE<br/>ID: 396</description>
+		<Point> 
+			<coordinates>
+			-149.837879,61.188709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Tudor NNE<br/>ID: 88</description>
+		<Point> 
+			<coordinates>
+			-149.83782,61.181574,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Tudor SSW<br/>ID: 26</description>
+		<Point> 
+			<coordinates>
+			-149.838407,61.179662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Waldron NNE<br/>ID: 86</description>
+		<Point> 
+			<coordinates>
+			-149.837926,61.175672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Waldron SSW<br/>ID: 28</description>
+		<Point> 
+			<coordinates>
+			-149.838393,61.174402,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Otis &amp; Ymca E<br/>ID: 85</description>
+		<Point> 
+			<coordinates>
+			-149.83799,61.17212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lane &amp; Mountain View NNE<br/>ID: 1333</description>
+		<Point> 
+			<coordinates>
+			-149.797054,61.226679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lane &amp; Thompson NNE<br/>ID: 1334</description>
+		<Point> 
+			<coordinates>
+			-149.797013,61.228096,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latouche &amp; 10th Avenue NNE<br/>ID: 530</description>
+		<Point> 
+			<coordinates>
+			-149.860644,61.212846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latouche &amp; 10th Avenue SSW<br/>ID: 425</description>
+		<Point> 
+			<coordinates>
+			-149.860969,61.212474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lionheart &amp; Fireoved Dr ESE<br/>ID: 758</description>
+		<Point> 
+			<coordinates>
+			-149.784339,61.220517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lionheart &amp; Fireoved Dr WNW<br/>ID: 817</description>
+		<Point> 
+			<coordinates>
+			-149.784937,61.220623,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loop &amp; Bluff SSE<br/>ID: 852</description>
+		<Point> 
+			<coordinates>
+			-149.872599,61.231074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loop &amp; Hollywood SSW<br/>ID: 862</description>
+		<Point> 
+			<coordinates>
+			-149.874999,61.229647,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mccarrey &amp; Chena NNE<br/>ID: 1331</description>
+		<Point> 
+			<coordinates>
+			-149.791543,61.223632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medfra &amp; 12th Avenue NNE<br/>ID: 529</description>
+		<Point> 
+			<coordinates>
+			-149.858688,61.210944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medfra &amp; 12th Avenue SSW<br/>ID: 426</description>
+		<Point> 
+			<coordinates>
+			-149.858862,61.210393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medfra &amp; 14th Avenue NNW<br/>ID: 427</description>
+		<Point> 
+			<coordinates>
+			-149.858905,61.208836,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medfra &amp; 14th Avenue SSE<br/>ID: 528</description>
+		<Point> 
+			<coordinates>
+			-149.858675,61.208604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medfra &amp; 16th Avenue NNE<br/>ID: 527</description>
+		<Point> 
+			<coordinates>
+			-149.858702,61.206623,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medfra &amp; 16th Avenue SSW<br/>ID: 522</description>
+		<Point> 
+			<coordinates>
+			-149.858705,61.205965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Minnesota &amp; 26th Avenue NNE<br/>ID: 411</description>
+		<Point> 
+			<coordinates>
+			-149.912798,61.197665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Minnesota &amp; 26th Avenue SSW<br/>ID: 1175</description>
+		<Point> 
+			<coordinates>
+			-149.913412,61.197061,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Minnesota &amp; Benson NNE<br/>ID: 1156</description>
+		<Point> 
+			<coordinates>
+			-149.912799,61.1946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mountain View &amp; Bragaw St WSW<br/>ID: 7013</description>
+		<Point> 
+			<coordinates>
+			-149.808968,61.223918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mountain View &amp; Bragaw WNW<br/>ID: 1341</description>
+		<Point> 
+			<coordinates>
+			-149.810071,61.224231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mountain View &amp; Glenn Square NNW<br/>ID: 3718</description>
+		<Point> 
+			<coordinates>
+			-149.822539,61.220613,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mountain View &amp; Price WNW<br/>ID: 1342</description>
+		<Point> 
+			<coordinates>
+			-149.812792,61.224232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mtn View &amp; Pine WNW<br/>ID: 1332</description>
+		<Point> 
+			<coordinates>
+			-149.794692,61.226357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 16th Avenue NNE<br/>ID: 1950</description>
+		<Point> 
+			<coordinates>
+			-149.733185,61.207688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 20th Avenue NNE<br/>ID: 1949</description>
+		<Point> 
+			<coordinates>
+			-149.733291,61.202958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 20th Avenue SSW<br/>ID: 1998</description>
+		<Point> 
+			<coordinates>
+			-149.733736,61.202156,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 32nd Avenue NNE<br/>ID: 1946</description>
+		<Point> 
+			<coordinates>
+			-149.733264,61.193142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 32nd Avenue SSW<br/>ID: 2002</description>
+		<Point> 
+			<coordinates>
+			-149.733721,61.191092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 36th Avenue NNE<br/>ID: 3038</description>
+		<Point> 
+			<coordinates>
+			-149.733024,61.188619,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 4th Avenue NNE<br/>ID: 1954</description>
+		<Point> 
+			<coordinates>
+			-149.73326,61.219369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 4th Avenue NNW<br/>ID: 794</description>
+		<Point> 
+			<coordinates>
+			-149.733781,61.218911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 6th Avenue NNE<br/>ID: 1953</description>
+		<Point> 
+			<coordinates>
+			-149.733259,61.217406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; 6th Avenue SSW<br/>ID: 1993</description>
+		<Point> 
+			<coordinates>
+			-149.733748,61.216635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Boundary SSE<br/>ID: 1956</description>
+		<Point> 
+			<coordinates>
+			-149.733252,61.223724,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Boundary SSW<br/>ID: 1878</description>
+		<Point> 
+			<coordinates>
+			-149.733844,61.22341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Debarr East NNE<br/>ID: 1951</description>
+		<Point> 
+			<coordinates>
+			-149.73323,61.210861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Debarr W SSW<br/>ID: 1084</description>
+		<Point> 
+			<coordinates>
+			-149.733821,61.209295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Duben NNE<br/>ID: 1955</description>
+		<Point> 
+			<coordinates>
+			-149.733263,61.221163,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Duben NNW<br/>ID: 793</description>
+		<Point> 
+			<coordinates>
+			-149.733743,61.221013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Halligan NNE<br/>ID: 1948</description>
+		<Point> 
+			<coordinates>
+			-149.733252,61.201071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Heritage Ctr WNW<br/>ID: 2205</description>
+		<Point> 
+			<coordinates>
+			-149.738035,61.231091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Island NNW<br/>ID: 1997</description>
+		<Point> 
+			<coordinates>
+			-149.733703,61.205947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Northern Lights NNE<br/>ID: 1240</description>
+		<Point> 
+			<coordinates>
+			-149.733247,61.196311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Northern Lights NNW<br/>ID: 2000</description>
+		<Point> 
+			<coordinates>
+			-149.733801,61.196536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Northern Lights SSW<br/>ID: 2001</description>
+		<Point> 
+			<coordinates>
+			-149.733743,61.194495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Northwind NNE<br/>ID: 1944</description>
+		<Point> 
+			<coordinates>
+			-149.733221,61.190502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Old Harbor SSE<br/>ID: 1952</description>
+		<Point> 
+			<coordinates>
+			-149.733279,61.213638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Old Harbor SSW<br/>ID: 1994</description>
+		<Point> 
+			<coordinates>
+			-149.73372,61.213771,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Wildbrook Ct SSW<br/>ID: 1999</description>
+		<Point> 
+			<coordinates>
+			-149.733831,61.199703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Zuckert ESE<br/>ID: 2207</description>
+		<Point> 
+			<coordinates>
+			-149.74009,61.230878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Muldoon &amp; Zuckert WNW<br/>ID: 3711</description>
+		<Point> 
+			<coordinates>
+			-149.741889,61.231257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; A Street WNW<br/>ID: 405</description>
+		<Point> 
+			<coordinates>
+			-149.883969,61.195352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Arca Dr ENE<br/>ID: 1100</description>
+		<Point> 
+			<coordinates>
+			-149.81666,61.199059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Arca Dr ESE<br/>ID: 1313</description>
+		<Point> 
+			<coordinates>
+			-149.816012,61.198742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Arctic WNW<br/>ID: 408</description>
+		<Point> 
+			<coordinates>
+			-149.898737,61.195351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Arlington WNW<br/>ID: 1177</description>
+		<Point> 
+			<coordinates>
+			-149.9223,61.1954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Augustine ESE<br/>ID: 1238</description>
+		<Point> 
+			<coordinates>
+			-149.741496,61.195212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Augustine WNW<br/>ID: 364</description>
+		<Point> 
+			<coordinates>
+			-149.744502,61.19545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Baxter ESE<br/>ID: 1234</description>
+		<Point> 
+			<coordinates>
+			-149.762205,61.195161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Baxter WNW<br/>ID: 368</description>
+		<Point> 
+			<coordinates>
+			-149.764613,61.195354,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Bering ENE<br/>ID: 407</description>
+		<Point> 
+			<coordinates>
+			-149.89513,61.195371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Boniface ESE<br/>ID: 1232</description>
+		<Point> 
+			<coordinates>
+			-149.775853,61.195091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Boniface WNW<br/>ID: 385</description>
+		<Point> 
+			<coordinates>
+			-149.780007,61.19539,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Bragaw ESE<br/>ID: 1228</description>
+		<Point> 
+			<coordinates>
+			-149.807013,61.198672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Bragaw WNW<br/>ID: 388</description>
+		<Point> 
+			<coordinates>
+			-149.80973,61.199084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Brittany ESE<br/>ID: 1236</description>
+		<Point> 
+			<coordinates>
+			-149.752911,61.195125,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Brittany WNW<br/>ID: 366</description>
+		<Point> 
+			<coordinates>
+			-149.755045,61.1954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; C Street WNW<br/>ID: 406</description>
+		<Point> 
+			<coordinates>
+			-149.886529,61.195332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Cimmaron ESE<br/>ID: 1235</description>
+		<Point> 
+			<coordinates>
+			-149.757334,61.195174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Cimmaron WNW<br/>ID: 367</description>
+		<Point> 
+			<coordinates>
+			-149.759002,61.195372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Cmbl Arstr ESE<br/>ID: 594</description>
+		<Point> 
+			<coordinates>
+			-149.768719,61.195166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Cope WNW<br/>ID: 2202</description>
+		<Point> 
+			<coordinates>
+			-149.902734,61.195372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Cordova WNW<br/>ID: 404</description>
+		<Point> 
+			<coordinates>
+			-149.879239,61.195355,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Denali ENE<br/>ID: 403</description>
+		<Point> 
+			<coordinates>
+			-149.875965,61.195369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Derby WNW<br/>ID: 369</description>
+		<Point> 
+			<coordinates>
+			-149.769305,61.195347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Drake WSW<br/>ID: 285</description>
+		<Point> 
+			<coordinates>
+			-149.846589,61.195224,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; East Hs ENE<br/>ID: 387</description>
+		<Point> 
+			<coordinates>
+			-149.801087,61.199027,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Forest Pk ESE<br/>ID: 1153</description>
+		<Point> 
+			<coordinates>
+			-149.9269,61.195199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Forest Pk WNW<br/>ID: 1178</description>
+		<Point> 
+			<coordinates>
+			-149.928999,61.195399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Gambell ENE<br/>ID: 402</description>
+		<Point> 
+			<coordinates>
+			-149.869879,61.195372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Glenwood WNW<br/>ID: 400</description>
+		<Point> 
+			<coordinates>
+			-149.853672,61.195573,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Lake Otis WNW<br/>ID: 398</description>
+		<Point> 
+			<coordinates>
+			-149.839334,61.19553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Lake Otis WSW<br/>ID: 286</description>
+		<Point> 
+			<coordinates>
+			-149.842518,61.19522,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Latouche WNW<br/>ID: 401</description>
+		<Point> 
+			<coordinates>
+			-149.861679,61.195309,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Maplewood WNW<br/>ID: 399</description>
+		<Point> 
+			<coordinates>
+			-149.846751,61.195527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Minnesota ENE<br/>ID: 410</description>
+		<Point> 
+			<coordinates>
+			-149.910599,61.195367,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Minnesota WNW<br/>ID: 1176</description>
+		<Point> 
+			<coordinates>
+			-149.915499,61.1954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Muldoon WNW<br/>ID: 1089</description>
+		<Point> 
+			<coordinates>
+			-149.736429,61.195397,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Patterson ESE<br/>ID: 1237</description>
+		<Point> 
+			<coordinates>
+			-149.747077,61.195187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Patterson WNW<br/>ID: 365</description>
+		<Point> 
+			<coordinates>
+			-149.749509,61.195401,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Redwood ESE<br/>ID: 284</description>
+		<Point> 
+			<coordinates>
+			-149.855216,61.195305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Spenard WNW<br/>ID: 409</description>
+		<Point> 
+			<coordinates>
+			-149.905446,61.195293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Sunflower ESE<br/>ID: 1231</description>
+		<Point> 
+			<coordinates>
+			-149.782938,61.19514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Turnagain ESE<br/>ID: 1152</description>
+		<Point> 
+			<coordinates>
+			-149.9339,61.1953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Turnagain WNW<br/>ID: 1179</description>
+		<Point> 
+			<coordinates>
+			-149.9369,61.1955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Uaa Dr ESE<br/>ID: 1312</description>
+		<Point> 
+			<coordinates>
+			-149.826439,61.196036,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Wesleyan ESE<br/>ID: 1230</description>
+		<Point> 
+			<coordinates>
+			-149.786908,61.195107,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Wesleyan WNW<br/>ID: 386</description>
+		<Point> 
+			<coordinates>
+			-149.789867,61.195349,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northern Lights &amp; Wisconsin<br/>ID: 1151</description>
+		<Point> 
+			<coordinates>
+			-149.941299,61.195299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northway &amp; 800 Northway West<br/>ID: 1290</description>
+		<Point> 
+			<coordinates>
+			-149.812359,61.214051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northway &amp; 801 Northway East<br/>ID: 1319</description>
+		<Point> 
+			<coordinates>
+			-149.811964,61.214559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northway &amp; Penland SSE<br/>ID: 1320</description>
+		<Point> 
+			<coordinates>
+			-149.812297,61.215504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northway &amp; Penland SSW<br/>ID: 1289</description>
+		<Point> 
+			<coordinates>
+			-149.812651,61.215339,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Northway &amp; San Jeronimo SSE<br/>ID: 1318</description>
+		<Point> 
+			<coordinates>
+			-149.812253,61.211295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oceanview &amp; Venus ESE<br/>ID: 1010</description>
+		<Point> 
+			<coordinates>
+			-149.854219,61.099552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; 4th Avenue NNE<br/>ID: 799</description>
+		<Point> 
+			<coordinates>
+			-149.744688,61.218955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; 4th Avenue NNW<br/>ID: 776</description>
+		<Point> 
+			<coordinates>
+			-149.744807,61.218842,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; 6th Avenue NNE<br/>ID: 798</description>
+		<Point> 
+			<coordinates>
+			-149.744651,61.217333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; 6th Avenue NNW<br/>ID: 777</description>
+		<Point> 
+			<coordinates>
+			-149.744802,61.217086,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; Boundary SSE<br/>ID: 802</description>
+		<Point> 
+			<coordinates>
+			-149.744681,61.223967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; Boundary SSW<br/>ID: 773</description>
+		<Point> 
+			<coordinates>
+			-149.744946,61.223824,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; Duben NNE<br/>ID: 800</description>
+		<Point> 
+			<coordinates>
+			-149.744662,61.220715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; Duben SSW<br/>ID: 775</description>
+		<Point> 
+			<coordinates>
+			-149.744865,61.220232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; Peck NNE<br/>ID: 801</description>
+		<Point> 
+			<coordinates>
+			-149.74468,61.222617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oklahoma St &amp; Peck NNW<br/>ID: 774</description>
+		<Point> 
+			<coordinates>
+			-149.744931,61.222454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Glenn &amp; Centerfield NNW<br/>ID: 916</description>
+		<Point> 
+			<coordinates>
+			-149.570575,61.322757,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Glenn &amp; Eagle River Road ENE<br/>ID: 3044</description>
+		<Point> 
+			<coordinates>
+			-149.571353,61.320306,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Glenn &amp; Eagle River Road ESE<br/>ID: 917</description>
+		<Point> 
+			<coordinates>
+			-149.570707,61.320313,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 42nd Avenue NNW<br/>ID: 973</description>
+		<Point> 
+			<coordinates>
+			-149.868399,61.182799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 46th Avenue SSE<br/>ID: 1055</description>
+		<Point> 
+			<coordinates>
+			-149.8679,61.1786,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 48th Avenue NNW<br/>ID: 975</description>
+		<Point> 
+			<coordinates>
+			-149.868399,61.1775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 48th Avenue SSE<br/>ID: 1054</description>
+		<Point> 
+			<coordinates>
+			-149.867899,61.1768,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 56th Avenue NNE<br/>ID: 1052</description>
+		<Point> 
+			<coordinates>
+			-149.8678,61.1704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 56th Avenue NNW<br/>ID: 978</description>
+		<Point> 
+			<coordinates>
+			-149.8684,61.1704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 69th Avenue SSE<br/>ID: 1048</description>
+		<Point> 
+			<coordinates>
+			-149.8639,61.157999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 70th Avenue NNW<br/>ID: 982</description>
+		<Point> 
+			<coordinates>
+			-149.8643,61.157099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 72nd Avenue SSE<br/>ID: 1047</description>
+		<Point> 
+			<coordinates>
+			-149.863799,61.1547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 73rd Avenue SSW<br/>ID: 983</description>
+		<Point> 
+			<coordinates>
+			-149.864399,61.154299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 74th Avenue SSE<br/>ID: 1046</description>
+		<Point> 
+			<coordinates>
+			-149.863899,61.1533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 76th Ave<br/>ID: 984</description>
+		<Point> 
+			<coordinates>
+			-149.864399,61.151399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 80th Avenue NNE<br/>ID: 1045</description>
+		<Point> 
+			<coordinates>
+			-149.863799,61.148799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 80th Avenue NNW<br/>ID: 986</description>
+		<Point> 
+			<coordinates>
+			-149.864299,61.148599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 82nd Ave NNE<br/>ID: 1563</description>
+		<Point> 
+			<coordinates>
+			-149.8638,61.146499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 82nd Avenue NNW<br/>ID: 987</description>
+		<Point> 
+			<coordinates>
+			-149.864299,61.1465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; 88th SSW<br/>ID: 3051</description>
+		<Point> 
+			<coordinates>
+			-149.864305,61.140381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Dimond SSW<br/>ID: 992</description>
+		<Point> 
+			<coordinates>
+			-149.864385,61.14402,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Dowling NNW<br/>ID: 979</description>
+		<Point> 
+			<coordinates>
+			-149.8683,61.1669,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Dowling SSE<br/>ID: 1051</description>
+		<Point> 
+			<coordinates>
+			-149.8667,61.1653,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Fischer SSW<br/>ID: 980</description>
+		<Point> 
+			<coordinates>
+			-149.8659,61.163799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Hamilton NNE<br/>ID: 1011</description>
+		<Point> 
+			<coordinates>
+			-149.852544,61.10038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Helen SSE<br/>ID: 1012</description>
+		<Point> 
+			<coordinates>
+			-149.855326,61.102462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Intl Arpt Rd NNE<br/>ID: 1053</description>
+		<Point> 
+			<coordinates>
+			-149.8679,61.1748,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Intl Arpt Rd SSE<br/>ID: 3721</description>
+		<Point> 
+			<coordinates>
+			-149.867799,61.1733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Intl Arpt Rd SSW<br/>ID: 977</description>
+		<Point> 
+			<coordinates>
+			-149.8684,61.1731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Klatt NNE<br/>ID: 1556</description>
+		<Point> 
+			<coordinates>
+			-149.863561,61.116379,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Klatt NNW<br/>ID: 1575</description>
+		<Point> 
+			<coordinates>
+			-149.864134,61.116539,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Lingon Berry SSE<br/>ID: 52</description>
+		<Point> 
+			<coordinates>
+			-149.863707,61.127701,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Lingon Berry SSW<br/>ID: 64</description>
+		<Point> 
+			<coordinates>
+			-149.864138,61.127451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Merlin Loop SSW<br/>ID: 981</description>
+		<Point> 
+			<coordinates>
+			-149.864299,61.1585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; O'Malley Ctr NNE<br/>ID: 1557</description>
+		<Point> 
+			<coordinates>
+			-149.863555,61.120333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; O'Malley Ctr NNW<br/>ID: 1574</description>
+		<Point> 
+			<coordinates>
+			-149.864095,61.120266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Sundown NNW<br/>ID: 60</description>
+		<Point> 
+			<coordinates>
+			-149.864252,61.133327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Sundown SSE<br/>ID: 53</description>
+		<Point> 
+			<coordinates>
+			-149.86371,61.132637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Sylvan NNE<br/>ID: 1049</description>
+		<Point> 
+			<coordinates>
+			-149.8639,61.1606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Sylvan SSW<br/>ID: 3587</description>
+		<Point> 
+			<coordinates>
+			-149.8644,61.1598,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Tudor NNE<br/>ID: 1056</description>
+		<Point> 
+			<coordinates>
+			-149.868,61.1815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Old Seward &amp; Tudor SSW<br/>ID: 974</description>
+		<Point> 
+			<coordinates>
+			-149.868399,61.179699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orca &amp; 19th Avenue NNW<br/>ID: 524</description>
+		<Point> 
+			<coordinates>
+			-149.855263,61.204075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Parsons &amp; Flower North WNW<br/>ID: 1337</description>
+		<Point> 
+			<coordinates>
+			-149.806874,61.229641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Parsons &amp; Klevin North ENE<br/>ID: 1336</description>
+		<Point> 
+			<coordinates>
+			-149.803834,61.229641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Parsons &amp; Lane WNW<br/>ID: 1335</description>
+		<Point> 
+			<coordinates>
+			-149.797954,61.229652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson &amp; 36th Avenue SSE<br/>ID: 1941</description>
+		<Point> 
+			<coordinates>
+			-149.748177,61.187704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson &amp; 36th Avenue SSW<br/>ID: 2006</description>
+		<Point> 
+			<coordinates>
+			-149.748545,61.187726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson &amp; Ambler Lane NNE<br/>ID: 1939</description>
+		<Point> 
+			<coordinates>
+			-149.748245,61.181994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson &amp; Ambler Lane SSW<br/>ID: 2008</description>
+		<Point> 
+			<coordinates>
+			-149.74863,61.181341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson &amp; MadelyNNE NNE<br/>ID: 1940</description>
+		<Point> 
+			<coordinates>
+			-149.74834,61.184526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson &amp; MadelyNNE NNW<br/>ID: 2007</description>
+		<Point> 
+			<coordinates>
+			-149.748556,61.184077,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck &amp; Muldoon ESE<br/>ID: 3682</description>
+		<Point> 
+			<coordinates>
+			-149.731981,61.22233,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck Avenue &amp; Grand Larry ENE<br/>ID: 791</description>
+		<Point> 
+			<coordinates>
+			-149.728985,61.22244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck Avenue &amp; Grand Larry ESE<br/>ID: 784</description>
+		<Point> 
+			<coordinates>
+			-149.729015,61.222341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck Avenue &amp; Orange Leaf ENE<br/>ID: 789</description>
+		<Point> 
+			<coordinates>
+			-149.719525,61.222449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck Avenue &amp; Orange Leaf ESE<br/>ID: 786</description>
+		<Point> 
+			<coordinates>
+			-149.718921,61.222339,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck Avenue &amp; Place St ESE<br/>ID: 785</description>
+		<Point> 
+			<coordinates>
+			-149.723246,61.222287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Peck Avenue &amp; Place WNW<br/>ID: 790</description>
+		<Point> 
+			<coordinates>
+			-149.724133,61.222437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Bragaw WNW<br/>ID: 511</description>
+		<Point> 
+			<coordinates>
+			-149.810676,61.216018,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Bragaw WSW<br/>ID: 747</description>
+		<Point> 
+			<coordinates>
+			-149.808748,61.215861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Kids Ct ESE<br/>ID: 442</description>
+		<Point> 
+			<coordinates>
+			-149.817182,61.215499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Kids Ct WNW<br/>ID: 513</description>
+		<Point> 
+			<coordinates>
+			-149.818405,61.215584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Northway ESE<br/>ID: 443</description>
+		<Point> 
+			<coordinates>
+			-149.812125,61.215684,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Northway WNW<br/>ID: 826</description>
+		<Point> 
+			<coordinates>
+			-149.813189,61.215668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Penland Pkwy &amp; Paul Lalone N<br/>ID: 514</description>
+		<Point> 
+			<coordinates>
+			-149.821187,61.215517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine &amp; 6th NNE<br/>ID: 7032</description>
+		<Point> 
+			<coordinates>
+			-149.793249,61.217189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine &amp; Kenai NNE<br/>ID: 1330</description>
+		<Point> 
+			<coordinates>
+			-149.792653,61.221088,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine &amp; Klondike NNW<br/>ID: 3700</description>
+		<Point> 
+			<coordinates>
+			-149.793561,61.21975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pine &amp; San Roberto NNE<br/>ID: 7033</description>
+		<Point> 
+			<coordinates>
+			-149.79328,61.213699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Alumni WNW<br/>ID: 1223</description>
+		<Point> 
+			<coordinates>
+			-149.816899,61.189968,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Elmore WSW<br/>ID: 479</description>
+		<Point> 
+			<coordinates>
+			-149.810992,61.188672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Lake Otis ESE<br/>ID: 1301</description>
+		<Point> 
+			<coordinates>
+			-149.836995,61.187911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Piper ESE<br/>ID: 291</description>
+		<Point> 
+			<coordinates>
+			-149.827835,61.187883,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Piper WSW<br/>ID: 1302</description>
+		<Point> 
+			<coordinates>
+			-149.831632,61.187899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Providence Hospital<br/>ID: 575</description>
+		<Point> 
+			<coordinates>
+			-149.816965,61.189759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Seawolf WNW<br/>ID: 1308</description>
+		<Point> 
+			<coordinates>
+			-149.832641,61.188185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Spirit WNW<br/>ID: 1307</description>
+		<Point> 
+			<coordinates>
+			-149.825312,61.188501,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Providence &amp; Spirit WSW<br/>ID: 1310</description>
+		<Point> 
+			<coordinates>
+			-149.824712,61.188341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Richardson Vista &amp; Bldg 12 West<br/>ID: 857</description>
+		<Point> 
+			<coordinates>
+			-149.855156,61.229348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Richardson Vista &amp; Bldg 14 South<br/>ID: 856</description>
+		<Point> 
+			<coordinates>
+			-149.857089,61.230477,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Richardson Vista &amp; Bldg 19 East<br/>ID: 855</description>
+		<Point> 
+			<coordinates>
+			-149.861203,61.230683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Jeronimo &amp; Bragaw WSW<br/>ID: 1292</description>
+		<Point> 
+			<coordinates>
+			-149.808706,61.211565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Jeronimo &amp; Northway ESE<br/>ID: 1291</description>
+		<Point> 
+			<coordinates>
+			-149.811247,61.211551,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 19th Avenue NNE<br/>ID: 1072</description>
+		<Point> 
+			<coordinates>
+			-149.905503,61.203678,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 26th Ave NNE<br/>ID: 240</description>
+		<Point> 
+			<coordinates>
+			-149.905242,61.197394,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 27th Avenue NNW<br/>ID: 7036</description>
+		<Point> 
+			<coordinates>
+			-149.905616,61.196587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 30th Avenue NNW<br/>ID: 130</description>
+		<Point> 
+			<coordinates>
+			-149.905567,61.193139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 33rd Avenue NNE<br/>ID: 237</description>
+		<Point> 
+			<coordinates>
+			-149.906625,61.191293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 33rd Avenue NNW<br/>ID: 131</description>
+		<Point> 
+			<coordinates>
+			-149.907481,61.190674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 34th Avenue SSW<br/>ID: 132</description>
+		<Point> 
+			<coordinates>
+			-149.908677,61.189042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 36th Avenue NNE<br/>ID: 236</description>
+		<Point> 
+			<coordinates>
+			-149.908448,61.18847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; 36th Avenue SSW<br/>ID: 1123</description>
+		<Point> 
+			<coordinates>
+			-149.908954,61.187808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Barbara WNW<br/>ID: 1136</description>
+		<Point> 
+			<coordinates>
+			-149.932972,61.182119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Benson Blvd SSE<br/>ID: 238</description>
+		<Point> 
+			<coordinates>
+			-149.905291,61.193564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Benson NNW<br/>ID: 129</description>
+		<Point> 
+			<coordinates>
+			-149.905634,61.194436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Breezewood SSW<br/>ID: 142</description>
+		<Point> 
+			<coordinates>
+			-149.94204,61.177059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Fireweed NNE<br/>ID: 3592</description>
+		<Point> 
+			<coordinates>
+			-149.905756,61.199486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Fireweed NNW<br/>ID: 959</description>
+		<Point> 
+			<coordinates>
+			-149.905968,61.199168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Forrest SSE<br/>ID: 1193</description>
+		<Point> 
+			<coordinates>
+			-149.934613,61.181643,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Greenland WNW<br/>ID: 134</description>
+		<Point> 
+			<coordinates>
+			-149.914834,61.186666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Hillcrest SSE<br/>ID: 1071</description>
+		<Point> 
+			<coordinates>
+			-149.907449,61.200246,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Intl Arpt Rd NNE<br/>ID: 227</description>
+		<Point> 
+			<coordinates>
+			-149.943772,61.17512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Intl Arpt Rd NNW<br/>ID: 143</description>
+		<Point> 
+			<coordinates>
+			-149.944283,61.175228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Iowa SSE<br/>ID: 1194</description>
+		<Point> 
+			<coordinates>
+			-149.929219,61.182522,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Iowa WNW<br/>ID: 1135</description>
+		<Point> 
+			<coordinates>
+			-149.929104,61.182919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Lakeshore WNW<br/>ID: 1138</description>
+		<Point> 
+			<coordinates>
+			-149.9382,61.180331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Mckinley SSE<br/>ID: 232</description>
+		<Point> 
+			<coordinates>
+			-149.926171,61.183983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Mcrae WNW<br/>ID: 136</description>
+		<Point> 
+			<coordinates>
+			-149.923969,61.185174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Minnesota ENE<br/>ID: 133</description>
+		<Point> 
+			<coordinates>
+			-149.912189,61.186983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Minnesota ESE<br/>ID: 235</description>
+		<Point> 
+			<coordinates>
+			-149.911703,61.186841,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Northern Lights NNE<br/>ID: 239</description>
+		<Point> 
+			<coordinates>
+			-149.905288,61.195857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Northwood ENE<br/>ID: 137</description>
+		<Point> 
+			<coordinates>
+			-149.927104,61.183868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Oregon WNW<br/>ID: 135</description>
+		<Point> 
+			<coordinates>
+			-149.918527,61.186076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Taft ESE<br/>ID: 233</description>
+		<Point> 
+			<coordinates>
+			-149.922413,61.185366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Turnagain Blvd WNW<br/>ID: 1137</description>
+		<Point> 
+			<coordinates>
+			-149.935655,61.181557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Valleywood NNE<br/>ID: 228</description>
+		<Point> 
+			<coordinates>
+			-149.940312,61.177653,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Wisconsin NNE<br/>ID: 229</description>
+		<Point> 
+			<coordinates>
+			-149.938264,61.17959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Wisconsin SSW<br/>ID: 141</description>
+		<Point> 
+			<coordinates>
+			-149.939617,61.178722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spenard &amp; Wyoming WSW<br/>ID: 234</description>
+		<Point> 
+			<coordinates>
+			-149.916088,61.186327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; B Street ENE<br/>ID: 2031</description>
+		<Point> 
+			<coordinates>
+			-149.882813,61.180946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Baxter ESE<br/>ID: 1938</description>
+		<Point> 
+			<coordinates>
+			-149.761633,61.180654,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Baxter WNW<br/>ID: 467</description>
+		<Point> 
+			<coordinates>
+			-149.76461,61.180918,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Boniface ESE<br/>ID: 1936</description>
+		<Point> 
+			<coordinates>
+			-149.776901,61.180601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Boniface WNW<br/>ID: 2012</description>
+		<Point> 
+			<coordinates>
+			-149.780731,61.180927,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; C Street ESE<br/>ID: 1920</description>
+		<Point> 
+			<coordinates>
+			-149.885032,61.180571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Checkmate ESE<br/>ID: 1935</description>
+		<Point> 
+			<coordinates>
+			-149.785116,61.180709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Checkmate WNW<br/>ID: 2014</description>
+		<Point> 
+			<coordinates>
+			-149.787295,61.180911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Cordova ESE<br/>ID: 1921</description>
+		<Point> 
+			<coordinates>
+			-149.87751,61.180655,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Dale WNW<br/>ID: 2019</description>
+		<Point> 
+			<coordinates>
+			-149.819592,61.180922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Defiance ESE<br/>ID: 1937</description>
+		<Point> 
+			<coordinates>
+			-149.769162,61.18064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Defiance WNW<br/>ID: 2011</description>
+		<Point> 
+			<coordinates>
+			-149.77232,61.1809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Denali WNW<br/>ID: 2029</description>
+		<Point> 
+			<coordinates>
+			-149.878011,61.180901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Eau Claire ENE<br/>ID: 2026</description>
+		<Point> 
+			<coordinates>
+			-149.854521,61.18095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Elmore WNW<br/>ID: 2017</description>
+		<Point> 
+			<coordinates>
+			-149.809612,61.180898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Fairbanks WSW<br/>ID: 1922</description>
+		<Point> 
+			<coordinates>
+			-149.873753,61.180637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Florina WNW<br/>ID: 2018</description>
+		<Point> 
+			<coordinates>
+			-149.814463,61.180914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Folker WNW<br/>ID: 2021</description>
+		<Point> 
+			<coordinates>
+			-149.831344,61.180961,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Kingston ENE<br/>ID: 2009</description>
+		<Point> 
+			<coordinates>
+			-149.757279,61.180895,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Lake Otis ESE<br/>ID: 1926</description>
+		<Point> 
+			<coordinates>
+			-149.835258,61.180707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Lake Otis WNW<br/>ID: 2023</description>
+		<Point> 
+			<coordinates>
+			-149.840025,61.180997,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Laurel WNW<br/>ID: 2022</description>
+		<Point> 
+			<coordinates>
+			-149.835397,61.180995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; MaciNNEs ESE<br/>ID: 1925</description>
+		<Point> 
+			<coordinates>
+			-149.848478,61.180711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; MaciNNEs WNW<br/>ID: 2025</description>
+		<Point> 
+			<coordinates>
+			-149.850799,61.180943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; New Seward WNW<br/>ID: 2027</description>
+		<Point> 
+			<coordinates>
+			-149.865124,61.180919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Old Seward ESE<br/>ID: 1923</description>
+		<Point> 
+			<coordinates>
+			-149.866479,61.180638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Old Seward WNW<br/>ID: 2028</description>
+		<Point> 
+			<coordinates>
+			-149.869338,61.180905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Piper WSW<br/>ID: 1928</description>
+		<Point> 
+			<coordinates>
+			-149.824316,61.180725,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Shelikof WSW<br/>ID: 1924</description>
+		<Point> 
+			<coordinates>
+			-149.854151,61.1807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Tudor Centre ESE<br/>ID: 1933</description>
+		<Point> 
+			<coordinates>
+			-149.794074,61.180602,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; University Pl Apt ENE<br/>ID: 2024</description>
+		<Point> 
+			<coordinates>
+			-149.845419,61.180972,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; View ESE<br/>ID: 1929</description>
+		<Point> 
+			<coordinates>
+			-149.817487,61.18072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor &amp; Wright ENE<br/>ID: 2020</description>
+		<Point> 
+			<coordinates>
+			-149.825768,61.180932,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor Centre &amp; Anmc Xwalk ESE<br/>ID: 3075</description>
+		<Point> 
+			<coordinates>
+			-149.798885,61.183554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor Centre &amp; Anmc Xwalk WNW<br/>ID: 7019</description>
+		<Point> 
+			<coordinates>
+			-149.800099,61.183721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor Centre &amp; Diplomacy Dr NNE<br/>ID: 7020</description>
+		<Point> 
+			<coordinates>
+			-149.79502,61.182127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor Centre &amp; Diplomacy SSW<br/>ID: 7037</description>
+		<Point> 
+			<coordinates>
+			-149.803776,61.1818,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tudor Centre &amp; Kidney Ctr SSW<br/>ID: 3077</description>
+		<Point> 
+			<coordinates>
+			-149.795203,61.182428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turpin &amp; 2nd Avenue NNE<br/>ID: 770</description>
+		<Point> 
+			<coordinates>
+			-149.755824,61.22094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turpin &amp; 2nd Avenue SSW<br/>ID: 805</description>
+		<Point> 
+			<coordinates>
+			-149.756065,61.220286,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turpin &amp; 4th Avenue SSE<br/>ID: 769</description>
+		<Point> 
+			<coordinates>
+			-149.755812,61.218326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turpin &amp; 4th Avenue SSW<br/>ID: 806</description>
+		<Point> 
+			<coordinates>
+			-149.756083,61.218657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turpin &amp; 6th Avenue SSW<br/>ID: 807</description>
+		<Point> 
+			<coordinates>
+			-149.756039,61.216849,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turpin &amp; Queensview NNE<br/>ID: 768</description>
+		<Point> 
+			<coordinates>
+			-149.755885,61.216365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Uaa Drive &amp; Northern Lights SSW<br/>ID: 391</description>
+		<Point> 
+			<coordinates>
+			-149.827137,61.195274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Uaa Drive &amp; Providence NNE<br/>ID: 293</description>
+		<Point> 
+			<coordinates>
+			-149.82235,61.190266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Uaa Drive &amp; Providence NNW<br/>ID: 392</description>
+		<Point> 
+			<coordinates>
+			-149.823309,61.19092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Va Outpatient Clinic<br/>ID: 2209</description>
+		<Point> 
+			<coordinates>
+			-149.74357,61.232413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 29th Avenue SSE<br/>ID: 7042</description>
+		<Point> 
+			<coordinates>
+			-149.942547,61.19419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 29th Avenue SSW<br/>ID: 7043</description>
+		<Point> 
+			<coordinates>
+			-149.943283,61.193998,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 32nd Avenue NNE<br/>ID: 7040</description>
+		<Point> 
+			<coordinates>
+			-149.942747,61.19194,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 32nd Avenue SSW<br/>ID: 7039</description>
+		<Point> 
+			<coordinates>
+			-149.942961,61.191424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 35th Avenue NNE<br/>ID: 7038</description>
+		<Point> 
+			<coordinates>
+			-149.942572,61.189257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 40th Avenue NNE<br/>ID: 3080</description>
+		<Point> 
+			<coordinates>
+			-149.9427,61.184999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 40th Avenue SSW<br/>ID: 3081</description>
+		<Point> 
+			<coordinates>
+			-149.942899,61.184199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; 43rd Avenue NNE<br/>ID: 1139</description>
+		<Point> 
+			<coordinates>
+			-149.942699,61.1813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Balchen NNE<br/>ID: 1140</description>
+		<Point> 
+			<coordinates>
+			-149.9427,61.183399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Balchen SSW<br/>ID: 1190</description>
+		<Point> 
+			<coordinates>
+			-149.9429,61.182699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Lakeshore NNE<br/>ID: 3082</description>
+		<Point> 
+			<coordinates>
+			-149.9413,61.179899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Lakeshore SSW<br/>ID: 1191</description>
+		<Point> 
+			<coordinates>
+			-149.942499,61.1804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Milky Way SSW<br/>ID: 1188</description>
+		<Point> 
+			<coordinates>
+			-149.942999,61.188399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Wiley Post Ave SSE<br/>ID: 1141</description>
+		<Point> 
+			<coordinates>
+			-149.9427,61.186799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wisconsin &amp; Wiley Post Lp SSW<br/>ID: 1189</description>
+		<Point> 
+			<coordinates>
+			-149.9429,61.186499,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

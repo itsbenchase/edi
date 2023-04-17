@@ -45,6 +45,24 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
+		<name>282</name>
+		<styleUrl>#1.5</styleUrl>
+		<description>Agency: ct-ct<br/>EDI: 1.94</description>
+		<LineString> 
+			<coordinates>
+			-72.878155,41.320321,0
+			-72.874605,41.32102,0
+			-72.886187,41.308392,0
+			-72.884983,41.307616,0
+			-72.884008,41.307241,0
+			-72.882418,41.306598,0
+			-72.880998,41.306018,0
+			-72.878168,41.304912,0
+			-72.87681,41.306458,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>345</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Agency: ct-ct<br/>EDI: 1.07</description>
