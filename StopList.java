@@ -46,6 +46,7 @@ public class StopList
         fileWriter1.append("<ul><li><a href=../index.html>Home</a></li>");
         fileWriter1.append("<li><a href=../stops.html class=active>Stop Listing</a></li> \n");
         fileWriter1.append("<li><a href=../routes.html>Route Listing</a></li> \n");
+        fileWriter1.append("<li><a href=../stats.html>Statistics</a></li> \n");
         fileWriter1.append("<li><a href=../calculator.html>Calculator</a></li></ul> \n");
         fileWriter1.append("<h1>Stop Listing</h1> \n");
 
@@ -112,6 +113,7 @@ public class StopList
       fileWriter2.append("<ul><li><a href=index.html>Home</a></li>");
       fileWriter2.append("<li><a href=stops.html class=active>Stop Listing</a></li> \n");
       fileWriter2.append("<li><a href=routes.html>Route Listing</a></li> \n");
+      fileWriter2.append("<li><a href=stats.html>Statistics</a></li> \n");
       fileWriter2.append("<li><a href=calculator.html>Calculator</a></li></ul> \n");
       fileWriter2.append("<h1>Stop Listing</h1> \n");
       fileWriter2.append("<p> \n");

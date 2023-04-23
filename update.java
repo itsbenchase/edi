@@ -8,7 +8,8 @@ public class update
     FullMap c = new FullMap();
     AgencyMap d = new AgencyMap();
     StopMap e = new StopMap();
-    Stats f = new Stats("global");
+    StatsList f = new StatsList();
+    Stats g = new Stats("global");
 
     a.main(args);
     b.main(args);
@@ -16,5 +17,6 @@ public class update
     d.main(args);
     e.main(args);
     f.main(args);
+    g.main(args);
   }
 }

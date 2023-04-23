@@ -1,5 +1,7 @@
 // creates statistics
 // median and mean length and EDI
+// just for stats display on my end
+// stats page generated with StatsList.java
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
