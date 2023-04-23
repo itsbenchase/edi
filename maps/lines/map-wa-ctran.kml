@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>wa-ctran routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>Vine</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: wa-ctran<br/>EDI: 1.18</description>
+		<LineString> 
+			<coordinates>
+			-122.584719,45.656179,0
+			-122.586515,45.652914,0
+			-122.584374,45.650645,0
+			-122.593883,45.646705,0
+			-122.602219,45.644664,0
+			-122.605564,45.644131,0
+			-122.611942,45.64253,0
+			-122.617063,45.641232,0
+			-122.620881,45.640217,0
+			-122.633282,45.637591,0
+			-122.64222,45.638167,0
+			-122.648399,45.63817,0
+			-122.651441,45.637096,0
+			-122.655094,45.635253,0
+			-122.6606,45.633959,0
+			-122.672306,45.634912,0
+			-122.67276,45.630524,0
+			-122.672005,45.626637,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

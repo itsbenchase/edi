@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ga-marta routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>Red</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ga-marta<br/>EDI: 1.05</description>
+		<LineString> 
+			<coordinates>
+			-84.446198,33.640831,0
+			-84.448656,33.650577,0
+			-84.440542,33.677424,0
+			-84.428768,33.70088,0
+			-84.42503,33.7173,0
+			-84.413653,33.736564,0
+			-84.395545,33.748938,0
+			-84.391452,33.754052,0
+			-84.387596,33.758189,0
+			-84.387504,33.766236,0
+			-84.387204,33.771741,0
+			-84.386353,33.781355,0
+			-84.387414,33.789669,0
+			-84.369324,33.823492,0
+			-84.367716,33.847944,0
+			-84.351759,33.910739,0
+			-84.344268,33.92113,0
+			-84.351069,33.931671,0
+			-84.357275,33.94495,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Green</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ga-marta<br/>EDI: 1.11</description>
+		<LineString> 
+			<coordinates>
+			-84.428873,33.772159,0
+			-84.41723,33.756478,0
+			-84.403902,33.756613,0
+			-84.397215,33.756179,0
+			-84.391397,33.753837,0
+			-84.385882,33.750143,0
+			-84.375675,33.749951,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Gold</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ga-marta<br/>EDI: 1.05</description>
+		<LineString> 
+			<coordinates>
+			-84.446198,33.640831,0
+			-84.448656,33.650577,0
+			-84.440542,33.677424,0
+			-84.428768,33.70088,0
+			-84.42503,33.7173,0
+			-84.413653,33.736564,0
+			-84.395545,33.748938,0
+			-84.391452,33.754052,0
+			-84.387596,33.758189,0
+			-84.387504,33.766236,0
+			-84.387204,33.771741,0
+			-84.386353,33.781355,0
+			-84.387414,33.789669,0
+			-84.369324,33.823492,0
+			-84.358235,33.845388,0
+			-84.339245,33.860329,0
+			-84.305556,33.887929,0
+			-84.28061,33.902787,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Blue</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ga-marta<br/>EDI: 1.04</description>
+		<LineString> 
+			<coordinates>
+			-84.469302,33.754553,0
+			-84.445329,33.753328,0
+			-84.41723,33.756478,0
+			-84.403902,33.756613,0
+			-84.397215,33.756179,0
+			-84.391397,33.753837,0
+			-84.385882,33.750143,0
+			-84.375675,33.749951,0
+			-84.352762,33.757451,0
+			-84.340456,33.761866,0
+			-84.312937,33.765241,0
+			-84.295319,33.774681,0
+			-84.281487,33.775554,0
+			-84.251607,33.772647,0
+			-84.228906,33.769856,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
