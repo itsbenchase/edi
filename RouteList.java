@@ -58,7 +58,7 @@ public class RouteList
         fileWriter1.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
 
         ArrayList<String> routeCode = new ArrayList<String>();
-        ArrayList<String> routeDisp = new ArrayList<String>();
+        ArrayList<String> routeDist = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
         ArrayList<String> routeOfficial = new ArrayList<String>();
         int agencyCount = 0;
@@ -83,8 +83,8 @@ public class RouteList
               String code = data.substring(0, data.indexOf(";"));
               routeCode.add(code);
               data = data.substring(data.indexOf(";") + 1);
-              String disp = data.substring(0, data.indexOf(";"));
-              routeDisp.add(disp);
+              String dist = data.substring(0, data.indexOf(";"));
+              routeDist.add(dist);
               data = data.substring(data.indexOf(";") + 1);
               String edi = data;
               routeEdi.add(edi);
@@ -98,18 +98,18 @@ public class RouteList
           // System.out.println("Error, no EDI file (" + agencies.get(i) + ")"); // expected error if no routes in database.
         }
 
-        fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length (mi)</th><th>Eliot Deviation Index</th></tr> \n");
+        fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n");
 
         // route table created
         for (int j = 0; j < routeCode.size(); j++)
         {
           if (routeOfficial.get(j).equals("y"))
           {
-            fileWriter1.append("<tr><td style=color:red>" + routeCode.get(j) + "</td><td>" + routeDisp.get(j) + "</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+            fileWriter1.append("<tr><td style=color:red>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
           }
           else
           {
-            fileWriter1.append("<tr><td style=color:blue>" + routeCode.get(j) + "</td><td>" + routeDisp.get(j) + "</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+            fileWriter1.append("<tr><td style=color:blue>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + "mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
           }
         }
 
