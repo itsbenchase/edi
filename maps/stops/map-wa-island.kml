@@ -210,19 +210,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Bailey Rd at Cultus Bay Rd<br/>ID: 407</description>
+		<description>Name: Bailey Rd at Cultus Bay Rd<br/>ID: 2579</description>
 		<Point> 
 			<coordinates>
-			-122.399243,47.93659,0
+			-122.39916,47.936659,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Bailey Rd at Cultus Bay Rd<br/>ID: 2579</description>
+		<description>Name: Bailey Rd at Cultus Bay Rd<br/>ID: 407</description>
 		<Point> 
 			<coordinates>
-			-122.39916,47.936659,0
+			-122.399243,47.93659,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -300,15 +300,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Bayshore Dr at Grocery Outlet<br/>ID: 3506</description>
-		<Point> 
-			<coordinates>
-			-122.65968,48.285158,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Bayshore at City Beach<br/>ID: 1262</description>
 		<Point> 
 			<coordinates>
@@ -327,6 +318,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Bayshore Dr at Grocery Outlet<br/>ID: 3506</description>
+		<Point> 
+			<coordinates>
+			-122.65968,48.285158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Bayview Garden on 272nd St at 78th<br/>ID: 1011</description>
 		<Point> 
 			<coordinates>
@@ -336,19 +336,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Bayview P&amp;R<br/>ID: 57</description>
+		<description>Name: Bayview P&amp;R<br/>ID: 1209</description>
 		<Point> 
 			<coordinates>
-			-122.461829,48.003353,0
+			-122.461948,48.003659,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Bayview P&amp;R<br/>ID: 1209</description>
+		<description>Name: Bayview P&amp;R<br/>ID: 57</description>
 		<Point> 
 			<coordinates>
-			-122.461948,48.003659,0
+			-122.461829,48.003353,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -480,6 +480,24 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Camano at CanKu<br/>ID: 1166</description>
+		<Point> 
+			<coordinates>
+			-122.477768,48.217171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Camano at Chapman Rd<br/>ID: 1130</description>
+		<Point> 
+			<coordinates>
+			-122.527967,48.175648,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Camano Ave at Edgecliff Dr<br/>ID: 96</description>
 		<Point> 
 			<coordinates>
@@ -511,33 +529,6 @@
 		<Point> 
 			<coordinates>
 			-122.402465,48.034461,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Camano Dr S at El Camano St<br/>ID: 123</description>
-		<Point> 
-			<coordinates>
-			-122.435456,48.109085,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Camano Dr SE at Dan St<br/>ID: 117</description>
-		<Point> 
-			<coordinates>
-			-122.454029,48.142074,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Camano Dr SE at Shuksan Dr<br/>ID: 120</description>
-		<Point> 
-			<coordinates>
-			-122.40248,48.10008,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -579,6 +570,33 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Camano Dr S at El Camano St<br/>ID: 123</description>
+		<Point> 
+			<coordinates>
+			-122.435456,48.109085,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Camano Dr SE at Dan St<br/>ID: 117</description>
+		<Point> 
+			<coordinates>
+			-122.454029,48.142074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Camano Dr SE at Shuksan Dr<br/>ID: 120</description>
+		<Point> 
+			<coordinates>
+			-122.40248,48.10008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Camano Hill Rd at Chapman Rd<br/>ID: 1127</description>
 		<Point> 
 			<coordinates>
@@ -597,15 +615,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Camano St<br/>ID: 999</description>
-		<Point> 
-			<coordinates>
-			-122.367724,48.241289,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Camano St<br/>ID: 2568</description>
 		<Point> 
 			<coordinates>
@@ -615,19 +624,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Camano at CanKu<br/>ID: 1166</description>
+		<description>Name: Camano St<br/>ID: 999</description>
 		<Point> 
 			<coordinates>
-			-122.477768,48.217171,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Camano at Chapman Rd<br/>ID: 1130</description>
-		<Point> 
-			<coordinates>
-			-122.527967,48.175648,0
+			-122.367724,48.241289,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -651,19 +651,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Chapman Rd at Falcon Rd<br/>ID: 102</description>
+		<description>Name: Chapman and Rowe<br/>ID: 1128</description>
 		<Point> 
 			<coordinates>
-			-122.520061,48.177505,0
+			-122.519258,48.178517,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Chapman and Rowe<br/>ID: 1128</description>
+		<description>Name: Chapman Rd at Falcon Rd<br/>ID: 102</description>
 		<Point> 
 			<coordinates>
-			-122.519258,48.178517,0
+			-122.520061,48.177505,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -768,19 +768,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Coveland St at Alexander St<br/>ID: 851</description>
+		<description>Name: Coveland at Alexander St<br/>ID: 837</description>
 		<Point> 
 			<coordinates>
-			-122.68863,48.220527,0
+			-122.68863,48.220354,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Coveland at Alexander St<br/>ID: 837</description>
+		<description>Name: Coveland St at Alexander St<br/>ID: 851</description>
 		<Point> 
 			<coordinates>
-			-122.68863,48.220354,0
+			-122.68863,48.220527,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -840,19 +840,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Cultus Bay Rd at French Rd<br/>ID: 412</description>
+		<description>Name: Cultus Bay Rd at French Rd<br/>ID: 2577</description>
 		<Point> 
 			<coordinates>
-			-122.397353,47.956571,0
+			-122.397553,47.956711,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Cultus Bay Rd at French Rd<br/>ID: 2577</description>
+		<description>Name: Cultus Bay Rd at French Rd<br/>ID: 412</description>
 		<Point> 
 			<coordinates>
-			-122.397553,47.956711,0
+			-122.397353,47.956571,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -876,19 +876,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Day Rd at Christenson Rd<br/>ID: 82</description>
+		<description>Name: Day Rd at Christenson Rd<br/>ID: 3012</description>
 		<Point> 
 			<coordinates>
-			-122.58307,48.087158,0
+			-122.582922,48.087322,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Day Rd at Christenson Rd<br/>ID: 3012</description>
+		<description>Name: Day Rd at Christenson Rd<br/>ID: 82</description>
 		<Point> 
 			<coordinates>
-			-122.582922,48.087322,0
+			-122.58307,48.087158,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1011,24 +1011,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: EVCC Tower &amp; Broadway<br/>ID: 1031</description>
-		<Point> 
-			<coordinates>
-			-122.197232,48.006151,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: EVCC Tower &amp; Broadway<br/>ID: 1032</description>
-		<Point> 
-			<coordinates>
-			-122.196879,48.005994,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: East Harbor Rd at Freeland Post Office<br/>ID: 1073</description>
 		<Point> 
 			<coordinates>
@@ -1110,6 +1092,24 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: EVCC Tower &amp; Broadway<br/>ID: 1031</description>
+		<Point> 
+			<coordinates>
+			-122.197232,48.006151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: EVCC Tower &amp; Broadway<br/>ID: 1032</description>
+		<Point> 
+			<coordinates>
+			-122.196879,48.005994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Everett Station<br/>ID: 1033</description>
 		<Point> 
 			<coordinates>
@@ -1164,7 +1164,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Fort Nugent &amp; Zylstra<br/>ID: 1067</description>
+		<description>Name: Fort Nugent &amp; Zylstra<br/>ID: 1066</description>
 		<Point> 
 			<coordinates>
 			-122.71396,48.282756,0
@@ -1177,15 +1177,6 @@
 		<Point> 
 			<coordinates>
 			-122.713197,48.282907,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Fort Nugent Ave at Quince St (Fireside)<br/>ID: 1189</description>
-		<Point> 
-			<coordinates>
-			-122.67833,48.284232,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1227,7 +1218,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Fort Nugent at Swantown to Oak Harbor<br/>ID: 858</description>
+		<description>Name: Fort Nugent at Swantown to Oak Harbor<br/>ID: 859</description>
 		<Point> 
 			<coordinates>
 			-122.67307,48.28406,0
@@ -1240,6 +1231,15 @@
 		<Point> 
 			<coordinates>
 			-122.683673,48.282877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Nugent Ave at Quince St (Fireside)<br/>ID: 1189</description>
+		<Point> 
+			<coordinates>
+			-122.67833,48.284232,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1272,19 +1272,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Freeland P&amp;R<br/>ID: 1078</description>
+		<description>Name: Freeland at Main St<br/>ID: 1077</description>
 		<Point> 
 			<coordinates>
-			-122.536966,48.010451,0
+			-122.525673,48.009642,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Freeland at Main St<br/>ID: 1077</description>
+		<description>Name: Freeland P&amp;R<br/>ID: 1078</description>
 		<Point> 
 			<coordinates>
-			-122.525673,48.009642,0
+			-122.536966,48.010451,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1353,15 +1353,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Goldie Rd S. of Ault Field Rd (N. Whidbey Center)<br/>ID: 776</description>
-		<Point> 
-			<coordinates>
-			-122.648602,48.324693,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Goldie Rd at 21st Court<br/>ID: 1410</description>
 		<Point> 
 			<coordinates>
@@ -1375,6 +1366,15 @@
 		<Point> 
 			<coordinates>
 			-122.647712,48.315841,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goldie Rd S. of Ault Field Rd (N. Whidbey Center)<br/>ID: 776</description>
+		<Point> 
+			<coordinates>
+			-122.648602,48.324693,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1434,6 +1434,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Hangars 11 / 14 / Air Terminal<br/>ID: 2606</description>
+		<Point> 
+			<coordinates>
+			-122.669591,48.343089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Hangars 5 / 12<br/>ID: 2608</description>
 		<Point> 
 			<coordinates>
@@ -1456,15 +1465,6 @@
 		<Point> 
 			<coordinates>
 			-122.665753,48.341213,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Hangars 11 / 14 / Air Terminal<br/>ID: 2606</description>
-		<Point> 
-			<coordinates>
-			-122.669591,48.343089,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1587,19 +1587,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: I-5 P&amp;R<br/>ID: 941</description>
+		<description>Name: I-5 P&amp;R<br/>ID: 1030</description>
 		<Point> 
 			<coordinates>
-			-122.243282,48.238202,0
+			-122.243111,48.238669,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: I-5 P&amp;R<br/>ID: 1030</description>
+		<description>Name: I-5 P&amp;R<br/>ID: 941</description>
 		<Point> 
 			<coordinates>
-			-122.243111,48.238669,0
+			-122.243282,48.238202,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1623,15 +1623,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Jewett Rd at Bailey's Store<br/>ID: 408</description>
-		<Point> 
-			<coordinates>
-			-122.389132,47.93186,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Jewett Rd at Bailey's Store<br/>ID: 2562</description>
 		<Point> 
 			<coordinates>
@@ -1641,10 +1632,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Jewett Rd at Glendale Rd<br/>ID: 410</description>
+		<description>Name: Jewett Rd at Bailey's Store<br/>ID: 408</description>
 		<Point> 
 			<coordinates>
-			-122.38798,47.942063,0
+			-122.389132,47.93186,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1659,10 +1650,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Jewett Rd at Sorrel Ln<br/>ID: 409</description>
+		<description>Name: Jewett Rd at Glendale Rd<br/>ID: 410</description>
 		<Point> 
 			<coordinates>
-			-122.389807,47.937006,0
+			-122.38798,47.942063,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1672,6 +1663,15 @@
 		<Point> 
 			<coordinates>
 			-122.389939,47.936999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jewett Rd at Sorrel Ln<br/>ID: 409</description>
+		<Point> 
+			<coordinates>
+			-122.389807,47.937006,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1704,19 +1704,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Lagoon Point Rd at Gylany Way<br/>ID: 83</description>
+		<description>Name: Lagoon Point Rd at Gylany Way<br/>ID: 3011</description>
 		<Point> 
 			<coordinates>
-			-122.602114,48.079728,0
+			-122.602109,48.079635,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Lagoon Point Rd at Gylany Way<br/>ID: 3011</description>
+		<description>Name: Lagoon Point Rd at Gylany Way<br/>ID: 83</description>
 		<Point> 
 			<coordinates>
-			-122.602109,48.079635,0
+			-122.602114,48.079728,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1866,7 +1866,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Madrona at Vine<br/>ID: 1189</description>
+		<description>Name: Madrona at Vine<br/>ID: 1192</description>
 		<Point> 
 			<coordinates>
 			-122.697917,48.218135,0
@@ -1974,6 +1974,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Maxwelton at SR 525<br/>ID: 1323</description>
+		<Point> 
+			<coordinates>
+			-122.414683,48.001879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Maxwelton Rd at Castle Park (Northbound)<br/>ID: 2570</description>
 		<Point> 
 			<coordinates>
@@ -2001,15 +2010,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Maxwelton Rd at SW High School<br/>ID: 1194</description>
-		<Point> 
-			<coordinates>
-			-122.412028,48.005676,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Maxwelton Rd at South Whidbey Elementary<br/>ID: 2571</description>
 		<Point> 
 			<coordinates>
@@ -2019,10 +2019,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Maxwelton at SR 525<br/>ID: 1323</description>
+		<description>Name: Maxwelton Rd at SW High School<br/>ID: 1194</description>
 		<Point> 
 			<coordinates>
-			-122.414683,48.001879,0
+			-122.412028,48.005676,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2041,6 +2041,15 @@
 		<Point> 
 			<coordinates>
 			-122.360692,48.242065,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Midway at 8th (McDonalds)<br/>ID: 779</description>
+		<Point> 
+			<coordinates>
+			-122.643516,48.305075,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2118,37 +2127,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Midway at 8th (McDonalds)<br/>ID: 779</description>
-		<Point> 
-			<coordinates>
-			-122.643516,48.305075,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Monkey Hill Rd. at Ducken Rd. (on request)<br/>ID: 1248</description>
 		<Point> 
 			<coordinates>
 			-122.636626,48.386938,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Monroe Landing Rd at AJ Eisenberg Airport<br/>ID: 17</description>
-		<Point> 
-			<coordinates>
-			-122.680529,48.251046,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Monroe Landing Rd at SR 20 (Blue Fox Drive-in)<br/>ID: 1098</description>
-		<Point> 
-			<coordinates>
-			-122.680661,48.261033,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2167,6 +2149,24 @@
 		<Point> 
 			<coordinates>
 			-122.680706,48.250997,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Landing Rd at AJ Eisenberg Airport<br/>ID: 17</description>
+		<Point> 
+			<coordinates>
+			-122.680529,48.251046,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Landing Rd at SR 20 (Blue Fox Drive-in)<br/>ID: 1098</description>
+		<Point> 
+			<coordinates>
+			-122.680661,48.261033,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2226,10 +2226,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: NE 7th Ave at Lexy Manor<br/>ID: 1381</description>
+		<description>Name: NE 16th at SR 20<br/>ID: 3500</description>
 		<Point> 
 			<coordinates>
-			-122.654041,48.303827,0
+			-122.639481,48.311274,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2244,37 +2244,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: NE 16th at SR 20<br/>ID: 3500</description>
+		<description>Name: NE 7th Ave at Lexy Manor<br/>ID: 1381</description>
 		<Point> 
 			<coordinates>
-			-122.639481,48.311274,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: NW Madrona Way at SR 20<br/>ID: 1280</description>
-		<Point> 
-			<coordinates>
-			-122.735758,48.23251,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: NW Madrona Way at SR 20<br/>ID: 1281</description>
-		<Point> 
-			<coordinates>
-			-122.735897,48.23246,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: North Camano Dr at Maple Grove Rd<br/>ID: 1124</description>
-		<Point> 
-			<coordinates>
-			-122.509764,48.252191,0
+			-122.654041,48.303827,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2307,6 +2280,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: North Camano Dr at Maple Grove Rd<br/>ID: 1124</description>
+		<Point> 
+			<coordinates>
+			-122.509764,48.252191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Northwest Camano and Swanson Ln<br/>ID: 1143</description>
 		<Point> 
 			<coordinates>
@@ -2320,6 +2302,24 @@
 		<Point> 
 			<coordinates>
 			-122.520915,48.239516,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: NW Madrona Way at SR 20<br/>ID: 1280</description>
+		<Point> 
+			<coordinates>
+			-122.735758,48.23251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: NW Madrona Way at SR 20<br/>ID: 1281</description>
+		<Point> 
+			<coordinates>
+			-122.735897,48.23246,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2415,6 +2415,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Pioneer at Ace Hardware<br/>ID: 1269</description>
+		<Point> 
+			<coordinates>
+			-122.654293,48.287864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Pioneer Ave at Regatta Dr<br/>ID: 746</description>
 		<Point> 
 			<coordinates>
@@ -2487,15 +2496,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Pioneer at Ace Hardware<br/>ID: 1269</description>
-		<Point> 
-			<coordinates>
-			-122.654293,48.287864,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Prairie View at Wanamaker<br/>ID: 847</description>
 		<Point> 
 			<coordinates>
@@ -2559,19 +2559,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: S Camano Dr and S Broadmoore Rd<br/>ID: 989</description>
+		<description>Name: S Camano at Sunnyshore<br/>ID: 1164</description>
 		<Point> 
 			<coordinates>
-			-122.429398,48.108807,0
+			-122.418981,48.103935,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: S Camano at Sunnyshore<br/>ID: 1164</description>
+		<description>Name: S Camano Dr and S Broadmoore Rd<br/>ID: 989</description>
 		<Point> 
 			<coordinates>
-			-122.418981,48.103935,0
+			-122.429398,48.108807,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2622,10 +2622,46 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SE 8th Ave and Dock St<br/>ID: 1250</description>
+		<description>Name: San Juan Ave at Harper St<br/>ID: 204</description>
 		<Point> 
 			<coordinates>
-			-122.649935,48.291225,0
+			-122.417723,47.923466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saratoga St at Intruder St<br/>ID: 2612</description>
+		<Point> 
+			<coordinates>
+			-122.68036,48.340841,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scatchet Head Rd<br/>ID: 207</description>
+		<Point> 
+			<coordinates>
+			-122.410775,47.936706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scatchet Head Rd at Bailey Rd<br/>ID: 200</description>
+		<Point> 
+			<coordinates>
+			-122.410862,47.93672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Se 4th Ave at Glencoe St<br/>ID: 1416</description>
+		<Point> 
+			<coordinates>
+			-122.648427,48.294984,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2635,6 +2671,69 @@
 		<Point> 
 			<coordinates>
 			-122.647064,48.291806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE 8th Ave and Dock St<br/>ID: 1250</description>
+		<Point> 
+			<coordinates>
+			-122.649935,48.291225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE Camano at Cavalero Rd<br/>ID: 1147</description>
+		<Point> 
+			<coordinates>
+			-122.479974,48.175466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE Camano at E Sandell Rd<br/>ID: 1165</description>
+		<Point> 
+			<coordinates>
+			-122.431673,48.121657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE Camano at Karen Way<br/>ID: 1160</description>
+		<Point> 
+			<coordinates>
+			-122.406793,48.10319,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE Camano at Mountain View Rd<br/>ID: 1122</description>
+		<Point> 
+			<coordinates>
+			-122.450933,48.138456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE Camano at Sunnyshore Dr<br/>ID: 1159</description>
+		<Point> 
+			<coordinates>
+			-122.413058,48.107911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SE Camano at W Brejon Way<br/>ID: 1156</description>
+		<Point> 
+			<coordinates>
+			-122.48183,48.167617,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2703,60 +2802,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SE Camano at Cavalero Rd<br/>ID: 1147</description>
-		<Point> 
-			<coordinates>
-			-122.479974,48.175466,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SE Camano at E Sandell Rd<br/>ID: 1165</description>
-		<Point> 
-			<coordinates>
-			-122.431673,48.121657,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SE Camano at Karen Way<br/>ID: 1160</description>
-		<Point> 
-			<coordinates>
-			-122.406793,48.10319,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SE Camano at Mountain View Rd<br/>ID: 1122</description>
-		<Point> 
-			<coordinates>
-			-122.450933,48.138456,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SE Camano at Sunnyshore Dr<br/>ID: 1159</description>
-		<Point> 
-			<coordinates>
-			-122.413058,48.107911,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SE Camano at W Brejon Way<br/>ID: 1156</description>
-		<Point> 
-			<coordinates>
-			-122.48183,48.167617,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: SE City Beach St at U.S. Postal Service<br/>ID: 1400</description>
 		<Point> 
 			<coordinates>
@@ -2775,6 +2820,114 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Senior Ctr/Pool Jerome St<br/>ID: 948</description>
+		<Point> 
+			<coordinates>
+			-122.645619,48.297009,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Skagit Station<br/>ID: 134</description>
+		<Point> 
+			<coordinates>
+			-122.33418,48.418358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Skagit Valley College<br/>ID: 747</description>
+		<Point> 
+			<coordinates>
+			-122.635732,48.290919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Skagit Valley College/Library<br/>ID: 942</description>
+		<Point> 
+			<coordinates>
+			-122.634021,48.289528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smuggler Cove Rd at High Rd<br/>ID: 44</description>
+		<Point> 
+			<coordinates>
+			-122.594074,48.033438,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smugglers Cove at Scurlock Rd<br/>ID: 45</description>
+		<Point> 
+			<coordinates>
+			-122.595174,48.025825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smugglers Cove at Westcliff<br/>ID: 1082</description>
+		<Point> 
+			<coordinates>
+			-122.604932,48.078257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smugglers Cove Rd at Rhodie Ln<br/>ID: 84</description>
+		<Point> 
+			<coordinates>
+			-122.591429,48.040307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smugglers Cove Rd at SW State Park<br/>ID: 46</description>
+		<Point> 
+			<coordinates>
+			-122.590984,48.056281,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Whidbey High School<br/>ID: 97</description>
+		<Point> 
+			<coordinates>
+			-122.412173,48.005784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southwest Camano and Admiralty Way<br/>ID: 1140</description>
+		<Point> 
+			<coordinates>
+			-122.527418,48.18258,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southwest Camano at Saratoga Way<br/>ID: 1153</description>
+		<Point> 
+			<coordinates>
+			-122.527395,48.180445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: SR 20 and Swantown Ave<br/>ID: 1100</description>
 		<Point> 
 			<coordinates>
@@ -2784,7 +2937,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 and Waterloo Rd<br/>ID: 1100</description>
+		<description>Name: SR 20 and Waterloo Rd<br/>ID: 1104</description>
 		<Point> 
 			<coordinates>
 			-122.670472,48.272086,0
@@ -2829,15 +2982,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 at DeGraff Rd<br/>ID: 1108</description>
-		<Point> 
-			<coordinates>
-			-122.650162,48.365009,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: SR 20 at Deception Circle<br/>ID: 769</description>
 		<Point> 
 			<coordinates>
@@ -2851,6 +2995,15 @@
 		<Point> 
 			<coordinates>
 			-122.647218,48.390879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SR 20 at DeGraff Rd<br/>ID: 1108</description>
+		<Point> 
+			<coordinates>
+			-122.650162,48.365009,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2982,7 +3135,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 at Miller Rd<br/>ID: 1064</description>
+		<description>Name: SR 20 at Miller Rd<br/>ID: 1065</description>
 		<Point> 
 			<coordinates>
 			-122.671724,48.268443,0
@@ -3009,15 +3162,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 at NW Madrona Way<br/>ID: 13</description>
-		<Point> 
-			<coordinates>
-			-122.735798,48.233056,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: SR 20 at Navy O.L.F.<br/>ID: 35</description>
 		<Point> 
 			<coordinates>
@@ -3031,6 +3175,15 @@
 		<Point> 
 			<coordinates>
 			-122.65304,48.369631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SR 20 at NW Madrona Way<br/>ID: 13</description>
+		<Point> 
+			<coordinates>
+			-122.735798,48.233056,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3108,24 +3261,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 at SW 3rd Ave<br/>ID: 939</description>
-		<Point> 
-			<coordinates>
-			-122.654723,48.296698,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 at SW Swantown Ave<br/>ID: 22</description>
-		<Point> 
-			<coordinates>
-			-122.669525,48.282946,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: SR 20 at Seabolts<br/>ID: 1197</description>
 		<Point> 
 			<coordinates>
@@ -3189,6 +3324,24 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: SR 20 at SW 3rd Ave<br/>ID: 939</description>
+		<Point> 
+			<coordinates>
+			-122.654723,48.296698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SR 20 at SW Swantown Ave<br/>ID: 22</description>
+		<Point> 
+			<coordinates>
+			-122.669525,48.282946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: SR 20 at W Welcher Rd<br/>ID: 9</description>
 		<Point> 
 			<coordinates>
@@ -3216,7 +3369,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 20 at Westgate Homes<br/>ID: 1410</description>
+		<description>Name: SR 20 at Westgate Homes<br/>ID: 1418</description>
 		<Point> 
 			<coordinates>
 			-122.629026,48.322386,0
@@ -3297,19 +3450,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Classic Rd<br/>ID: 80</description>
+		<description>Name: SR 525 at Classic Rd<br/>ID: 149</description>
 		<Point> 
 			<coordinates>
-			-122.56688,48.061439,0
+			-122.566675,48.062251,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Classic Rd<br/>ID: 149</description>
+		<description>Name: SR 525 at Classic Rd<br/>ID: 80</description>
 		<Point> 
 			<coordinates>
-			-122.566675,48.062251,0
+			-122.56688,48.061439,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3459,19 +3612,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Gramayre Rd<br/>ID: 4</description>
+		<description>Name: SR 525 at Gramayre Rd<br/>ID: 39</description>
 		<Point> 
 			<coordinates>
-			-122.589342,48.128428,0
+			-122.589573,48.128311,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Gramayre Rd<br/>ID: 39</description>
+		<description>Name: SR 525 at Gramayre Rd<br/>ID: 4</description>
 		<Point> 
 			<coordinates>
-			-122.589573,48.128311,0
+			-122.589342,48.128428,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3504,19 +3657,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Houston Rd<br/>ID: 6</description>
+		<description>Name: SR 525 at Houston Rd<br/>ID: 37</description>
 		<Point> 
 			<coordinates>
-			-122.595395,48.152945,0
+			-122.595103,48.152216,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Houston Rd<br/>ID: 37</description>
+		<description>Name: SR 525 at Houston Rd<br/>ID: 6</description>
 		<Point> 
 			<coordinates>
-			-122.595103,48.152216,0
+			-122.595395,48.152945,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3567,19 +3720,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Mutiny Bay Rd (Northbound)<br/>ID: 81</description>
+		<description>Name: SR 525 at Mutiny Bay Rd<br/>ID: 81</description>
 		<Point> 
 			<coordinates>
 			-122.563891,48.035503,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Mutiny Bay Rd (Soutbound)<br/>ID: 81</description>
-		<Point> 
-			<coordinates>
-			-122.564074,48.035373,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3594,19 +3738,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Red Barn<br/>ID: 55</description>
+		<description>Name: SR 525 at Red Barn<br/>ID: 1204</description>
 		<Point> 
 			<coordinates>
-			-122.495255,48.006982,0
+			-122.494469,48.007042,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SR 525 at Red Barn<br/>ID: 1204</description>
+		<description>Name: SR 525 at Red Barn<br/>ID: 55</description>
 		<Point> 
 			<coordinates>
-			-122.494469,48.007042,0
+			-122.495255,48.006982,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3747,10 +3891,64 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: SW 6th Ave at Oak Harbor Intermediate School<br/>ID: 1043</description>
+		<description>Name: Stanwood High School<br/>ID: 1010</description>
 		<Point> 
 			<coordinates>
-			-122.660609,48.293107,0
+			-122.336841,48.24312,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanwood Library<br/>ID: 2553</description>
+		<Point> 
+			<coordinates>
+			-122.36464,48.242174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stanwood P&amp;R II<br/>ID: 1360</description>
+		<Point> 
+			<coordinates>
+			-122.348824,48.23926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset at S.W. Camano<br/>ID: 1125</description>
+		<Point> 
+			<coordinates>
+			-122.527307,48.197064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Dr at Beachwood (Yacht Club) Camano Is<br/>ID: 982</description>
+		<Point> 
+			<coordinates>
+			-122.535549,48.216168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Dr at Doubleview Dr<br/>ID: 1146</description>
+		<Point> 
+			<coordinates>
+			-122.532728,48.208867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Dr at Vista<br/>ID: 981</description>
+		<Point> 
+			<coordinates>
+			-122.532453,48.225693,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3760,6 +3958,15 @@
 		<Point> 
 			<coordinates>
 			-122.674132,48.279154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: SW 6th Ave at Oak Harbor Intermediate School<br/>ID: 1043</description>
+		<Point> 
+			<coordinates>
+			-122.660609,48.293107,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3801,222 +4008,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: San Juan Ave at Harper St<br/>ID: 204</description>
-		<Point> 
-			<coordinates>
-			-122.417723,47.923466,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Saratoga St at Intruder St<br/>ID: 2612</description>
-		<Point> 
-			<coordinates>
-			-122.68036,48.340841,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Scatchet Head Rd<br/>ID: 207</description>
-		<Point> 
-			<coordinates>
-			-122.410775,47.936706,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Scatchet Head Rd at Bailey Rd<br/>ID: 200</description>
-		<Point> 
-			<coordinates>
-			-122.410862,47.93672,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Se 4th Ave at Glencoe St<br/>ID: 1416</description>
-		<Point> 
-			<coordinates>
-			-122.648427,48.294984,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Senior Ctr/Pool Jerome St<br/>ID: 948</description>
-		<Point> 
-			<coordinates>
-			-122.645619,48.297009,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Skagit Station<br/>ID: 134</description>
-		<Point> 
-			<coordinates>
-			-122.33418,48.418358,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Skagit Valley College<br/>ID: 747</description>
-		<Point> 
-			<coordinates>
-			-122.635732,48.290919,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Skagit Valley College/Library<br/>ID: 942</description>
-		<Point> 
-			<coordinates>
-			-122.634021,48.289528,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Smuggler Cove Rd at High Rd<br/>ID: 44</description>
-		<Point> 
-			<coordinates>
-			-122.594074,48.033438,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Smugglers Cove Rd at Rhodie Ln<br/>ID: 84</description>
-		<Point> 
-			<coordinates>
-			-122.591429,48.040307,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Smugglers Cove Rd at SW State Park<br/>ID: 46</description>
-		<Point> 
-			<coordinates>
-			-122.590984,48.056281,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Smugglers Cove at Scurlock Rd<br/>ID: 45</description>
-		<Point> 
-			<coordinates>
-			-122.595174,48.025825,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Smugglers Cove at Westcliff<br/>ID: 1082</description>
-		<Point> 
-			<coordinates>
-			-122.604932,48.078257,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: South Whidbey High School<br/>ID: 97</description>
-		<Point> 
-			<coordinates>
-			-122.412173,48.005784,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Southwest Camano and Admiralty Way<br/>ID: 1140</description>
-		<Point> 
-			<coordinates>
-			-122.527418,48.18258,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Southwest Camano at Saratoga Way<br/>ID: 1153</description>
-		<Point> 
-			<coordinates>
-			-122.527395,48.180445,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Stanwood High School<br/>ID: 1010</description>
-		<Point> 
-			<coordinates>
-			-122.336841,48.24312,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Stanwood Library<br/>ID: 2553</description>
-		<Point> 
-			<coordinates>
-			-122.36464,48.242174,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Stanwood P&amp;R II<br/>ID: 1360</description>
-		<Point> 
-			<coordinates>
-			-122.348824,48.23926,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Sunset Dr at Beachwood (Yacht Club) Camano Is<br/>ID: 982</description>
-		<Point> 
-			<coordinates>
-			-122.535549,48.216168,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Sunset Dr at Doubleview Dr<br/>ID: 1146</description>
-		<Point> 
-			<coordinates>
-			-122.532728,48.208867,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Sunset Dr at Vista<br/>ID: 981</description>
-		<Point> 
-			<coordinates>
-			-122.532453,48.225693,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Sunset at S.W. Camano<br/>ID: 1125</description>
-		<Point> 
-			<coordinates>
-			-122.527307,48.197064,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Swantown Ave at Quinault St<br/>ID: 3512</description>
 		<Point> 
 			<coordinates>
@@ -4035,15 +4026,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Taylor Road at Sleeper Road<br/>ID: 759</description>
-		<Point> 
-			<coordinates>
-			-122.593642,48.340205,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Taylor at Fakkema SB<br/>ID: 751</description>
 		<Point> 
 			<coordinates>
@@ -4057,6 +4039,15 @@
 		<Point> 
 			<coordinates>
 			-122.593642,48.313292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor Road at Sleeper Road<br/>ID: 759</description>
+		<Point> 
+			<coordinates>
+			-122.593642,48.340205,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -4143,15 +4134,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Wake Ave at Wake Ave<br/>ID: 2628</description>
-		<Point> 
-			<coordinates>
-			-122.626623,48.294015,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Wake at Recreaction Center<br/>ID: 2630</description>
 		<Point> 
 			<coordinates>
@@ -4161,10 +4143,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: WalMart at Erie St<br/>ID: 825</description>
+		<description>Name: Wake Ave at Wake Ave<br/>ID: 2628</description>
 		<Point> 
 			<coordinates>
-			-122.663235,48.287122,0
+			-122.626623,48.294015,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -4179,7 +4161,16 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Wanamaker Rd at Keystone Hill Rd<br/>ID: 1286</description>
+		<description>Name: WalMart at Erie St<br/>ID: 825</description>
+		<Point> 
+			<coordinates>
+			-122.663235,48.287122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wanamaker Rd at Keystone Hill Rd<br/>ID: 1287</description>
 		<Point> 
 			<coordinates>
 			-122.637744,48.17112,0
@@ -4192,6 +4183,60 @@
 		<Point> 
 			<coordinates>
 			-122.64719,48.174826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Beach at Deseret<br/>ID: 1187</description>
+		<Point> 
+			<coordinates>
+			-122.751819,48.248576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Beach at Deseret<br/>ID: 854</description>
+		<Point> 
+			<coordinates>
+			-122.751564,48.248393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Beach at Hastie Lake Rd<br/>ID: 115</description>
+		<Point> 
+			<coordinates>
+			-122.746475,48.26475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Beach at Hastie Lake Rd<br/>ID: 1183</description>
+		<Point> 
+			<coordinates>
+			-122.746988,48.264484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Beach at Van Dam<br/>ID: 1184</description>
+		<Point> 
+			<coordinates>
+			-122.751757,48.253428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Beach at Van Dam<br/>ID: 928</description>
+		<Point> 
+			<coordinates>
+			-122.751532,48.253318,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -4237,60 +4282,6 @@
 		<Point> 
 			<coordinates>
 			-122.751657,48.238799,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: West Beach at Deseret<br/>ID: 854</description>
-		<Point> 
-			<coordinates>
-			-122.751564,48.248393,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: West Beach at Deseret<br/>ID: 1187</description>
-		<Point> 
-			<coordinates>
-			-122.751819,48.248576,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: West Beach at Hastie Lake Rd<br/>ID: 115</description>
-		<Point> 
-			<coordinates>
-			-122.746475,48.26475,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: West Beach at Hastie Lake Rd<br/>ID: 1183</description>
-		<Point> 
-			<coordinates>
-			-122.746988,48.264484,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: West Beach at Van Dam<br/>ID: 928</description>
-		<Point> 
-			<coordinates>
-			-122.751532,48.253318,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: West Beach at Van Dam<br/>ID: 1184</description>
-		<Point> 
-			<coordinates>
-			-122.751757,48.253428,0
 			</coordinates> 
 		</Point> 
 	</Placemark>

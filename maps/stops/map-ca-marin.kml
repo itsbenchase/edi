@@ -1,0 +1,4856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-marin stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd St &amp; Grand Ave<br/>ID: 40414</description>
+		<Point> 
+			<coordinates>
+			-122.519966,37.970295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St &amp; Grand Ave<br/>ID: 40429</description>
+		<Point> 
+			<coordinates>
+			-122.519012,37.971031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; C St<br/>ID: 40426</description>
+		<Point> 
+			<coordinates>
+			-122.530535,37.973362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; C St<br/>ID: 40425</description>
+		<Point> 
+			<coordinates>
+			-122.530932,37.973509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Court St<br/>ID: 40428</description>
+		<Point> 
+			<coordinates>
+			-122.527,37.972973,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Court St<br/>ID: 40427</description>
+		<Point> 
+			<coordinates>
+			-122.527396,37.97312,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; E St<br/>ID: 40423</description>
+		<Point> 
+			<coordinates>
+			-122.533046,37.973572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; E St<br/>ID: 40424</description>
+		<Point> 
+			<coordinates>
+			-122.533439,37.973725,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Greenfield Ave<br/>ID: 40420</description>
+		<Point> 
+			<coordinates>
+			-122.544204,37.974867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Greenfield Ave<br/>ID: 40419</description>
+		<Point> 
+			<coordinates>
+			-122.544324,37.975151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Ida St<br/>ID: 40422</description>
+		<Point> 
+			<coordinates>
+			-122.538222,37.974083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Ida St<br/>ID: 40421</description>
+		<Point> 
+			<coordinates>
+			-122.538091,37.974178,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Ross Valley Dr<br/>ID: 40416</description>
+		<Point> 
+			<coordinates>
+			-122.550183,37.976134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th St &amp; Santa Margarita Ave<br/>ID: 40418</description>
+		<Point> 
+			<coordinates>
+			-122.549862,37.976341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 33 San Clemente Dr<br/>ID: 41320</description>
+		<Point> 
+			<coordinates>
+			-122.510498,37.922466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 600 Larkspur Landing Circle<br/>ID: 41334</description>
+		<Point> 
+			<coordinates>
+			-122.511452,37.947529,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 630 S Eliseo Dr<br/>ID: 41355</description>
+		<Point> 
+			<coordinates>
+			-122.53019,37.945118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 895 Panoramic Hwy Bootjack Parking Lot<br/>ID: 40788</description>
+		<Point> 
+			<coordinates>
+			-122.60173,37.909458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 897 Panoramic Hwy Bootjack Parking Lot<br/>ID: 40787</description>
+		<Point> 
+			<coordinates>
+			-122.601204,37.909222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1111 Sir Francis Drake Blvd<br/>ID: 40333</description>
+		<Point> 
+			<coordinates>
+			-122.55291,37.959709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1220 S Eliseo Dr<br/>ID: 41357</description>
+		<Point> 
+			<coordinates>
+			-122.535553,37.943935,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1525 Francisco Blvd E<br/>ID: 41094</description>
+		<Point> 
+			<coordinates>
+			-122.496984,37.952511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4810 Shoreline Hwy<br/>ID: 40781</description>
+		<Point> 
+			<coordinates>
+			-122.639961,37.898464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4813 Shoreline Hwy<br/>ID: 40782</description>
+		<Point> 
+			<coordinates>
+			-122.639671,37.898552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6402 Shoreline Hwy<br/>ID: 40824</description>
+		<Point> 
+			<coordinates>
+			-122.682579,37.929958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8185 Sir Francis Drake Blvd<br/>ID: 40818</description>
+		<Point> 
+			<coordinates>
+			-122.729813,38.019611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adrian Way &amp; La Brea Way<br/>ID: 40584</description>
+		<Point> 
+			<coordinates>
+			-122.514198,38.013306,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adrian Way &amp; Rosal Way<br/>ID: 40588</description>
+		<Point> 
+			<coordinates>
+			-122.515984,38.012482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adrian Way &amp; Vendola Dr<br/>ID: 41021</description>
+		<Point> 
+			<coordinates>
+			-122.510361,38.013447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Alameda De La Loma<br/>ID: 42012</description>
+		<Point> 
+			<coordinates>
+			-122.539505,38.064953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Calle Arboleda<br/>ID: 40749</description>
+		<Point> 
+			<coordinates>
+			-122.535622,38.062885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Calle Arboleda<br/>ID: 40748</description>
+		<Point> 
+			<coordinates>
+			-122.535774,38.062904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda del Prado &amp; Hwy 101 SB<br/>ID: 40765</description>
+		<Point> 
+			<coordinates>
+			-122.533127,38.049271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Los Robles Rd<br/>ID: 40764</description>
+		<Point> 
+			<coordinates>
+			-122.53212,38.059498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Los Robles Rd<br/>ID: 40763</description>
+		<Point> 
+			<coordinates>
+			-122.532234,38.05957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Posada Del Sol<br/>ID: 40761</description>
+		<Point> 
+			<coordinates>
+			-122.533684,38.061008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado &amp; Posada Del Sol<br/>ID: 40762</description>
+		<Point> 
+			<coordinates>
+			-122.533554,38.061058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda Del Prado At Nave Dr<br/>ID: 40766</description>
+		<Point> 
+			<coordinates>
+			-122.533318,38.048328,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Almonte Blvd &amp; Miller Ave<br/>ID: 40152</description>
+		<Point> 
+			<coordinates>
+			-122.524734,37.887566,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Almonte Blvd &amp; Miller Ave<br/>ID: 40151</description>
+		<Point> 
+			<coordinates>
+			-122.524822,37.887197,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Almonte Blvd &amp; Rosemont Ave<br/>ID: 40154</description>
+		<Point> 
+			<coordinates>
+			-122.524643,37.883864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Almonte Blvd &amp; Rosemont Ave<br/>ID: 40153</description>
+		<Point> 
+			<coordinates>
+			-122.524779,37.883981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Antilles Way &amp; Martinique Av<br/>ID: 40265</description>
+		<Point> 
+			<coordinates>
+			-122.478134,37.912491,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Audubon Canyon Ranch<br/>ID: 40823</description>
+		<Point> 
+			<coordinates>
+			-122.682999,37.930042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bay St &amp; Bridgeway<br/>ID: 40103</description>
+		<Point> 
+			<coordinates>
+			-122.480469,37.857136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beach Rd &amp; Juanita Ln<br/>ID: 40198</description>
+		<Point> 
+			<coordinates>
+			-122.459679,37.874721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beach Rd &amp; San Rafael Av<br/>ID: 40197</description>
+		<Point> 
+			<coordinates>
+			-122.463295,37.87307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bear Valley Visitor Center<br/>ID: 40803</description>
+		<Point> 
+			<coordinates>
+			-122.799998,38.041032,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellam Blvd &amp; Francisco Blvd E<br/>ID: 40467</description>
+		<Point> 
+			<coordinates>
+			-122.50441,37.960659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellam Blvd &amp; Lisbon St<br/>ID: 40466</description>
+		<Point> 
+			<coordinates>
+			-122.503542,37.96121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Belvedere Dr &amp; Redwood Hwy Frontage Rd<br/>ID: 42130</description>
+		<Point> 
+			<coordinates>
+			-122.514313,37.897804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bon Air Rd &amp; Magnolia Ave<br/>ID: 41071</description>
+		<Point> 
+			<coordinates>
+			-122.53981,37.943371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bon Air Rd &amp; MHMC Emergency Entrance Rd<br/>ID: 41073</description>
+		<Point> 
+			<coordinates>
+			-122.536288,37.948796,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bon Air Rd &amp; Schultz Memorial Dr<br/>ID: 41351</description>
+		<Point> 
+			<coordinates>
+			-122.536263,37.948982,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Caledonia Av<br/>ID: 40100</description>
+		<Point> 
+			<coordinates>
+			-122.483241,37.858565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Coloma St<br/>ID: 41042</description>
+		<Point> 
+			<coordinates>
+			-122.50233,37.868438,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Easterby St<br/>ID: 40094</description>
+		<Point> 
+			<coordinates>
+			-122.493869,37.861795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Easterby St<br/>ID: 40095</description>
+		<Point> 
+			<coordinates>
+			-122.49361,37.861978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Ebbtide St<br/>ID: 40090</description>
+		<Point> 
+			<coordinates>
+			-122.503727,37.870314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Gate 5 Rd<br/>ID: 40091</description>
+		<Point> 
+			<coordinates>
+			-122.503827,37.871113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Napa St<br/>ID: 40096</description>
+		<Point> 
+			<coordinates>
+			-122.489305,37.861075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Napa St<br/>ID: 40097</description>
+		<Point> 
+			<coordinates>
+			-122.489819,37.861524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Nevada St<br/>ID: 40093</description>
+		<Point> 
+			<coordinates>
+			-122.499358,37.865288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Nevada St<br/>ID: 40092</description>
+		<Point> 
+			<coordinates>
+			-122.499217,37.865472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Pine St<br/>ID: 40098</description>
+		<Point> 
+			<coordinates>
+			-122.485062,37.859164,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; Turney St<br/>ID: 40099</description>
+		<Point> 
+			<coordinates>
+			-122.485967,37.859704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bridgeway &amp; W Harbor Dr<br/>ID: 42103</description>
+		<Point> 
+			<coordinates>
+			-122.501091,37.866898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brighton Ave &amp; Wharf Rd<br/>ID: 41321</description>
+		<Point> 
+			<coordinates>
+			-122.686546,37.909275,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broadway Blvd &amp; Bolinas Ave<br/>ID: 40523</description>
+		<Point> 
+			<coordinates>
+			-122.588791,37.987087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canal St &amp; Medway Rd<br/>ID: 40452</description>
+		<Point> 
+			<coordinates>
+			-122.508064,37.965206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canal St &amp; Novato St<br/>ID: 40457</description>
+		<Point> 
+			<coordinates>
+			-122.506035,37.965866,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canal St &amp; Novato St<br/>ID: 40454</description>
+		<Point> 
+			<coordinates>
+			-122.505898,37.965794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canal St &amp; Sonoma St<br/>ID: 40459</description>
+		<Point> 
+			<coordinates>
+			-122.50354,37.966949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Canal St &amp; Sonoma St<br/>ID: 40456</description>
+		<Point> 
+			<coordinates>
+			-122.503113,37.967022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Castro St &amp; Montezuma Rd<br/>ID: 40783</description>
+		<Point> 
+			<coordinates>
+			-122.690041,38.015057,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Castro St (W) &amp; Sir Francis Drake Blvd<br/>ID: 40784</description>
+		<Point> 
+			<coordinates>
+			-122.695572,38.01413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Civic Center Dr &amp; Mcinnis Pkwy (Civic Center SMART)<br/>ID: 40589</description>
+		<Point> 
+			<coordinates>
+			-122.536488,38.00129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Civic Center Dr &amp; Mcinnis Pkwy (Civic Center SMART)<br/>ID: 40587</description>
+		<Point> 
+			<coordinates>
+			-122.536423,38.001427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Civic Center Dr &amp; N San Pedro Rd<br/>ID: 40586</description>
+		<Point> 
+			<coordinates>
+			-122.528999,37.997112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Civic Center Dr &amp; N San Pedro Rd<br/>ID: 40585</description>
+		<Point> 
+			<coordinates>
+			-122.528732,37.997349,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Ave &amp; Kent Ave<br/>ID: 42020</description>
+		<Point> 
+			<coordinates>
+			-122.549591,37.950897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Ave &amp; Kent Ave<br/>ID: 42009</description>
+		<Point> 
+			<coordinates>
+			-122.549774,37.951672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College of Marin - Sir Francis Drake Blvd &amp; Elm Av<br/>ID: 40334</description>
+		<Point> 
+			<coordinates>
+			-122.548515,37.956234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College of Marin College Av &amp; Sir Francis Drake<br/>ID: 40330</description>
+		<Point> 
+			<coordinates>
+			-122.548241,37.954727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College of Marin College Ave &amp; Sir Francis Drake<br/>ID: 40349</description>
+		<Point> 
+			<coordinates>
+			-122.54863,37.954258,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College Of Marin Sir Francis Drake Blvd &amp; Maple<br/>ID: 40335</description>
+		<Point> 
+			<coordinates>
+			-122.548727,37.956626,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DeLong Ave &amp; Reichert Ave<br/>ID: 40698</description>
+		<Point> 
+			<coordinates>
+			-122.566457,38.10549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DeLong Ave &amp; Reichert Ave<br/>ID: 40699</description>
+		<Point> 
+			<coordinates>
+			-122.566001,38.105602,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Diablo Av &amp; George St<br/>ID: 40700</description>
+		<Point> 
+			<coordinates>
+			-122.572235,38.104019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Diablo Av &amp; George St<br/>ID: 40701</description>
+		<Point> 
+			<coordinates>
+			-122.572525,38.103683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Doherty Dr &amp; Hall Middle School<br/>ID: 40327</description>
+		<Point> 
+			<coordinates>
+			-122.531624,37.938225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Doherty Dr &amp; Larkspur Plaza Dr<br/>ID: 40310</description>
+		<Point> 
+			<coordinates>
+			-122.533646,37.938232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Doherty Dr &amp; Larkspur Plaza Dr<br/>ID: 40309</description>
+		<Point> 
+			<coordinates>
+			-122.532867,37.938156,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dominican University Grand Av &amp; Acacia Av<br/>ID: 40408</description>
+		<Point> 
+			<coordinates>
+			-122.515854,37.979515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drake Av &amp; Buckelew St<br/>ID: 40121</description>
+		<Point> 
+			<coordinates>
+			-122.515457,37.873203,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drake Av &amp; Cole Dr<br/>ID: 40123</description>
+		<Point> 
+			<coordinates>
+			-122.510612,37.868587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drake Av &amp; Donahue St<br/>ID: 40119</description>
+		<Point> 
+			<coordinates>
+			-122.512413,37.873631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drake Av &amp; Donahue St<br/>ID: 40125</description>
+		<Point> 
+			<coordinates>
+			-122.509193,37.871292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Drake Av &amp; Pacheco St<br/>ID: 41005</description>
+		<Point> 
+			<coordinates>
+			-122.513466,37.870689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Blithedale Ave &amp; Kipling Dr<br/>ID: 40130</description>
+		<Point> 
+			<coordinates>
+			-122.519193,37.903475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Blithedale Ave &amp; Lomita Dr<br/>ID: 40131</description>
+		<Point> 
+			<coordinates>
+			-122.526499,37.900954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Blithedale Ave &amp; Mountain View Ave<br/>ID: 40139</description>
+		<Point> 
+			<coordinates>
+			-122.543828,37.905205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Blithedale Ave &amp; Roque Moraes Dr<br/>ID: 40132</description>
+		<Point> 
+			<coordinates>
+			-122.527622,37.900242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Blithedale Ave &amp; Tower Dr<br/>ID: 40129</description>
+		<Point> 
+			<coordinates>
+			-122.519149,37.903697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Sir Francis Drake Blvd &amp; Larkspur Landing<br/>ID: 40471</description>
+		<Point> 
+			<coordinates>
+			-122.510811,37.94603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Enfrente Rd &amp; Salvatore Dr<br/>ID: 42114</description>
+		<Point> 
+			<coordinates>
+			-122.538732,38.067197,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Francisco Blvd E &amp; Bay St<br/>ID: 40451</description>
+		<Point> 
+			<coordinates>
+			-122.516441,37.96656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freitas Pkwy &amp; Del Presidio Blvd<br/>ID: 40568</description>
+		<Point> 
+			<coordinates>
+			-122.544075,38.007298,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Freitas Pkwy &amp; Northgate Dr<br/>ID: 40569</description>
+		<Point> 
+			<coordinates>
+			-122.545453,38.008361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Acacia Way<br/>ID: 40409</description>
+		<Point> 
+			<coordinates>
+			-122.515656,37.979481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Belle Av<br/>ID: 40412</description>
+		<Point> 
+			<coordinates>
+			-122.518585,37.975269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Belle Av<br/>ID: 40413</description>
+		<Point> 
+			<coordinates>
+			-122.518234,37.974697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Jewell St<br/>ID: 40410</description>
+		<Point> 
+			<coordinates>
+			-122.516891,37.977005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Jewell St<br/>ID: 40411</description>
+		<Point> 
+			<coordinates>
+			-122.516747,37.977028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Linden Ln<br/>ID: 40404</description>
+		<Point> 
+			<coordinates>
+			-122.520737,37.982319,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Linden Ln<br/>ID: 40405</description>
+		<Point> 
+			<coordinates>
+			-122.520859,37.982498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Mountain View Av<br/>ID: 40406</description>
+		<Point> 
+			<coordinates>
+			-122.516907,37.981186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand Av &amp; Mountain View Av<br/>ID: 40407</description>
+		<Point> 
+			<coordinates>
+			-122.516937,37.981342,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grant Av &amp; Fifth St<br/>ID: 40691</description>
+		<Point> 
+			<coordinates>
+			-122.576073,38.108795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grant Av &amp; Fifth St<br/>ID: 40690</description>
+		<Point> 
+			<coordinates>
+			-122.575706,38.108608,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grant Av &amp; Second St<br/>ID: 40693</description>
+		<Point> 
+			<coordinates>
+			-122.572586,38.108074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grant Av &amp; Second St<br/>ID: 40692</description>
+		<Point> 
+			<coordinates>
+			-122.572495,38.107944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hamilton Main Gate Nave Dr &amp; Hamilton Main Gate<br/>ID: 40770</description>
+		<Point> 
+			<coordinates>
+			-122.530174,38.056206,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hamilton Main Gate Rd &amp; Martin Dr<br/>ID: 41318</description>
+		<Point> 
+			<coordinates>
+			-122.529083,38.056274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hamilton Pkwy &amp; Chapel Hill Rd<br/>ID: 41315</description>
+		<Point> 
+			<coordinates>
+			-122.522148,38.058834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hamilton Pkwy &amp; Sunny Cove Dr<br/>ID: 41316</description>
+		<Point> 
+			<coordinates>
+			-122.52121,38.058914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hamilton Pkwy At Marin Airporter<br/>ID: 41314</description>
+		<Point> 
+			<coordinates>
+			-122.530746,38.061626,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hamilton Theatre Parking Lot<br/>ID: 41317</description>
+		<Point> 
+			<coordinates>
+			-122.519379,38.056629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Health &amp; Human Services<br/>ID: 41326</description>
+		<Point> 
+			<coordinates>
+			-122.536041,38.020657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Alameda Del Prado Bus Pad<br/>ID: 40773</description>
+		<Point> 
+			<coordinates>
+			-122.532356,38.049111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Alameda Del Prado Bus Pad<br/>ID: 42011</description>
+		<Point> 
+			<coordinates>
+			-122.531705,38.048515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ DeLong Ave Bus Pad<br/>ID: 41099</description>
+		<Point> 
+			<coordinates>
+			-122.562602,38.104446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ DeLong Ave Bus Pad<br/>ID: 41098</description>
+		<Point> 
+			<coordinates>
+			-122.561367,38.10444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Ignacio Blvd Bus Pad<br/>ID: 40746</description>
+		<Point> 
+			<coordinates>
+			-122.536991,38.066802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Lucas Valley Rd Bus Pad<br/>ID: 40606</description>
+		<Point> 
+			<coordinates>
+			-122.53982,38.020528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Lucky Dr Bus Pad<br/>ID: 40268</description>
+		<Point> 
+			<coordinates>
+			-122.516101,37.938685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Lucky Dr Bus Pad<br/>ID: 40267</description>
+		<Point> 
+			<coordinates>
+			-122.517021,37.937926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ N San Pedro Rd Bus Pad<br/>ID: 40582</description>
+		<Point> 
+			<coordinates>
+			-122.532673,37.995542,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ N San Pedro Rd Bus Pad<br/>ID: 40581</description>
+		<Point> 
+			<coordinates>
+			-122.533456,37.995296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Paradise Dr Bus Pad<br/>ID: 40296</description>
+		<Point> 
+			<coordinates>
+			-122.513809,37.925287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Rowland Blvd Bus Pad<br/>ID: 40779</description>
+		<Point> 
+			<coordinates>
+			-122.560844,38.09129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Rowland Blvd Bus Pad<br/>ID: 40780</description>
+		<Point> 
+			<coordinates>
+			-122.557999,38.093472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Seminary Dr Bus Pad<br/>ID: 40188</description>
+		<Point> 
+			<coordinates>
+			-122.516364,37.888662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Seminary Dr Bus Pad<br/>ID: 40187</description>
+		<Point> 
+			<coordinates>
+			-122.517111,37.889494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Smith Ranch Rd Bus Pad<br/>ID: 40607</description>
+		<Point> 
+			<coordinates>
+			-122.539141,38.02008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Tamalpais Dr Bus Pad<br/>ID: 40295</description>
+		<Point> 
+			<coordinates>
+			-122.515248,37.926504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Terra Linda Bus Pad NB<br/>ID: 42027</description>
+		<Point> 
+			<coordinates>
+			-122.540374,38.005901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Terra Linda Bus Pad SB<br/>ID: 42112</description>
+		<Point> 
+			<coordinates>
+			-122.542233,38.00794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Tiburon Wye Bus Pad<br/>ID: 40170</description>
+		<Point> 
+			<coordinates>
+			-122.515412,37.901957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 101 @ Tiburon Wye Bus Pad<br/>ID: 40164</description>
+		<Point> 
+			<coordinates>
+			-122.516051,37.903698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Alameda Del Prado<br/>ID: 40744</description>
+		<Point> 
+			<coordinates>
+			-122.541466,38.066078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Alameda Del Prado<br/>ID: 40743</description>
+		<Point> 
+			<coordinates>
+			-122.541313,38.065868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Country Club Dr<br/>ID: 40734</description>
+		<Point> 
+			<coordinates>
+			-122.55809,38.068764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Country Club Dr<br/>ID: 40733</description>
+		<Point> 
+			<coordinates>
+			-122.558212,38.068596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Entrada Dr<br/>ID: 40740</description>
+		<Point> 
+			<coordinates>
+			-122.545853,38.068268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Entrada Dr<br/>ID: 40739</description>
+		<Point> 
+			<coordinates>
+			-122.545692,38.068066,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Fairway Dr<br/>ID: 40736</description>
+		<Point> 
+			<coordinates>
+			-122.553322,38.069065,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Fairway Dr<br/>ID: 40735</description>
+		<Point> 
+			<coordinates>
+			-122.553223,38.068993,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Indian Hills Dr<br/>ID: 40727</description>
+		<Point> 
+			<coordinates>
+			-122.573456,38.076298,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Palmer Dr<br/>ID: 40738</description>
+		<Point> 
+			<coordinates>
+			-122.549797,38.068928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Palmer Dr<br/>ID: 40737</description>
+		<Point> 
+			<coordinates>
+			-122.549561,38.068832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; San Jose Blvd<br/>ID: 40732</description>
+		<Point> 
+			<coordinates>
+			-122.564049,38.071705,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; San Jose Blvd<br/>ID: 40731</description>
+		<Point> 
+			<coordinates>
+			-122.564045,38.071337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Sunset Pkwy<br/>ID: 40726</description>
+		<Point> 
+			<coordinates>
+			-122.568398,38.074959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Turner Dr<br/>ID: 40730</description>
+		<Point> 
+			<coordinates>
+			-122.565399,38.073357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Turner Dr<br/>ID: 40729</description>
+		<Point> 
+			<coordinates>
+			-122.565376,38.073181,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd &amp; Ulloa Dr<br/>ID: 40724</description>
+		<Point> 
+			<coordinates>
+			-122.566772,38.07423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ignacio Blvd At Pacheco Plaza<br/>ID: 40742</description>
+		<Point> 
+			<coordinates>
+			-122.54285,38.066486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Indian Valley College<br/>ID: 40728</description>
+		<Point> 
+			<coordinates>
+			-122.577187,38.075802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Inverness Store<br/>ID: 40800</description>
+		<Point> 
+			<coordinates>
+			-122.851524,38.096519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Irene St &amp; Francisco Blvd E<br/>ID: 41095</description>
+		<Point> 
+			<coordinates>
+			-122.500344,37.956725,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd &amp; Bahia Way<br/>ID: 40461</description>
+		<Point> 
+			<coordinates>
+			-122.501236,37.964417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd &amp; Canal St<br/>ID: 40446</description>
+		<Point> 
+			<coordinates>
+			-122.499451,37.967892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd &amp; Canal St<br/>ID: 40445</description>
+		<Point> 
+			<coordinates>
+			-122.49971,37.96788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd &amp; Fairfax St<br/>ID: 40458</description>
+		<Point> 
+			<coordinates>
+			-122.501518,37.964436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd &amp; Larkspur St<br/>ID: 40463</description>
+		<Point> 
+			<coordinates>
+			-122.502007,37.962776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd &amp; Larkspur St<br/>ID: 40460</description>
+		<Point> 
+			<coordinates>
+			-122.50219,37.962448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kerner Blvd btwn 3140 &amp; 3160<br/>ID: 40465</description>
+		<Point> 
+			<coordinates>
+			-122.501191,37.958751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: La Pasada Way &amp; N San Pedro Rd<br/>ID: 40590</description>
+		<Point> 
+			<coordinates>
+			-122.517761,38.011005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Larkspur Landing Cir &amp; Lincoln Village Cir<br/>ID: 41333</description>
+		<Point> 
+			<coordinates>
+			-122.506561,37.946812,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Cedar Hill Dr<br/>ID: 40528</description>
+		<Point> 
+			<coordinates>
+			-122.548393,38.025276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Ellen Dr<br/>ID: 40646</description>
+		<Point> 
+			<coordinates>
+			-122.547318,38.026943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Ellen Dr<br/>ID: 40647</description>
+		<Point> 
+			<coordinates>
+			-122.54731,38.026684,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Elvia Ct<br/>ID: 40644</description>
+		<Point> 
+			<coordinates>
+			-122.545921,38.029091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Elvia Ct<br/>ID: 40645</description>
+		<Point> 
+			<coordinates>
+			-122.545929,38.028706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Holly Dr<br/>ID: 40536</description>
+		<Point> 
+			<coordinates>
+			-122.548973,38.0103,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Las Colindas Rd<br/>ID: 40535</description>
+		<Point> 
+			<coordinates>
+			-122.54921,38.013096,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Las Colindas Rd<br/>ID: 40534</description>
+		<Point> 
+			<coordinates>
+			-122.549515,38.013268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Maple Hill Dr<br/>ID: 40530</description>
+		<Point> 
+			<coordinates>
+			-122.55014,38.022488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Miller Creek Rd<br/>ID: 40648</description>
+		<Point> 
+			<coordinates>
+			-122.544685,38.032425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Montevideo Way<br/>ID: 40533</description>
+		<Point> 
+			<coordinates>
+			-122.551247,38.019073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Nova Albion Way<br/>ID: 40577</description>
+		<Point> 
+			<coordinates>
+			-122.548752,38.008133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Oleander Dr<br/>ID: 40537</description>
+		<Point> 
+			<coordinates>
+			-122.548645,38.011395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Park Ridge Av<br/>ID: 40532</description>
+		<Point> 
+			<coordinates>
+			-122.551689,38.01902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Santiago Way<br/>ID: 40529</description>
+		<Point> 
+			<coordinates>
+			-122.54821,38.024994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Av &amp; Skyview Terrace<br/>ID: 40531</description>
+		<Point> 
+			<coordinates>
+			-122.54995,38.022205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Ave &amp; Northgate Dr<br/>ID: 40562</description>
+		<Point> 
+			<coordinates>
+			-122.545814,38.006699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Ave &amp; Northgate Dr<br/>ID: 40563</description>
+		<Point> 
+			<coordinates>
+			-122.546242,38.006889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Ave &amp; Northgate Mall<br/>ID: 40565</description>
+		<Point> 
+			<coordinates>
+			-122.541786,38.004673,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Ave &amp; Nova Albion Way<br/>ID: 40556</description>
+		<Point> 
+			<coordinates>
+			-122.54921,38.008488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Las Gallinas Ave at Northgate Mall<br/>ID: 40564</description>
+		<Point> 
+			<coordinates>
+			-122.541908,38.005165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Grand Ave<br/>ID: 40392</description>
+		<Point> 
+			<coordinates>
+			-122.524635,37.98373,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Grand Ave<br/>ID: 40393</description>
+		<Point> 
+			<coordinates>
+			-122.524712,37.98407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Linden Ln<br/>ID: 40394</description>
+		<Point> 
+			<coordinates>
+			-122.522621,37.980564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Linden Ln<br/>ID: 40395</description>
+		<Point> 
+			<coordinates>
+			-122.522812,37.981155,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Mission Ave<br/>ID: 40398</description>
+		<Point> 
+			<coordinates>
+			-122.523514,37.97419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Mission Ave<br/>ID: 40399</description>
+		<Point> 
+			<coordinates>
+			-122.523285,37.974483,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Paloma Ave<br/>ID: 40396</description>
+		<Point> 
+			<coordinates>
+			-122.522209,37.978031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Paloma Ave<br/>ID: 40397</description>
+		<Point> 
+			<coordinates>
+			-122.522049,37.978073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Wilson Ct<br/>ID: 40390</description>
+		<Point> 
+			<coordinates>
+			-122.526596,37.986759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln Ave &amp; Wilson Ct<br/>ID: 40391</description>
+		<Point> 
+			<coordinates>
+			-122.526527,37.986877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Circle Rd<br/>ID: 40573</description>
+		<Point> 
+			<coordinates>
+			-122.541023,37.994781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Circle Rd<br/>ID: 40574</description>
+		<Point> 
+			<coordinates>
+			-122.540924,37.994881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Golden Hinde Blvd<br/>ID: 40571</description>
+		<Point> 
+			<coordinates>
+			-122.54171,37.998405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Golden Hinde Blvd<br/>ID: 40572</description>
+		<Point> 
+			<coordinates>
+			-122.541519,37.998249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Northgate Dr<br/>ID: 40566</description>
+		<Point> 
+			<coordinates>
+			-122.542656,38.00135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Northgate Dr<br/>ID: 40567</description>
+		<Point> 
+			<coordinates>
+			-122.542358,38.001068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Ranch Rd<br/>ID: 40575</description>
+		<Point> 
+			<coordinates>
+			-122.536407,37.992405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Los Ranchitos Rd &amp; Ranch Rd<br/>ID: 40576</description>
+		<Point> 
+			<coordinates>
+			-122.536598,37.992523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lucky Dr &amp; Riviera Circle<br/>ID: 40314</description>
+		<Point> 
+			<coordinates>
+			-122.521645,37.937347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lucky Dr &amp; Riviera Circle<br/>ID: 40313</description>
+		<Point> 
+			<coordinates>
+			-122.521591,37.937267,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madera Blvd &amp; Mohawk Av<br/>ID: 40282</description>
+		<Point> 
+			<coordinates>
+			-122.518585,37.926239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madera Blvd &amp; Monona Dr<br/>ID: 40274</description>
+		<Point> 
+			<coordinates>
+			-122.518608,37.928059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Av &amp; Alexander Av<br/>ID: 40308</description>
+		<Point> 
+			<coordinates>
+			-122.53392,37.92947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Av &amp; Madrone Av<br/>ID: 40306</description>
+		<Point> 
+			<coordinates>
+			-122.535934,37.932655,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Av &amp; Madrone Av<br/>ID: 40305</description>
+		<Point> 
+			<coordinates>
+			-122.536064,37.932579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Av &amp; Park Way<br/>ID: 40307</description>
+		<Point> 
+			<coordinates>
+			-122.53344,37.929089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Av &amp; Ward St<br/>ID: 40304</description>
+		<Point> 
+			<coordinates>
+			-122.53508,37.936222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Av &amp; Ward St<br/>ID: 40303</description>
+		<Point> 
+			<coordinates>
+			-122.535309,37.935921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave &amp; Bon Air Rd<br/>ID: 40302</description>
+		<Point> 
+			<coordinates>
+			-122.54071,37.943386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave &amp; Bon Air Rd<br/>ID: 40301</description>
+		<Point> 
+			<coordinates>
+			-122.540535,37.943031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave &amp; Dartmouth Dr<br/>ID: 40300</description>
+		<Point> 
+			<coordinates>
+			-122.542938,37.945011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave &amp; Frances Ave<br/>ID: 40225</description>
+		<Point> 
+			<coordinates>
+			-122.546364,37.94696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave &amp; Frances Ave<br/>ID: 40297</description>
+		<Point> 
+			<coordinates>
+			-122.546364,37.946831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave &amp; Skylark Dr<br/>ID: 40299</description>
+		<Point> 
+			<coordinates>
+			-122.543015,37.944588,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Magnolia Ave and Estelle Ave<br/>ID: 40298</description>
+		<Point> 
+			<coordinates>
+			-122.548943,37.948391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manuel T Freitas Pkwy &amp; Del Ganado Rd<br/>ID: 40548</description>
+		<Point> 
+			<coordinates>
+			-122.558533,38.012707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manuel T Freitas Pkwy &amp; Del Ganado Rd<br/>ID: 40549</description>
+		<Point> 
+			<coordinates>
+			-122.559372,38.01292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manuel T Freitas Pkwy &amp; Las Gallinas Av<br/>ID: 40553</description>
+		<Point> 
+			<coordinates>
+			-122.549629,38.009735,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manuel T Freitas Pkwy &amp; Las Pavadas Av<br/>ID: 40551</description>
+		<Point> 
+			<coordinates>
+			-122.555374,38.011406,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manuel T Freitas Pkwy &amp; Las Pavadas Av<br/>ID: 40552</description>
+		<Point> 
+			<coordinates>
+			-122.555412,38.011837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manuel T Freitas Pkwy &amp; Montecillo Rd<br/>ID: 40546</description>
+		<Point> 
+			<coordinates>
+			-122.561073,38.011745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Manzanita Park &amp; Ride Lot<br/>ID: 40162</description>
+		<Point> 
+			<coordinates>
+			-122.516699,37.879744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marin City Hub<br/>ID: 40113</description>
+		<Point> 
+			<coordinates>
+			-122.511571,37.8723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marin City Hub<br/>ID: 44113</description>
+		<Point> 
+			<coordinates>
+			-122.511301,37.871956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marin Civic Center-Judge Haley Dr &amp; Civic Ctr Dr<br/>ID: 40605</description>
+		<Point> 
+			<coordinates>
+			-122.531097,37.998161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marin Civic Center-Judge Haley Dr &amp; Civic Ctr Dr<br/>ID: 41330</description>
+		<Point> 
+			<coordinates>
+			-122.531242,37.998219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marin Health Medical Center-250 Bon Air Rd<br/>ID: 41072</description>
+		<Point> 
+			<coordinates>
+			-122.537308,37.94696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marinwood Bus Pad Hwy 101 @ Miller Creek Rd<br/>ID: 42113</description>
+		<Point> 
+			<coordinates>
+			-122.537432,38.034155,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marinwood Bus Pad Hwy 101 @ Saint Vincent's Dr<br/>ID: 42032</description>
+		<Point> 
+			<coordinates>
+			-122.536729,38.033658,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medway Rd &amp; Francisco Blvd E<br/>ID: 40449</description>
+		<Point> 
+			<coordinates>
+			-122.510101,37.9631,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medway Rd &amp; Mill St<br/>ID: 40455</description>
+		<Point> 
+			<coordinates>
+			-122.508949,37.964584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merrydale Rd &amp; N San Pedro Rd<br/>ID: 40580</description>
+		<Point> 
+			<coordinates>
+			-122.534233,37.994591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mill Valley Depot-Sunnyside Ave &amp; Miller Ave<br/>ID: 40142</description>
+		<Point> 
+			<coordinates>
+			-122.547396,37.905671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Camino Alto<br/>ID: 40150</description>
+		<Point> 
+			<coordinates>
+			-122.531458,37.893722,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Camino Alto<br/>ID: 40149</description>
+		<Point> 
+			<coordinates>
+			-122.530473,37.892826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Locust Ave<br/>ID: 40146</description>
+		<Point> 
+			<coordinates>
+			-122.538039,37.898592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Montford Ave<br/>ID: 40145</description>
+		<Point> 
+			<coordinates>
+			-122.537163,37.897521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Park Ave<br/>ID: 40144</description>
+		<Point> 
+			<coordinates>
+			-122.541506,37.901627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Reed St<br/>ID: 40147</description>
+		<Point> 
+			<coordinates>
+			-122.534407,37.895106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Reed St<br/>ID: 40148</description>
+		<Point> 
+			<coordinates>
+			-122.534453,37.895538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Ave &amp; Una Way<br/>ID: 40143</description>
+		<Point> 
+			<coordinates>
+			-122.541745,37.901415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Creek Rd &amp; Las Gallinas Av<br/>ID: 40638</description>
+		<Point> 
+			<coordinates>
+			-122.544014,38.032578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Creek Rd &amp; Marinwood Av<br/>ID: 40641</description>
+		<Point> 
+			<coordinates>
+			-122.540741,38.033512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Miller Creek Rd &amp; Marinwood Av<br/>ID: 40640</description>
+		<Point> 
+			<coordinates>
+			-122.54052,38.033245,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mission Av &amp; Mary St<br/>ID: 41159</description>
+		<Point> 
+			<coordinates>
+			-122.516876,37.972534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mission Av &amp; Mary St<br/>ID: 41158</description>
+		<Point> 
+			<coordinates>
+			-122.516739,37.972668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montecillo Rd At Kaiser Hospital Lot A<br/>ID: 41350</description>
+		<Point> 
+			<coordinates>
+			-122.553239,38.003909,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Montecillo Rd At Kaiser Hospital Lot C<br/>ID: 40557</description>
+		<Point> 
+			<coordinates>
+			-122.554657,38.00552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Crestview Dr<br/>ID: 40593</description>
+		<Point> 
+			<coordinates>
+			-122.51947,38.009163,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Garden Av<br/>ID: 40603</description>
+		<Point> 
+			<coordinates>
+			-122.527489,37.997311,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Jefferson Av<br/>ID: 40602</description>
+		<Point> 
+			<coordinates>
+			-122.526932,37.997963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; La Pasada Way<br/>ID: 42131</description>
+		<Point> 
+			<coordinates>
+			-122.517319,38.010868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Mabry Way<br/>ID: 40592</description>
+		<Point> 
+			<coordinates>
+			-122.519997,38.008553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Meadow Dr<br/>ID: 40594</description>
+		<Point> 
+			<coordinates>
+			-122.519203,38.005878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Meadow Dr<br/>ID: 40595</description>
+		<Point> 
+			<coordinates>
+			-122.51886,38.006218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Meriam Dr<br/>ID: 40598</description>
+		<Point> 
+			<coordinates>
+			-122.522476,38.001831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Merrydale Rd<br/>ID: 40578</description>
+		<Point> 
+			<coordinates>
+			-122.533798,37.993748,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Merrydale Rd<br/>ID: 40579</description>
+		<Point> 
+			<coordinates>
+			-122.534599,37.993404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Roosevelt Av<br/>ID: 40600</description>
+		<Point> 
+			<coordinates>
+			-122.524368,38.000038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Roosevelt Av<br/>ID: 40601</description>
+		<Point> 
+			<coordinates>
+			-122.524689,37.999584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Schmidt Ln<br/>ID: 40596</description>
+		<Point> 
+			<coordinates>
+			-122.520599,38.004326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Schmidt Ln<br/>ID: 40597</description>
+		<Point> 
+			<coordinates>
+			-122.520065,38.004623,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N San Pedro Rd &amp; Woodoaks Dr<br/>ID: 40599</description>
+		<Point> 
+			<coordinates>
+			-122.521965,38.002151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nave Dr &amp; Bolling Dr<br/>ID: 40771</description>
+		<Point> 
+			<coordinates>
+			-122.530914,38.050663,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nave Dr &amp; Bolling Dr<br/>ID: 40772</description>
+		<Point> 
+			<coordinates>
+			-122.530594,38.051685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nave Dr &amp; Hamilton Pkwy<br/>ID: 40774</description>
+		<Point> 
+			<coordinates>
+			-122.532921,38.061897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nave Dr &amp; Roblar Dr<br/>ID: 40767</description>
+		<Point> 
+			<coordinates>
+			-122.534775,38.064449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nave Dr &amp; Roblar Dr<br/>ID: 40768</description>
+		<Point> 
+			<coordinates>
+			-122.534424,38.064445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nova Albion Way &amp; Arias St<br/>ID: 40558</description>
+		<Point> 
+			<coordinates>
+			-122.550018,38.006721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nova Albion Way &amp; Arias St<br/>ID: 40561</description>
+		<Point> 
+			<coordinates>
+			-122.549606,38.007034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nova Albion Way &amp; Montecillo Rd<br/>ID: 41039</description>
+		<Point> 
+			<coordinates>
+			-122.552353,38.004139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Nova Albion Way &amp; Montecillo Rd<br/>ID: 40560</description>
+		<Point> 
+			<coordinates>
+			-122.5522,38.004108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Eucalyptus Av<br/>ID: 40676</description>
+		<Point> 
+			<coordinates>
+			-122.604073,38.114868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Eucalyptus Av<br/>ID: 40675</description>
+		<Point> 
+			<coordinates>
+			-122.60334,38.114239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Grant Av<br/>ID: 40684</description>
+		<Point> 
+			<coordinates>
+			-122.58429,38.108662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Grant Av<br/>ID: 40683</description>
+		<Point> 
+			<coordinates>
+			-122.5839,38.108364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Mcclay Rd<br/>ID: 40682</description>
+		<Point> 
+			<coordinates>
+			-122.587547,38.110126,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Mcclay Rd<br/>ID: 40681</description>
+		<Point> 
+			<coordinates>
+			-122.587616,38.110035,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Oliva Dr<br/>ID: 40678</description>
+		<Point> 
+			<coordinates>
+			-122.597328,38.112167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Oliva Dr<br/>ID: 40677</description>
+		<Point> 
+			<coordinates>
+			-122.59758,38.112118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Seventh St<br/>ID: 40687</description>
+		<Point> 
+			<coordinates>
+			-122.580208,38.106853,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Wilson Ct<br/>ID: 40680</description>
+		<Point> 
+			<coordinates>
+			-122.59153,38.111908,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato Blvd &amp; Wilson Ct<br/>ID: 40679</description>
+		<Point> 
+			<coordinates>
+			-122.593193,38.112076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Novato San Marin SMART Station<br/>ID: 42147</description>
+		<Point> 
+			<coordinates>
+			-122.566266,38.120578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Olive Av &amp; Kenwood Ct<br/>ID: 41026</description>
+		<Point> 
+			<coordinates>
+			-122.563393,38.110092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Olive Av &amp; Lea Dr<br/>ID: 41032</description>
+		<Point> 
+			<coordinates>
+			-122.549957,38.105736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Olive Av &amp; Westwood Dr<br/>ID: 41028</description>
+		<Point> 
+			<coordinates>
+			-122.559341,38.109112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pacheco Plaza<br/>ID: 40741</description>
+		<Point> 
+			<coordinates>
+			-122.542763,38.066223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Bayview Dr<br/>ID: 40795</description>
+		<Point> 
+			<coordinates>
+			-122.560333,37.896763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Bayview Dr<br/>ID: 40796</description>
+		<Point> 
+			<coordinates>
+			-122.560455,37.896919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Edgewood Av<br/>ID: 40789</description>
+		<Point> 
+			<coordinates>
+			-122.57708,37.910057,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Edgewood Av<br/>ID: 40790</description>
+		<Point> 
+			<coordinates>
+			-122.576996,37.910583,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Muir Woods Rd<br/>ID: 40797</description>
+		<Point> 
+			<coordinates>
+			-122.556999,37.89307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Pan Toll Ranger Station<br/>ID: 40785</description>
+		<Point> 
+			<coordinates>
+			-122.603859,37.904465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Pan Toll Ranger Station<br/>ID: 40786</description>
+		<Point> 
+			<coordinates>
+			-122.603996,37.904499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Park Av<br/>ID: 40791</description>
+		<Point> 
+			<coordinates>
+			-122.569739,37.903872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Park Av<br/>ID: 40792</description>
+		<Point> 
+			<coordinates>
+			-122.570275,37.904621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Ridge Av<br/>ID: 40793</description>
+		<Point> 
+			<coordinates>
+			-122.567703,37.901028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Ridge Av<br/>ID: 40794</description>
+		<Point> 
+			<coordinates>
+			-122.567284,37.901028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Panoramic Hwy &amp; Sequoia Valley Rd<br/>ID: 40798</description>
+		<Point> 
+			<coordinates>
+			-122.556999,37.8936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; El Camino Dr<br/>ID: 40285</description>
+		<Point> 
+			<coordinates>
+			-122.505089,37.919384,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Golden Hinde Passage<br/>ID: 40289</description>
+		<Point> 
+			<coordinates>
+			-122.497993,37.920429,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Golden Hinde Passage<br/>ID: 40290</description>
+		<Point> 
+			<coordinates>
+			-122.498085,37.920532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Harbor Dr<br/>ID: 40284</description>
+		<Point> 
+			<coordinates>
+			-122.508881,37.920216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Madera Del Presidio Av<br/>ID: 40283</description>
+		<Point> 
+			<coordinates>
+			-122.508621,37.919998,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Prince Royal Dr<br/>ID: 40287</description>
+		<Point> 
+			<coordinates>
+			-122.502518,37.919159,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Prince Royal Dr<br/>ID: 40288</description>
+		<Point> 
+			<coordinates>
+			-122.502953,37.919216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Ranch Rd<br/>ID: 41189</description>
+		<Point> 
+			<coordinates>
+			-122.483917,37.918461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Ranch Rd<br/>ID: 41190</description>
+		<Point> 
+			<coordinates>
+			-122.483841,37.918549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Robin Dr<br/>ID: 40293</description>
+		<Point> 
+			<coordinates>
+			-122.489059,37.919933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Robin Dr<br/>ID: 40294</description>
+		<Point> 
+			<coordinates>
+			-122.489052,37.920071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Seawolf Passage<br/>ID: 40286</description>
+		<Point> 
+			<coordinates>
+			-122.505249,37.919453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Uplands Circle<br/>ID: 40291</description>
+		<Point> 
+			<coordinates>
+			-122.490891,37.919872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Uplands Circle<br/>ID: 40292</description>
+		<Point> 
+			<coordinates>
+			-122.490929,37.919998,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Paradise Dr &amp; Us 101 Overpass<br/>ID: 42010</description>
+		<Point> 
+			<coordinates>
+			-122.514053,37.926266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park St &amp; Central Av<br/>ID: 40820</description>
+		<Point> 
+			<coordinates>
+			-122.643715,38.012112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pt Reyes Downtown-Shoreline Hwy &amp; 3rd St<br/>ID: 40807</description>
+		<Point> 
+			<coordinates>
+			-122.805611,38.067871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Hill Ave &amp; Sequoia Dr<br/>ID: 40489</description>
+		<Point> 
+			<coordinates>
+			-122.554189,37.976394,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Red Hill Ave &amp; Sequoia Dr<br/>ID: 40490</description>
+		<Point> 
+			<coordinates>
+			-122.554633,37.976644,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Av &amp; Montecito Dr<br/>ID: 40276</description>
+		<Point> 
+			<coordinates>
+			-122.529625,37.926449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Av &amp; Montecito Dr<br/>ID: 40275</description>
+		<Point> 
+			<coordinates>
+			-122.52951,37.926357,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Blvd &amp; Escallonia Dr<br/>ID: 41046</description>
+		<Point> 
+			<coordinates>
+			-122.567413,38.115982,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Blvd &amp; Grant Ave<br/>ID: 40696</description>
+		<Point> 
+			<coordinates>
+			-122.570629,38.106438,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Blvd &amp; Grant Ave<br/>ID: 40697</description>
+		<Point> 
+			<coordinates>
+			-122.570611,38.106571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Blvd &amp; Olive Ave<br/>ID: 40694</description>
+		<Point> 
+			<coordinates>
+			-122.569038,38.11118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Blvd &amp; Olive Ave<br/>ID: 40695</description>
+		<Point> 
+			<coordinates>
+			-122.568545,38.111408,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Blvd &amp; Rush Creek Place<br/>ID: 41047</description>
+		<Point> 
+			<coordinates>
+			-122.567046,38.116036,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood High School<br/>ID: 42146</description>
+		<Point> 
+			<coordinates>
+			-122.523384,37.937679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Hwy Frontage Rd &amp; De Silva Island Dr<br/>ID: 40184</description>
+		<Point> 
+			<coordinates>
+			-122.516205,37.88913,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Redwood Hwy Frontage Rd &amp; Hwy 101 SB Ramps<br/>ID: 40186</description>
+		<Point> 
+			<coordinates>
+			-122.517433,37.889305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed Blvd &amp; Belvedere Dr<br/>ID: 40158</description>
+		<Point> 
+			<coordinates>
+			-122.513275,37.898609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed Blvd &amp; Redwood Hwy<br/>ID: 40182</description>
+		<Point> 
+			<coordinates>
+			-122.514938,37.900894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ross Sir Francis Drake Blvd &amp; Lagunitas Rd<br/>ID: 40342</description>
+		<Point> 
+			<coordinates>
+			-122.555855,37.962734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ross Sir Francis Drake Blvd &amp; Lagunitas Rd<br/>ID: 40341</description>
+		<Point> 
+			<coordinates>
+			-122.555741,37.962399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowland Blvd  &amp; Rowland Way<br/>ID: 41311</description>
+		<Point> 
+			<coordinates>
+			-122.556961,38.093521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowland Blvd &amp; Redwood Blvd<br/>ID: 41043</description>
+		<Point> 
+			<coordinates>
+			-122.562029,38.090131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowland Blvd &amp; Redwood Blvd<br/>ID: 40777</description>
+		<Point> 
+			<coordinates>
+			-122.561022,38.091129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowland Blvd &amp; Rowland Way<br/>ID: 41310</description>
+		<Point> 
+			<coordinates>
+			-122.557098,38.093723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowland Blvd &amp; S Novato Blvd<br/>ID: 40778</description>
+		<Point> 
+			<coordinates>
+			-122.56467,38.088138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rowland Blvd At Vintage Oaks Entrance<br/>ID: 41306</description>
+		<Point> 
+			<coordinates>
+			-122.551918,38.089954,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Eliseo Dr &amp; Via Belardo<br/>ID: 41354</description>
+		<Point> 
+			<coordinates>
+			-122.528717,37.945072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Eliseo Dr At Hamilton Park<br/>ID: 41356</description>
+		<Point> 
+			<coordinates>
+			-122.53566,37.943821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Arthur St<br/>ID: 40706</description>
+		<Point> 
+			<coordinates>
+			-122.567604,38.091793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Arthur St<br/>ID: 40707</description>
+		<Point> 
+			<coordinates>
+			-122.567734,38.092758,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Diablo Av<br/>ID: 40702</description>
+		<Point> 
+			<coordinates>
+			-122.572823,38.102245,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Diablo Av<br/>ID: 40703</description>
+		<Point> 
+			<coordinates>
+			-122.572731,38.102558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Joan Av<br/>ID: 40704</description>
+		<Point> 
+			<coordinates>
+			-122.571083,38.099461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Lauren Av<br/>ID: 40705</description>
+		<Point> 
+			<coordinates>
+			-122.569542,38.097057,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Midway Blvd<br/>ID: 40712</description>
+		<Point> 
+			<coordinates>
+			-122.558504,38.081168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Midway Blvd<br/>ID: 40713</description>
+		<Point> 
+			<coordinates>
+			-122.558529,38.081745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Redwood Blvd<br/>ID: 40716</description>
+		<Point> 
+			<coordinates>
+			-122.552372,38.077404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Redwood Blvd<br/>ID: 40717</description>
+		<Point> 
+			<coordinates>
+			-122.55157,38.077581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Rowland Blvd<br/>ID: 40708</description>
+		<Point> 
+			<coordinates>
+			-122.56506,38.087698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Rowland Blvd<br/>ID: 40709</description>
+		<Point> 
+			<coordinates>
+			-122.565758,38.089012,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Stone Dr<br/>ID: 40714</description>
+		<Point> 
+			<coordinates>
+			-122.557053,38.078166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Stone Dr<br/>ID: 40715</description>
+		<Point> 
+			<coordinates>
+			-122.557042,38.078463,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Sunset Pkwy<br/>ID: 40710</description>
+		<Point> 
+			<coordinates>
+			-122.56208,38.085407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Novato Blvd &amp; Sunset Pkwy<br/>ID: 40711</description>
+		<Point> 
+			<coordinates>
+			-122.562087,38.085561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Anselmo Hub<br/>ID: 40484</description>
+		<Point> 
+			<coordinates>
+			-122.562841,37.976546,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Carlos Way &amp; Clemente Ct<br/>ID: 40668</description>
+		<Point> 
+			<coordinates>
+			-122.596863,38.118427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Carlos Way &amp; Corona Ct<br/>ID: 40666</description>
+		<Point> 
+			<coordinates>
+			-122.594482,38.118732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Carlos Way &amp; San Luis Ct<br/>ID: 40664</description>
+		<Point> 
+			<coordinates>
+			-122.591232,38.119953,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Carlos Way &amp; San Luis Way<br/>ID: 41002</description>
+		<Point> 
+			<coordinates>
+			-122.592934,38.119324,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Carlos Way &amp; San Marin Dr<br/>ID: 40662</description>
+		<Point> 
+			<coordinates>
+			-122.591576,38.12352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Clemente Parking  Lot<br/>ID: 42008</description>
+		<Point> 
+			<coordinates>
+			-122.499901,37.919956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Geronimo Valley Dr &amp; Creamery Rd<br/>ID: 42000</description>
+		<Point> 
+			<coordinates>
+			-122.667946,38.0144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Geronimo Valley Dr &amp; Creamery Rd<br/>ID: 40816</description>
+		<Point> 
+			<coordinates>
+			-122.668182,38.014347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; Redwood Blvd<br/>ID: 40656</description>
+		<Point> 
+			<coordinates>
+			-122.567421,38.118454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; San Andreas Dr<br/>ID: 40670</description>
+		<Point> 
+			<coordinates>
+			-122.602013,38.12191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; San Andreas Dr<br/>ID: 40669</description>
+		<Point> 
+			<coordinates>
+			-122.602119,38.122116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; San Ramon Way<br/>ID: 40672</description>
+		<Point> 
+			<coordinates>
+			-122.60405,38.121635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; San Ramon Way<br/>ID: 40671</description>
+		<Point> 
+			<coordinates>
+			-122.604507,38.121792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; Santolina Dr<br/>ID: 41049</description>
+		<Point> 
+			<coordinates>
+			-122.569687,38.120571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; Sereno Way<br/>ID: 40660</description>
+		<Point> 
+			<coordinates>
+			-122.587769,38.124256,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; Simmons Ln<br/>ID: 40658</description>
+		<Point> 
+			<coordinates>
+			-122.58448,38.121441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin Dr &amp; Somerset Dr<br/>ID: 41075</description>
+		<Point> 
+			<coordinates>
+			-122.578644,38.12075,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin High School<br/>ID: 40674</description>
+		<Point> 
+			<coordinates>
+			-122.609055,38.118809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Marin High School<br/>ID: 40673</description>
+		<Point> 
+			<coordinates>
+			-122.609337,38.118832,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Rafael Transit Center<br/>ID: 40430</description>
+		<Point> 
+			<coordinates>
+			-122.523102,37.971081,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Rafael Transit Center<br/>ID: 44005</description>
+		<Point> 
+			<coordinates>
+			-122.522417,37.971249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Rafael Transit Center<br/>ID: 44006</description>
+		<Point> 
+			<coordinates>
+			-122.52285,37.971132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Rafael Transit Center<br/>ID: 44001</description>
+		<Point> 
+			<coordinates>
+			-122.522601,37.971094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: San Rafael Transit Center<br/>ID: 44002</description>
+		<Point> 
+			<coordinates>
+			-122.522385,37.97087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Seventh St &amp; Grant Av<br/>ID: 40689</description>
+		<Point> 
+			<coordinates>
+			-122.578407,38.108772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Seventh St &amp; Grant Av<br/>ID: 40688</description>
+		<Point> 
+			<coordinates>
+			-122.578255,38.108902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Seventh St &amp; Novato Blvd<br/>ID: 41172</description>
+		<Point> 
+			<coordinates>
+			-122.578484,38.107159,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Seventh St &amp; Novato Blvd<br/>ID: 40686</description>
+		<Point> 
+			<coordinates>
+			-122.57872,38.106449,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Almonte Blvd<br/>ID: 40128</description>
+		<Point> 
+			<coordinates>
+			-122.525368,37.881969,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Laurel Way<br/>ID: 40165</description>
+		<Point> 
+			<coordinates>
+			-122.532593,37.87896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Laurel Way<br/>ID: 40166</description>
+		<Point> 
+			<coordinates>
+			-122.532867,37.879124,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Pine Hill Rd<br/>ID: 40160</description>
+		<Point> 
+			<coordinates>
+			-122.53492,37.879578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Pine St<br/>ID: 40163</description>
+		<Point> 
+			<coordinates>
+			-122.535179,37.879524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Pohono St<br/>ID: 40169</description>
+		<Point> 
+			<coordinates>
+			-122.515221,37.879671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Ross Dr<br/>ID: 40167</description>
+		<Point> 
+			<coordinates>
+			-122.529488,37.878979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Hwy &amp; Sir Francis Drake Blvd<br/>ID: 40806</description>
+		<Point> 
+			<coordinates>
+			-122.789749,38.044006,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shoreline Pkwy @ Target<br/>ID: 41332</description>
+		<Point> 
+			<coordinates>
+			-122.490639,37.953232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Alhambra Circle<br/>ID: 40514</description>
+		<Point> 
+			<coordinates>
+			-122.600449,37.999081,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Alhambra Circle<br/>ID: 40515</description>
+		<Point> 
+			<coordinates>
+			-122.60041,37.999207,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Ash Av<br/>ID: 40336</description>
+		<Point> 
+			<coordinates>
+			-122.546021,37.954296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Ash Ave<br/>ID: 40337</description>
+		<Point> 
+			<coordinates>
+			-122.545692,37.954319,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Aspen Ct<br/>ID: 40478</description>
+		<Point> 
+			<coordinates>
+			-122.572815,37.984692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Balboa Av<br/>ID: 40802</description>
+		<Point> 
+			<coordinates>
+			-122.820015,38.062881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Balboa Av<br/>ID: 40801</description>
+		<Point> 
+			<coordinates>
+			-122.820641,38.063099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Bank St<br/>ID: 41360</description>
+		<Point> 
+			<coordinates>
+			-122.561607,37.975494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Bank St<br/>ID: 41361</description>
+		<Point> 
+			<coordinates>
+			-122.561897,37.975231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Barber Av<br/>ID: 40486</description>
+		<Point> 
+			<coordinates>
+			-122.561523,37.972816,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Bolinas Av<br/>ID: 40487</description>
+		<Point> 
+			<coordinates>
+			-122.560661,37.96936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Bolinas Rd<br/>ID: 40488</description>
+		<Point> 
+			<coordinates>
+			-122.560486,37.969749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Bon Air Rd<br/>ID: 40319</description>
+		<Point> 
+			<coordinates>
+			-122.533859,37.95071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Bon Air Rd<br/>ID: 40318</description>
+		<Point> 
+			<coordinates>
+			-122.533501,37.950314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Broadmoor Ave<br/>ID: 40475</description>
+		<Point> 
+			<coordinates>
+			-122.575172,37.985966,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Broadway<br/>ID: 40524</description>
+		<Point> 
+			<coordinates>
+			-122.591644,37.989788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Butterfield Rd<br/>ID: 40473</description>
+		<Point> 
+			<coordinates>
+			-122.578461,37.986843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Claus Dr<br/>ID: 40522</description>
+		<Point> 
+			<coordinates>
+			-122.588791,37.987301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; El Portal Dr<br/>ID: 40320</description>
+		<Point> 
+			<coordinates>
+			-122.527359,37.94828,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; El Portal Dr<br/>ID: 40321</description>
+		<Point> 
+			<coordinates>
+			-122.528458,37.948906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Eliseo Dr<br/>ID: 40324</description>
+		<Point> 
+			<coordinates>
+			-122.520111,37.945427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Eliseo Dr<br/>ID: 40325</description>
+		<Point> 
+			<coordinates>
+			-122.520439,37.945808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Glen Dr<br/>ID: 40513</description>
+		<Point> 
+			<coordinates>
+			-122.603714,38.00037,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Kent Ave<br/>ID: 40526</description>
+		<Point> 
+			<coordinates>
+			-122.580917,37.986561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; La Cuesta Dr<br/>ID: 40322</description>
+		<Point> 
+			<coordinates>
+			-122.524826,37.947281,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; La Cuesta Dr<br/>ID: 40323</description>
+		<Point> 
+			<coordinates>
+			-122.525668,37.947831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Lagunitas School Rd<br/>ID: 40815</description>
+		<Point> 
+			<coordinates>
+			-122.676315,38.016491,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Lagunitas School Rd<br/>ID: 40814</description>
+		<Point> 
+			<coordinates>
+			-122.675964,38.016315,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Laurel Grove Ave<br/>ID: 40340</description>
+		<Point> 
+			<coordinates>
+			-122.540848,37.953629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Madrone Ave<br/>ID: 40483</description>
+		<Point> 
+			<coordinates>
+			-122.564331,37.97879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Madrone Ave<br/>ID: 40482</description>
+		<Point> 
+			<coordinates>
+			-122.564117,37.978928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Marin Rd<br/>ID: 40520</description>
+		<Point> 
+			<coordinates>
+			-122.594208,37.993378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Marinda Dr<br/>ID: 40525</description>
+		<Point> 
+			<coordinates>
+			-122.591568,37.990063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Mcallister Av<br/>ID: 40315</description>
+		<Point> 
+			<coordinates>
+			-122.539986,37.953232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Montezuma Rd<br/>ID: 40812</description>
+		<Point> 
+			<coordinates>
+			-122.690056,38.014977,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Oak Ave<br/>ID: 40339</description>
+		<Point> 
+			<coordinates>
+			-122.543083,37.953861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Oak Manor Dr<br/>ID: 40518</description>
+		<Point> 
+			<coordinates>
+			-122.596703,37.995659,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Oak Manor Dr<br/>ID: 40519</description>
+		<Point> 
+			<coordinates>
+			-122.596413,37.995628,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Oak Tree Ln<br/>ID: 40521</description>
+		<Point> 
+			<coordinates>
+			-122.594345,37.993793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Olema Rd<br/>ID: 40512</description>
+		<Point> 
+			<coordinates>
+			-122.604134,38.000221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Rosebank Dr<br/>ID: 40338</description>
+		<Point> 
+			<coordinates>
+			-122.54332,37.953602,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Ross Av<br/>ID: 40485</description>
+		<Point> 
+			<coordinates>
+			-122.561714,37.97242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Sais Ave<br/>ID: 40479</description>
+		<Point> 
+			<coordinates>
+			-122.566727,37.980919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Samuel P Taylor Park<br/>ID: 40808</description>
+		<Point> 
+			<coordinates>
+			-122.729507,38.019627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; San Anselmo Ave<br/>ID: 40472</description>
+		<Point> 
+			<coordinates>
+			-122.576797,37.986454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; San Francisco Blvd<br/>ID: 40480</description>
+		<Point> 
+			<coordinates>
+			-122.569214,37.982559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Sunnyhills Dr<br/>ID: 40481</description>
+		<Point> 
+			<coordinates>
+			-122.567055,37.981255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Tamal Ave<br/>ID: 40476</description>
+		<Point> 
+			<coordinates>
+			-122.568779,37.982178,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Tamal Rd<br/>ID: 40813</description>
+		<Point> 
+			<coordinates>
+			-122.688744,38.015358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; W Cintura Av<br/>ID: 40811</description>
+		<Point> 
+			<coordinates>
+			-122.70211,38.011963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; W Cintura Av<br/>ID: 40810</description>
+		<Point> 
+			<coordinates>
+			-122.701393,38.012344,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Willow Ave<br/>ID: 40527</description>
+		<Point> 
+			<coordinates>
+			-122.582748,37.986713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Wolfe Grade<br/>ID: 40316</description>
+		<Point> 
+			<coordinates>
+			-122.538094,37.952747,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd &amp; Wolfe Grade<br/>ID: 40317</description>
+		<Point> 
+			<coordinates>
+			-122.538895,37.953217,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd At Drake Manor Apts<br/>ID: 40516</description>
+		<Point> 
+			<coordinates>
+			-122.599068,37.99704,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd At Drake Manor Apts<br/>ID: 40517</description>
+		<Point> 
+			<coordinates>
+			-122.599068,37.997185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake Blvd Opposite 1111 Sir Francis<br/>ID: 40332</description>
+		<Point> 
+			<coordinates>
+			-122.55246,37.959251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sir Francis Drake HS-Sir Francis Drake &amp; Ash Ave<br/>ID: 40474</description>
+		<Point> 
+			<coordinates>
+			-122.574287,37.985386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith Ranch Rd At Cinemark<br/>ID: 41327</description>
+		<Point> 
+			<coordinates>
+			-122.532745,38.019527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith Ranch Rd At Cinemark<br/>ID: 41329</description>
+		<Point> 
+			<coordinates>
+			-122.532829,38.019764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Smith Ranch Rd At Contempo Marin<br/>ID: 41328</description>
+		<Point> 
+			<coordinates>
+			-122.528271,38.018431,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Cambridge St<br/>ID: 40719</description>
+		<Point> 
+			<coordinates>
+			-122.563057,38.084148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Cambridge St<br/>ID: 40718</description>
+		<Point> 
+			<coordinates>
+			-122.563026,38.084274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Denlyn St<br/>ID: 40721</description>
+		<Point> 
+			<coordinates>
+			-122.563988,38.08215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Denlyn St<br/>ID: 40720</description>
+		<Point> 
+			<coordinates>
+			-122.564049,38.082222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Merrit Dr<br/>ID: 40725</description>
+		<Point> 
+			<coordinates>
+			-122.568192,38.07584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Midway Blvd<br/>ID: 40723</description>
+		<Point> 
+			<coordinates>
+			-122.565926,38.080456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sunset Pkwy &amp; Midway Blvd<br/>ID: 40722</description>
+		<Point> 
+			<coordinates>
+			-122.566048,38.080528,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tam Junction-Shoreline Hwy &amp; Almonte Blvd<br/>ID: 40155</description>
+		<Point> 
+			<coordinates>
+			-122.524677,37.881521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tam Junction-Shoreline Hwy &amp; Almonte Blvd<br/>ID: 40156</description>
+		<Point> 
+			<coordinates>
+			-122.524565,37.881612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamal Vista Blvd &amp; Council Crest Dr<br/>ID: 42108</description>
+		<Point> 
+			<coordinates>
+			-122.518028,37.930038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamal Vista Blvd &amp; Fifer Av<br/>ID: 40270</description>
+		<Point> 
+			<coordinates>
+			-122.518639,37.937805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamal Vista Blvd &amp; Fifer Av<br/>ID: 40269</description>
+		<Point> 
+			<coordinates>
+			-122.518784,37.93782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamal Vista Blvd &amp; Sandpiper Circle<br/>ID: 40272</description>
+		<Point> 
+			<coordinates>
+			-122.518295,37.934109,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamal Vista Blvd &amp; Sandpiper Circle<br/>ID: 40271</description>
+		<Point> 
+			<coordinates>
+			-122.51841,37.934067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamalpais Dr &amp; Casa Buena Dr<br/>ID: 40281</description>
+		<Point> 
+			<coordinates>
+			-122.518509,37.92503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamalpais Dr &amp; Eastman Av<br/>ID: 40278</description>
+		<Point> 
+			<coordinates>
+			-122.523781,37.925507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamalpais Dr &amp; Eastman Av<br/>ID: 40277</description>
+		<Point> 
+			<coordinates>
+			-122.523697,37.925297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamalpais Dr &amp; Madera Blvd<br/>ID: 40280</description>
+		<Point> 
+			<coordinates>
+			-122.518959,37.925266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tamalpais Dr &amp; Meadowsweet Dr<br/>ID: 40279</description>
+		<Point> 
+			<coordinates>
+			-122.521736,37.925198,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terra Linda High School<br/>ID: 40570</description>
+		<Point> 
+			<coordinates>
+			-122.552696,37.999966,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Avenida Miraflores<br/>ID: 40212</description>
+		<Point> 
+			<coordinates>
+			-122.482834,37.892582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Bay Vista Dr<br/>ID: 40173</description>
+		<Point> 
+			<coordinates>
+			-122.504532,37.89925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Beach Rd<br/>ID: 40199</description>
+		<Point> 
+			<coordinates>
+			-122.459412,37.875637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Beach Rd<br/>ID: 40200</description>
+		<Point> 
+			<coordinates>
+			-122.458969,37.875107,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Blackfield Dr<br/>ID: 40219</description>
+		<Point> 
+			<coordinates>
+			-122.501976,37.898872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Cecilia Way<br/>ID: 40217</description>
+		<Point> 
+			<coordinates>
+			-122.498741,37.897766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Cecilia Way<br/>ID: 40218</description>
+		<Point> 
+			<coordinates>
+			-122.498482,37.896988,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Gilmartin Dr<br/>ID: 40208</description>
+		<Point> 
+			<coordinates>
+			-122.474319,37.886272,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Gilmartin Dr<br/>ID: 40209</description>
+		<Point> 
+			<coordinates>
+			-122.474419,37.886097,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Greenwood Beach Rd<br/>ID: 40220</description>
+		<Point> 
+			<coordinates>
+			-122.489014,37.897614,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Greenwood Cove Rd<br/>ID: 40223</description>
+		<Point> 
+			<coordinates>
+			-122.501144,37.898518,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Hwy 101 NB-Off Ramp<br/>ID: 40172</description>
+		<Point> 
+			<coordinates>
+			-122.513786,37.902489,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Hwy 101 SB-Off Ramp<br/>ID: 40171</description>
+		<Point> 
+			<coordinates>
+			-122.514786,37.902813,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Jefferson Dr<br/>ID: 40215</description>
+		<Point> 
+			<coordinates>
+			-122.489182,37.897655,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Lyford Dr<br/>ID: 40203</description>
+		<Point> 
+			<coordinates>
+			-122.465065,37.880646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Lyford Dr<br/>ID: 40204</description>
+		<Point> 
+			<coordinates>
+			-122.464722,37.880093,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Mar West St<br/>ID: 40202</description>
+		<Point> 
+			<coordinates>
+			-122.461998,37.877022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Mar West St<br/>ID: 40224</description>
+		<Point> 
+			<coordinates>
+			-122.462273,37.877048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; N Knoll Rd<br/>ID: 40176</description>
+		<Point> 
+			<coordinates>
+			-122.511078,37.902248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; N Knoll Rd<br/>ID: 40175</description>
+		<Point> 
+			<coordinates>
+			-122.511063,37.90197,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Neds Way<br/>ID: 40205</description>
+		<Point> 
+			<coordinates>
+			-122.467155,37.881863,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Neds Way<br/>ID: 40206</description>
+		<Point> 
+			<coordinates>
+			-122.467133,37.881721,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Pine Terrace<br/>ID: 40213</description>
+		<Point> 
+			<coordinates>
+			-122.483345,37.892578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Reed Ranch Rd<br/>ID: 40216</description>
+		<Point> 
+			<coordinates>
+			-122.491829,37.896053,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Rock Hill Dr<br/>ID: 40210</description>
+		<Point> 
+			<coordinates>
+			-122.477814,37.889191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Rock Hill Dr<br/>ID: 40211</description>
+		<Point> 
+			<coordinates>
+			-122.477547,37.888641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; San Rafael Av<br/>ID: 40207</description>
+		<Point> 
+			<coordinates>
+			-122.472115,37.884228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; San Rafael Av<br/>ID: 42054</description>
+		<Point> 
+			<coordinates>
+			-122.472076,37.884018,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Stewart Dr<br/>ID: 40214</description>
+		<Point> 
+			<coordinates>
+			-122.48642,37.894749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Stewart Dr<br/>ID: 40264</description>
+		<Point> 
+			<coordinates>
+			-122.486542,37.894676,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Blvd &amp; Strawberry Dr<br/>ID: 40177</description>
+		<Point> 
+			<coordinates>
+			-122.504494,37.898983,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tiburon Tiburon Blvd &amp; Main St<br/>ID: 40201</description>
+		<Point> 
+			<coordinates>
+			-122.456139,37.873861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Union St &amp; Fourth St<br/>ID: 41160</description>
+		<Point> 
+			<coordinates>
+			-122.516357,37.970993,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Union St &amp; Mission Av<br/>ID: 41157</description>
+		<Point> 
+			<coordinates>
+			-122.515572,37.97208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vendola Dr &amp; Estancia Way<br/>ID: 40583</description>
+		<Point> 
+			<coordinates>
+			-122.509499,38.01273,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Via Casitas &amp; El Portal Dr<br/>ID: 41352</description>
+		<Point> 
+			<coordinates>
+			-122.529243,37.947136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Via Casitas &amp; El Portal Dr<br/>ID: 41353</description>
+		<Point> 
+			<coordinates>
+			-122.529419,37.947094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vineyard Rd &amp; Wilson Av<br/>ID: 41335</description>
+		<Point> 
+			<coordinates>
+			-122.595589,38.105675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vintage Way At Fresh Choice<br/>ID: 41308</description>
+		<Point> 
+			<coordinates>
+			-122.555862,38.0924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vintage Way At Sleep Train<br/>ID: 41307</description>
+		<Point> 
+			<coordinates>
+			-122.55336,38.087727,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

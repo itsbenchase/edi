@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-marin routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>17</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ca-marin<br/>EDI: 1.43</description>
+		<LineString> 
+			<coordinates>
+			-122.480469,37.857136,0
+			-122.483241,37.858565,0
+			-122.485967,37.859704,0
+			-122.489819,37.861524,0
+			-122.49361,37.861978,0
+			-122.499217,37.865472,0
+			-122.50233,37.868438,0
+			-122.503827,37.871113,0
+			-122.511571,37.8723,0
+			-122.515221,37.879671,0
+			-122.524565,37.881612,0
+			-122.524643,37.883864,0
+			-122.524734,37.887566,0
+			-122.531458,37.893722,0
+			-122.534453,37.895538,0
+			-122.538039,37.898592,0
+			-122.541506,37.901627,0
+			-122.547396,37.905671,0
+			-122.527622,37.900242,0
+			-122.519193,37.903475,0
+			-122.513809,37.925287,0
+			-122.516101,37.938685,0
+			-122.522385,37.97087,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
