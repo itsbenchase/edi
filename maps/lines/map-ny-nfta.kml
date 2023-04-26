@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ny-nfta routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>Rail</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ny-nfta<br/>EDI: 1.02</description>
+		<LineString> 
+			<coordinates>
+			-78.820253,42.954409,0
+			-78.830232,42.947528,0
+			-78.83863,42.939828,0
+			-78.851911,42.927529,0
+			-78.857171,42.922468,0
+			-78.865903,42.911669,0
+			-78.868192,42.904878,0
+			-78.869873,42.899828,0
+			-78.87326,42.8893,0
+			-78.874272,42.886239,0
+			-78.875192,42.883619,0
+			-78.875992,42.880909,0
+			-78.877031,42.877769,0
+			-78.877523,42.876399,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
