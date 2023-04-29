@@ -18,6 +18,12 @@ calculated by adding together the straight line distances between each stop, and
 by the displacement of the route. The calculator uses the Haversine formula and spherical trigonometry 
 to determine distances.</p>
 
+<p>In other terms (thanks Mark for this explanation!) - say you've got a transit route with a series of stops - call them A, B, C, D and 
+  so on. Calculate the straight-line distance between each successive pair of stops - so A to B, then B to C, C to D, etc. Add all these stop-to-stop 
+  distances up. Now calculate the straight-line distance between the first stop and the last stop on the route - say A to Z. The EDI for the route is 
+  the total of the stop-to-stop distances (A-B-C-D-...), divided by the first stop - last stop distance (A-Z). So where all the stops are in a nearly 
+  straight line, the EDI will be close to 1; where the start and end are close together, but the route between them is long, the EDI will be large.</p>
+
 <p>If the agency or route that you are looking for does not exist yet in the database, don't panic, just let us know. 
   Contact info can be found on the bottom of this page.
 </p>
