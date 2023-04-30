@@ -7550,8 +7550,8 @@
 	</Placemark>
 	<Placemark> 
 		<name>SL2</name>
-		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.07</description>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ma-mbta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7563,9 +7563,6 @@
 			-71.030268,42.344649,0
 			-71.028419,42.344706,0
 			-71.027213,42.344232,0
-			-71.034476,42.3446,0
-			-71.031996,42.345192,0
-			-71.034878,42.346538,0
 			</coordinates> 
 		</LineString> 
 	</Placemark>

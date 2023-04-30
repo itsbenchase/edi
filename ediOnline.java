@@ -353,8 +353,6 @@ public class ediOnline
         {
           theLine[i] = custom.get(i);
         }
-        
-        System.out.println("Please only use the export feature if you intend to have an official route added to the database. Abuse of this feature will result in being blocked from submitting routes.");
 
         System.out.print("Export line? ");
         if (in.nextLine().equalsIgnoreCase("yes"))
