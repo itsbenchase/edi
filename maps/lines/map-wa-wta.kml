@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>wa-wta routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>1</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: wa-wta<br/>EDI: 1.19</description>
+		<LineString> 
+			<coordinates>
+			-122.51069,48.720356,0
+			-122.508662,48.720049,0
+			-122.505316,48.720058,0
+			-122.504673,48.718994,0
+			-122.502077,48.71911,0
+			-122.502217,48.721148,0
+			-122.503679,48.724188,0
+			-122.50368,48.725727,0
+			-122.503699,48.727587,0
+			-122.502773,48.729219,0
+			-122.501313,48.730505,0
+			-122.499618,48.73199,0
+			-122.49736,48.734287,0
+			-122.49211,48.738167,0
+			-122.48884,48.740402,0
+			-122.487249,48.741487,0
+			-122.484966,48.742964,0
+			-122.480947,48.744342,0
+			-122.47917,48.745533,0
+			-122.477104,48.746928,0
+			-122.475612,48.75039,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

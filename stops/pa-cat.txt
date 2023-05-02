@@ -46,8 +46,6 @@
 498737;Ann St & S Wood St;40.193546;-76.735582
 498738;Ann St & S Wood St;40.193584;-76.735260
 500296;Avila Rd & Wagon Wheel Ct;40.281544;-76.815518
-1307194;B'Nai B'Rith Apartments;40.259556;-76.879570
-1307398;B'Nai B'Rith Apartments;40.259548;-76.878410
 653698;Balthaser St & Catherine St;40.336151;-76.788826
 500608;Balthaser St & Collington Ct;40.343189;-76.786476
 500607;Balthaser St & Jerome Blvd;40.341133;-76.786629
@@ -70,13 +68,15 @@
 499805;Berryhill St opp. S 23rd St;40.263767;-76.849640
 1307304;Bistline Apartments;40.253423;-76.838972
 500600;Blue Mountain Commons @ Giant;40.331018;-76.863088
+1307194;B'Nai B'Rith Apartments;40.259556;-76.879570
+1307398;B'Nai B'Rith Apartments;40.259548;-76.878410
 499979;Boas St & Commonwealth Ave;40.268377;-76.884576
 500529;Boscov's (Colonial Park Mall);40.303319;-76.820206
 499240;Bosler Ave & S 3rd St;40.245361;-76.892685
 3371618;Brackbill Blvd @ #6350 (TelePlan);40.229843;-77.001472
-498983;Brandt Ave & 9th St;40.229385;-76.874763
 499023;Brandt Ave & 15th St;40.231365;-76.882362
 499033;Brandt Ave & 16th St;40.232114;-76.884183
+498983;Brandt Ave & 9th St;40.229385;-76.874763
 499013;Brandt Ave & Barbara St;40.230747;-76.880882
 498969;Brandt Ave & Beacon Hill Rd;40.227806;-76.870636
 498997;Brandt Ave & Terrace Dr;40.230007;-76.877670
@@ -109,7 +109,6 @@
 498913;Bridge St & Miramar St;40.223637;-76.860344
 499047;Bridge St & Park Ave;40.233932;-76.875168
 3371621;C.I.T. (Shelter Stop);40.226864;-77.006706
-5141003;CVS (Highway Stop) (Shippensburg);40.057518;-77.509346
 499074;Camp Hill Mall (Barnes & Noble);40.235856;-76.934807
 889419;Capital Blue Cross;40.299530;-76.849373
 498899;Capital City Mall;40.222186;-76.932122
@@ -155,19 +154,19 @@
 499358;City Island (South Side Shelter);40.253956;-76.887108
 499400;City Park Dr & Parkview Ln;40.255802;-76.833758
 499395;City Park Dr opp. Parkview Ln;40.255604;-76.833809
-887678;Clarks Ferry Park & Ride Lot (Northbound;40.395750;-77.008289
-500614;Clarks Ferry Park & Ride Lot (Southbound);40.396015;-77.008600
+500614;Clarks Ferry Park & Ride Lot;40.396015;-77.008600
+887678;Clarks Ferry Park & Ride Lot (Northbound);40.395750;-77.008289
 500543;College Hill Rd & B St;40.304146;-76.935005
 878178;College Hill Rd & N Enola Dr;40.302349;-76.941478
 500535;College Hill Road & Raymond Rd;40.303469;-76.939655
-1022430;Colonial Commons (Highway Stop) - Inbound;40.311169;-76.801743
-930903;Colonial Commons (Highway Stop) - Outbound;40.310963;-76.801506
+930903;Colonial Commons;40.310963;-76.801506
+1022430;Colonial Commons (Highway Stop);40.311169;-76.801743
 500562;Colonial Commons @ Hallmark;40.310478;-76.803474
 500566;Colonial Commons @ Joanns;40.311550;-76.805702
 653411;Colonial Commons @ OfficeMax;40.312431;-76.803810
 3247194;Colonial Park Mall - Park & Ride Lot;40.302404;-76.821054
-499889;Commonwealth Ave & North St (Finance Building);40.266219;-76.882670
-499903;Commonwealth Ave & North St (Keystone Building);40.266357;-76.882991
+499889;Commonwealth Ave & North St;40.266219;-76.882670
+499903;Commonwealth Ave & North St;40.266357;-76.882991
 499780;Commonwealth Ave & Walnut St;40.263385;-76.880921
 6343660;Conewago St & Adelia St;40.198610;-76.721427
 6344294;Conewago St & Adelia St;40.198705;-76.721241
@@ -175,6 +174,7 @@
 6344295;Conewago St & N Race St;40.198685;-76.725430
 5140495;Creekside Court Apartments (Shippensburg);40.055763;-77.530281
 6744760;Cumberland County Prison;40.212911;-77.162701
+5141003;CVS (Highway Stop) (Shippensburg);40.057518;-77.509346
 5183760;Dauphin Dr & York Dr (Shippensburg University);40.059763;-77.522236
 500612;Dauphin Park & Ride Lot;40.370652;-76.943617
 5908768;Dauphin Plaza (Highway Stop);40.278414;-76.825627
@@ -277,8 +277,8 @@
 500485;E Columbia Rd & Beaver Ave;40.296604;-76.932365
 5999177;E Emaus St & Race St;40.193980;-76.725830
 5999184;E Emaus St & Race St;40.194109;-76.725650
-5276447;E King St & Prince St (Eastbound) - Shippensburg;40.051819;-77.517097
-5140091;E King St & Prince St (Westbound) - Shippensburg;40.052127;-77.516661
+5276447;E King St & Prince St;40.051819;-77.517097
+5140091;E King St & Prince St (Westbound);40.052127;-77.516661
 5183709;E King St & Queen St - Shippensburg;40.055047;-77.512677
 498788;E Main & Race St;40.201275;-76.725845
 498855;E Main & Race St;40.214252;-77.004456
@@ -303,8 +303,8 @@
 498934;E Main St & St. Johns Church Rd;40.224830;-76.947241
 498858;E Main St & Walnut St;40.214691;-77.002838
 498861;E Main St & Walnut St;40.214870;-77.002754
-1348172;E Main St & Water St (Hummelstown) - In;40.265500;-76.705793
-1347894;E Main St & Water St (Hummelstown) - Out;40.265369;-76.706172
+1347894;E Main St & Water St (Hummelstown);40.265369;-76.706172
+1348172;E Main St & Water St (Hummelstown);40.265500;-76.705793
 498867;E Main St opp. S Filbert St;40.215603;-76.999535
 498917;E Main St opp. S Spruce St;40.223778;-76.952362
 5227961;E Orange St & Richwalter Ave (Shippensburg);40.055618;-77.507919
@@ -336,7 +336,7 @@
 498923;E Trindle Rd @ #5108;40.224232;-76.974625
 498884;E Trindle Rd @ #5229;40.220394;-76.984604
 498882;E Trindle Rd @ #5234;40.220043;-76.985031
-498959;E Trindle Rd @ Country Meadows Living;40.226620;-76.967903
+498959;E Trindle Rd @ Country Meadows Living Ctr);40.226620;-76.967903
 1031004;E Trindle Rd @ Mechanicsburg NSA;40.217434;-76.992485
 498895;E Trindle Rd @ Trailer Court;40.221935;-76.980721
 498996;E Trindle Rd opp. Brian Rd (Delbrook Manor);40.229927;-76.958794
@@ -354,7 +354,6 @@
 6343657;E Water St & N Pine St;40.199089;-76.729124
 6344297;E Water St & N Pine St;40.199273;-76.728915
 6343658;E Water St & Spruce St;40.199610;-76.727602
-677097;E-ZPass Customer Service Center;40.262777;-76.812042
 498904;Eberly Ave & W Main St;40.222690;-76.957158
 499855;Echo Rd & Rupley Rd;40.265063;-76.917963
 499837;Echo Rd & W Foxcroft Dr;40.264492;-76.919083
@@ -385,6 +384,7 @@
 498919;Eutaw Ave & 3rd St;40.223850;-76.867165
 498931;Eutaw Ave & 4th St;40.224651;-76.868484
 498944;Eutaw Ave & 5th St;40.225632;-76.870087
+677097;E-ZPass Customer Service Center;40.262777;-76.812042
 498910;Fairview Plaza;40.223281;-76.858572
 498900;Fairview Plaza @ Santander Bank Parking;40.222176;-76.859168
 1021409;Flank Dr @ #6345 (Inbound);40.326672;-76.778557
@@ -402,7 +402,7 @@
 498988;Gettysburg Rd & Spera Dr;40.229635;-76.920161
 927430;Gettysburg Rd opp. 29th St;40.228214;-76.927078
 2482104;Giant Food Stores (5005 Jonestown Road);40.306194;-76.803207
-1343342;Giant Food Stores (Marketplace Way);40.293450;-76.976111
+1343342;Giant Food Stores (Marketplace Way - Enola);40.293450;-76.976111
 499236;Gibson Blvd & Bobali Dr;40.245144;-76.846901
 499231;Gibson Blvd & UPS Dr;40.244812;-76.846840
 499275;Gibson Blvd @ Juvenile Center;40.249555;-76.842036
@@ -431,14 +431,14 @@
 6742049;Hampden Medical Center;40.291962;-76.985463
 1347893;Hanover & Poplar (Northbound);40.262676;-76.707558
 1348173;Hanover & Poplar (Southbound);40.262932;-76.707710
-498787;Hanover St & High St (Carlisle Courthouse);40.201132;-77.189049
-498790;Hanover St & High St (Carlisle Courthouse);40.201696;-77.189181
 499278;Hanover St - Hall Manor @ Bldg #38;40.249240;-76.859296
 511141;Hanover St - Hall Manor @ Bldg #43;40.248589;-76.860201
 499272;Hanover St - Hall Manor @ Bldg #49;40.249146;-76.855049
 499273;Hanover St - Hall Manor @ Bldg #53;40.249561;-76.855247
 511140;Hanover St - Hall Manor opp. Bldg #33;40.248749;-76.855742
 499276;Hanover St - Hall Manor opp. Bldg #46;40.249226;-76.859085
+498787;Hanover St & High St (Carlisle Courthouse);40.201132;-77.189049
+498790;Hanover St & High St (Carlisle Courthouse);40.201696;-77.189181
 499121;Hanshue St & Dewey St;40.239540;-76.820085
 499110;Hanshue St & Highland St;40.238597;-76.820087
 499195;Hanshue St & N Harrisburg St;40.241272;-76.817549
@@ -448,7 +448,7 @@
 499303;Harrisburg Mall;40.252079;-76.828600
 498879;Harrisburg Pike & West Pointe Dr;40.218975;-77.166367
 1054143;Harrisburg Pike @ Giant Food Stores;40.226460;-77.152725
-1043088;Harrisburg Pike opp. Giant Food Stores A;40.226997;-77.152359
+1043088;Harrisburg Pike opp. Giant Food Stores;40.226997;-77.152359
 499668;Harrisburg Transportation Center;40.262219;-76.878785
 499671;Harrisburg Transportation Center;40.262242;-76.879353
 500197;Herr St & Arsenal Blvd;40.276978;-76.863945
@@ -471,7 +471,7 @@
 500226;Herr St opp. Cherry St;40.278236;-76.860008
 500147;Herr St opp. N 14th St;40.274364;-76.872551
 500195;Herr St opp. N 19th St;40.276772;-76.865242
-500364;Hershey Intermodal Center (Highway Stop);40.285374;-76.651176
+500364;Hershey Intermodal Center;40.285374;-76.651176
 3521216;Hershey Square @ Weis;40.270157;-76.686455
 1463165;Hersheypark Service Center;40.291342;-76.658290
 499249;High Pointe Commons @ JCPenney;40.246470;-76.802992
@@ -485,7 +485,7 @@
 500506;Hoffman St & Vaughn St;40.299271;-76.895973
 499342;Holy Spirit Hospital;40.253128;-76.921716
 499332;Holy Spirit Hospital Dr opp. Ridge Rd;40.252533;-76.923630
-5140451;Hot Point Commons (Highway Stop) (Shippensburg);40.056778;-77.527588
+5140451;Hot Point Commons (Shippensburg);40.056778;-77.527588
 666608;Hoy Towers;40.231720;-76.830566
 499117;Hummel Ave & Peach St;40.239269;-76.900917
 499224;Hummel Ave & S 3rd St;40.244324;-76.891602
@@ -529,8 +529,8 @@
 500075;Kline Plaza @ Rent-A-Center;40.271210;-76.843895
 498837;Lancaster Blvd & Geneva Dr;40.211300;-76.975159
 1728803;Lancaster Blvd opp. Encompass Health;40.210873;-76.974823
-1270587;Lancaster Dr & Cumberland Dr (Shippensburg);40.063515;-77.521973
 5140575;Lancaster Dr & Cumberland Dr - CUB;40.063465;-77.521889
+1270587;Lancaster Dr & Cumberland Dr (Shippensburg);40.063515;-77.521973
 499042;Latsha Towers;40.233124;-76.829315
 499184;Lemoyne Transfer Center;40.240700;-76.903236
 1307192;Linden Terrace Apartments;40.268150;-76.892181
@@ -601,10 +601,6 @@
 1328965;Main St opp. Market St (Shiremanstown);40.223179;-76.954803
 6092116;Mall Rd opp. Dauphin County Prison;40.252282;-76.834631
 499549;Market Square Transfer Center;40.259789;-76.881485
-499255;Market St & 3rd St (Lemoyne);40.246726;-76.893545
-499257;Market St & 3rd St (Lemoyne);40.246719;-76.894058
-499222;Market St & 8th St (Lemoyne);40.243950;-76.901421
-499223;Market St & 8th St (Lemoyne);40.244144;-76.901344
 499829;Market St & 10th St;40.264290;-76.875677
 499202;Market St & 12th St (Lemoyne);40.241749;-76.907837
 499200;Market St & 12th St (opp. West Shore Plaza);40.241669;-76.908607
@@ -638,14 +634,16 @@
 499127;Market St & 32nd St (Camp Hill);40.239895;-76.934380
 499114;Market St & 36th St;40.239174;-76.943558
 1054149;Market St & 36th St (Members 1st Bank);40.239067;-76.942978
+499255;Market St & 3rd St (Lemoyne);40.246726;-76.893545
+499257;Market St & 3rd St (Lemoyne);40.246719;-76.894058
+499222;Market St & 8th St (Lemoyne);40.243950;-76.901421
+499223;Market St & 8th St (Lemoyne);40.244144;-76.901344
 2959607;Market St & Aberdeen St (Bus Lane);40.262612;-76.879223
 500080;Market St & Bellevue Rd;40.271300;-76.850121
 499835;Market St & Cameron St;40.264605;-76.874042
 499840;Market St & Cameron St;40.264743;-76.874069
 499862;Market St & Evergreen St.;40.265462;-76.871115
 500093;Market St & Hale Ave;40.271627;-76.848973
-499244;Market St & N 5th St (Lemoyne);40.245781;-76.896652
-499218;Market St & N 9th St (Lemoyne);40.243409;-76.903503
 499210;Market St & N 10th St (Lemoyne);40.243015;-76.904636
 499190;Market St & N 15th St (Lemoyne);40.240734;-76.911286
 499148;Market St & N 17th St (Lemoyne);40.240070;-76.913895
@@ -653,8 +651,9 @@
 499172;Market St & N 27th St (Camp Hill);40.240417;-76.928017
 499126;Market St & N 31st St (Camp Hill);40.239859;-76.933315
 499137;Market St & N 31st St (Camp Hill);40.240009;-76.933296
+499244;Market St & N 5th St (Lemoyne);40.245781;-76.896652
+499218;Market St & N 9th St (Lemoyne);40.243409;-76.903503
 499467;Market St & River St;40.259043;-76.882269
-1025981;Market St & S 7th St (Lemoyne);40.244444;-76.900014
 499191;Market St & S 15th St (Camp Hill);40.240845;-76.910507
 499169;Market St & S 16th St (Camp Hill);40.240410;-76.911766
 499135;Market St & S 17th St (Camp Hill);40.239974;-76.913072
@@ -664,31 +663,32 @@
 500036;Market St & S 22nd St;40.269789;-76.855556
 500047;Market St & S 23rd St;40.270259;-76.853874
 499158;Market St & S 27th St (Camp Hill);40.240257;-76.928253
+1025981;Market St & S 7th St (Lemoyne);40.244444;-76.900014
 500096;Market St & Thomas St;40.271701;-76.849183
-499232;Market St @ Lemoyne Middle School (N 7th);40.244846;-76.899315
+499232;Market St @ Lemoyne Middle School;40.244846;-76.899315
 499239;Market St @ Speedway (Lemoyne);40.245293;-76.898048
-500160;Market St Rd & Boas St;40.274837;-76.844193
 500079;Market St opp. Briarcliff Rd;40.271259;-76.850792
+499208;Market St opp. N 10th St (Lemoyne);40.242840;-76.904678
+499163;Market St opp. N 23rd St (Camp Hill);40.240280;-76.923576
 499243;Market St opp. N 5th St (Lemoyne);40.245571;-76.896774
 499806;Market St opp. N 9th St;40.263799;-76.876812
 499212;Market St opp. N 9th St (Lemoyne);40.243172;-76.903679
-499208;Market St opp. N 10th St (Lemoyne);40.242840;-76.904678
-499163;Market St opp. N 23rd St (Camp Hill);40.240280;-76.923576
 499993;Market St opp. S 20th St;40.268945;-76.859101
 500027;Market St opp. S 21st St;40.269391;-76.857560
 500050;Market St opp. S 23rd St;40.270401;-76.853923
 499865;Market St opp. S Summit St;40.265319;-76.872163
 499205;Market St opp. Smith Ford;40.242283;-76.906815
+500160;Market St Rd & Boas St;40.274837;-76.844193
 500154;Market Street Rd & Boas St;40.274792;-76.844528
-499174;McDonald's - Eisenhower Blvd (Highway Stop);40.240399;-76.805614
+499174;McDonald's - Eisenhower Blvd;40.240399;-76.805614
 5140087;McDonald's / Sheetz (Shippensburg);40.053981;-77.514075
 499838;Meadow Dr & Mallard Rd;40.264572;-76.920509
 500213;Michigan Dr & Ontario Dr (Twin Lakes Apartments);40.277943;-76.810341
+5183748;Middle Spring Ave @ #112;40.055637;-77.524864
+6770935;Middletown Amtrak (South Lot);40.196480;-76.736916
 500626;Mid-Penn Bank (Millersburg);40.539589;-76.958801
 500627;Mid-Penn Bank (Millersburg);40.539768;-76.957275
 5908955;Mid-Town Plaza @ Giant;40.199762;-76.721810
-5183748;Middle Spring Ave @ #112;40.055637;-77.524864
-6770935;Middletown Amtrak (South Lot);40.196480;-76.736916
 500624;Millersburger Hotel (Millersburg);40.538681;-76.961151
 499078;Mohn St & Kelker St;40.236034;-76.824524
 498999;Mohn St & S 2nd St;40.230155;-76.832406
@@ -773,8 +773,6 @@
 500291;N 3rd St & Woodbine St;40.280745;-76.896592
 499992;N 3rd St opp. Cumberland St;40.268742;-76.888161
 499753;N 3rd St opp. Pine St;40.263030;-76.883967
-5407249;N 4th St & Maclay St (IB) - FS;40.279289;-76.893936
-5409774;N 4th St & Maclay St (OB) - NS;40.279451;-76.893899
 500112;N 6th St & Basin St;40.272276;-76.886167
 499980;N 6th St & Boas St;40.268185;-76.884031
 500571;N 6th St & Brook St;40.315291;-76.895002
@@ -850,9 +848,11 @@
 500360;N 25th St opp. Highland Ave;40.285294;-76.853203
 499211;N 32nd St & Lincoln St;40.243069;-76.935371
 874614;N 32nd St & Walnut St;40.241096;-76.935127
-499079;N 32nd St & Yale Ave (opp. Camp Hill);40.236115;-76.933472
+499079;N 32nd St & Yale Ave (opp. Camp Hill Mall);40.236115;-76.933472
 499113;N 32nd St opp. E Trindle Rd;40.238724;-76.934151
 500477;N 36th St opp. Brookside Dr;40.295438;-76.838857
+5407249;N 4th St & Maclay St (IB) - FS;40.279289;-76.893936
+5409774;N 4th St & Maclay St (OB) - NS;40.279451;-76.893899
 499962;N 63rd St & Somerset St;40.267840;-76.778735
 499897;N 63rd St opp. Clearfield St;40.266233;-76.778573
 500169;N Cameron St & Calder St;40.275520;-76.878290
@@ -1014,31 +1014,13 @@
 499843;Rupley Rd & Yverdon Dr;40.264721;-76.915535
 499973;Rupley Rd opp. Grant Dr;40.268303;-76.919090
 499917;Rupley Rd opp. Thomas Rd;40.266743;-76.918587
-521628;Rutherford Park Townhouses - 337 Brokas;40.269527;-76.757019
+521628;Rutherford Park Townhouses;40.269527;-76.757019
 3362639;Rutherford Rd & Garden Ln;40.290323;-76.806255
 500305;Rutherford Rd & Union Deposit Rd;40.281815;-76.798334
 3362610;Rutherford Rd opp. Londonderry Rd;40.285412;-76.803078
-499969;Rutherford Square - Somerset St (Inbound);40.268004;-76.770557
-1522665;Rutherford Square - Somerset St (Outbound);40.267814;-76.770378
+1522665;Rutherford Square - (Somerset St);40.267814;-76.770378
+499969;Rutherford Square - Somerset St;40.268004;-76.770557
 1025987;Rutter's (Mechanicsburg);40.209801;-77.022926
-499301;S 2nd St & 3rd Ave (Wormleysburg);40.251797;-76.896286
-499302;S 2nd St & 3rd Ave (Wormleysburg);40.251955;-76.896301
-892216;S 2nd St & Chambers St;40.224590;-76.826238
-499035;S 2nd St & Chestnut St;40.232338;-76.834783
-499454;S 2nd St & Chestnut St;40.258865;-76.880079
-499050;S 2nd St & Elm St;40.234072;-76.837240
-666320;S 2nd St & Locust St;40.235067;-76.839134
-499347;S 2nd St & Locust St (Wormleysburg);40.253288;-76.898232
-499321;S 2nd St & Market St (Wormleysburg);40.252289;-76.897034
-499329;S 2nd St & Market St (Wormleysburg);40.252428;-76.896987
-499044;S 2nd St & Swatara St;40.233371;-76.836210
-499416;S 2nd St & Vine St;40.256729;-76.876106
-499057;S 2nd St & Walnut St;40.234520;-76.837999
-499345;S 2nd St opp. Locust St (Wormleysburg);40.253273;-76.898468
-499564;S 3rd St & Chestnut St;40.260076;-76.879397
-499143;S 3rd St & Clark St;40.240063;-76.885384
-499181;S 3rd St & Walton St;40.240694;-76.886913
-499183;S 3rd St & Walton St;40.240688;-76.886589
 1728808;S 10th St & Ayers Ave;40.237526;-76.898781
 499466;S 13th St & Berryhill St;40.259101;-76.867032
 499470;S 13th St & Berryhill St;40.259113;-76.866898
@@ -1087,6 +1069,24 @@
 499997;S 25th St opp. Wilson Pkwy;40.268867;-76.844208
 1348529;S 29th St & Rudy Rd;40.267902;-76.841489
 499988;S 29th St & Wilson Pkwy;40.268623;-76.841492
+499301;S 2nd St & 3rd Ave (Wormleysburg);40.251797;-76.896286
+499302;S 2nd St & 3rd Ave (Wormleysburg);40.251955;-76.896301
+892216;S 2nd St & Chambers St;40.224590;-76.826238
+499035;S 2nd St & Chestnut St;40.232338;-76.834783
+499454;S 2nd St & Chestnut St;40.258865;-76.880079
+499050;S 2nd St & Elm St;40.234072;-76.837240
+666320;S 2nd St & Locust St;40.235067;-76.839134
+499347;S 2nd St & Locust St (Wormleysburg);40.253288;-76.898232
+499321;S 2nd St & Market St (Wormleysburg);40.252289;-76.897034
+499329;S 2nd St & Market St (Wormleysburg);40.252428;-76.896987
+499044;S 2nd St & Swatara St;40.233371;-76.836210
+499416;S 2nd St & Vine St;40.256729;-76.876106
+499057;S 2nd St & Walnut St;40.234520;-76.837999
+499345;S 2nd St opp. Locust St (Wormleysburg);40.253273;-76.898468
+499564;S 3rd St & Chestnut St;40.260076;-76.879397
+499143;S 3rd St & Clark St;40.240063;-76.885384
+499181;S 3rd St & Walton St;40.240694;-76.886913
+499183;S 3rd St & Walton St;40.240688;-76.886589
 839905;S 40th & Tecport Dr (Southbound);40.251587;-76.816879
 499229;S Cameron St & Allison St;40.244537;-76.859627
 499385;S Cameron St & Hanna St;40.254627;-76.868698
@@ -1097,8 +1097,8 @@
 499216;S Cameron St & S 13th St;40.243320;-76.857994
 499288;S Cameron St & Sycamore St;40.250847;-76.866058
 499289;S Cameron St & Sycamore St;40.250919;-76.865860
-499446;S Cameron St @ #510;40.258495;-76.871300
 499193;S Cameron St @ #1678;40.241253;-76.855324
+499446;S Cameron St @ #510;40.258495;-76.871300
 499485;S Cameron St @ Family Dollar;40.259399;-76.871819
 499673;S Cameron St @ Mulberry St Bridge;40.262034;-76.873323
 499157;S Cameron St @ Rozman Furniture;40.240231;-76.853165
@@ -1208,7 +1208,7 @@
 500130;State St & N 20th St;40.273402;-76.861463
 500134;State St & N 20th St;40.273719;-76.861313
 5140450;Stone Ridge / College Park Commons;40.061951;-77.527039
-500519;Stonebridge Apartments (Colonial Rd & Williamsburg Dr);40.300980;-76.821085
+500519;Stonebridge Apartments;40.300980;-76.821085
 499238;Subway (High Pointe Commons);40.245342;-76.804054
 500625;Susquehanna Bank (Millersburg);40.538881;-76.960702
 514822;Susquehanna View Apartments;40.254475;-76.919548
@@ -1228,8 +1228,7 @@
 839906;Tecport Dr @ U-Gro Learning Center;40.251821;-76.821553
 5144524;Turkey Hill - Spring St (Shippensburg);40.048473;-77.525967
 5140125;Turkey Hill - W King St (Shippensburg);40.048226;-77.526229
-500266;Twin Lakes Apartments (Highway Stop);40.279337;-76.810249
-2767527;UPS (1 Ames Drive) - Highway Stop;40.171219;-77.235535
+500266;Twin Lakes Apartments;40.279337;-76.810249
 500231;Union Deposit Rd & Latshmere Dr;40.278320;-76.838661
 500223;Union Deposit Rd & Powers Ave;40.277628;-76.826642
 500259;Union Deposit Rd & Redwood St;40.279030;-76.835410
@@ -1247,6 +1246,7 @@
 500192;Union Square @ Weis Markets;40.276616;-76.824169
 498748;Union St & Emaus St;40.194923;-76.731133
 929145;Upper Allen Business Park;40.199262;-76.981124
+2767527;UPS (1 Ames Drive) - Highway Stop;40.171219;-77.235535
 500455;Uptown Plaza;40.293563;-76.893455
 500439;Uptown Plaza @ McDonald's;40.292035;-76.892908
 500510;Vaughn St & N 3rd St;40.299786;-76.899338
@@ -1279,8 +1279,8 @@
 498772;W Harrisburg Pike opp. Tioga Ave;40.199829;-76.763374
 498776;W Harrisburg Pike opp. Wayne Ave;40.200123;-76.765327
 5140092;W King St & Earl St (Shippensburg Diner);40.050727;-77.520494
-5140108;W King St & Fayette St - Library (Shippensburg);40.049680;-77.523187
-5227956;W King St & S Fayette St - Eastbound (Shippensburg);40.048847;-77.524574
+5140108;W King St & Fayette St - Library;40.049680;-77.523187
+5227956;W King St & S Fayette St (Shippensburg);40.048847;-77.524574
 498901;W Main St & Eberly Ave;40.222463;-76.957361
 498845;W Main St & Frederick St;40.212502;-77.010490
 498846;W Main St & Frederick St;40.212614;-77.010560
@@ -1301,7 +1301,6 @@
 498826;W Simpson St & S Washington St;40.210108;-77.014209
 498828;W Simpson St & S York St;40.210251;-77.013245
 1025972;W Simpson St @ NAPA Store;40.209106;-77.020737
-2971596;WEG Warehouse (Mechanicsburg);40.231800;-77.073845
 1342458;Walmart (Capital City Mall);40.224159;-76.928612
 498724;Walmart (Carlisle Commons);40.189354;-77.195557
 521629;Walmart (Grayson Rd);40.261341;-76.771778
@@ -1339,8 +1338,8 @@
 500139;Walnut St @ #2107;40.274095;-76.857919
 500146;Walnut St @ #2201;40.274364;-76.856577
 2479064;Walnut St @ SSA Office;40.264194;-76.879814
-499744;Walnut St opp. 4th St;40.262871;-76.881241
 500145;Walnut St opp. #2201;40.274472;-76.856738
+499744;Walnut St opp. 4th St;40.262871;-76.881241
 500435;Walnut St opp. Centerfield Rd;40.291580;-76.832153
 500402;Walnut St opp. Fishburn St;40.288845;-76.836487
 500177;Walnut St opp. Forster St;40.275803;-76.853500
@@ -1354,6 +1353,7 @@
 3436204;Walton Av & Townsend Dr;40.266754;-76.695641
 3436216;Walton Av & Townsend Dr;40.266896;-76.695685
 498892;Washington Ave & W Main St;40.221382;-76.962204
+2971596;WEG Warehouse (Mechanicsburg);40.231800;-77.073845
 498875;Weis Markets (Simpson Ferry Rd);40.218338;-76.974434
 6742050;Weis Store (Enola);40.288887;-76.973194
 5203567;Wendy's (Shippensburg);40.060104;-77.496292
@@ -1378,7 +1378,7 @@
 498819;Wilson Ln @ Lindham Court Apartments;40.208496;-76.972961
 499996;Wilson Pkwy & S 25th St;40.268757;-76.844005
 499999;Wilson Pkwy & S 25th St;40.268948;-76.843994
-498820;Wilson Rd & Lancaster Blvd (LifeCare);40.208527;-76.973183
+498820;Wilson Rd & Lancaster Blvd (LifeCare Hospital);40.208527;-76.973183
 498854;Winston Dr & Royal Dr;40.214153;-76.973335
 1113198;XPO Logistics (Heinz St);40.215794;-77.018578
 1113199;XPO Logistics (Ind. Park Rd.);40.230030;-76.949753

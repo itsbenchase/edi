@@ -444,24 +444,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: B'Nai B'Rith Apartments<br/>ID: 1307194</description>
-		<Point> 
-			<coordinates>
-			-76.87957,40.259556,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: B'Nai B'Rith Apartments<br/>ID: 1307398</description>
-		<Point> 
-			<coordinates>
-			-76.87841,40.259548,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Balthaser St &amp; Catherine St<br/>ID: 653698</description>
 		<Point> 
 			<coordinates>
@@ -660,6 +642,24 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: B'Nai B'Rith Apartments<br/>ID: 1307194</description>
+		<Point> 
+			<coordinates>
+			-76.87957,40.259556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B'Nai B'Rith Apartments<br/>ID: 1307398</description>
+		<Point> 
+			<coordinates>
+			-76.87841,40.259548,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Boas St &amp; Commonwealth Ave<br/>ID: 499979</description>
 		<Point> 
 			<coordinates>
@@ -696,15 +696,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Brandt Ave &amp; 9th St<br/>ID: 498983</description>
-		<Point> 
-			<coordinates>
-			-76.874763,40.229385,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Brandt Ave &amp; 15th St<br/>ID: 499023</description>
 		<Point> 
 			<coordinates>
@@ -718,6 +709,15 @@
 		<Point> 
 			<coordinates>
 			-76.884183,40.232114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Brandt Ave &amp; 9th St<br/>ID: 498983</description>
+		<Point> 
+			<coordinates>
+			-76.874763,40.229385,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1006,15 +1006,6 @@
 		<Point> 
 			<coordinates>
 			-77.006706,40.226864,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: CVS (Highway Stop) (Shippensburg)<br/>ID: 5141003</description>
-		<Point> 
-			<coordinates>
-			-77.509346,40.057518,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1425,19 +1416,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Clarks Ferry Park &amp; Ride Lot (Northbound<br/>ID: 887678</description>
+		<description>Name: Clarks Ferry Park &amp; Ride Lot<br/>ID: 500614</description>
 		<Point> 
 			<coordinates>
-			-77.008289,40.39575,0
+			-77.0086,40.396015,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Clarks Ferry Park &amp; Ride Lot (Southbound)<br/>ID: 500614</description>
+		<description>Name: Clarks Ferry Park &amp; Ride Lot (Northbound)<br/>ID: 887678</description>
 		<Point> 
 			<coordinates>
-			-77.0086,40.396015,0
+			-77.008289,40.39575,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1470,19 +1461,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Colonial Commons (Highway Stop) - Inbound<br/>ID: 1022430</description>
+		<description>Name: Colonial Commons<br/>ID: 930903</description>
 		<Point> 
 			<coordinates>
-			-76.801743,40.311169,0
+			-76.801506,40.310963,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Colonial Commons (Highway Stop) - Outbound<br/>ID: 930903</description>
+		<description>Name: Colonial Commons (Highway Stop)<br/>ID: 1022430</description>
 		<Point> 
 			<coordinates>
-			-76.801506,40.310963,0
+			-76.801743,40.311169,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -1524,7 +1515,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Commonwealth Ave &amp; North St (Finance Building)<br/>ID: 499889</description>
+		<description>Name: Commonwealth Ave &amp; North St<br/>ID: 499889</description>
 		<Point> 
 			<coordinates>
 			-76.88267,40.266219,0
@@ -1533,7 +1524,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Commonwealth Ave &amp; North St (Keystone Building)<br/>ID: 499903</description>
+		<description>Name: Commonwealth Ave &amp; North St<br/>ID: 499903</description>
 		<Point> 
 			<coordinates>
 			-76.882991,40.266357,0
@@ -1600,6 +1591,15 @@
 		<Point> 
 			<coordinates>
 			-77.162701,40.212911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CVS (Highway Stop) (Shippensburg)<br/>ID: 5141003</description>
+		<Point> 
+			<coordinates>
+			-77.509346,40.057518,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -2523,7 +2523,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: E King St &amp; Prince St (Eastbound) - Shippensburg<br/>ID: 5276447</description>
+		<description>Name: E King St &amp; Prince St<br/>ID: 5276447</description>
 		<Point> 
 			<coordinates>
 			-77.517097,40.051819,0
@@ -2532,7 +2532,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: E King St &amp; Prince St (Westbound) - Shippensburg<br/>ID: 5140091</description>
+		<description>Name: E King St &amp; Prince St (Westbound)<br/>ID: 5140091</description>
 		<Point> 
 			<coordinates>
 			-77.516661,40.052127,0
@@ -2757,19 +2757,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: E Main St &amp; Water St (Hummelstown) - In<br/>ID: 1348172</description>
+		<description>Name: E Main St &amp; Water St (Hummelstown)<br/>ID: 1347894</description>
 		<Point> 
 			<coordinates>
-			-76.705793,40.2655,0
+			-76.706172,40.265369,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: E Main St &amp; Water St (Hummelstown) - Out<br/>ID: 1347894</description>
+		<description>Name: E Main St &amp; Water St (Hummelstown)<br/>ID: 1348172</description>
 		<Point> 
 			<coordinates>
-			-76.706172,40.265369,0
+			-76.705793,40.2655,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3054,7 +3054,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: E Trindle Rd @ Country Meadows Living<br/>ID: 498959</description>
+		<description>Name: E Trindle Rd @ Country Meadows Living Ctr)<br/>ID: 498959</description>
 		<Point> 
 			<coordinates>
 			-76.967903,40.22662,0
@@ -3211,15 +3211,6 @@
 		<Point> 
 			<coordinates>
 			-76.727602,40.19961,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: E-ZPass Customer Service Center<br/>ID: 677097</description>
-		<Point> 
-			<coordinates>
-			-76.812042,40.262777,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -3495,6 +3486,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: E-ZPass Customer Service Center<br/>ID: 677097</description>
+		<Point> 
+			<coordinates>
+			-76.812042,40.262777,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Fairview Plaza<br/>ID: 498910</description>
 		<Point> 
 			<coordinates>
@@ -3648,7 +3648,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Giant Food Stores (Marketplace Way)<br/>ID: 1343342</description>
+		<description>Name: Giant Food Stores (Marketplace Way - Enola)<br/>ID: 1343342</description>
 		<Point> 
 			<coordinates>
 			-76.976111,40.29345,0
@@ -3909,24 +3909,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Hanover St &amp; High St (Carlisle Courthouse)<br/>ID: 498787</description>
-		<Point> 
-			<coordinates>
-			-77.189049,40.201132,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Hanover St &amp; High St (Carlisle Courthouse)<br/>ID: 498790</description>
-		<Point> 
-			<coordinates>
-			-77.189181,40.201696,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Hanover St - Hall Manor @ Bldg #38<br/>ID: 499278</description>
 		<Point> 
 			<coordinates>
@@ -3976,6 +3958,24 @@
 		<Point> 
 			<coordinates>
 			-76.859085,40.249226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hanover St &amp; High St (Carlisle Courthouse)<br/>ID: 498787</description>
+		<Point> 
+			<coordinates>
+			-77.189049,40.201132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hanover St &amp; High St (Carlisle Courthouse)<br/>ID: 498790</description>
+		<Point> 
+			<coordinates>
+			-77.189181,40.201696,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -4062,7 +4062,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Harrisburg Pike opp. Giant Food Stores A<br/>ID: 1043088</description>
+		<description>Name: Harrisburg Pike opp. Giant Food Stores<br/>ID: 1043088</description>
 		<Point> 
 			<coordinates>
 			-77.152359,40.226997,0
@@ -4269,7 +4269,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Hershey Intermodal Center (Highway Stop)<br/>ID: 500364</description>
+		<description>Name: Hershey Intermodal Center<br/>ID: 500364</description>
 		<Point> 
 			<coordinates>
 			-76.651176,40.285374,0
@@ -4395,7 +4395,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Hot Point Commons (Highway Stop) (Shippensburg)<br/>ID: 5140451</description>
+		<description>Name: Hot Point Commons (Shippensburg)<br/>ID: 5140451</description>
 		<Point> 
 			<coordinates>
 			-77.527588,40.056778,0
@@ -4791,19 +4791,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Lancaster Dr &amp; Cumberland Dr (Shippensburg)<br/>ID: 1270587</description>
+		<description>Name: Lancaster Dr &amp; Cumberland Dr - CUB<br/>ID: 5140575</description>
 		<Point> 
 			<coordinates>
-			-77.521973,40.063515,0
+			-77.521889,40.063465,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Lancaster Dr &amp; Cumberland Dr - CUB<br/>ID: 5140575</description>
+		<description>Name: Lancaster Dr &amp; Cumberland Dr (Shippensburg)<br/>ID: 1270587</description>
 		<Point> 
 			<coordinates>
-			-77.521889,40.063465,0
+			-77.521973,40.063515,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -5439,42 +5439,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; 3rd St (Lemoyne)<br/>ID: 499255</description>
-		<Point> 
-			<coordinates>
-			-76.893545,40.246726,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; 3rd St (Lemoyne)<br/>ID: 499257</description>
-		<Point> 
-			<coordinates>
-			-76.894058,40.246719,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; 8th St (Lemoyne)<br/>ID: 499222</description>
-		<Point> 
-			<coordinates>
-			-76.901421,40.24395,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; 8th St (Lemoyne)<br/>ID: 499223</description>
-		<Point> 
-			<coordinates>
-			-76.901344,40.244144,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: Market St &amp; 10th St<br/>ID: 499829</description>
 		<Point> 
 			<coordinates>
@@ -5772,6 +5736,42 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; 3rd St (Lemoyne)<br/>ID: 499255</description>
+		<Point> 
+			<coordinates>
+			-76.893545,40.246726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; 3rd St (Lemoyne)<br/>ID: 499257</description>
+		<Point> 
+			<coordinates>
+			-76.894058,40.246719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; 8th St (Lemoyne)<br/>ID: 499222</description>
+		<Point> 
+			<coordinates>
+			-76.901421,40.24395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; 8th St (Lemoyne)<br/>ID: 499223</description>
+		<Point> 
+			<coordinates>
+			-76.901344,40.244144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Market St &amp; Aberdeen St (Bus Lane)<br/>ID: 2959607</description>
 		<Point> 
 			<coordinates>
@@ -5821,24 +5821,6 @@
 		<Point> 
 			<coordinates>
 			-76.848973,40.271627,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; N 5th St (Lemoyne)<br/>ID: 499244</description>
-		<Point> 
-			<coordinates>
-			-76.896652,40.245781,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; N 9th St (Lemoyne)<br/>ID: 499218</description>
-		<Point> 
-			<coordinates>
-			-76.903503,40.243409,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -5907,19 +5889,28 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; River St<br/>ID: 499467</description>
+		<description>Name: Market St &amp; N 5th St (Lemoyne)<br/>ID: 499244</description>
 		<Point> 
 			<coordinates>
-			-76.882269,40.259043,0
+			-76.896652,40.245781,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St &amp; S 7th St (Lemoyne)<br/>ID: 1025981</description>
+		<description>Name: Market St &amp; N 9th St (Lemoyne)<br/>ID: 499218</description>
 		<Point> 
 			<coordinates>
-			-76.900014,40.244444,0
+			-76.903503,40.243409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; River St<br/>ID: 499467</description>
+		<Point> 
+			<coordinates>
+			-76.882269,40.259043,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -6006,6 +5997,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St &amp; S 7th St (Lemoyne)<br/>ID: 1025981</description>
+		<Point> 
+			<coordinates>
+			-76.900014,40.244444,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Market St &amp; Thomas St<br/>ID: 500096</description>
 		<Point> 
 			<coordinates>
@@ -6015,7 +6015,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St @ Lemoyne Middle School (N 7th)<br/>ID: 499232</description>
+		<description>Name: Market St @ Lemoyne Middle School<br/>ID: 499232</description>
 		<Point> 
 			<coordinates>
 			-76.899315,40.244846,0
@@ -6033,19 +6033,28 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St Rd &amp; Boas St<br/>ID: 500160</description>
+		<description>Name: Market St opp. Briarcliff Rd<br/>ID: 500079</description>
 		<Point> 
 			<coordinates>
-			-76.844193,40.274837,0
+			-76.850792,40.271259,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St opp. Briarcliff Rd<br/>ID: 500079</description>
+		<description>Name: Market St opp. N 10th St (Lemoyne)<br/>ID: 499208</description>
 		<Point> 
 			<coordinates>
-			-76.850792,40.271259,0
+			-76.904678,40.24284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St opp. N 23rd St (Camp Hill)<br/>ID: 499163</description>
+		<Point> 
+			<coordinates>
+			-76.923576,40.24028,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -6073,24 +6082,6 @@
 		<Point> 
 			<coordinates>
 			-76.903679,40.243172,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St opp. N 10th St (Lemoyne)<br/>ID: 499208</description>
-		<Point> 
-			<coordinates>
-			-76.904678,40.24284,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Market St opp. N 23rd St (Camp Hill)<br/>ID: 499163</description>
-		<Point> 
-			<coordinates>
-			-76.923576,40.24028,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -6141,6 +6132,15 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Market St Rd &amp; Boas St<br/>ID: 500160</description>
+		<Point> 
+			<coordinates>
+			-76.844193,40.274837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Market Street Rd &amp; Boas St<br/>ID: 500154</description>
 		<Point> 
 			<coordinates>
@@ -6150,7 +6150,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: McDonald's - Eisenhower Blvd (Highway Stop)<br/>ID: 499174</description>
+		<description>Name: McDonald's - Eisenhower Blvd<br/>ID: 499174</description>
 		<Point> 
 			<coordinates>
 			-76.805614,40.240399,0
@@ -6186,6 +6186,24 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: Middle Spring Ave @ #112<br/>ID: 5183748</description>
+		<Point> 
+			<coordinates>
+			-77.524864,40.055637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown Amtrak (South Lot)<br/>ID: 6770935</description>
+		<Point> 
+			<coordinates>
+			-76.736916,40.19648,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: Mid-Penn Bank (Millersburg)<br/>ID: 500626</description>
 		<Point> 
 			<coordinates>
@@ -6208,24 +6226,6 @@
 		<Point> 
 			<coordinates>
 			-76.72181,40.199762,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Middle Spring Ave @ #112<br/>ID: 5183748</description>
-		<Point> 
-			<coordinates>
-			-77.524864,40.055637,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: Middletown Amtrak (South Lot)<br/>ID: 6770935</description>
-		<Point> 
-			<coordinates>
-			-76.736916,40.19648,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -6987,24 +6987,6 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: N 4th St &amp; Maclay St (IB) - FS<br/>ID: 5407249</description>
-		<Point> 
-			<coordinates>
-			-76.893936,40.279289,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: N 4th St &amp; Maclay St (OB) - NS<br/>ID: 5409774</description>
-		<Point> 
-			<coordinates>
-			-76.893899,40.279451,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
 		<description>Name: N 6th St &amp; Basin St<br/>ID: 500112</description>
 		<Point> 
 			<coordinates>
@@ -7680,7 +7662,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: N 32nd St &amp; Yale Ave (opp. Camp Hill)<br/>ID: 499079</description>
+		<description>Name: N 32nd St &amp; Yale Ave (opp. Camp Hill Mall)<br/>ID: 499079</description>
 		<Point> 
 			<coordinates>
 			-76.933472,40.236115,0
@@ -7702,6 +7684,24 @@
 		<Point> 
 			<coordinates>
 			-76.838857,40.295438,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N 4th St &amp; Maclay St (IB) - FS<br/>ID: 5407249</description>
+		<Point> 
+			<coordinates>
+			-76.893936,40.279289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N 4th St &amp; Maclay St (OB) - NS<br/>ID: 5409774</description>
+		<Point> 
+			<coordinates>
+			-76.893899,40.279451,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -9156,7 +9156,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Rutherford Park Townhouses - 337 Brokas<br/>ID: 521628</description>
+		<description>Name: Rutherford Park Townhouses<br/>ID: 521628</description>
 		<Point> 
 			<coordinates>
 			-76.757019,40.269527,0
@@ -9192,19 +9192,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Rutherford Square - Somerset St (Inbound)<br/>ID: 499969</description>
+		<description>Name: Rutherford Square - (Somerset St)<br/>ID: 1522665</description>
 		<Point> 
 			<coordinates>
-			-76.770557,40.268004,0
+			-76.770378,40.267814,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Rutherford Square - Somerset St (Outbound)<br/>ID: 1522665</description>
+		<description>Name: Rutherford Square - Somerset St<br/>ID: 499969</description>
 		<Point> 
 			<coordinates>
-			-76.770378,40.267814,0
+			-76.770557,40.268004,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -9214,168 +9214,6 @@
 		<Point> 
 			<coordinates>
 			-77.022926,40.209801,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; 3rd Ave (Wormleysburg)<br/>ID: 499301</description>
-		<Point> 
-			<coordinates>
-			-76.896286,40.251797,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; 3rd Ave (Wormleysburg)<br/>ID: 499302</description>
-		<Point> 
-			<coordinates>
-			-76.896301,40.251955,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Chambers St<br/>ID: 892216</description>
-		<Point> 
-			<coordinates>
-			-76.826238,40.22459,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Chestnut St<br/>ID: 499035</description>
-		<Point> 
-			<coordinates>
-			-76.834783,40.232338,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Chestnut St<br/>ID: 499454</description>
-		<Point> 
-			<coordinates>
-			-76.880079,40.258865,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Elm St<br/>ID: 499050</description>
-		<Point> 
-			<coordinates>
-			-76.83724,40.234072,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Locust St<br/>ID: 666320</description>
-		<Point> 
-			<coordinates>
-			-76.839134,40.235067,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Locust St (Wormleysburg)<br/>ID: 499347</description>
-		<Point> 
-			<coordinates>
-			-76.898232,40.253288,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Market St (Wormleysburg)<br/>ID: 499321</description>
-		<Point> 
-			<coordinates>
-			-76.897034,40.252289,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Market St (Wormleysburg)<br/>ID: 499329</description>
-		<Point> 
-			<coordinates>
-			-76.896987,40.252428,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Swatara St<br/>ID: 499044</description>
-		<Point> 
-			<coordinates>
-			-76.83621,40.233371,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Vine St<br/>ID: 499416</description>
-		<Point> 
-			<coordinates>
-			-76.876106,40.256729,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St &amp; Walnut St<br/>ID: 499057</description>
-		<Point> 
-			<coordinates>
-			-76.837999,40.23452,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 2nd St opp. Locust St (Wormleysburg)<br/>ID: 499345</description>
-		<Point> 
-			<coordinates>
-			-76.898468,40.253273,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 3rd St &amp; Chestnut St<br/>ID: 499564</description>
-		<Point> 
-			<coordinates>
-			-76.879397,40.260076,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 3rd St &amp; Clark St<br/>ID: 499143</description>
-		<Point> 
-			<coordinates>
-			-76.885384,40.240063,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 3rd St &amp; Walton St<br/>ID: 499181</description>
-		<Point> 
-			<coordinates>
-			-76.886913,40.240694,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: S 3rd St &amp; Walton St<br/>ID: 499183</description>
-		<Point> 
-			<coordinates>
-			-76.886589,40.240688,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -9813,6 +9651,168 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; 3rd Ave (Wormleysburg)<br/>ID: 499301</description>
+		<Point> 
+			<coordinates>
+			-76.896286,40.251797,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; 3rd Ave (Wormleysburg)<br/>ID: 499302</description>
+		<Point> 
+			<coordinates>
+			-76.896301,40.251955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Chambers St<br/>ID: 892216</description>
+		<Point> 
+			<coordinates>
+			-76.826238,40.22459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Chestnut St<br/>ID: 499035</description>
+		<Point> 
+			<coordinates>
+			-76.834783,40.232338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Chestnut St<br/>ID: 499454</description>
+		<Point> 
+			<coordinates>
+			-76.880079,40.258865,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Elm St<br/>ID: 499050</description>
+		<Point> 
+			<coordinates>
+			-76.83724,40.234072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Locust St<br/>ID: 666320</description>
+		<Point> 
+			<coordinates>
+			-76.839134,40.235067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Locust St (Wormleysburg)<br/>ID: 499347</description>
+		<Point> 
+			<coordinates>
+			-76.898232,40.253288,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Market St (Wormleysburg)<br/>ID: 499321</description>
+		<Point> 
+			<coordinates>
+			-76.897034,40.252289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Market St (Wormleysburg)<br/>ID: 499329</description>
+		<Point> 
+			<coordinates>
+			-76.896987,40.252428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Swatara St<br/>ID: 499044</description>
+		<Point> 
+			<coordinates>
+			-76.83621,40.233371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Vine St<br/>ID: 499416</description>
+		<Point> 
+			<coordinates>
+			-76.876106,40.256729,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St &amp; Walnut St<br/>ID: 499057</description>
+		<Point> 
+			<coordinates>
+			-76.837999,40.23452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 2nd St opp. Locust St (Wormleysburg)<br/>ID: 499345</description>
+		<Point> 
+			<coordinates>
+			-76.898468,40.253273,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 3rd St &amp; Chestnut St<br/>ID: 499564</description>
+		<Point> 
+			<coordinates>
+			-76.879397,40.260076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 3rd St &amp; Clark St<br/>ID: 499143</description>
+		<Point> 
+			<coordinates>
+			-76.885384,40.240063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 3rd St &amp; Walton St<br/>ID: 499181</description>
+		<Point> 
+			<coordinates>
+			-76.886913,40.240694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S 3rd St &amp; Walton St<br/>ID: 499183</description>
+		<Point> 
+			<coordinates>
+			-76.886589,40.240688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
 		<description>Name: S 40th &amp; Tecport Dr (Southbound)<br/>ID: 839905</description>
 		<Point> 
 			<coordinates>
@@ -9903,19 +9903,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: S Cameron St @ #510<br/>ID: 499446</description>
+		<description>Name: S Cameron St @ #1678<br/>ID: 499193</description>
 		<Point> 
 			<coordinates>
-			-76.8713,40.258495,0
+			-76.855324,40.241253,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: S Cameron St @ #1678<br/>ID: 499193</description>
+		<description>Name: S Cameron St @ #510<br/>ID: 499446</description>
 		<Point> 
 			<coordinates>
-			-76.855324,40.241253,0
+			-76.8713,40.258495,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -10902,7 +10902,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Stonebridge Apartments (Colonial Rd &amp; Williamsburg Dr)<br/>ID: 500519</description>
+		<description>Name: Stonebridge Apartments<br/>ID: 500519</description>
 		<Point> 
 			<coordinates>
 			-76.821085,40.30098,0
@@ -11082,19 +11082,10 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Twin Lakes Apartments (Highway Stop)<br/>ID: 500266</description>
+		<description>Name: Twin Lakes Apartments<br/>ID: 500266</description>
 		<Point> 
 			<coordinates>
 			-76.810249,40.279337,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: UPS (1 Ames Drive) - Highway Stop<br/>ID: 2767527</description>
-		<Point> 
-			<coordinates>
-			-77.235535,40.171219,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -11248,6 +11239,15 @@
 		<Point> 
 			<coordinates>
 			-76.981124,40.199262,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UPS (1 Ames Drive) - Highway Stop<br/>ID: 2767527</description>
+		<Point> 
+			<coordinates>
+			-77.235535,40.171219,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -11541,7 +11541,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: W King St &amp; Fayette St - Library (Shippensburg)<br/>ID: 5140108</description>
+		<description>Name: W King St &amp; Fayette St - Library<br/>ID: 5140108</description>
 		<Point> 
 			<coordinates>
 			-77.523187,40.04968,0
@@ -11550,7 +11550,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: W King St &amp; S Fayette St - Eastbound (Shippensburg)<br/>ID: 5227956</description>
+		<description>Name: W King St &amp; S Fayette St (Shippensburg)<br/>ID: 5227956</description>
 		<Point> 
 			<coordinates>
 			-77.524574,40.048847,0
@@ -11734,15 +11734,6 @@
 		<Point> 
 			<coordinates>
 			-77.020737,40.209106,0
-			</coordinates> 
-		</Point> 
-	</Placemark>
-	<Placemark> 
-		<styleUrl>#stop</styleUrl>
-		<description>Name: WEG Warehouse (Mechanicsburg)<br/>ID: 2971596</description>
-		<Point> 
-			<coordinates>
-			-77.073845,40.2318,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -12081,19 +12072,19 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Walnut St opp. 4th St<br/>ID: 499744</description>
+		<description>Name: Walnut St opp. #2201<br/>ID: 500145</description>
 		<Point> 
 			<coordinates>
-			-76.881241,40.262871,0
+			-76.856738,40.274472,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Walnut St opp. #2201<br/>ID: 500145</description>
+		<description>Name: Walnut St opp. 4th St<br/>ID: 499744</description>
 		<Point> 
 			<coordinates>
-			-76.856738,40.274472,0
+			-76.881241,40.262871,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -12211,6 +12202,15 @@
 		<Point> 
 			<coordinates>
 			-76.962204,40.221382,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: WEG Warehouse (Mechanicsburg)<br/>ID: 2971596</description>
+		<Point> 
+			<coordinates>
+			-77.073845,40.2318,0
 			</coordinates> 
 		</Point> 
 	</Placemark>
@@ -12432,7 +12432,7 @@
 	</Placemark>
 	<Placemark> 
 		<styleUrl>#stop</styleUrl>
-		<description>Name: Wilson Rd &amp; Lancaster Blvd (LifeCare)<br/>ID: 498820</description>
+		<description>Name: Wilson Rd &amp; Lancaster Blvd (LifeCare Hospital)<br/>ID: 498820</description>
 		<Point> 
 			<coordinates>
 			-76.973183,40.208527,0
