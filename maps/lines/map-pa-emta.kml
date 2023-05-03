@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>pa-emta routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>1</name>
+		<styleUrl>#1.5</styleUrl>
+		<description>Agency: pa-emta<br/>EDI: 1.65</description>
+		<LineString> 
+			<coordinates>
+			-80.082858,42.128218,0
+			-80.081659,42.12599,0
+			-80.081165,42.123113,0
+			-80.080372,42.12192,0
+			-80.079096,42.119929,0
+			-80.078285,42.118694,0
+			-80.074911,42.113719,0
+			-80.073807,42.112018,0
+			-80.075439,42.111313,0
+			-80.077263,42.11065,0
+			-80.082045,42.10889,0
+			-80.085361,42.104667,0
+			-80.083749,42.102237,0
+			-80.08047,42.097278,0
+			-80.079354,42.095604,0
+			-80.07783,42.093336,0
+			-80.075663,42.090061,0
+			-80.073918,42.087383,0
+			-80.072493,42.08574,0
+			-80.070844,42.083129,0
+			-80.068132,42.078834,0
+			-80.066617,42.076451,0
+			-80.062699,42.070366,0
+			-80.075275,42.065833,0
+			-80.081806,42.066543,0
+			-80.085044,42.066974,0
+			-80.089153,42.067477,0
+			-80.09923,42.070956,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

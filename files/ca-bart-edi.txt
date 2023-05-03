@@ -1,0 +1,113 @@
+PITT;Pittsburg / Bay Point;38.01895;-121.944248;eBART;1
+PCTR;Pittsburg Center;38.016873;-121.889011;eBART;2
+ANTC;Antioch;37.995415;-121.780353;eBART;3
+PITT;Pittsburg / Bay Point;38.01895;-121.944248;Yellow;1
+NCON;North Concord / Martinez;38.003407;-122.024561;Yellow;2
+CONC;Concord;37.973773;-122.029126;Yellow;3
+PHIL;Pleasant Hill / Contra Costa Centre;37.928463;-122.056015;Yellow;4
+WCRK;Walnut Creek;37.905812;-122.067379;Yellow;5
+LAFY;Lafayette;37.89322;-122.124644;Yellow;6
+ORIN;Orinda;37.878503;-122.183717;Yellow;7
+ROCK;Rockridge;37.844795;-122.251271;Yellow;8
+MCAR;MacArthur;37.828814;-122.267163;Yellow;9
+19TH;19th Street Oakland;37.80806;-122.268722;Yellow;10
+12TH;12th Street / Oakland City Center;37.803471;-122.271589;Yellow;11
+WOAK;West Oakland;37.804923;-122.295144;Yellow;12
+EMBR;Embarcadero;37.792789;-122.39708;Yellow;13
+MONT;Montgomery Street;37.789213;-122.401642;Yellow;14
+POWL;Powell Street;37.784645;-122.407387;Yellow;15
+CIVC;Civic Center / UN Plaza;37.77945;-122.413879;Yellow;16
+16TH;16th Street / Mission;37.765176;-122.419755;Yellow;17
+24TH;24th Street / Mission;37.752422;-122.418518;Yellow;18
+GLEN;Glen Park;37.733269;-122.433557;Yellow;19
+BALB;Balboa Park;37.721758;-122.44751;Yellow;20
+DALY;Daly City;37.706304;-122.468994;Yellow;21
+COLM;Colma;37.684642;-122.466167;Yellow;22
+SSAN;South San Francisco;37.664437;-122.444254;Yellow;23
+SBRN;San Bruno;37.63772;-122.416384;Yellow;24
+SFIA;San Francisco International Airport;37.616023;-122.391895;Yellow;25
+RICH;Richmond;37.936795;-122.353004;Red;1
+DELN;El Cerrito Del Norte;37.925205;-122.316868;Red;2
+PLZA;El Cerrito Plaza;37.902633;-122.298895;Red;3
+NBRK;North Berkeley;37.874032;-122.283508;Red;4
+DBRK;Downtown Berkeley;37.870117;-122.268078;Red;5
+ASHB;Ashby;37.853069;-122.26975;Red;6
+MCAR;MacArthur;37.828814;-122.267163;Red;7
+19TH;19th Street Oakland;37.80806;-122.268722;Red;8
+12TH;12th Street / Oakland City Center;37.803471;-122.271589;Red;9
+WOAK;West Oakland;37.804923;-122.295144;Red;10
+EMBR;Embarcadero;37.792789;-122.39708;Red;11
+MONT;Montgomery Street;37.789213;-122.401642;Red;12
+POWL;Powell Street;37.784645;-122.407387;Red;13
+CIVC;Civic Center / UN Plaza;37.77945;-122.413879;Red;14
+16TH;16th Street / Mission;37.765176;-122.419755;Red;15
+24TH;24th Street / Mission;37.752422;-122.418518;Red;16
+GLEN;Glen Park;37.733269;-122.433557;Red;17
+BALB;Balboa Park;37.721758;-122.44751;Red;18
+DALY;Daly City;37.706304;-122.468994;Red;19
+COLM;Colma;37.684642;-122.466167;Red;20
+SSAN;South San Francisco;37.664437;-122.444254;Red;21
+SBRN;San Bruno;37.63772;-122.416384;Red;22
+MLBR;Millbrae;37.600199;-122.38684;Red;23
+SFIA;San Francisco International Airport;37.616023;-122.391895;Red;24
+RICH;Richmond;37.936795;-122.353004;Orange;1
+DELN;El Cerrito Del Norte;37.925205;-122.316868;Orange;2
+PLZA;El Cerrito Plaza;37.902633;-122.298895;Orange;3
+NBRK;North Berkeley;37.874032;-122.283508;Orange;4
+DBRK;Downtown Berkeley;37.870117;-122.268078;Orange;5
+ASHB;Ashby;37.853069;-122.26975;Orange;6
+MCAR;MacArthur;37.828814;-122.267163;Orange;7
+19TH;19th Street Oakland;37.80806;-122.268722;Orange;8
+12TH;12th Street / Oakland City Center;37.803471;-122.271589;Orange;9
+LAKE;Lake Merritt;37.797357;-122.265232;Orange;10
+FTVL;Fruitvale;37.774873;-122.224067;Orange;11
+COLS;Coliseum;37.753604;-122.196698;Orange;12
+SANL;San Leandro;37.721806;-122.160713;Orange;13
+BAYF;Bay Fair;37.696938;-122.126431;Orange;14
+HAYW;Hayward;37.669731;-122.086941;Orange;15
+SHAY;South Hayward;37.634363;-122.057158;Orange;16
+UCTY;Union City;37.590765;-122.01723;Orange;17
+FRMT;Fremont;37.557513;-121.976605;Orange;18
+WARM;Warm Springs / South Fremont;37.502307;-121.939358;Orange;19
+MLPT;Milpitas;37.409836;-121.890803;Orange;20
+BERY;Berryessa / North San Jose;37.368495;-121.874661;Orange;21
+BERY;Berryessa / North San Jose;37.368495;-121.874661;Green;1
+MLPT;Milpitas;37.409836;-121.890803;Green;2
+WARM;Warm Springs / South Fremont;37.502307;-121.939358;Green;3
+FRMT;Fremont;37.557513;-121.976605;Green;4
+UCTY;Union City;37.590765;-122.01723;Green;5
+SHAY;South Hayward;37.634363;-122.057158;Green;6
+HAYW;Hayward;37.669731;-122.086941;Green;7
+BAYF;Bay Fair;37.696938;-122.126431;Green;8
+SANL;San Leandro;37.721806;-122.160713;Green;9
+COLS;Coliseum;37.753604;-122.196698;Green;10
+FTVL;Fruitvale;37.774873;-122.224067;Green;11
+LAKE;Lake Merritt;37.797357;-122.265232;Green;12
+WOAK;West Oakland;37.804923;-122.295144;Green;13
+EMBR;Embarcadero;37.792789;-122.39708;Green;14
+MONT;Montgomery Street;37.789213;-122.401642;Green;15
+POWL;Powell Street;37.784645;-122.407387;Green;16
+CIVC;Civic Center / UN Plaza;37.77945;-122.413879;Green;17
+16TH;16th Street / Mission;37.765176;-122.419755;Green;18
+24TH;24th Street / Mission;37.752422;-122.418518;Green;19
+GLEN;Glen Park;37.733269;-122.433557;Green;20
+BALB;Balboa Park;37.721758;-122.44751;Green;21
+DALY;Daly City;37.706304;-122.468994;Green;22
+DUBL;Dublin / Pleasanton;37.701692;-121.899242;Blue;1
+WDUB;West Dublin / Pleasanton;37.69976;-121.928301;Blue;2
+CAST;Castro Valley;37.690776;-122.075615;Blue;3
+BAYF;Bay Fair;37.696938;-122.126431;Blue;4
+SANL;San Leandro;37.721806;-122.160713;Blue;5
+COLS;Coliseum;37.753604;-122.196698;Blue;6
+FTVL;Fruitvale;37.774873;-122.224067;Blue;7
+LAKE;Lake Merritt;37.797357;-122.265232;Blue;8
+WOAK;West Oakland;37.804923;-122.295144;Blue;9
+EMBR;Embarcadero;37.792789;-122.39708;Blue;10
+MONT;Montgomery Street;37.789213;-122.401642;Blue;11
+POWL;Powell Street;37.784645;-122.407387;Blue;12
+CIVC;Civic Center / UN Plaza;37.77945;-122.413879;Blue;13
+16TH;16th Street / Mission;37.765176;-122.419755;Blue;14
+24TH;24th Street / Mission;37.752422;-122.418518;Blue;15
+GLEN;Glen Park;37.733269;-122.433557;Blue;16
+BALB;Balboa Park;37.721758;-122.44751;Blue;17
+DALY;Daly City;37.706304;-122.468994;Blue;18

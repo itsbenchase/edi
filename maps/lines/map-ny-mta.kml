@@ -45,6 +45,38 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
+		<name>hrl-m</name>
+		<styleUrl>#4.0</styleUrl>
+		<description>Agency: ny-mta<br/>EDI: 5.7</description>
+		<LineString> 
+			<coordinates>
+			-73.917093,40.88118,0
+			-73.912529,40.886072,0
+			-73.907076,40.886429,0
+			-73.912366,40.879431,0
+			-73.921455,40.878245,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>hrl-l</name>
+		<styleUrl>#3.0</styleUrl>
+		<description>Agency: ny-mta<br/>EDI: 3.47</description>
+		<LineString> 
+			<coordinates>
+			-73.90921,40.881211,0
+			-73.90696,40.88695,0
+			-73.908526,40.893316,0
+			-73.909022,40.889717,0
+			-73.91255,40.88681,0
+			-73.915078,40.884585,0
+			-73.918943,40.880844,0
+			-73.916827,40.878995,0
+			-73.921455,40.878245,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>M31</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Agency: ny-mta<br/>EDI: 1.46</description>

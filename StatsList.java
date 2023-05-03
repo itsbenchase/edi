@@ -120,7 +120,7 @@ public class StatsList
         }
         else
         {
-          medianEdi = edis.get((edis.size() / 2) + 1);
+          medianEdi = edis.get(edis.size() / 2);
         }
       }
       else // even amount of EDIs
@@ -131,7 +131,7 @@ public class StatsList
         }
         else
         {
-          medianEdi = (edis.get((edis.size() / 2) - 1) + edis.get((edis.size() / 2) + 1)) / 2.0;
+          medianEdi = (edis.get((edis.size() / 2) - 1) + edis.get(edis.size() / 2) / 2.0);
         }
         medianEdi = Math.round(medianEdi * 100.0) / 100.0;
       }
@@ -145,7 +145,7 @@ public class StatsList
         }
         else
         {
-          medianLength = lengths.get((lengths.size() / 2) + 1);
+          medianLength = lengths.get(lengths.size() / 2);
         }
       }
       else // even amount of lengths
@@ -156,7 +156,7 @@ public class StatsList
         }
         else
         {
-          medianLength = (lengths.get((lengths.size() / 2) - 1) + lengths.get((lengths.size() / 2) + 1)) / 2.0;
+          medianLength = (lengths.get((lengths.size() / 2) - 1) + lengths.get(lengths.size() / 2) / 2.0);
         }
         medianLength = Math.round(medianLength * 100.0) / 100.0;
       }
@@ -236,7 +236,7 @@ public class StatsList
           }
           else
           {
-            medianEdi = edis.get((edis.size() / 2) + 1);
+            medianEdi = edis.get(edis.size() / 2);
           }
         }
         else // even amount of EDIs
@@ -247,7 +247,7 @@ public class StatsList
           }
           else
           {
-            medianEdi = (edis.get((edis.size() / 2) - 1) + edis.get((edis.size() / 2) + 1)) / 2.0;
+            medianEdi = (edis.get((edis.size() / 2) - 1) + edis.get(edis.size() / 2) / 2.0);
           }
           medianEdi = Math.round(medianEdi * 100.0) / 100.0;
         }
@@ -261,7 +261,7 @@ public class StatsList
           }
           else
           {
-            medianLength = lengths.get((lengths.size() / 2) + 1);
+            medianLength = lengths.get(lengths.size() / 2);
           }
         }
         else // even amount of lengths
@@ -272,7 +272,7 @@ public class StatsList
           }
           else
           {
-            medianLength = (lengths.get((lengths.size() / 2) - 1) + lengths.get((lengths.size() / 2) + 1)) / 2.0;
+            medianLength = (lengths.get((lengths.size() / 2) - 1) + lengths.get(lengths.size() / 2) / 2.0);
           }
           medianLength = Math.round(medianLength * 100.0) / 100.0;
         }
