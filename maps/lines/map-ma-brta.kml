@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ma-brta routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>21</name>
+		<styleUrl>#1.5</styleUrl>
+		<description>Agency: ma-brta<br/>EDI: 1.58</description>
+		<LineString> 
+			<coordinates>
+			-73.362386,42.174176,0
+			-73.365561,42.180631,0
+			-73.366908,42.184104,0
+			-73.368133,42.186789,0
+			-73.371596,42.190862,0
+			-73.380916,42.206162,0
+			-73.364619,42.192971,0
+			-73.3635,42.192905,0
+			-73.361253,42.196135,0
+			-73.360755,42.198774,0
+			-73.35628,42.201541,0
+			-73.34651,42.205196,0
+			-73.344697,42.210196,0
+			-73.360187,42.249714,0
+			-73.366459,42.254934,0
+			-73.364972,42.256722,0
+			-73.343813,42.285039,0
+			-73.310588,42.282029,0
+			-73.240486,42.295456,0
+			-73.233805,42.295114,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
