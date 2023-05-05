@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ny-orange stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adams Fairacre Farms<br/>ID: NBRG11</description>
+		<Point> 
+			<coordinates>
+			-74.068929,41.502851,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broadway &amp; Dubois St<br/>ID: NBRG2</description>
+		<Point> 
+			<coordinates>
+			-74.015468,41.500339,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broadway &amp; Fullerton Av<br/>ID: NBRG4</description>
+		<Point> 
+			<coordinates>
+			-74.026602,41.501094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broadway &amp; Liberty St<br/>ID: NBRG1</description>
+		<Point> 
+			<coordinates>
+			-74.010754,41.500018,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broadway &amp; Robinson Av<br/>ID: NBRG3</description>
+		<Point> 
+			<coordinates>
+			-74.021364,41.500713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burt Farms<br/>ID: WARW7</description>
+		<Point> 
+			<coordinates>
+			-74.35167,41.253393,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chester Cumberland Farms<br/>ID: MAIN15</description>
+		<Point> 
+			<coordinates>
+			-74.275208,41.352083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chester Holiday Inn<br/>ID: MAIN14</description>
+		<Point> 
+			<coordinates>
+			-74.28469,41.356318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Chester Shoprite<br/>ID: MAIN12</description>
+		<Point> 
+			<coordinates>
+			-74.28325,41.358138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cornwall Hospital<br/>ID: NBRG12</description>
+		<Point> 
+			<coordinates>
+			-74.042275,41.435801,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Creekside Apartments<br/>ID: WARW6</description>
+		<Point> 
+			<coordinates>
+			-74.34908,41.253689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crystal Run Healthcare<br/>ID: MAIN7</description>
+		<Point> 
+			<coordinates>
+			-74.358844,41.451238,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crystal Run Healthcare<br/>ID: WARW35</description>
+		<Point> 
+			<coordinates>
+			-74.358844,41.451238,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Devon Woods<br/>ID: WARW13</description>
+		<Point> 
+			<coordinates>
+			-74.365045,41.264278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dunning Farms<br/>ID: WARW32</description>
+		<Point> 
+			<coordinates>
+			-74.377428,41.450125,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dunning Rd &amp; Schutt Rd<br/>ID: MAIN2</description>
+		<Point> 
+			<coordinates>
+			-74.380817,41.450525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Erie Station Plaza<br/>ID: MONR5</description>
+		<Point> 
+			<coordinates>
+			-74.187123,41.328355,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Federal Plaza<br/>ID: MONR27</description>
+		<Point> 
+			<coordinates>
+			-74.169393,41.317031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Florida Post Office<br/>ID: WARW28</description>
+		<Point> 
+			<coordinates>
+			-74.358565,41.340159,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Montgomery<br/>ID: HLFA1</description>
+		<Point> 
+			<coordinates>
+			-73.986909,41.331524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Galleria Mall - Main Entrance<br/>ID: MAIN5</description>
+		<Point> 
+			<coordinates>
+			-74.369996,41.453466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Galleria Mall - Main Entrance<br/>ID: WARW33</description>
+		<Point> 
+			<coordinates>
+			-74.369996,41.453466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Galleria Mall - Theatre<br/>ID: WARW34</description>
+		<Point> 
+			<coordinates>
+			-74.366391,41.453121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goshen VA Clinic<br/>ID: MAIN11</description>
+		<Point> 
+			<coordinates>
+			-74.340049,41.395077,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Goshen Village<br/>ID: MAIN9</description>
+		<Point> 
+			<coordinates>
+			-74.326128,41.401911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand St &amp; 3rd St<br/>ID: NBRG22</description>
+		<Point> 
+			<coordinates>
+			-74.009332,41.503933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand St &amp; Cherry St<br/>ID: WARW15</description>
+		<Point> 
+			<coordinates>
+			-74.359654,41.261435,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenwood Lake<br/>ID: WARW27</description>
+		<Point> 
+			<coordinates>
+			-74.296041,41.223303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harriman Home Depot<br/>ID: MONR16</description>
+		<Point> 
+			<coordinates>
+			-74.149119,41.318366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harriman Kohl's<br/>ID: MONR19</description>
+		<Point> 
+			<coordinates>
+			-74.133084,41.312781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harriman Target<br/>ID: MONR15</description>
+		<Point> 
+			<coordinates>
+			-74.153029,41.317647,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harriman TJ Maxx<br/>ID: MONR18</description>
+		<Point> 
+			<coordinates>
+			-74.144799,41.317991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harriman Walmart<br/>ID: MAIN19</description>
+		<Point> 
+			<coordinates>
+			-74.14781,41.317292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harriman Walmart<br/>ID: MONR17</description>
+		<Point> 
+			<coordinates>
+			-74.14781,41.317292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland Falls<br/>ID: HLFA2</description>
+		<Point> 
+			<coordinates>
+			-73.966101,41.369106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homestead Village Dr &amp; Candlestick Ct<br/>ID: WARW3</description>
+		<Point> 
+			<coordinates>
+			-74.339217,41.25504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homestead Village Dr &amp; Olde Wagon Rd<br/>ID: WARW1</description>
+		<Point> 
+			<coordinates>
+			-74.337767,41.251225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homestead Village Dr &amp; The Knolls<br/>ID: WARW5</description>
+		<Point> 
+			<coordinates>
+			-74.337945,41.252252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homestead Village Dr &amp; The Rise<br/>ID: WARW2</description>
+		<Point> 
+			<coordinates>
+			-74.337789,41.25125,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Homestead Village Dr &amp; Weathervane Wy<br/>ID: WARW4</description>
+		<Point> 
+			<coordinates>
+			-74.341257,41.257936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Liberty Green<br/>ID: WARW14</description>
+		<Point> 
+			<coordinates>
+			-74.366848,41.262677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Ash St<br/>ID: MONR11</description>
+		<Point> 
+			<coordinates>
+			-74.187333,41.332228,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Church St<br/>ID: MONR22</description>
+		<Point> 
+			<coordinates>
+			-74.150347,41.309717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; Elm St<br/>ID: MONR10</description>
+		<Point> 
+			<coordinates>
+			-74.187599,41.335338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main St &amp; McEwen St<br/>ID: WARW17</description>
+		<Point> 
+			<coordinates>
+			-74.359676,41.256994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matthew Street Park and Ride<br/>ID: MAIN10</description>
+		<Point> 
+			<coordinates>
+			-74.334735,41.396363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matthew Street Park and Ride<br/>ID: WARW29</description>
+		<Point> 
+			<coordinates>
+			-74.334735,41.396363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Middletown Terminal - Railroad Av<br/>ID: MAIN1</description>
+		<Point> 
+			<coordinates>
+			-74.417859,41.448127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mombasha Firehouse<br/>ID: MONR3</description>
+		<Point> 
+			<coordinates>
+			-74.179101,41.320453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Commons<br/>ID: MONR12</description>
+		<Point> 
+			<coordinates>
+			-74.187221,41.329299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe CVS<br/>ID: MONR2</description>
+		<Point> 
+			<coordinates>
+			-74.175944,41.319059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Dunkin' Donuts<br/>ID: MONR26</description>
+		<Point> 
+			<coordinates>
+			-74.170612,41.316811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Post Office<br/>ID: MONR8</description>
+		<Point> 
+			<coordinates>
+			-74.194979,41.332808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Shoprite<br/>ID: MONR9</description>
+		<Point> 
+			<coordinates>
+			-74.193597,41.332091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Stop &amp; Shop<br/>ID: MONR1</description>
+		<Point> 
+			<coordinates>
+			-74.17472,41.317267,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Terminal - Millpond Pkwy<br/>ID: MAIN17</description>
+		<Point> 
+			<coordinates>
+			-74.189459,41.329211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monroe Terminal - Millpond Pkwy<br/>ID: MONR6</description>
+		<Point> 
+			<coordinates>
+			-74.189451,41.329218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mount Alverno Center<br/>ID: WARW12</description>
+		<Point> 
+			<coordinates>
+			-74.360991,41.263407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Windsor Commons<br/>ID: NBRG17</description>
+		<Point> 
+			<coordinates>
+			-74.037968,41.463877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Bus Terminal<br/>ID: NBRG6</description>
+		<Point> 
+			<coordinates>
+			-74.06334,41.504535,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Kohl's<br/>ID: NBRG10</description>
+		<Point> 
+			<coordinates>
+			-74.06732,41.498779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Mall<br/>ID: NBRG8</description>
+		<Point> 
+			<coordinates>
+			-74.070744,41.518167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Mall<br/>ID: HLFA5</description>
+		<Point> 
+			<coordinates>
+			-74.070744,41.518167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Saint Lukes Hospital<br/>ID: NBRG23</description>
+		<Point> 
+			<coordinates>
+			-74.01517,41.503549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Stop &amp; Shop<br/>ID: NBRG7</description>
+		<Point> 
+			<coordinates>
+			-74.071666,41.524009,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Target<br/>ID: NBRG5</description>
+		<Point> 
+			<coordinates>
+			-74.058864,41.505412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Walmart<br/>ID: NBRG9</description>
+		<Point> 
+			<coordinates>
+			-74.074087,41.497415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newburgh Walmart<br/>ID: HLFA4</description>
+		<Point> 
+			<coordinates>
+			-74.074087,41.497415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oakland Av &amp; Orchard St<br/>ID: WARW18</description>
+		<Point> 
+			<coordinates>
+			-74.360025,41.254921,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange County Government Center<br/>ID: MAIN8</description>
+		<Point> 
+			<coordinates>
+			-74.318182,41.407495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Medical Pavillion<br/>ID: MAIN6</description>
+		<Point> 
+			<coordinates>
+			-74.36229,41.44815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Plaza - Kohl's<br/>ID: MAIN4</description>
+		<Point> 
+			<coordinates>
+			-74.380192,41.454237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Plaza - Kohl's<br/>ID: WARW31</description>
+		<Point> 
+			<coordinates>
+			-74.380192,41.454237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Plaza Upper Level<br/>ID: WARW30</description>
+		<Point> 
+			<coordinates>
+			-74.37854,41.454222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Regional Medical Center<br/>ID: MAIN3</description>
+		<Point> 
+			<coordinates>
+			-74.369215,41.442665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Orange Regional Medical Center<br/>ID: WARW36</description>
+		<Point> 
+			<coordinates>
+			-74.369215,41.442665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park Lane Apartments<br/>ID: WARW8</description>
+		<Point> 
+			<coordinates>
+			-74.355583,41.254269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Quaker Av &amp; Rt 32<br/>ID: NBRG13</description>
+		<Point> 
+			<coordinates>
+			-74.053547,41.430582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: River Rd &amp; Evergreen Rd<br/>ID: MONR21</description>
+		<Point> 
+			<coordinates>
+			-74.141794,41.313033,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robinson Av &amp; S William St<br/>ID: NBRG20</description>
+		<Point> 
+			<coordinates>
+			-74.021789,41.496789,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Robinson Av &amp; Walsh Av<br/>ID: NBRG19</description>
+		<Point> 
+			<coordinates>
+			-74.019603,41.488507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 105 &amp; Old Country Rd<br/>ID: MONR14</description>
+		<Point> 
+			<coordinates>
+			-74.167729,41.326436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 17M &amp; Church St<br/>ID: MAIN18</description>
+		<Point> 
+			<coordinates>
+			-74.152795,41.307456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 17M &amp; Church St<br/>ID: MONR24</description>
+		<Point> 
+			<coordinates>
+			-74.152795,41.307456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 17M &amp; Gilbert St<br/>ID: MONR7</description>
+		<Point> 
+			<coordinates>
+			-74.192314,41.336347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 17M &amp; Lexington Hills Rd<br/>ID: MONR25</description>
+		<Point> 
+			<coordinates>
+			-74.157685,41.312459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 17M &amp; Museum Village<br/>ID: MAIN16</description>
+		<Point> 
+			<coordinates>
+			-74.203492,41.344443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 17M &amp; Ramapo Av<br/>ID: MONR23</description>
+		<Point> 
+			<coordinates>
+			-74.147886,41.304482,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rt 94 &amp; Forge Hill Rd<br/>ID: NBRG16</description>
+		<Point> 
+			<coordinates>
+			-74.049671,41.456183,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S William St &amp; Liberty St<br/>ID: NBRG21</description>
+		<Point> 
+			<coordinates>
+			-74.011127,41.496039,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saint Anthony's Hospital<br/>ID: WARW11</description>
+		<Point> 
+			<coordinates>
+			-74.357986,41.260999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Saint Stephens Church<br/>ID: WARW26</description>
+		<Point> 
+			<coordinates>
+			-74.387105,41.255696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Street Caboose<br/>ID: WARW9</description>
+		<Point> 
+			<coordinates>
+			-74.358566,41.256512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spring St &amp; McEwen St<br/>ID: WARW19</description>
+		<Point> 
+			<coordinates>
+			-74.360879,41.257584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spring St &amp; Smith Clove Park<br/>ID: MONR13</description>
+		<Point> 
+			<coordinates>
+			-74.18294,41.327422,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Squire Village<br/>ID: NBRG18</description>
+		<Point> 
+			<coordinates>
+			-74.025112,41.474468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stage Rd &amp; Maple Av<br/>ID: MONR4</description>
+		<Point> 
+			<coordinates>
+			-74.186819,41.324951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vails Gate Price Chopper<br/>ID: NBRG14</description>
+		<Point> 
+			<coordinates>
+			-74.059803,41.454503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vails Gate Shoprite<br/>ID: NBRG15</description>
+		<Point> 
+			<coordinates>
+			-74.057585,41.457302,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vails Gate Shoprite<br/>ID: HLFA3</description>
+		<Point> 
+			<coordinates>
+			-74.057585,41.457302,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Warwick CVS<br/>ID: WARW16</description>
+		<Point> 
+			<coordinates>
+			-74.359793,41.258139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Warwick Post Office<br/>ID: WARW10</description>
+		<Point> 
+			<coordinates>
+			-74.357577,41.259271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Warwick Price Chopper<br/>ID: WARW24</description>
+		<Point> 
+			<coordinates>
+			-74.380099,41.240152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Warwick Shoprite<br/>ID: WARW25</description>
+		<Point> 
+			<coordinates>
+			-74.381161,41.236142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St &amp; Division St<br/>ID: WARW22</description>
+		<Point> 
+			<coordinates>
+			-74.368123,41.256828,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St &amp; Howe St<br/>ID: WARW23</description>
+		<Point> 
+			<coordinates>
+			-74.366288,41.256627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St &amp; Pond Hill Av<br/>ID: WARW21</description>
+		<Point> 
+			<coordinates>
+			-74.369235,41.257011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West St &amp; Wheeler Av<br/>ID: WARW20</description>
+		<Point> 
+			<coordinates>
+			-74.362318,41.256736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whispering Hills<br/>ID: MAIN13</description>
+		<Point> 
+			<coordinates>
+			-74.287874,41.357736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodbury Common<br/>ID: MAIN20</description>
+		<Point> 
+			<coordinates>
+			-74.123519,41.31817,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodbury Common<br/>ID: MONR20</description>
+		<Point> 
+			<coordinates>
+			-74.123519,41.31817,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>
