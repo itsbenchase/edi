@@ -1,0 +1,4154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-etran stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St. &amp; Capitol Mall (NB)<br/>ID: 2627865</description>
+		<Point> 
+			<coordinates>
+			-121.497346,38.57812,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St. &amp; K St. (NB)<br/>ID: 2627866</description>
+		<Point> 
+			<coordinates>
+			-121.496541,38.580062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St. &amp; N St. (NB)<br/>ID: 2627864</description>
+		<Point> 
+			<coordinates>
+			-121.497917,38.576872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St. &amp; O St. (NB)<br/>ID: 2627863</description>
+		<Point> 
+			<coordinates>
+			-121.498376,38.575853,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th St. &amp; P St. (NB)<br/>ID: 2627862</description>
+		<Point> 
+			<coordinates>
+			-121.498861,38.57471,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St &amp; Capitol Ave (SB)<br/>ID: 3327002</description>
+		<Point> 
+			<coordinates>
+			-121.496424,38.576911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St &amp; I St (SB)<br/>ID: 3327000</description>
+		<Point> 
+			<coordinates>
+			-121.494463,38.5814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St &amp; K St (SB)<br/>ID: 3327001</description>
+		<Point> 
+			<coordinates>
+			-121.495418,38.579247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St &amp; N St (SB)<br/>ID: 3327003</description>
+		<Point> 
+			<coordinates>
+			-121.49688,38.575877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St &amp; O St (SB)<br/>ID: 3327004</description>
+		<Point> 
+			<coordinates>
+			-121.497301,38.574902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th St &amp; K St (SB)<br/>ID: 3327449</description>
+		<Point> 
+			<coordinates>
+			-121.486882,38.577764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 16th St &amp; K St (NB)<br/>ID: 3326998</description>
+		<Point> 
+			<coordinates>
+			-121.48565,38.577114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 16th St at Capitol Ave<br/>ID: 3326997</description>
+		<Point> 
+			<coordinates>
+			-121.486782,38.574502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 29th St &amp; R St (SB)<br/>ID: 3327458</description>
+		<Point> 
+			<coordinates>
+			-121.471887,38.56432,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 30th St &amp; R St (NB)<br/>ID: 3326988</description>
+		<Point> 
+			<coordinates>
+			-121.47049,38.5641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Allessandria &amp; Bellaterra (NB)<br/>ID: 3323906</description>
+		<Point> 
+			<coordinates>
+			-121.430467,38.399305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Allessandria &amp; Bellaterra (SB)<br/>ID: 3323722</description>
+		<Point> 
+			<coordinates>
+			-121.430467,38.399276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Armand George &amp; Calvine (NB)<br/>ID: 3325099</description>
+		<Point> 
+			<coordinates>
+			-121.325425,38.45304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra &amp; Fire Poppy (WB)<br/>ID: 3323015</description>
+		<Point> 
+			<coordinates>
+			-121.439854,38.397746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra &amp; Gold Poppy (WB)<br/>ID: 3323016</description>
+		<Point> 
+			<coordinates>
+			-121.441007,38.395601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra &amp; Whitelock Pkwy (NB)<br/>ID: 3323418</description>
+		<Point> 
+			<coordinates>
+			-121.440996,38.394223,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra Dr at Brinzino Ct<br/>ID: 3323905</description>
+		<Point> 
+			<coordinates>
+			-121.42698,38.39959,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra Dr at Gold Poppy Wy<br/>ID: 3323419</description>
+		<Point> 
+			<coordinates>
+			-121.441002,38.395582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra Dr at Rosanna Dr<br/>ID: 3323723</description>
+		<Point> 
+			<coordinates>
+			-121.427129,38.39958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bellaterra Dr at Terrazzo Wy<br/>ID: 3323904</description>
+		<Point> 
+			<coordinates>
+			-121.422647,38.398464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Ancestor (EB)<br/>ID: 3322611</description>
+		<Point> 
+			<coordinates>
+			-121.411717,38.428775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Arborview (NB)<br/>ID: 2627845</description>
+		<Point> 
+			<coordinates>
+			-121.426774,38.430738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Bruceville (WB)<br/>ID: 3325451</description>
+		<Point> 
+			<coordinates>
+			-121.418723,38.430612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Civic Center (SB)<br/>ID: 3322619</description>
+		<Point> 
+			<coordinates>
+			-121.404966,38.405857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Elk Grove Blvd (SB)<br/>ID: 3322618</description>
+		<Point> 
+			<coordinates>
+			-121.405221,38.408341,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Franklin (EB)<br/>ID: 3325079</description>
+		<Point> 
+			<coordinates>
+			-121.445575,38.434058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Frye Creek (WB)<br/>ID: 3325456</description>
+		<Point> 
+			<coordinates>
+			-121.440048,38.435409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Kaiser Entrance (NB)<br/>ID: 2627840</description>
+		<Point> 
+			<coordinates>
+			-121.407715,38.425048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Laguna Blvd (SB)<br/>ID: 3537651</description>
+		<Point> 
+			<coordinates>
+			-121.406507,38.422446,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Laguna Blvd. (NB)<br/>ID: 2627839</description>
+		<Point> 
+			<coordinates>
+			-121.406369,38.422591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Laguna Star (NB)<br/>ID: 2627846</description>
+		<Point> 
+			<coordinates>
+			-121.429857,38.432564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Monetta (NB)<br/>ID: 3322305</description>
+		<Point> 
+			<coordinates>
+			-121.406404,38.418364,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Monetta (SB)<br/>ID: 3322615</description>
+		<Point> 
+			<coordinates>
+			-121.406394,38.419747,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; New Country (NB)<br/>ID: 2627841</description>
+		<Point> 
+			<coordinates>
+			-121.409878,38.427068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Red Elk (NB)<br/>ID: 3323438</description>
+		<Point> 
+			<coordinates>
+			-121.405889,38.411872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Village Tree (NB)<br/>ID: 3322304</description>
+		<Point> 
+			<coordinates>
+			-121.406919,38.414976,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn &amp; Village Tree (SB)<br/>ID: 3322616</description>
+		<Point> 
+			<coordinates>
+			-121.406862,38.41585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Amber Creek Dr<br/>ID: 3325080</description>
+		<Point> 
+			<coordinates>
+			-121.438335,38.435821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Arborview Dr<br/>ID: 3325453</description>
+		<Point> 
+			<coordinates>
+			-121.42675,38.430751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Brockenhurst Dr<br/>ID: 3325455</description>
+		<Point> 
+			<coordinates>
+			-121.434185,38.435782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Bruceville Rd<br/>ID: 3332068</description>
+		<Point> 
+			<coordinates>
+			-121.416848,38.430497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Civic Center Dr<br/>ID: 3322302</description>
+		<Point> 
+			<coordinates>
+			-121.404794,38.405779,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Denali Cir<br/>ID: 3322620</description>
+		<Point> 
+			<coordinates>
+			-121.40132,38.400034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Elk Grove Blvd<br/>ID: 3322303</description>
+		<Point> 
+			<coordinates>
+			-121.405151,38.409669,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Generations Dr<br/>ID: 3322613</description>
+		<Point> 
+			<coordinates>
+			-121.40685,38.423754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Laguna Blvd<br/>ID: 3322306</description>
+		<Point> 
+			<coordinates>
+			-121.406299,38.420621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Laguna Star Dr<br/>ID: 3325454</description>
+		<Point> 
+			<coordinates>
+			-121.429861,38.432563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Lotz Pkwy<br/>ID: 3322301</description>
+		<Point> 
+			<coordinates>
+			-121.402134,38.401073,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Meadowspring Dr<br/>ID: 3325081</description>
+		<Point> 
+			<coordinates>
+			-121.432791,38.435109,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Meadowspring Dr<br/>ID: 3325082</description>
+		<Point> 
+			<coordinates>
+			-121.429055,38.431713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Monterey Oaks Dr<br/>ID: 3325084</description>
+		<Point> 
+			<coordinates>
+			-121.421062,38.430476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Monterey Oaks Dr<br/>ID: 3325452</description>
+		<Point> 
+			<coordinates>
+			-121.422213,38.430572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at New Country Ct<br/>ID: 3322612</description>
+		<Point> 
+			<coordinates>
+			-121.409136,38.426375,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Red Elk Dr<br/>ID: 3322617</description>
+		<Point> 
+			<coordinates>
+			-121.405403,38.410838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Vicino Dr<br/>ID: 3325083</description>
+		<Point> 
+			<coordinates>
+			-121.425219,38.430343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Whitelock Pkwy<br/>ID: 3322300</description>
+		<Point> 
+			<coordinates>
+			-121.399152,38.395148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Big Horn Blvd at Whitelock Pkwy<br/>ID: 3322621</description>
+		<Point> 
+			<coordinates>
+			-121.39932,38.39521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bilby Rd at Bruceville Rd<br/>ID: 3323411</description>
+		<Point> 
+			<coordinates>
+			-121.418192,38.379497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Crowell (EB)<br/>ID: 3325801</description>
+		<Point> 
+			<coordinates>
+			-121.363987,38.423519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Crowell (EB)<br/>ID: 3325802</description>
+		<Point> 
+			<coordinates>
+			-121.357767,38.42354,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Crowell (WB)<br/>ID: 3326067</description>
+		<Point> 
+			<coordinates>
+			-121.359383,38.423632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; East Stockton Blvd (EB)<br/>ID: 3324320</description>
+		<Point> 
+			<coordinates>
+			-121.389533,38.42343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Elk Crest (EB)<br/>ID: 3324321</description>
+		<Point> 
+			<coordinates>
+			-121.387529,38.423413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Elk Crest (WB)<br/>ID: 3324739</description>
+		<Point> 
+			<coordinates>
+			-121.388355,38.423526,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Elk Grove Florin (EB)<br/>ID: 3325800</description>
+		<Point> 
+			<coordinates>
+			-121.370694,38.42343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Elk Grove Florin (WB)<br/>ID: 3324735</description>
+		<Point> 
+			<coordinates>
+			-121.372491,38.423547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Emerald Crest (EB)<br/>ID: 3324322</description>
+		<Point> 
+			<coordinates>
+			-121.383984,38.423399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Emerald Crest (WB)<br/>ID: 3324738</description>
+		<Point> 
+			<coordinates>
+			-121.385638,38.423461,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Mosquito Vector Control (WB)<br/>ID: 3324737</description>
+		<Point> 
+			<coordinates>
+			-121.382871,38.423464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Quail Cove (WB)<br/>ID: 3326068</description>
+		<Point> 
+			<coordinates>
+			-121.36578,38.423602,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; School Loop Rd (WB)<br/>ID: 3326064</description>
+		<Point> 
+			<coordinates>
+			-121.344607,38.423692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Sierra River (EB)<br/>ID: 3325804</description>
+		<Point> 
+			<coordinates>
+			-121.347083,38.423579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Sierra River (WB)<br/>ID: 3326065</description>
+		<Point> 
+			<coordinates>
+			-121.348864,38.423662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Stonebrook (EB)<br/>ID: 3325805</description>
+		<Point> 
+			<coordinates>
+			-121.34277,38.423586,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Terra Linda (EB)<br/>ID: 3324324</description>
+		<Point> 
+			<coordinates>
+			-121.379796,38.423405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Terra Linda (EB)<br/>ID: 3324325</description>
+		<Point> 
+			<coordinates>
+			-121.377512,38.423434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Terra Linda (WB)<br/>ID: 3324736</description>
+		<Point> 
+			<coordinates>
+			-121.378845,38.423523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond &amp; Waterman (EB)<br/>ID: 3325803</description>
+		<Point> 
+			<coordinates>
+			-121.355188,38.423594,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at Bradshaw Rd<br/>ID: 3326062</description>
+		<Point> 
+			<coordinates>
+			-121.335534,38.423672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at Bus Entrance<br/>ID: 3326063</description>
+		<Point> 
+			<coordinates>
+			-121.338554,38.423671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at Creek Bridge<br/>ID: 3352082</description>
+		<Point> 
+			<coordinates>
+			-121.37437,38.423462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at East Stockton Blvd<br/>ID: 3324740</description>
+		<Point> 
+			<coordinates>
+			-121.391119,38.423792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at East Stockton Blvd (Marketplace 99)<br/>ID: 3346983</description>
+		<Point> 
+			<coordinates>
+			-121.390259,38.422881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at Egret Dr<br/>ID: 3324323</description>
+		<Point> 
+			<coordinates>
+			-121.38195,38.423399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at Elk Grove-Florin Rd<br/>ID: 3324327</description>
+		<Point> 
+			<coordinates>
+			-121.371689,38.422769,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd at Waterman Rd<br/>ID: 3326066</description>
+		<Point> 
+			<coordinates>
+			-121.354082,38.423661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bond Rd. at Elk Grove-Florin Rd.<br/>ID: 3324326</description>
+		<Point> 
+			<coordinates>
+			-121.374318,38.423466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw &amp; Crisswell (SB)<br/>ID: 3325809</description>
+		<Point> 
+			<coordinates>
+			-121.334692,38.413791,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw &amp; Early Light (SB)<br/>ID: 3325808</description>
+		<Point> 
+			<coordinates>
+			-121.33466,38.421143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw &amp; Silvergate (NB)<br/>ID: 3326061</description>
+		<Point> 
+			<coordinates>
+			-121.334649,38.420606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw at Vintage Park Dr<br/>ID: 3352726</description>
+		<Point> 
+			<coordinates>
+			-121.33484,38.463697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw Rd at Bond Rd<br/>ID: 3325807</description>
+		<Point> 
+			<coordinates>
+			-121.334754,38.422933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw Rd at Kiefer Blvd<br/>ID: 3352088</description>
+		<Point> 
+			<coordinates>
+			-121.33496,38.544608,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw Rd at Old Placerville Rd<br/>ID: 3352089</description>
+		<Point> 
+			<coordinates>
+			-121.336071,38.560558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw Rd at Old Placerville Rd (SB)<br/>ID: 3549630</description>
+		<Point> 
+			<coordinates>
+			-121.336237,38.560109,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw Rd at Shining Seas Way<br/>ID: 3333744</description>
+		<Point> 
+			<coordinates>
+			-121.337403,38.423569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bradshaw Rd at Vintage Park Dr<br/>ID: 3352087</description>
+		<Point> 
+			<coordinates>
+			-121.334682,38.464557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Ackley (SB)<br/>ID: 3323902</description>
+		<Point> 
+			<coordinates>
+			-121.417733,38.402293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Barcella (NB)<br/>ID: 3323726</description>
+		<Point> 
+			<coordinates>
+			-121.417516,38.402958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Beaver Falls (SB)<br/>ID: 2628076</description>
+		<Point> 
+			<coordinates>
+			-121.417851,38.416233,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Big Horn (SB)<br/>ID: 2628072</description>
+		<Point> 
+			<coordinates>
+			-121.417921,38.429807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Bilby (NB)<br/>ID: 3323025</description>
+		<Point> 
+			<coordinates>
+			-121.417395,38.379904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Calvine (NB)<br/>ID: 2628065</description>
+		<Point> 
+			<coordinates>
+			-121.4179,38.449934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Calvine (SB)<br/>ID: 2628067</description>
+		<Point> 
+			<coordinates>
+			-121.418071,38.449409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Center PKWY (SB)<br/>ID: 2628070</description>
+		<Point> 
+			<coordinates>
+			-121.417921,38.439342,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Center PKWY (SB)<br/>ID: 2628071</description>
+		<Point> 
+			<coordinates>
+			-121.417873,38.437386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; College Entrance (SB)<br/>ID: 2628066</description>
+		<Point> 
+			<coordinates>
+			-121.418077,38.452255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Damascas (NB)<br/>ID: 2628063</description>
+		<Point> 
+			<coordinates>
+			-121.417712,38.443048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Damascas (SB)<br/>ID: 2628069</description>
+		<Point> 
+			<coordinates>
+			-121.417932,38.442843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Del Webb (NB)<br/>ID: 3323725</description>
+		<Point> 
+			<coordinates>
+			-121.417572,38.398268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Di Lusso (NB)<br/>ID: 2628061</description>
+		<Point> 
+			<coordinates>
+			-121.417846,38.42711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Di Lusso (SB)<br/>ID: 2628073</description>
+		<Point> 
+			<coordinates>
+			-121.418028,38.427215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Elk Grove Blvd. (NB)<br/>ID: 2628056</description>
+		<Point> 
+			<coordinates>
+			-121.417583,38.409625,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Jacinto (NB)<br/>ID: 2628064</description>
+		<Point> 
+			<coordinates>
+			-121.417658,38.446678,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Jacinto (SB)<br/>ID: 2628068</description>
+		<Point> 
+			<coordinates>
+			-121.417812,38.446417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Kilconnell (SB)<br/>ID: 2628077</description>
+		<Point> 
+			<coordinates>
+			-121.41775,38.410798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Laguna Blvd. (NB)<br/>ID: 2628059</description>
+		<Point> 
+			<coordinates>
+			-121.417841,38.422369,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Laguna Blvd. (NB)<br/>ID: 2628060</description>
+		<Point> 
+			<coordinates>
+			-121.417825,38.424151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Laguna Blvd. (SB)<br/>ID: 2628074</description>
+		<Point> 
+			<coordinates>
+			-121.418047,38.422699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Quail Run (SB)<br/>ID: 3323410</description>
+		<Point> 
+			<coordinates>
+			-121.417432,38.390236,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Seasons (SB)<br/>ID: 2628075</description>
+		<Point> 
+			<coordinates>
+			-121.417927,38.418292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Sheldon (NB)<br/>ID: 2628062</description>
+		<Point> 
+			<coordinates>
+			-121.417701,38.438792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Soaring Oaks (NB)<br/>ID: 2628057</description>
+		<Point> 
+			<coordinates>
+			-121.417551,38.411941,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Soaring Oaks (NB)<br/>ID: 2628058</description>
+		<Point> 
+			<coordinates>
+			-121.417782,38.41957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville &amp; Whitelock Pkwy (SB)<br/>ID: 3323409</description>
+		<Point> 
+			<coordinates>
+			-121.417779,38.393333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bruceville Rd at Big Horn Blvd<br/>ID: 3325085</description>
+		<Point> 
+			<coordinates>
+			-121.417691,38.431185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Butterfield Light Rail Station<br/>ID: 3352090</description>
+		<Point> 
+			<coordinates>
+			-121.345742,38.56731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Across Short Rd (EB)<br/>ID: 3325090</description>
+		<Point> 
+			<coordinates>
+			-121.389946,38.452515,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Armand George (WB)<br/>ID: 3325101</description>
+		<Point> 
+			<coordinates>
+			-121.326345,38.45278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Auberry (EB)<br/>ID: 3325088</description>
+		<Point> 
+			<coordinates>
+			-121.39913,38.454244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Auberry (WB)<br/>ID: 3325449</description>
+		<Point> 
+			<coordinates>
+			-121.40049,38.455138,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Barrymore (WB)<br/>ID: 3325446</description>
+		<Point> 
+			<coordinates>
+			-121.384962,38.452641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Bradshaw (EB)<br/>ID: 3325098</description>
+		<Point> 
+			<coordinates>
+			-121.334266,38.45265,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Bradshaw (WB)<br/>ID: 3325440</description>
+		<Point> 
+			<coordinates>
+			-121.335642,38.452833,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Cliffcrest (EB)<br/>ID: 3325089</description>
+		<Point> 
+			<coordinates>
+			-121.394999,38.4527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Cliffcrest (WB)<br/>ID: 3325448</description>
+		<Point> 
+			<coordinates>
+			-121.396603,38.453186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Elk Grove Florin (EB)<br/>ID: 3325093</description>
+		<Point> 
+			<coordinates>
+			-121.370779,38.452541,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Elk Grove Florin (WB)<br/>ID: 3325444</description>
+		<Point> 
+			<coordinates>
+			-121.372281,38.452652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Grand Cru (WB)<br/>ID: 3325443</description>
+		<Point> 
+			<coordinates>
+			-121.361198,38.452725,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Heritage Hill (EB)<br/>ID: 3325095</description>
+		<Point> 
+			<coordinates>
+			-121.359521,38.452595,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Jordan Ranch Dr (EB)<br/>ID: 3325097</description>
+		<Point> 
+			<coordinates>
+			-121.347824,38.452637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Kingsbridge (WB)<br/>ID: 3325441</description>
+		<Point> 
+			<coordinates>
+			-121.34938,38.452742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Merry Hill (EB)<br/>ID: 3325094</description>
+		<Point> 
+			<coordinates>
+			-121.365063,38.452576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; New Point (WB)<br/>ID: 3325447</description>
+		<Point> 
+			<coordinates>
+			-121.388804,38.452648,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Power Inn (EB)<br/>ID: 3325087</description>
+		<Point> 
+			<coordinates>
+			-121.404357,38.455912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Power Inn (WB)<br/>ID: 3325450</description>
+		<Point> 
+			<coordinates>
+			-121.406128,38.456285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Vintage Park Dr (EB)<br/>ID: 3325092</description>
+		<Point> 
+			<coordinates>
+			-121.379142,38.452549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Vintage Park Dr (WB)<br/>ID: 3325445</description>
+		<Point> 
+			<coordinates>
+			-121.379013,38.452656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Waterman (EB)<br/>ID: 3325096</description>
+		<Point> 
+			<coordinates>
+			-121.354484,38.452627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine &amp; Waterman (WB)<br/>ID: 3325442</description>
+		<Point> 
+			<coordinates>
+			-121.354208,38.452761,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calvine Rd at Sheldon N Dr<br/>ID: 3325091</description>
+		<Point> 
+			<coordinates>
+			-121.384678,38.452511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Civic Center Dr at Wymark Dr<br/>ID: 3323727</description>
+		<Point> 
+			<coordinates>
+			-121.4082,38.405404,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Civic Center Dr at Wymark Dr<br/>ID: 3323901</description>
+		<Point> 
+			<coordinates>
+			-121.408963,38.405233,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Consumnes River College (CRC)<br/>ID: 3322312</description>
+		<Point> 
+			<coordinates>
+			-121.41857,38.454156,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cosumnes River Blvd at Bruceville Rd<br/>ID: 3325086</description>
+		<Point> 
+			<coordinates>
+			-121.416364,38.45745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CRC (OB)<br/>ID: 3540545</description>
+		<Point> 
+			<coordinates>
+			-121.418565,38.454084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh &amp; Harvest Park (NB)<br/>ID: 3323910</description>
+		<Point> 
+			<coordinates>
+			-121.430376,38.407473,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh &amp; Orchard View (SB)<br/>ID: 3323719</description>
+		<Point> 
+			<coordinates>
+			-121.429605,38.406525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh &amp; Orchard View (SB)<br/>ID: 3323720</description>
+		<Point> 
+			<coordinates>
+			-121.429378,38.403754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh Pkwy at Harvest Park Dr<br/>ID: 3323718</description>
+		<Point> 
+			<coordinates>
+			-121.430349,38.407423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh Pkwy at Harvest Park Dr<br/>ID: 3323721</description>
+		<Point> 
+			<coordinates>
+			-121.430443,38.402249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh Pkwy at Harvest Park Dr<br/>ID: 3323907</description>
+		<Point> 
+			<coordinates>
+			-121.430461,38.40219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh Pkwy at Radmere Dr<br/>ID: 3323908</description>
+		<Point> 
+			<coordinates>
+			-121.429397,38.403717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cresleigh Pwky at Blue Poppy Dr<br/>ID: 3323909</description>
+		<Point> 
+			<coordinates>
+			-121.429582,38.406491,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; 9286 / Church (SB)<br/>ID: 3346984</description>
+		<Point> 
+			<coordinates>
+			-121.390674,38.420322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; 9401 Office Building (NB)<br/>ID: 3336367</description>
+		<Point> 
+			<coordinates>
+			-121.39137,38.415565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Banff Vista (NB)<br/>ID: 3336366</description>
+		<Point> 
+			<coordinates>
+			-121.390286,38.413254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Bond (NB)<br/>ID: 3330074</description>
+		<Point> 
+			<coordinates>
+			-121.390211,38.424249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Bond (NB)<br/>ID: 3336370</description>
+		<Point> 
+			<coordinates>
+			-121.390199,38.421837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Elkmont (NB)<br/>ID: 3324720</description>
+		<Point> 
+			<coordinates>
+			-121.366611,38.381522,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Emerald Vista (NB)<br/>ID: 3336365</description>
+		<Point> 
+			<coordinates>
+			-121.384638,38.410645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; First Baptist Church (NB)<br/>ID: 3330077</description>
+		<Point> 
+			<coordinates>
+			-121.398652,38.431751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Froniter Driveway (NB)<br/>ID: 3336369</description>
+		<Point> 
+			<coordinates>
+			-121.390447,38.420645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Geneva Pointe (NB)<br/>ID: 3326987</description>
+		<Point> 
+			<coordinates>
+			-121.407321,38.452255,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Hampton Oak (NB)<br/>ID: 3324721</description>
+		<Point> 
+			<coordinates>
+			-121.369184,38.38416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Hampton Oak (SB)<br/>ID: 3324341</description>
+		<Point> 
+			<coordinates>
+			-121.369832,38.384808,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; IHOP (EB)<br/>ID: 3330606</description>
+		<Point> 
+			<coordinates>
+			-121.392059,38.425237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Sheldon Place (NB)<br/>ID: 3326986</description>
+		<Point> 
+			<coordinates>
+			-121.404628,38.445113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; South East Lawn Mortuary (NB)<br/>ID: 3330076</description>
+		<Point> 
+			<coordinates>
+			-121.396919,38.427911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; South East Lawn Mortuary (SB)<br/>ID: 3330604</description>
+		<Point> 
+			<coordinates>
+			-121.396937,38.427947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; Stockman Bank (SB)<br/>ID: 3346985</description>
+		<Point> 
+			<coordinates>
+			-121.392142,38.417899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd &amp; the Meadows (NB)<br/>ID: 3336368</description>
+		<Point> 
+			<coordinates>
+			-121.391826,38.418624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd at Bond Rd (Marketplace 99)<br/>ID: 3330075</description>
+		<Point> 
+			<coordinates>
+			-121.393564,38.425335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East Stockton Blvd at Staples<br/>ID: 3330605</description>
+		<Point> 
+			<coordinates>
+			-121.395258,38.425521,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; 3rd Ave (WB)<br/>ID: 3326318</description>
+		<Point> 
+			<coordinates>
+			-121.368645,38.40901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Apple Mill (EB)<br/>ID: 3326598</description>
+		<Point> 
+			<coordinates>
+			-121.344461,38.409064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Auto Center Dr (EB)<br/>ID: 3326586</description>
+		<Point> 
+			<coordinates>
+			-121.39225,38.408963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Auto Center Dr (WB)<br/>ID: 3326323</description>
+		<Point> 
+			<coordinates>
+			-121.391008,38.409167,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Big Horn (WB)<br/>ID: 3326326</description>
+		<Point> 
+			<coordinates>
+			-121.406003,38.409158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Big Timber (WB)<br/>ID: 3326325</description>
+		<Point> 
+			<coordinates>
+			-121.401806,38.409108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Black Swan (EB)<br/>ID: 3326597</description>
+		<Point> 
+			<coordinates>
+			-121.350009,38.409039,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Clarke Farms (WB)<br/>ID: 3325810</description>
+		<Point> 
+			<coordinates>
+			-121.340412,38.409139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Cresleigh (EB)<br/>ID: 3323717</description>
+		<Point> 
+			<coordinates>
+			-121.431912,38.408744,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; CSD Offices (EB)<br/>ID: 3326591</description>
+		<Point> 
+			<coordinates>
+			-121.373938,38.409007,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Dayflower (WB)<br/>ID: 3326312</description>
+		<Point> 
+			<coordinates>
+			-121.34298,38.409144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; East Park (WB)<br/>ID: 3326313</description>
+		<Point> 
+			<coordinates>
+			-121.345996,38.409131,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; East Stockton Blvd (EB)<br/>ID: 3326587</description>
+		<Point> 
+			<coordinates>
+			-121.385448,38.408982,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; East Stockton Blvd (EB)<br/>ID: 3326588</description>
+		<Point> 
+			<coordinates>
+			-121.383546,38.408919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; East Taron (EB)<br/>ID: 3323006</description>
+		<Point> 
+			<coordinates>
+			-121.466782,38.403964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; East Taron (WB)<br/>ID: 3323428</description>
+		<Point> 
+			<coordinates>
+			-121.467395,38.404028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Elk Grove Florin (EB)<br/>ID: 3326592</description>
+		<Point> 
+			<coordinates>
+			-121.370814,38.408949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Elk Grove Florin (WB)<br/>ID: 3326319</description>
+		<Point> 
+			<coordinates>
+			-121.372154,38.409068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Emerald Oak (EB)<br/>ID: 3326589</description>
+		<Point> 
+			<coordinates>
+			-121.380287,38.408972,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Emerald Oaks (WB)<br/>ID: 3326321</description>
+		<Point> 
+			<coordinates>
+			-121.379444,38.408974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Emerald Vista (WB)<br/>ID: 3326322</description>
+		<Point> 
+			<coordinates>
+			-121.38522,38.409099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Fire Poppy (EB)<br/>ID: 3323716</description>
+		<Point> 
+			<coordinates>
+			-121.440003,38.408657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Fire Poppy (WB)<br/>ID: 3323912</description>
+		<Point> 
+			<coordinates>
+			-121.440298,38.408784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Foulks Ranch (WB)<br/>ID: 3323911</description>
+		<Point> 
+			<coordinates>
+			-121.431386,38.408876,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Four Winds Dr (EB)<br/>ID: 3323008</description>
+		<Point> 
+			<coordinates>
+			-121.46026,38.407794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Four Winds Dr (WB)<br/>ID: 3323426</description>
+		<Point> 
+			<coordinates>
+			-121.460619,38.407763,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Franklin (EB)<br/>ID: 3323009</description>
+		<Point> 
+			<coordinates>
+			-121.449068,38.408608,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Franklin (WB)<br/>ID: 3323425</description>
+		<Point> 
+			<coordinates>
+			-121.450818,38.408747,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Gage (EB)<br/>ID: 3326593</description>
+		<Point> 
+			<coordinates>
+			-121.367284,38.40901,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Hagerman (EB)<br/>ID: 3326599</description>
+		<Point> 
+			<coordinates>
+			-121.342086,38.409069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Kent (EB)<br/>ID: 3326595</description>
+		<Point> 
+			<coordinates>
+			-121.359118,38.409037,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Kent (WB)<br/>ID: 3326316</description>
+		<Point> 
+			<coordinates>
+			-121.359232,38.409037,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Laguna Springs (WB)<br/>ID: 3326324</description>
+		<Point> 
+			<coordinates>
+			-121.39625,38.409114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Mainline (EB)<br/>ID: 3326060</description>
+		<Point> 
+			<coordinates>
+			-121.337367,38.409068,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Orchard Valley (EB)<br/>ID: 3323010</description>
+		<Point> 
+			<coordinates>
+			-121.443838,38.408637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; School (EB)<br/>ID: 3326594</description>
+		<Point> 
+			<coordinates>
+			-121.362049,38.409019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; School (WB)<br/>ID: 3326317</description>
+		<Point> 
+			<coordinates>
+			-121.361844,38.409023,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Shore Lake Dr (EB)<br/>ID: 3323007</description>
+		<Point> 
+			<coordinates>
+			-121.464047,38.404821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Shore Lake Dr (WB)<br/>ID: 3323427</description>
+		<Point> 
+			<coordinates>
+			-121.464702,38.404682,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Stonelake Club Dr (EB)<br/>ID: 3323005</description>
+		<Point> 
+			<coordinates>
+			-121.47065,38.404286,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Stonelake Club Dr (WB)<br/>ID: 3323429</description>
+		<Point> 
+			<coordinates>
+			-121.471117,38.404604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Strong Park (WB)<br/>ID: 3326314</description>
+		<Point> 
+			<coordinates>
+			-121.35025,38.409107,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Waterfowl (EB)<br/>ID: 3323004</description>
+		<Point> 
+			<coordinates>
+			-121.473974,38.406463,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Waterman (EB)<br/>ID: 3326596</description>
+		<Point> 
+			<coordinates>
+			-121.352229,38.409064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Waterman (WB)<br/>ID: 3326315</description>
+		<Point> 
+			<coordinates>
+			-121.354132,38.409053,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Williamson (EB)<br/>ID: 3326590</description>
+		<Point> 
+			<coordinates>
+			-121.37713,38.408984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Williamson (WB)<br/>ID: 3326320</description>
+		<Point> 
+			<coordinates>
+			-121.376686,38.408987,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Wymark (EB)<br/>ID: 3326583</description>
+		<Point> 
+			<coordinates>
+			-121.408444,38.409019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd &amp; Wymark (WB)<br/>ID: 3326327</description>
+		<Point> 
+			<coordinates>
+			-121.410215,38.409134,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd at East Stockton Blvd<br/>ID: 3346986</description>
+		<Point> 
+			<coordinates>
+			-121.384442,38.410064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd at Harbour Point Dr.<br/>ID: 3327885</description>
+		<Point> 
+			<coordinates>
+			-121.477001,38.408504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd at W Taron Dr<br/>ID: 3323003</description>
+		<Point> 
+			<coordinates>
+			-121.476499,38.408152,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd. &amp; Big Horn (SB)<br/>ID: 2628080</description>
+		<Point> 
+			<coordinates>
+			-121.404526,38.408995,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd. &amp; Bruceville (SB)<br/>ID: 2628078</description>
+		<Point> 
+			<coordinates>
+			-121.416843,38.408906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Blvd. &amp; Laguna Springs (SB)<br/>ID: 2628081</description>
+		<Point> 
+			<coordinates>
+			-121.395101,38.408974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; 2nd Ave (NB)<br/>ID: 3324731</description>
+		<Point> 
+			<coordinates>
+			-121.3715,38.413553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; 2nd Ave (SB)<br/>ID: 3324331</description>
+		<Point> 
+			<coordinates>
+			-121.371666,38.413143,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Across Castle Park (SB)<br/>ID: 3324339</description>
+		<Point> 
+			<coordinates>
+			-121.371439,38.390495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Aizenberg Circle (NB)<br/>ID: 3324733</description>
+		<Point> 
+			<coordinates>
+			-121.371597,38.419905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Bond (NB)<br/>ID: 3326069</description>
+		<Point> 
+			<coordinates>
+			-121.371548,38.42414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Cadura Circle (SB)<br/>ID: 3324335</description>
+		<Point> 
+			<coordinates>
+			-121.371496,38.403031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Camden (NB)<br/>ID: 3326070</description>
+		<Point> 
+			<coordinates>
+			-121.371562,38.426389,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Camden (SB)<br/>ID: 3325799</description>
+		<Point> 
+			<coordinates>
+			-121.371715,38.426681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; East Stockton Blvd (SB)<br/>ID: 3324340</description>
+		<Point> 
+			<coordinates>
+			-121.371441,38.387804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Elk Grove Blvd (NB)<br/>ID: 3324730</description>
+		<Point> 
+			<coordinates>
+			-121.371516,38.409937,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Elk Grove High School (SB)<br/>ID: 3324336</description>
+		<Point> 
+			<coordinates>
+			-121.371479,38.400843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Emerald Park (NB)<br/>ID: 3324729</description>
+		<Point> 
+			<coordinates>
+			-121.371499,38.406184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Halverson (SB)<br/>ID: 3324329</description>
+		<Point> 
+			<coordinates>
+			-121.371633,38.418739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Kelsey (SB)<br/>ID: 3324330</description>
+		<Point> 
+			<coordinates>
+			-121.371637,38.415759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Kerr Middle School (SB)<br/>ID: 3324332</description>
+		<Point> 
+			<coordinates>
+			-121.37163,38.411028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; La Haya (NB)<br/>ID: 3324732</description>
+		<Point> 
+			<coordinates>
+			-121.371557,38.416825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Lismore (NB)<br/>ID: 3324726</description>
+		<Point> 
+			<coordinates>
+			-121.371463,38.398819,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Lismore (SB)<br/>ID: 3324337</description>
+		<Point> 
+			<coordinates>
+			-121.371455,38.397415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Plaza Park Dr (NB)<br/>ID: 3324728</description>
+		<Point> 
+			<coordinates>
+			-121.371488,38.40326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Sheldon (SB)<br/>ID: 3325798</description>
+		<Point> 
+			<coordinates>
+			-121.371712,38.437188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Tralee (NB)<br/>ID: 3324727</description>
+		<Point> 
+			<coordinates>
+			-121.371483,38.400958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove Florin &amp; Vintage Oaks Apartments (NB)<br/>ID: 3324734</description>
+		<Point> 
+			<coordinates>
+			-121.371545,38.421933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Across Emerald Park<br/>ID: 3324334</description>
+		<Point> 
+			<coordinates>
+			-121.371496,38.405966,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Across Park Meadows<br/>ID: 3324338</description>
+		<Point> 
+			<coordinates>
+			-121.371448,38.394652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Avalon Falls<br/>ID: 3352731</description>
+		<Point> 
+			<coordinates>
+			-121.371728,38.440031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Black Kite Dr<br/>ID: 3352729</description>
+		<Point> 
+			<coordinates>
+			-121.371755,38.44467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Brown Rd<br/>ID: 3352086</description>
+		<Point> 
+			<coordinates>
+			-121.37161,38.450243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Calvine Rd<br/>ID: 3352727</description>
+		<Point> 
+			<coordinates>
+			-121.371781,38.451642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Carmel Valley Wy<br/>ID: 3324722</description>
+		<Point> 
+			<coordinates>
+			-121.371427,38.387707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Castle Park Dr<br/>ID: 3330168</description>
+		<Point> 
+			<coordinates>
+			-121.371437,38.390443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Elk Grove Blvd<br/>ID: 3324333</description>
+		<Point> 
+			<coordinates>
+			-121.371601,38.408287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Four Seasons Dr<br/>ID: 3352084</description>
+		<Point> 
+			<coordinates>
+			-121.371551,38.441579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Four Seasons Dr<br/>ID: 3352730</description>
+		<Point> 
+			<coordinates>
+			-121.371731,38.441523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Heritage Hill Dr<br/>ID: 3352085</description>
+		<Point> 
+			<coordinates>
+			-121.371565,38.445852,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Laguna Creek Bridge<br/>ID: 3324328</description>
+		<Point> 
+			<coordinates>
+			-121.371613,38.421059,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Park Meadows Dr<br/>ID: 3324724</description>
+		<Point> 
+			<coordinates>
+			-121.371452,38.395452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Park Wy<br/>ID: 3324725</description>
+		<Point> 
+			<coordinates>
+			-121.371455,38.397011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Sheldon Rd<br/>ID: 3352083</description>
+		<Point> 
+			<coordinates>
+			-121.371524,38.438695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elk Grove-Florin Rd at Silverberry Ave<br/>ID: 3352728</description>
+		<Point> 
+			<coordinates>
+			-121.37177,38.448687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elkmont &amp; Iron Rock Way (WB)<br/>ID: 3324348</description>
+		<Point> 
+			<coordinates>
+			-121.359517,38.385211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Bellaterra (NB)<br/>ID: 3323420</description>
+		<Point> 
+			<coordinates>
+			-121.439722,38.39871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Blossom Ranch (NB)<br/>ID: 3323421</description>
+		<Point> 
+			<coordinates>
+			-121.440509,38.399642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Blossom Ranch (SB)<br/>ID: 3323014</description>
+		<Point> 
+			<coordinates>
+			-121.440535,38.399679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Fox Trotter (SB)<br/>ID: 3323013</description>
+		<Point> 
+			<coordinates>
+			-121.440768,38.402517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Iris Meadow (SB)<br/>ID: 3323012</description>
+		<Point> 
+			<coordinates>
+			-121.440806,38.405024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Spring Flower (NB)<br/>ID: 3323423</description>
+		<Point> 
+			<coordinates>
+			-121.440811,38.405376,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Summer Glen (NB)<br/>ID: 3323422</description>
+		<Point> 
+			<coordinates>
+			-121.440764,38.402236,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy &amp; Vineland (SB)<br/>ID: 3323011</description>
+		<Point> 
+			<coordinates>
+			-121.440825,38.406931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fire Poppy Dr at Elk Grove Blvd<br/>ID: 3323424</description>
+		<Point> 
+			<coordinates>
+			-121.440831,38.407533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Castleview (SB)<br/>ID: 3323714</description>
+		<Point> 
+			<coordinates>
+			-121.449443,38.413553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Laguna Blvd (NB)<br/>ID: 3323916</description>
+		<Point> 
+			<coordinates>
+			-121.448016,38.422392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Laguna Park (NB)<br/>ID: 3325078</description>
+		<Point> 
+			<coordinates>
+			-121.44702,38.429141,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Laguna Woods (NB)<br/>ID: 3323915</description>
+		<Point> 
+			<coordinates>
+			-121.4483,38.420354,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Saint Augustine (NB)<br/>ID: 3323914</description>
+		<Point> 
+			<coordinates>
+			-121.44915,38.414316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Tegan (NB)<br/>ID: 3325077</description>
+		<Point> 
+			<coordinates>
+			-121.447568,38.425588,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin &amp; Tegan (SB)<br/>ID: 3325459</description>
+		<Point> 
+			<coordinates>
+			-121.447761,38.42534,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd &amp; Dwight Rd (SB)<br/>ID: 3325457</description>
+		<Point> 
+			<coordinates>
+			-121.446471,38.433577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd &amp; Laguna Blvd (NB)<br/>ID: 3325076</description>
+		<Point> 
+			<coordinates>
+			-121.447808,38.423816,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd &amp; Laguna Park Dr (SB)<br/>ID: 3325458</description>
+		<Point> 
+			<coordinates>
+			-121.447235,38.4289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd at Castleview Dr<br/>ID: 3323715</description>
+		<Point> 
+			<coordinates>
+			-121.449708,38.410846,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd at Elk Grove Blvd<br/>ID: 3323913</description>
+		<Point> 
+			<coordinates>
+			-121.449713,38.409417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd at Elliot Ranch Rd<br/>ID: 3323713</description>
+		<Point> 
+			<coordinates>
+			-121.449174,38.415331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd at Laguna Blvd<br/>ID: 3323711</description>
+		<Point> 
+			<coordinates>
+			-121.448211,38.422384,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin Blvd at Millstone Dr<br/>ID: 3323712</description>
+		<Point> 
+			<coordinates>
+			-121.44859,38.419511,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd &amp; Coop (NB)<br/>ID: 3323413</description>
+		<Point> 
+			<coordinates>
+			-121.433934,38.385947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd &amp; Hewitt (NB)<br/>ID: 3323415</description>
+		<Point> 
+			<coordinates>
+			-121.433139,38.391259,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd &amp; Jefjen (NB)<br/>ID: 3323414</description>
+		<Point> 
+			<coordinates>
+			-121.434096,38.389764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd at Coop Dr <br/>ID: 3323023</description>
+		<Point> 
+			<coordinates>
+			-121.433849,38.385749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd at Hewitt Wy<br/>ID: 3323021</description>
+		<Point> 
+			<coordinates>
+			-121.432972,38.391423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd at McLean Dr<br/>ID: 3323022</description>
+		<Point> 
+			<coordinates>
+			-121.434119,38.389465,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd at Whitelock Pkwy<br/>ID: 3323020</description>
+		<Point> 
+			<coordinates>
+			-121.431982,38.392703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Franklin High Rd at Whitelock Pkwy (Library)<br/>ID: 3323416</description>
+		<Point> 
+			<coordinates>
+			-121.431981,38.392672,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Geneva Pointe &amp; E Stockton (SB)<br/>ID: 3327459</description>
+		<Point> 
+			<coordinates>
+			-121.407332,38.452304,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hampton Oak &amp; Belcourt (EB)<br/>ID: 3324343</description>
+		<Point> 
+			<coordinates>
+			-121.365409,38.387561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hampton Oak &amp; Canyon View (EB)<br/>ID: 3324345</description>
+		<Point> 
+			<coordinates>
+			-121.3625,38.391289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hampton Oak &amp; East Valley Dr (EB)<br/>ID: 3324342</description>
+		<Point> 
+			<coordinates>
+			-121.367809,38.385945,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hampton Oak &amp; Westpark (EB)<br/>ID: 3324344</description>
+		<Point> 
+			<coordinates>
+			-121.363372,38.388947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Bastona (SB)<br/>ID: 3322998</description>
+		<Point> 
+			<coordinates>
+			-121.481404,38.419366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Buckminster (NB)<br/>ID: 3323434</description>
+		<Point> 
+			<coordinates>
+			-121.480922,38.422358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Buckminster (SB)<br/>ID: 3322997</description>
+		<Point> 
+			<coordinates>
+			-121.481345,38.4216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Elk Grove Blvd (NB)<br/>ID: 3323430</description>
+		<Point> 
+			<coordinates>
+			-121.477065,38.409021,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Galen (NB)<br/>ID: 3323433</description>
+		<Point> 
+			<coordinates>
+			-121.480863,38.418124,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Galen (SB)<br/>ID: 3322999</description>
+		<Point> 
+			<coordinates>
+			-121.480582,38.416899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Granite Park (NB)<br/>ID: 3323432</description>
+		<Point> 
+			<coordinates>
+			-121.479371,38.414249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Laguna Blvd (SB)<br/>ID: 3322995</description>
+		<Point> 
+			<coordinates>
+			-121.480701,38.42719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Maritime (NB)<br/>ID: 3323431</description>
+		<Point> 
+			<coordinates>
+			-121.477238,38.411296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Maritime (SB)<br/>ID: 3323000</description>
+		<Point> 
+			<coordinates>
+			-121.479687,38.414557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Maritime (SB)<br/>ID: 3323001</description>
+		<Point> 
+			<coordinates>
+			-121.477256,38.410859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point &amp; Renwick (NB)<br/>ID: 3323435</description>
+		<Point> 
+			<coordinates>
+			-121.480481,38.425955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point Dr at Longport Ct<br/>ID: 3322996</description>
+		<Point> 
+			<coordinates>
+			-121.48069,38.424781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbour Point Dr. at Elk Grove Blvd<br/>ID: 3323002</description>
+		<Point> 
+			<coordinates>
+			-121.477248,38.408909,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: I St &amp; 12th St (WB)<br/>ID: 3326999</description>
+		<Point> 
+			<coordinates>
+			-121.490944,38.580868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Iron Rock Way &amp; Hampton Oak (SB)<br/>ID: 3324346</description>
+		<Point> 
+			<coordinates>
+			-121.361365,38.392372,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Iron Rock Way &amp; Union (SB)<br/>ID: 3324347</description>
+		<Point> 
+			<coordinates>
+			-121.360258,38.389524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 9th St.<br/>ID: 3327445</description>
+		<Point> 
+			<coordinates>
+			-121.494657,38.580613,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St &amp; 10th St (EB)<br/>ID: 3327446</description>
+		<Point> 
+			<coordinates>
+			-121.493307,38.580252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. &amp; 14th St.<br/>ID: 3327448</description>
+		<Point> 
+			<coordinates>
+			-121.487775,38.578793,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 11th St.<br/>ID: 3327447</description>
+		<Point> 
+			<coordinates>
+			-121.491536,38.579805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Apple Computer (WB)<br/>ID: 3322994</description>
+		<Point> 
+			<coordinates>
+			-121.474049,38.42803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Babson Dr (EB)<br/>ID: 3323709</description>
+		<Point> 
+			<coordinates>
+			-121.459265,38.424252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Big Horn (EB)<br/>ID: 3324315</description>
+		<Point> 
+			<coordinates>
+			-121.405478,38.421679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Big Horn (WB)<br/>ID: 3324743</description>
+		<Point> 
+			<coordinates>
+			-121.407407,38.421871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Bruceville (EB)<br/>ID: 3324313</description>
+		<Point> 
+			<coordinates>
+			-121.417103,38.423383,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Bruceville (WB)<br/>ID: 3324745</description>
+		<Point> 
+			<coordinates>
+			-121.418766,38.423523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Di Lusso (WB)<br/>ID: 3324746</description>
+		<Point> 
+			<coordinates>
+			-121.425354,38.423453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Dwight Rd (WB)<br/>ID: 3323919</description>
+		<Point> 
+			<coordinates>
+			-121.460405,38.424727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Elk Grove Creekbridge (EB)<br/>ID: 3324316</description>
+		<Point> 
+			<coordinates>
+			-121.4026,38.422157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Franklin (EB)<br/>ID: 3324308</description>
+		<Point> 
+			<coordinates>
+			-121.447179,38.423081,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Franklin (WB)<br/>ID: 3323917</description>
+		<Point> 
+			<coordinates>
+			-121.448691,38.423273,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Harbour Point (EB)<br/>ID: 3323436</description>
+		<Point> 
+			<coordinates>
+			-121.479768,38.42786,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Creek Bridge (WB)<br/>ID: 3324742</description>
+		<Point> 
+			<coordinates>
+			-121.402284,38.422434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Crest (WB)<br/>ID: 3324750</description>
+		<Point> 
+			<coordinates>
+			-121.444808,38.423363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Main (EB)<br/>ID: 3323437</description>
+		<Point> 
+			<coordinates>
+			-121.470573,38.427872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Manor (WB)<br/>ID: 3324749</description>
+		<Point> 
+			<coordinates>
+			-121.440948,38.423401,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Oaks (EB)<br/>ID: 3324309</description>
+		<Point> 
+			<coordinates>
+			-121.444207,38.423261,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Park (EB)<br/>ID: 3324310</description>
+		<Point> 
+			<coordinates>
+			-121.437155,38.423276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Park (EB)<br/>ID: 3324312</description>
+		<Point> 
+			<coordinates>
+			-121.424172,38.423329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Laguna Park (WB)<br/>ID: 3324748</description>
+		<Point> 
+			<coordinates>
+			-121.438311,38.423413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Neosho (EB)<br/>ID: 3323710</description>
+		<Point> 
+			<coordinates>
+			-121.452194,38.423176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Old Creek (EB)<br/>ID: 3324311</description>
+		<Point> 
+			<coordinates>
+			-121.430161,38.423295,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Old Creek (WB)<br/>ID: 3324747</description>
+		<Point> 
+			<coordinates>
+			-121.430498,38.423428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Santorini Dr (WB)<br/>ID: 3323918</description>
+		<Point> 
+			<coordinates>
+			-121.453619,38.42347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Trenholm (EB)<br/>ID: 3324314</description>
+		<Point> 
+			<coordinates>
+			-121.412024,38.422869,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; Trenholm (WB)<br/>ID: 3324744</description>
+		<Point> 
+			<coordinates>
+			-121.413292,38.423371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd &amp; West Stockton (WB)<br/>ID: 3324741</description>
+		<Point> 
+			<coordinates>
+			-121.400884,38.422838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd. &amp; Dwight Rd. (NB)<br/>ID: 2627854</description>
+		<Point> 
+			<coordinates>
+			-121.460413,38.424731,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd. &amp; Harbour Point Dr. (NB)<br/>ID: 2627858</description>
+		<Point> 
+			<coordinates>
+			-121.481377,38.427782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Blvd. &amp; Laguna Main St. (NB)<br/>ID: 2627856</description>
+		<Point> 
+			<coordinates>
+			-121.470906,38.428026,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Palms Wy. at Laguna Springs Dr. (City Hall)<br/>ID: 3324319</description>
+		<Point> 
+			<coordinates>
+			-121.395061,38.417679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Springs &amp; Laguna Blvd (SB)<br/>ID: 3324317</description>
+		<Point> 
+			<coordinates>
+			-121.399626,38.422268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Springs &amp; West Stockton (NB)<br/>ID: 2627836</description>
+		<Point> 
+			<coordinates>
+			-121.397554,38.420925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Springs &amp; West Stockton (SB)<br/>ID: 3324318</description>
+		<Point> 
+			<coordinates>
+			-121.397472,38.420675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Laguna Springs Dr at West Stockton Blvd (OB)<br/>ID: 3539951</description>
+		<Point> 
+			<coordinates>
+			-121.397451,38.42065,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lewis Stein &amp; Big Horn (NB)<br/>ID: 3322307</description>
+		<Point> 
+			<coordinates>
+			-121.411864,38.429405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lewis Stein &amp; Sheldon (SB)<br/>ID: 3322609</description>
+		<Point> 
+			<coordinates>
+			-121.408729,38.436926,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lewis Stein &amp; West Stockton (NB)<br/>ID: 3322308</description>
+		<Point> 
+			<coordinates>
+			-121.408627,38.434696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lewis Stein Rd at W. Stockton Blvd<br/>ID: 3322610</description>
+		<Point> 
+			<coordinates>
+			-121.408993,38.433604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Longleaf Dr at Big Horn Blvd<br/>ID: 3351121</description>
+		<Point> 
+			<coordinates>
+			-121.403724,38.417021,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Longleaf Dr at Big Horn Blvd<br/>ID: 3351540</description>
+		<Point> 
+			<coordinates>
+			-121.403022,38.417014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Longleaf Dr at Laguna Springs Dr<br/>ID: 3351120</description>
+		<Point> 
+			<coordinates>
+			-121.40079,38.417725,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Longleaf Dr at Laguna Springs Dr<br/>ID: 3351541</description>
+		<Point> 
+			<coordinates>
+			-121.400656,38.418362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N St &amp; 15th St<br/>ID: 3327450</description>
+		<Point> 
+			<coordinates>
+			-121.488385,38.574233,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P &amp; 5th<br/>ID: 3327007</description>
+		<Point> 
+			<coordinates>
+			-121.503355,38.575565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P &amp; 9th<br/>ID: 3327005</description>
+		<Point> 
+			<coordinates>
+			-121.498036,38.574128,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 7th St (WB)<br/>ID: 3327006</description>
+		<Point> 
+			<coordinates>
+			-121.500742,38.574843,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 18th St (WB)<br/>ID: 3326996</description>
+		<Point> 
+			<coordinates>
+			-121.485757,38.57088,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 19th St (WB)<br/>ID: 3326995</description>
+		<Point> 
+			<coordinates>
+			-121.484429,38.570513,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 20th St (WB)<br/>ID: 3326994</description>
+		<Point> 
+			<coordinates>
+			-121.483195,38.570175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 22nd St (WB)<br/>ID: 3326992</description>
+		<Point> 
+			<coordinates>
+			-121.48046,38.569452,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 26th St (WB)<br/>ID: 3326990</description>
+		<Point> 
+			<coordinates>
+			-121.475066,38.568003,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St &amp; 29th St (WB)<br/>ID: 3326989</description>
+		<Point> 
+			<coordinates>
+			-121.471166,38.566965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St at 4th St<br/>ID: 3327008</description>
+		<Point> 
+			<coordinates>
+			-121.504575,38.575875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 21st St.<br/>ID: 3326993</description>
+		<Point> 
+			<coordinates>
+			-121.481793,38.569798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 24th St.<br/>ID: 3326991</description>
+		<Point> 
+			<coordinates>
+			-121.477694,38.56871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Across Villa Serena (EB)<br/>ID: 3325790</description>
+		<Point> 
+			<coordinates>
+			-121.392679,38.445951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Auberry (EB)<br/>ID: 3325787</description>
+		<Point> 
+			<coordinates>
+			-121.398647,38.448005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Auberry (NB)<br/>ID: 3326081</description>
+		<Point> 
+			<coordinates>
+			-121.400316,38.448133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Blue Maiden (NB)<br/>ID: 3326077</description>
+		<Point> 
+			<coordinates>
+			-121.392046,38.444609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Caldicot (SB)<br/>ID: 3325791</description>
+		<Point> 
+			<coordinates>
+			-121.392149,38.443943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Calvine (SB)<br/>ID: 3325784</description>
+		<Point> 
+			<coordinates>
+			-121.405568,38.455416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Ed Harris Middle School (EB)<br/>ID: 3325789</description>
+		<Point> 
+			<coordinates>
+			-121.394495,38.447471,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Ed Harris Middle School (NB)<br/>ID: 3326079</description>
+		<Point> 
+			<coordinates>
+			-121.394779,38.447713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Fales Park (NB)<br/>ID: 3326082</description>
+		<Point> 
+			<coordinates>
+			-121.403419,38.449361,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Fales Park (SB)<br/>ID: 3325786</description>
+		<Point> 
+			<coordinates>
+			-121.403495,38.449282,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Geneva Pointe (NB)<br/>ID: 3326083</description>
+		<Point> 
+			<coordinates>
+			-121.404958,38.45226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Geneva Pointe (SB)<br/>ID: 3325785</description>
+		<Point> 
+			<coordinates>
+			-121.404994,38.451946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Monterey Trail High School (EB)<br/>ID: 3325788</description>
+		<Point> 
+			<coordinates>
+			-121.396258,38.447974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Monterey Trail High School (NB)<br/>ID: 3326080</description>
+		<Point> 
+			<coordinates>
+			-121.397346,38.448115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Sheldon (NB)<br/>ID: 3326075</description>
+		<Point> 
+			<coordinates>
+			-121.392092,38.438734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Villa Serena (NB)<br/>ID: 3326078</description>
+		<Point> 
+			<coordinates>
+			-121.392934,38.446464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Villenueve (SB)<br/>ID: 3325792</description>
+		<Point> 
+			<coordinates>
+			-121.392121,38.440089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Power Inn &amp; Vista Brook (NB)<br/>ID: 3326076</description>
+		<Point> 
+			<coordinates>
+			-121.392003,38.440737,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Promenade Pkwy &amp; Bilby Rd.<br/>ID: 8050011</description>
+		<Point> 
+			<coordinates>
+			-121.3728,38.378867,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Promenade Pkwy &amp; Kyler Rd (Kaiser) (SB)<br/>ID: 5377089</description>
+		<Point> 
+			<coordinates>
+			-121.372928,38.383274,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Promenade Pkwy at Kaiser (NB)<br/>ID: 3322299</description>
+		<Point> 
+			<coordinates>
+			-121.372727,38.384436,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St &amp; 16th St (EB)<br/>ID: 3327451</description>
+		<Point> 
+			<coordinates>
+			-121.488289,38.570317,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St &amp; 18th St (EB)<br/>ID: 3327452</description>
+		<Point> 
+			<coordinates>
+			-121.486073,38.569724,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St &amp; 25th St (EB)<br/>ID: 3327456</description>
+		<Point> 
+			<coordinates>
+			-121.476244,38.567095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St &amp; 28th St (EB)<br/>ID: 3327457</description>
+		<Point> 
+			<coordinates>
+			-121.472251,38.566028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St &amp; 5th St<br/>ID: 3327443</description>
+		<Point> 
+			<coordinates>
+			-121.503091,38.57426,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St at RR<br/>ID: 3327453</description>
+		<Point> 
+			<coordinates>
+			-121.483944,38.569147,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. &amp; 8th St. (NB)<br/>ID: 2627861</description>
+		<Point> 
+			<coordinates>
+			-121.499359,38.573567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 7th St.<br/>ID: 3327444</description>
+		<Point> 
+			<coordinates>
+			-121.500404,38.573556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 21st St.<br/>ID: 3327454</description>
+		<Point> 
+			<coordinates>
+			-121.481616,38.56853,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 23rd St.<br/>ID: 3327455</description>
+		<Point> 
+			<coordinates>
+			-121.478959,38.567815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Elk Grove Florin (WB)<br/>ID: 3326071</description>
+		<Point> 
+			<coordinates>
+			-121.372527,38.438113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Freesia (WB)<br/>ID: 3326072</description>
+		<Point> 
+			<coordinates>
+			-121.38051,38.438058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Harding Hall (EB)<br/>ID: 3325794</description>
+		<Point> 
+			<coordinates>
+			-121.386787,38.437951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Lewis Stein (EB)<br/>ID: 3326985</description>
+		<Point> 
+			<coordinates>
+			-121.407788,38.437994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Lewis Stein (WB)<br/>ID: 3322309</description>
+		<Point> 
+			<coordinates>
+			-121.409628,38.438151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Power Inn (EB)<br/>ID: 3325793</description>
+		<Point> 
+			<coordinates>
+			-121.391247,38.437946,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Sheldon Creek (EB)<br/>ID: 3325795</description>
+		<Point> 
+			<coordinates>
+			-121.383157,38.437952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Springhurst (EB)<br/>ID: 3325796</description>
+		<Point> 
+			<coordinates>
+			-121.379507,38.437968,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Summer Pointe (WB)<br/>ID: 3326074</description>
+		<Point> 
+			<coordinates>
+			-121.387742,38.438005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; Vytina (WB)<br/>ID: 3326073</description>
+		<Point> 
+			<coordinates>
+			-121.384715,38.438048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon &amp; West Wing (WB)<br/>ID: 3322310</description>
+		<Point> 
+			<coordinates>
+			-121.411551,38.438102,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon Park &amp; Ride<br/>ID: 3330078</description>
+		<Point> 
+			<coordinates>
+			-121.398709,38.435667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon Park &amp; Ride<br/>ID: 3330603</description>
+		<Point> 
+			<coordinates>
+			-121.399093,38.435347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon Rd at Bruceville Rd<br/>ID: 3322311</description>
+		<Point> 
+			<coordinates>
+			-121.415564,38.438091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sheldon Rd at Wheelton Rd<br/>ID: 3325797</description>
+		<Point> 
+			<coordinates>
+			-121.373867,38.437984,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stathos Dr at Jillson Wy<br/>ID: 3323024</description>
+		<Point> 
+			<coordinates>
+			-121.431513,38.38042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stathos Dr at Jillson Wy<br/>ID: 3323412</description>
+		<Point> 
+			<coordinates>
+			-121.431512,38.380489,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terrazzo Dr at Bellaterra Dr<br/>ID: 3323724</description>
+		<Point> 
+			<coordinates>
+			-121.42184,38.397792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terrazzo Dr at Bruceville Rd<br/>ID: 3323903</description>
+		<Point> 
+			<coordinates>
+			-121.418157,38.397692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turquoise &amp; Calvine (SB)<br/>ID: 3325100</description>
+		<Point> 
+			<coordinates>
+			-121.321886,38.452996,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vaux &amp; Laguna Main (EB)<br/>ID: 3332067</description>
+		<Point> 
+			<coordinates>
+			-121.469587,38.426425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vaux &amp; Laguna Main (WB)<br/>ID: 3322993</description>
+		<Point> 
+			<coordinates>
+			-121.4699,38.426434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock at Big Horn Blvd<br/>ID: 3322622</description>
+		<Point> 
+			<coordinates>
+			-121.398364,38.394377,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Atkins (EB)<br/>ID: 3323018</description>
+		<Point> 
+			<coordinates>
+			-121.437391,38.393805,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Bellaterra (EB)<br/>ID: 3323017</description>
+		<Point> 
+			<coordinates>
+			-121.440387,38.393789,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Big Horn (WB)<br/>ID: 3323407</description>
+		<Point> 
+			<coordinates>
+			-121.40014,38.394498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Bruceville (EB)<br/>ID: 3323026</description>
+		<Point> 
+			<coordinates>
+			-121.416748,38.39412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Franklin High Rd (WB)<br/>ID: 3323417</description>
+		<Point> 
+			<coordinates>
+			-121.432187,38.393938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Ped Crosswalk (EB)<br/>ID: 3323027</description>
+		<Point> 
+			<coordinates>
+			-121.408434,38.394163,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Ped Crosswalk (WB)<br/>ID: 3323408</description>
+		<Point> 
+			<coordinates>
+			-121.408345,38.39426,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Whitelock Pkwy &amp; Shana (EB)<br/>ID: 3323019</description>
+		<Point> 
+			<coordinates>
+			-121.434718,38.393825,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

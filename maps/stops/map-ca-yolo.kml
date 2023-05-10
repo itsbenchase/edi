@@ -1,0 +1,6962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-yolo stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1st St. at C St. EB<br/>ID: 23107</description>
+		<Point> 
+			<coordinates>
+			-121.742615,38.541593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1st St. at C St. EB<br/>ID: 23107</description>
+		<Point> 
+			<coordinates>
+			-121.742615,38.541593,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1st St. at D St. WB<br/>ID: 23106</description>
+		<Point> 
+			<coordinates>
+			-121.742088,38.541711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1st St. at D St. WB<br/>ID: 23106</description>
+		<Point> 
+			<coordinates>
+			-121.742088,38.541711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Beamer NB<br/>ID: 23301</description>
+		<Point> 
+			<coordinates>
+			-121.770529,38.684405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Beamer NB<br/>ID: 23301</description>
+		<Point> 
+			<coordinates>
+			-121.770529,38.684405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Beamer SB<br/>ID: 23300</description>
+		<Point> 
+			<coordinates>
+			-121.770581,38.684232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Beamer SB<br/>ID: 23300</description>
+		<Point> 
+			<coordinates>
+			-121.770581,38.684232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Capitol Mall SB<br/>ID: 23386</description>
+		<Point> 
+			<coordinates>
+			-121.504388,38.579112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Capitol Mall SB<br/>ID: 23386</description>
+		<Point> 
+			<coordinates>
+			-121.504388,38.579112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Clover NB<br/>ID: 23298</description>
+		<Point> 
+			<coordinates>
+			-121.770533,38.682547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Clover NB<br/>ID: 23298</description>
+		<Point> 
+			<coordinates>
+			-121.770533,38.682547,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Clover SB<br/>ID: 23299</description>
+		<Point> 
+			<coordinates>
+			-121.770573,38.682232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at Clover SB<br/>ID: 23299</description>
+		<Point> 
+			<coordinates>
+			-121.770573,38.682232,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at O St.<br/>ID: 23535</description>
+		<Point> 
+			<coordinates>
+			-121.505076,38.57754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd St. at O St.<br/>ID: 23535</description>
+		<Point> 
+			<coordinates>
+			-121.505076,38.57754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Cantrill/Greystone (WB)<br/>ID: 22072</description>
+		<Point> 
+			<coordinates>
+			-121.721328,38.551437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Cantrill/Greystone (WB)<br/>ID: 22072</description>
+		<Point> 
+			<coordinates>
+			-121.721328,38.551437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Cantrill/Police Station  (EB)<br/>ID: 22073</description>
+		<Point> 
+			<coordinates>
+			-121.719092,38.55189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Cantrill/Police Station  (EB)<br/>ID: 22073</description>
+		<Point> 
+			<coordinates>
+			-121.719092,38.55189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pelz Bike Path (WB)<br/>ID: 22069</description>
+		<Point> 
+			<coordinates>
+			-121.709313,38.554788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pelz Bike Path (WB)<br/>ID: 22069</description>
+		<Point> 
+			<coordinates>
+			-121.709313,38.554788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pole Line Rd/D.M.V (EB)<br/>ID: 22076</description>
+		<Point> 
+			<coordinates>
+			-121.727636,38.548709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pole Line Rd/D.M.V (EB)<br/>ID: 22076</description>
+		<Point> 
+			<coordinates>
+			-121.727636,38.548709,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pole Line Rd/D.M.V (WB)<br/>ID: 22077</description>
+		<Point> 
+			<coordinates>
+			-121.72776,38.548716,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Pole Line Rd/D.M.V (WB)<br/>ID: 22077</description>
+		<Point> 
+			<coordinates>
+			-121.72776,38.548716,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Post Office / Pole Line (EB)<br/>ID: 22075</description>
+		<Point> 
+			<coordinates>
+			-121.724651,38.549188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Post Office / Pole Line (EB)<br/>ID: 22075</description>
+		<Point> 
+			<coordinates>
+			-121.724651,38.549188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Post Office / Pole Line Rd (WB)<br/>ID: 22074</description>
+		<Point> 
+			<coordinates>
+			-121.724891,38.549099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Post Office / Pole Line Rd (WB)<br/>ID: 22074</description>
+		<Point> 
+			<coordinates>
+			-121.724891,38.549099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Spafford (WB)<br/>ID: 22238</description>
+		<Point> 
+			<coordinates>
+			-121.713557,38.553301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Spafford (WB)<br/>ID: 22238</description>
+		<Point> 
+			<coordinates>
+			-121.713557,38.553301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Spafford St (EB)<br/>ID: 22237</description>
+		<Point> 
+			<coordinates>
+			-121.712475,38.553459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Spafford St (EB)<br/>ID: 22237</description>
+		<Point> 
+			<coordinates>
+			-121.712475,38.553459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Windmere Apts. (EB)<br/>ID: 22070</description>
+		<Point> 
+			<coordinates>
+			-121.709777,38.554622,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St &amp; Windmere Apts. (EB)<br/>ID: 22070</description>
+		<Point> 
+			<coordinates>
+			-121.709777,38.554622,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St at G St.<br/>ID: 22028</description>
+		<Point> 
+			<coordinates>
+			-121.739605,38.547396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St at G St.<br/>ID: 22028</description>
+		<Point> 
+			<coordinates>
+			-121.739605,38.547396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St at I St. <br/>ID: 22029</description>
+		<Point> 
+			<coordinates>
+			-121.737808,38.54797,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St at I St. <br/>ID: 22029</description>
+		<Point> 
+			<coordinates>
+			-121.737808,38.54797,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at C St.<br/>ID: 23223</description>
+		<Point> 
+			<coordinates>
+			-121.512649,38.589063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at C St.<br/>ID: 23223</description>
+		<Point> 
+			<coordinates>
+			-121.512649,38.589063,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at D St. EB<br/>ID: 23000</description>
+		<Point> 
+			<coordinates>
+			-121.743122,38.546952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at D St. EB<br/>ID: 23000</description>
+		<Point> 
+			<coordinates>
+			-121.743122,38.546952,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at D St. WB<br/>ID: 23110</description>
+		<Point> 
+			<coordinates>
+			-121.743364,38.546943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at D St. WB<br/>ID: 23110</description>
+		<Point> 
+			<coordinates>
+			-121.743364,38.546943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at L St.<br/>ID: 23387</description>
+		<Point> 
+			<coordinates>
+			-121.501364,38.579132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at L St.<br/>ID: 23387</description>
+		<Point> 
+			<coordinates>
+			-121.501364,38.579132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at N St.<br/>ID: 23388</description>
+		<Point> 
+			<coordinates>
+			-121.50181,38.578095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at N St.<br/>ID: 23388</description>
+		<Point> 
+			<coordinates>
+			-121.50181,38.578095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at O St.<br/>ID: 23531</description>
+		<Point> 
+			<coordinates>
+			-121.502445,38.576661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at O St.<br/>ID: 23531</description>
+		<Point> 
+			<coordinates>
+			-121.502445,38.576661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at P St.<br/>ID: 23389</description>
+		<Point> 
+			<coordinates>
+			-121.502897,38.575618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th St. at P St.<br/>ID: 23389</description>
+		<Point> 
+			<coordinates>
+			-121.502897,38.575618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th St. at Andrew SB<br/>ID: 23224</description>
+		<Point> 
+			<coordinates>
+			-121.513828,38.590834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th St. at Andrew SB<br/>ID: 23224</description>
+		<Point> 
+			<coordinates>
+			-121.513828,38.590834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at Capitol Mall<br/>ID: 23390</description>
+		<Point> 
+			<coordinates>
+			-121.496455,38.576922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at Capitol Mall<br/>ID: 23390</description>
+		<Point> 
+			<coordinates>
+			-121.496455,38.576922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at K St.<br/>ID: 23385</description>
+		<Point> 
+			<coordinates>
+			-121.495424,38.579254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at K St.<br/>ID: 23385</description>
+		<Point> 
+			<coordinates>
+			-121.495424,38.579254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at L St.<br/>ID: 23391</description>
+		<Point> 
+			<coordinates>
+			-121.495943,38.578115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at L St.<br/>ID: 23391</description>
+		<Point> 
+			<coordinates>
+			-121.495943,38.578115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at N St.<br/>ID: 23392</description>
+		<Point> 
+			<coordinates>
+			-121.496886,38.575896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at N St.<br/>ID: 23392</description>
+		<Point> 
+			<coordinates>
+			-121.496886,38.575896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at O St.<br/>ID: 23393</description>
+		<Point> 
+			<coordinates>
+			-121.497308,38.574925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at O St.<br/>ID: 23393</description>
+		<Point> 
+			<coordinates>
+			-121.497308,38.574925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at P St.<br/>ID: 23394</description>
+		<Point> 
+			<coordinates>
+			-121.497762,38.573868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th St. at P St.<br/>ID: 23394</description>
+		<Point> 
+			<coordinates>
+			-121.497762,38.573868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 10th St. at N St.<br/>ID: 23395</description>
+		<Point> 
+			<coordinates>
+			-121.495446,38.575687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 10th St. at N St.<br/>ID: 23395</description>
+		<Point> 
+			<coordinates>
+			-121.495446,38.575687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th St. at K St.<br/>ID: 23415</description>
+		<Point> 
+			<coordinates>
+			-121.487506,38.576495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th St. at K St.<br/>ID: 23415</description>
+		<Point> 
+			<coordinates>
+			-121.487506,38.576495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th St. at N St.<br/>ID: 23414</description>
+		<Point> 
+			<coordinates>
+			-121.488395,38.574286,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th St. at N St.<br/>ID: 23414</description>
+		<Point> 
+			<coordinates>
+			-121.488395,38.574286,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 16th St. at Capitol Ave<br/>ID: 23416</description>
+		<Point> 
+			<coordinates>
+			-121.486806,38.574439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 16th St. at Capitol Ave<br/>ID: 23416</description>
+		<Point> 
+			<coordinates>
+			-121.486806,38.574439,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda at Coolidge EB<br/>ID: 23122</description>
+		<Point> 
+			<coordinates>
+			-121.773219,38.547466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda at Coolidge EB<br/>ID: 23122</description>
+		<Point> 
+			<coordinates>
+			-121.773219,38.547466,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda at Coolidge WB<br/>ID: 23121</description>
+		<Point> 
+			<coordinates>
+			-121.773324,38.547494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alameda at Coolidge WB<br/>ID: 23121</description>
+		<Point> 
+			<coordinates>
+			-121.773324,38.547494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at 5th St. EB<br/>ID: 23111</description>
+		<Point> 
+			<coordinates>
+			-121.704124,38.557894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at 5th St. EB<br/>ID: 23111</description>
+		<Point> 
+			<coordinates>
+			-121.704124,38.557894,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at 5th St. WB<br/>ID: 23118</description>
+		<Point> 
+			<coordinates>
+			-121.70563,38.558157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at 5th St. WB<br/>ID: 23118</description>
+		<Point> 
+			<coordinates>
+			-121.70563,38.558157,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Arroyo<br/>ID: 23113</description>
+		<Point> 
+			<coordinates>
+			-121.69998,38.557924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Arroyo<br/>ID: 23113</description>
+		<Point> 
+			<coordinates>
+			-121.69998,38.557924,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Atlantis<br/>ID: 23112</description>
+		<Point> 
+			<coordinates>
+			-121.699004,38.558071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Atlantis<br/>ID: 23112</description>
+		<Point> 
+			<coordinates>
+			-121.699004,38.558071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Carcia<br/>ID: 23114</description>
+		<Point> 
+			<coordinates>
+			-121.702861,38.558007,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Carcia<br/>ID: 23114</description>
+		<Point> 
+			<coordinates>
+			-121.702861,38.558007,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Covell<br/>ID: 23117</description>
+		<Point> 
+			<coordinates>
+			-121.709403,38.563598,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Covell<br/>ID: 23117</description>
+		<Point> 
+			<coordinates>
+			-121.709403,38.563598,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Loyola NB<br/>ID: 23215</description>
+		<Point> 
+			<coordinates>
+			-121.708972,38.560409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Loyola NB<br/>ID: 23215</description>
+		<Point> 
+			<coordinates>
+			-121.708972,38.560409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Loyola SB<br/>ID: 23119</description>
+		<Point> 
+			<coordinates>
+			-121.708937,38.560044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Loyola SB<br/>ID: 23119</description>
+		<Point> 
+			<coordinates>
+			-121.708937,38.560044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Mace EB<br/>ID: 23116</description>
+		<Point> 
+			<coordinates>
+			-121.69674,38.558685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at Mace EB<br/>ID: 23116</description>
+		<Point> 
+			<coordinates>
+			-121.69674,38.558685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at San Miguel<br/>ID: 23120</description>
+		<Point> 
+			<coordinates>
+			-121.709561,38.562418,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alhambra at San Miguel<br/>ID: 23120</description>
+		<Point> 
+			<coordinates>
+			-121.709561,38.562418,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Alvarado NB<br/>ID: 23123</description>
+		<Point> 
+			<coordinates>
+			-121.758446,38.562847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Alvarado NB<br/>ID: 23123</description>
+		<Point> 
+			<coordinates>
+			-121.758446,38.562847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Alvarado SB<br/>ID: 23124</description>
+		<Point> 
+			<coordinates>
+			-121.758484,38.562607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Alvarado SB<br/>ID: 23124</description>
+		<Point> 
+			<coordinates>
+			-121.758484,38.562607,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Amherst NB<br/>ID: 23126</description>
+		<Point> 
+			<coordinates>
+			-121.758662,38.552496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Amherst NB<br/>ID: 23126</description>
+		<Point> 
+			<coordinates>
+			-121.758662,38.552496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Amherst SB<br/>ID: 23125</description>
+		<Point> 
+			<coordinates>
+			-121.758712,38.552219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Amherst SB<br/>ID: 23125</description>
+		<Point> 
+			<coordinates>
+			-121.758712,38.552219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Hanover NB<br/>ID: 23127</description>
+		<Point> 
+			<coordinates>
+			-121.758545,38.559414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Hanover NB<br/>ID: 23127</description>
+		<Point> 
+			<coordinates>
+			-121.758545,38.559414,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Hanover SB<br/>ID: 23128</description>
+		<Point> 
+			<coordinates>
+			-121.758592,38.558645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Hanover SB<br/>ID: 23128</description>
+		<Point> 
+			<coordinates>
+			-121.758592,38.558645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Russell NB<br/>ID: 23130</description>
+		<Point> 
+			<coordinates>
+			-121.758737,38.547177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Russell NB<br/>ID: 23130</description>
+		<Point> 
+			<coordinates>
+			-121.758737,38.547177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Russell SB<br/>ID: 23129</description>
+		<Point> 
+			<coordinates>
+			-121.758771,38.547094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Russell SB<br/>ID: 23129</description>
+		<Point> 
+			<coordinates>
+			-121.758771,38.547094,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Sunset NB<br/>ID: 23132</description>
+		<Point> 
+			<coordinates>
+			-121.758693,38.549175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Sunset NB<br/>ID: 23132</description>
+		<Point> 
+			<coordinates>
+			-121.758693,38.549175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Sunset SB<br/>ID: 23131</description>
+		<Point> 
+			<coordinates>
+			-121.758735,38.54904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Sunset SB<br/>ID: 23131</description>
+		<Point> 
+			<coordinates>
+			-121.758735,38.54904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Valencia NB<br/>ID: 23134</description>
+		<Point> 
+			<coordinates>
+			-121.758353,38.567557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Valencia NB<br/>ID: 23134</description>
+		<Point> 
+			<coordinates>
+			-121.758353,38.567557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Valencia SB<br/>ID: 23133</description>
+		<Point> 
+			<coordinates>
+			-121.758403,38.567002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Valencia SB<br/>ID: 23133</description>
+		<Point> 
+			<coordinates>
+			-121.758403,38.567002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Villanova NB<br/>ID: 23136</description>
+		<Point> 
+			<coordinates>
+			-121.758572,38.556434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Villanova NB<br/>ID: 23136</description>
+		<Point> 
+			<coordinates>
+			-121.758572,38.556434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Villanova SB<br/>ID: 23135</description>
+		<Point> 
+			<coordinates>
+			-121.758612,38.556042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anderson at Villanova SB<br/>ID: 23135</description>
+		<Point> 
+			<coordinates>
+			-121.758612,38.556042,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Bryte EB<br/>ID: 23227</description>
+		<Point> 
+			<coordinates>
+			-121.537664,38.594166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Bryte EB<br/>ID: 23227</description>
+		<Point> 
+			<coordinates>
+			-121.537664,38.594166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Bryte WB<br/>ID: 23226</description>
+		<Point> 
+			<coordinates>
+			-121.537365,38.594285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Bryte WB<br/>ID: 23226</description>
+		<Point> 
+			<coordinates>
+			-121.537365,38.594285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Holland EB<br/>ID: 23425</description>
+		<Point> 
+			<coordinates>
+			-121.529575,38.596271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Holland EB<br/>ID: 23425</description>
+		<Point> 
+			<coordinates>
+			-121.529575,38.596271,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Holland WB<br/>ID: 23424</description>
+		<Point> 
+			<coordinates>
+			-121.52964,38.596303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Holland WB<br/>ID: 23424</description>
+		<Point> 
+			<coordinates>
+			-121.52964,38.596303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Todhunter EB<br/>ID: 23422</description>
+		<Point> 
+			<coordinates>
+			-121.534099,38.595127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Todhunter EB<br/>ID: 23422</description>
+		<Point> 
+			<coordinates>
+			-121.534099,38.595127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Todhunter WB<br/>ID: 23423</description>
+		<Point> 
+			<coordinates>
+			-121.53349,38.595331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Anna at Todhunter WB<br/>ID: 23423</description>
+		<Point> 
+			<coordinates>
+			-121.53349,38.595331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Cabot<br/>ID: 23137</description>
+		<Point> 
+			<coordinates>
+			-121.784468,38.553751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Cabot<br/>ID: 23137</description>
+		<Point> 
+			<coordinates>
+			-121.784468,38.553751,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Lake EB<br/>ID: 23139</description>
+		<Point> 
+			<coordinates>
+			-121.786865,38.555074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Lake EB<br/>ID: 23139</description>
+		<Point> 
+			<coordinates>
+			-121.786865,38.555074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Lake WB<br/>ID: 23138</description>
+		<Point> 
+			<coordinates>
+			-121.787247,38.5552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Lake WB<br/>ID: 23138</description>
+		<Point> 
+			<coordinates>
+			-121.787247,38.5552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Shasta EB<br/>ID: 23140</description>
+		<Point> 
+			<coordinates>
+			-121.781305,38.553507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Shasta EB<br/>ID: 23140</description>
+		<Point> 
+			<coordinates>
+			-121.781305,38.553507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Shasta WB<br/>ID: 23141</description>
+		<Point> 
+			<coordinates>
+			-121.781973,38.553717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arlington at Shasta WB<br/>ID: 23141</description>
+		<Point> 
+			<coordinates>
+			-121.781973,38.553717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arthur at Alameda NB<br/>ID: 23527</description>
+		<Point> 
+			<coordinates>
+			-121.770553,38.54696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arthur at Alameda NB<br/>ID: 23527</description>
+		<Point> 
+			<coordinates>
+			-121.770553,38.54696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arthur at Alameda SB<br/>ID: 23143</description>
+		<Point> 
+			<coordinates>
+			-121.770581,38.547741,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Arthur at Alameda SB<br/>ID: 23143</description>
+		<Point> 
+			<coordinates>
+			-121.770581,38.547741,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashley at W. Court<br/>ID: 23297</description>
+		<Point> 
+			<coordinates>
+			-121.797853,38.678715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashley at W. Court<br/>ID: 23297</description>
+		<Point> 
+			<coordinates>
+			-121.797853,38.678715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashley at W. Lincoln NB<br/>ID: 23012</description>
+		<Point> 
+			<coordinates>
+			-121.79785,38.676772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashley at W. Lincoln NB<br/>ID: 23012</description>
+		<Point> 
+			<coordinates>
+			-121.79785,38.676772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashley at W. Lincoln SB<br/>ID: 23011</description>
+		<Point> 
+			<coordinates>
+			-121.797904,38.676728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ashley at W. Lincoln SB<br/>ID: 23011</description>
+		<Point> 
+			<coordinates>
+			-121.797904,38.676728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B at 4th NB<br/>ID: 23144</description>
+		<Point> 
+			<coordinates>
+			-121.745006,38.544991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B at 4th NB<br/>ID: 23144</description>
+		<Point> 
+			<coordinates>
+			-121.745006,38.544991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B at 4th SB<br/>ID: 23145</description>
+		<Point> 
+			<coordinates>
+			-121.745064,38.54506,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: B at 4th SB<br/>ID: 23145</description>
+		<Point> 
+			<coordinates>
+			-121.745064,38.54506,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beamer at 5th EB<br/>ID: 23018</description>
+		<Point> 
+			<coordinates>
+			-121.767278,38.68467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beamer at 5th EB<br/>ID: 23018</description>
+		<Point> 
+			<coordinates>
+			-121.767278,38.68467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beamer at 5th WB<br/>ID: 23017</description>
+		<Point> 
+			<coordinates>
+			-121.767336,38.684696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Beamer at 5th WB<br/>ID: 23017</description>
+		<Point> 
+			<coordinates>
+			-121.767336,38.684696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bryte at Lisbon<br/>ID: 23228</description>
+		<Point> 
+			<coordinates>
+			-121.538795,38.595562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bryte at Lisbon<br/>ID: 23228</description>
+		<Point> 
+			<coordinates>
+			-121.538795,38.595562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cache Creek Casino Resort<br/>ID: 23358</description>
+		<Point> 
+			<coordinates>
+			-122.142117,38.736127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cache Creek Casino Resort<br/>ID: 23358</description>
+		<Point> 
+			<coordinates>
+			-122.142117,38.736127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calaveras at Arlington EB<br/>ID: 23376</description>
+		<Point> 
+			<coordinates>
+			-121.77825,38.550624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calaveras at Arlington EB<br/>ID: 23376</description>
+		<Point> 
+			<coordinates>
+			-121.77825,38.550624,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calaveras at Arlington WB<br/>ID: 23375</description>
+		<Point> 
+			<coordinates>
+			-121.778935,38.550616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Calaveras at Arlington WB<br/>ID: 23375</description>
+		<Point> 
+			<coordinates>
+			-121.778935,38.550616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capitol Mall at 7th St.<br/>ID: 23600</description>
+		<Point> 
+			<coordinates>
+			-121.498171,38.577999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capitol Mall at 7th St.<br/>ID: 23600</description>
+		<Point> 
+			<coordinates>
+			-121.498171,38.577999,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capitol Mall at Front EB<br/>ID: 23412</description>
+		<Point> 
+			<coordinates>
+			-121.506805,38.580101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capitol Mall at Front EB<br/>ID: 23412</description>
+		<Point> 
+			<coordinates>
+			-121.506805,38.580101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capitol Mall at Front WB<br/>ID: 23411</description>
+		<Point> 
+			<coordinates>
+			-121.506331,38.580103,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Capitol Mall at Front WB<br/>ID: 23411</description>
+		<Point> 
+			<coordinates>
+			-121.506331,38.580103,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catalina at Anderson<br/>ID: 23146</description>
+		<Point> 
+			<coordinates>
+			-121.757684,38.568119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catalina at Anderson<br/>ID: 23146</description>
+		<Point> 
+			<coordinates>
+			-121.757684,38.568119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catalina at Grande WB<br/>ID: 23186</description>
+		<Point> 
+			<coordinates>
+			-121.754402,38.567117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Catalina at Grande WB<br/>ID: 23186</description>
+		<Point> 
+			<coordinates>
+			-121.754402,38.567117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College at Marshall SB<br/>ID: 23500</description>
+		<Point> 
+			<coordinates>
+			-121.774836,38.667745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: College at Marshall SB<br/>ID: 23500</description>
+		<Point> 
+			<coordinates>
+			-121.774836,38.667745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Buckeye NB<br/>ID: 23025</description>
+		<Point> 
+			<coordinates>
+			-121.793148,38.68325,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Buckeye NB<br/>ID: 23025</description>
+		<Point> 
+			<coordinates>
+			-121.793148,38.68325,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Buckeye SB<br/>ID: 23024</description>
+		<Point> 
+			<coordinates>
+			-121.793188,38.683165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Buckeye SB<br/>ID: 23024</description>
+		<Point> 
+			<coordinates>
+			-121.793188,38.683165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Riverside NB<br/>ID: 23027</description>
+		<Point> 
+			<coordinates>
+			-121.793198,38.680582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Riverside NB<br/>ID: 23027</description>
+		<Point> 
+			<coordinates>
+			-121.793198,38.680582,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Riverside SB<br/>ID: 23026</description>
+		<Point> 
+			<coordinates>
+			-121.793239,38.680291,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at Riverside SB<br/>ID: 23026</description>
+		<Point> 
+			<coordinates>
+			-121.793239,38.680291,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W Beamer NB<br/>ID: 23023</description>
+		<Point> 
+			<coordinates>
+			-121.793147,38.684776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W Beamer NB<br/>ID: 23023</description>
+		<Point> 
+			<coordinates>
+			-121.793147,38.684776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W Beamer SB<br/>ID: 23022</description>
+		<Point> 
+			<coordinates>
+			-121.793194,38.684567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W Beamer SB<br/>ID: 23022</description>
+		<Point> 
+			<coordinates>
+			-121.793194,38.684567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Cross NB<br/>ID: 23029</description>
+		<Point> 
+			<coordinates>
+			-121.793313,38.671986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Cross NB<br/>ID: 23029</description>
+		<Point> 
+			<coordinates>
+			-121.793313,38.671986,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Cross SB<br/>ID: 23028</description>
+		<Point> 
+			<coordinates>
+			-121.793359,38.671935,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Cross SB<br/>ID: 23028</description>
+		<Point> 
+			<coordinates>
+			-121.793359,38.671935,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Gibson NB<br/>ID: 23031</description>
+		<Point> 
+			<coordinates>
+			-121.793367,38.66419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Gibson NB<br/>ID: 23031</description>
+		<Point> 
+			<coordinates>
+			-121.793367,38.66419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Gibson SB<br/>ID: 23030</description>
+		<Point> 
+			<coordinates>
+			-121.793397,38.664213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Gibson SB<br/>ID: 23030</description>
+		<Point> 
+			<coordinates>
+			-121.793397,38.664213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Lincoln NB<br/>ID: 23033</description>
+		<Point> 
+			<coordinates>
+			-121.793277,38.675706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Lincoln NB<br/>ID: 23033</description>
+		<Point> 
+			<coordinates>
+			-121.793277,38.675706,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Lincoln SB<br/>ID: 23032</description>
+		<Point> 
+			<coordinates>
+			-121.793326,38.675677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Lincoln SB<br/>ID: 23032</description>
+		<Point> 
+			<coordinates>
+			-121.793326,38.675677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Main NB<br/>ID: 23035</description>
+		<Point> 
+			<coordinates>
+			-121.793227,38.677948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Main NB<br/>ID: 23035</description>
+		<Point> 
+			<coordinates>
+			-121.793227,38.677948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Main SB<br/>ID: 23034</description>
+		<Point> 
+			<coordinates>
+			-121.793271,38.677919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Main SB<br/>ID: 23034</description>
+		<Point> 
+			<coordinates>
+			-121.793271,38.677919,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Southwood NB<br/>ID: 23037</description>
+		<Point> 
+			<coordinates>
+			-121.793333,38.66958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Southwood NB<br/>ID: 23037</description>
+		<Point> 
+			<coordinates>
+			-121.793333,38.66958,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Southwood SB<br/>ID: 23036</description>
+		<Point> 
+			<coordinates>
+			-121.793368,38.668975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cottonwood at W. Southwood SB<br/>ID: 23036</description>
+		<Point> 
+			<coordinates>
+			-121.793368,38.668975,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: County Fair Mall<br/>ID: 23306</description>
+		<Point> 
+			<coordinates>
+			-121.764815,38.659892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: County Fair Mall<br/>ID: 23306</description>
+		<Point> 
+			<coordinates>
+			-121.764815,38.659892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: County Fair Mall - Depart<br/>ID: 23585</description>
+		<Point> 
+			<coordinates>
+			-121.764033,38.659892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: County Fair Mall - Depart<br/>ID: 23585</description>
+		<Point> 
+			<coordinates>
+			-121.764033,38.659892,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at 2nd EB<br/>ID: 23039</description>
+		<Point> 
+			<coordinates>
+			-121.771579,38.678732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at 2nd EB<br/>ID: 23039</description>
+		<Point> 
+			<coordinates>
+			-121.771579,38.678732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at 2nd WB<br/>ID: 23038</description>
+		<Point> 
+			<coordinates>
+			-121.771342,38.678753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at 2nd WB<br/>ID: 23038</description>
+		<Point> 
+			<coordinates>
+			-121.771342,38.678753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Cleveland EB<br/>ID: 23041</description>
+		<Point> 
+			<coordinates>
+			-121.7796,38.678803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Cleveland EB<br/>ID: 23041</description>
+		<Point> 
+			<coordinates>
+			-121.7796,38.678803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Cleveland WB<br/>ID: 23040</description>
+		<Point> 
+			<coordinates>
+			-121.779565,38.678839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Cleveland WB<br/>ID: 23040</description>
+		<Point> 
+			<coordinates>
+			-121.779565,38.678839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at College EB<br/>ID: 23043</description>
+		<Point> 
+			<coordinates>
+			-121.774206,38.67875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at College EB<br/>ID: 23043</description>
+		<Point> 
+			<coordinates>
+			-121.774206,38.67875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at College WB<br/>ID: 23042</description>
+		<Point> 
+			<coordinates>
+			-121.775175,38.67878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at College WB<br/>ID: 23042</description>
+		<Point> 
+			<coordinates>
+			-121.775175,38.67878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Walnut EB<br/>ID: 23045</description>
+		<Point> 
+			<coordinates>
+			-121.777882,38.678776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Walnut EB<br/>ID: 23045</description>
+		<Point> 
+			<coordinates>
+			-121.777882,38.678776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Walnut WB<br/>ID: 23044</description>
+		<Point> 
+			<coordinates>
+			-121.777944,38.678804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Court at Walnut WB<br/>ID: 23044</description>
+		<Point> 
+			<coordinates>
+			-121.777944,38.678804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cross at Dingle EB<br/>ID: 23583</description>
+		<Point> 
+			<coordinates>
+			-121.775962,38.672015,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cross at Dingle EB<br/>ID: 23583</description>
+		<Point> 
+			<coordinates>
+			-121.775962,38.672015,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Fairway EB<br/>ID: 23517</description>
+		<Point> 
+			<coordinates>
+			-121.521101,38.593798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Fairway EB<br/>ID: 23517</description>
+		<Point> 
+			<coordinates>
+			-121.521101,38.593798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Fairway WB<br/>ID: 23509</description>
+		<Point> 
+			<coordinates>
+			-121.521506,38.593879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Fairway WB<br/>ID: 23509</description>
+		<Point> 
+			<coordinates>
+			-121.521506,38.593879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Hardy EB<br/>ID: 23516</description>
+		<Point> 
+			<coordinates>
+			-121.522866,38.594017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Hardy EB<br/>ID: 23516</description>
+		<Point> 
+			<coordinates>
+			-121.522866,38.594017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Hardy WB<br/>ID: 23510</description>
+		<Point> 
+			<coordinates>
+			-121.523468,38.594119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Hardy WB<br/>ID: 23510</description>
+		<Point> 
+			<coordinates>
+			-121.523468,38.594119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Kegle EB<br/>ID: 23515</description>
+		<Point> 
+			<coordinates>
+			-121.525834,38.594246,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Kegle EB<br/>ID: 23515</description>
+		<Point> 
+			<coordinates>
+			-121.525834,38.594246,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Kegle WB<br/>ID: 23511</description>
+		<Point> 
+			<coordinates>
+			-121.525924,38.59427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Kegle WB<br/>ID: 23511</description>
+		<Point> 
+			<coordinates>
+			-121.525924,38.59427,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Rueter WB<br/>ID: 23508</description>
+		<Point> 
+			<coordinates>
+			-121.516917,38.593337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Cummins at Rueter WB<br/>ID: 23508</description>
+		<Point> 
+			<coordinates>
+			-121.516917,38.593337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Douglas at Cummins NB<br/>ID: 23518</description>
+		<Point> 
+			<coordinates>
+			-121.519545,38.594455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Douglas at Cummins NB<br/>ID: 23518</description>
+		<Point> 
+			<coordinates>
+			-121.519545,38.594455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Beamer at Matmor EB<br/>ID: 23016</description>
+		<Point> 
+			<coordinates>
+			-121.758535,38.68459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Beamer at Matmor EB<br/>ID: 23016</description>
+		<Point> 
+			<coordinates>
+			-121.758535,38.68459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Beamer at Matmor WB<br/>ID: 23015</description>
+		<Point> 
+			<coordinates>
+			-121.758067,38.684618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Beamer at Matmor WB<br/>ID: 23015</description>
+		<Point> 
+			<coordinates>
+			-121.758067,38.684618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Covell at J EB<br/>ID: 23151</description>
+		<Point> 
+			<coordinates>
+			-121.738077,38.560531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Covell at J EB<br/>ID: 23151</description>
+		<Point> 
+			<coordinates>
+			-121.738077,38.560531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Covell at J WB<br/>ID: 23152</description>
+		<Point> 
+			<coordinates>
+			-121.73841,38.560689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Covell at J WB<br/>ID: 23152</description>
+		<Point> 
+			<coordinates>
+			-121.73841,38.560689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Covell at Poleline EB<br/>ID: 23154</description>
+		<Point> 
+			<coordinates>
+			-121.732137,38.562227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Covell at Poleline EB<br/>ID: 23154</description>
+		<Point> 
+			<coordinates>
+			-121.732137,38.562227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at County Fair Mall EB<br/>ID: 23363</description>
+		<Point> 
+			<coordinates>
+			-121.761513,38.662789,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at County Fair Mall EB<br/>ID: 23363</description>
+		<Point> 
+			<coordinates>
+			-121.761513,38.662789,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at County Fair Mall WB<br/>ID: 23362</description>
+		<Point> 
+			<coordinates>
+			-121.761937,38.662817,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at County Fair Mall WB<br/>ID: 23362</description>
+		<Point> 
+			<coordinates>
+			-121.761937,38.662817,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at Pioneer EB<br/>ID: 23104</description>
+		<Point> 
+			<coordinates>
+			-121.741341,38.662646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at Pioneer EB<br/>ID: 23104</description>
+		<Point> 
+			<coordinates>
+			-121.741341,38.662646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at Washington EB<br/>ID: 23063</description>
+		<Point> 
+			<coordinates>
+			-121.758674,38.662782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at Washington EB<br/>ID: 23063</description>
+		<Point> 
+			<coordinates>
+			-121.758674,38.662782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at Washington WB<br/>ID: 23062</description>
+		<Point> 
+			<coordinates>
+			-121.759466,38.662826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gibson at Washington WB<br/>ID: 23062</description>
+		<Point> 
+			<coordinates>
+			-121.759466,38.662826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gum at East WB<br/>ID: 23066</description>
+		<Point> 
+			<coordinates>
+			-121.764393,38.668339,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gum at East WB<br/>ID: 23066</description>
+		<Point> 
+			<coordinates>
+			-121.764393,38.668339,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gum at Matmor WB<br/>ID: 23069</description>
+		<Point> 
+			<coordinates>
+			-121.757218,38.668289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gum at Matmor WB<br/>ID: 23069</description>
+		<Point> 
+			<coordinates>
+			-121.757218,38.668289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gum at Wallace WB<br/>ID: 23071</description>
+		<Point> 
+			<coordinates>
+			-121.738988,38.668974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Gum at Wallace WB<br/>ID: 23071</description>
+		<Point> 
+			<coordinates>
+			-121.738988,38.668974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at East<br/>ID: 23082</description>
+		<Point> 
+			<coordinates>
+			-121.764456,38.677416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at East<br/>ID: 23082</description>
+		<Point> 
+			<coordinates>
+			-121.764456,38.677416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Industrial EB<br/>ID: 23361</description>
+		<Point> 
+			<coordinates>
+			-121.75108,38.677254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Industrial EB<br/>ID: 23361</description>
+		<Point> 
+			<coordinates>
+			-121.75108,38.677254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Industrial WB<br/>ID: 23084</description>
+		<Point> 
+			<coordinates>
+			-121.753766,38.677424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Industrial WB<br/>ID: 23084</description>
+		<Point> 
+			<coordinates>
+			-121.753766,38.677424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Matmor<br/>ID: 23085</description>
+		<Point> 
+			<coordinates>
+			-121.758165,38.677322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Matmor<br/>ID: 23085</description>
+		<Point> 
+			<coordinates>
+			-121.758165,38.677322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Wal-Mart<br/>ID: 23308</description>
+		<Point> 
+			<coordinates>
+			-121.740896,38.67716,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E. Main at Wal-Mart<br/>ID: 23308</description>
+		<Point> 
+			<coordinates>
+			-121.740896,38.67716,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East at Cross NB<br/>ID: 23569</description>
+		<Point> 
+			<coordinates>
+			-121.765516,38.672186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East at Cross NB<br/>ID: 23569</description>
+		<Point> 
+			<coordinates>
+			-121.765516,38.672186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East at Gum<br/>ID: 23304</description>
+		<Point> 
+			<coordinates>
+			-121.765533,38.66967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: East at Gum<br/>ID: 23304</description>
+		<Point> 
+			<coordinates>
+			-121.765533,38.66967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eisenhower at Amador NB<br/>ID: 23374</description>
+		<Point> 
+			<coordinates>
+			-121.77536,38.548359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eisenhower at Amador NB<br/>ID: 23374</description>
+		<Point> 
+			<coordinates>
+			-121.77536,38.548359,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eisenhower at Amador SB<br/>ID: 23373</description>
+		<Point> 
+			<coordinates>
+			-121.776115,38.549154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eisenhower at Amador SB<br/>ID: 23373</description>
+		<Point> 
+			<coordinates>
+			-121.776115,38.549154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F at Anderson NB<br/>ID: 23581</description>
+		<Point> 
+			<coordinates>
+			-121.747241,38.573297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F at Anderson NB<br/>ID: 23581</description>
+		<Point> 
+			<coordinates>
+			-121.747241,38.573297,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F at Anderson SB<br/>ID: 23580</description>
+		<Point> 
+			<coordinates>
+			-121.747455,38.57386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F at Anderson SB<br/>ID: 23580</description>
+		<Point> 
+			<coordinates>
+			-121.747455,38.57386,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 5th St.<br/>ID: 23178</description>
+		<Point> 
+			<coordinates>
+			-121.741105,38.547467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 5th St.<br/>ID: 23178</description>
+		<Point> 
+			<coordinates>
+			-121.741105,38.547467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 6th St. NB<br/>ID: 23180</description>
+		<Point> 
+			<coordinates>
+			-121.741498,38.548827,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 6th St. NB<br/>ID: 23180</description>
+		<Point> 
+			<coordinates>
+			-121.741498,38.548827,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 6th St. SB<br/>ID: 23179</description>
+		<Point> 
+			<coordinates>
+			-121.741419,38.548392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 6th St. SB<br/>ID: 23179</description>
+		<Point> 
+			<coordinates>
+			-121.741419,38.548392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 8th St. NB<br/>ID: 23182</description>
+		<Point> 
+			<coordinates>
+			-121.742074,38.551474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 8th St. NB<br/>ID: 23182</description>
+		<Point> 
+			<coordinates>
+			-121.742074,38.551474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 8th St. SB<br/>ID: 23181</description>
+		<Point> 
+			<coordinates>
+			-121.742144,38.551572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 8th St. SB<br/>ID: 23181</description>
+		<Point> 
+			<coordinates>
+			-121.742144,38.551572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 11th St. <br/>ID: 23176</description>
+		<Point> 
+			<coordinates>
+			-121.742509,38.5538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 11th St. <br/>ID: 23176</description>
+		<Point> 
+			<coordinates>
+			-121.742509,38.5538,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 12th St.<br/>ID: 23177</description>
+		<Point> 
+			<coordinates>
+			-121.742764,38.555205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 12th St.<br/>ID: 23177</description>
+		<Point> 
+			<coordinates>
+			-121.742764,38.555205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 14th St. NB<br/>ID: 23002</description>
+		<Point> 
+			<coordinates>
+			-121.743453,38.557213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 14th St. NB<br/>ID: 23002</description>
+		<Point> 
+			<coordinates>
+			-121.743453,38.557213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 14th St. SB<br/>ID: 23372</description>
+		<Point> 
+			<coordinates>
+			-121.743507,38.557229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at 14th St. SB<br/>ID: 23372</description>
+		<Point> 
+			<coordinates>
+			-121.743507,38.557229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at Covell NB<br/>ID: 23183</description>
+		<Point> 
+			<coordinates>
+			-121.744835,38.56011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at Covell NB<br/>ID: 23183</description>
+		<Point> 
+			<coordinates>
+			-121.744835,38.56011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at Covell SB<br/>ID: 23184</description>
+		<Point> 
+			<coordinates>
+			-121.744874,38.560161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: F St. at Covell SB<br/>ID: 23184</description>
+		<Point> 
+			<coordinates>
+			-121.744874,38.560161,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farnham at Eaton<br/>ID: 23047</description>
+		<Point> 
+			<coordinates>
+			-121.735051,38.669703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farnham at Eaton<br/>ID: 23047</description>
+		<Point> 
+			<coordinates>
+			-121.735051,38.669703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farnham at Howard NB<br/>ID: 23049</description>
+		<Point> 
+			<coordinates>
+			-121.731662,38.665884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farnham at Howard NB<br/>ID: 23049</description>
+		<Point> 
+			<coordinates>
+			-121.731662,38.665884,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farnham at Maxwell NB<br/>ID: 23046</description>
+		<Point> 
+			<coordinates>
+			-121.733095,38.667816,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Farnham at Maxwell NB<br/>ID: 23046</description>
+		<Point> 
+			<coordinates>
+			-121.733095,38.667816,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garden at W. Capitol NB<br/>ID: 23577</description>
+		<Point> 
+			<coordinates>
+			-121.518462,38.581904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garden at W. Capitol NB<br/>ID: 23577</description>
+		<Point> 
+			<coordinates>
+			-121.518462,38.581904,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garden at W. Capitol SB<br/>ID: 23578</description>
+		<Point> 
+			<coordinates>
+			-121.518627,38.581774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Garden at W. Capitol SB<br/>ID: 23578</description>
+		<Point> 
+			<coordinates>
+			-121.518627,38.581774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at College EB<br/>ID: 23054</description>
+		<Point> 
+			<coordinates>
+			-121.775274,38.662905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at College EB<br/>ID: 23054</description>
+		<Point> 
+			<coordinates>
+			-121.775274,38.662905,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at College WB<br/>ID: 23055</description>
+		<Point> 
+			<coordinates>
+			-121.77515,38.662931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at College WB<br/>ID: 23055</description>
+		<Point> 
+			<coordinates>
+			-121.77515,38.662931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Coloma<br/>ID: 23057</description>
+		<Point> 
+			<coordinates>
+			-121.769358,38.662852,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Coloma<br/>ID: 23056</description>
+		<Point> 
+			<coordinates>
+			-121.769909,38.662897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Coloma<br/>ID: 23056</description>
+		<Point> 
+			<coordinates>
+			-121.769909,38.662897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Coloma<br/>ID: 23057</description>
+		<Point> 
+			<coordinates>
+			-121.769358,38.662852,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Spruce<br/>ID: 23061</description>
+		<Point> 
+			<coordinates>
+			-121.778054,38.662956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Spruce<br/>ID: 23060</description>
+		<Point> 
+			<coordinates>
+			-121.778405,38.662928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Spruce<br/>ID: 23061</description>
+		<Point> 
+			<coordinates>
+			-121.778054,38.662956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at Spruce<br/>ID: 23060</description>
+		<Point> 
+			<coordinates>
+			-121.778405,38.662928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at West<br/>ID: 23065</description>
+		<Point> 
+			<coordinates>
+			-121.78433,38.66296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Gibson at West<br/>ID: 23065</description>
+		<Point> 
+			<coordinates>
+			-121.78433,38.66296,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Golden Gate at Tortola<br/>ID: 23229</description>
+		<Point> 
+			<coordinates>
+			-121.572193,38.540263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Golden Gate at Tortola<br/>ID: 23229</description>
+		<Point> 
+			<coordinates>
+			-121.572193,38.540263,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Catalina EB<br/>ID: 23185</description>
+		<Point> 
+			<coordinates>
+			-121.754122,38.567144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Catalina EB<br/>ID: 23185</description>
+		<Point> 
+			<coordinates>
+			-121.754122,38.567144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Mercedes WB<br/>ID: 23216</description>
+		<Point> 
+			<coordinates>
+			-121.751015,38.568411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Mercedes WB<br/>ID: 23216</description>
+		<Point> 
+			<coordinates>
+			-121.751015,38.568411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Solito EB<br/>ID: 23187</description>
+		<Point> 
+			<coordinates>
+			-121.749181,38.568956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Solito EB<br/>ID: 23187</description>
+		<Point> 
+			<coordinates>
+			-121.749181,38.568956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Solito WB<br/>ID: 23188</description>
+		<Point> 
+			<coordinates>
+			-121.74742,38.56931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grande at Solito WB<br/>ID: 23188</description>
+		<Point> 
+			<coordinates>
+			-121.74742,38.56931,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St. at 11th St.<br/>ID: 23406</description>
+		<Point> 
+			<coordinates>
+			-121.490863,38.582041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St. at 11th St.<br/>ID: 23406</description>
+		<Point> 
+			<coordinates>
+			-121.490863,38.582041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St. at 14th St.<br/>ID: 23407</description>
+		<Point> 
+			<coordinates>
+			-121.486636,38.580916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: H St. at 14th St.<br/>ID: 23407</description>
+		<Point> 
+			<coordinates>
+			-121.486636,38.580916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at Duluth NB<br/>ID: 23233</description>
+		<Point> 
+			<coordinates>
+			-121.547144,38.584837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at Duluth NB<br/>ID: 23233</description>
+		<Point> 
+			<coordinates>
+			-121.547144,38.584837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at Duluth SB<br/>ID: 23232</description>
+		<Point> 
+			<coordinates>
+			-121.547317,38.584516,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at Duluth SB<br/>ID: 23232</description>
+		<Point> 
+			<coordinates>
+			-121.547317,38.584516,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at Riverpoint<br/>ID: 23564</description>
+		<Point> 
+			<coordinates>
+			-121.54611,38.588596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at Riverpoint<br/>ID: 23564</description>
+		<Point> 
+			<coordinates>
+			-121.54611,38.588596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at W. Capitol NB<br/>ID: 23320</description>
+		<Point> 
+			<coordinates>
+			-121.548603,38.580496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at W. Capitol NB<br/>ID: 23320</description>
+		<Point> 
+			<coordinates>
+			-121.548603,38.580496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at W. Capitol SB<br/>ID: 23230</description>
+		<Point> 
+			<coordinates>
+			-121.548493,38.580985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Harbor at W. Capitol SB<br/>ID: 23230</description>
+		<Point> 
+			<coordinates>
+			-121.548493,38.580985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hobson at Water<br/>ID: 23234</description>
+		<Point> 
+			<coordinates>
+			-121.541141,38.592108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hobson at Water<br/>ID: 23234</description>
+		<Point> 
+			<coordinates>
+			-121.541141,38.592108,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 16 at Rd 85 (Capay) WB<br/>ID: 23357</description>
+		<Point> 
+			<coordinates>
+			-122.047643,38.707215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy 16 at Rd 85 (Capay) WB<br/>ID: 23357</description>
+		<Point> 
+			<coordinates>
+			-122.047643,38.707215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy. 16 at Rd. 85 (Capay) EB<br/>ID: 23526</description>
+		<Point> 
+			<coordinates>
+			-122.048604,38.70734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hwy. 16 at Rd. 85 (Capay) EB<br/>ID: 23526</description>
+		<Point> 
+			<coordinates>
+			-122.048604,38.70734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ikea Ct. at IKEA NB<br/>ID: 23421</description>
+		<Point> 
+			<coordinates>
+			-121.552063,38.589154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ikea Ct. at IKEA NB<br/>ID: 23421</description>
+		<Point> 
+			<coordinates>
+			-121.552063,38.589154,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ikea Ct. at Reed<br/>ID: 23566</description>
+		<Point> 
+			<coordinates>
+			-121.54875,38.591209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ikea Ct. at Reed<br/>ID: 23566</description>
+		<Point> 
+			<coordinates>
+			-121.54875,38.591209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at E Main NB<br/>ID: 23072</description>
+		<Point> 
+			<coordinates>
+			-121.752893,38.678064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at E Main NB<br/>ID: 23072</description>
+		<Point> 
+			<coordinates>
+			-121.752893,38.678064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at E. Main SB<br/>ID: 23073</description>
+		<Point> 
+			<coordinates>
+			-121.752938,38.677928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at E. Main SB<br/>ID: 23073</description>
+		<Point> 
+			<coordinates>
+			-121.752938,38.677928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 4th St.<br/>ID: 23396</description>
+		<Point> 
+			<coordinates>
+			-121.501137,38.582348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 4th St.<br/>ID: 23396</description>
+		<Point> 
+			<coordinates>
+			-121.501137,38.582348,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 6th St.<br/>ID: 23397</description>
+		<Point> 
+			<coordinates>
+			-121.4987,38.581683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 6th St.<br/>ID: 23397</description>
+		<Point> 
+			<coordinates>
+			-121.4987,38.581683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 8th St.<br/>ID: 23398</description>
+		<Point> 
+			<coordinates>
+			-121.496357,38.581071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: J St. at 8th St.<br/>ID: 23398</description>
+		<Point> 
+			<coordinates>
+			-121.496357,38.581071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Gateway<br/>ID: 23238</description>
+		<Point> 
+			<coordinates>
+			-121.532739,38.556662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Gateway<br/>ID: 23238</description>
+		<Point> 
+			<coordinates>
+			-121.532739,38.556662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Gateway SB<br/>ID: 23614</description>
+		<Point> 
+			<coordinates>
+			-121.53292,38.556746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Gateway SB<br/>ID: 23614</description>
+		<Point> 
+			<coordinates>
+			-121.53292,38.556746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Higgins NB<br/>ID: 23523</description>
+		<Point> 
+			<coordinates>
+			-121.542707,38.546784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Higgins NB<br/>ID: 23523</description>
+		<Point> 
+			<coordinates>
+			-121.542707,38.546784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Higgins SB<br/>ID: 23356</description>
+		<Point> 
+			<coordinates>
+			-121.543303,38.54641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Higgins SB<br/>ID: 23356</description>
+		<Point> 
+			<coordinates>
+			-121.543303,38.54641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Lake Washington NB<br/>ID: 23314</description>
+		<Point> 
+			<coordinates>
+			-121.537753,38.552084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Lake Washington NB<br/>ID: 23314</description>
+		<Point> 
+			<coordinates>
+			-121.537753,38.552084,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Lake Washington SB<br/>ID: 23315</description>
+		<Point> 
+			<coordinates>
+			-121.538061,38.552013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Lake Washington SB<br/>ID: 23315</description>
+		<Point> 
+			<coordinates>
+			-121.538061,38.552013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Michigan<br/>ID: 23239</description>
+		<Point> 
+			<coordinates>
+			-121.526515,38.582447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Michigan<br/>ID: 23239</description>
+		<Point> 
+			<coordinates>
+			-121.526515,38.582447,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Michigan NB<br/>ID: 23240</description>
+		<Point> 
+			<coordinates>
+			-121.526223,38.583008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Michigan NB<br/>ID: 23240</description>
+		<Point> 
+			<coordinates>
+			-121.526223,38.583008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at N. Linden NB<br/>ID: 23463</description>
+		<Point> 
+			<coordinates>
+			-121.539796,38.549915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at N. Linden NB<br/>ID: 23463</description>
+		<Point> 
+			<coordinates>
+			-121.539796,38.549915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at N. Linden SB<br/>ID: 23462</description>
+		<Point> 
+			<coordinates>
+			-121.540228,38.549711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at N. Linden SB<br/>ID: 23462</description>
+		<Point> 
+			<coordinates>
+			-121.540228,38.549711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at S. Linden NB<br/>ID: 23465</description>
+		<Point> 
+			<coordinates>
+			-121.549366,38.539749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at S. Linden NB<br/>ID: 23465</description>
+		<Point> 
+			<coordinates>
+			-121.549366,38.539749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at S. Linden SB<br/>ID: 23464</description>
+		<Point> 
+			<coordinates>
+			-121.549919,38.539215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at S. Linden SB<br/>ID: 23464</description>
+		<Point> 
+			<coordinates>
+			-121.549919,38.539215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Triangle Court NB<br/>ID: 23439</description>
+		<Point> 
+			<coordinates>
+			-121.526907,38.586938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Triangle Court NB<br/>ID: 23439</description>
+		<Point> 
+			<coordinates>
+			-121.526907,38.586938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Triangle Court SB<br/>ID: 23243</description>
+		<Point> 
+			<coordinates>
+			-121.526986,38.587071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Jefferson at Triangle Court SB<br/>ID: 23243</description>
+		<Point> 
+			<coordinates>
+			-121.526986,38.587071,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 4th St.<br/>ID: 23384</description>
+		<Point> 
+			<coordinates>
+			-121.502202,38.580209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 4th St.<br/>ID: 23384</description>
+		<Point> 
+			<coordinates>
+			-121.502202,38.580209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 5th St.<br/>ID: 23400</description>
+		<Point> 
+			<coordinates>
+			-121.500471,38.579755,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 5th St.<br/>ID: 23400</description>
+		<Point> 
+			<coordinates>
+			-121.500471,38.579755,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 11th St.<br/>ID: 23404</description>
+		<Point> 
+			<coordinates>
+			-121.493651,38.577938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 11th St.<br/>ID: 23404</description>
+		<Point> 
+			<coordinates>
+			-121.493651,38.577938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 13th St.<br/>ID: 23405</description>
+		<Point> 
+			<coordinates>
+			-121.489243,38.57678,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: L St. at 13th St.<br/>ID: 23405</description>
+		<Point> 
+			<coordinates>
+			-121.489243,38.57678,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at Oyster Bay NB<br/>ID: 23189</description>
+		<Point> 
+			<coordinates>
+			-121.786621,38.557351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at Oyster Bay NB<br/>ID: 23189</description>
+		<Point> 
+			<coordinates>
+			-121.786621,38.557351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at Oyster Bay SB<br/>ID: 23192</description>
+		<Point> 
+			<coordinates>
+			-121.786604,38.557468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at Oyster Bay SB<br/>ID: 23192</description>
+		<Point> 
+			<coordinates>
+			-121.786604,38.557468,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at W. Covell NB<br/>ID: 23190</description>
+		<Point> 
+			<coordinates>
+			-121.78617,38.560289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at W. Covell NB<br/>ID: 23190</description>
+		<Point> 
+			<coordinates>
+			-121.78617,38.560289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at W. Covell SB<br/>ID: 23191</description>
+		<Point> 
+			<coordinates>
+			-121.786202,38.560507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake at W. Covell SB<br/>ID: 23191</description>
+		<Point> 
+			<coordinates>
+			-121.786202,38.560507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lighthouse at Douglas EB<br/>ID: 23429</description>
+		<Point> 
+			<coordinates>
+			-121.51912,38.595481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lighthouse at Douglas EB<br/>ID: 23429</description>
+		<Point> 
+			<coordinates>
+			-121.51912,38.595481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lighthouse at Fountain EB<br/>ID: 23431</description>
+		<Point> 
+			<coordinates>
+			-121.515071,38.595251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lighthouse at Fountain EB<br/>ID: 23431</description>
+		<Point> 
+			<coordinates>
+			-121.515071,38.595251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lisbon at Bryte<br/>ID: 23254</description>
+		<Point> 
+			<coordinates>
+			-121.538983,38.595554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lisbon at Bryte<br/>ID: 23254</description>
+		<Point> 
+			<coordinates>
+			-121.538983,38.595554,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lisbon at Water<br/>ID: 23255</description>
+		<Point> 
+			<coordinates>
+			-121.542218,38.594711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lisbon at Water<br/>ID: 23255</description>
+		<Point> 
+			<coordinates>
+			-121.542218,38.594711,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Nutmeg EB<br/>ID: 23197</description>
+		<Point> 
+			<coordinates>
+			-121.722698,38.557674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Nutmeg EB<br/>ID: 23197</description>
+		<Point> 
+			<coordinates>
+			-121.722698,38.557674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Nutmeg WB<br/>ID: 23196</description>
+		<Point> 
+			<coordinates>
+			-121.722749,38.557702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Nutmeg WB<br/>ID: 23196</description>
+		<Point> 
+			<coordinates>
+			-121.722749,38.557702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Regis East<br/>ID: 23200</description>
+		<Point> 
+			<coordinates>
+			-121.720642,38.5578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Regis East<br/>ID: 23200</description>
+		<Point> 
+			<coordinates>
+			-121.720642,38.5578,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Regis West<br/>ID: 23199</description>
+		<Point> 
+			<coordinates>
+			-121.726515,38.557563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Regis West<br/>ID: 23199</description>
+		<Point> 
+			<coordinates>
+			-121.726515,38.557563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Tulip<br/>ID: 23217</description>
+		<Point> 
+			<coordinates>
+			-121.717724,38.557822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Tulip<br/>ID: 23217</description>
+		<Point> 
+			<coordinates>
+			-121.717724,38.557822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Whittier Dr<br/>ID: 23198</description>
+		<Point> 
+			<coordinates>
+			-121.727199,38.557541,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Loyola at Whittier Dr<br/>ID: 23198</description>
+		<Point> 
+			<coordinates>
+			-121.727199,38.557541,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace at 2nd St. NB<br/>ID: 23561</description>
+		<Point> 
+			<coordinates>
+			-121.694065,38.556412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace at 2nd St. NB<br/>ID: 23561</description>
+		<Point> 
+			<coordinates>
+			-121.694065,38.556412,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace at 2nd St. SB<br/>ID: 23202</description>
+		<Point> 
+			<coordinates>
+			-121.694248,38.557727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mace at 2nd St. SB<br/>ID: 23202</description>
+		<Point> 
+			<coordinates>
+			-121.694248,38.557727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at 5th EB<br/>ID: 23077</description>
+		<Point> 
+			<coordinates>
+			-121.767434,38.677399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at 5th EB<br/>ID: 23077</description>
+		<Point> 
+			<coordinates>
+			-121.767434,38.677399,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at 5th WB<br/>ID: 23076</description>
+		<Point> 
+			<coordinates>
+			-121.767984,38.677432,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at 5th WB<br/>ID: 23076</description>
+		<Point> 
+			<coordinates>
+			-121.767984,38.677432,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Cleveland EB<br/>ID: 23079</description>
+		<Point> 
+			<coordinates>
+			-121.781002,38.677484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Cleveland EB<br/>ID: 23079</description>
+		<Point> 
+			<coordinates>
+			-121.781002,38.677484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Cleveland WB<br/>ID: 23078</description>
+		<Point> 
+			<coordinates>
+			-121.780131,38.677513,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Cleveland WB<br/>ID: 23078</description>
+		<Point> 
+			<coordinates>
+			-121.780131,38.677513,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Elm EB<br/>ID: 23568</description>
+		<Point> 
+			<coordinates>
+			-121.776003,38.677472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Elm EB<br/>ID: 23568</description>
+		<Point> 
+			<coordinates>
+			-121.776003,38.677472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall at Rivermont<br/>ID: 23318</description>
+		<Point> 
+			<coordinates>
+			-121.557312,38.535168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall at Rivermont<br/>ID: 23318</description>
+		<Point> 
+			<coordinates>
+			-121.557312,38.535168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall at Seymour<br/>ID: 23524</description>
+		<Point> 
+			<coordinates>
+			-121.562551,38.535191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Marshall at Seymour<br/>ID: 23524</description>
+		<Point> 
+			<coordinates>
+			-121.562551,38.535191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Cannery NB<br/>ID: 23086</description>
+		<Point> 
+			<coordinates>
+			-121.75618,38.681289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Cannery NB<br/>ID: 23086</description>
+		<Point> 
+			<coordinates>
+			-121.75618,38.681289,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Cannery SB<br/>ID: 23087</description>
+		<Point> 
+			<coordinates>
+			-121.756225,38.681083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Cannery SB<br/>ID: 23087</description>
+		<Point> 
+			<coordinates>
+			-121.756225,38.681083,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Crystal Springs<br/>ID: 23088</description>
+		<Point> 
+			<coordinates>
+			-121.75621,38.673294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Crystal Springs<br/>ID: 23088</description>
+		<Point> 
+			<coordinates>
+			-121.75621,38.673294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Gibson NB<br/>ID: 23092</description>
+		<Point> 
+			<coordinates>
+			-121.756446,38.663312,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Gibson NB<br/>ID: 23092</description>
+		<Point> 
+			<coordinates>
+			-121.756446,38.663312,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Gibson SB<br/>ID: 23093</description>
+		<Point> 
+			<coordinates>
+			-121.756478,38.664036,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Gibson SB<br/>ID: 23093</description>
+		<Point> 
+			<coordinates>
+			-121.756478,38.664036,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Main NB<br/>ID: 23091</description>
+		<Point> 
+			<coordinates>
+			-121.75614,38.675992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Main NB<br/>ID: 23091</description>
+		<Point> 
+			<coordinates>
+			-121.75614,38.675992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Main SB<br/>ID: 23090</description>
+		<Point> 
+			<coordinates>
+			-121.756232,38.676736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at E. Main SB<br/>ID: 23090</description>
+		<Point> 
+			<coordinates>
+			-121.756232,38.676736,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Gum NB<br/>ID: 23095</description>
+		<Point> 
+			<coordinates>
+			-121.756235,38.667965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Gum NB<br/>ID: 23095</description>
+		<Point> 
+			<coordinates>
+			-121.756235,38.667965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Gum SB<br/>ID: 23094</description>
+		<Point> 
+			<coordinates>
+			-121.756269,38.668715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Gum SB<br/>ID: 23094</description>
+		<Point> 
+			<coordinates>
+			-121.756269,38.668715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Oak NB<br/>ID: 23089</description>
+		<Point> 
+			<coordinates>
+			-121.756162,38.673665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Matmor at Oak NB<br/>ID: 23089</description>
+		<Point> 
+			<coordinates>
+			-121.756162,38.673665,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maxwell at Burns EB<br/>ID: 23506</description>
+		<Point> 
+			<coordinates>
+			-121.729926,38.668703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maxwell at Burns EB<br/>ID: 23506</description>
+		<Point> 
+			<coordinates>
+			-121.729926,38.668703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maxwell at Burns WB<br/>ID: 23507</description>
+		<Point> 
+			<coordinates>
+			-121.730848,38.668727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Maxwell at Burns WB<br/>ID: 23507</description>
+		<Point> 
+			<coordinates>
+			-121.730848,38.668727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monarch at Campbell SB<br/>ID: 23204</description>
+		<Point> 
+			<coordinates>
+			-121.714468,38.562689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monarch at Campbell SB<br/>ID: 23204</description>
+		<Point> 
+			<coordinates>
+			-121.714468,38.562689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monarch at Covell NB<br/>ID: 23205</description>
+		<Point> 
+			<coordinates>
+			-121.714538,38.563469,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monarch at Covell NB<br/>ID: 23205</description>
+		<Point> 
+			<coordinates>
+			-121.714538,38.563469,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mondavi Center<br/>ID: 1435</description>
+		<Point> 
+			<coordinates>
+			-121.74844,38.534456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mondavi Center<br/>ID: 1435</description>
+		<Point> 
+			<coordinates>
+			-121.74844,38.534456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N St. at 7th St.<br/>ID: 23563</description>
+		<Point> 
+			<coordinates>
+			-121.499309,38.576896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N St. at 7th St.<br/>ID: 23563</description>
+		<Point> 
+			<coordinates>
+			-121.499309,38.576896,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N St. at 14th St.<br/>ID: 23417</description>
+		<Point> 
+			<coordinates>
+			-121.490498,38.574553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N St. at 14th St.<br/>ID: 23417</description>
+		<Point> 
+			<coordinates>
+			-121.490498,38.574553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Ashley at W. Woodland<br/>ID: 23497</description>
+		<Point> 
+			<coordinates>
+			-121.797775,38.688947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Ashley at W. Woodland<br/>ID: 23497</description>
+		<Point> 
+			<coordinates>
+			-121.797775,38.688947,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Cottonwood at W. Kentucky<br/>ID: 23505</description>
+		<Point> 
+			<coordinates>
+			-121.79311,38.691934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Cottonwood at W. Kentucky<br/>ID: 23505</description>
+		<Point> 
+			<coordinates>
+			-121.79311,38.691934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Cottonwood at W. Woodland NB<br/>ID: 23495</description>
+		<Point> 
+			<coordinates>
+			-121.793572,38.687879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Cottonwood at W. Woodland NB<br/>ID: 23495</description>
+		<Point> 
+			<coordinates>
+			-121.793572,38.687879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Cottonwood at W. Woodland SB<br/>ID: 23496</description>
+		<Point> 
+			<coordinates>
+			-121.793583,38.688078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: N. Cottonwood at W. Woodland SB<br/>ID: 23496</description>
+		<Point> 
+			<coordinates>
+			-121.793583,38.688078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ogden at Branigan<br/>ID: 23096</description>
+		<Point> 
+			<coordinates>
+			-121.735618,38.664335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ogden at Branigan<br/>ID: 23096</description>
+		<Point> 
+			<coordinates>
+			-121.735618,38.664335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 11th St.<br/>ID: 23420</description>
+		<Point> 
+			<coordinates>
+			-121.494747,38.573269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 11th St.<br/>ID: 23420</description>
+		<Point> 
+			<coordinates>
+			-121.494747,38.573269,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 13th St.<br/>ID: 23419</description>
+		<Point> 
+			<coordinates>
+			-121.49301,38.572814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 13th St.<br/>ID: 23419</description>
+		<Point> 
+			<coordinates>
+			-121.49301,38.572814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 14th St.<br/>ID: 23418</description>
+		<Point> 
+			<coordinates>
+			-121.490227,38.57209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: P St. at 14th St.<br/>ID: 23418</description>
+		<Point> 
+			<coordinates>
+			-121.490227,38.57209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at 17th NB<br/>ID: 23258</description>
+		<Point> 
+			<coordinates>
+			-121.532785,38.568276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at 17th NB<br/>ID: 23258</description>
+		<Point> 
+			<coordinates>
+			-121.532785,38.568276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Hughes SB<br/>ID: 23444</description>
+		<Point> 
+			<coordinates>
+			-121.533041,38.568044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Hughes SB<br/>ID: 23444</description>
+		<Point> 
+			<coordinates>
+			-121.533041,38.568044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Stone NB<br/>ID: 23262</description>
+		<Point> 
+			<coordinates>
+			-121.536811,38.563748,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Stone NB<br/>ID: 23262</description>
+		<Point> 
+			<coordinates>
+			-121.536811,38.563748,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Stone SB<br/>ID: 23447</description>
+		<Point> 
+			<coordinates>
+			-121.536796,38.563826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Stone SB<br/>ID: 23447</description>
+		<Point> 
+			<coordinates>
+			-121.536796,38.563826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Webster NB<br/>ID: 23615</description>
+		<Point> 
+			<coordinates>
+			-121.5264,38.575318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Webster NB<br/>ID: 23615</description>
+		<Point> 
+			<coordinates>
+			-121.5264,38.575318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Webster SB<br/>ID: 23616</description>
+		<Point> 
+			<coordinates>
+			-121.526426,38.575316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Webster SB<br/>ID: 23616</description>
+		<Point> 
+			<coordinates>
+			-121.526426,38.575316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pioneer at E. Gum NB<br/>ID: 23097</description>
+		<Point> 
+			<coordinates>
+			-121.742177,38.669723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pioneer at E. Gum NB<br/>ID: 23097</description>
+		<Point> 
+			<coordinates>
+			-121.742177,38.669723,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pioneer at Spring Lake NB<br/>ID: 23307</description>
+		<Point> 
+			<coordinates>
+			-121.745375,38.67334,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pioneer at Spring Lake NB<br/>ID: 23307</description>
+		<Point> 
+			<coordinates>
+			-121.745375,38.67334,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poleline at Chestnut NB<br/>ID: 23371</description>
+		<Point> 
+			<coordinates>
+			-121.730488,38.559782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poleline at Chestnut NB<br/>ID: 23371</description>
+		<Point> 
+			<coordinates>
+			-121.730488,38.559782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poleline at Chestnut SB<br/>ID: 23207</description>
+		<Point> 
+			<coordinates>
+			-121.730198,38.559487,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poleline at Chestnut SB<br/>ID: 23207</description>
+		<Point> 
+			<coordinates>
+			-121.730198,38.559487,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poleline at Covell<br/>ID: 23206</description>
+		<Point> 
+			<coordinates>
+			-121.73111,38.562019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Poleline at Covell<br/>ID: 23206</description>
+		<Point> 
+			<coordinates>
+			-121.73111,38.562019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Promenade at Golden Gate<br/>ID: 23593</description>
+		<Point> 
+			<coordinates>
+			-121.567448,38.543366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Promenade at Golden Gate<br/>ID: 23593</description>
+		<Point> 
+			<coordinates>
+			-121.567448,38.543366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 5th St.<br/>ID: 23532</description>
+		<Point> 
+			<coordinates>
+			-121.502985,38.574215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 5th St.<br/>ID: 23532</description>
+		<Point> 
+			<coordinates>
+			-121.502985,38.574215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 7th St.<br/>ID: 23533</description>
+		<Point> 
+			<coordinates>
+			-121.500298,38.573498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Q St. at 7th St.<br/>ID: 23533</description>
+		<Point> 
+			<coordinates>
+			-121.500298,38.573498,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Railroad at Main (Madison)<br/>ID: 23353</description>
+		<Point> 
+			<coordinates>
+			-121.968471,38.679074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Railroad at Main (Madison)<br/>ID: 23353</description>
+		<Point> 
+			<coordinates>
+			-121.968471,38.679074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at I-80 WB<br/>ID: 23263</description>
+		<Point> 
+			<coordinates>
+			-121.55123,38.592017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at I-80 WB<br/>ID: 23263</description>
+		<Point> 
+			<coordinates>
+			-121.55123,38.592017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Ikea EB<br/>ID: 23264</description>
+		<Point> 
+			<coordinates>
+			-121.548297,38.591686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Ikea EB<br/>ID: 23264</description>
+		<Point> 
+			<coordinates>
+			-121.548297,38.591686,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Oak EB<br/>ID: 23380</description>
+		<Point> 
+			<coordinates>
+			-121.543951,38.591411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Oak EB<br/>ID: 23380</description>
+		<Point> 
+			<coordinates>
+			-121.543951,38.591411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Oak WB<br/>ID: 23379</description>
+		<Point> 
+			<coordinates>
+			-121.543933,38.591536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Oak WB<br/>ID: 23379</description>
+		<Point> 
+			<coordinates>
+			-121.543933,38.591536,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Stillwater<br/>ID: 23265</description>
+		<Point> 
+			<coordinates>
+			-121.55703,38.592272,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Reed at Stillwater<br/>ID: 23265</description>
+		<Point> 
+			<coordinates>
+			-121.55703,38.592272,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverpoint at Harbor WB<br/>ID: 23565</description>
+		<Point> 
+			<coordinates>
+			-121.546535,38.589222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverpoint at Harbor WB<br/>ID: 23565</description>
+		<Point> 
+			<coordinates>
+			-121.546535,38.589222,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverpoint at Wal-Mart<br/>ID: 23567</description>
+		<Point> 
+			<coordinates>
+			-121.549915,38.589111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverpoint at Wal-Mart<br/>ID: 23567</description>
+		<Point> 
+			<coordinates>
+			-121.549915,38.589111,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at Cummins Co.<br/>ID: 23267</description>
+		<Point> 
+			<coordinates>
+			-121.566233,38.589568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at Cummins Co.<br/>ID: 23267</description>
+		<Point> 
+			<coordinates>
+			-121.566233,38.589568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at Embarcadero WB<br/>ID: 23579</description>
+		<Point> 
+			<coordinates>
+			-121.562974,38.585803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at Embarcadero WB<br/>ID: 23579</description>
+		<Point> 
+			<coordinates>
+			-121.562974,38.585803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at Social Security<br/>ID: 23478</description>
+		<Point> 
+			<coordinates>
+			-121.564031,38.590828,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at Social Security<br/>ID: 23478</description>
+		<Point> 
+			<coordinates>
+			-121.564031,38.590828,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at State Library WB<br/>ID: 23330</description>
+		<Point> 
+			<coordinates>
+			-121.56633,38.586596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riverside at State Library WB<br/>ID: 23330</description>
+		<Point> 
+			<coordinates>
+			-121.56633,38.586596,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at A St. EB<br/>ID: 23209</description>
+		<Point> 
+			<coordinates>
+			-121.747135,38.546166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at A St. EB<br/>ID: 23209</description>
+		<Point> 
+			<coordinates>
+			-121.747135,38.546166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at A St.WB<br/>ID: 23208</description>
+		<Point> 
+			<coordinates>
+			-121.747162,38.546287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at A St.WB<br/>ID: 23208</description>
+		<Point> 
+			<coordinates>
+			-121.747162,38.546287,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at California EB<br/>ID: 23359</description>
+		<Point> 
+			<coordinates>
+			-121.753875,38.546173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at California EB<br/>ID: 23359</description>
+		<Point> 
+			<coordinates>
+			-121.753875,38.546173,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at California WB<br/>ID: 23360</description>
+		<Point> 
+			<coordinates>
+			-121.753836,38.546303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Russell at California WB<br/>ID: 23360</description>
+		<Point> 
+			<coordinates>
+			-121.753836,38.546303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Bryte EB<br/>ID: 23437</description>
+		<Point> 
+			<coordinates>
+			-121.53711,38.590606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Bryte EB<br/>ID: 23437</description>
+		<Point> 
+			<coordinates>
+			-121.53711,38.590606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Bryte WB<br/>ID: 23436</description>
+		<Point> 
+			<coordinates>
+			-121.536526,38.590555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Bryte WB<br/>ID: 23436</description>
+		<Point> 
+			<coordinates>
+			-121.536526,38.590555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Douglas<br/>ID: 23519</description>
+		<Point> 
+			<coordinates>
+			-121.523809,38.589177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Douglas<br/>ID: 23519</description>
+		<Point> 
+			<coordinates>
+			-121.523809,38.589177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Jefferson EB<br/>ID: 23434</description>
+		<Point> 
+			<coordinates>
+			-121.527365,38.58957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Jefferson EB<br/>ID: 23434</description>
+		<Point> 
+			<coordinates>
+			-121.527365,38.58957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Jefferson WB<br/>ID: 23514</description>
+		<Point> 
+			<coordinates>
+			-121.52797,38.589681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Jefferson WB<br/>ID: 23514</description>
+		<Point> 
+			<coordinates>
+			-121.52797,38.589681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Todhunter<br/>ID: 23332</description>
+		<Point> 
+			<coordinates>
+			-121.533576,38.590219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Todhunter<br/>ID: 23332</description>
+		<Point> 
+			<coordinates>
+			-121.533576,38.590219,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Todhunter WB<br/>ID: 23435</description>
+		<Point> 
+			<coordinates>
+			-121.533608,38.590252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sacramento at Todhunter WB<br/>ID: 23435</description>
+		<Point> 
+			<coordinates>
+			-121.533608,38.590252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silo at UC Davis<br/>ID: 1453</description>
+		<Point> 
+			<coordinates>
+			-121.753844,38.539214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Silo at UC Davis<br/>ID: 1453</description>
+		<Point> 
+			<coordinates>
+			-121.753844,38.539214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Solano at Sacramento NB<br/>ID: 23266</description>
+		<Point> 
+			<coordinates>
+			-121.539945,38.591371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Solano at Sacramento NB<br/>ID: 23266</description>
+		<Point> 
+			<coordinates>
+			-121.539945,38.591371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Solano at Sacramento SB<br/>ID: 23327</description>
+		<Point> 
+			<coordinates>
+			-121.539996,38.591356,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Solano at Sacramento SB<br/>ID: 23327</description>
+		<Point> 
+			<coordinates>
+			-121.539996,38.591356,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Marshall<br/>ID: 23590</description>
+		<Point> 
+			<coordinates>
+			-121.576054,38.535911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Marshall<br/>ID: 23590</description>
+		<Point> 
+			<coordinates>
+			-121.576054,38.535911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Oakland Bay<br/>ID: 23591</description>
+		<Point> 
+			<coordinates>
+			-121.576069,38.539766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Oakland Bay<br/>ID: 23591</description>
+		<Point> 
+			<coordinates>
+			-121.576069,38.539766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Oakland Bay SB<br/>ID: 23467</description>
+		<Point> 
+			<coordinates>
+			-121.576226,38.538305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Oakland Bay SB<br/>ID: 23467</description>
+		<Point> 
+			<coordinates>
+			-121.576226,38.538305,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Promenade<br/>ID: 23592</description>
+		<Point> 
+			<coordinates>
+			-121.570113,38.544985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southport Pkwy at Promenade<br/>ID: 23592</description>
+		<Point> 
+			<coordinates>
+			-121.570113,38.544985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stillwater at Citi Group<br/>ID: 23328</description>
+		<Point> 
+			<coordinates>
+			-121.558004,38.588569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stillwater at Citi Group<br/>ID: 23328</description>
+		<Point> 
+			<coordinates>
+			-121.558004,38.588569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stillwater at Reed<br/>ID: 23329</description>
+		<Point> 
+			<coordinates>
+			-121.555768,38.591486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stillwater at Reed<br/>ID: 23329</description>
+		<Point> 
+			<coordinates>
+			-121.555768,38.591486,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stockton Blvd &amp; Colonial Way (NB)<br/>ID: 1811</description>
+		<Point> 
+			<coordinates>
+			-121.458494,38.555405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stockton Blvd &amp; Colonial Way (NB)<br/>ID: 1811</description>
+		<Point> 
+			<coordinates>
+			-121.458494,38.555405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stockton Blvd &amp; Colonial Way (SB)<br/>ID: 3718</description>
+		<Point> 
+			<coordinates>
+			-121.458465,38.555248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Stockton Blvd &amp; Colonial Way (SB)<br/>ID: 3718</description>
+		<Point> 
+			<coordinates>
+			-121.458465,38.555248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: T Street &amp; 45th (WB)<br/>ID: 883</description>
+		<Point> 
+			<coordinates>
+			-121.466227,38.560415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: T Street &amp; 45th (WB)<br/>ID: 883</description>
+		<Point> 
+			<coordinates>
+			-121.466227,38.560415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Temple at Balsam WB<br/>ID: 23210</description>
+		<Point> 
+			<coordinates>
+			-121.716779,38.561934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Temple at Balsam WB<br/>ID: 23210</description>
+		<Point> 
+			<coordinates>
+			-121.716779,38.561934,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Temple at Tulip EB<br/>ID: 23211</description>
+		<Point> 
+			<coordinates>
+			-121.717231,38.561861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Temple at Tulip EB<br/>ID: 23211</description>
+		<Point> 
+			<coordinates>
+			-121.717231,38.561861,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terminal A (Airport)<br/>ID: 23492</description>
+		<Point> 
+			<coordinates>
+			-121.588611,38.692428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terminal A (Airport)<br/>ID: 23492</description>
+		<Point> 
+			<coordinates>
+			-121.588611,38.692428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terminal B (Airport)<br/>ID: 23493</description>
+		<Point> 
+			<coordinates>
+			-121.590511,38.691231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Terminal B (Airport)<br/>ID: 23493</description>
+		<Point> 
+			<coordinates>
+			-121.590511,38.691231,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tower Bridge Gtwy at Garden EB<br/>ID: 23576</description>
+		<Point> 
+			<coordinates>
+			-121.517669,38.581142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tower Bridge Gtwy at Garden EB<br/>ID: 23576</description>
+		<Point> 
+			<coordinates>
+			-121.517669,38.581142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tower Bridge Gtwy at Raley Field EB<br/>ID: 23575</description>
+		<Point> 
+			<coordinates>
+			-121.513954,38.581887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tower Bridge Gtwy at Raley Field EB<br/>ID: 23575</description>
+		<Point> 
+			<coordinates>
+			-121.513954,38.581887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tower Bridge Gtwy at Raley Field WB<br/>ID: 23574</description>
+		<Point> 
+			<coordinates>
+			-121.511925,38.581589,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tower Bridge Gtwy at Raley Field WB<br/>ID: 23574</description>
+		<Point> 
+			<coordinates>
+			-121.511925,38.581589,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip at Blackburn<br/>ID: 23213</description>
+		<Point> 
+			<coordinates>
+			-121.71753,38.560497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip at Blackburn<br/>ID: 23213</description>
+		<Point> 
+			<coordinates>
+			-121.71753,38.560497,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip at Blackburn SB<br/>ID: 23212</description>
+		<Point> 
+			<coordinates>
+			-121.717511,38.560006,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip at Blackburn SB<br/>ID: 23212</description>
+		<Point> 
+			<coordinates>
+			-121.717511,38.560006,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip at Cascade NB<br/>ID: 23214</description>
+		<Point> 
+			<coordinates>
+			-121.717286,38.558102,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tulip at Cascade NB<br/>ID: 23214</description>
+		<Point> 
+			<coordinates>
+			-121.717286,38.558102,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UC Davis Health Sciences SB<br/>ID: 23010</description>
+		<Point> 
+			<coordinates>
+			-121.764383,38.535099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UC Davis Health Sciences SB<br/>ID: 23010</description>
+		<Point> 
+			<coordinates>
+			-121.764383,38.535099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UC Davis Memorial Union<br/>ID: 23003</description>
+		<Point> 
+			<coordinates>
+			-121.749801,38.543957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: UC Davis Memorial Union<br/>ID: 23003</description>
+		<Point> 
+			<coordinates>
+			-121.749801,38.543957,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Veterans at Maxwell<br/>ID: 23503</description>
+		<Point> 
+			<coordinates>
+			-121.723848,38.66938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Veterans at Maxwell<br/>ID: 23503</description>
+		<Point> 
+			<coordinates>
+			-121.723848,38.66938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at Mariposa EB<br/>ID: 23014</description>
+		<Point> 
+			<coordinates>
+			-121.790058,38.68476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at Mariposa EB<br/>ID: 23014</description>
+		<Point> 
+			<coordinates>
+			-121.790058,38.68476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at Mariposa WB<br/>ID: 23013</description>
+		<Point> 
+			<coordinates>
+			-121.789903,38.684787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at Mariposa WB<br/>ID: 23013</description>
+		<Point> 
+			<coordinates>
+			-121.789903,38.684787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at West EB<br/>ID: 23020</description>
+		<Point> 
+			<coordinates>
+			-121.784168,38.684769,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at West EB<br/>ID: 23020</description>
+		<Point> 
+			<coordinates>
+			-121.784168,38.684769,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at West WB<br/>ID: 23019</description>
+		<Point> 
+			<coordinates>
+			-121.78443,38.684795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Beamer at West WB<br/>ID: 23019</description>
+		<Point> 
+			<coordinates>
+			-121.78443,38.684795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Cedar WB<br/>ID: 23277</description>
+		<Point> 
+			<coordinates>
+			-121.539416,38.579871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Cedar WB<br/>ID: 23277</description>
+		<Point> 
+			<coordinates>
+			-121.539416,38.579871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Enterprise EB<br/>ID: 23279</description>
+		<Point> 
+			<coordinates>
+			-121.576128,38.575351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Enterprise EB<br/>ID: 23279</description>
+		<Point> 
+			<coordinates>
+			-121.576128,38.575351,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Enterprise WB<br/>ID: 23278</description>
+		<Point> 
+			<coordinates>
+			-121.57618,38.575365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Enterprise WB<br/>ID: 23278</description>
+		<Point> 
+			<coordinates>
+			-121.57618,38.575365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Glide EB<br/>ID: 23281</description>
+		<Point> 
+			<coordinates>
+			-121.545123,38.579392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Glide EB<br/>ID: 23281</description>
+		<Point> 
+			<coordinates>
+			-121.545123,38.579392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Glide WB<br/>ID: 23280</description>
+		<Point> 
+			<coordinates>
+			-121.545649,38.579503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Glide WB<br/>ID: 23280</description>
+		<Point> 
+			<coordinates>
+			-121.545649,38.579503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Harbor EB<br/>ID: 23283</description>
+		<Point> 
+			<coordinates>
+			-121.547664,38.579241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Harbor EB<br/>ID: 23283</description>
+		<Point> 
+			<coordinates>
+			-121.547664,38.579241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Harbor WB<br/>ID: 23282</description>
+		<Point> 
+			<coordinates>
+			-121.547373,38.579392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Harbor WB<br/>ID: 23282</description>
+		<Point> 
+			<coordinates>
+			-121.547373,38.579392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Interstate Co. WB<br/>ID: 23322</description>
+		<Point> 
+			<coordinates>
+			-121.57123,38.576963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Interstate Co. WB<br/>ID: 23322</description>
+		<Point> 
+			<coordinates>
+			-121.57123,38.576963,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Interstate EB<br/>ID: 23321</description>
+		<Point> 
+			<coordinates>
+			-121.571732,38.576759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Interstate EB<br/>ID: 23321</description>
+		<Point> 
+			<coordinates>
+			-121.571732,38.576759,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Jefferson EB<br/>ID: 23285</description>
+		<Point> 
+			<coordinates>
+			-121.526224,38.580661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Jefferson EB<br/>ID: 23285</description>
+		<Point> 
+			<coordinates>
+			-121.526224,38.580661,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Jefferson WB<br/>ID: 23284</description>
+		<Point> 
+			<coordinates>
+			-121.525938,38.58087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Jefferson WB<br/>ID: 23284</description>
+		<Point> 
+			<coordinates>
+			-121.525938,38.58087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Merkley<br/>ID: 23472</description>
+		<Point> 
+			<coordinates>
+			-121.522535,38.581496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Merkley<br/>ID: 23472</description>
+		<Point> 
+			<coordinates>
+			-121.522535,38.581496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Northport EB<br/>ID: 23325</description>
+		<Point> 
+			<coordinates>
+			-121.562171,38.578445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Northport EB<br/>ID: 23325</description>
+		<Point> 
+			<coordinates>
+			-121.562171,38.578445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Northport WB<br/>ID: 23326</description>
+		<Point> 
+			<coordinates>
+			-121.561909,38.578488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Northport WB<br/>ID: 23326</description>
+		<Point> 
+			<coordinates>
+			-121.561909,38.578488,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Pecan WB<br/>ID: 23286</description>
+		<Point> 
+			<coordinates>
+			-121.542085,38.579698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Pecan WB<br/>ID: 23286</description>
+		<Point> 
+			<coordinates>
+			-121.542085,38.579698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Pine EB<br/>ID: 23288</description>
+		<Point> 
+			<coordinates>
+			-121.555216,38.578878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Pine EB<br/>ID: 23288</description>
+		<Point> 
+			<coordinates>
+			-121.555216,38.578878,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Pine WB<br/>ID: 23287</description>
+		<Point> 
+			<coordinates>
+			-121.555659,38.578893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Pine WB<br/>ID: 23287</description>
+		<Point> 
+			<coordinates>
+			-121.555659,38.578893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Poplar EB<br/>ID: 23290</description>
+		<Point> 
+			<coordinates>
+			-121.533714,38.580076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Poplar EB<br/>ID: 23290</description>
+		<Point> 
+			<coordinates>
+			-121.533714,38.580076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Poplar WB<br/>ID: 23289</description>
+		<Point> 
+			<coordinates>
+			-121.534689,38.580198,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Poplar WB<br/>ID: 23289</description>
+		<Point> 
+			<coordinates>
+			-121.534689,38.580198,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Roadway EB<br/>ID: 23323</description>
+		<Point> 
+			<coordinates>
+			-121.567073,38.578122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Roadway EB<br/>ID: 23323</description>
+		<Point> 
+			<coordinates>
+			-121.567073,38.578122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Roadway WB<br/>ID: 23324</description>
+		<Point> 
+			<coordinates>
+			-121.566715,38.578196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Roadway WB<br/>ID: 23324</description>
+		<Point> 
+			<coordinates>
+			-121.566715,38.578196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Sycamore EB<br/>ID: 23291</description>
+		<Point> 
+			<coordinates>
+			-121.537523,38.579825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Sycamore EB<br/>ID: 23291</description>
+		<Point> 
+			<coordinates>
+			-121.537523,38.579825,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Walnut EB<br/>ID: 23292</description>
+		<Point> 
+			<coordinates>
+			-121.539937,38.579687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Walnut EB<br/>ID: 23292</description>
+		<Point> 
+			<coordinates>
+			-121.539937,38.579687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Westacre EB<br/>ID: 23333</description>
+		<Point> 
+			<coordinates>
+			-121.530935,38.580225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Westacre EB<br/>ID: 23333</description>
+		<Point> 
+			<coordinates>
+			-121.530935,38.580225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Westacre WB<br/>ID: 23335</description>
+		<Point> 
+			<coordinates>
+			-121.530802,38.580433,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Capitol at Westacre WB<br/>ID: 23335</description>
+		<Point> 
+			<coordinates>
+			-121.530802,38.580433,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Court at Cottonwood EB<br/>ID: 23294</description>
+		<Point> 
+			<coordinates>
+			-121.793592,38.678915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Court at Cottonwood EB<br/>ID: 23294</description>
+		<Point> 
+			<coordinates>
+			-121.793592,38.678915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Denali<br/>ID: 23150</description>
+		<Point> 
+			<coordinates>
+			-121.778391,38.560964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Denali<br/>ID: 23150</description>
+		<Point> 
+			<coordinates>
+			-121.778391,38.560964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at John Jones<br/>ID: 23560</description>
+		<Point> 
+			<coordinates>
+			-121.7708,38.561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at John Jones<br/>ID: 23560</description>
+		<Point> 
+			<coordinates>
+			-121.7708,38.561,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Shasta EB<br/>ID: 23219</description>
+		<Point> 
+			<coordinates>
+			-121.77196,38.560831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Shasta EB<br/>ID: 23219</description>
+		<Point> 
+			<coordinates>
+			-121.77196,38.560831,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Shasta WB<br/>ID: 23157</description>
+		<Point> 
+			<coordinates>
+			-121.773089,38.560914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Shasta WB<br/>ID: 23157</description>
+		<Point> 
+			<coordinates>
+			-121.773089,38.560914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Sycamore EB<br/>ID: 23156</description>
+		<Point> 
+			<coordinates>
+			-121.764471,38.560788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Sycamore EB<br/>ID: 23156</description>
+		<Point> 
+			<coordinates>
+			-121.764471,38.560788,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Sycamore WB<br/>ID: 23155</description>
+		<Point> 
+			<coordinates>
+			-121.764656,38.560938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Covell at Sycamore WB<br/>ID: 23155</description>
+		<Point> 
+			<coordinates>
+			-121.764656,38.560938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Amherst EB<br/>ID: 23052</description>
+		<Point> 
+			<coordinates>
+			-121.790898,38.663029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Amherst EB<br/>ID: 23052</description>
+		<Point> 
+			<coordinates>
+			-121.790898,38.663029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Amherst WB<br/>ID: 23051</description>
+		<Point> 
+			<coordinates>
+			-121.791555,38.663072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Amherst WB<br/>ID: 23051</description>
+		<Point> 
+			<coordinates>
+			-121.791555,38.663072,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Midway EB<br/>ID: 23059</description>
+		<Point> 
+			<coordinates>
+			-121.786763,38.662987,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Midway EB<br/>ID: 23059</description>
+		<Point> 
+			<coordinates>
+			-121.786763,38.662987,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Midway WB<br/>ID: 23058</description>
+		<Point> 
+			<coordinates>
+			-121.787069,38.66303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at Midway WB<br/>ID: 23058</description>
+		<Point> 
+			<coordinates>
+			-121.787069,38.66303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at West WB<br/>ID: 23064</description>
+		<Point> 
+			<coordinates>
+			-121.785002,38.663002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Gibson at West WB<br/>ID: 23064</description>
+		<Point> 
+			<coordinates>
+			-121.785002,38.663002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Kentucky at N. Ashley<br/>ID: 23498</description>
+		<Point> 
+			<coordinates>
+			-121.797571,38.692117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Kentucky at N. Ashley<br/>ID: 23498</description>
+		<Point> 
+			<coordinates>
+			-121.797571,38.692117,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Lincoln at Ashley WB<br/>ID: 23075</description>
+		<Point> 
+			<coordinates>
+			-121.797256,38.675893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Lincoln at Ashley WB<br/>ID: 23075</description>
+		<Point> 
+			<coordinates>
+			-121.797256,38.675893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Lincoln at Rd 98 EB<br/>ID: 23293</description>
+		<Point> 
+			<coordinates>
+			-121.801838,38.675253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Lincoln at Rd 98 EB<br/>ID: 23293</description>
+		<Point> 
+			<coordinates>
+			-121.801838,38.675253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Lincoln at Rd 98 WB<br/>ID: 23305</description>
+		<Point> 
+			<coordinates>
+			-121.801319,38.675537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Lincoln at Rd 98 WB<br/>ID: 23305</description>
+		<Point> 
+			<coordinates>
+			-121.801319,38.675537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Main at Community EB<br/>ID: 23081</description>
+		<Point> 
+			<coordinates>
+			-121.791895,38.677576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Main at Community EB<br/>ID: 23081</description>
+		<Point> 
+			<coordinates>
+			-121.791895,38.677576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Main at Community WB<br/>ID: 23080</description>
+		<Point> 
+			<coordinates>
+			-121.791425,38.677601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: W. Main at Community WB<br/>ID: 23080</description>
+		<Point> 
+			<coordinates>
+			-121.791425,38.677601,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water at Hobson SB<br/>ID: 23272</description>
+		<Point> 
+			<coordinates>
+			-121.541353,38.592354,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water at Hobson SB<br/>ID: 23272</description>
+		<Point> 
+			<coordinates>
+			-121.541353,38.592354,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water at Lisbon<br/>ID: 23271</description>
+		<Point> 
+			<coordinates>
+			-121.542313,38.594585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Water at Lisbon<br/>ID: 23271</description>
+		<Point> 
+			<coordinates>
+			-121.542313,38.594585,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at Clover NB<br/>ID: 23100</description>
+		<Point> 
+			<coordinates>
+			-121.783968,38.682775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at Clover NB<br/>ID: 23100</description>
+		<Point> 
+			<coordinates>
+			-121.783968,38.682775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at Clover SB<br/>ID: 23099</description>
+		<Point> 
+			<coordinates>
+			-121.784024,38.682448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at Clover SB<br/>ID: 23099</description>
+		<Point> 
+			<coordinates>
+			-121.784024,38.682448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at North NB<br/>ID: 23101</description>
+		<Point> 
+			<coordinates>
+			-121.784004,38.680118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at North NB<br/>ID: 23101</description>
+		<Point> 
+			<coordinates>
+			-121.784004,38.680118,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at North SB<br/>ID: 23102</description>
+		<Point> 
+			<coordinates>
+			-121.784053,38.679898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at North SB<br/>ID: 23102</description>
+		<Point> 
+			<coordinates>
+			-121.784053,38.679898,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at Park SB<br/>ID: 23502</description>
+		<Point> 
+			<coordinates>
+			-121.784106,38.673133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West at Park SB<br/>ID: 23502</description>
+		<Point> 
+			<coordinates>
+			-121.784106,38.673133,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Sacramento Transit Center<br/>ID: 23473</description>
+		<Point> 
+			<coordinates>
+			-121.52248,38.580933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: West Sacramento Transit Center<br/>ID: 23473</description>
+		<Point> 
+			<coordinates>
+			-121.52248,38.580933,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodland Community &amp; Senior Center NB<br/>ID: 23494</description>
+		<Point> 
+			<coordinates>
+			-121.764946,38.653802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodland Community &amp; Senior Center NB<br/>ID: 23494</description>
+		<Point> 
+			<coordinates>
+			-121.764946,38.653802,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodland Community College<br/>ID: 23302</description>
+		<Point> 
+			<coordinates>
+			-121.735556,38.661089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Woodland Community College<br/>ID: 23302</description>
+		<Point> 
+			<coordinates>
+			-121.735556,38.661089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Y Street &amp; 45th<br/>ID: 1434</description>
+		<Point> 
+			<coordinates>
+			-121.45288,38.5525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Y Street &amp; 45th<br/>ID: 1434</description>
+		<Point> 
+			<coordinates>
+			-121.45288,38.5525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Yolo at Grafton (Esparto) NB<br/>ID: 23354</description>
+		<Point> 
+			<coordinates>
+			-122.016722,38.692773,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Yolo at Grafton (Esparto) NB<br/>ID: 23354</description>
+		<Point> 
+			<coordinates>
+			-122.016722,38.692773,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Yolo at Grafton (Esparto) SB<br/>ID: 23355</description>
+		<Point> 
+			<coordinates>
+			-122.016728,38.692962,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Yolo at Grafton (Esparto) SB<br/>ID: 23355</description>
+		<Point> 
+			<coordinates>
+			-122.016728,38.692962,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

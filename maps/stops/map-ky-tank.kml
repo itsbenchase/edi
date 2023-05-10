@@ -1,0 +1,7718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ky-tank stops</name>
+	<Style id="stop"> 
+		<IconStyle> 
+			<scale>0.5</scale> 
+			<Icon> 
+				<href>icon.png</href> 
+			</Icon> 
+		</IconStyle> 
+	</Style>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2nd at Benham<br/>ID: 212342</description>
+		<Point> 
+			<coordinates>
+			-84.462984,39.116476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at AMC Theatres<br/>ID: 23701070</description>
+		<Point> 
+			<coordinates>
+			-84.495433,39.094542,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Clay Wade Bailey Lot<br/>ID: 33701051</description>
+		<Point> 
+			<coordinates>
+			-84.518427,39.08767,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Courtyard Marriott<br/>ID: 303080</description>
+		<Point> 
+			<coordinates>
+			-84.5192,39.0877,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Crescent<br/>ID: 303100</description>
+		<Point> 
+			<coordinates>
+			-84.524523,39.087707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Crescent<br/>ID: 303241</description>
+		<Point> 
+			<coordinates>
+			-84.524085,39.087524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Main<br/>ID: 303261</description>
+		<Point> 
+			<coordinates>
+			-84.517864,39.087584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Main<br/>ID: 43701100</description>
+		<Point> 
+			<coordinates>
+			-84.509667,39.099135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Newport on the Levee<br/>ID: 212281</description>
+		<Point> 
+			<coordinates>
+			-84.4965,39.0939,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Newport on the Levee<br/>ID: 23701131</description>
+		<Point> 
+			<coordinates>
+			-84.496335,39.093814,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Performance Lexus<br/>ID: 303251</description>
+		<Point> 
+			<coordinates>
+			-84.521557,39.087544,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Philadelphia<br/>ID: 303090</description>
+		<Point> 
+			<coordinates>
+			-84.519956,39.087643,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Saratoga<br/>ID: 23701060</description>
+		<Point> 
+			<coordinates>
+			-84.494344,39.095176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Saratoga<br/>ID: 23701141</description>
+		<Point> 
+			<coordinates>
+			-84.494789,39.094638,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3rd at Washington<br/>ID: 23701151</description>
+		<Point> 
+			<coordinates>
+			-84.493384,39.095527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Boone<br/>ID: 212041</description>
+		<Point> 
+			<coordinates>
+			-84.46646,39.115174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Columbia<br/>ID: 216050</description>
+		<Point> 
+			<coordinates>
+			-84.497827,39.091467,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Johnson<br/>ID: 301612</description>
+		<Point> 
+			<coordinates>
+			-84.515419,39.086599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Kenton<br/>ID: 212031</description>
+		<Point> 
+			<coordinates>
+			-84.464852,39.115051,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Madison<br/>ID: 301602</description>
+		<Point> 
+			<coordinates>
+			-84.510977,39.087099,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Main<br/>ID: 212051</description>
+		<Point> 
+			<coordinates>
+			-84.468043,39.115332,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Sycamore<br/>ID: 402032</description>
+		<Point> 
+			<coordinates>
+			-84.508213,39.100617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Vine<br/>ID: 402040</description>
+		<Point> 
+			<coordinates>
+			-84.512148,39.100101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 4th at Walnut<br/>ID: 401012</description>
+		<Point> 
+			<coordinates>
+			-84.51065,39.100331,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Bakewell<br/>ID: 33701072</description>
+		<Point> 
+			<coordinates>
+			-84.518761,39.085317,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Benham<br/>ID: 212310</description>
+		<Point> 
+			<coordinates>
+			-84.463572,39.113993,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Boone<br/>ID: 212290</description>
+		<Point> 
+			<coordinates>
+			-84.466797,39.114298,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Broadway<br/>ID: 43701111</description>
+		<Point> 
+			<coordinates>
+			-84.506605,39.102057,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Central<br/>ID: 216161</description>
+		<Point> 
+			<coordinates>
+			-84.497942,39.090301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Clark<br/>ID: 212320</description>
+		<Point> 
+			<coordinates>
+			-84.4621,39.113879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Elm<br/>ID: 402012</description>
+		<Point> 
+			<coordinates>
+			-84.516252,39.100646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Fountain Square<br/>ID: 43701102</description>
+		<Point> 
+			<coordinates>
+			-84.5124,39.101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Johnson<br/>ID: 33701170</description>
+		<Point> 
+			<coordinates>
+			-84.515998,39.085314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Kenton<br/>ID: 212300</description>
+		<Point> 
+			<coordinates>
+			-84.465206,39.11416,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Lawrence<br/>ID: 412030</description>
+		<Point> 
+			<coordinates>
+			-84.505143,39.102266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Sycamore<br/>ID: 42501030</description>
+		<Point> 
+			<coordinates>
+			-84.508068,39.101854,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at Vine<br/>ID: 402022</description>
+		<Point> 
+			<coordinates>
+			-84.513798,39.100943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5th at York<br/>ID: 216171</description>
+		<Point> 
+			<coordinates>
+			-84.496276,39.091218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Berry<br/>ID: 2120711</description>
+		<Point> 
+			<coordinates>
+			-84.471098,39.113826,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Berry<br/>ID: 212260</description>
+		<Point> 
+			<coordinates>
+			-84.471194,39.113649,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Clay<br/>ID: 212270</description>
+		<Point> 
+			<coordinates>
+			-84.470109,39.113764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Dayton<br/>ID: 212081</description>
+		<Point> 
+			<coordinates>
+			-84.472751,39.112997,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Dayton<br/>ID: 212250</description>
+		<Point> 
+			<coordinates>
+			-84.472513,39.113003,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Ervin<br/>ID: 212101</description>
+		<Point> 
+			<coordinates>
+			-84.475663,39.111717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Ervin<br/>ID: 212240</description>
+		<Point> 
+			<coordinates>
+			-84.475861,39.111481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Isabella<br/>ID: 216080</description>
+		<Point> 
+			<coordinates>
+			-84.49863,39.08837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Linden<br/>ID: 212130</description>
+		<Point> 
+			<coordinates>
+			-84.486189,39.095553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Linden<br/>ID: 212201</description>
+		<Point> 
+			<coordinates>
+			-84.486076,39.095712,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Main<br/>ID: 212280</description>
+		<Point> 
+			<coordinates>
+			-84.468515,39.113592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Maple<br/>ID: 212120</description>
+		<Point> 
+			<coordinates>
+			-84.487066,39.095041,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Maple<br/>ID: 212211</description>
+		<Point> 
+			<coordinates>
+			-84.486969,39.095221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at McKinney<br/>ID: 212091</description>
+		<Point> 
+			<coordinates>
+			-84.474237,39.112347,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at McKinney<br/>ID: 2122410</description>
+		<Point> 
+			<coordinates>
+			-84.474556,39.112013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Monmouth<br/>ID: 212060</description>
+		<Point> 
+			<coordinates>
+			-84.493307,39.091566,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Monroe<br/>ID: 212100</description>
+		<Point> 
+			<coordinates>
+			-84.488885,39.094022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Monroe<br/>ID: 212231</description>
+		<Point> 
+			<coordinates>
+			-84.48892,39.094135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at O Fallon<br/>ID: 212131</description>
+		<Point> 
+			<coordinates>
+			-84.479947,39.109119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at O Fallon<br/>ID: 212210</description>
+		<Point> 
+			<coordinates>
+			-84.479766,39.109076,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Oak<br/>ID: 212140</description>
+		<Point> 
+			<coordinates>
+			-84.485296,39.096056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Oak<br/>ID: 212191</description>
+		<Point> 
+			<coordinates>
+			-84.485189,39.096216,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Overton<br/>ID: 212090</description>
+		<Point> 
+			<coordinates>
+			-84.489782,39.09355,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Overton<br/>ID: 212241</description>
+		<Point> 
+			<coordinates>
+			-84.48965,39.093735,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Park<br/>ID: 212110</description>
+		<Point> 
+			<coordinates>
+			-84.487953,39.094531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Park<br/>ID: 212221</description>
+		<Point> 
+			<coordinates>
+			-84.487849,39.094728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Saratoga<br/>ID: 212070</description>
+		<Point> 
+			<coordinates>
+			-84.492233,39.09214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Saratoga<br/>ID: 212261</description>
+		<Point> 
+			<coordinates>
+			-84.492096,39.092365,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Vine<br/>ID: 212111</description>
+		<Point> 
+			<coordinates>
+			-84.477103,39.110912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Vine<br/>ID: 212230</description>
+		<Point> 
+			<coordinates>
+			-84.477153,39.110757,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Walnut<br/>ID: 212121</description>
+		<Point> 
+			<coordinates>
+			-84.47873,39.109897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Walnut<br/>ID: 212220</description>
+		<Point> 
+			<coordinates>
+			-84.478441,39.10992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Washington<br/>ID: 212080</description>
+		<Point> 
+			<coordinates>
+			-84.490892,39.092902,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 6th at Washington<br/>ID: 212251</description>
+		<Point> 
+			<coordinates>
+			-84.490704,39.093158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th at Madison<br/>ID: 61140</description>
+		<Point> 
+			<coordinates>
+			-84.510002,39.082136,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th at Russell<br/>ID: 301541</description>
+		<Point> 
+			<coordinates>
+			-84.513072,39.081695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 8th at Washington<br/>ID: 301551</description>
+		<Point> 
+			<coordinates>
+			-84.511403,39.081936,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th at Central<br/>ID: 146</description>
+		<Point> 
+			<coordinates>
+			-84.494526,39.086086,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th at Patterson<br/>ID: 147</description>
+		<Point> 
+			<coordinates>
+			-84.497162,39.084549,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 9th at Washington<br/>ID: 148</description>
+		<Point> 
+			<coordinates>
+			-84.487732,39.089772,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Central<br/>ID: 216130</description>
+		<Point> 
+			<coordinates>
+			-84.492359,39.083366,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Columbia<br/>ID: 216091</description>
+		<Point> 
+			<coordinates>
+			-84.490903,39.084314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Columbia<br/>ID: 216140</description>
+		<Point> 
+			<coordinates>
+			-84.490978,39.084126,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Greenup<br/>ID: 308571</description>
+		<Point> 
+			<coordinates>
+			-84.505976,39.079396,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Isabella<br/>ID: 216101</description>
+		<Point> 
+			<coordinates>
+			-84.493576,39.082839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at John<br/>ID: 216071</description>
+		<Point> 
+			<coordinates>
+			-84.488225,39.085792,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at John<br/>ID: 216160</description>
+		<Point> 
+			<coordinates>
+			-84.488459,39.085524,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Madison<br/>ID: 308581</description>
+		<Point> 
+			<coordinates>
+			-84.50882,39.078981,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at Saratoga<br/>ID: 10</description>
+		<Point> 
+			<coordinates>
+			-84.486795,39.086604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at York<br/>ID: 216081</description>
+		<Point> 
+			<coordinates>
+			-84.489807,39.08493,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 11th at York<br/>ID: 216150</description>
+		<Point> 
+			<coordinates>
+			-84.489614,39.084882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th at Garrard<br/>ID: 308130</description>
+		<Point> 
+			<coordinates>
+			-84.502834,39.074397,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th at Garrard<br/>ID: 308521</description>
+		<Point> 
+			<coordinates>
+			-84.502752,39.074475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th at Greenup<br/>ID: 308120</description>
+		<Point> 
+			<coordinates>
+			-84.504406,39.074082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th at Kendall<br/>ID: 308140</description>
+		<Point> 
+			<coordinates>
+			-84.501627,39.074555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th at Wheeler<br/>ID: 308150</description>
+		<Point> 
+			<coordinates>
+			-84.500634,39.074743,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 15th at Wheeler<br/>ID: 308511</description>
+		<Point> 
+			<coordinates>
+			-84.500458,39.074882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 19th at Howell<br/>ID: 305182</description>
+		<Point> 
+			<coordinates>
+			-84.511925,39.065795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 19th at Howell<br/>ID: 305332</description>
+		<Point> 
+			<coordinates>
+			-84.512004,39.065677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 19th at Summer Hill<br/>ID: 33</description>
+		<Point> 
+			<coordinates>
+			-84.482131,39.079976,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 20th at Scott<br/>ID: 490</description>
+		<Point> 
+			<coordinates>
+			-84.504177,39.067284,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 30th at 31st<br/>ID: 308280</description>
+		<Point> 
+			<coordinates>
+			-84.501501,39.054671,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 30th at 31st<br/>ID: 308381</description>
+		<Point> 
+			<coordinates>
+			-84.501047,39.054742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 30th at Decoursey<br/>ID: 308290</description>
+		<Point> 
+			<coordinates>
+			-84.50319,39.053912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 30th at Frazier<br/>ID: 308371</description>
+		<Point> 
+			<coordinates>
+			-84.502142,39.054247,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 34th at Beech<br/>ID: 307131</description>
+		<Point> 
+			<coordinates>
+			-84.508582,39.048303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 34th at Caroline<br/>ID: 307111</description>
+		<Point> 
+			<coordinates>
+			-84.506029,39.049448,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 34th at Caroline<br/>ID: 307370</description>
+		<Point> 
+			<coordinates>
+			-84.505897,39.04939,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 34th at Graff<br/>ID: 307121</description>
+		<Point> 
+			<coordinates>
+			-84.506963,39.049043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 34th at Graff<br/>ID: 307360</description>
+		<Point> 
+			<coordinates>
+			-84.507075,39.048829,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 45th at Huntington<br/>ID: 71</description>
+		<Point> 
+			<coordinates>
+			-84.4948,39.0373,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 226 Main<br/>ID: 40</description>
+		<Point> 
+			<coordinates>
+			-84.490788,39.07742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 229 Main<br/>ID: 42</description>
+		<Point> 
+			<coordinates>
+			-84.490656,39.077382,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 303 Highway<br/>ID: 303141</description>
+		<Point> 
+			<coordinates>
+			-84.540825,39.091443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 929 Highland<br/>ID: 305321</description>
+		<Point> 
+			<coordinates>
+			-84.523066,39.059388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 930 Highland<br/>ID: 305230</description>
+		<Point> 
+			<coordinates>
+			-84.523231,39.0592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1155 Worldwide<br/>ID: 140101</description>
+		<Point> 
+			<coordinates>
+			-84.715212,39.083837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1155 Worldwide<br/>ID: 140132</description>
+		<Point> 
+			<coordinates>
+			-84.715066,39.083794,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1180 Worldwide<br/>ID: 140111</description>
+		<Point> 
+			<coordinates>
+			-84.716681,39.083012,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1190 Worldwide<br/>ID: 140091</description>
+		<Point> 
+			<coordinates>
+			-84.714901,39.085556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1200 Worldwide<br/>ID: 140121</description>
+		<Point> 
+			<coordinates>
+			-84.720813,39.083856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1405 Worldwide<br/>ID: 140122</description>
+		<Point> 
+			<coordinates>
+			-84.716642,39.082893,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1500 Worldwide<br/>ID: 140131</description>
+		<Point> 
+			<coordinates>
+			-84.724662,39.084701,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1545 Worldwide<br/>ID: 140112</description>
+		<Point> 
+			<coordinates>
+			-84.721237,39.083821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1600 Worldwide<br/>ID: 140141</description>
+		<Point> 
+			<coordinates>
+			-84.72746,39.086266,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1605 Worldwide<br/>ID: 140092</description>
+		<Point> 
+			<coordinates>
+			-84.727372,39.085949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1605 Worldwide<br/>ID: 140102</description>
+		<Point> 
+			<coordinates>
+			-84.724839,39.084611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1770 Worldwide<br/>ID: 140151</description>
+		<Point> 
+			<coordinates>
+			-84.728164,39.086873,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1801 Alexandria<br/>ID: 225330</description>
+		<Point> 
+			<coordinates>
+			-84.446443,39.048652,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 1801 Alexandria<br/>ID: 225361</description>
+		<Point> 
+			<coordinates>
+			-84.446216,39.048695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2030 Meridian<br/>ID: 140182</description>
+		<Point> 
+			<coordinates>
+			-84.702559,39.088189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2266 South Park<br/>ID: 140152</description>
+		<Point> 
+			<coordinates>
+			-84.706237,39.08666,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2431 Wright<br/>ID: 139071</description>
+		<Point> 
+			<coordinates>
+			-84.709498,39.056857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2720 Madison<br/>ID: 305410</description>
+		<Point> 
+			<coordinates>
+			-84.501672,39.057375,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 2725 Madison<br/>ID: 305131</description>
+		<Point> 
+			<coordinates>
+			-84.501798,39.057168,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3680 Langley<br/>ID: 139051</description>
+		<Point> 
+			<coordinates>
+			-84.712189,39.061728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 3720 Langley<br/>ID: 139061</description>
+		<Point> 
+			<coordinates>
+			-84.71361,39.059729,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 5010 Alexandria<br/>ID: 225650</description>
+		<Point> 
+			<coordinates>
+			-84.42606,39.005307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: 7970 Dixie<br/>ID: 142091</description>
+		<Point> 
+			<coordinates>
+			-84.620326,38.981423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adela at Elm<br/>ID: 303061</description>
+		<Point> 
+			<coordinates>
+			-84.553041,39.092185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adela at Elm<br/>ID: 303280</description>
+		<Point> 
+			<coordinates>
+			-84.553218,39.09208,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Adela at Oak<br/>ID: 303290</description>
+		<Point> 
+			<coordinates>
+			-84.552552,39.091699,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Arlington<br/>ID: 225411</description>
+		<Point> 
+			<coordinates>
+			-84.449611,39.056809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Autumn<br/>ID: 225680</description>
+		<Point> 
+			<coordinates>
+			-84.41617,38.996113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Backus<br/>ID: 225031</description>
+		<Point> 
+			<coordinates>
+			-84.406219,38.98925,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Barkley Ridge Apts<br/>ID: 225170</description>
+		<Point> 
+			<coordinates>
+			-84.475287,39.07462,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Barkley Ridge Apts<br/>ID: 225531</description>
+		<Point> 
+			<coordinates>
+			-84.475098,39.074677,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Beverly Hills<br/>ID: 225230</description>
+		<Point> 
+			<coordinates>
+			-84.461467,39.064532,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Beverly Hills<br/>ID: 225471</description>
+		<Point> 
+			<coordinates>
+			-84.4623,39.0648,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Blange<br/>ID: 225311</description>
+		<Point> 
+			<coordinates>
+			-84.44873,39.041095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Blossom<br/>ID: 225091</description>
+		<Point> 
+			<coordinates>
+			-84.427636,39.007381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Blossom<br/>ID: 225240</description>
+		<Point> 
+			<coordinates>
+			-84.454716,39.063836,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Blossom<br/>ID: 225451</description>
+		<Point> 
+			<coordinates>
+			-84.454565,39.063942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Bluegrass<br/>ID: 225160</description>
+		<Point> 
+			<coordinates>
+			-84.477009,39.0755,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Bluegrass<br/>ID: 225541</description>
+		<Point> 
+			<coordinates>
+			-84.476368,39.075234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Bramble<br/>ID: 225390</description>
+		<Point> 
+			<coordinates>
+			-84.448795,39.041629,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Buning<br/>ID: 225590</description>
+		<Point> 
+			<coordinates>
+			-84.437737,39.019684,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Camp<br/>ID: 225291</description>
+		<Point> 
+			<coordinates>
+			-84.450896,39.038145,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Camp<br/>ID: 225410</description>
+		<Point> 
+			<coordinates>
+			-84.450939,39.038329,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Cannon<br/>ID: 225461</description>
+		<Point> 
+			<coordinates>
+			-84.459603,39.06481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Carroll<br/>ID: 225140</description>
+		<Point> 
+			<coordinates>
+			-84.478855,39.077374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Carroll<br/>ID: 225561</description>
+		<Point> 
+			<coordinates>
+			-84.478925,39.077595,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Concord<br/>ID: 225280</description>
+		<Point> 
+			<coordinates>
+			-84.449606,39.056397,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Crossroads<br/>ID: 225071</description>
+		<Point> 
+			<coordinates>
+			-84.424871,39.004579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Crowell<br/>ID: 225300</description>
+		<Point> 
+			<coordinates>
+			-84.449473,39.054616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Crowell<br/>ID: 225391</description>
+		<Point> 
+			<coordinates>
+			-84.449206,39.054258,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Custis<br/>ID: 225501</description>
+		<Point> 
+			<coordinates>
+			-84.47068,39.071885,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Dale<br/>ID: 225370</description>
+		<Point> 
+			<coordinates>
+			-84.446956,39.044205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Dexter<br/>ID: 225150</description>
+		<Point> 
+			<coordinates>
+			-84.477681,39.076185,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Dexter<br/>ID: 225551</description>
+		<Point> 
+			<coordinates>
+			-84.477753,39.076523,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Downing<br/>ID: 225141</description>
+		<Point> 
+			<coordinates>
+			-84.437847,39.020175,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at E Alexandria<br/>ID: 225131</description>
+		<Point> 
+			<coordinates>
+			-84.436,39.0186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at French<br/>ID: 225560</description>
+		<Point> 
+			<coordinates>
+			-84.442975,39.024011,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Ft Thomas<br/>ID: 225260</description>
+		<Point> 
+			<coordinates>
+			-84.451563,39.059153,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Ft Thomas<br/>ID: 225431</description>
+		<Point> 
+			<coordinates>
+			-84.451099,39.058823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Grandview<br/>ID: 225250</description>
+		<Point> 
+			<coordinates>
+			-84.452893,39.062675,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Grandview<br/>ID: 225441</description>
+		<Point> 
+			<coordinates>
+			-84.452698,39.062687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Grant<br/>ID: 225270</description>
+		<Point> 
+			<coordinates>
+			-84.450773,39.058248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Harvest<br/>ID: 225051</description>
+		<Point> 
+			<coordinates>
+			-84.417295,38.998177,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Hawthorne<br/>ID: 225401</description>
+		<Point> 
+			<coordinates>
+			-84.449343,39.055243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Holly Woods<br/>ID: 225310</description>
+		<Point> 
+			<coordinates>
+			-84.447924,39.0527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Holly Woods<br/>ID: 225381</description>
+		<Point> 
+			<coordinates>
+			-84.447874,39.052903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Industrial<br/>ID: 225171</description>
+		<Point> 
+			<coordinates>
+			-84.446489,39.025799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Johns Hill<br/>ID: 22501060</description>
+		<Point> 
+			<coordinates>
+			-84.451983,39.031139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Johns Hill<br/>ID: 22501201</description>
+		<Point> 
+			<coordinates>
+			-84.451938,39.031668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Joyce<br/>ID: 225190</description>
+		<Point> 
+			<coordinates>
+			-84.471495,39.072565,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Joyce<br/>ID: 225511</description>
+		<Point> 
+			<coordinates>
+			-84.471138,39.072378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Louie B Nunn<br/>ID: 22501040</description>
+		<Point> 
+			<coordinates>
+			-84.454066,39.034703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Louie B Nunn<br/>ID: 22501211</description>
+		<Point> 
+			<coordinates>
+			-84.453766,39.035008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Low Gap<br/>ID: 225041</description>
+		<Point> 
+			<coordinates>
+			-84.409429,38.992211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Low Gap<br/>ID: 225690</description>
+		<Point> 
+			<coordinates>
+			-84.409638,38.991872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Lowe's<br/>ID: 225301</description>
+		<Point> 
+			<coordinates>
+			-84.449063,39.039755,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Lowe's<br/>ID: 225400</description>
+		<Point> 
+			<coordinates>
+			-84.449276,39.039841,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Main<br/>ID: 225340</description>
+		<Point> 
+			<coordinates>
+			-84.446117,39.047667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Maple<br/>ID: 225351</description>
+		<Point> 
+			<coordinates>
+			-84.445887,39.047698,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Marian<br/>ID: 225151</description>
+		<Point> 
+			<coordinates>
+			-84.44035,39.022346,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Marian<br/>ID: 225580</description>
+		<Point> 
+			<coordinates>
+			-84.439965,39.021634,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Marshall<br/>ID: 22501050</description>
+		<Point> 
+			<coordinates>
+			-84.453313,39.033371,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Matinee<br/>ID: 225600</description>
+		<Point> 
+			<coordinates>
+			-84.435986,39.018189,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Meijer<br/>ID: 225061</description>
+		<Point> 
+			<coordinates>
+			-84.418237,38.999135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Meijer<br/>ID: 225670</description>
+		<Point> 
+			<coordinates>
+			-84.418424,38.998858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at ML Collins<br/>ID: 22501191</description>
+		<Point> 
+			<coordinates>
+			-84.450835,39.029754,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at ML Collins<br/>ID: 225520</description>
+		<Point> 
+			<coordinates>
+			-84.4504,39.0286,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Monterey<br/>ID: 225181</description>
+		<Point> 
+			<coordinates>
+			-84.448241,39.026762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Monterey<br/>ID: 225540</description>
+		<Point> 
+			<coordinates>
+			-84.448092,39.026293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Moock<br/>ID: 225220</description>
+		<Point> 
+			<coordinates>
+			-84.467184,39.068729,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Moock<br/>ID: 225481</description>
+		<Point> 
+			<coordinates>
+			-84.466702,39.068742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Murnan<br/>ID: 225121</description>
+		<Point> 
+			<coordinates>
+			-84.434838,39.01745,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Murnan<br/>ID: 225610</description>
+		<Point> 
+			<coordinates>
+			-84.434945,39.017132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Neltner<br/>ID: 225530</description>
+		<Point> 
+			<coordinates>
+			-84.44928,39.027438,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Old Winters<br/>ID: 225161</description>
+		<Point> 
+			<coordinates>
+			-84.443124,39.024451,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Overlook<br/>ID: 225210</description>
+		<Point> 
+			<coordinates>
+			-84.468929,39.069781,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Overlook<br/>ID: 225491</description>
+		<Point> 
+			<coordinates>
+			-84.468699,39.069789,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Plaza<br/>ID: 225660</description>
+		<Point> 
+			<coordinates>
+			-84.424648,39.004029,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Pleasant<br/>ID: 225290</description>
+		<Point> 
+			<coordinates>
+			-84.449544,39.055356,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Pooles Creek<br/>ID: 225550</description>
+		<Point> 
+			<coordinates>
+			-84.444866,39.025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Renshaw<br/>ID: 225321</description>
+		<Point> 
+			<coordinates>
+			-84.448241,39.042835,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Renshaw<br/>ID: 225380</description>
+		<Point> 
+			<coordinates>
+			-84.448312,39.043074,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Ripple Creek<br/>ID: 225101</description>
+		<Point> 
+			<coordinates>
+			-84.429614,39.009762,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Riverview<br/>ID: 225421</description>
+		<Point> 
+			<coordinates>
+			-84.45049,39.058135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Rose<br/>ID: 225081</description>
+		<Point> 
+			<coordinates>
+			-84.42653,39.006215,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Rose<br/>ID: 225341</description>
+		<Point> 
+			<coordinates>
+			-84.445606,39.046796,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Rose<br/>ID: 225350</description>
+		<Point> 
+			<coordinates>
+			-84.445767,39.046572,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Springside<br/>ID: 225111</description>
+		<Point> 
+			<coordinates>
+			-84.432055,39.012976,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Springside<br/>ID: 225620</description>
+		<Point> 
+			<coordinates>
+			-84.432409,39.012839,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at St Michael<br/>ID: 225570</description>
+		<Point> 
+			<coordinates>
+			-84.441427,39.022822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Steelman<br/>ID: 225331</description>
+		<Point> 
+			<coordinates>
+			-84.4458,39.04484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Steelman<br/>ID: 225360</description>
+		<Point> 
+			<coordinates>
+			-84.446035,39.044806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Sturbridge<br/>ID: 225640</description>
+		<Point> 
+			<coordinates>
+			-84.42743,39.006646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Summit<br/>ID: 225630</description>
+		<Point> 
+			<coordinates>
+			-84.430839,39.010512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Sunset<br/>ID: 225281</description>
+		<Point> 
+			<coordinates>
+			-84.452818,39.037064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Sunset<br/>ID: 225420</description>
+		<Point> 
+			<coordinates>
+			-84.452586,39.037352,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Temple<br/>ID: 225200</description>
+		<Point> 
+			<coordinates>
+			-84.470547,39.071459,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Veterans<br/>ID: 225320</description>
+		<Point> 
+			<coordinates>
+			-84.447331,39.051337,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Veterans<br/>ID: 225371</description>
+		<Point> 
+			<coordinates>
+			-84.447094,39.051437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Viewpoint<br/>ID: 225021</description>
+		<Point> 
+			<coordinates>
+			-84.404329,38.987013,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Viewpoint<br/>ID: 225700</description>
+		<Point> 
+			<coordinates>
+			-84.404415,38.986696,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Willow<br/>ID: 225180</description>
+		<Point> 
+			<coordinates>
+			-84.474092,39.074229,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Alexandria at Willow<br/>ID: 225521</description>
+		<Point> 
+			<coordinates>
+			-84.473691,39.074188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Amazon GSE Building<br/>ID: 132092</description>
+		<Point> 
+			<coordinates>
+			-84.667988,39.025209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bakewell at 3rd<br/>ID: 301030</description>
+		<Point> 
+			<coordinates>
+			-84.518756,39.087553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benham at 4th<br/>ID: 212021</description>
+		<Point> 
+			<coordinates>
+			-84.463433,39.114964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benton at Phelps<br/>ID: 305312</description>
+		<Point> 
+			<coordinates>
+			-84.513772,39.05787,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Benton at White<br/>ID: 305302</description>
+		<Point> 
+			<coordinates>
+			-84.512615,39.057941,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bluegrass at Alexandria<br/>ID: 264</description>
+		<Point> 
+			<coordinates>
+			-84.477016,39.0752,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bluegrass at Alexandria<br/>ID: 265</description>
+		<Point> 
+			<coordinates>
+			-84.476994,39.074965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Bluegrass at Kentucky<br/>ID: 266</description>
+		<Point> 
+			<coordinates>
+			-84.482812,39.074242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boone at Main<br/>ID: 303370</description>
+		<Point> 
+			<coordinates>
+			-84.55967,39.082679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boone at Pleasant<br/>ID: 303380</description>
+		<Point> 
+			<coordinates>
+			-84.558793,39.08328,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Boone at Steve Tanner<br/>ID: 303360</description>
+		<Point> 
+			<coordinates>
+			-84.560096,39.082391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Broadway at Pete Rose<br/>ID: 412040</description>
+		<Point> 
+			<coordinates>
+			-84.505398,39.099114,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Boone Aire<br/>ID: 132041</description>
+		<Point> 
+			<coordinates>
+			-84.664109,39.008363,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Centennial<br/>ID: 132070</description>
+		<Point> 
+			<coordinates>
+			-84.675135,39.014888,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Greenview<br/>ID: 132050</description>
+		<Point> 
+			<coordinates>
+			-84.659057,39.006876,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Hopeful Church<br/>ID: 132061</description>
+		<Point> 
+			<coordinates>
+			-84.6545,39.0045,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Houston<br/>ID: 132040</description>
+		<Point> 
+			<coordinates>
+			-84.6545,39.005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Kenner<br/>ID: 132021</description>
+		<Point> 
+			<coordinates>
+			-84.678449,39.016299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Ridge<br/>ID: 132051</description>
+		<Point> 
+			<coordinates>
+			-84.658869,39.006556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Service<br/>ID: 132071</description>
+		<Point> 
+			<coordinates>
+			-84.651229,39.002514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Woodspoint<br/>ID: 132030</description>
+		<Point> 
+			<coordinates>
+			-84.651168,39.002907,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Zig Zag<br/>ID: 132031</description>
+		<Point> 
+			<coordinates>
+			-84.668292,39.010611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington at Zig Zag<br/>ID: 132060</description>
+		<Point> 
+			<coordinates>
+			-84.668073,39.010882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Burlington Park and Ride<br/>ID: 132082</description>
+		<Point> 
+			<coordinates>
+			-84.6931,39.0192,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Buttermilk Park and Ride<br/>ID: 317042</description>
+		<Point> 
+			<coordinates>
+			-84.574682,39.049689,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Campus at Student Union<br/>ID: 727</description>
+		<Point> 
+			<coordinates>
+			-84.463375,39.028916,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Caroline at Southern<br/>ID: 307380</description>
+		<Point> 
+			<coordinates>
+			-84.504913,39.04766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Caroline at Tibbatts<br/>ID: 307101</description>
+		<Point> 
+			<coordinates>
+			-84.504509,39.047815,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Carothers at Newport Plaza<br/>ID: 216051</description>
+		<Point> 
+			<coordinates>
+			-84.479648,39.085874,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Carothers at Newport Plaza<br/>ID: 216180</description>
+		<Point> 
+			<coordinates>
+			-84.47979,39.08559,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Carothers at Newport Shopping Center<br/>ID: 216170</description>
+		<Point> 
+			<coordinates>
+			-84.482949,39.084343,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Carothers at Pavilion<br/>ID: 216041</description>
+		<Point> 
+			<coordinates>
+			-84.477684,39.086514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Carothers at Pavilion<br/>ID: 216190</description>
+		<Point> 
+			<coordinates>
+			-84.477529,39.086325,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Central at 5th<br/>ID: 216060</description>
+		<Point> 
+			<coordinates>
+			-84.4981,39.0897,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Central at 6th<br/>ID: 216070</description>
+		<Point> 
+			<coordinates>
+			-84.497519,39.089092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clark at 4th<br/>ID: 212330</description>
+		<Point> 
+			<coordinates>
+			-84.461715,39.114657,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clay at 5th<br/>ID: 212061</description>
+		<Point> 
+			<coordinates>
+			-84.4699,39.115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Clay at 6th<br/>ID: 212071</description>
+		<Point> 
+			<coordinates>
+			-84.470048,39.113917,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Conner at North Bend<br/>ID: 139091</description>
+		<Point> 
+			<coordinates>
+			-84.70405,39.0568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Covington Transit Center<br/>ID: 301042</description>
+		<Point> 
+			<coordinates>
+			-84.510755,39.088795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crosby at Magellan<br/>ID: 308231</description>
+		<Point> 
+			<coordinates>
+			-84.517543,39.027577,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Crosby at Magellan<br/>ID: 308420</description>
+		<Point> 
+			<coordinates>
+			-84.517586,39.027385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CVG Airport Terminal<br/>ID: 102062</description>
+		<Point> 
+			<coordinates>
+			-84.653813,39.055392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: CVG Centre<br/>ID: 102142</description>
+		<Point> 
+			<coordinates>
+			-84.664051,39.041887,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Cowens at Linden<br/>ID: 23701171</description>
+		<Point> 
+			<coordinates>
+			-84.491205,39.099281,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Cowens at Park<br/>ID: 23701050</description>
+		<Point> 
+			<coordinates>
+			-84.492919,39.098182,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Cowens at Park<br/>ID: 23701161</description>
+		<Point> 
+			<coordinates>
+			-84.492855,39.09786,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Cowens at Riverboat<br/>ID: 23701030</description>
+		<Point> 
+			<coordinates>
+			-84.488926,39.101738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Cowens at Riviera<br/>ID: 23701181</description>
+		<Point> 
+			<coordinates>
+			-84.488793,39.101517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dave Cowens at Vue 180<br/>ID: 23701040</description>
+		<Point> 
+			<coordinates>
+			-84.490843,39.099982,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 31st<br/>ID: 308300</description>
+		<Point> 
+			<coordinates>
+			-84.503298,39.053195,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 31st<br/>ID: 308361</description>
+		<Point> 
+			<coordinates>
+			-84.503151,39.053214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 32nd<br/>ID: 308351</description>
+		<Point> 
+			<coordinates>
+			-84.503014,39.052191,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 34th<br/>ID: 308310</description>
+		<Point> 
+			<coordinates>
+			-84.503238,39.05058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 36th<br/>ID: 308320</description>
+		<Point> 
+			<coordinates>
+			-84.503268,39.048811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 36th<br/>ID: 308341</description>
+		<Point> 
+			<coordinates>
+			-84.503132,39.048618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at 44th<br/>ID: 336</description>
+		<Point> 
+			<coordinates>
+			-84.496766,39.039417,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at Church<br/>ID: 331</description>
+		<Point> 
+			<coordinates>
+			-84.50285,39.047015,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at E 39th<br/>ID: 332</description>
+		<Point> 
+			<coordinates>
+			-84.500382,39.045205,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at E 41st<br/>ID: 333</description>
+		<Point> 
+			<coordinates>
+			-84.499269,39.042525,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at E 42nd<br/>ID: 334</description>
+		<Point> 
+			<coordinates>
+			-84.498542,39.041621,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at E 43rd<br/>ID: 335</description>
+		<Point> 
+			<coordinates>
+			-84.497634,39.040604,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Decoursey at E 45th<br/>ID: 337</description>
+		<Point> 
+			<coordinates>
+			-84.495812,39.037455,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: DHL North Lot<br/>ID: 102122</description>
+		<Point> 
+			<coordinates>
+			-84.65742,39.033662,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Arlington<br/>ID: 301130</description>
+		<Point> 
+			<coordinates>
+			-84.528932,39.068401,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Arlington<br/>ID: 301471</description>
+		<Point> 
+			<coordinates>
+			-84.528642,39.068453,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Ashwood<br/>ID: 301170</description>
+		<Point> 
+			<coordinates>
+			-84.540722,39.060345,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Ashwood<br/>ID: 301431</description>
+		<Point> 
+			<coordinates>
+			-84.540713,39.059979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Buttermilk<br/>ID: 301240</description>
+		<Point> 
+			<coordinates>
+			-84.561151,39.036264,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Cave Run<br/>ID: 301221</description>
+		<Point> 
+			<coordinates>
+			-84.611494,39.008456,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Cave Run<br/>ID: 301380</description>
+		<Point> 
+			<coordinates>
+			-84.611607,39.008591,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Circle<br/>ID: 142051</description>
+		<Point> 
+			<coordinates>
+			-84.624518,38.992914,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Commonwealth<br/>ID: 301340</description>
+		<Point> 
+			<coordinates>
+			-84.601119,39.016603,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Crestview Hills Town Center<br/>ID: 301290</description>
+		<Point> 
+			<coordinates>
+			-84.581471,39.026584,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Crestview Hills Town Center<br/>ID: 301312</description>
+		<Point> 
+			<coordinates>
+			-84.581499,39.026105,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Eastern<br/>ID: 301211</description>
+		<Point> 
+			<coordinates>
+			-84.614167,39.006383,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Edgewood<br/>ID: 301300</description>
+		<Point> 
+			<coordinates>
+			-84.586069,39.022409,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Edgewood<br/>ID: 301301</description>
+		<Point> 
+			<coordinates>
+			-84.585889,39.022184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Erlanger Town Center<br/>ID: 301281</description>
+		<Point> 
+			<coordinates>
+			-84.592325,39.020144,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Expressway Plaza<br/>ID: 301210</description>
+		<Point> 
+			<coordinates>
+			-84.552329,39.046858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Expressway Plaza<br/>ID: 301391</description>
+		<Point> 
+			<coordinates>
+			-84.552039,39.046739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Forest<br/>ID: 301241</description>
+		<Point> 
+			<coordinates>
+			-84.607324,39.011938,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Forest<br/>ID: 301360</description>
+		<Point> 
+			<coordinates>
+			-84.607416,39.012034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Fort Mitchell<br/>ID: 301200</description>
+		<Point> 
+			<coordinates>
+			-84.549632,39.053655,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Fort Mitchell<br/>ID: 301401</description>
+		<Point> 
+			<coordinates>
+			-84.549734,39.053282,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Fortside<br/>ID: 301180</description>
+		<Point> 
+			<coordinates>
+			-84.545683,39.056694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Fortside<br/>ID: 301421</description>
+		<Point> 
+			<coordinates>
+			-84.545733,39.056551,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Garvey<br/>ID: 301251</description>
+		<Point> 
+			<coordinates>
+			-84.605439,39.013485,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Geisen<br/>ID: 301331</description>
+		<Point> 
+			<coordinates>
+			-84.570443,39.031632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Hallam<br/>ID: 301271</description>
+		<Point> 
+			<coordinates>
+			-84.597581,39.017891,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Hallam<br/>ID: 301330</description>
+		<Point> 
+			<coordinates>
+			-84.597614,39.018092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Highland<br/>ID: 301220</description>
+		<Point> 
+			<coordinates>
+			-84.555018,39.04093,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Highland<br/>ID: 301381</description>
+		<Point> 
+			<coordinates>
+			-84.555029,39.040737,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Hilton<br/>ID: 301451</description>
+		<Point> 
+			<coordinates>
+			-84.535061,39.063637,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Hudson<br/>ID: 301260</description>
+		<Point> 
+			<coordinates>
+			-84.567663,39.033067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Industrial<br/>ID: 142101</description>
+		<Point> 
+			<coordinates>
+			-84.619811,38.979581,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Industrial<br/>ID: 142170</description>
+		<Point> 
+			<coordinates>
+			-84.619817,38.980799,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Kentaboo<br/>ID: 301390</description>
+		<Point> 
+			<coordinates>
+			-84.614066,39.006558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Kenton Lands<br/>ID: 301291</description>
+		<Point> 
+			<coordinates>
+			-84.588768,39.021019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Kenton Lands<br/>ID: 301310</description>
+		<Point> 
+			<coordinates>
+			-84.588921,39.021268,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Lakeside<br/>ID: 301250</description>
+		<Point> 
+			<coordinates>
+			-84.565614,39.034024,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Lakeside<br/>ID: 301351</description>
+		<Point> 
+			<coordinates>
+			-84.566057,39.033691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Lane<br/>ID: 301270</description>
+		<Point> 
+			<coordinates>
+			-84.570497,39.031733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Lookout Farm<br/>ID: 301280</description>
+		<Point> 
+			<coordinates>
+			-84.573865,39.030335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Main<br/>ID: 301231</description>
+		<Point> 
+			<coordinates>
+			-84.609312,39.010277,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at McAlpin<br/>ID: 301350</description>
+		<Point> 
+			<coordinates>
+			-84.605584,39.013542,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at New Buffington<br/>ID: 142081</description>
+		<Point> 
+			<coordinates>
+			-84.620683,38.982929,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at New Buffington<br/>ID: 142180</description>
+		<Point> 
+			<coordinates>
+			-84.620216,38.981928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Orphanage<br/>ID: 301361</description>
+		<Point> 
+			<coordinates>
+			-84.561033,39.036112,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Pinehurst<br/>ID: 142071</description>
+		<Point> 
+			<coordinates>
+			-84.621805,38.986517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Pinehurst<br/>ID: 142190</description>
+		<Point> 
+			<coordinates>
+			-84.621445,38.986145,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Pleasant Ridge<br/>ID: 301230</description>
+		<Point> 
+			<coordinates>
+			-84.557181,39.038948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Pleasant Ridge<br/>ID: 301371</description>
+		<Point> 
+			<coordinates>
+			-84.557215,39.038782,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Riehl<br/>ID: 142061</description>
+		<Point> 
+			<coordinates>
+			-84.622717,38.989474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Roger<br/>ID: 142200</description>
+		<Point> 
+			<coordinates>
+			-84.622685,38.989844,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Shenandoah<br/>ID: 142220</description>
+		<Point> 
+			<coordinates>
+			-84.625665,38.996469,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Silverlake Plaza<br/>ID: 301320</description>
+		<Point> 
+			<coordinates>
+			-84.593001,39.020204,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Sleepy Hollow<br/>ID: 301160</description>
+		<Point> 
+			<coordinates>
+			-84.537985,39.063303,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Sleepy Hollow<br/>ID: 301441</description>
+		<Point> 
+			<coordinates>
+			-84.538027,39.063056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at St James<br/>ID: 301150</description>
+		<Point> 
+			<coordinates>
+			-84.535456,39.063692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at St Johns<br/>ID: 301190</description>
+		<Point> 
+			<coordinates>
+			-84.548051,39.055481,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at St Johns<br/>ID: 301411</description>
+		<Point> 
+			<coordinates>
+			-84.548026,39.055314,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at St Joseph<br/>ID: 301140</description>
+		<Point> 
+			<coordinates>
+			-84.530792,39.06618,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at St Joseph<br/>ID: 301461</description>
+		<Point> 
+			<coordinates>
+			-84.530584,39.066254,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at St Jude<br/>ID: 142210</description>
+		<Point> 
+			<coordinates>
+			-84.624024,38.992441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Stevenson<br/>ID: 301261</description>
+		<Point> 
+			<coordinates>
+			-84.599851,39.016886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Sunset<br/>ID: 301370</description>
+		<Point> 
+			<coordinates>
+			-84.609229,39.010502,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Turfway<br/>ID: 101201</description>
+		<Point> 
+			<coordinates>
+			-84.620218,39.004345,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Turfway<br/>ID: 101400</description>
+		<Point> 
+			<coordinates>
+			-84.620036,39.004612,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Turkeyfoot<br/>ID: 301341</description>
+		<Point> 
+			<coordinates>
+			-84.568081,39.032687,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Valley<br/>ID: 142041</description>
+		<Point> 
+			<coordinates>
+			-84.625817,38.996242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Dixie at Whitehouse<br/>ID: 301321</description>
+		<Point> 
+			<coordinates>
+			-84.574057,39.02992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Doering at Florence Walmart<br/>ID: 101071</description>
+		<Point> 
+			<coordinates>
+			-84.650083,39.009336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Doering at Florence Walmart<br/>ID: 101520</description>
+		<Point> 
+			<coordinates>
+			-84.650578,39.009301,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Donaldson at Airfield<br/>ID: 102061</description>
+		<Point> 
+			<coordinates>
+			-84.639046,39.041766,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Donaldson at Airfield<br/>ID: 102110</description>
+		<Point> 
+			<coordinates>
+			-84.639208,39.041681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Donaldson at Mineola<br/>ID: 102071</description>
+		<Point> 
+			<coordinates>
+			-84.639969,39.04496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Donaldson at Mineola<br/>ID: 102100</description>
+		<Point> 
+			<coordinates>
+			-84.640033,39.044932,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Donaldson at Point Pleasant<br/>ID: 102081</description>
+		<Point> 
+			<coordinates>
+			-84.642923,39.055471,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Donaldson at Point Pleasant<br/>ID: 102090</description>
+		<Point> 
+			<coordinates>
+			-84.643101,39.055101,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: E Southern at Lincoln<br/>ID: 519</description>
+		<Point> 
+			<coordinates>
+			-84.500472,39.047509,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 15th<br/>ID: 308501</description>
+		<Point> 
+			<coordinates>
+			-84.498768,39.07494,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 17th<br/>ID: 308180</description>
+		<Point> 
+			<coordinates>
+			-84.498652,39.071609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 17th<br/>ID: 308471</description>
+		<Point> 
+			<coordinates>
+			-84.498556,39.071454,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 18th<br/>ID: 308190</description>
+		<Point> 
+			<coordinates>
+			-84.498671,39.070148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 18th<br/>ID: 308461</description>
+		<Point> 
+			<coordinates>
+			-84.498561,39.069996,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 19th<br/>ID: 308200</description>
+		<Point> 
+			<coordinates>
+			-84.498671,39.069428,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 19th<br/>ID: 308451</description>
+		<Point> 
+			<coordinates>
+			-84.498583,39.06928,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 20th<br/>ID: 308220</description>
+		<Point> 
+			<coordinates>
+			-84.498694,39.067695,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 20th<br/>ID: 308431</description>
+		<Point> 
+			<coordinates>
+			-84.498584,39.067517,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 21st<br/>ID: 308230</description>
+		<Point> 
+			<coordinates>
+			-84.4987,39.066955,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at 21st<br/>ID: 308421</description>
+		<Point> 
+			<coordinates>
+			-84.498588,39.06681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Delmar<br/>ID: 308210</description>
+		<Point> 
+			<coordinates>
+			-84.498666,39.068627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Delmar<br/>ID: 308441</description>
+		<Point> 
+			<coordinates>
+			-84.498571,39.068512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Greenup<br/>ID: 308260</description>
+		<Point> 
+			<coordinates>
+			-84.498977,39.058306,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Greenup<br/>ID: 308401</description>
+		<Point> 
+			<coordinates>
+			-84.49895,39.058252,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Levassor<br/>ID: 308250</description>
+		<Point> 
+			<coordinates>
+			-84.498254,39.061956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Levassor<br/>ID: 308411</description>
+		<Point> 
+			<coordinates>
+			-84.498183,39.061912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Oliver<br/>ID: 308160</description>
+		<Point> 
+			<coordinates>
+			-84.498627,39.073775,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Oliver<br/>ID: 308491</description>
+		<Point> 
+			<coordinates>
+			-84.49853,39.073588,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Patton<br/>ID: 308170</description>
+		<Point> 
+			<coordinates>
+			-84.498645,39.073048,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Patton<br/>ID: 308481</description>
+		<Point> 
+			<coordinates>
+			-84.498531,39.072864,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Eastern at Wallace<br/>ID: 308240</description>
+		<Point> 
+			<coordinates>
+			-84.49862,39.065434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Butler<br/>ID: 303250</description>
+		<Point> 
+			<coordinates>
+			-84.549007,39.093543,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Carneal<br/>ID: 303101</description>
+		<Point> 
+			<coordinates>
+			-84.546662,39.094056,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Carneal<br/>ID: 303230</description>
+		<Point> 
+			<coordinates>
+			-84.546202,39.094358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Davies<br/>ID: 303091</description>
+		<Point> 
+			<coordinates>
+			-84.548399,39.09358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Euclid<br/>ID: 303240</description>
+		<Point> 
+			<coordinates>
+			-84.547833,39.093857,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Kenner<br/>ID: 303081</description>
+		<Point> 
+			<coordinates>
+			-84.550187,39.093069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Kenner<br/>ID: 303260</description>
+		<Point> 
+			<coordinates>
+			-84.550342,39.093158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Locust<br/>ID: 303111</description>
+		<Point> 
+			<coordinates>
+			-84.545081,39.094514,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Locust<br/>ID: 303220</description>
+		<Point> 
+			<coordinates>
+			-84.545033,39.094694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Logans<br/>ID: 303071</description>
+		<Point> 
+			<coordinates>
+			-84.551891,39.092616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Elm at Logans<br/>ID: 303270</description>
+		<Point> 
+			<coordinates>
+			-84.551969,39.092715,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Bluegrass<br/>ID: 142130</description>
+		<Point> 
+			<coordinates>
+			-84.631462,38.972881,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Bluegrass<br/>ID: 142141</description>
+		<Point> 
+			<coordinates>
+			-84.631325,38.972912,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Dixie<br/>ID: 142111</description>
+		<Point> 
+			<coordinates>
+			-84.618903,38.976113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Dixie<br/>ID: 142160</description>
+		<Point> 
+			<coordinates>
+			-84.618594,38.976174,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Dixon<br/>ID: 142121</description>
+		<Point> 
+			<coordinates>
+			-84.623489,38.973293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Dixon<br/>ID: 142150</description>
+		<Point> 
+			<coordinates>
+			-84.623347,38.973151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Duro Bag<br/>ID: 142151</description>
+		<Point> 
+			<coordinates>
+			-84.632033,38.974438,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Empire Connector<br/>ID: 142131</description>
+		<Point> 
+			<coordinates>
+			-84.628842,38.970973,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Empire Connector<br/>ID: 142140</description>
+		<Point> 
+			<coordinates>
+			-84.629764,38.971033,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Industrial<br/>ID: 142110</description>
+		<Point> 
+			<coordinates>
+			-84.630521,38.978545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Industrial<br/>ID: 142161</description>
+		<Point> 
+			<coordinates>
+			-84.630369,38.978495,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Empire at Schwan's<br/>ID: 142120</description>
+		<Point> 
+			<coordinates>
+			-84.632186,38.974377,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Berry<br/>ID: 212180</description>
+		<Point> 
+			<coordinates>
+			-84.485651,39.104221,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Foote<br/>ID: 212141</description>
+		<Point> 
+			<coordinates>
+			-84.482004,39.107472,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Patchen<br/>ID: 212161</description>
+		<Point> 
+			<coordinates>
+			-84.487411,39.103019,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Riviera<br/>ID: 212170</description>
+		<Point> 
+			<coordinates>
+			-84.488116,39.102199,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Taylor<br/>ID: 212151</description>
+		<Point> 
+			<coordinates>
+			-84.4838,39.106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Taylor<br/>ID: 212190</description>
+		<Point> 
+			<coordinates>
+			-84.483994,39.105641,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fairfield at Ward<br/>ID: 212200</description>
+		<Point> 
+			<coordinates>
+			-84.481333,39.107807,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Florence Hub<br/>ID: 101602</description>
+		<Point> 
+			<coordinates>
+			-84.64948,38.987299,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Fort Wright Hub<br/>ID: 305542</description>
+		<Point> 
+			<coordinates>
+			-84.530487,39.035674,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Government Square Area F<br/>ID: 412020</description>
+		<Point> 
+			<coordinates>
+			-84.510112,39.101413,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand at Churchill<br/>ID: 216021</description>
+		<Point> 
+			<coordinates>
+			-84.467138,39.080326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand at Churchill<br/>ID: 216210</description>
+		<Point> 
+			<coordinates>
+			-84.467317,39.080166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand at Grand Towers Apts<br/>ID: 216031</description>
+		<Point> 
+			<coordinates>
+			-84.468926,39.081764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grand at Grand Towers Apts<br/>ID: 216200</description>
+		<Point> 
+			<coordinates>
+			-84.468965,39.081476,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Grandview at Beechwood<br/>ID: 317021</description>
+		<Point> 
+			<coordinates>
+			-84.568566,39.051201,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 3rd<br/>ID: 361101</description>
+		<Point> 
+			<coordinates>
+			-84.508049,39.088691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 5th<br/>ID: 361091</description>
+		<Point> 
+			<coordinates>
+			-84.507394,39.086149,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 6th<br/>ID: 361081</description>
+		<Point> 
+			<coordinates>
+			-84.507107,39.085005,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 7th<br/>ID: 361071</description>
+		<Point> 
+			<coordinates>
+			-84.506816,39.083859,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 8th<br/>ID: 361061</description>
+		<Point> 
+			<coordinates>
+			-84.506491,39.082645,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 9th<br/>ID: 361051</description>
+		<Point> 
+			<coordinates>
+			-84.506243,39.081681,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 11th<br/>ID: 361031</description>
+		<Point> 
+			<coordinates>
+			-84.505571,39.079085,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 15th<br/>ID: 308531</description>
+		<Point> 
+			<coordinates>
+			-84.504262,39.074275,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 16th<br/>ID: 590</description>
+		<Point> 
+			<coordinates>
+			-84.504092,39.072313,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 17th<br/>ID: 591</description>
+		<Point> 
+			<coordinates>
+			-84.5038,39.071082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 18th<br/>ID: 592</description>
+		<Point> 
+			<coordinates>
+			-84.503438,39.069694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 19th<br/>ID: 593</description>
+		<Point> 
+			<coordinates>
+			-84.503173,39.068527,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at 20th<br/>ID: 598</description>
+		<Point> 
+			<coordinates>
+			-84.502925,39.067656,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at Byrd<br/>ID: 308541</description>
+		<Point> 
+			<coordinates>
+			-84.504542,39.075089,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at Martin Luther King Jr<br/>ID: 308561</description>
+		<Point> 
+			<coordinates>
+			-84.505344,39.078113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at Pleasant<br/>ID: 308551</description>
+		<Point> 
+			<coordinates>
+			-84.504846,39.076212,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Greenup at Robbins<br/>ID: 361041</description>
+		<Point> 
+			<coordinates>
+			-84.505937,39.08044,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hansel at Richman<br/>ID: 101141</description>
+		<Point> 
+			<coordinates>
+			-84.634034,39.018648,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hansel at Richman<br/>ID: 101450</description>
+		<Point> 
+			<coordinates>
+			-84.633993,39.018705,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hanser at Highland<br/>ID: 305240</description>
+		<Point> 
+			<coordinates>
+			-84.522045,39.056239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Hanser at Highland<br/>ID: 305311</description>
+		<Point> 
+			<coordinates>
+			-84.5227,39.0567,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Ashlawn<br/>ID: 330061</description>
+		<Point> 
+			<coordinates>
+			-84.536496,39.050899,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Ashlawn<br/>ID: 330080</description>
+		<Point> 
+			<coordinates>
+			-84.53662,39.050913,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Beaumont<br/>ID: 330051</description>
+		<Point> 
+			<coordinates>
+			-84.538496,39.049241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Beaumont<br/>ID: 330090</description>
+		<Point> 
+			<coordinates>
+			-84.538757,39.049176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Benton<br/>ID: 305202</description>
+		<Point> 
+			<coordinates>
+			-84.5162,39.064504,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Benton<br/>ID: 305351</description>
+		<Point> 
+			<coordinates>
+			-84.516407,39.064338,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Emery<br/>ID: 305220</description>
+		<Point> 
+			<coordinates>
+			-84.523111,39.06082,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Emery<br/>ID: 305331</description>
+		<Point> 
+			<coordinates>
+			-84.523002,39.060761,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Franklin<br/>ID: 305192</description>
+		<Point> 
+			<coordinates>
+			-84.514537,39.065195,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Franklin<br/>ID: 305322</description>
+		<Point> 
+			<coordinates>
+			-84.514559,39.065122,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Rays<br/>ID: 305210</description>
+		<Point> 
+			<coordinates>
+			-84.520878,39.063249,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Rays<br/>ID: 305341</description>
+		<Point> 
+			<coordinates>
+			-84.520713,39.063188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Valley Plaza<br/>ID: 330041</description>
+		<Point> 
+			<coordinates>
+			-84.533895,39.036823,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highland at Valley Plaza<br/>ID: 330100</description>
+		<Point> 
+			<coordinates>
+			-84.534854,39.037285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Alberta<br/>ID: 303161</description>
+		<Point> 
+			<coordinates>
+			-84.539505,39.089535,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Alberta<br/>ID: 303170</description>
+		<Point> 
+			<coordinates>
+			-84.539387,39.089611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Altamont<br/>ID: 303140</description>
+		<Point> 
+			<coordinates>
+			-84.534496,39.089139,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Altamont<br/>ID: 303191</description>
+		<Point> 
+			<coordinates>
+			-84.534152,39.08907,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Audrey Steps<br/>ID: 303180</description>
+		<Point> 
+			<coordinates>
+			-84.54066,39.091474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Clark<br/>ID: 303130</description>
+		<Point> 
+			<coordinates>
+			-84.532624,39.08949,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Hathaway<br/>ID: 303120</description>
+		<Point> 
+			<coordinates>
+			-84.531904,39.090234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Kelly-Furnish<br/>ID: 303150</description>
+		<Point> 
+			<coordinates>
+			-84.536103,39.088783,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Louise<br/>ID: 303121</description>
+		<Point> 
+			<coordinates>
+			-84.540714,39.094193,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Louise<br/>ID: 303200</description>
+		<Point> 
+			<coordinates>
+			-84.540556,39.094391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Montrose<br/>ID: 303131</description>
+		<Point> 
+			<coordinates>
+			-84.540915,39.093022,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Montrose<br/>ID: 303190</description>
+		<Point> 
+			<coordinates>
+			-84.540747,39.093034,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Parkway<br/>ID: 303201</description>
+		<Point> 
+			<coordinates>
+			-84.53228,39.089646,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Parkway<br/>ID: 303211</description>
+		<Point> 
+			<coordinates>
+			-84.530567,39.090531,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Parkway Overpass<br/>ID: 303181</description>
+		<Point> 
+			<coordinates>
+			-84.535384,39.0886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at River's Breeze<br/>ID: 303151</description>
+		<Point> 
+			<coordinates>
+			-84.54009,39.090037,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Spring<br/>ID: 303221</description>
+		<Point> 
+			<coordinates>
+			-84.527521,39.089442,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Traverse<br/>ID: 303210</description>
+		<Point> 
+			<coordinates>
+			-84.542469,39.095129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at West<br/>ID: 303160</description>
+		<Point> 
+			<coordinates>
+			-84.537911,39.088858,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at West<br/>ID: 303171</description>
+		<Point> 
+			<coordinates>
+			-84.538187,39.088804,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Western<br/>ID: 303110</description>
+		<Point> 
+			<coordinates>
+			-84.525196,39.08851,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Highway at Western<br/>ID: 303231</description>
+		<Point> 
+			<coordinates>
+			-84.525738,39.088619,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 13th<br/>ID: 305110</description>
+		<Point> 
+			<coordinates>
+			-84.513416,39.075783,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 13th<br/>ID: 305441</description>
+		<Point> 
+			<coordinates>
+			-84.513221,39.075644,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 14th<br/>ID: 305120</description>
+		<Point> 
+			<coordinates>
+			-84.513132,39.074728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 14th<br/>ID: 305431</description>
+		<Point> 
+			<coordinates>
+			-84.512969,39.074713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 16th<br/>ID: 305140</description>
+		<Point> 
+			<coordinates>
+			-84.512184,39.071014,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 16th<br/>ID: 305411</description>
+		<Point> 
+			<coordinates>
+			-84.512017,39.070911,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 17th<br/>ID: 305150</description>
+		<Point> 
+			<coordinates>
+			-84.511902,39.069855,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 17th<br/>ID: 305401</description>
+		<Point> 
+			<coordinates>
+			-84.511764,39.069944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 18th<br/>ID: 305160</description>
+		<Point> 
+			<coordinates>
+			-84.511519,39.06837,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 18th<br/>ID: 305391</description>
+		<Point> 
+			<coordinates>
+			-84.511316,39.068253,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 19th<br/>ID: 305170</description>
+		<Point> 
+			<coordinates>
+			-84.510429,39.066496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at 19th<br/>ID: 305381</description>
+		<Point> 
+			<coordinates>
+			-84.5104,39.0667,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Linden<br/>ID: 305130</description>
+		<Point> 
+			<coordinates>
+			-84.512669,39.072889,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Linden<br/>ID: 305421</description>
+		<Point> 
+			<coordinates>
+			-84.512496,39.072803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Martin Luther King Jr<br/>ID: 305451</description>
+		<Point> 
+			<coordinates>
+			-84.513623,39.077241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Martin Luther King Jr.<br/>ID: 305100</description>
+		<Point> 
+			<coordinates>
+			-84.513683,39.076985,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Pike<br/>ID: 305080</description>
+		<Point> 
+			<coordinates>
+			-84.514953,39.08025,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Pike<br/>ID: 305471</description>
+		<Point> 
+			<coordinates>
+			-84.514916,39.080431,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Robbins<br/>ID: 305090</description>
+		<Point> 
+			<coordinates>
+			-84.514583,39.079293,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holman at Robbins<br/>ID: 305461</description>
+		<Point> 
+			<coordinates>
+			-84.514386,39.079093,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Holmes High School<br/>ID: 672</description>
+		<Point> 
+			<coordinates>
+			-84.502469,39.061151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Home at Main Out<br/>ID: 675</description>
+		<Point> 
+			<coordinates>
+			-84.48759,39.080062,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Horsebranch at Orphanage<br/>ID: 308171</description>
+		<Point> 
+			<coordinates>
+			-84.544404,39.02784,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Horsebranch at Orphanage<br/>ID: 308490</description>
+		<Point> 
+			<coordinates>
+			-84.544549,39.027688,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Horsebranch at Rhine Valley<br/>ID: 308161</description>
+		<Point> 
+			<coordinates>
+			-84.554979,39.017809,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Horsebranch at Rhine Valley<br/>ID: 308500</description>
+		<Point> 
+			<coordinates>
+			-84.555034,39.017979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howe at Cambridge Square Apts<br/>ID: 308211</description>
+		<Point> 
+			<coordinates>
+			-84.516623,39.033067,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howe at Cambridge Square Apts<br/>ID: 308440</description>
+		<Point> 
+			<coordinates>
+			-84.516423,39.033091,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howe at Fidelity Garage<br/>ID: 308221</description>
+		<Point> 
+			<coordinates>
+			-84.514124,39.0321,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Howe at Fidelity Garage<br/>ID: 308430</description>
+		<Point> 
+			<coordinates>
+			-84.51403,39.032129,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Huntington at 39th<br/>ID: 692</description>
+		<Point> 
+			<coordinates>
+			-84.497418,39.044501,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Huntington at 41st<br/>ID: 693</description>
+		<Point> 
+			<coordinates>
+			-84.496504,39.042991,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Huntington at E Southern<br/>ID: 694</description>
+		<Point> 
+			<coordinates>
+			-84.498661,39.047562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at Carole<br/>ID: 142100</description>
+		<Point> 
+			<coordinates>
+			-84.633998,38.982764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at Carole<br/>ID: 142171</description>
+		<Point> 
+			<coordinates>
+			-84.633788,38.982882,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at Hillcrest<br/>ID: 142181</description>
+		<Point> 
+			<coordinates>
+			-84.635413,38.986097,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Industrial at Safeway<br/>ID: 142090</description>
+		<Point> 
+			<coordinates>
+			-84.635939,38.986437,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: International at Meridian<br/>ID: 140172</description>
+		<Point> 
+			<coordinates>
+			-84.702835,39.086176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 6th<br/>ID: 216151</description>
+		<Point> 
+			<coordinates>
+			-84.498525,39.088187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 7th<br/>ID: 216090</description>
+		<Point> 
+			<coordinates>
+			-84.498274,39.087719,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 7th<br/>ID: 216141</description>
+		<Point> 
+			<coordinates>
+			-84.497959,39.087579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 8th<br/>ID: 216100</description>
+		<Point> 
+			<coordinates>
+			-84.497241,39.08658,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 8th<br/>ID: 216131</description>
+		<Point> 
+			<coordinates>
+			-84.496842,39.086354,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 9th<br/>ID: 216110</description>
+		<Point> 
+			<coordinates>
+			-84.496008,39.085211,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 9th<br/>ID: 216121</description>
+		<Point> 
+			<coordinates>
+			-84.495742,39.085119,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 10th<br/>ID: 216111</description>
+		<Point> 
+			<coordinates>
+			-84.494629,39.08391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Isabella at 10th<br/>ID: 216120</description>
+		<Point> 
+			<coordinates>
+			-84.494884,39.084008,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: James at Eastern<br/>ID: 308270</description>
+		<Point> 
+			<coordinates>
+			-84.50032,39.057571,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: James at Eastern<br/>ID: 308391</description>
+		<Point> 
+			<coordinates>
+			-84.50017,39.057616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Johns Hill at Kenton<br/>ID: 225231</description>
+		<Point> 
+			<coordinates>
+			-84.467046,39.028017,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Johnson at 3rd<br/>ID: 303070</description>
+		<Point> 
+			<coordinates>
+			-84.515854,39.087092,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Johnson at 3rd<br/>ID: 303271</description>
+		<Point> 
+			<coordinates>
+			-84.515858,39.087932,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Campus Recreation Center<br/>ID: 225241</description>
+		<Point> 
+			<coordinates>
+			-84.466976,39.02966,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Campus Recreation Center<br/>ID: 225460</description>
+		<Point> 
+			<coordinates>
+			-84.467102,39.029875,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Carroll<br/>ID: 225261</description>
+		<Point> 
+			<coordinates>
+			-84.465194,39.034237,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Carroll<br/>ID: 225440</description>
+		<Point> 
+			<coordinates>
+			-84.465059,39.034484,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Johns Hill<br/>ID: 225470</description>
+		<Point> 
+			<coordinates>
+			-84.467246,39.028043,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Natural Science Center<br/>ID: 225251</description>
+		<Point> 
+			<coordinates>
+			-84.467053,39.032307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton at Natural Science Center<br/>ID: 225450</description>
+		<Point> 
+			<coordinates>
+			-84.467144,39.032353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kenton County Detention Center<br/>ID: 737</description>
+		<Point> 
+			<coordinates>
+			-84.531243,39.003054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kentucky at Bluegrass<br/>ID: 738</description>
+		<Point> 
+			<coordinates>
+			-84.482991,39.074316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kentucky at Grandview<br/>ID: 739</description>
+		<Point> 
+			<coordinates>
+			-84.489303,39.07335,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kentucky at Grandview<br/>ID: 740</description>
+		<Point> 
+			<coordinates>
+			-84.489159,39.073251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at Crittenden<br/>ID: 330050</description>
+		<Point> 
+			<coordinates>
+			-84.536049,39.054236,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at Crittenden<br/>ID: 330081</description>
+		<Point> 
+			<coordinates>
+			-84.535931,39.054362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at Cumberland<br/>ID: 330070</description>
+		<Point> 
+			<coordinates>
+			-84.535417,39.052322,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at Cumberland<br/>ID: 330071</description>
+		<Point> 
+			<coordinates>
+			-84.535231,39.05294,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at Henry Clay<br/>ID: 330040</description>
+		<Point> 
+			<coordinates>
+			-84.536413,39.054979,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at Lorup<br/>ID: 330060</description>
+		<Point> 
+			<coordinates>
+			-84.5356,39.053415,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at St Anthony<br/>ID: 330030</description>
+		<Point> 
+			<coordinates>
+			-84.53695,39.056242,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Kyles at St Anthony<br/>ID: 330091</description>
+		<Point> 
+			<coordinates>
+			-84.536871,39.056431,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Park Drive<br/>ID: 330021</description>
+		<Point> 
+			<coordinates>
+			-84.525794,39.017753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Park Drive<br/>ID: 330110</description>
+		<Point> 
+			<coordinates>
+			-84.525746,39.017626,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lake Side Dorms NKU<br/>ID: 754</description>
+		<Point> 
+			<coordinates>
+			-84.452813,39.027616,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Landmark at Riviera<br/>ID: 23701202</description>
+		<Point> 
+			<coordinates>
+			-84.486064,39.099569,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Langley at Hargrave<br/>ID: 139041</description>
+		<Point> 
+			<coordinates>
+			-84.70527,39.06115,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia at 28th<br/>ID: 307181</description>
+		<Point> 
+			<coordinates>
+			-84.515166,39.049756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia at 28th<br/>ID: 307300</description>
+		<Point> 
+			<coordinates>
+			-84.515249,39.049732,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia at Madison<br/>ID: 307191</description>
+		<Point> 
+			<coordinates>
+			-84.516591,39.051746,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia at Madison<br/>ID: 307290</description>
+		<Point> 
+			<coordinates>
+			-84.516503,39.051434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia at Southern<br/>ID: 307171</description>
+		<Point> 
+			<coordinates>
+			-84.514645,39.049113,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia Centre<br/>ID: 307432</description>
+		<Point> 
+			<coordinates>
+			-84.509225,39.038856,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia Centre at 43rd<br/>ID: 307031</description>
+		<Point> 
+			<coordinates>
+			-84.507512,39.041611,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Latonia Plaza<br/>ID: 767</description>
+		<Point> 
+			<coordinates>
+			-84.506168,39.045194,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Limaburg at Cougar<br/>ID: 139101</description>
+		<Point> 
+			<coordinates>
+			-84.700698,39.0606,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Limaburg Park and Ride<br/>ID: 139111</description>
+		<Point> 
+			<coordinates>
+			-84.7002,39.0642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Lincoln at Spence<br/>ID: 102072</description>
+		<Point> 
+			<coordinates>
+			-84.653847,39.058906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Louie B Nunn at Alexandria<br/>ID: 225271</description>
+		<Point> 
+			<coordinates>
+			-84.455231,39.034587,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Louie B Nunn at Alexandria<br/>ID: 225430</description>
+		<Point> 
+			<coordinates>
+			-84.454992,39.034942,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 4th<br/>ID: 301581</description>
+		<Point> 
+			<coordinates>
+			-84.510936,39.086978,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 4th<br/>ID: 33701031</description>
+		<Point> 
+			<coordinates>
+			-84.511164,39.087251,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 6th<br/>ID: 301571</description>
+		<Point> 
+			<coordinates>
+			-84.510358,39.084564,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 7th<br/>ID: 301561</description>
+		<Point> 
+			<coordinates>
+			-84.509945,39.082994,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 7th<br/>ID: 307070</description>
+		<Point> 
+			<coordinates>
+			-84.510069,39.083038,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 8th<br/>ID: 307411</description>
+		<Point> 
+			<coordinates>
+			-84.509752,39.082176,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 9th<br/>ID: 307080</description>
+		<Point> 
+			<coordinates>
+			-84.50957,39.081137,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 10th<br/>ID: 307090</description>
+		<Point> 
+			<coordinates>
+			-84.509383,39.080419,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 11th<br/>ID: 307100</description>
+		<Point> 
+			<coordinates>
+			-84.509048,39.079135,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 11th<br/>ID: 307391</description>
+		<Point> 
+			<coordinates>
+			-84.508802,39.078738,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 13th<br/>ID: 307110</description>
+		<Point> 
+			<coordinates>
+			-84.508446,39.076774,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 13th<br/>ID: 307381</description>
+		<Point> 
+			<coordinates>
+			-84.508192,39.076388,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 15th<br/>ID: 307120</description>
+		<Point> 
+			<coordinates>
+			-84.507656,39.073777,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 15th<br/>ID: 307371</description>
+		<Point> 
+			<coordinates>
+			-84.507429,39.073474,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 16th<br/>ID: 307130</description>
+		<Point> 
+			<coordinates>
+			-84.507079,39.07148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 16th<br/>ID: 307361</description>
+		<Point> 
+			<coordinates>
+			-84.506966,39.071636,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 18th<br/>ID: 307140</description>
+		<Point> 
+			<coordinates>
+			-84.506537,39.069405,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 18th<br/>ID: 307351</description>
+		<Point> 
+			<coordinates>
+			-84.506338,39.069158,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 20th<br/>ID: 305201</description>
+		<Point> 
+			<coordinates>
+			-84.505892,39.06717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 20th<br/>ID: 305340</description>
+		<Point> 
+			<coordinates>
+			-84.505882,39.066727,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 24th<br/>ID: 305171</description>
+		<Point> 
+			<coordinates>
+			-84.504805,39.062956,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 24th<br/>ID: 305370</description>
+		<Point> 
+			<coordinates>
+			-84.505019,39.063239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 25th<br/>ID: 305151</description>
+		<Point> 
+			<coordinates>
+			-84.503958,39.060943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 25th<br/>ID: 305390</description>
+		<Point> 
+			<coordinates>
+			-84.504077,39.060798,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at 26th<br/>ID: 305400</description>
+		<Point> 
+			<coordinates>
+			-84.502754,39.05948,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Alexandria<br/>ID: 305061</description>
+		<Point> 
+			<coordinates>
+			-84.515312,39.052381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Alexandria<br/>ID: 305470</description>
+		<Point> 
+			<coordinates>
+			-84.515322,39.052512,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Ashland<br/>ID: 305071</description>
+		<Point> 
+			<coordinates>
+			-84.513592,39.052937,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Ashland<br/>ID: 305460</description>
+		<Point> 
+			<coordinates>
+			-84.513457,39.053106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Birch<br/>ID: 305101</description>
+		<Point> 
+			<coordinates>
+			-84.508876,39.054458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Catalpa<br/>ID: 305161</description>
+		<Point> 
+			<coordinates>
+			-84.504653,39.062402,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Catalpa<br/>ID: 305380</description>
+		<Point> 
+			<coordinates>
+			-84.504773,39.062318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Decoursey<br/>ID: 305121</description>
+		<Point> 
+			<coordinates>
+			-84.503581,39.05615,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Decoursey<br/>ID: 305420</description>
+		<Point> 
+			<coordinates>
+			-84.503512,39.056318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Holmes High School<br/>ID: 305141</description>
+		<Point> 
+			<coordinates>
+			-84.503277,39.060336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Howard Litzler<br/>ID: 305051</description>
+		<Point> 
+			<coordinates>
+			-84.520654,39.046692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Howard Litzler<br/>ID: 305490</description>
+		<Point> 
+			<coordinates>
+			-84.520864,39.046803,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Indiana<br/>ID: 305450</description>
+		<Point> 
+			<coordinates>
+			-84.511603,39.053692,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Iowa<br/>ID: 305091</description>
+		<Point> 
+			<coordinates>
+			-84.510057,39.05407,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Iowa<br/>ID: 305440</description>
+		<Point> 
+			<coordinates>
+			-84.509747,39.054278,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Kuhrs<br/>ID: 305480</description>
+		<Point> 
+			<coordinates>
+			-84.518314,39.050871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Kyles<br/>ID: 305041</description>
+		<Point> 
+			<coordinates>
+			-84.525658,39.041241,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Kyles<br/>ID: 305500</description>
+		<Point> 
+			<coordinates>
+			-84.525932,39.041376,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at RiverCenter<br/>ID: 33701190</description>
+		<Point> 
+			<coordinates>
+			-84.511621,39.089537,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Robbins<br/>ID: 307401</description>
+		<Point> 
+			<coordinates>
+			-84.509132,39.07992,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Rogers<br/>ID: 305111</description>
+		<Point> 
+			<coordinates>
+			-84.508091,39.054697,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Rogers<br/>ID: 305430</description>
+		<Point> 
+			<coordinates>
+			-84.508332,39.054728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Rosina<br/>ID: 305081</description>
+		<Point> 
+			<coordinates>
+			-84.512084,39.053425,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Sterrett<br/>ID: 305181</description>
+		<Point> 
+			<coordinates>
+			-84.505112,39.064323,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Sterrett<br/>ID: 305360</description>
+		<Point> 
+			<coordinates>
+			-84.505228,39.064095,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Wallace<br/>ID: 305191</description>
+		<Point> 
+			<coordinates>
+			-84.505402,39.06548,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison at Wallace<br/>ID: 305350</description>
+		<Point> 
+			<coordinates>
+			-84.505589,39.065605,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Madison in Old Madison<br/>ID: 330031</description>
+		<Point> 
+			<coordinates>
+			-84.529697,39.017426,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at 4th<br/>ID: 843</description>
+		<Point> 
+			<coordinates>
+			-84.517583,39.085434,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at 9th<br/>ID: 845</description>
+		<Point> 
+			<coordinates>
+			-84.517505,39.080225,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Banklick<br/>ID: 142021</description>
+		<Point> 
+			<coordinates>
+			-84.625884,39.002373,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Banklick<br/>ID: 142240</description>
+		<Point> 
+			<coordinates>
+			-84.625775,39.002218,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Christian<br/>ID: 142031</description>
+		<Point> 
+			<coordinates>
+			-84.627282,39.000423,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Christian<br/>ID: 142230</description>
+		<Point> 
+			<coordinates>
+			-84.627177,39.000608,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Dixie<br/>ID: 142011</description>
+		<Point> 
+			<coordinates>
+			-84.622961,39.003658,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Main at Home<br/>ID: 850</description>
+		<Point> 
+			<coordinates>
+			-84.487701,39.080002,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Cayton<br/>ID: 101031</description>
+		<Point> 
+			<coordinates>
+			-84.652709,38.993827,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Cayton<br/>ID: 101580</description>
+		<Point> 
+			<coordinates>
+			-84.653233,38.994031,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Florence Square<br/>ID: 101550</description>
+		<Point> 
+			<coordinates>
+			-84.653756,38.997951,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Mall Road Center<br/>ID: 142050</description>
+		<Point> 
+			<coordinates>
+			-84.650423,38.983693,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Mall Road Shopping Center<br/>ID: 142221</description>
+		<Point> 
+			<coordinates>
+			-84.650066,38.983424,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Plaza<br/>ID: 101021</description>
+		<Point> 
+			<coordinates>
+			-84.65158,38.991903,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Plaza<br/>ID: 101590</description>
+		<Point> 
+			<coordinates>
+			-84.651691,38.991418,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Village at the Mall<br/>ID: 101051</description>
+		<Point> 
+			<coordinates>
+			-84.653259,39.000552,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mall at Village at the Mall<br/>ID: 101540</description>
+		<Point> 
+			<coordinates>
+			-84.653593,39.00081,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medical Village at 3A Patient Entrance<br/>ID: 308572</description>
+		<Point> 
+			<coordinates>
+			-84.564459,39.014336,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Medical Village at Encompass Health<br/>ID: 308562</description>
+		<Point> 
+			<coordinates>
+			-84.565309,39.012562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Meijer at Woodspoint<br/>ID: 101091</description>
+		<Point> 
+			<coordinates>
+			-84.640934,39.008385,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Meijer at Woodspoint<br/>ID: 101500</description>
+		<Point> 
+			<coordinates>
+			-84.641221,39.008334,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merchant at Doering<br/>ID: 101530</description>
+		<Point> 
+			<coordinates>
+			-84.652006,39.007599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Merchants at Doering<br/>ID: 101061</description>
+		<Point> 
+			<coordinates>
+			-84.651925,39.007653,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Callahan Hall<br/>ID: 225201</description>
+		<Point> 
+			<coordinates>
+			-84.452995,39.027153,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Callahan Hall<br/>ID: 225500</description>
+		<Point> 
+			<coordinates>
+			-84.452875,39.02707,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Grey Stable<br/>ID: 225221</description>
+		<Point> 
+			<coordinates>
+			-84.457099,39.026276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Grey Stable<br/>ID: 225480</description>
+		<Point> 
+			<coordinates>
+			-84.457455,39.026326,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Highland Meadows<br/>ID: 225211</description>
+		<Point> 
+			<coordinates>
+			-84.455999,39.025806,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Highland Meadows<br/>ID: 225490</description>
+		<Point> 
+			<coordinates>
+			-84.455925,39.025627,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Northern Terrace<br/>ID: 225191</description>
+		<Point> 
+			<coordinates>
+			-84.4521,39.0279,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: ML Collins at Northern Terrace<br/>ID: 225510</description>
+		<Point> 
+			<coordinates>
+			-84.452153,39.027668,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MLK Jr at Holman<br/>ID: 361021</description>
+		<Point> 
+			<coordinates>
+			-84.513628,39.076764,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: MLK Jr. at Holman<br/>ID: 361090</description>
+		<Point> 
+			<coordinates>
+			-84.51358,39.076943,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth and 16th<br/>ID: 225110</description>
+		<Point> 
+			<coordinates>
+			-84.483956,39.083844,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at 5th<br/>ID: 212271</description>
+		<Point> 
+			<coordinates>
+			-84.494335,39.092555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at 7th<br/>ID: 225621</description>
+		<Point> 
+			<coordinates>
+			-84.492492,39.090562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at 9th<br/>ID: 225611</description>
+		<Point> 
+			<coordinates>
+			-84.489925,39.088171,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at 11th<br/>ID: 225601</description>
+		<Point> 
+			<coordinates>
+			-84.487659,39.086358,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at 19th<br/>ID: 225120</description>
+		<Point> 
+			<coordinates>
+			-84.481118,39.079617,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at Carothers<br/>ID: 216061</description>
+		<Point> 
+			<coordinates>
+			-84.484305,39.084088,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at Kentucky<br/>ID: 225130</description>
+		<Point> 
+			<coordinates>
+			-84.480182,39.078553,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at Kentucky<br/>ID: 225571</description>
+		<Point> 
+			<coordinates>
+			-84.479713,39.078286,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monmouth at New Linden<br/>ID: 225581</description>
+		<Point> 
+			<coordinates>
+			-84.480604,39.079281,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monte at Benton<br/>ID: 305270</description>
+		<Point> 
+			<coordinates>
+			-84.515377,39.05822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monte at Benton<br/>ID: 305281</description>
+		<Point> 
+			<coordinates>
+			-84.515577,39.058196,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monte at Janes<br/>ID: 305301</description>
+		<Point> 
+			<coordinates>
+			-84.519537,39.055906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monte at Rose<br/>ID: 305260</description>
+		<Point> 
+			<coordinates>
+			-84.518231,39.056558,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monte at Rose<br/>ID: 305291</description>
+		<Point> 
+			<coordinates>
+			-84.518144,39.056705,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Monte at Vivian<br/>ID: 305250</description>
+		<Point> 
+			<coordinates>
+			-84.519684,39.055726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mt Zion Park and Ride<br/>ID: 122040</description>
+		<Point> 
+			<coordinates>
+			-84.6283,38.9555,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Mt. Zion Park and Ride<br/>ID: 122011</description>
+		<Point> 
+			<coordinates>
+			-84.628148,38.955503,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: New Price at CVG Fire Dept<br/>ID: 162021</description>
+		<Point> 
+			<coordinates>
+			-84.659666,39.042234,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newport High School<br/>ID: 943</description>
+		<Point> 
+			<coordinates>
+			-84.4832,39.096148,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Newport Shopping Center<br/>ID: 948</description>
+		<Point> 
+			<coordinates>
+			-84.480334,39.08316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: NKU Business Center<br/>ID: 949</description>
+		<Point> 
+			<coordinates>
+			-84.462268,39.02972,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at Barbara<br/>ID: 139031</description>
+		<Point> 
+			<coordinates>
+			-84.702825,39.069944,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at Coral<br/>ID: 139021</description>
+		<Point> 
+			<coordinates>
+			-84.704904,39.076054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at Global<br/>ID: 140021</description>
+		<Point> 
+			<coordinates>
+			-84.712834,39.090188,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at Global<br/>ID: 140202</description>
+		<Point> 
+			<coordinates>
+			-84.712751,39.090292,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at Litton<br/>ID: 139092</description>
+		<Point> 
+			<coordinates>
+			-84.706141,39.077883,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at South Park<br/>ID: 140192</description>
+		<Point> 
+			<coordinates>
+			-84.711754,39.088087,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend at Worldwide<br/>ID: 140031</description>
+		<Point> 
+			<coordinates>
+			-84.711763,39.087165,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: North Bend Park and Ride<br/>ID: 140212</description>
+		<Point> 
+			<coordinates>
+			-84.714674,39.093153,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Adela<br/>ID: 303051</description>
+		<Point> 
+			<coordinates>
+			-84.55238,39.091563,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Deverill<br/>ID: 303031</description>
+		<Point> 
+			<coordinates>
+			-84.556128,39.087392,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Deverill<br/>ID: 303320</description>
+		<Point> 
+			<coordinates>
+			-84.556015,39.087734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Helen<br/>ID: 303041</description>
+		<Point> 
+			<coordinates>
+			-84.553772,39.090028,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Helen<br/>ID: 303300</description>
+		<Point> 
+			<coordinates>
+			-84.553787,39.090184,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Lagoon<br/>ID: 303021</description>
+		<Point> 
+			<coordinates>
+			-84.557643,39.085713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Ludford<br/>ID: 303310</description>
+		<Point> 
+			<coordinates>
+			-84.555152,39.088708,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Oak at Pleasant<br/>ID: 303392</description>
+		<Point> 
+			<coordinates>
+			-84.558521,39.084576,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Park at Court<br/>ID: 33701012</description>
+		<Point> 
+			<coordinates>
+			-84.508664,39.087935,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Patterson at 11th<br/>ID: 968</description>
+		<Point> 
+			<coordinates>
+			-84.495108,39.082086,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Aviation<br/>ID: 139181</description>
+		<Point> 
+			<coordinates>
+			-84.667994,39.076047,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Elijah Creek<br/>ID: 139171</description>
+		<Point> 
+			<coordinates>
+			-84.670322,39.074756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Ernst<br/>ID: 139131</description>
+		<Point> 
+			<coordinates>
+			-84.699045,39.065906,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Hart<br/>ID: 139141</description>
+		<Point> 
+			<coordinates>
+			-84.696444,39.06595,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Limaburg<br/>ID: 139121</description>
+		<Point> 
+			<coordinates>
+			-84.700594,39.065965,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Merrie<br/>ID: 139151</description>
+		<Point> 
+			<coordinates>
+			-84.691438,39.066822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Progress<br/>ID: 139201</description>
+		<Point> 
+			<coordinates>
+			-84.655804,39.074464,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Ridgedale<br/>ID: 139191</description>
+		<Point> 
+			<coordinates>
+			-84.659301,39.075716,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Terminal<br/>ID: 139211</description>
+		<Point> 
+			<coordinates>
+			-84.654591,39.074054,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Petersburg at Victory<br/>ID: 139161</description>
+		<Point> 
+			<coordinates>
+			-84.673233,39.072333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Phelps at Welsh<br/>ID: 305282</description>
+		<Point> 
+			<coordinates>
+			-84.513552,39.05851,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Bullock<br/>ID: 301501</description>
+		<Point> 
+			<coordinates>
+			-84.520697,39.077227,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Hermes<br/>ID: 301491</description>
+		<Point> 
+			<coordinates>
+			-84.522473,39.076145,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Holman<br/>ID: 301080</description>
+		<Point> 
+			<coordinates>
+			-84.515269,39.080353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Holman<br/>ID: 301531</description>
+		<Point> 
+			<coordinates>
+			-84.515105,39.080398,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Lee<br/>ID: 301521</description>
+		<Point> 
+			<coordinates>
+			-84.516133,39.079344,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Lewis<br/>ID: 301110</description>
+		<Point> 
+			<coordinates>
+			-84.521568,39.077124,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Main<br/>ID: 301090</description>
+		<Point> 
+			<coordinates>
+			-84.516803,39.078733,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Montague<br/>ID: 301120</description>
+		<Point> 
+			<coordinates>
+			-84.523627,39.075533,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Montague<br/>ID: 301481</description>
+		<Point> 
+			<coordinates>
+			-84.523336,39.075316,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Simon Kenton<br/>ID: 301100</description>
+		<Point> 
+			<coordinates>
+			-84.519137,39.077506,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Simon Kenton<br/>ID: 301511</description>
+		<Point> 
+			<coordinates>
+			-84.519018,39.077411,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Pike at Washington<br/>ID: 301070</description>
+		<Point> 
+			<coordinates>
+			-84.511905,39.083374,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Race at 3rd<br/>ID: 401020</description>
+		<Point> 
+			<coordinates>
+			-84.514014,39.098507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rivercenter at Madison<br/>ID: 33701021</description>
+		<Point> 
+			<coordinates>
+			-84.511541,39.08967,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riviera at Bellevue Plaza<br/>ID: 212150</description>
+		<Point> 
+			<coordinates>
+			-84.484632,39.098353,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riviera at Bellevue Plaza<br/>ID: 212181</description>
+		<Point> 
+			<coordinates>
+			-84.484777,39.098349,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riviera at Fairfield<br/>ID: 212160</description>
+		<Point> 
+			<coordinates>
+			-84.487395,39.100713,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Riviera at Fairfield<br/>ID: 212171</description>
+		<Point> 
+			<coordinates>
+			-84.487515,39.100628,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Rosa Parks at Freedom<br/>ID: 43701082</description>
+		<Point> 
+			<coordinates>
+			-84.511904,39.097362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Royal at Bus Shelter<br/>ID: 317070</description>
+		<Point> 
+			<coordinates>
+			-84.57272,39.047367,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Royal at Buttermilk<br/>ID: 317050</description>
+		<Point> 
+			<coordinates>
+			-84.572114,39.044307,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Royal at Grace<br/>ID: 317060</description>
+		<Point> 
+			<coordinates>
+			-84.573366,39.045445,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Royal at Reserve Apts<br/>ID: 317082</description>
+		<Point> 
+			<coordinates>
+			-84.570608,39.047964,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Loop at Hospice Center<br/>ID: 308542</description>
+		<Point> 
+			<coordinates>
+			-84.56406,39.009545,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Loop at Medical Village<br/>ID: 308552</description>
+		<Point> 
+			<coordinates>
+			-84.564917,39.009728,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: S Loop at OrthoCincy<br/>ID: 308532</description>
+		<Point> 
+			<coordinates>
+			-84.559726,39.011265,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 5th<br/>ID: 301050</description>
+		<Point> 
+			<coordinates>
+			-84.509218,39.086226,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 6th<br/>ID: 301060</description>
+		<Point> 
+			<coordinates>
+			-84.508844,39.084703,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 7th<br/>ID: 361040</description>
+		<Point> 
+			<coordinates>
+			-84.5086,39.0838,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 8th<br/>ID: 361050</description>
+		<Point> 
+			<coordinates>
+			-84.508286,39.082562,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 9th<br/>ID: 361060</description>
+		<Point> 
+			<coordinates>
+			-84.508028,39.081579,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 11th<br/>ID: 361080</description>
+		<Point> 
+			<coordinates>
+			-84.507445,39.079308,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 13th<br/>ID: 308110</description>
+		<Point> 
+			<coordinates>
+			-84.506767,39.076753,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 16th<br/>ID: 1047</description>
+		<Point> 
+			<coordinates>
+			-84.505566,39.072078,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 17th<br/>ID: 1048</description>
+		<Point> 
+			<coordinates>
+			-84.505269,39.070998,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 19th<br/>ID: 1050</description>
+		<Point> 
+			<coordinates>
+			-84.504665,39.068557,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at 20th<br/>ID: 1051</description>
+		<Point> 
+			<coordinates>
+			-84.504369,39.067317,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Scott at Robbins<br/>ID: 361070</description>
+		<Point> 
+			<coordinates>
+			-84.507724,39.080443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shelby at Main<br/>ID: 303340</description>
+		<Point> 
+			<coordinates>
+			-84.560166,39.083378,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shelby at Pleasant<br/>ID: 303330</description>
+		<Point> 
+			<coordinates>
+			-84.559324,39.083974,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Shelby at Steve Tanner<br/>ID: 303350</description>
+		<Point> 
+			<coordinates>
+			-84.560961,39.08285,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Park at International<br/>ID: 140162</description>
+		<Point> 
+			<coordinates>
+			-84.705146,39.084264,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: South Park at Sanctuary<br/>ID: 140142</description>
+		<Point> 
+			<coordinates>
+			-84.708443,39.088244,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at 32nd<br/>ID: 307330</description>
+		<Point> 
+			<coordinates>
+			-84.512013,39.048441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Aberdeen<br/>ID: 307310</description>
+		<Point> 
+			<coordinates>
+			-84.514093,39.048742,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Church<br/>ID: 1059</description>
+		<Point> 
+			<coordinates>
+			-84.5022,39.0475,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Clifford<br/>ID: 307141</description>
+		<Point> 
+			<coordinates>
+			-84.510172,39.04834,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Clifford<br/>ID: 307340</description>
+		<Point> 
+			<coordinates>
+			-84.510101,39.048202,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Eugenia<br/>ID: 307350</description>
+		<Point> 
+			<coordinates>
+			-84.509072,39.048069,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Rosina<br/>ID: 307151</description>
+		<Point> 
+			<coordinates>
+			-84.511457,39.048519,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Watson<br/>ID: 307161</description>
+		<Point> 
+			<coordinates>
+			-84.513234,39.048739,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Southern at Watson<br/>ID: 307320</description>
+		<Point> 
+			<coordinates>
+			-84.512975,39.048592,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spence at Kenton<br/>ID: 102082</description>
+		<Point> 
+			<coordinates>
+			-84.6518,39.0599,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spiral at Beckfield College<br/>ID: 101121</description>
+		<Point> 
+			<coordinates>
+			-84.641626,39.017595,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spiral at Beckfield College<br/>ID: 101470</description>
+		<Point> 
+			<coordinates>
+			-84.641452,39.017679,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spiral at Meijer<br/>ID: 101101</description>
+		<Point> 
+			<coordinates>
+			-84.640192,39.010821,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spiral at Meijer<br/>ID: 101490</description>
+		<Point> 
+			<coordinates>
+			-84.640181,39.010516,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spiral at Turfway Commons<br/>ID: 101111</description>
+		<Point> 
+			<coordinates>
+			-84.642289,39.014319,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Spiral at Turfway Commons<br/>ID: 101480</description>
+		<Point> 
+			<coordinates>
+			-84.642299,39.014209,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St Elizabeth Edgewood<br/>ID: 308512</description>
+		<Point> 
+			<coordinates>
+			-84.559349,39.013142,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St Elizabeth Florence<br/>ID: 101151</description>
+		<Point> 
+			<coordinates>
+			-84.629539,39.015822,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St Elizabeth Florence<br/>ID: 101440</description>
+		<Point> 
+			<coordinates>
+			-84.62936,39.015795,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St. Elizabeth Covington<br/>ID: 361102</description>
+		<Point> 
+			<coordinates>
+			-84.517929,39.07186,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: St. Elizabeth Fort Thomas<br/>ID: 216222</description>
+		<Point> 
+			<coordinates>
+			-84.466285,39.078132,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Steeple Chase at Turfway<br/>ID: 101161</description>
+		<Point> 
+			<coordinates>
+			-84.631301,39.014968,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Steeple Chase at Turfway<br/>ID: 101430</description>
+		<Point> 
+			<coordinates>
+			-84.631296,39.014871,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Summer Hill at 19th<br/>ID: 1071</description>
+		<Point> 
+			<coordinates>
+			-84.482016,39.079915,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore at 4th<br/>ID: 439062</description>
+		<Point> 
+			<coordinates>
+			-84.507854,39.100702,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Sycamore at 5th<br/>ID: 22501221</description>
+		<Point> 
+			<coordinates>
+			-84.508319,39.102239,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor Farms<br/>ID: 330122</description>
+		<Point> 
+			<coordinates>
+			-84.524023,39.019776,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor Mill at Grand<br/>ID: 308400</description>
+		<Point> 
+			<coordinates>
+			-84.510862,39.035691,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor Mill at Parkview<br/>ID: 308410</description>
+		<Point> 
+			<coordinates>
+			-84.511491,39.034058,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Taylor Southgate at Pete Rose<br/>ID: 412291</description>
+		<Point> 
+			<coordinates>
+			-84.50372,39.098556,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ted Bushelman at Doering<br/>ID: 101081</description>
+		<Point> 
+			<coordinates>
+			-84.646356,39.01236,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Ted Bushelman at Doering<br/>ID: 101510</description>
+		<Point> 
+			<coordinates>
+			-84.646184,39.01248,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Centre View<br/>ID: 308600</description>
+		<Point> 
+			<coordinates>
+			-84.564207,39.022811,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Chancellor<br/>ID: 308071</description>
+		<Point> 
+			<coordinates>
+			-84.562796,39.021057,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Chancellor<br/>ID: 308590</description>
+		<Point> 
+			<coordinates>
+			-84.562626,39.021151,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Legends<br/>ID: 308081</description>
+		<Point> 
+			<coordinates>
+			-84.561073,39.018166,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Legends<br/>ID: 308580</description>
+		<Point> 
+			<coordinates>
+			-84.560837,39.018325,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Poweleit<br/>ID: 308061</description>
+		<Point> 
+			<coordinates>
+			-84.564297,39.022635,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Renaissance<br/>ID: 308051</description>
+		<Point> 
+			<coordinates>
+			-84.567686,39.024127,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Renaissance<br/>ID: 308610</description>
+		<Point> 
+			<coordinates>
+			-84.567636,39.024318,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at S Loop<br/>ID: 308522</description>
+		<Point> 
+			<coordinates>
+			-84.558614,39.012064,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Villa Madonna<br/>ID: 308041</description>
+		<Point> 
+			<coordinates>
+			-84.569184,39.023443,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thomas More at Villa Madonna<br/>ID: 308620</description>
+		<Point> 
+			<coordinates>
+			-84.569663,39.023391,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thoroughbred at Turfway<br/>ID: 101132</description>
+		<Point> 
+			<coordinates>
+			-84.637651,39.019734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Thoroughbred at Turfway<br/>ID: 101460</description>
+		<Point> 
+			<coordinates>
+			-84.637974,39.019886,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Tibbatts at 38th<br/>ID: 307390</description>
+		<Point> 
+			<coordinates>
+			-84.50507,39.046499,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Center at Dixie Entrance<br/>ID: 308021</description>
+		<Point> 
+			<coordinates>
+			-84.579395,39.026145,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Center at Dixie Entrance<br/>ID: 308640</description>
+		<Point> 
+			<coordinates>
+			-84.579621,39.026116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Center at First Watch<br/>ID: 308031</description>
+		<Point> 
+			<coordinates>
+			-84.57629,39.026213,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Town Center at First Watch<br/>ID: 308630</description>
+		<Point> 
+			<coordinates>
+			-84.576051,39.026243,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turfway at Burlington<br/>ID: 101171</description>
+		<Point> 
+			<coordinates>
+			-84.627467,39.010458,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turfway at Crown Court Apts<br/>ID: 101181</description>
+		<Point> 
+			<coordinates>
+			-84.625259,39.009401,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turfway at Curtis<br/>ID: 101420</description>
+		<Point> 
+			<coordinates>
+			-84.627672,39.010879,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turfway at Dixie<br/>ID: 142250</description>
+		<Point> 
+			<coordinates>
+			-84.62158,39.004642,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turfway at Drexel<br/>ID: 101410</description>
+		<Point> 
+			<coordinates>
+			-84.623959,39.008847,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Turfway at Lloyd<br/>ID: 101191</description>
+		<Point> 
+			<coordinates>
+			-84.624151,39.008756,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: US 42 at Diane<br/>ID: 142211</description>
+		<Point> 
+			<coordinates>
+			-84.647276,38.982395,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: US 42 at Dream<br/>ID: 142191</description>
+		<Point> 
+			<coordinates>
+			-84.638929,38.988922,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: US 42 at Freedom<br/>ID: 142080</description>
+		<Point> 
+			<coordinates>
+			-84.639297,38.987496,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: US 42 at Lacresta<br/>ID: 142070</description>
+		<Point> 
+			<coordinates>
+			-84.645059,38.982632,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: US 42 at Lacresta<br/>ID: 142201</description>
+		<Point> 
+			<coordinates>
+			-84.644859,38.983015,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: US 42 at Sycamore<br/>ID: 142060</description>
+		<Point> 
+			<coordinates>
+			-84.647612,38.982116,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Valley Plaza at Highland<br/>ID: 305510</description>
+		<Point> 
+			<coordinates>
+			-84.534477,39.036507,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Valley Plaza at Viewpoint<br/>ID: 305021</description>
+		<Point> 
+			<coordinates>
+			-84.535396,39.033717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Valley Plaza at Viewpoint<br/>ID: 305530</description>
+		<Point> 
+			<coordinates>
+			-84.535692,39.033609,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Valley Plaza at Walmart<br/>ID: 305031</description>
+		<Point> 
+			<coordinates>
+			-84.53358,39.035362,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Valley Plaza at Walmart<br/>ID: 305520</description>
+		<Point> 
+			<coordinates>
+			-84.533672,39.035121,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Village Green Park and Ride<br/>ID: 225712</description>
+		<Point> 
+			<coordinates>
+			-84.400794,38.985734,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Vine at 4th<br/>ID: 43701092</description>
+		<Point> 
+			<coordinates>
+			-84.512647,39.099868,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Washington at 10th<br/>ID: 1230</description>
+		<Point> 
+			<coordinates>
+			-84.486998,39.088685,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Welsh at Alden<br/>ID: 305292</description>
+		<Point> 
+			<coordinates>
+			-84.512624,39.058683,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wendell Ford at Amazon Prime Air<br/>ID: 102120</description>
+		<Point> 
+			<coordinates>
+			-84.658041,39.033214,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 38th<br/>ID: 307081</description>
+		<Point> 
+			<coordinates>
+			-84.503772,39.046257,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 38th<br/>ID: 308330</description>
+		<Point> 
+			<coordinates>
+			-84.50385,39.046422,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 39th<br/>ID: 307071</description>
+		<Point> 
+			<coordinates>
+			-84.504235,39.045327,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 39th<br/>ID: 307400</description>
+		<Point> 
+			<coordinates>
+			-84.50443,39.045568,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 40th<br/>ID: 307061</description>
+		<Point> 
+			<coordinates>
+			-84.505047,39.04381,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 40th<br/>ID: 307410</description>
+		<Point> 
+			<coordinates>
+			-84.5052,39.0441,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 41st<br/>ID: 307051</description>
+		<Point> 
+			<coordinates>
+			-84.505372,39.043262,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 42nd<br/>ID: 307041</description>
+		<Point> 
+			<coordinates>
+			-84.505904,39.042333,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 43rd<br/>ID: 1000</description>
+		<Point> 
+			<coordinates>
+			-84.506532,39.041315,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at 43rd<br/>ID: 307420</description>
+		<Point> 
+			<coordinates>
+			-84.506487,39.041726,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at Church<br/>ID: 308241</description>
+		<Point> 
+			<coordinates>
+			-84.509048,39.037276,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at Howard Litzler<br/>ID: 308390</description>
+		<Point> 
+			<coordinates>
+			-84.509016,39.037717,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Winston at Ritte's Corner<br/>ID: 307091</description>
+		<Point> 
+			<coordinates>
+			-84.503321,39.047106,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Worldwide at North Bend<br/>ID: 140081</description>
+		<Point> 
+			<coordinates>
+			-84.713297,39.08749,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: Wright at North Bend<br/>ID: 139081</description>
+		<Point> 
+			<coordinates>
+			-84.705913,39.056872,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York at 5th<br/>ID: 212050</description>
+		<Point> 
+			<coordinates>
+			-84.495801,39.091694,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York at 7th<br/>ID: 225060</description>
+		<Point> 
+			<coordinates>
+			-84.494256,39.089988,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York at 8th<br/>ID: 225070</description>
+		<Point> 
+			<coordinates>
+			-84.492807,39.08845,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York at 9th<br/>ID: 225080</description>
+		<Point> 
+			<coordinates>
+			-84.491658,39.087187,0
+			</coordinates> 
+		</Point> 
+	</Placemark>
+	<Placemark> 
+		<styleUrl>#stop</styleUrl>
+		<description>Name: York at 10th<br/>ID: 225090</description>
+		<Point> 
+			<coordinates>
+			-84.490608,39.086083,0
+			</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document> 
+</kml>

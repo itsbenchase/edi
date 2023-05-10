@@ -6,31 +6,41 @@ ca-bart;Bay Area Rapid Transit
 ny-beeline;Bee-Line Bus System
 pa-barta;Berks Area Regional Transportation Authority
 ma-brta;Berkshire Regional Transit Authority
+ca-bbb;Big Blue Bus
 ma-bat;Brockton Area Transit Authority
 wa-ctran;C-Tran
+ab-calgary;Calgary Transit
 ma-cata;Cape Ann Transit Authority
 ma-ccrta;Cape Cod Regional Transit Authority
 pa-cat;Capital Area Transit, Harrisburg
-ny-cdta;Capital District Transportation Authority
+mi-cata;Capital Area Transportion Authority, Lansing
+ny-cdta;Capital District Transportation Authority, Albany
+oh-cota;Central Ohio Transit Authority
 il-cumtd;Champaign-Urbana Mass Transit District
+nc-cats;Charlotte Area Transit System
 il-cta;Chicago Transit Authority
 wa-community;Community Transit
 ct-ct;CTtransit
+tx-dart;Dallas Area Rapid Transit
 va-dash;DASH Alexandria
 il-dekalb;DeKalb Public Transit
 de-dart;Delaware Authority for Regional Transit
 mi-ddot;Detroit Department of Transportation
 ny-dutchess;Dutchess County Public Transit
+ca-etran;Elk Grove Transit
 pa-emta;Erie Metropolitan Transit Authority
 wa-everett;Everett Transit
 va-fairfax;Fairfax Connector
 ma-frta;Franklin Regional Transit Authority
+ca-fax;Fresno Area Express
 ca-ggt;Golden Gate Transit
 on-grt;Grand River Transit
 ma-gatra;Greater Attleboro-Taunton Regional Transit Authority
 ct-gbt;Greater Bridgeport Transit
+me-gpm;Greater Portland Metro
 vt-gmt;Green Mountain Transit
 va-hrt;Hampton Roads Transit
+fl-hart;Hillsborough Area Regional Transit
 ct-hart;Housatonic Area Regional Transit
 wa-intercity;Intercity Transit
 wa-island;Island Transit
@@ -38,9 +48,11 @@ wa-king;King County Metro
 wa-kitsap;Kitsap Transit
 or-ltd;Lane Transit District
 pa-lanta;Lehigh and Northampton Transportation Authority
+ca-lbt;Long Beach Transit
 ca-lacmta;Los Angeles Metro
 va-loudoun;Loudoun County Transit
 ma-lrta;Lowell Regional Transit Authority
+fl-lynx;Lynx, Orlando
 ca-marin;Marin County Transit District
 md-mta;Maryland Transit Administration
 ma-mbta;Massachusetts Bay Transportation Authority
@@ -63,6 +75,8 @@ ny-nice;Nassau Inter-County Express
 nj-njt;New Jersey Transit
 ny-nfta;Niagara Frontier Transportation Authority
 ct-norwalk;Norwalk Transit
+ca-octa;Orange County Transportation Authority
+ca-omni;OmniTrans
 il-pace;Pace Suburban Bus
 wa-pierce;Pierce Transit
 ma-pvta;Pioneer Valley Transit Authority
@@ -76,19 +90,27 @@ co-rtd;Regional Transportation District
 qc-rtc;Réseau de transport de la Capitale
 ri-ripta;Rhode Island Public Transit Authority
 ny-rgrta;Rochester-Genesee Regional Transportation Authority
-ca-samtrans;San Mateo County Transit District
+ca-roseville;Roseville Transit
+ca-sacrt;Sacramento Regional Transit District
+ca-mts;San Diego Metropolitan Transit System
 ca-muni;San Francisco Municipal Transit Agency
+ca-samtrans;San Mateo County Transit District
 qc-stm;Société de transport de Montréal
 wa-sound;Sound Transit
 ct-seat;South East Area Transit District
 in-nictd;South Shore Line
 pa-septa;Southeastern Pennsylvania Transportation Authority
 ma-srta;Southeastern Regional Transit Authority
+oh-go;Southwest Ohio Regional Transit Authority
 mi-smart;Suburban Mobility Authority for Regional Transportation
 ny-sct;Suffolk County Transit
+az-suntran;SunTran, Tucson
+hi-thebus;TheBus, Honolulu
+mi-rapid;The Rapid, Grand Rapids
 on-thunderbay;Thunder Bay Transit
 nj-tiger;Tiger Transit
 on-ttc;Toronto Transit Commission
+ky-tank;Transit Authority of Northern Kentucky
 ny-orange;Transit Orange
 bc-translink;TransLink
 ny-tor;Transport of Rockland
@@ -96,8 +118,11 @@ or-trimet;TriMet
 ca-unitrans;Unitrans
 pa-uppermerion;Upper Merion Township
 ut-uta;Utah Transit Authority
+az-valley;Valley Metro
 ma-vta;Vineyard Transit Authority
 dc-wmata;Washington Metropolitan Area Transit Authority
 wa-wta;Whatcom Transportation Authority
 ct-wrtd;Windham Regional Transit District
+mb-winnipeg;Winnipeg Transit
 ma-wrta;Worcester Regional Transit Authority
+ca-yolo;Yolo County Transportation District
