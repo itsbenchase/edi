@@ -34,6 +34,7 @@ public class FullMap
     maps.add("\t<Style id=\"3.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ffbf1d7e</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
     maps.add("\t<Style id=\"3.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff6e0cb0</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
     maps.add("\t<Style id=\"4.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff190177</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+    maps.add("\t<Style id=\"10.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff000000</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
 
     for (int a = 0; a < agencies.size(); a++)
     {
@@ -115,9 +116,13 @@ public class FullMap
           {
             maps.add("\t\t\t<styleUrl>#3.5</styleUrl>");
           }
-          else // (routes.get(j).getEdi() >= 4.0)
+          else if (routes.get(j).getEdi() >= 4.0 && routes.get(j).getEdi() < 10.0)
           {
-            maps.add("\t\t\t<styleUrl>#4.0</styleUrl>");
+            maps.add("\t\t<styleUrl>#4.0</styleUrl>");
+          }
+          else // (routes.get(j).getEdi() >= 10.0)
+          {
+            maps.add("\t\t<styleUrl>#10.0</styleUrl>");
           }
 
           maps.add("\t\t\t<description>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
@@ -164,9 +169,13 @@ public class FullMap
               {
                 maps.add("\t\t\t<styleUrl>#3.5</styleUrl>");
               }
-              else // (routes.get(j).getEdi() >= 4.0)
+              else if (routes.get(j).getEdi() >= 4.0 && routes.get(j).getEdi() < 10.0)
               {
-                maps.add("\t\t\t<styleUrl>#4.0</styleUrl>");
+                maps.add("\t\t<styleUrl>#4.0</styleUrl>");
+              }
+              else // (routes.get(j).getEdi() >= 10.0)
+              {
+                maps.add("\t\t<styleUrl>#10.0</styleUrl>");
               }
 
               maps.add("\t\t\t<description>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");

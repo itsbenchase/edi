@@ -44,6 +44,12 @@
 			<width>4.0</width> 
 		</LineStyle> 
 	</Style>
+	<Style id="10.0"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
 	<Placemark> 
 		<name>n1-jamaica</name>
 		<styleUrl>#1.5</styleUrl>

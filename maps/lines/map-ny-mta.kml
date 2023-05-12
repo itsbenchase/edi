@@ -44,6 +44,12 @@
 			<width>4.0</width> 
 		</LineStyle> 
 	</Style>
+	<Style id="10.0"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
 	<Placemark> 
 		<name>hrl-m</name>
 		<styleUrl>#4.0</styleUrl>
@@ -2117,7 +2123,7 @@
 	</Placemark>
 	<Placemark> 
 		<name>Q38</name>
-		<styleUrl>#4.0</styleUrl>
+		<styleUrl>#10.0</styleUrl>
 		<description>Agency: ny-mta<br/>EDI: 24.34</description>
 		<LineString> 
 			<coordinates>

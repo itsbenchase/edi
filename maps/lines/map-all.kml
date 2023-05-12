@@ -44,6 +44,12 @@
 			<width>4.0</width> 
 		</LineStyle> 
 		</Style>
+	<Style id="10.0"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
 	<Document> 
 		<name>ca-ac routes</name>
 		<Placemark> 
@@ -662,7 +668,7 @@
 		<name>ab-calgary routes</name>
 		<Placemark> 
 			<name>894</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ab-calgary<br/>EDI: 4.68</description>
 			<LineString> 
 				<coordinates>
@@ -672,7 +678,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>52</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ab-calgary<br/>EDI: 4.56</description>
 			<LineString> 
 				<coordinates>
@@ -728,7 +734,7 @@
 		<name>ny-cdta routes</name>
 		<Placemark> 
 			<name>830</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ny-cdta<br/>EDI: 8.21</description>
 			<LineString> 
 				<coordinates>
@@ -1126,6 +1132,19 @@
 			<LineString> 
 				<coordinates>
 				-88.255951,40.048065,0 -88.248971,40.054509,0 -88.243365,40.054449,0 -88.238277,40.061609,0 -88.238284,40.064809,0 -88.238688,40.067428,0 -88.241864,40.068119,0 -88.246555,40.068067,0 -88.245463,40.066134,0 -88.244815,40.068075,0 -88.250216,40.069558,0 -88.249743,40.071552,0 -88.249573,40.074253,0 -88.251212,40.074372,0 -88.251328,40.075378,0 -88.250534,40.076868,0 -88.250252,40.079143,0 -88.250725,40.080742,0 -88.249664,40.08231,0 -88.249474,40.083633,0 -88.249482,40.086482,0 -88.250079,40.08852,0 -88.250422,40.089902,0 -88.250592,40.09037,0 -88.250055,40.091845,0 -88.249132,40.093633,0 -88.246447,40.09445,0 -88.241235,40.094518,0 -88.238312,40.094535,0 -88.240565,40.095688,0 -88.241383,40.097873,0 -88.238675,40.102803,0 -88.238512,40.10415,0 -88.234817,40.10415,0 -88.232198,40.105465,0 -88.228752,40.105846,0 -88.228828,40.108178,0 -88.228855,40.111512,0 -88.228912,40.114438,0 -88.23282,40.114457,0 -88.237048,40.114422,0 -88.238602,40.114402,0 -88.241442,40.115363,0 -88.242925,40.115347,0 -88.242639,40.116194,0 -88.242049,40.117662,0 -88.241582,40.119973,0 -88.241175,40.120998,0 -88.243387,40.121166,0 -88.245083,40.121223,0 -88.245588,40.122143,0 -88.245163,40.124513,0 -88.245175,40.125425,0 -88.245175,40.126317,0 -88.245068,40.127273,0 -88.243482,40.127003,0 -88.24219,40.127268,0 -88.239797,40.127293,0 -88.238768,40.127548,0 -88.238795,40.13053,0 -88.23883,40.132922,0 -88.2395,40.1353,0 -88.24251,40.138087,0 -88.23888,40.138355,0 -88.239092,40.141978,0 -88.239123,40.144597,0 -88.241807,40.14286,0 -88.240259,40.144204,0 -88.246036,40.143111,0 -88.248062,40.141929,0 -88.25037,40.142078,0 -88.252547,40.142568,0 -88.255293,40.142718,0 -88.260352,40.142697,0 -88.261703,40.142669,0 -88.261973,40.146315,0 -88.2603,40.146461,0 -88.25558,40.148355,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark> 
+	</Document>
+	<Document> 
+		<name>nc-cats routes</name>
+		<Placemark> 
+			<name>Gold</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: nc-cats<br/>EDI: 1.32</description>
+			<LineString> 
+				<coordinates>
+				-80.856853,35.246253,0 -80.858203,35.243514,0 -80.858449,35.240162,0 -80.85881,35.237341,0 -80.850954,35.233737,0 -80.847669,35.23115,0 -80.845694,35.229461,0 -80.843162,35.227272,0 -80.839864,35.224467,0 -80.837803,35.222709,0 -80.835988,35.221125,0 -80.831506,35.217582,0 -80.826492,35.21359,0 -80.82453,35.21379,0 -80.820881,35.21679,0 -80.818898,35.219537,0 
 				</coordinates> 
 			</LineString> 
 		</Placemark> 
@@ -3467,7 +3486,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>107</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: de-dart<br/>EDI: 4.08</description>
 			<LineString> 
 				<coordinates>
@@ -3599,7 +3618,7 @@
 		<name>va-fairfax routes</name>
 		<Placemark> 
 			<name>937</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: va-fairfax<br/>EDI: 4.54</description>
 			<LineString> 
 				<coordinates>
@@ -4212,6 +4231,149 @@
 		</Placemark> 
 	</Document>
 	<Document> 
+		<name>me-gpm routes</name>
+		<Placemark> 
+			<name>7-oceanview</name>
+			<styleUrl>#1.5</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.58</description>
+			<LineString> 
+				<coordinates>
+				-70.259673,43.658464,0 -70.258278,43.657989,0 -70.256626,43.659024,0 -70.253674,43.660984,0 -70.25187,43.662467,0 -70.251076,43.663556,0 -70.252473,43.666193,0 -70.253744,43.66842,0 -70.255036,43.670328,0 -70.256349,43.681489,0 -70.254282,43.683644,0 -70.253304,43.684632,0 -70.248111,43.688093,0 -70.241356,43.697846,0 -70.240837,43.698823,0 -70.24004,43.700394,0 -70.239021,43.702114,0 -70.237436,43.705019,0 -70.234251,43.710116,0 -70.233627,43.713619,0 -70.233422,43.715299,0 -70.232988,43.718408,0 -70.235169,43.719359,0 -70.23455,43.72232,0 -70.232473,43.722104,0 -70.23226,43.723392,0 -70.230467,43.723638,0 -70.232951,43.726324,0 -70.240593,43.729325,0 -70.242087,43.729127,0 -70.24449,43.724543,0 -70.24988,43.720802,0 -70.251549,43.72136,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>7-market</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.25</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.258278,43.657989,0 -70.256626,43.659024,0 -70.253674,43.660984,0 -70.25187,43.662467,0 -70.251076,43.663556,0 -70.252473,43.666193,0 -70.253744,43.66842,0 -70.255036,43.670328,0 -70.256349,43.681489,0 -70.254282,43.683644,0 -70.253304,43.684632,0 -70.248111,43.688093,0 -70.241356,43.697846,0 -70.240837,43.698823,0 -70.24004,43.700394,0 -70.239021,43.702114,0 -70.237436,43.705019,0 -70.234251,43.710116,0 -70.233627,43.713619,0 -70.233422,43.715299,0 -70.232988,43.718408,0 -70.235169,43.719359,0 -70.23455,43.72232,0 -70.232473,43.722104,0 -70.23226,43.723392,0 -70.223644,43.736937,0 -70.221458,43.739007,0 -70.217316,43.738643,0 -70.213033,43.737306,0 -70.210753,43.736158,0 -70.208743,43.735051,0 -70.208942,43.73413,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>5-jetport</name>
+			<styleUrl>#1.5</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.52</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267397,43.657577,0 -70.271157,43.656898,0 -70.27538,43.656123,0 -70.277371,43.655938,0 -70.281028,43.65587,0 -70.283775,43.655891,0 -70.288522,43.656909,0 -70.291026,43.657759,0 -70.29461,43.658688,0 -70.298475,43.658834,0 -70.302412,43.658764,0 -70.305619,43.659668,0 -70.311623,43.658634,0 -70.315982,43.655147,0 -70.318324,43.652613,0 -70.310554,43.647523,0 -70.309281,43.649367,0 -70.310582,43.651576,0 -70.314973,43.649492,0 -70.319102,43.647257,0 -70.325657,43.647693,0 -70.32908,43.642163,0 -70.325333,43.639172,0 -70.329512,43.636138,0 -70.332598,43.632857,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>5-hutchins</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.38</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267397,43.657577,0 -70.271157,43.656898,0 -70.27538,43.656123,0 -70.277371,43.655938,0 -70.281028,43.65587,0 -70.283775,43.655891,0 -70.288522,43.656909,0 -70.291026,43.657759,0 -70.29461,43.658688,0 -70.298475,43.658834,0 -70.302412,43.658764,0 -70.305619,43.659668,0 -70.311623,43.658634,0 -70.315982,43.655147,0 -70.318901,43.652889,0 -70.327495,43.651219,0 -70.335522,43.650879,0 -70.32908,43.642163,0 -70.325333,43.639172,0 -70.329512,43.636138,0 -70.332598,43.632857,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>5</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.23</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267397,43.657577,0 -70.271157,43.656898,0 -70.27538,43.656123,0 -70.277371,43.655938,0 -70.281028,43.65587,0 -70.283775,43.655891,0 -70.288522,43.656909,0 -70.291026,43.657759,0 -70.29461,43.658688,0 -70.298475,43.658834,0 -70.302412,43.658764,0 -70.305619,43.659668,0 -70.311623,43.658634,0 -70.315982,43.655147,0 -70.318901,43.652889,0 -70.325515,43.649078,0 -70.32908,43.642163,0 -70.325333,43.639172,0 -70.329512,43.636138,0 -70.332598,43.632857,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>4-westbrook</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.07</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267293,43.659226,0 -70.274526,43.662285,0 -70.278208,43.66132,0 -70.281425,43.662549,0 -70.284337,43.66343,0 -70.28641,43.664033,0 -70.291681,43.665534,0 -70.29506,43.666477,0 -70.297222,43.667203,0 -70.300509,43.668414,0 -70.304283,43.669812,0 -70.308247,43.671294,0 -70.314459,43.673198,0 -70.321625,43.674614,0 -70.323363,43.675063,0 -70.325771,43.676028,0 -70.331581,43.677548,0 -70.335852,43.67819,0 -70.338619,43.678606,0 -70.341504,43.679499,0 -70.344443,43.680496,0 -70.34667,43.681304,0 -70.350794,43.681746,0 -70.353315,43.680049,0 -70.357681,43.678421,0 -70.359677,43.677503,0 -70.361343,43.676907,0 -70.363997,43.676395,0 -70.369217,43.67572,0 -70.371413,43.676089,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>4-hamlet</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.21</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267293,43.659226,0 -70.274526,43.662285,0 -70.278208,43.66132,0 -70.281425,43.662549,0 -70.284337,43.66343,0 -70.28641,43.664033,0 -70.291681,43.665534,0 -70.29506,43.666477,0 -70.297222,43.667203,0 -70.300509,43.668414,0 -70.304283,43.669812,0 -70.308247,43.671294,0 -70.314459,43.673198,0 -70.321625,43.674614,0 -70.323363,43.675063,0 -70.325771,43.676028,0 -70.331581,43.677548,0 -70.335852,43.67819,0 -70.338619,43.678606,0 -70.341504,43.679499,0 -70.344443,43.680496,0 -70.34667,43.681304,0 -70.350794,43.681746,0 -70.353315,43.680049,0 -70.357681,43.678421,0 -70.359677,43.677503,0 -70.361343,43.676907,0 -70.363997,43.676395,0 -70.369217,43.67572,0 -70.370047,43.673107,0 -70.371053,43.670048,0 -70.372783,43.670279,0 -70.376522,43.664884,0 -70.385975,43.657315,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>4-bradley</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.4</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267293,43.659226,0 -70.274526,43.662285,0 -70.278208,43.66132,0 -70.281425,43.662549,0 -70.284337,43.66343,0 -70.28641,43.664033,0 -70.291681,43.665534,0 -70.29506,43.666477,0 -70.297222,43.667203,0 -70.300509,43.668414,0 -70.304283,43.669812,0 -70.308247,43.671294,0 -70.314459,43.673198,0 -70.321625,43.674614,0 -70.323363,43.675063,0 -70.325771,43.676028,0 -70.331581,43.677548,0 -70.335852,43.67819,0 -70.338619,43.678606,0 -70.341504,43.679499,0 -70.344443,43.680496,0 -70.34667,43.681304,0 -70.350794,43.681746,0 -70.353315,43.680049,0 -70.357681,43.678421,0 -70.359677,43.677503,0 -70.361343,43.676907,0 -70.363997,43.676395,0 -70.369217,43.67572,0 -70.370047,43.673107,0 -70.371053,43.670048,0 -70.372783,43.670279,0 -70.376522,43.664884,0 -70.372662,43.662081,0 -70.366639,43.662198,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>3</name>
+			<styleUrl>#1.5</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.81</description>
+			<LineString> 
+				<coordinates>
+			-70.332598,43.632857,0 -70.331412,43.630787,0 -70.328922,43.634451,0 -70.33364,43.636902,0 -70.347274,43.633249,0 -70.34932,43.633739,0 -70.35774,43.650644,0 -70.358784,43.666006,0 -70.360866,43.671178,0 -70.363997,43.676395,0 -70.367113,43.678319,0 -70.364628,43.68009,0 -70.361423,43.680786,0 -70.359921,43.681576,0 -70.362175,43.683973,0 -70.36388,43.684966,0 -70.362408,43.686835,0 -70.361131,43.688265,0 -70.359078,43.690024,0 -70.358656,43.693214,0 -70.351223,43.695159,0 -70.3468,43.695572,0 -70.343925,43.696221,0 -70.336763,43.696724,0 -70.335067,43.697426,0 -70.33166,43.698628,0 -70.325306,43.703624,0 -70.319706,43.700133,0 -70.31802,43.699919,0 -70.319681,43.702081,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>2-prides</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.25</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267293,43.659226,0 -70.272532,43.663606,0 -70.274654,43.664919,0 -70.276639,43.666124,0 -70.280625,43.668593,0 -70.282161,43.66955,0 -70.284138,43.670751,0 -70.285463,43.673446,0 -70.286478,43.675295,0 -70.288199,43.678556,0 -70.288944,43.679967,0 -70.290597,43.682985,0 -70.291506,43.684744,0 -70.292594,43.68676,0 -70.29436,43.688999,0 -70.296609,43.690087,0 -70.29932,43.691809,0 -70.30132,43.693484,0 -70.303804,43.695229,0 -70.307554,43.697332,0 -70.311575,43.698848,0 -70.31452,43.699379,0 -70.317875,43.700024,0 -70.320329,43.700598,0 -70.325914,43.703672,0 -70.332257,43.698512,0 -70.334855,43.697636,0 -70.336842,43.696813,0 -70.338916,43.697423,0 -70.33941,43.700474,0 -70.340741,43.703925,0 -70.337694,43.708725,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>2-hannaford</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.09</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.262516,43.658663,0 -70.266012,43.657819,0 -70.267293,43.659226,0 -70.272532,43.663606,0 -70.274654,43.664919,0 -70.276639,43.666124,0 -70.280625,43.668593,0 -70.282161,43.66955,0 -70.284138,43.670751,0 -70.285463,43.673446,0 -70.286478,43.675295,0 -70.288199,43.678556,0 -70.288944,43.679967,0 -70.290597,43.682985,0 -70.291506,43.684744,0 -70.292594,43.68676,0 -70.29436,43.688999,0 -70.296609,43.690087,0 -70.29932,43.691809,0 -70.30132,43.693484,0 -70.303804,43.695229,0 -70.307554,43.697332,0 -70.311575,43.698848,0 -70.31452,43.699379,0 -70.317875,43.700024,0 -70.320329,43.700598,0 -70.319681,43.702081,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>1</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.44</description>
+			<LineString> 
+				<coordinates>
+			-70.290114,43.651296,0 -70.291557,43.654145,0 -70.283242,43.6538,0 -70.278111,43.653771,0 -70.275558,43.654712,0 -70.272653,43.653941,0 -70.269721,43.653023,0 -70.267801,43.652991,0 -70.26506,43.653317,0 -70.262571,43.654417,0 -70.259779,43.656861,0 -70.258278,43.657989,0 -70.256626,43.659024,0 -70.253674,43.660984,0 -70.25187,43.662467,0 -70.250466,43.66365,0 -70.249257,43.664658,0 -70.248648,43.666157,0 -70.250075,43.667508,0 -70.252394,43.669721,0 -70.253955,43.671161,0 -70.249079,43.67061,0 -70.245827,43.669606,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>Breeze</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.1</description>
+			<LineString> 
+				<coordinates>
+			-70.290114,43.651296,0 -70.291557,43.654145,0 -70.272653,43.653941,0 -70.262571,43.654417,0 -70.25187,43.662467,0 -70.191545,43.786042,0 -70.187444,43.80063,0 -70.178746,43.803947,0 -70.121531,43.839864,0 -70.111684,43.84903,0 -70.105827,43.855488,0 -70.102534,43.857586,0 -69.970856,43.911879,0 -69.964606,43.913791,0 -69.96248,43.910403,0 -69.965622,43.911217,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark>
+		<Placemark> 
+			<name>Husky</name>
+			<styleUrl>#1.0</styleUrl>
+			<description>Agency: me-gpm<br/>EDI: 1.02</description>
+			<LineString> 
+				<coordinates>
+			-70.259673,43.658464,0 -70.26603,43.662764,0 -70.274526,43.662285,0 -70.29506,43.666477,0 -70.331581,43.677548,0 -70.363329,43.675552,0 -70.440852,43.680473,0 -70.448168,43.680669,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark> 
+	</Document>
+	<Document> 
 		<name>va-hrt routes</name>
 		<Placemark> 
 			<name>1</name>
@@ -4806,7 +4968,7 @@
 		<name>ca-lacmta routes</name>
 		<Placemark> 
 			<name>155</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ca-lacmta<br/>EDI: 5.44</description>
 			<LineString> 
 				<coordinates>
@@ -7305,7 +7467,7 @@
 		<name>ny-mta routes</name>
 		<Placemark> 
 			<name>hrl-m</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ny-mta<br/>EDI: 5.7</description>
 			<LineString> 
 				<coordinates>
@@ -7605,7 +7767,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>B24</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ny-mta<br/>EDI: 4.26</description>
 			<LineString> 
 				<coordinates>
@@ -7755,7 +7917,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>M</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ny-mta<br/>EDI: 7.07</description>
 			<LineString> 
 				<coordinates>
@@ -7815,7 +7977,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>Q38</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#10.0</styleUrl>
 			<description>Agency: ny-mta<br/>EDI: 24.34</description>
 			<LineString> 
 				<coordinates>
@@ -8104,7 +8266,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>30</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 6.1</description>
 			<LineString> 
 				<coordinates>
@@ -8114,7 +8276,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>29</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 5.12</description>
 			<LineString> 
 				<coordinates>
@@ -8194,7 +8356,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>83-marc</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 6.65</description>
 			<LineString> 
 				<coordinates>
@@ -8204,7 +8366,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>83</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 9.27</description>
 			<LineString> 
 				<coordinates>
@@ -8224,7 +8386,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>19-parkside</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 4.0</description>
 			<LineString> 
 				<coordinates>
@@ -8334,7 +8496,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>16</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 4.77</description>
 			<LineString> 
 				<coordinates>
@@ -8344,7 +8506,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>98-soccerplex</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 5.16</description>
 			<LineString> 
 				<coordinates>
@@ -8354,7 +8516,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>98-gcc</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 4.56</description>
 			<LineString> 
 				<coordinates>
@@ -8364,7 +8526,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>98</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 4.35</description>
 			<LineString> 
 				<coordinates>
@@ -8374,7 +8536,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>98-clopper</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-mont<br/>EDI: 6.14</description>
 			<LineString> 
 				<coordinates>
@@ -8836,7 +8998,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>452</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: nj-njt<br/>EDI: 7.44</description>
 			<LineString> 
 				<coordinates>
@@ -8866,7 +9028,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>2</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: nj-njt<br/>EDI: 4.34</description>
 			<LineString> 
 				<coordinates>
@@ -8896,7 +9058,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>610</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: nj-njt<br/>EDI: 4.03</description>
 			<LineString> 
 				<coordinates>
@@ -8956,7 +9118,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>753-new-milford</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: nj-njt<br/>EDI: 4.11</description>
 			<LineString> 
 				<coordinates>
@@ -10336,7 +10498,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>83</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-prt<br/>EDI: 4.14</description>
 			<LineString> 
 				<coordinates>
@@ -10386,7 +10548,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>79</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-prt<br/>EDI: 4.23</description>
 			<LineString> 
 				<coordinates>
@@ -10686,7 +10848,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>55</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-prt<br/>EDI: 4.02</description>
 			<LineString> 
 				<coordinates>
@@ -10706,7 +10868,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>54-C</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-prt<br/>EDI: 4.99</description>
 			<LineString> 
 				<coordinates>
@@ -10776,7 +10938,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>89</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-prt<br/>EDI: 5.89</description>
 			<LineString> 
 				<coordinates>
@@ -11216,7 +11378,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>59</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-prt<br/>EDI: 4.33</description>
 			<LineString> 
 				<coordinates>
@@ -11309,7 +11471,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>26</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-pg<br/>EDI: 6.24</description>
 			<LineString> 
 				<coordinates>
@@ -11319,7 +11481,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>24</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: md-pg<br/>EDI: 4.68</description>
 			<LineString> 
 				<coordinates>
@@ -11708,11 +11870,24 @@
 		<name>qc-rtc routes</name>
 		<Placemark> 
 			<name>1</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: qc-rtc<br/>EDI: 4.81</description>
 			<LineString> 
 				<coordinates>
 				-71.24041,46.796825,0 -71.244122,46.79905,0 -71.24276,46.800048,0 -71.244444,46.801495,0 -71.241133,46.804638,0 -71.24455,46.807584,0 -71.246052,46.808861,0 -71.245544,46.810007,0 -71.243352,46.810705,0 -71.240853,46.810964,0 -71.23881,46.811976,0 -71.235389,46.811917,0 -71.233404,46.811462,0 -71.229646,46.811621,0 -71.228041,46.812135,0 -71.225824,46.812923,0 -71.224272,46.813482,0 -71.220972,46.814609,0 -71.217945,46.815636,0 -71.215113,46.816499,0 -71.211696,46.81679,0 -71.208256,46.817279,0 -71.205132,46.816876,0 -71.202572,46.816809,0 -71.201912,46.814997,0 -71.202425,46.812304,0 -71.203406,46.810175,0 -71.205451,46.805205,0 -71.207601,46.803303,0 -71.208705,46.802567,0 -71.211695,46.801775,0 -71.213532,46.80099,0 -71.215689,46.799699,0 -71.216921,46.798702,0 -71.218671,46.798313,0 
+				</coordinates> 
+			</LineString> 
+		</Placemark> 
+	</Document>
+	<Document> 
+		<name>fr-rer routes</name>
+		<Placemark> 
+			<name>C-Chantiers-Rive-Guache</name>
+		<styleUrl>#10.0</styleUrl>
+			<description>Agency: fr-rer<br/>EDI: 103.98</description>
+			<LineString> 
+				<coordinates>
+				2.13490786,48.7952604,0 2.146851969,48.77123769,0 2.164447837,48.76476007,0 2.192552282,48.75897133,0 2.21616034,48.75087244,0 2.230807643,48.74084886,0 2.258767728,48.72551907,0 2.294155785,48.70229376,0 2.306997381,48.7008756,0 2.31727901,48.68617887,0 2.332868506,48.67655856,0 2.35235418,48.67639469,0 2.383334629,48.68970941,0 2.403668724,48.71266832,0 2.419867148,48.72578126,0 2.426423645,48.73968686,0 2.411287538,48.76387978,0 2.377758553,48.82888012,0 2.367818768,48.84032036,0 2.34495978,48.85302379,0 2.326623035,48.86036558,0 2.312657651,48.86271301,0 2.300359274,48.86247496,0 2.289656249,48.85647657,0 2.278036794,48.84716158,0 2.270470188,48.83888336,0 2.264011346,48.83050965,0 2.257883548,48.81933738,0 2.240941917,48.80755236,0 2.183418794,48.79968116,0 2.171582607,48.80066552,0 2.152234049,48.79654476,0 2.130150772,48.7999135,0 
 				</coordinates> 
 			</LineString> 
 		</Placemark> 
@@ -12983,7 +13158,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>91</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#10.0</styleUrl>
 			<description>Agency: ca-muni<br/>EDI: 14.58</description>
 			<LineString> 
 				<coordinates>
@@ -13767,7 +13942,7 @@
 		<name>ny-sct routes</name>
 		<Placemark> 
 			<name>8A</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ny-sct<br/>EDI: 6.4</description>
 			<LineString> 
 				<coordinates>
@@ -13777,7 +13952,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>S92</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ny-sct<br/>EDI: 4.63</description>
 			<LineString> 
 				<coordinates>
@@ -13850,7 +14025,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>8</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: on-thunderbay<br/>EDI: 5.83</description>
 			<LineString> 
 				<coordinates>
@@ -15116,7 +15291,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>1</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: on-ttc<br/>EDI: 4.05</description>
 			<LineString> 
 				<coordinates>
@@ -15202,7 +15377,7 @@
 		<name>bc-translink routes</name>
 		<Placemark> 
 			<name>322</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: bc-translink<br/>EDI: 4.34</description>
 			<LineString> 
 				<coordinates>
@@ -15351,7 +15526,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>T</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: ca-unitrans<br/>EDI: 7.8</description>
 			<LineString> 
 				<coordinates>
@@ -15484,7 +15659,7 @@
 		<name>pa-uppermerion routes</name>
 		<Placemark> 
 			<name>rambler</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: pa-uppermerion<br/>EDI: 6.55</description>
 			<LineString> 
 				<coordinates>
@@ -16463,7 +16638,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>Red</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 4.29</description>
 			<LineString> 
 				<coordinates>
@@ -16613,7 +16788,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>S35-n</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 6.3</description>
 			<LineString> 
 				<coordinates>
@@ -16623,7 +16798,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>S35-s</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 9.67</description>
 			<LineString> 
 				<coordinates>
@@ -16683,7 +16858,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>K12</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 5.28</description>
 			<LineString> 
 				<coordinates>
@@ -16803,7 +16978,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>W3</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 8.82</description>
 			<LineString> 
 				<coordinates>
@@ -16813,7 +16988,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>W2</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 7.43</description>
 			<LineString> 
 				<coordinates>
@@ -16823,7 +16998,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>U6</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 4.56</description>
 			<LineString> 
 				<coordinates>
@@ -16833,7 +17008,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>U5</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 4.43</description>
 			<LineString> 
 				<coordinates>
@@ -16843,7 +17018,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>D14</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 7.8</description>
 			<LineString> 
 				<coordinates>
@@ -16853,7 +17028,7 @@
 		</Placemark>
 		<Placemark> 
 			<name>D12</name>
-			<styleUrl>#4.0</styleUrl>
+		<styleUrl>#4.0</styleUrl>
 			<description>Agency: dc-wmata<br/>EDI: 4.9</description>
 			<LineString> 
 				<coordinates>
