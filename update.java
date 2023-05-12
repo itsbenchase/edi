@@ -7,7 +7,6 @@ public class update
     RouteList b = new RouteList();
     FullMap c = new FullMap();
     AgencyMap d = new AgencyMap();
-    //StopMap e = new StopMap();
     StatsList f = new StatsList();
     Stats g = new Stats("global");
 
@@ -15,7 +14,6 @@ public class update
     b.main(args);
     c.main(args);
     d.main(args);
-    //e.main(args);
     f.main(args);
     g.main(args);
   }

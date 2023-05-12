@@ -186,7 +186,7 @@ public class AgencyMap
 
       try
       {
-        File newFile1 = new File("maps/lines/map-" + agencies.get(a) + ".kml");
+        File newFile1 = new File("maps/map-" + agencies.get(a) + ".kml");
         FileWriter fileWriter1 = new FileWriter(newFile1);
 
         fileWriter1.write(maps.get(0) + "\n");

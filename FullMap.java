@@ -194,7 +194,7 @@ public class FullMap
 
     try
     {
-      File newFile1 = new File("maps/lines/map-all.kml");
+      File newFile1 = new File("maps/map-all.kml");
       FileWriter fileWriter1 = new FileWriter(newFile1);
 
       fileWriter1.write(maps.get(0) + "\n");
