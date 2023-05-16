@@ -894,4 +894,91 @@ public class ediCalc
     System.out.print("(" + theLine.length + ", " + dist + ", ");
     System.out.println(edi + ")");
   }
+
+  // exact clone of rollingEdi(), but returns just the EDI value
+  public static double calcIndex(Stop [] theLine)
+  {
+    // haversine formula loop
+    double dist = 0;
+    for (int i = 1; i < theLine.length; i++)
+    {
+      double lon1 = Math.toRadians(Math.abs(theLine[i - 1].getLon()));
+      double lon2 = Math.toRadians(Math.abs(theLine[i].getLon()));
+      double lat1 = Math.toRadians(Math.abs(theLine[i - 1].getLat()));
+      double lat2 = Math.toRadians(Math.abs(theLine[i].getLat()));
+      double dlon = lon2 - lon1;
+      double dlat = lat2 - lat1;
+      double a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);      
+      double c = 2 * Math.asin(Math.sqrt(a));
+      double r = 3963;
+
+      dist += c * r;
+    }
+
+    // full line haversine
+    double firstLon = Math.toRadians(theLine[0].getLon());
+    double lastLon = Math.toRadians(theLine[theLine.length  - 1].getLon());
+    double firstLat = Math.toRadians(theLine[0].getLat());
+    double lastLat = Math.toRadians(theLine[theLine.length - 1].getLat());
+    double difflon = 0; // placeholder
+    double difflat = 0; // placeholder
+
+    // longitude math
+    if (firstLon >= 0 && lastLon >= 0)
+    {
+      difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon <= 0)
+    {
+      lastLon = Math.abs(lastLon);
+      firstLon = Math.abs(firstLon);
+      difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon >= 0)
+    {
+      difflon = Math.abs(firstLon - lastLon);
+    }
+    else if (firstLon >= 0 && lastLon <= 0)
+    {
+      difflon = Math.abs(lastLon - firstLon);
+    }
+
+    // latitude math
+    if (firstLat >= 0 && lastLat >= 0)
+    {
+      difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat <= 0)
+    {
+      lastLat = Math.abs(lastLat);
+      firstLat = Math.abs(firstLat);
+      difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat >= 0)
+    {
+      difflat = Math.abs(firstLat - lastLat);
+    }
+    else if (firstLat >= 0 && lastLat <= 0)
+    {
+      difflat = Math.abs(lastLat - firstLat);
+    }
+
+    double a1 = Math.pow(Math.sin(difflat / 2), 2) + Math.cos(firstLat) * Math.cos(lastLat) * Math.pow(Math.sin(difflon / 2), 2);      
+    double c1 = 2 * Math.asin(Math.sqrt(a1));
+    double r1 = 3963;
+    double lineDist = c1 * r1;
+
+    // calculate the edi
+    double edi = dist / lineDist;
+    edi = Math.round(edi * 100.0) / 100.0;
+
+    if (edi < 1) // case for the 0.9x
+    {
+      edi = 1.0;
+    }
+
+    dist = Math.round(dist * 100.0) / 100.0;
+    
+    return edi; // returns to whatever called it (in the original case, it's the Segment.java)
+  }
 }
