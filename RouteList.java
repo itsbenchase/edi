@@ -110,12 +110,62 @@ public class RouteList
           }
           else
           {
-            fileWriter1.append("<tr><td style=color:blue>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + "mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+            fileWriter1.append("<tr><td style=color:blue>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
           }
         }
 
         fileWriter1.append("</table> \n");
         System.out.println("Agency Routes (" + agencies.get(i) + "): " + agencyCount);
+        int currentSize = agencyCount;
+        
+        // check for sets
+        try
+        {
+          // load in the sets
+          ArrayList<String> agencySets = new ArrayList<String>();
+          Scanner t = new Scanner(new File("sets/" + agencies.get(i) + ".txt"));
+          while (t.hasNextLine())
+          {
+            String data = t.nextLine();
+            agencySets.add(data);
+          }
+
+          // load in from the set
+          for (int j = 0; j < agencySets.size(); j++) // loop through all sets
+          {
+            Scanner s = new Scanner(new File("edis/" + agencies.get(i) + "-" + agencySets.get(j) + ".txt"));
+            while (s.hasNextLine())
+            {
+              String data = s.nextLine();
+              // i'm gonna list them all blue (unofficial b/c post-rollover)
+              String code = data.substring(0, data.indexOf(";"));
+              routeCode.add(code);
+              data = data.substring(data.indexOf(";") + 1);
+              String dist = data.substring(0, data.indexOf(";"));
+              routeDist.add(dist);
+              data = data.substring(data.indexOf(";") + 1);
+              String edi = data;
+              routeEdi.add(edi);
+              routeCount++;
+              agencyCount++;
+            }
+
+            fileWriter1.append("<p><b>" + agencySets.get(j) + " Set</b></p>\n");
+            fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n");
+
+            for (int k = currentSize; k < routeCode.size(); k++)
+            {
+              fileWriter1.append("<tr><td style=color:blue>" + routeCode.get(k) + "</td><td>" + routeDist.get(k) + " mi.</td><td>" + routeEdi.get(k) + "</td></tr> \n");
+            }
+
+            fileWriter1.append("</table> \n");
+            currentSize = agencyCount; // set things for the next set if applicable
+          }
+        }
+        catch (Exception e)
+        {
+          // just don't do anything then  
+        }
       }
 
       fileWriter1.append("<p><b>Route Count: </b> " + routeCount + "</p>");   

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-bbb routes</name>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff10c283</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff195c03</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ffa0ad10</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ffad4902</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ffbf1d7e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff6e0cb0</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff190177</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Style id="10.0"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+	</Style>
+	<Placemark> 
+		<name>1</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ca-bbb<br/>EDI: 1.41</description>
+		<LineString> 
+			<coordinates>
+			-118.469639,33.988215,0
+			-118.471527,33.988695,0
+			-118.474054,33.992288,0
+			-118.47636,33.994576,0
+			-118.477639,33.996104,0
+			-118.479519,33.997989,0
+			-118.482504,34.000982,0
+			-118.483979,34.002411,0
+			-118.486745,34.005141,0
+			-118.489042,34.007413,0
+			-118.487662,34.010065,0
+			-118.49245,34.014137,0
+			-118.494998,34.016522,0
+			-118.493332,34.017885,0
+			-118.491416,34.019472,0
+			-118.488553,34.021731,0
+			-118.485733,34.023991,0
+			-118.48275,34.026412,0
+			-118.479886,34.028707,0
+			-118.478122,34.030141,0
+			-118.476815,34.031208,0
+			-118.474311,34.033225,0
+			-118.471283,34.035664,0
+			-118.469638,34.036981,0
+			-118.467514,34.038631,0
+			-118.465541,34.039484,0
+			-118.462879,34.040635,0
+			-118.459252,34.042294,0
+			-118.456068,34.043667,0
+			-118.453724,34.044726,0
+			-118.449635,34.046092,0
+			-118.448457,34.046433,0
+			-118.443637,34.047755,0
+			-118.440125,34.048743,0
+			-118.43752,34.050456,0
+			-118.438624,34.051805,0
+			-118.440615,34.054058,0
+			-118.442168,34.056078,0
+			-118.443821,34.058733,0
+			-118.445258,34.062525,0
+			-118.445227,34.063626,0
+			-118.442586,34.063656,0
+			-118.439568,34.066514,0
+			-118.43842,34.071141,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
