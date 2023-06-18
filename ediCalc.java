@@ -106,6 +106,17 @@ public class ediCalc
       boolean export = false; // export for sumbission
 
       Stop [] theLine;
+      
+      if (lineChoice.equalsIgnoreCase("set"))
+      {
+        System.out.print("Enter set: ");
+        String setChoice = in.nextLine();
+
+        agencyChoice = "sets/" + agencyChoice + "-" + setChoice;
+
+        System.out.print("Enter line: ");
+        lineChoice = in.nextLine();
+      }
 
       if (lineChoice.equalsIgnoreCase("custom"))
       {
@@ -749,16 +760,43 @@ public class ediCalc
           System.out.println("Error, no EDI list file for agency " + agencyChoice + "."); // expected error if first route
         }
 
-        if (official)
+        // add to new list if first
+        if (routeCode.size() == 0)
         {
-          routeCode.add(lineName);
+          if (official)
+          {
+            routeCode.add(lineName);
+          }
+          else
+          {
+            routeCode.add("!" + lineName);
+          }
+          routeDist.add(dist + "");
+          routeEdi.add(edi + "");
         }
+        // select position on list if list exists
         else
         {
-          routeCode.add("!" + lineName);
+          for (int z = 0; z < routeCode.size(); z++)
+          {
+            System.out.println((z + 1) + ". " + routeCode.get(z) + " (" + routeDist.get(z) + " mi., " + routeEdi.get(z) + ")");
+          }
+          
+          Scanner list = new Scanner(System.in);
+          System.out.print("Enter listing before: ");
+          int listing = list.nextInt();
+
+          if (official)
+          {
+            routeCode.add(listing, lineName);
+          }
+          else
+          {
+            routeCode.add(listing, "!" + lineName);
+          }
+          routeDist.add(listing, dist + "");
+          routeEdi.add(listing, edi + "");
         }
-        routeDist.add(dist + "");
-        routeEdi.add(edi + "");
 
         // add EDI to list.
         try

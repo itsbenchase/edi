@@ -74,6 +74,7 @@
 9144;Anniversary & Forest Run (SB);43.135167;-89.301992
 9285;Anniversary & Hayes (NB);43.13564;-89.300199
 9198;Anniversary & Hayes (SB);43.135452;-89.299878
+4147;Anton & Williamsburg (NB);43.024243;-89.470646
 7243;Atlas & Argosy (NB);43.088018;-89.310952
 7751;Atlas & Cottage Grove (NB);43.084478;-89.306822
 7527;Atlas & Neptune (NB);43.090194;-89.311628
@@ -237,6 +238,8 @@
 7392;Cottage Grove & Flora (WB);43.084445;-89.299698
 7825;Cottage Grove & Inwood (EB);43.084196;-89.292895
 7418;Cottage Grove & Inwood (WB);43.08452;-89.293833
+7241;Cottage Grove & McClellan (EB);43.084777;-89.270602
+7571;Cottage Grove & McLean (EB);43.084666;-89.273636
 7471;Cottage Grove & Meadowlark (EB);43.084163;-89.295414
 7532;Cottage Grove & Meadowlark (WB);43.084468;-89.296352
 7334;Cottage Grove & North Star (WB);43.084729;-89.280004
@@ -335,16 +338,19 @@
 3811;E Badger & Rimrock (EB);43.038192;-89.378525
 3500;E Badger & Rimrock (WB);43.038416;-89.379635
 7206;E Buckeye & Dondee (WB);43.073346;-89.302483
+7111;E Buckeye & Dondee (EB);43.073176;-89.302121
 7203;E Buckeye & Ellen (EB);43.073358;-89.288052
 7984;E Buckeye & Ellen (WB);43.073573;-89.288237
 7235;E Buckeye & S Stoughton E (EB);43.073082;-89.307965
 7538;E Buckeye & S Stoughton E (WB);43.073215;-89.307113
 7333;E Buckeye & S Thompson (EB);43.07346;-89.282558
 7610;E Buckeye & S Thompson (WB);43.073658;-89.283311
+7335;E Buckeye & Twilight (EB);43.073335;-89.298442
 7968;E Buckeye & Twilight (WB);43.073432;-89.298866
 7479;E Buckeye & Vondron (EB);43.073326;-89.291002
 7324;E Buckeye & Vondron (WB);43.073523;-89.291879
 7544;E Buckeye & Woodvale (WB);43.073474;-89.296187
+7687;E Buckeye & Woodvale (EB);43.073413;-89.295801
 4971;E Cheryl & Agrace (EB);43.004889;-89.416543
 4520;E Cheryl & Agrace (WB);43.005095;-89.417024
 4193;E Cheryl & Big Bluestem (EB);43.00674;-89.403507
@@ -357,7 +363,7 @@
 4282;E Cheryl & S Fish Hatchery (WB);43.005193;-89.427482
 4245;E Cheryl & Woods Hollow (EB);43.004808;-89.420637
 4194;E Cheryl & Woods Hollow (WB);43.005014;-89.420033
-1110;E Dayton & Wisconsin (WB);43.076428;-89.385920
+1110;E Dayton & Wisconsin (WB);43.076428;-89.38592
 1189;E Doty & S Pinckney (EB);43.074111;-89.380724
 1250;E Gorham & N Baldwin (WB);43.089497;-89.369614
 1138;E Gorham & N Blair (WB);43.081202;-89.382769
@@ -441,7 +447,7 @@
 1660;E Washington & N Paterson (WB);43.082237;-89.373829
 1382;E Washington & N Second (WB);43.093851;-89.357484
 1846;E Washington & N Sixth (WB);43.098298;-89.351552
-1140;E Washington & N Webster (WB);43.076390;-89.381930
+1140;E Washington & N Webster (WB);43.07639;-89.38193
 1618;E Washington & N Webster (WB);43.076009;-89.382488
 9587;E Washington & Portage (EB);43.123735;-89.313995
 9152;E Washington & Portage (WB);43.123226;-89.315478
@@ -543,12 +549,14 @@ EaTP;East Transfer Point;43.098624;-89.322251
 0222;Fisher & Bram (SB);43.045474;-89.391946
 0171;Fisher & Dane (NB);43.042923;-89.39175
 0320;Fisher & Dane (SB);43.04312;-89.392033
+4713;Fitchrona & Crosswalk;43.009863;-89.483361
 4201;Fitchrona & Hy-vee (NB);43.013846;-89.480531
 4541;Fitchrona & Kapec (EB);43.018718;-89.475503
 4984;Fitchrona & Kapec (WB);43.018924;-89.476255
 4836;Fitchrona & King James (WB);43.019032;-89.474097
 4379;Fitchrona & Mckee (NB);43.016057;-89.480533
 4510;Fitchrona & Mckee (SB);43.01526;-89.480816
+4649;Fitchrona & Nesbitt (NB);43.007562;-89.484661
 4200;Fitchrona & Target (SB);43.013488;-89.480827
 1707;Fordem & E Johnson (NB);43.093603;-89.363498
 1177;Fordem & Lakewood (NB);43.096916;-89.363631
@@ -812,7 +820,9 @@ EaTP;East Transfer Point;43.098624;-89.322251
 8306;Manchester & Westin (SB);43.01094;-89.492517
 5473;Manitowish & Burning Wood (EB);43.158118;-89.373775
 5214;Manitowish & Comanche (SB);43.15656;-89.372355
-8218;Maple Grove & Mckee (SB);43.015403;-89.49901
+8718;Maple Grove & Manchester (SB);43.007216;-89.499036
+8218;Maple Grove & McKee (SB);43.015403;-89.49901
+8184;Maple Grove & Nesbitt (SB);43.002011;-89.499217
 8263;Maple Grove & Westin (NB);43.01287;-89.498773
 6723;Market & Aspen (EB);43.092804;-89.529978
 6138;Market & Aspen (WB);43.093081;-89.529917
@@ -1214,7 +1224,7 @@ EaTP;East Transfer Point;43.098624;-89.322251
 7415;North Star & Sharpsburg (NB);43.085964;-89.27952
 7778;North Star & Sharpsburg (SB);43.08583;-89.279817
 NoTP;North Transfer Point;43.112918;-89.358526
-5100;North Transfer Point;43.113253;-89.358540
+5100;North Transfer Point;43.113253;-89.35854
 6475;Northbrook & Century (NB);43.110906;-89.506736
 6758;Northbrook & Century (SB);43.110843;-89.507032
 6529;Northbrook & Donna (NB);43.106411;-89.50678
@@ -1749,6 +1759,7 @@ SoTP;South Transfer Point;43.038957;-89.394651
 2496;Speedway & Hillcrest (WB);43.064502;-89.433867
 2231;Speedway & S Franklin (EB);43.06246;-89.436187
 2374;Speedway & S Franklin (WB);43.062845;-89.436064
+7562;Spercher New & Cottage Grove (SB);43.085216;-89.266731
 0750;Spring & N Park (WB);43.069424;-89.401391
 7180;Starker & Acewood (WB);43.076981;-89.303045
 7343;Starker & Angel Crest (EB);43.076835;-89.299835
@@ -1924,6 +1935,7 @@ SoTP;South Transfer Point;43.038957;-89.394651
 4456;Verona E & Britta (SB);43.035036;-89.454664
 4437;Verona E & Red Arrow (NB);43.032331;-89.457994
 4714;Verona E & Red Arrow (WB);43.032663;-89.45792
+4529;Verona E & Williamsburg (NB);43.023189;-89.467314
 4751;Verona W & Beltline S (NB);43.036074;-89.45427
 4494;Verona W & Beltline S (SB);43.035994;-89.454726
 4481;Verona W & Summit (NB);43.034006;-89.457341
@@ -1954,7 +1966,7 @@ SoTP;South Transfer Point;43.038957;-89.394651
 0061;W Dayton & N Mills (EB);43.070893;-89.403698
 0005;W Dayton & N Orchard (EB);43.070947;-89.406982
 0075;W Dayton & N Park (EB);43.070839;-89.40002
-1174;W Dayton & State (WB);43.075120;-89.387855
+1174;W Dayton & State (WB);43.07512;-89.387855
 1111;W Doty & M L K Junior (EB);43.072938;-89.382354
 0668;W Doty & S Henry (WB);43.071005;-89.385503
 0480;W Gorham & N Henry (WB);43.075322;-89.391155

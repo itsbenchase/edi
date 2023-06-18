@@ -98,7 +98,7 @@ public class StatsList
           // load in from the set
           for (int j = 0; j < agencySets.size(); j++) // loop through all sets
           {
-            Scanner s = new Scanner(new File("edis/" + agencies.get(a) + "-" + agencySets.get(j) + ".txt"));
+            Scanner s = new Scanner(new File("edis/sets/" + agencies.get(a) + "-" + agencySets.get(j) + ".txt"));
             while (s.hasNextLine())
             {
               String data = s.nextLine();
@@ -339,7 +339,7 @@ public class StatsList
           // load in from the set
           for (int j = 0; j < agencySets.size(); j++) // loop through all sets
           {
-            Scanner s = new Scanner(new File("edis/" + agencies.get(a) + "-" + agencySets.get(j) + ".txt"));
+            Scanner s = new Scanner(new File("edis/sets/" + agencies.get(a) + "-" + agencySets.get(j) + ".txt"));
             while (s.hasNextLine())
             {
               String data = s.nextLine();

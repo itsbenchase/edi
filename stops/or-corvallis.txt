@@ -7,34 +7,6 @@
 14864;Downtown Transit Center;44.564730;-123.263303
 1;Downtown Transit Center;44.564744;-123.263399
 10562;Hewlett-Packard;44.584998;-123.243677
-11070;Northeast Circle Blvd & Capri Villa Mobile Park;44.588798;-123.249966
-11058;Northeast Circle Blvd & NE Belvue St;44.589010;-123.248290
-11043;Northeast Circle Blvd & NE Four Acre St;44.588950;-123.251571
-11062;Northeast Circle Blvd & NE Jack London St;44.588834;-123.247225
-10377;Northeast Conifer Blvd & Meadow Park Mobile Park;44.599917;-123.244981
-10897;Northeast Conifer Blvd & NE Cambridge Cir;44.598296;-123.246118
-10383;Northeast Conifer Blvd & NE Canterbury Cir;44.599959;-123.241340
-10884;Northeast Conifer Blvd & NE Dorchester Way;44.600116;-123.238601
-10878;Northeast Conifer Blvd & NE Glacier Way;44.599405;-123.234905
-10907;Northeast Conifer Blvd & Pacific Hwy West;44.596914;-123.248399
-13064;Northeast Conser St;44.596279;-123.236819
-13732;Northeast Conser St & NE Burke Pl;44.597239;-123.234437
-13086;Northeast Conser St & NE Jasper St;44.593065;-123.240216
-13072;Northeast Conser St & NE Kirsten Pl;44.594441;-123.237398
-13093;Northeast Conser St & NE Seavy Ave;44.591880;-123.242130
-10472;Northeast Walnut Blvd & NE Jack London St;44.593013;-123.246541
-12816;Northwest 5th Street & Northwest Polk Avenue;44.569385;-123.260853
-14069;Northwest Buchanan Avenue & Northwest 13th Street;44.576178;-123.267426
-14053;Northwest Buchanan Avenue & Northwest 13th Street;44.576063;-123.267423
-14076;Northwest Buchanan Avenue & Northwest 17th Street;44.576132;-123.271197
-13979;Northwest Buchanan Avenue & Northwest 17th Street;44.576030;-123.271196
-14926;Northwest Circle Boulevard;44.573673;-123.299092
-13914;Northwest Elmwood Drive & Northwest Kinderman Dr;44.588983;-123.305130
-13933;Northwest Grant Avenue & Northwest 29th Street;44.578742;-123.283272
-13946;Northwest Grant Avenue & Northwest Alta Vista Dr;44.578819;-123.288266
-13922;Northwest Grant Avenue & Northwest Kings Boulevard;44.578667;-123.276372
-13905;Northwest Maser Drive & Northwest Walnut Boulevard;44.591378;-123.307233
-13951;Northwest Walnut Boulevard & Northwest Glenridge Dr;44.594031;-123.302488
 12800;NW 5th St & NW Buchanan Ave;44.573099;-123.258945
 13721;NW 5th St & NW Buchanan Ave;44.572679;-123.258961
 12844;NW 5th St & NW Harrison Blvd;44.568167;-123.261274
@@ -96,7 +68,6 @@
 11172;NW Circle Blvd & NW Janssen St;44.588634;-123.258510
 11027;NW Circle Blvd & NW Janssen St;44.588791;-123.258958
 11089;NW Circle Blvd & NW Kings Blvd;44.586261;-123.275381
-11397;Nw Circle Boulevard & NW Dale Drive;44.578584;-123.297698
 13375;NW Elks Dr & NW Coronado St;44.601313;-123.254593
 13310;NW Elks Dr & NW Samaritan Dr;44.600861;-123.250451
 13103;NW Forestgreen Ave & NW 17th St;44.590073;-123.272763
@@ -143,15 +114,15 @@
 14484;NW Kings Blvd & NW Taylor Ave;44.574064;-123.275270
 14497;NW Kings Blvd & NW Tyler Ave;44.572768;-123.275245
 14523;NW Kings Blvd & NW Tyler Ave;44.572655;-123.275120
+12477;NW Monroe Ave & NW 9th St;44.566160;-123.267679
 12465;NW Monroe Ave & NW 11th St;44.566640;-123.269601
 12454;NW Monroe Ave & NW 15th St;44.567407;-123.272721
 10251;NW Monroe Ave & NW 23rd St;44.568373;-123.277379
-12477;NW Monroe Ave & NW 9th St;44.566160;-123.267679
 12449;NW Monroe Ave & NW Kings Blvd;44.567959;-123.274940
 10267;NW Monroe Ave & NW Kings Blvd;44.567756;-123.274631
+10298;NW Monroe Ave & SW 9th St;44.565836;-123.267007
 10279;NW Monroe Ave & SW 14th St;44.567065;-123.271859
 10246;NW Monroe Ave & SW 26th St;44.568894;-123.279725
-10298;NW Monroe Ave & SW 9th St;44.565836;-123.267007
 12420;NW Monroe Avenue and NW 23rd Street;44.568626;-123.277901
 14292;NW Professional Dr & NW Kings Blvd;44.591361;-123.276198
 13296;NW Rolling Green Dr & NW Forestgreen Ave;44.590794;-123.272613
@@ -162,11 +133,11 @@
 11724;NW Satinwood St;44.595094;-123.257512
 11707;NW Satinwood St & NW Maxine Cir;44.597604;-123.257531
 13381;NW Satinwood St & NW Maxine Cir;44.601218;-123.257539
+10486;NW Walnut Blvd & NW 9th St;44.593935;-123.252519
 10850;NW Walnut Blvd & NW 25th St;44.593183;-123.280419
 10536;NW Walnut Blvd & NW 25th St;44.592548;-123.278259
 10660;NW Walnut Blvd & NW 29th St;44.593356;-123.285585
 10543;NW Walnut Blvd & NW 29th St;44.593026;-123.282757
-10486;NW Walnut Blvd & NW 9th St;44.593935;-123.252519
 10641;NW Walnut Blvd & NW Aspen St;44.593246;-123.294856
 10618;NW Walnut Blvd & NW Aspen St;44.593091;-123.293597
 10527;NW Walnut Blvd & NW Kings Blvd;44.592228;-123.275746
@@ -191,6 +162,35 @@
 14654;NW Witham Hill Dr & NW Westview Pl;44.585967;-123.300116
 14704;NW Witham Hill Dr & NW Woodland Dr;44.581858;-123.296022
 14649;NW Witham Hill Dr at Witham Oaks;44.583944;-123.298105
+11070;Northeast Circle Blvd & Capri Villa Mobile Park;44.588798;-123.249966
+11058;Northeast Circle Blvd & NE Belvue St;44.589010;-123.248290
+11043;Northeast Circle Blvd & NE Four Acre St;44.588950;-123.251571
+11062;Northeast Circle Blvd & NE Jack London St;44.588834;-123.247225
+10377;Northeast Conifer Blvd & Meadow Park Mobile Park;44.599917;-123.244981
+10897;Northeast Conifer Blvd & NE Cambridge Cir;44.598296;-123.246118
+10383;Northeast Conifer Blvd & NE Canterbury Cir;44.599959;-123.241340
+10884;Northeast Conifer Blvd & NE Dorchester Way;44.600116;-123.238601
+10878;Northeast Conifer Blvd & NE Glacier Way;44.599405;-123.234905
+10907;Northeast Conifer Blvd & Pacific Hwy West;44.596914;-123.248399
+13064;Northeast Conser St;44.596279;-123.236819
+13732;Northeast Conser St & NE Burke Pl;44.597239;-123.234437
+13086;Northeast Conser St & NE Jasper St;44.593065;-123.240216
+13072;Northeast Conser St & NE Kirsten Pl;44.594441;-123.237398
+13093;Northeast Conser St & NE Seavy Ave;44.591880;-123.242130
+10472;Northeast Walnut Blvd & NE Jack London St;44.593013;-123.246541
+12816;Northwest 5th Street & Northwest Polk Avenue;44.569385;-123.260853
+14069;Northwest Buchanan Avenue & Northwest 13th Street;44.576178;-123.267426
+14053;Northwest Buchanan Avenue & Northwest 13th Street;44.576063;-123.267423
+14076;Northwest Buchanan Avenue & Northwest 17th Street;44.576132;-123.271197
+13979;Northwest Buchanan Avenue & Northwest 17th Street;44.576030;-123.271196
+14926;Northwest Circle Boulevard;44.573673;-123.299092
+13914;Northwest Elmwood Drive & Northwest Kinderman Dr;44.588983;-123.305130
+13933;Northwest Grant Avenue & Northwest 29th Street;44.578742;-123.283272
+13946;Northwest Grant Avenue & Northwest Alta Vista Dr;44.578819;-123.288266
+13922;Northwest Grant Avenue & Northwest Kings Boulevard;44.578667;-123.276372
+13905;Northwest Maser Drive & Northwest Walnut Boulevard;44.591378;-123.307233
+13951;Northwest Walnut Boulevard & Northwest Glenridge Dr;44.594031;-123.302488
+11397;Nw Circle Boulevard & NW Dale Drive;44.578584;-123.297698
 11983;SE Bethel St & SE Lilly Ave;44.548035;-123.258625
 11965;SE Crystal Lake Dr & SE Bethel St;44.552075;-123.258594
 14216;SE Crystal Lake Dr & SW 3rd St;44.551932;-123.264045
@@ -208,13 +208,17 @@
 12006;SE Ryan St & SE Alexander Ave;44.545017;-123.258551
 12023;SE Ryan St & SE Powell Ave;44.540802;-123.258551
 12010;SE Ryan St & SE Richland Ave;44.542724;-123.258554
-13848;Southwest 35th Street;44.548600;-123.289827
-13830;Southwest 35th Street & Southwest Philomath Blvd;44.554190;-123.289685
-14988;Southwest 53rd Street;44.556159;-123.312222
-13811;Southwest Research Way;44.551766;-123.303386
-13807;Southwest Research Way & Corvallis-Philomath;44.551618;-123.296453
-13824;Southwest Research Way & Southwest Country Club Dr;44.548441;-123.294332
-13491;Southwest West Hills Road & SW 55th Street;44.556348;-123.314398
+12892;SW 3rd St & SE Alexander Ave;44.544777;-123.266088
+12885;SW 3rd St & SE Mayberry Ave;44.546678;-123.265888
+12918;SW 3rd St & SE Park Ave;44.539387;-123.266629
+12902;SW 3rd St & SE Richland Ave;44.541733;-123.266311
+13001;SW 3rd St & SW Avery Ave;44.551572;-123.265346
+13017;SW 3rd St & SW Cummings Ave;44.548513;-123.265683
+12994;SW 3rd St & SW Twin Oaks Cir;44.553748;-123.265108
+11954;SW 3rd St & SW Twin Oaks Cir;44.553769;-123.264814
+12859;SW 4th St & SW Washington Ave;44.560927;-123.264000
+12863;SW 4th St & SW Western Blvd;44.559444;-123.264720
+10723;SW 9th St & SW Madison Ave;44.565197;-123.267608
 13212;SW 15th St & SW Jefferson Ave;44.563867;-123.274069
 13220;SW 15th St & SW Jefferson Way;44.564021;-123.274190
 13190;SW 15th St & SW Washington Way;44.561465;-123.274381
@@ -226,31 +230,20 @@
 11795;SW 35th St & SW Birdie Dr;44.552548;-123.289506
 11782;SW 35th St & SW Hil-Wood Pl;44.555354;-123.289544
 11805;SW 35th St & SW Knollbrook Ave;44.548947;-123.289570
-12892;SW 3rd St & SE Alexander Ave;44.544777;-123.266088
-12885;SW 3rd St & SE Mayberry Ave;44.546678;-123.265888
-12918;SW 3rd St & SE Park Ave;44.539387;-123.266629
-12902;SW 3rd St & SE Richland Ave;44.541733;-123.266311
-13001;SW 3rd St & SW Avery Ave;44.551572;-123.265346
-13017;SW 3rd St & SW Cummings Ave;44.548513;-123.265683
-12994;SW 3rd St & SW Twin Oaks Cir;44.553748;-123.265108
-11954;SW 3rd St & SW Twin Oaks Cir;44.553769;-123.264814
-10171;SW 49th St & Spring Creek Apartments;44.548501;-123.308376
 10159;SW 49th St & SW Roseberry St;44.547117;-123.306817
-12859;SW 4th St & SW Washington Ave;44.560927;-123.264000
-12863;SW 4th St & SW Western Blvd;44.559444;-123.264720
+10171;SW 49th St & Spring Creek Apartments;44.548501;-123.308376
 10088;SW 53rd St & SW Helen Ave;44.552688;-123.312093
 10205;SW 53rd St & SW Helen Ave;44.552546;-123.311935
 13502;SW 53rd St & SW Meadow Flower Dr;44.546534;-123.311964
 13518;SW 53rd St & SW Windflower Dr;44.548905;-123.311958
-10723;SW 9th St & SW Madison Ave;44.565197;-123.267608
 10144;SW Country Club Dr & SW 49th St;44.545855;-123.307318
 11814;SW Country Club Dr & SW Country Club Pl;44.548332;-123.292524
 13458;SW Grand Oaks Dr & Grand Oaks Apartments;44.557737;-123.324076
 13489;SW Grand Oaks Dr & SW Banyon Cir;44.558729;-123.319284
 13470;SW Grand Oaks Dr & SW Delwood Ave;44.561294;-123.319027
 13462;SW Grand Oaks Dr & SW Timber Ridge Dr;44.560022;-123.324677
-13231;SW Jefferson Ave & SW 11th St;44.564541;-123.271377
 13254;SW Jefferson Ave & SW 8th St;44.563880;-123.267579
+13231;SW Jefferson Ave & SW 11th St;44.564541;-123.271377
 13119;SW Philomath Blvd;44.554259;-123.300660
 13174;SW Philomath Blvd & SW 47th St;44.553700;-123.303081
 13157;SW Philomath Blvd & SW 53rd St;44.550999;-123.311274
@@ -260,17 +253,24 @@
 14082;SW Research Way & DHS;44.551511;-123.296489
 14095;SW Research Way & SW Technology Loop;44.551647;-123.303375
 13135;SW Technology Loop & SW Research Way;44.551868;-123.306587
+11949;SW Western Blvd & SW 4th St;44.559837;-123.264712
+11931;SW Western Blvd & SW 8th St;44.560468;-123.268377
 11912;SW Western Blvd & SW 16th St;44.559789;-123.275398
 11908;SW Western Blvd & SW 26th St;44.558459;-123.278780
 11867;SW Western Blvd & SW 35th St;44.557009;-123.290309
 11769;SW Western Blvd & SW 35th St;44.556841;-123.289208
-11949;SW Western Blvd & SW 4th St;44.559837;-123.264712
-11931;SW Western Blvd & SW 8th St;44.560468;-123.268377
 11898;SW Western Blvd & SW Grove St;44.557132;-123.281619
 11748;SW Western Blvd & SW Grove St;44.556812;-123.282723
 11776;SW Western Blvd & SW Hillside Dr;44.556533;-123.293605
 11851;SW Western Blvd & SW Ivy Pl;44.556616;-123.293659
 11879;SW Western Blvd & SW Poplar Pl;44.556926;-123.285912
+13848;Southwest 35th Street;44.548600;-123.289827
+13830;Southwest 35th Street & Southwest Philomath Blvd;44.554190;-123.289685
+14988;Southwest 53rd Street;44.556159;-123.312222
+13811;Southwest Research Way;44.551766;-123.303386
+13807;Southwest Research Way & Corvallis-Philomath;44.551618;-123.296453
+13824;Southwest Research Way & Southwest Country Club Dr;44.548441;-123.294332
+13491;Southwest West Hills Road & SW 55th Street;44.556348;-123.314398
 13998;The Domain;44.576488;-123.298420
 11425;The Domain;44.576535;-123.298168
 14432;Timberhill Shopping Center;44.590562;-123.275927

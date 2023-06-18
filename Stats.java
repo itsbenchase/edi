@@ -78,7 +78,42 @@ public class Stats
           catch (Exception e)
           {
             continue; // skip because agency not in database
-          } 
+          }
+
+          // check for sets - yes, sets are being counted with global stats list
+          try
+          {
+            // load in the sets
+            ArrayList<String> agencySets = new ArrayList<String>();
+            Scanner t = new Scanner(new File("sets/" + agencies.get(a) + ".txt"));
+            while (t.hasNextLine())
+            {
+              String data = t.nextLine();
+              agencySets.add(data);
+            }
+
+            // load in from the set
+            for (int j = 0; j < agencySets.size(); j++) // loop through all sets
+            {
+              Scanner s = new Scanner(new File("edis/sets/" + agencies.get(a) + "-" + agencySets.get(j) + ".txt"));
+              while (s.hasNextLine())
+              {
+                String data = s.nextLine();
+                data = data.substring(data.indexOf(";") + 1);
+                double miles = Double.parseDouble(data.substring(0, data.indexOf(";")));
+                data = data.substring(data.indexOf(";") + 1);
+                double edi = Double.parseDouble(data);
+    
+                lengths.add(miles);
+                edis.add(edi);
+                totals += miles;
+              }
+            }
+          }
+          catch (Exception e)
+          {
+            // skip, agency has no sets
+          }
         }
       }
 
