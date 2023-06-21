@@ -337,8 +337,8 @@
 9207;Dwight & Independence (EB);43.12888;-89.309626
 3811;E Badger & Rimrock (EB);43.038192;-89.378525
 3500;E Badger & Rimrock (WB);43.038416;-89.379635
-7206;E Buckeye & Dondee (WB);43.073346;-89.302483
 7111;E Buckeye & Dondee (EB);43.073176;-89.302121
+7206;E Buckeye & Dondee (WB);43.073346;-89.302483
 7203;E Buckeye & Ellen (EB);43.073358;-89.288052
 7984;E Buckeye & Ellen (WB);43.073573;-89.288237
 7235;E Buckeye & S Stoughton E (EB);43.073082;-89.307965
@@ -349,8 +349,8 @@
 7968;E Buckeye & Twilight (WB);43.073432;-89.298866
 7479;E Buckeye & Vondron (EB);43.073326;-89.291002
 7324;E Buckeye & Vondron (WB);43.073523;-89.291879
-7544;E Buckeye & Woodvale (WB);43.073474;-89.296187
 7687;E Buckeye & Woodvale (EB);43.073413;-89.295801
+7544;E Buckeye & Woodvale (WB);43.073474;-89.296187
 4971;E Cheryl & Agrace (EB);43.004889;-89.416543
 4520;E Cheryl & Agrace (WB);43.005095;-89.417024
 4193;E Cheryl & Big Bluestem (EB);43.00674;-89.403507
@@ -664,6 +664,7 @@ EaTP;East Transfer Point;43.098624;-89.322251
 2620;Highland & Marsh (WB);43.078853;-89.430783
 2125;Highland & Observatory (NB);43.077349;-89.428844
 2916;Highland & Observatory (SB);43.076794;-89.42919
+2844;Highland & University;43.072061;-89.428601
 2643;Highland & University (NB);43.072479;-89.428535
 2393;Highland & V A Hospital (NB);43.073822;-89.42861
 2822;Highland & V A Hospital (SB);43.074458;-89.428968
@@ -1049,6 +1050,7 @@ EaTP;East Transfer Point;43.098624;-89.322251
 0349;N Breese & Regent (NB);43.068092;-89.413759
 0916;N Breese & Regent (SB);43.067958;-89.414056
 0542;N Breese & University (SB);43.073132;-89.414055
+0269;N Brooks & W Johnson;43.072368;-89.402406
 0593;N Broom & W Dayton (NB);43.073129;-89.391032
 0087;N Broom & W Gorham (NB);43.07415;-89.392328
 0961;N Broom & W Washington (NB);43.071624;-89.389045
@@ -1948,11 +1950,14 @@ SoTP;South Transfer Point;43.038957;-89.394651
 7583;Vondron & Mustang (NB);43.06525;-89.291289
 7223;Vondron & S Thompson (NB);43.06756;-89.291297
 6325;Voss & Middleton (EB);43.089265;-89.508166
+0287;W Badger & Colonial Heights (EB);43.038478;-89.390851
 0173;W Badger & Cypress (EB);43.03843;-89.397946
 0590;W Badger & Cypress (WB);43.038645;-89.397699
 0121;W Badger & Fiedler (EB);43.038466;-89.401117
 0782;W Badger & Fiedler (WB);43.03869;-89.401869
 0353;W Badger & Fish Hatchery (EB);43.038494;-89.403362
+0895;W Badger & Overpass (EB);43.038392;-89.388554
+0763;W Badger & Rusk (EB);43.039003;-89.384166
 3301;W Broadway & Bridge (EB);43.046911;-89.340722
 3300;W Broadway & Bridge (WB);43.047251;-89.340067
 3615;W Broadway & Frazier (EB);43.046944;-89.351322
