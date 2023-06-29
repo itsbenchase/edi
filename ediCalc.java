@@ -88,18 +88,17 @@ public class ediCalc
 
   public static void edi()
   {
-    int cont = 1; // 1 to continue
+    Scanner in = new Scanner(System.in);
+    System.out.print("Enter line: ");
+    String lineChoice = in.nextLine();
 
-    while (cont == 1)
+    while (!lineChoice.equals("-00"))
     {
       ArrayList<Stop> stops = new ArrayList<Stop>();
 
       // create line
       int stopCount = 0;
 
-      Scanner in = new Scanner(System.in);
-      System.out.print("Enter line: ");
-      String lineChoice = in.nextLine();
       String lineName = "no data, yet";
       boolean official = false;
       boolean saved = false; // updates when asked to save
@@ -835,8 +834,8 @@ public class ediCalc
         System.out.println("-0");
       }
 
-      System.out.print("Enter 1 to search again: ");
-      cont = in.nextInt();
+      System.out.print("Enter next line (-00 to exit): ");
+      lineChoice = in.nextLine();
     }
   }
 

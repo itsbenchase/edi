@@ -59,7 +59,7 @@ public class ediOnline
     ArrayList<String> agencies = new ArrayList<String>();
     try
     {
-      Scanner s = new Scanner(new URL("https://edi.benchase.info/agencies.txt").openStream());
+      Scanner s = new Scanner(new URI("https://edi.benchase.info/agencies.txt").toURL().openStream());
       while (s.hasNextLine())
       {
         String data = s.nextLine();
@@ -90,18 +90,17 @@ public class ediOnline
 
   public static void edi()
   {
-    int cont = 1; // 1 to continue
+    Scanner in = new Scanner(System.in);
+    System.out.print("Enter line: ");
+    String lineChoice = in.nextLine();
 
-    while (cont == 1)
+    while (!lineChoice.equals("-00"))
     {
       ArrayList<Stop> stops = new ArrayList<Stop>();
 
       // create line
       int stopCount = 0;
 
-      Scanner in = new Scanner(System.in);
-      System.out.print("Enter line: ");
-      String lineChoice = in.nextLine();
       String lineName = "no data, yet";
       boolean export = false;
 
@@ -112,7 +111,7 @@ public class ediOnline
         // load in only existing stops
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/stops/" + agencyChoice + ".txt").openStream());
+          Scanner s = new Scanner(new URI("https://edi.benchase.info/stops/" + agencyChoice + ".txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -178,7 +177,7 @@ public class ediOnline
             ArrayList<Stop> stopsExtra = new ArrayList<Stop>(); // not to confuse with stops
             try
             {
-              Scanner extra = new Scanner(new URL("https://edi.benchase.info/stops/" + extraAgency + ".txt").openStream());
+              Scanner extra = new Scanner(new URI("https://edi.benchase.info/stops/" + extraAgency + ".txt").toURL().openStream());
               while (extra.hasNextLine())
               {
                 String data = extra.nextLine();
@@ -233,7 +232,7 @@ public class ediOnline
               ArrayList<Stop> stops3 = new ArrayList<Stop>(); // stops3 - pulls from existing EDI file to add to segment
               try
               {
-                Scanner s3 = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
+                Scanner s3 = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
                 while (s3.hasNextLine())
                 {
                   String data = s3.nextLine();
@@ -289,7 +288,7 @@ public class ediOnline
               ArrayList<Stop> stops3 = new ArrayList<Stop>();
               try
               {
-                Scanner s3 = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
+                Scanner s3 = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
                 while (s3.hasNextLine())
                 {
                   String data = s3.nextLine();
@@ -367,7 +366,7 @@ public class ediOnline
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
+          Scanner s = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -429,7 +428,7 @@ public class ediOnline
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
+          Scanner s = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -497,7 +496,7 @@ public class ediOnline
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URL("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").openStream());
+          Scanner s = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -618,8 +617,8 @@ public class ediOnline
         System.out.println("-0");
       }
 
-      System.out.print("Enter 1 to search again: ");
-      cont = in.nextInt();
+      System.out.print("Enter next line (-00 to exit): ");
+      lineChoice = in.nextLine();
     }
   }
 
