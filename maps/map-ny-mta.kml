@@ -51,6 +51,33 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
+		<name>S Rockaway</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ny-mta<br/>EDI: 1.23</description>
+		<LineString> 
+			<coordinates>
+			-73.815925,40.608382,0
+			-73.813641,40.588034,0
+			-73.820558,40.585307,0
+			-73.827559,40.583209,0
+			-73.835592,40.580903,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>S Franklin</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: ny-mta<br/>EDI: 1.0</description>
+		<LineString> 
+			<coordinates>
+			-73.962246,40.661614,0
+			-73.959245,40.670343,0
+			-73.957624,40.674772,0
+			-73.955827,40.680596,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>hrl-m</name>
 		<styleUrl>#4.0</styleUrl>
 		<description>Agency: ny-mta<br/>EDI: 5.7</description>
