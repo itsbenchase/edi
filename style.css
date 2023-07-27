@@ -8,6 +8,18 @@ html
     src: url("font.ttf");
 }
 
+input[type="text"]
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+
+button
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+
 h1
 {
     font-family: sourcesans;

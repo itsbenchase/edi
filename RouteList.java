@@ -87,7 +87,7 @@ public class RouteList
               String dist = data.substring(0, data.indexOf(";"));
               routeDist.add(dist);
               data = data.substring(data.indexOf(";") + 1);
-              String edi = data;
+              String edi = data.substring(0, data.indexOf(";"));
               routeEdi.add(edi);
               routeCount++;
               agencyCount++;
