@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<title>test shenanigans</title>
+<link rel=stylesheet href=style.css>
+<body>
+<ul><li><a href=index.html>Home</a></li>
+    <li><a href=stops.html>Stop Listing</a></li> 
+    <li><a href=routes.html>Route Listing</a></li>
+    <li><a href=detailed.html class=active>Route Detail</a></li>
+    <li><a href=stats.html>Statistics</a></li>
+    <li><a href=calculator.html>Calculator</a></li></ul>
+<h1>Route Detail</h1>
+
+<p>
+<label>Agency:</label>
+<input type="text" id="agencyEnter" placeholder="e.g. ri-ripta">
+</p>
+
+<p>
+<label>Route:</label>
+<input type="text" id="routeEnter" placeholder="e.g. 3">
+</p>
+
+<p>
+    <button id="sumbit" type="button" onclick="findIndex()">Submit</button>
+</p>
+
+<h3 id="route" style="color:black">Not Available</h3>
+<p id="agency"><b>Agency: </b>Not Available</p>
+<p id="code"><b>Code: </b>Not Available</p>
+<p id="branch"><b>Branch: </b>Not Available</p>
+<p id="length"><b>Length: </b>Not Available</p>
+<p id="index"><b>EDI: </b>Not Available</p>
+<p id="stops"></p>
+
+<script>
+
+// global input data
+var agency = document.getElementById("agencyEnter").value;
+var code = document.getElementById("routeEnter").value;
+var branch = "Not Available";
+var length = "Not Available";
+var index = "Not Available";
+
+function findIndex()
+{
+    agency = document.getElementById("agencyEnter").value;
+    code = document.getElementById("routeEnter").value;
+    document.getElementById("agency").innerHTML = ("<b>Agency: </b>" + agency);
+    document.getElementById("code").innerHTML = ("<b>Code: </b>" + code);
+
+
+    // gets full agency name
+    const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    fetch(agencyFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const agencyFile = text.split("\n");
+            agencyFile.pop();
+
+            const agencies = [];
+            const fullAgencies = [];
+
+            for (let i = 0; i < agencyFile.length; i++)
+            {
+                var data = agencyFile[i];
+                agencies.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                fullAgencies.push(data);
+            }
+            
+            for (let i = 0; i < agencies.length; i++)
+            {
+                if (agencies[i] == agency)
+                {
+                    document.getElementById("agency").innerHTML = ("<b>Agency: </b>" + fullAgencies[i] + " (" + agencies[i] + ")");
+                }
+            }
+        })
+
+    const ediFileUrl = ("https://edi.benchase.info/files/" + agency +  "-edi.txt"); // provide file location
+    fetch(ediFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const ediFile = text.split("\n");
+            delete ediFile[ediFile.length - 1]; // last one is blank
+
+            intoArray(ediFile);
+        })
+
+    const listFileUrl = ("https://edi.benchase.info/edis/" + agency +  ".txt"); // provide file location
+    fetch(listFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const listFile = text.split("\n");
+            delete listFile[listFile.length - 1]; // last one is blank
+
+            getStats(listFile);
+        })
+}
+
+function intoArray(ediFile)
+{
+    // create arrays
+    const stopIds = [];
+    const stopNames = [];
+    const stopLats = [];
+    const stopLons = [];
+    const stopLines = [];
+
+    ediFile.pop(); // we might have a bug
+    for (let i = 0; i < ediFile.length; i++)
+    {
+        var data = ediFile[i];
+        stopIds.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        stopNames.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        stopLats.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        stopLons.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        stopLines.push(data.substring(0, data.indexOf(";")));
+    }
+
+    // list stops on route
+    document.getElementById("stops").innerHTML = ("<b>Stop Listing: </b>");
+    for (let i = 0; i < ediFile.length; i++)
+    {
+        if (stopLines[i] == code)
+        {
+            document.getElementById("stops").innerHTML += ("<br>" + stopNames[i] + " (" + stopIds[i] + ")"); 
+        }
+    }
+}
+
+// this is also where data is added to screen
+function getStats(listFile)
+{
+    // create arrays
+    const lineCodes = [];
+    const lineLengths = [];
+    const lineEdis = [];
+    const lineNames = [];
+    const lineBranches = [];
+
+    listFile.pop(); // this fixed a bug
+    for (let i = 0; i < listFile.length; i++)
+    {
+        var data = listFile[i];
+        lineCodes.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineLengths.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineEdis.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineNames.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineBranches.push(data);
+    }
+
+    // find averages
+    // apparently this fixes the number sorting issues
+    var medianEdi = 0.00;
+    var medianLength = 0.00;
+
+    // we need copies
+    const lineEdis2 = [...lineEdis];
+    const lineLengths2 = [...lineLengths];
+
+    lineEdis2.sort(function(a, b){return a - b;});
+    lineLengths2.sort(function(a, b){return a - b;});
+
+    // median EDI
+    if (lineEdis2.length % 2 == 1) // odd amount of EDIs
+    {
+        if (lineEdis2.length == 1)
+        {
+            medianEdi = lineEdis2[0];
+        }
+        else
+        {
+            medianEdi = lineEdis2[Math.round(lineEdis2.length / 2) - 1];
+        }
+    }
+    else // even amount of EDIs
+    {
+        if (lineEdis2.length == 2)
+        {
+            var val1 = parseFloat(lineEdis2[0]);
+            var val2 = parseFloat(lineEdis2[1]);
+            medianEdi = (val1 + val2) / 2;
+        }
+        else
+        {
+            var val1 = parseFloat(lineEdis2[(lineEdis2.length / 2) - 1]);
+            var val2 = parseFloat(lineEdis2[(lineEdis2.length / 2)]);
+            medianEdi = (val1 + val2) / 2;
+        }
+        medianEdi = Math.round(medianEdi * 100) / 100;
+    }
+
+    // median length
+    if (lineLengths2.length % 2 == 1) // odd amount of EDIs
+    {
+        if (lineLengths2.length == 1)
+        {
+            medianLength = lineLengths2[0];
+        }
+        else
+        {
+            medianLength = lineLengths2[Math.round(lineLengths2.length / 2) - 1];
+        }
+    }
+    else // even amount of EDIs
+    {
+        if (lineLengths2.length == 2)
+        {
+            var val1 = parseFloat(lineLengths2[0]);
+            var val2 = parseFloat(lineLengths2[1]);
+            medianLength = (val1 + val2) / 2;
+        }
+        else
+        {
+            var val1 = parseFloat(lineLengths2[(lineLengths2.length / 2) - 1]);
+            var val2 = parseFloat(lineLengths2[(lineLengths2.length / 2)]);
+            medianLength = (val1 + val2) / 2;
+        }
+        medianLength = Math.round(medianEdi * 100) / 100;
+    }
+
+    // add data to screen
+    for (let i = 0; i < lineCodes.length; i++)
+    {
+        if (lineCodes[i] == code)
+        {
+            var percentMLength = Math.round((lineLengths[i] / medianLength) * 100);
+            var percentMEdi = Math.round((lineEdis[i] / medianEdi) * 100);
+            document.getElementById("route").innerHTML = lineNames[i];
+            document.getElementById("branch").innerHTML = ("<b>Branch: </b>" + lineBranches[i]);
+            document.getElementById("length").innerHTML = ("<b>Length: </b>" + lineLengths[i] + " miles (" + percentMLength + "% of median)");
+            document.getElementById("index").innerHTML = ("<b>EDI: </b>" + lineEdis[i] + " (" + percentMEdi + "% of median)");
+        }
+    }
+}
+
+</script>
+
+</body>
+</html>
