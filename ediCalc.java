@@ -100,6 +100,8 @@ public class ediCalc
       int stopCount = 0;
 
       String lineName = "no data, yet";
+      String actualName = "no data, yet";
+      String branchName = "no data, yet";
       boolean official = false;
       boolean saved = false; // updates when asked to save
       boolean export = false; // export for sumbission
@@ -148,8 +150,14 @@ public class ediCalc
         ArrayList<Stop> custom = new ArrayList<Stop>(); // array for custom line - this is what shows at the end
         String customStop = "";
 
-        System.out.print("Line Name: ");
+        System.out.print("Line Code: ");
         lineName = in.nextLine();
+
+        System.out.print("Line Name: ");
+        actualName = in.nextLine();
+
+        System.out.print("Branch Name: ");
+        branchName = in.nextLine();
         
         while (!customStop.equals("-0"))
         {
@@ -736,6 +744,8 @@ public class ediCalc
         ArrayList<String> routeCode = new ArrayList<String>();
         ArrayList<String> routeDist = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
+        ArrayList<String> routeName = new ArrayList<String>();
+        ArrayList<String> routeBranch = new ArrayList<String>();
 
         // add to .txt file, gets converted in routeList
         try
@@ -750,8 +760,14 @@ public class ediCalc
             String dist2 = data.substring(0, data.indexOf(";"));
             routeDist.add(dist2);
             data = data.substring(data.indexOf(";") + 1);
-            String ediA = data;
+            String ediA = data.substring(0, data.indexOf(";"));
             routeEdi.add(ediA);
+            data = data.substring(data.indexOf(";") + 1);
+            String name = data.substring(0, data.indexOf(";"));
+            routeName.add(name);
+            data = data.substring(data.indexOf(";") + 1);
+            String branch = data;
+            routeBranch.add(branch);
           }
         }
         catch (Exception e)
@@ -772,6 +788,8 @@ public class ediCalc
           }
           routeDist.add(dist + "");
           routeEdi.add(edi + "");
+          routeName.add(actualName);
+          routeBranch.add(branchName);
         }
         // select position on list if list exists
         else
@@ -795,6 +813,8 @@ public class ediCalc
           }
           routeDist.add(listing, dist + "");
           routeEdi.add(listing, edi + "");
+          routeName.add(listing, actualName);
+          routeBranch.add(listing, branchName);
         }
 
         // add EDI to list.
@@ -803,11 +823,11 @@ public class ediCalc
           File newFile1 = new File("edis/" + agencyChoice + ".txt");
           FileWriter fileWriter1 = new FileWriter(newFile1);
 
-          fileWriter1.write(routeCode.get(0) + ";" + routeDist.get(0) + ";" + routeEdi.get(0) + "\n");
+          fileWriter1.write(routeCode.get(0) + ";" + routeDist.get(0) + ";" + routeEdi.get(0) + ";" + routeName.get(0) + ";" + routeBranch.get(0) + "\n");
 
           for (int b = 1; b < routeCode.size(); b++)
           {
-            fileWriter1.append(routeCode.get(b) + ";" + routeDist.get(b) + ";" + routeEdi.get(b) + "\n");
+            fileWriter1.append(routeCode.get(b) + ";" + routeDist.get(b) + ";" + routeEdi.get(b) + routeName.get(b) + ";" + routeBranch.get(b) + "\n");
           }
 
           fileWriter1.close();

@@ -1,66 +1,66 @@
-R;7.83;1.2
-1-attleboro;11.39;1.2
-1-tf-green;12.06;1.12
-3;10.48;1.06
-4;12.08;1.28
-6;3.48;1.61
-9x;22.71;1.31
-10x;18.96;1.19
-12x;14.63;1.43
-13;10.37;1.6
-14-narragansett;35.38;1.27
-14-newport;27.99;1.54
-16;11.56;1.53
-17;5.37;1.22
-18;3.5;1.11
-19;6.89;1.14
-20;9.16;1.18
-21;11.45;1.34
-22;10.98;1.28
-23;7.75;1.56
-24l;32.83;1.39
-27-waterman;6.08;1.37
-27-woona;5.66;1.28
-28;4.92;1.09
-29;8.08;1.62
-30;10.6;1.24
-31;2.69;1.03
-32;6.65;1.32
-33;9.19;1.6
-34;7.8;1.55
-35;8.48;1.44
-40;3.11;1.57
-50;9.97;1.06
-51;7.74;1.18
-54;18.39;1.27
-55;5.86;2.11
-56;3.41;1.21
-57;4.77;1.06
-58;10.17;1.43
-59x;17.43;1.14
-60-e;29.28;1.24
-60-w;29.53;1.25
-61x;23.33;1.35
-63;8.38;2.18
-64;26.43;2.1
-65x;30.34;1.1
-66;29.77;1.21
-67;3.46;1.4
-68;5.25;2.79
-69;11.66;1.59
-71;5.0;1.27
-72;8.15;1.75
-73;5.38;1.54
-75-industrial;11.26;2.03
-75-mall;8.88;1.49
-76;3.56;1.4
-78;9.29;2.44
-80;3.74;1.45
-87-e;5.69;1.68
-87-w;4.74;1.4
-88;1.04;1.01
-89;6.12;2.21
-92;5.76;1.45
-95x;39.66;1.06
-301;19.78;1.68
-Qx;26.76;1.33
+R;7.83;1.2;R Line: Broad / North Main;Main
+1-attleboro;11.39;1.2;1: Eddy / Hope / Benefit;South Attleboro
+1-tf-green;12.06;1.12;1: Eddy / Hope / Benefit;TF Green Airport
+3;10.48;1.06;3: Oakland Beach;Main
+4;12.08;1.28;4: Warwick Ave;Main
+6;3.48;1.61;6: Prairie / Roger Williams Park Zoo;Main
+9x;22.71;1.31;9x: Pascoag Park-n-Ride;Main
+10x;18.96;1.19;10x: North Scituate Park-n-Ride;Main
+12x;14.63;1.43;12x: Arctic / 117 Express Park-n-Ride;Main
+13;10.37;1.6;13: Coventry / Arctic / CCRI;Main
+14-narragansett;35.38;1.27;14: West Bay;Narragansett
+14-newport;27.99;1.54;14: West Bay;Newport
+16;11.56;1.53;16: Bald Hill / NEIT / Quonset;Main
+17;5.37;1.22;17: Dyer / Pocasset;Main
+18;3.5;1.11;18: Union Ave;Main
+19;6.89;1.14;19: Plainfield / Westminster;Main
+20;9.16;1.18;20: Elmwood Ave / TF Green Airport;Main
+21;11.45;1.34;21: Reservoir / Garden City / CCRI;Main
+22;10.98;1.28;22: Pontiac Ave;Main
+23;7.75;1.56;23: Arctic / Crompton / Centre of New England;Main
+24l;32.83;1.39;24L: Newport / Fall River / Providence;Main
+27-waterman;6.08;1.37;27: Broadway / Manton;via George Waterman Rd
+27-woona;5.66;1.28;27: Broadway / Manton;via Woonasquatucket Ave
+28;4.92;1.09;28: Broadway / Hartford;Main
+29;8.08;1.62;CCRI / Warwick / Conimicut;Main
+30;10.6;1.24;30: Arlington / Oaklawn;Main
+31;2.69;1.03;31: Cranston St;Main
+32;6.65;1.32;32: E. Providence / Wampanoag / Seekonk Sq.;Main
+33;9.19;1.6;33: Riverside;Main
+34;7.8;1.55;34: East Providence / Seekonk Square;Main
+35;8.48;1.44;35: Rumford / Newport Ave;Main
+40;3.11;1.57;40: Butler / Elmgrove;Main
+50;9.97;1.06;50: Douglas Ave / Bryant University;Main
+51;7.74;1.18;51: Charles St / Twin River / CCRI;Main
+54;18.39;1.27;54: Lincoln / Woonsocket;Main
+55;5.86;2.11;55: Admiral / Providence College;Main
+56;3.41;1.21;56: Chalkstone Ave;Main
+57;4.77;1.06;57: Smith St;Main
+58;10.17;1.43;58: Mineral Spring / North Providence;Main
+59x;17.43;1.14;59x: N. Smithfield / Lincoln Park-n-Ride;Main
+60-e;29.28;1.24;60: Providence / Newport;via East Main St
+60-w;29.53;1.25;60: Providence / Newport;via West Main St
+61x;23.33;1.35;61x: Tiverton / East Bay Park-n-Ride;Main
+63;8.38;2.18;63: Broadway / Middletown Shops;Main
+64;26.43;2.1;64: Newport / URI Kingston;Main
+65x;30.34;1.1;65x: Wakefield Park-n-Ride;Main
+66;29.77;1.21;66: URI / CCRI Warwick / Providence;Main
+67;3.46;1.4;67: Bellevue / Salve Regina Univ.;Main
+68;5.25;2.79;68: CCRI Newport / Memorial Blvd / First Beach;Main
+69;11.66;1.59;69: Narragansett / Galilee;Main
+71;5.0;1.27;71: Broad St / Pawtucket Ave;Main
+72;8.15;1.75;72: Weeden / Central Falls;Main
+73;5.38;1.54;73: Mineral Spring / Twin River / CCRI;Main
+75-industrial;11.26;2.03;75: Dexter / Lincoln Mall;North Central Industrial Park
+75-mall;8.88;1.49;75: Dexter / Lincoln Mall;Lincoln Mall
+76;3.56;1.4;76: Central Ave;Main
+78;9.29;2.44;78: Beverage Hill Ave / East Providence;Main
+80;3.74;1.45;80: Armistice Blvd;Main
+87-e;5.69;1.68;87: Fairmount / Walnut Hill;Eastbound
+87-w;4.74;1.4;87: Fairmount / Walnut Hill;Westbound
+88;1.04;1.01;88: Simmonsville Village Shuttle;Main
+89;6.12;2.21;89: Cranston Walmart;Main
+92;5.76;1.45;92: RI College / Federal Hill / East Side;Main
+95x;39.66;1.06;95x: Westerly Park-n-Ride;Main
+301;19.78;1.68;301: Westerly / Hope Valley Rural Ride;Main
+Qx;26.76;1.33;Qx: Quonset Express;Main
