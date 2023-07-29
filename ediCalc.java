@@ -827,7 +827,7 @@ public class ediCalc
 
           for (int b = 1; b < routeCode.size(); b++)
           {
-            fileWriter1.append(routeCode.get(b) + ";" + routeDist.get(b) + ";" + routeEdi.get(b) + routeName.get(b) + ";" + routeBranch.get(b) + "\n");
+            fileWriter1.append(routeCode.get(b) + ";" + routeDist.get(b) + ";" + routeEdi.get(b) + ";" + routeName.get(b) + ";" + routeBranch.get(b) + "\n");
           }
 
           fileWriter1.close();
