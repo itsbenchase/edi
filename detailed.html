@@ -2,7 +2,7 @@
 <html>
 <title>Route Detail - Eliot Deviation Index</title>
 <link rel=stylesheet href=style.css>
-<body>
+<body onload="getAgencies()">
 <ul><li><a href=index.html>Home</a></li>
     <li><a href=stops.html>Stop Listing</a></li> 
     <li><a href=routes.html>Route Listing</a></li>
@@ -11,14 +11,18 @@
     <li><a href=calculator.html>Calculator</a></li></ul>
 <h1>Route Detail</h1>
 
-<p>
-<label>Agency:</label>
-<input type="text" id="agencyEnter" placeholder="e.g. ri-ripta">
+<p>Agency:
+    <select id="agencyDrop">
+        <option value="none">Select an agency</option>
+    </select>
+
+    <button onclick="getOption()">Enter</button>
 </p>
 
-<p>
-<label>Route:</label>
-<input type="text" id="routeEnter" placeholder="e.g. 3">
+<p>Route:
+    <select id="routeDrop">
+        <option value="none">Select a route</option>
+    </select>
 </p>
 
 <p>
@@ -37,15 +41,114 @@
 <script>
 
 // global input data
-var agency = document.getElementById("agencyEnter").value;
-var code = document.getElementById("routeEnter").value;
+var agency = "Not Available";
+var code = "Not Available";
 var branch = "Not Available";
 var length = "Not Available";
 var index = "Not Available";
 var rand = false;
 
+const agencies = [];
+const fullAgencies = [];
+const agencyLines = [];
+
+function getAgencies()
+{
+    const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    fetch(agencyFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const agencyFile = text.split("\n");
+            agencyFile.pop();
+
+            for (let i = 0; i < agencyFile.length; i++)
+            {
+                var data = agencyFile[i];
+                agencies.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                fullAgencies.push(data);
+                agencyLines.push(fullAgencies[i] + " (" + agencies[i] + ")");
+                document.getElementById("agencyDrop").innerHTML += ("<option value=" + agencies[i] + ">" + agencyLines[i] + "</option>");
+            }
+        })
+}
+
+function getRoutes()
+{
+    // create arrays
+    const lineCodes = [];
+    const lineLengths = [];
+    const lineEdis = [];
+    const lineNames = [];
+    const lineBranches = [];
+
+    listFile.pop(); // this fixed a bug
+    for (let i = 0; i < listFile.length; i++)
+    {
+        var data = listFile[i];
+        lineCodes.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineLengths.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineEdis.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineNames.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineBranches.push(data);
+    }
+}
+
+function getOption()
+{
+    selectedAgency = document.querySelector('#agencyDrop');
+    agency = selectedAgency.value;
+
+    for (let i = 0; i < agencies.length; i++)
+    {
+        if (agencies[i] == agency)
+        {
+            document.getElementById("agency").innerHTML = ("<b>Agency: </b>" + fullAgencies[i] + " (" + agencies[i] + ")");
+        }
+    }
+
+    document.getElementById("routeDrop").innerHTML = ("<option value=none>Select a route</option>");
+
+    const routeFileUrl = ("https://edi.benchase.info/edis/" + agency + ".txt"); // provide file location
+    fetch(routeFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const routeFile = text.split("\n");
+            routeFile.pop();
+
+            // create arrays
+            const lineCodes = [];
+            const lineLengths = [];
+            const lineEdis = [];
+            const lineNames = [];
+            const lineBranches = [];
+            const fullLineOption = [];
+
+            for (let i = 0; i < routeFile.length; i++)
+            {
+                var data = routeFile[i];
+                lineCodes.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                lineLengths.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                lineEdis.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                lineNames.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                lineBranches.push(data);
+                fullLineOption.push(lineNames[i] + " (" + lineBranches[i] + ") - " + lineCodes[i]);
+                document.getElementById("routeDrop").innerHTML += ("<option value=" + lineCodes[i] + ">" + fullLineOption[i] + "</option>");
+            }
+        })
+}
+
 function getRandom()
 {
+    code = "none";
     rand = true;
     const randAgencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
     fetch(randAgencyFileUrl)
@@ -98,14 +201,12 @@ function findIndex()
 {
     if (!rand)
     {
-        agency = document.getElementById("agencyEnter").value;
-        code = document.getElementById("routeEnter").value;
+        selectedRoute = document.querySelector('#routeDrop');
+        code = selectedRoute.value;
     }
+
     document.getElementById("agency").innerHTML = ("<b>Agency: </b>" + agency);
     document.getElementById("code").innerHTML = ("<b>Code: </b>" + code);
-
-    // rewrite things to be a drop down
-    // drop down menu, add item to list
 
     // gets full agency name
     const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
