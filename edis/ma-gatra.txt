@@ -1,23 +1,23 @@
-2;2.92;1.16
-5;4.05;1.59
-6;8.19;2.5
-7;5.34;1.53
-8;4.2;1.82
-10;6.82;2.07
-11;4.87;1.5
-12;6.1;1.85
-14;7.86;1.65
-15;1.68;1.15
-16;5.63;1.24
-18;12.25;1.24
-link-1;7.27;1.97
-link-2;5.75;1.83
-link-4;20.54;1.1
-manomet-cedarville;7.03;1.04
-mayflower;12.75;1.97
-middleborough-shuttle;5.2;1.79
-middleborough-taunton;12.63;1.04
-medway;4.55;1.01
-sail;18.64;1.88
-wareham-new-bedford;17.59;1.1
-wareham-plymouth;25.99;1.75
+2;2.92;1.16;2: Broadway / Market Basket;Main
+5;4.05;1.59;5: Walmart / E. Taunton / Target;Main
+6;8.19;2.5;6: Whittenton;Main
+7;5.34;1.53;7: School St / Route 44;Main
+8;4.2;1.82;8: County St / Target;Main
+10;6.82;2.07;10: Attleboro / North Attleboro;Main
+11;4.87;1.5;11: South Attleboro Connector;Main
+12;6.1;1.85;12: Attleboro / South Attleboro;Main
+14;7.86;1.65;14: North Attleboro / Plainville;Main
+15;1.68;1.15;15: Sturdy Hospital / La Salette;Main
+16;5.63;1.24;16: Seekonk / Attleboro;Main
+18;12.25;1.24;18: Taunton / Norton / Attleboro;Main
+link-1;7.27;1.97;Link 1: Wareham / Onset / Wareham;Main
+link-2;5.75;1.83;Link 2: Cranberry Plaza to Buzzards Bay;Main
+link-4;20.54;1.1;Link 4: Cranberry Plaza to West Wareham;Main
+manomet-cedarville;7.03;1.04;Manomet / Cedarville Deviated Link;Main
+mayflower;12.75;1.97;Mayflower Link;Main
+middleborough-shuttle;5.2;1.79;Downtown Middleborough Shuttle;Main
+middleborough-taunton;12.63;1.04;Middleborough - Taunton Connection;Main
+medway;4.55;1.01;Medway T Shuttle;Main
+sail;18.64;1.88;SAIL: Marshfield / Duxbury / Kingston;Main
+wareham-new-bedford;17.59;1.1;Wareham - New Bedford Connection;Main
+wareham-plymouth;25.99;1.75;Wareham - Plymouth Connection;Main
