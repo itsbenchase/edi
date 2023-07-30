@@ -1,46 +1,46 @@
-30;5.33;1.15
-31;9.95;1.25
-33;5.95;1.86
-36;5.4;1.03
-38;11.06;1.16
-39E;10.02;1.8
-45;13.27;1.29
-46;8.64;1.17
-B4;2.3;1.35
-B6-bigy;9.02;1.24
-B6-encompass;8.63;1.21
-B7;6.92;1.13
-B12;8.31;1.05
-B17;7.72;1.26
-B23;11.38;1.21
-B43;9.3;1.31
-B48;8.03;1.04
-B79;42.26;1.1
-G1;13.11;1.85
-G2-bigy;8.77;2.13
-G2-dwight;9.86;1.69
-G3;5.77;2.2
-G5-enfield;8.91;1.47
-G5-jewish;4.24;1.16
-G73E;15.4;1.04
-P11;8.11;1.09
-P20;10.7;1.51
-P21;8.45;1.2
-P21-M;8.52;1.2
-P21E;7.33;1.03
-R10-S;12.08;1.15
-R10-U;12.85;1.22
-R14;6.66;1.13
-R14-C;7.35;1.48
-R14-ind;6.53;1.39
-R14-M;7.89;1.34
-R14-sun;2.84;1.29
-R29;24.69;1.25
-R41;11.66;1.13
-R42;7.9;1.05
-WSU;2.92;1.17
-X90-north-A;6.41;2.3
-X90-north-B;5.65;2.03
-X90-south-A;8.72;1.24
-X90-south-B;8.83;1.25
-X92;7.25;1.98
+30;5.33;1.15;30: North Amherst / Old Belchertown Rd;Main
+31;9.95;1.25;31: Sunderland / S Amherst;Main
+33;5.95;1.86;33: Puffers Pond / Shopper Shuttle;Main
+36;5.4;1.03;36: Olympia Dr / Atkins Farm;Main
+38;11.06;1.16;38: Mt. Holyoke / Hampshire / Amherst / UMass;Main
+39E;10.02;1.8;39E: Smith / Mount Holyoke Express;Main
+45;13.27;1.29;45: Belchertown Center / UMass;Main
+46;8.64;1.17;46: South Deerfield / UMass;Main
+B4;2.3;1.35;B4: Planfield St;Main
+B6-bigy;9.02;1.24;B6: Ludlow via Bay St;to Big Y
+B6-encompass;8.63;1.21;B6: Ludlow via Bay St;to Encompass Health
+B7;6.92;1.13;B7: Eastfield Mall via State St / Boston Rd;Main
+B12;8.31;1.05;B12: Stonybrook Express;Main
+B17;7.72;1.26;B17: Eastfield Mall via Worthington - Wilbraham Rd;Main
+B23;11.38;1.21;B23: Holyoke / Westfield via HCC;Main
+B43;9.3;1.31;B43: Northampton / Hadley / Amherst;Main
+B48;8.03;1.04;B48: Northampton / Holyoke via Route 5;Main
+B79;42.26;1.1;B79: Amherst / Worcester Intercity;Main
+G1;13.11;1.85;G1: Chicopee / Sumner - Allen / Canon Cir;Main
+G2-bigy;8.77;2.13;G2: E. Springfield via Carew / Belmont - Dwight;to Big Y
+G2-dwight;9.86;1.69;G2: E. Springfield via Carew / Belmont - Dwight;via Dwight Rd
+G3;5.77;2.2;G3: Springfield Plaza via Liberty / King - Westford;Main
+G5-enfield;8.91;1.47;G5: Springfield / Dickinson / Jewish Home / Longmeadow;to Enfield
+G5-jewish;4.24;1.16;G5: Springfield / Dickinson / Jewish Home / Longmeadow;to Jewish Home
+G73E;15.4;1.04;G73E: Springfield - Northampton via Holyoke Mall;Main
+P11;8.11;1.09;P11: Holyoke Community College Express;Main
+P20;10.7;1.51;P20: Holyoke / Springfield via Riverdale St;Main
+P21;8.45;1.2;P21: Holyoke / Springfield via Chicopee;Main
+P21-M;8.52;1.2;P21: Holyoke / Springfield via Chicopee;M: via Meetinghouse Rd
+P21E;7.33;1.03;P21E: Springfield / Holyoke via 391;Main
+R10-S;12.08;1.15;R10: Westfield State University / W. Springfield;S: via Westfield Shops
+R10-U;12.85;1.22;R10: Westfield State University / W. Springfield;U: via Union St
+R14;6.66;1.13;R14: Feeding Hills / Springfield;Main
+R14-C;7.35;1.48;R14: Feeding Hills / Springfield;C: via Country View Estates
+R14-ind;6.53;1.39;R14: Feeding Hills / Springfield;via Agawam Industrial Park
+R14-M;7.89;1.34;R14: Feeding Hills / Springfield;M: via Maple St
+R14-sun;2.84;1.29;R14: Feeding Hills / Springfield;to Rocky's
+R29;24.69;1.25;R29: Amherst / Holyoke Mall via Rt 116;Main
+R41;11.66;1.13;R41: Northampton / Easthampton / HCC / Holyoke Mall;Main
+R42;7.9;1.05;R42: Northampton / Williamsburg / VA Hospital;Main
+WSU;2.92;1.17;WSU: WSU Shuttle;Main
+X90-north-A;6.41;2.3;X90: Inner Crosstown;North A: via Memorial Dr
+X90-north-B;5.65;2.03;X90: Inner Crosstown;North B: via Buckley Blvd
+X90-south-A;8.72;1.24;X90: Inner Crosstown;South A: via Broadway
+X90-south-B;8.83;1.25;X90: Inner Crosstown;South B: via Grove St
+X92;7.25;1.98;X92: Mid-City Crosstown;Main

@@ -1,32 +1,31 @@
-FR-1;2.4;1.12
-FR-2;7.19;1.37
-FR-2-C;8.7;1.65
-FR-2-SS;8.26;1.65
-FR-3;2.36;1.26
-FR-4;3.8;1.33
-FR-5;3.06;1.3
-FR-5-A;2.98;1.48
-FR-5-T;3.32;1.32
-FR-6;1.78;1.47
-FR-7;4.09;1.63
-FR-8;2.95;1.28
-FR-9;3.82;2.71
-FR-10;3.26;3.59
-FR-14;6.26;1.21
-NB-1;3.52;1.2
-NB-2;4.02;1.24
-NB-2-B;4.36;1.35
-NB-2-W;4.78;1.48
-NB-3;4.6;1.77
-NB-4;5.41;1.21
-NB-4-NB;8.83;1.42
-NB-5;1.02;1.25
-NB-6-in;3.89;1.96
-NB-6-out;3.1;1.56
-NB-8;3.22;1.13
-NB-9;15.35;1.23
-NB-10-in;7.18;1.79
-NB-10-out;5.76;1.43
-NB-11-in;4.76;1.89
-NB-11-out;6.97;2.77
-NB-21;5.8;1.25
+FR-1;2.4;1.12;Fall River 1: South Main;Main
+FR-2;7.19;1.37;Fall River 2: North Main;Main
+FR-2-C;8.7;1.65;Fall River 2: North Main;C: via Commerce Dr
+FR-2-SS;8.26;1.65;Fall River 2: North Main;SS: via Stop & Shop
+FR-3;2.36;1.26;Fall River 3: Laurel St;Main
+FR-4;3.8;1.33;Fall River 4: Robeson St;Main
+FR-5;3.06;1.3;Fall River 5: Stafford Rd;Main
+FR-5-A;2.98;1.48;Fall River 5: Stafford Rd;A: via Atlantis Charter School
+FR-5-T;3.32;1.32;Fall River 5: Stafford Rd;T: via Tiverton Casino
+FR-6;1.78;1.47;Fall River 6: Pleasant St;Main
+FR-7;4.09;1.63;Fall River 7: Bay St;Main
+FR-8;2.95;1.28;Fall River 8: BCC / Durfee HS;Main
+FR-9;3.82;2.71;Fall River 9: Bedford St;Main
+FR-10;3.26;3.59;Fall River 10: Rodman St;Main
+FR-14;6.26;1.21;Fall River 14: Swansea Mall;Main
+NB-1;3.52;1.2;New Bedford 1: Fort Rodman;Main
+NB-2;4.02;1.24;New Bedford 2: Lund's Corner;Main
+NB-2-B;4.36;1.35;New Bedford 2: Lund's Corner;B: via Belleville Ave
+NB-3;4.6;1.77;New Bedford 3: Dartmouth St;Main
+NB-4;5.41;1.21;New Bedford 4: Ashley Blvd;Main
+NB-4-NB;8.83;1.42;New Bedford 4: Ashley Blvd;NB: New Bedford Business Park
+NB-5;1.02;1.25;New Bedford 5: South Central;Main
+NB-6-in;3.89;1.96;New Bedford 6: Shawmut;Inbound
+NB-6-out;3.1;1.56;New Bedford 6: Shawmut;Outbound
+NB-8;3.22;1.13;New Bedford 8: Mt. Pleasant;Main
+NB-9;15.35;1.23;New Bedford 9: Intercity;Main
+NB-10-in;7.18;1.79;New Bedford 10: Dartmouth Mall;Inbound
+NB-10-out;5.76;1.43;New Bedford 10: Dartmouth Mall;Outbound
+NB-11-in;4.76;1.89;New Bedford 11: Fairhaven;Inbound
+NB-11-out;6.97;2.77;New Bedford 11: Fairhaven;Outbound
+NB-21;5.8;1.25;New Bedford 21: North End Shuttle;Main

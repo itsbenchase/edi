@@ -77,59 +77,28 @@
 2644;Farrington Hwy + Kili Dr;21.476604;-158.219569;C;46
 558;Farrington Hwy + Opp Makaha Shores;21.479194;-158.223659;C;47
 559;Lawaia St + Makau St;21.48208;-158.228463;C;48
-4523;Kalihi Transit Center;21.334465;-157.887741;A-kalihi;1
-163;Kalihi-palama Bus Facility;21.336199;-157.886154;A-kalihi;2
-1025;N King St + Umi St;21.3349;-157.880928;A-kalihi;3
-993;N King St + Gulick Ave;21.33298;-157.878942;A-kalihi;4
-994;N King St + Kalihi St;21.330742;-157.875131;A-kalihi;5
-3064;N King St + Kohou St;21.325159;-157.86908;A-kalihi;6
-1027;N King St + Opp Palama St;21.321577;-157.867078;A-kalihi;7
-996;N King St + Dillingham Bl;21.318734;-157.864991;A-kalihi;8
-997;N King St + Maunakea St;21.311937;-157.863756;A-kalihi;9
-393;S King St + Bethel St;21.310054;-157.862677;A-kalihi;10
-4400;S King St + Alakea St;21.307831;-157.861061;A-kalihi;11
-131;S King St + Punchbowl St;21.305103;-157.858239;A-kalihi;12
-595;Kapiolani Bl + South St;21.30318;-157.855424;A-kalihi;13
-600;Kapiolani Bl + Kamakee St;21.296346;-157.849973;A-kalihi;14
-999;Kapiolani Bl + Keeaumoku St;21.293347;-157.843215;A-kalihi;15
-2989;Kapiolani Bl + Mahukona St;21.292055;-157.840289;A-kalihi;16
-363;Kapiolani Bl + Mccully St;21.289168;-157.831633;A-kalihi;17
-365;Kapiolani Bl + Opp Isenberg St;21.287749;-157.827913;A-kalihi;18
-296;University Ave + S King St;21.292204;-157.821725;A-kalihi;19
-983;Sinclair Circle;21.297892;-157.820754;A-kalihi;20
-3379;Leolua St + Leoku St;21.379554;-158.024637;A;1
-1017;Leoku St + Farrington Hwy;21.379222;-158.024145;A;2
-669;Farrington Hwy + Opp Leoku St;21.377948;-158.022834;A;3
-670;Farrington Hwy + Pupukahi St;21.380441;-158.017946;A;4
-4421;Waipahu Transit Center East;21.385026;-158.003729;A;5
-1024;Farrington Hwy + Opp Mokuola St;21.384386;-158.001857;A;6
-677;Farrington Hwy + Opp Paiwa St;21.386363;-157.998178;A;7
-678;Farrington Hwy + Waipio Point Access;21.38937;-157.99464;A;8
-679;Farrington Hwy + Waiawa Rd;21.395486;-157.98034;A;9
-681;Kamehameha Hwy + Opp Waimano Home Rd;21.393602;-157.969877;A;10
-688;Kamehameha Hwy + Opp Kaahumanu St;21.387095;-157.954538;A;11
-691;Kamehameha Hwy + Opp Kaonohi St;21.383343;-157.946305;A;12
-692;Kamehameha Hwy + Opp Pali Momi St;21.38112;-157.941458;A;13
-695;Kamehameha Hwy + Opp Salt Lake Bl;21.371871;-157.933868;A;14
-697;Kamehameha Hwy + Arizona Memorial Pl;21.366863;-157.93668;A;15
-699;Kamehameha Hwy + Opp Radford Dr;21.351993;-157.935491;A;16
-4523;Kalihi Transit Center;21.334465;-157.887741;A;17
-163;Kalihi-palama Bus Facility;21.336199;-157.886154;A;18
-1025;N King St + Umi St;21.3349;-157.880928;A;19
-993;N King St + Gulick Ave;21.33298;-157.878942;A;20
-994;N King St + Kalihi St;21.330742;-157.875131;A;21
-3064;N King St + Kohou St;21.325159;-157.86908;A;22
-1027;N King St + Opp Palama St;21.321577;-157.867078;A;23
-996;N King St + Dillingham Bl;21.318734;-157.864991;A;24
-997;N King St + Maunakea St;21.311937;-157.863756;A;25
-393;S King St + Bethel St;21.310054;-157.862677;A;26
-4400;S King St + Alakea St;21.307831;-157.861061;A;27
-131;S King St + Punchbowl St;21.305103;-157.858239;A;28
-595;Kapiolani Bl + South St;21.30318;-157.855424;A;29
-600;Kapiolani Bl + Kamakee St;21.296346;-157.849973;A;30
-999;Kapiolani Bl + Keeaumoku St;21.293347;-157.843215;A;31
-2989;Kapiolani Bl + Mahukona St;21.292055;-157.840289;A;32
-363;Kapiolani Bl + Mccully St;21.289168;-157.831633;A;33
-365;Kapiolani Bl + Opp Isenberg St;21.287749;-157.827913;A;34
-296;University Ave + S King St;21.292204;-157.821725;A;35
-983;Sinclair Circle;21.297892;-157.820754;A;36
+691;Kamehameha Hwy + Opp Kaonohi St;21.383343;-157.946305;A;1
+692;Kamehameha Hwy + Opp Pali Momi St;21.38112;-157.941458;A;2
+695;Kamehameha Hwy + Opp Salt Lake Bl;21.371871;-157.933868;A;3
+697;Kamehameha Hwy + Arizona Memorial Pl;21.366863;-157.93668;A;4
+699;Kamehameha Hwy + Opp Radford Dr;21.351993;-157.935491;A;5
+4523;Kalihi Transit Center;21.334465;-157.887741;A;6
+163;Kalihi-palama Bus Facility;21.336199;-157.886154;A;7
+1025;N King St + Umi St;21.3349;-157.880928;A;8
+993;N King St + Gulick Ave;21.33298;-157.878942;A;9
+994;N King St + Kalihi St;21.330742;-157.875131;A;10
+3064;N King St + Kohou St;21.325159;-157.86908;A;11
+1027;N King St + Opp Palama St;21.321577;-157.867078;A;12
+996;N King St + Dillingham Bl;21.318734;-157.864991;A;13
+997;N King St + Maunakea St;21.311937;-157.863756;A;14
+393;S King St + Bethel St;21.310054;-157.862677;A;15
+4400;S King St + Alakea St;21.307831;-157.861061;A;16
+131;S King St + Punchbowl St;21.305103;-157.858239;A;17
+595;Kapiolani Bl + South St;21.30318;-157.855424;A;18
+600;Kapiolani Bl + Kamakee St;21.296346;-157.849973;A;19
+999;Kapiolani Bl + Keeaumoku St;21.293347;-157.843215;A;20
+2989;Kapiolani Bl + Mahukona St;21.292055;-157.840289;A;21
+363;Kapiolani Bl + Mccully St;21.289168;-157.831633;A;22
+365;Kapiolani Bl + Opp Isenberg St;21.287749;-157.827913;A;23
+296;University Ave + S King St;21.292204;-157.821725;A;24
+983;Sinclair Circle;21.297892;-157.820754;A;25
