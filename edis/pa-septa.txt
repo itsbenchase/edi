@@ -1,45 +1,45 @@
-Blvd Direct;10.51;1.02
-1-decatur;18.06;1.31
-1-decatur-parx;23.54;1.38
-1-parx;19.47;1.14
-2-hunting-park;7.84;1.15
-2-wayne-junction;8.22;1.12
-3;7.62;1.16
-4;10.18;1.06
-5;6.61;1.09
-9;10.58;1.13
-10;5.71;1.16
-19;11.57;2.14
-26-frankford;10.03;1.82
-26-torresdale;11.04;2.01
-28;12.1;2.24
-30;7.1;1.76
-34;4.65;1.04
-53-broad;4.91;1.48
-53-g;6.27;1.21
-59;3.98;1.04
-60;5.51;1.11
-66-cottman;2.19;1.02
-66-gregg;4.44;1.02
-66-knights;5.95;1.02
-67;17.16;2.32
-68;20.75;3.73
-75;4.71;1.16
-79;2.97;1.06
-84;18.25;2.16
-88-gregg;6.59;1.51
-88-hospital;11.55;1.97
-89;9.98;2.95
-90;11.88;3.68
-93;22.46;1.2
-98;7.52;1.79
-107;16.49;3.25
-117;15.86;2.64
-126-abbott;7.22;1.44
-126-central;7.59;1.52
-128;22.63;4.62
-129;24.48;2.52
-132;14.48;1.79
-133;4.97;1.71
-150;18.31;1.05
-201;2.88;1.42
+Blvd Direct;10.51;1.02;Boulevard Direct;Main
+1-decatur;18.06;1.31;1: Parx Casino to 54th / City;to Decatur Rd
+1-decatur-parx;23.54;1.38;1: Parx Casino to 54th / City;to Park Casino via Decatur Rd
+1-parx;19.47;1.14;1: Parx Casino to 54th / City;to Parx Casino
+2-hunting-park;7.84;1.15;2: 20th / Johnston - Pulaski / Hunting Park or Wayne Jct;to Pulaski / Hunting Park
+2-wayne-junction;8.22;1.12;2: 20th / Johnston - Pulaski / Hunting Park or Wayne Jct;to Wayne Jct
+3;7.62;1.16;3: 33rd / Cecil B Moore - Frankford TC;Main
+4;10.18;1.06;4: Broad / Pattison - Fern Rock TC;Main
+5;6.61;1.09;5: Front / Market - Frankford TC;Main
+9;10.58;1.13;9: 4th / Walnut - Andorra;Main
+10;5.71;1.16;10: 13th / Market - 63rd / Malvern;Main
+19;11.57;2.14;19: Torresdale - Frankford TC;Main
+26-frankford;10.03;1.82;26: Chelten Av - Frankford TC;via Frankford Av
+26-torresdale;11.04;2.01;26: Chelten Av - Frankford TC;via Torresdale Av
+28;12.1;2.24;28: Torresdale / Cottman - Fern Rock TC;Main
+30;7.1;1.76;30: 30th St - 69th St TC;Main
+34;4.65;1.04;34: 13th / Market - 61st / Baltimore;Main
+53-broad;4.91;1.48;53: Wayne / Carpenter - Broad or G / Hunting Park;to Broad / Hunting Park
+53-g;6.27;1.21;53: Wayne / Carpenter - Broad or G / Hunting Park;to G / Hunting Park
+59;3.98;1.04;59: Castor / Bustleton - Arrott TC;Main
+60;5.51;1.11;60: 35th / Allegheny - Richmond / Westmoreland;Main
+66-cottman;2.19;1.02;66: Frankford / Knights - Frankford TC;to Cottman Av
+66-gregg;4.44;1.02;66: Frankford / Knights - Frankford TC;to Gregg St
+66-knights;5.95;1.02;66: Frankford / Knights - Frankford TC;to Knights Rd
+67;17.16;2.32;67: Philadelphia Mills and Bustleton - Frankford TC;Main
+68;20.75;3.73;68: Broad / Oregon - UPS or 69th St TC;Main
+75;4.71;1.16;75: Wayne Junction - Arrott TC;Main
+79;2.97;1.06;79: Columbus Commons - 29th / Snyder;Main
+84;18.25;2.16;Bustleton / County Line - Frankford TC;Main
+88-gregg;6.59;1.51;88: Bethayres or Frankford / Gregg - Frankford TC;to Frankford / Gregg
+88-bethayres;11.55;1.97;88: Bethayres or Frankford / Gregg - Frankford TC;to Bethayres
+89;9.98;2.95;89: Front / Dauphin - Arrott TC;Main
+90;11.88;3.68;90: Plymouth Meeting Mall - Arrott TC;Main
+93;22.46;1.2;93: Pottstown - Norristown TC;Main
+98;7.52;1.79;98: Blue Bell - Norristown TC;Main
+107;16.49;3.25;107: Lawrence Park - 69th St TC;Main
+117;15.86;2.64;117: Penn State - I-95 Industrial Park;Main
+126-abbott;7.22;1.44;126: Lawrence Park - 69th St TC;via Abbott Dr
+126-central;7.59;1.52;126: Lawrence Park - 69th St TC;via South Central Blvd
+128;22.63;4.62;128: Neshaminy Mall - Oxford Valley Mall;Main
+129;24.48;2.52;129: Franford / Knights - Oxford Valley Mall;Main
+132;14.48;1.79;132: Telford - Montgomery Mall;Main
+133;4.97;1.71;133: Frankford / Knights - Bensalem;Main
+150;18.31;1.05;150: Park Casino - Plymouth Meeting Mall;Main
+201;2.88;1.42;201: Fort Washington Office Ctr - Fort Washington Station;Main

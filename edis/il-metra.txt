@@ -1,16 +1,16 @@
-BNSF;36.43;1.03
-HC;35.17;1.05
-ME-BI;18.43;1.15
-ME-SC;12.56;1.09
-ME-UP;30.89;1.04
-MD-N;47.86;1.05
-MD-W;38.25;1.02
-NCS;51.76;1.09
-RI-all;40.27;1.2
-RI-blue;16.15;1.04
-RI-joliet;39.75;1.18
-SWS;37.34;1.02
-UP-N;51.42;1.04
-UP-NW-harvard;62.69;1.0
-UP-NW-mchenry;49.55;1.09
-UP-W;43.06;1.02
+BNSF;36.43;1.03;BNSF;Main
+HC;35.17;1.05;Heritage Corrdior;Main
+ME-BI;18.43;1.15;Metra Electric;Blue Island
+ME-SC;12.56;1.09;Metra Electric;South Chicago
+ME-UP;30.89;1.04;Metra Electric;University Park
+MD-N;47.86;1.05;Milwaukee District North;Main
+MD-W;38.25;1.02;Milwaukee District West;Main
+NCS;51.76;1.09;North Central Service;Main
+RI-all;40.27;1.2;Rock Island;All Stops
+RI-blue;16.15;1.04;Rock Island;Blue Island
+RI-joliet;39.75;1.18;Rock Island;Joliet
+SWS;37.34;1.02;Southwest Service;Main
+UP-N;51.42;1.04;Union Pacific North;Main
+UP-NW-harvard;62.69;1.0;Union Pacific Northwest;Harvard
+UP-NW-mchenry;49.55;1.09;Union Pacific Northwest;McHenry
+UP-W;43.06;1.02;Union Pacific West;Main
