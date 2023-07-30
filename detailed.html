@@ -141,7 +141,7 @@ function getOption()
                 data = data.substr(data.indexOf(";") + 1);
                 lineBranches.push(data);
                 fullLineOption.push(lineNames[i] + " (" + lineBranches[i] + ") - " + lineCodes[i]);
-                document.getElementById("routeDrop").innerHTML += ("<option value=" + lineCodes[i] + ">" + fullLineOption[i] + "</option>");
+                document.getElementById("routeDrop").innerHTML += ("<option value=\"" + lineCodes[i] + "\">" + fullLineOption[i] + "</option>");
             }
         })
 }

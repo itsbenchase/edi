@@ -1,104 +1,104 @@
-208;24.27;1.34
-209;6.74;1.17
-210;13.55;1.46
-213;16.78;1.28
-213-H;7.44;1.1
-215;7.09;1.42
-221;6.83;1.27
-221-K;12.16;1.37
-223-E;7.81;1.51
-223-W;9.78;1.89
-225;6.36;1.42
-226;15.74;1.51
-230;9.03;1.61
-234;17.64;1.88
-240;7.52;1.68
-241;7.61;1.7
-250;14.83;1.36
-270;13.79;1.41
-272;16.51;1.13
-290;10.54;1.19
-301;20.89;1.26
-302;8.24;1.19
-303-rosemont;10.81;1.36
-303-winston;4.94;1.84
-305;5.02;1.36
-307;11.82;1.04
-308;2.77;1.83
-309;9.42;1.09
-310;5.79;1.33
-311;9.16;1.23
-313;17.1;1.27
-314;5.83;1.27
-315;5.16;1.15
-316;4.3;1.25
-317;4.92;1.46
-318;8.12;1.58
-319;6.91;1.29
-319-B;8.38;1.11
-322;13.27;1.04
-330;20.89;1.43
-331;13.58;1.21
-331-H;14.81;1.27
-332;17.95;1.7
-332-delta;6.54;2.26
-348;10.09;2.56
-349;11.35;1.15
-350;6.98;1.11
-352;16.63;1.09
-352-harvey;8.66;1.11
-353-homewood;15.06;1.38
-353-victory;15.17;1.7
-356;11.72;1.3
-357;8.69;1.1
-358;19.89;1.79
-359;18.02;1.6
-360;16.25;1.12
-361;23.98;1.01
-364;23.6;1.4
-366;3.63;1.39
-367;8.7;3.23
-379;18.44;1.36
-381;12.87;1.17
-381-H;12.7;1.15
-383;13.55;1.03
-383-104th;6.65;1.16
-384;9.51;1.34
-385;29.64;3.25
-386;21.34;1.3
-390;13.28;1.7
-392;17.75;1.47
-395;14.01;1.04
-410;8.35;1.87
-411;7.07;1.59
-412;2.04;1.53
-421;6.58;1.36
-422;17.95;2.18
-423;17.67;2.02
-471;5.86;2.41
-471-C;6.77;3.55
-472;6.93;3.36
-501-houbolt;7.36;1.38
-501-jewel;6.65;1.07
-504;5.67;1.94
-507;6.25;1.06
-508;7.79;1.53
-509;5.93;1.88
-511;11.73;1.35
-512;8.77;1.39
-524;7.84;1.79
-530;15.86;1.35
-533;6.5;1.68
-533-H;5.02;1.83
-540;7.1;1.2
-543;7.4;1.25
-543-D;2.63;1.13
-549;6.93;2.27
-549-C;9.0;2.95
-603;24.01;1.08
-711;17.99;2.31
-715;27.86;1.72
-807;16.45;1.87
-808;25.44;1.31
-905;2.22;1.59
-Pulse;6.65;1.0
+208;24.27;1.34;208: Golf Rd;Main
+209;6.74;1.17;209: Busse Hwy;Main
+210;13.55;1.46;210: Lincoln Ave;Main
+213;16.78;1.28;213: Green Bay Rd;Main
+213-H;7.44;1.1;213: Green Bay Rd;H: via Dodge
+215;7.09;1.42;215: Crawford - Howard;Main
+221;6.83;1.27;221: Wolf Rd;Main
+221-K;12.16;1.37;221: Wolf Rd;K: via Business Ctr
+223-E;7.81;1.51;223: Elk Grove - Rosemont;E: via Devon
+223-W;9.78;1.89;223: Elk Grove - Rosemont;W: via Lively
+225;6.36;1.42;225: Central - Howard;Main
+226;15.74;1.51;226: Oakton St;Main
+230;9.03;1.61;230: South Des Plaines;Main
+234;17.64;1.88;234: Wheeling - Des Plaines;Main
+240;7.52;1.68;240: Dee Road;Main
+241;7.61;1.7;241: Greenwood - Talcott;Main
+250;14.83;1.36;250: Dempster St;Main
+270;13.79;1.41;270: Milwaukee Ave;Main
+272;16.51;1.13;272: Milwaukee Ave North;Main
+290;10.54;1.19;290: Touhy Ave;Main
+301;20.89;1.26;301: Roosevelt Rd;Main
+302;8.24;1.19;302: Ogden / Stanley;Main
+303-rosemont;10.81;1.36;303: Forest Park - Rosemont;to Rosemont
+303-winston;4.94;1.84;303: Forest Park - Rosemont;to Winston Plaza
+305;5.02;1.36;305: East Roosevelt Rd;Main
+307;11.82;1.04;307: Harlem;Main
+308;2.77;1.83;308: Medical Center;Main
+309;9.42;1.09;309: Lake St;Main
+310;5.79;1.33;310: Madison St - Hillside;Main
+311;9.16;1.23;311: Oak Park Ave;Main
+313;17.1;1.27;313: St. Charles Rd;Main
+314;5.83;1.27;314: Ridgeland Ave;Main
+315;5.16;1.15;315: Austin Blvd;Main
+316;4.3;1.25;316: Laramie Ave;Main
+317;4.92;1.46;317: Westchester;Main
+318;8.12;1.58;318: West North Ave;Main
+319;6.91;1.29;319: Grand Ave;Main
+319-B;8.38;1.11;319: Grand Ave;B: to Bensenville
+322;13.27;1.04;322: Cermak Rd - 22nd St;Main
+330;20.89;1.43;330: Mannheim - LaGrange Rd;Main
+331;13.58;1.21;331: Cumberland - 5th Ave;Main
+331-H;14.81;1.27;331: Cumberland - 5th Ave;H: to La Grange
+332;17.95;1.7;332: River Rd - York Rd;Main
+332-delta;6.54;2.26;332: River Rd - York Rd;to Delta Cargo
+348;10.09;2.56;348: Harvey - Riverdale - Blue Island;Main
+349;11.35;1.15;349: South Western;Main
+350;6.98;1.11;350: Sibley;Main
+352;16.63;1.09;352: Halsted;Main
+352-harvey;8.66;1.11;352: Halsted;to Harvey
+353-homewood;15.06;1.38;353: 95th / Dan Ryan - River Oaks - Homewood;to Homewood
+353-victory;15.17;1.7;353: 95th / Dan Ryan - River Oaks - Homewood;to Victory Centre
+356;11.72;1.3;356: Harvey - Homewood - Tinley Park;Main
+357;8.69;1.1;357: Lincoln Highway;Main
+358;19.89;1.79;358: Torrence;Main
+359;18.02;1.6;359: Robbins - South Kedzie Ave;Main
+360;16.25;1.12;360: Harvey - Amazon Monee Express;Main
+361;23.98;1.01;361: Harvey - Laraway Crossings Express;Main
+364;23.6;1.4;364: 159th St;Main
+366;3.63;1.39;366: Park Forest - Chicago Heights;Main
+367;8.7;3.23;367: University Park - Park Forest;Main
+379;18.44;1.36;379: Midway - Orland Park;Main
+381;12.87;1.17;381: 95th St;Main
+381-H;12.7;1.15;381: 95th St;H: via 88th Ave
+383;13.55;1.03;383: South Cicero;Main
+383-104th;6.65;1.16;383: South Cicero;to 104th / Pulaski
+384;9.51;1.34;384: Narragansett / Ridgeland;Main
+385;29.64;3.25;385: 87th / 111th / 127th;Main
+386;21.34;1.3;386: South Harlem;Main
+390;13.28;1.7;390: Midway - UPS Hodgkins;Main
+392;17.75;1.47;392: Little Village - UPS Hodgkins;Main
+395;14.01;1.04;395: 95th / Dan Ryan - UPS Hodgkins;Main
+410;8.35;1.87;410: East Niles Local;Main
+411;7.07;1.59;411: West Niles Local;Main
+412;2.04;1.53;412: North Miles Circulator;Main
+421;6.58;1.36;421: Wilmette Ave;Main
+422;17.95;2.18;422: Linden - Glenview - Northbrook Ct;Main
+423;17.67;2.02;423: Linden - The Glen - Harlem;Main
+471;5.86;2.41;471: Highland Park - Northbrook Court;Main
+471-C;6.77;3.55;471: Highland Park - Northbrook Court;C: to Crossroads
+472;6.93;3.36;472: Highland Park - Highwood;Main
+501-houbolt;7.36;1.38;501: West Jefferson;via Houbolt
+501-jewel;6.65;1.07;501: West Jefferson;to Jewel
+504;5.67;1.94;504: South Joliet;Main
+507;6.25;1.06;507: Plainfield;Main
+508;7.79;1.53;508: East Joliet;Main
+509;5.93;1.88;509: Joliet - Fairmont;Main
+511;11.73;1.35;511: Joliet - Elmwood - Centerpoint;Main
+512;8.77;1.39;512: Joliet - Centerpoint;Main
+524;7.84;1.79;524: West Aurora;Main
+530;15.86;1.35;530: West Galena - Naperville;Main
+533;6.5;1.68;533: Northeast Aurora;Main
+533-H;5.02;1.83;533: Northeast Aurora;H: to Molitor
+540;7.1;1.2;540: Farnsworth Ave;Main
+543;7.4;1.25;543: Dundee - Carpentersville;Main
+543-D;2.63;1.13;543: Dundee - Carpentersville;D: to Blackhawk
+549;6.93;2.27;549: South Randall;Main
+549-C;9.0;2.95;549: South Randall;C: via Bowes
+603;24.01;1.08;603: Elgin TC - Rosemont;Main
+711;17.99;2.31;711: Wheaton - Addison;Main
+715;27.86;1.72;715: Central DuPage;Main
+807;16.45;1.87;807: Woodstock - McHenry;Main
+808;25.44;1.31;808: Crystal Lake - Harvard;Main
+905;2.22;1.59;905: Schaumburg Trolley;Main
+Pulse;6.65;1.0;Pulse Milwaukee Line;Main

@@ -1,120 +1,121 @@
-1;23.17;4.05
-2;16.02;1.06
-3;3.88;1.29
-4;3.33;1.0
-7;9.07;1.02
-8;2.52;1.27
-9;7.57;1.68
-10;2.24;1.94
-11A;8.49;1.17
-11C;2.56;1.31
-12A;6.85;2.35
-12B;6.73;2.31
-12C;5.46;1.69
-12D;10.39;1.28
-13A;3.53;1.13
-13B;3.86;1.12
-14;4.05;1.19
-15;4.93;1.4
-16;5.61;1.24
-17A;10.97;1.06
-17B;8.2;1.05
-17C;8.62;1.09
-19;3.61;1.29
-20;5.81;1.63
-21A;3.59;1.25
-21B;4.21;1.04
-21C;7.8;1.16
-22A;3.33;1.74
-22B;1.48;1.13
-23;2.3;2.11
-24A;9.79;1.0
-24B;8.33;1.16
-25A;11.01;1.21
-25B;8.18;1.23
-25C;2.83;1.13
-26;5.69;1.27
-28;2.65;1.42
-29A;7.36;1.05
-29C;8.24;1.15
-30;1.41;1.23
-31A;1.71;1.24
-31B;2.24;1.48
-32A;10.62;1.09
-32C;6.02;1.11
-32D;3.86;1.11
-33;1.95;1.27
-34A;7.24;1.03
-34B;4.33;1.14
-34C;5.71;1.57
-35A;9.56;1.08
-35B;10.26;1.15
-36A;7.82;1.1
-36B;11.78;1.07
-36D;4.36;1.16
-36F;4.52;1.24
-37A;9.47;1.29
-37B;8.77;1.01
-38A;7.33;1.15
-38B;3.94;1.07
-39A;10.0;1.03
-39B;11.28;1.02
-39C;5.67;1.42
-40A;5.68;1.31
-40B;2.39;1.18
-41;9.97;1.14
-42A;9.87;1.13
-42C;5.39;1.26
-43A;7.28;1.1
-43B;4.13;1.43
-43C;3.62;1.09
-44;3.38;1.07
-45A;8.83;1.0
-45B;7.37;1.27
-46;9.64;1.07
-47A;2.56;1.02
-47B;7.33;1.24
-47C;7.3;1.23
-48;5.3;1.34
-49;2.87;1.31
-50;3.58;1.25
-51;10.06;1.34
-52A;11.1;1.02
-52B;14.48;1.22
-52D;13.37;1.1
-52F;6.87;1.0
-52G;7.23;1.11
-53A;12.76;1.28
-53B;10.73;1.14
-54A;16.3;1.09
-54B;12.24;1.17
-55;2.25;2.53
-56;4.76;1.39
-57;7.2;1.08
-59;6.26;1.4
-60A;5.93;1.25
-60B;11.11;1.14
-60D;12.05;1.13
-61;3.29;1.13
-62;3.56;1.21
-63A;5.37;1.25
-63B;3.78;1.27
-64;1.24;1.01
-65;2.16;1.09
-66A;2.92;1.88
-66B;4.16;2.22
-301;15.09;1.06
-304;8.65;1.76
-306;8.83;1.12
-310;3.18;1.65
-501;16.05;1.12
-503;5.8;1.07
-504A;7.15;1.48
-504B;5.81;1.29
-505;6.59;1.33
-506;9.05;1.09
-509;2.26;1.2
-510A;3.18;1.65
-510B;2.19;1.05
-511;2.99;1.4
-512;4.17;1.01
+1;23.17;4.05;Line 1: Yonge - University;Main
+2;16.02;1.06;Line 2: Bloor - Danforth;Main
+3;3.88;1.29;Line 3: Scarborough;Main
+4;3.33;1.0;Line 4: Sheppard;Main
+7;9.07;1.02;7: Bathurst;Main
+8;2.52;1.27;8: Broadview;Main
+9;7.57;1.68;9: Bellamy;Main
+10;2.24;1.94;10: Van Horne;Main
+11A;8.49;1.17;11: Bayview;A: Davisville via Sunnybrook
+11C;2.56;1.31;11: Bayview;C: Davisville
+12A;6.85;2.35;12: Kingston Rd;A: Kennedy via Variety Village
+12B;6.73;2.31;12: Kingston Rd;B: Kennedy via Brimley
+12C;5.46;1.69;12: Kingston Rd;C: St Clair and Barkdene Hills
+12D;10.39;1.28;12: Kingston Rd;D: U of T Scarborough
+13A;3.53;1.13;13: Avenue Rd;A: Queen's Park
+13B;3.86;1.12;13: Avenue Rd;B: Gerrard
+14;4.05;1.19;14: Glencairn;Main
+15;4.93;1.4;15: Evans;Main
+16;5.61;1.24;16: McCowan;Main
+17A;10.97;1.06;17: Birchmount;A: Highway 7
+17B;8.2;1.05;17: Birchmount;B: Steeles via Wintermute
+17C;8.62;1.09;17: Birchmount;C: Steeles and Warden
+19;3.61;1.29;19: Bay;Main
+20;5.81;1.63;20: Cliffside;Main
+21A;3.59;1.25;21: Brimley;A: Kennedy
+21B;4.21;1.04;21: Brimley;B: Steeles Ave E
+21C;7.8;1.16;21: Brimley;C: via Scarborough Centre
+22A;3.33;1.74;22: Coxwell;A: Victoria Park
+22B;1.48;1.13;22: Coxwell;B: Queen
+23;2.3;2.11;23: Dawes;Main
+24A;9.79;1.0;24: Victoria Park;A: Steeles
+24B;8.33;1.16;24: Victoria Park;B: Don Mills
+25A;11.01;1.21;25: Don Mills;A: Pape via Don Mills
+25B;8.18;1.23;25: Don Mills;B: Pape
+25C;2.83;1.13;25: Don Mills;C: Steeles
+26;5.69;1.27;26: Dupont;Main
+28;2.65;1.42;28: Bayview South;Main
+29A;7.36;1.05;29: Dufferin;A: DUfferin Gate
+29C;8.24;1.15;29: Dufferin;C: Princes Gate
+30;1.41;1.23;30: High Park North;Main
+31A;1.71;1.24;31: Greenwood;A: Queen
+31B;2.24;1.48;31: Greenwood;B: Eastern
+32A;10.62;1.09;32: Eglinton West;A: Renforth
+32C;6.02;1.11;32: Eglinton West;C: Jane & Lawrence via Trethewey
+32D;3.86;1.11;32: Eglinton West;D: Jane & Emmett
+33;1.95;1.27;33: Forest Hill;Main
+34A;7.24;1.03;34: Eglinton East;A: Kennedy
+34B;4.33;1.14;34: Eglinton East;B: Don Mills & Wynford
+34C;5.71;1.57;34: Eglinton East;C: Flemingdon Park
+35A;9.56;1.08;35: Jane;A: Pioneer Village
+35B;10.26;1.15;35: Jane;B: Pioneer Village via Hullmar
+36A;7.82;1.1;36: Finch West;A: Finch West
+36B;11.78;1.07;36: Finch West;B: Humberwood
+36D;4.36;1.16;36: Finch West;D: Weston Rd & Milvan
+36F;4.52;1.24;36: Finch West;F: Weston Rd & Milvan via Fenmar
+37A;9.47;1.29;37: Islington;A: Woodbine & Humberwood
+37B;8.77;1.01;37: Islington;B: Steeles
+38A;7.33;1.15;38: Highland Creek;A: Rouge Hill
+38B;3.94;1.07;38: Highland Creek;B: U of T Scarborough
+39A;10.0;1.03;39: Finch East;A: Neilson
+39B;11.28;1.02;39: Finch East;B: Old Finch and Morningview
+39C;5.67;1.42;39: Finch East;C: Victoria Park and Gordon Baker
+40A;5.68;1.31;40: Junction-Dundas West;A: Kipling
+40B;2.39;1.18;40: Junction-Dundas West;B: Jane and St Clair
+41;9.97;1.14;41: Keele;Main
+42A;9.87;1.13;42: Cummer;A: Middlefield
+42C;5.39;1.26;42: Cummer;C: Victoria Park Av
+43A;7.28;1.1;43: Kennedy;A: Steeles
+43B;4.13;1.43;43: Kennedy;B: Scarborough Center
+43C;3.62;1.09;43: Kennedy;C: Village Green Square
+44;3.38;1.07;44: Kipling South;Main
+45A;8.83;1.0;45: Kipling;A: Steeles
+45B;7.37;1.27;45: Kipling;B: Carlingview via Belfield
+46;9.64;1.07;46: Martin Grove;Main
+47A;2.56;1.02;47: Lansdowne;A: Gunn's Loop via St Clair
+47B;7.33;1.24;47: Lansdowne;B: via Bridgeland
+47C;7.3;1.23;47: Lansdowne;C: via Orfus
+48;5.3;1.34;48: Rathburn;Main
+49;2.87;1.31;49: Bloor West;Main
+50;3.58;1.25;50: Burnhamthorpe;Main
+51;10.06;1.34;51: Leslie;Main
+52A;11.1;1.02;52: Lawrence West;A: Pearson Airport
+52B;14.48;1.22;52: Lawrence West;B: Westwood
+52D;13.37;1.1;52: Lawrence West;D: McNaughton
+52F;6.87;1.0;52: Lawrence West;F: Royal York
+52G;7.23;1.11;52: Lawrence West;G: Martin Grove
+53A;12.76;1.28;53: Steeles East;A: Staines
+53B;10.73;1.14;53: Steeles East;B: Markham
+54A;16.3;1.09;54: Lawrence East;A: Starspray
+54B;12.24;1.17;54: Lawrence East;B: Orton Park
+55;2.25;2.53;55: Warren Park;Main
+56;4.76;1.39;56: Leadside;Main
+57;7.2;1.08;57: Midland;Main
+59;6.26;1.4;59: Maple Leaf;Main
+60A;5.93;1.25;60: Steeles West;A: Pioneer Village
+60B;11.11;1.14;60: Steeles West;B: Martin Grove
+60D;12.05;1.13;60: Steeles West;D: Highway 27
+61;3.29;1.13;61: Avenue Road North;Main
+62;3.56;1.21;62: Mortimer;Main
+63A;5.37;1.25;63: Ossington;A: Eglinton West
+63B;3.78;1.27;63: Ossington;B: St Clair
+64;1.24;1.01;64: Main;Main
+65;2.16;1.09;65: Parliament;Main
+66A;2.92;1.88;66: Prince Edward;A: Humber Loop
+66B;4.16;2.22;66: Prince Edward;B: Lakeshore
+301;15.09;1.06;301: Queen;Main
+304;8.65;1.76;304: King;Main
+306;8.83;1.12;306: Carlton;Main
+310;3.18;1.65;310: Spadina;Main
+501;16.05;1.12;501: Queen;Main
+503;5.8;1.07;503: Kingston Rd;Main
+504A;7.15;1.48;504: King;A: Dundas West
+504B;5.81;1.29;504: King;B: Dufferin Gate
+505;6.59;1.33;505: Dundas;Main
+506;9.05;1.09;506: Carlton;Main
+509;2.26;1.2;509: Harbourfront;Main
+510A;3.18;1.65;510: Spadina;A: Union Station
+510B;2.19;1.05;510: Spadina;B: Queens Quay
+510C;1.55;1.0;510: Spadina;C: King
+511;2.99;1.4;511: Bathurst;Main
+512;4.17;1.01;512: St Clair;Main
