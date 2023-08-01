@@ -1,7 +1,7 @@
-Highland Falls;14.89;1.09
-Main Line;24.57;1.39
-Newburgh Broadway;6.69;2.21
-Newburgh Crosstown;7.82;1.6
-Warwick-weekday;6.36;2.56
-Warwick-sunday;6.77;2.72
-Warwick-Wallkill;19.34;1.18
+Highland Falls;14.89;1.09;Highland Falls Line;Main
+Main Line;24.57;1.39;Main Line;Main
+Newburgh Broadway;6.69;2.21;Newburgh Broadway;Main
+Newburgh Crosstown;7.82;1.6;Newburgh Crosstown;Main
+Warwick-weekday;6.36;2.56;Warwick Line;Weekday
+Warwick-sunday;6.77;2.72;Warwick Line;Sunday
+Warwick-Wallkill;19.34;1.18;Warwick-Wallkill Line;Main

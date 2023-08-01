@@ -1,17 +1,18 @@
-301;6.68;1.88
-302;12.75;1.79
-302-sat;10.77;1.51
-302-sun;8.83;1.39
-401;3.81;2.32
-402A;6.37;2.28
-403;5.79;2.02
-404;3.98;2.28
-405;10.9;2.6
-406;6.33;1.6
-407;12.32;3.91
-408;10.3;2.2
-409;15.74;1.5
-501;12.33;1.44
-502;10.81;1.35
-502-sat;9.93;1.2
-503;15.6;1.85
+301;6.68;1.88;301: South Laurel;Main
+302;12.75;1.79;302: Greenbelt Metro Station;Main
+302-sat;10.77;1.51;302: Greenbelt Metro Station;Saturday
+302-sun;8.83;1.39;302: Greenbelt Metro Station;Sunday
+401;3.81;2.32;401: Harper's Choice / Clary's Forest;Main
+402;6.37;2.28;402: Colubmia Crossing / Dobbin Center;Main
+403;5.79;2.02;403: Executive Park Drive;Main
+404;3.98;2.28;404: Hickory Ridge;Main
+405;10.9;2.6;405: Ellicott City;Main
+406;6.33;1.6;406: Colubmia Gateway;Main
+407;12.32;3.91;407: Owen Brown / Kings Contrivance;Main
+408;10.3;2.2;408: Lake Brown / Waterloo;Main
+409;15.74;1.5;409: Elkridge Corners;Main
+501;12.33;1.44;501: Colubmia / Arundel Mills;Main
+502;10.81;1.35;502: Laurel / Arundel Mills;Main
+502-sat;9.93;1.2;502: Laurel / Arundel Mills;Saturday
+503;15.6;1.85;503: Laurel / Columbia;Main
+505;11.16;1.48;505: Columbia / Catonsville;Main

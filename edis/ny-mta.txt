@@ -1,54 +1,54 @@
-1;14.54;1.02
-B16;7.39;1.42
-B24;6.13;4.26
-B39;1.76;1.0
-B41-bergen;7.59;1.12
-B41-kings;7.2;1.03
-B42;1.28;1.01
-B69;5.91;1.38
-Bx1;7.08;1.41
-Bx7;5.82;1.1
-Bx9;6.15;1.24
-Bx10;6.85;2.41
-Bx15;3.45;1.02
-Bx16;6.75;2.02
-Bx18A;1.65;2.07
-Bx18B;1.54;1.83
-Bx20;3.28;1.73
-Bx22;6.16;1.23
-Bx24;3.99;3.06
-BxM1;13.41;1.1
-BxM4;13.02;1.03
-hrl-l;2.33;3.47
-hrl-m;1.74;5.7
-M;17.45;7.07
-M7;7.73;1.17
-M9;4.34;1.41
-M10;5.17;1.02
-M31;3.79;1.46
-M35;2.34;1.68
-M42;1.95;1.01
-M50;2.23;1.16
-M125;3.12;1.37
-New Haven;69.81;1.04
-Q23;6.52;1.5
-Q33;2.32;1.28
-Q35;8.19;1.23
-Q38;7.1;24.34
-Q47;5.69;1.27
-Q49;2.44;1.52
-Q69;5.01;1.58
-Q100;5.19;1.32
-Q102;6.09;3.6
-Q104;2.85;1.55
-QM24;11.51;1.83
-S Franklin;1.36;1.0
-S Rockaway;2.67;1.23
-S42;2.5;2.63
-S55;9.08;2.29
-S57;9.21;1.71
-S62;8.19;1.07
-S74;15.8;1.38
-S89;10.97;1.12
-S92;8.1;1.05
-SIM22;23.7;1.26
+1;14.54;1.02;1: Broadway / 7 Ave;Main
+B16;7.39;1.42;B16: Fort Hamilton Pkwy / 13 & 14 Avs;Main
+B24;6.13;4.26;B24: Greenpoint / Kingsland Avs;Main
+B39;1.76;1.0;B39: Williamsburg Bridge Plaza / Brooklyn Lower East;Main
+B41-bergen;7.59;1.12;B41: Flatbush Av;to E 70 / Veterans
+B41-kings;7.2;1.03;B41: Flatbush Av;to Kings Plaza
+B42;1.28;1.01;B42: Rockaway Pkwy;Main
+B69;5.91;1.38;B69: 7 & Vanderbilt Avs;Main
+Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
+Bx7;5.82;1.1;Bx7: Riverdale - Washington Heights;Main
+Bx9;6.15;1.24;Bx9: Riverdale - West Farms Sq;Main
+Bx10;6.85;2.41;Bx10: Riverdale - Norwood;Main
+Bx15;3.45;1.02;Bx15: Fordham Plaza - The Hub via 3 Av;Main
+Bx16;6.75;2.02;Bx16: Pelham - Norwood via E 233 / Nereid Av;Main
+Bx18A;1.65;2.07;Bx18: Morris Heights / High Bridge;A: Undercliff Loop
+Bx18B;1.54;1.83;Bx18: Morris Heights / High Bridge;B: Sedgwick Loop
+Bx20;3.28;1.73;Bx20: Riverdale - Inwood;Main
+Bx22;6.16;1.23;Bx22: Bedford Park - Castle Hill;Main
+Bx24;3.99;3.06;Bx24: Country Club - Hutchinson Metro Center;Main
+BxM1;13.41;1.1;BxM1: Riverdale - East Midtown;Main
+BxM4;13.02;1.03;BxM4: Woodlawn - Midtown;Main
+hrl-l;2.33;3.47;Hudson Rail Link L;Main
+hrl-m;1.74;5.7;Hudson Rail Link M;Main
+M;17.45;7.07;M: Queens Blvd / 6 Av;Main
+M7;7.73;1.17;M7: Columbus / Amsterdam / 6 & 7 Avs;Main
+M9;4.34;1.41;M9: Bellevue Hospital Center / Battery Park City;Main
+M10;5.17;1.02;M10: Central Park W / Frederick Douglass Blvd;Main
+M31;3.79;1.46;M31: 57 St / York Av;Main
+M35;2.34;1.68;M35: Randall's / Ward's Islands;Main
+M42;1.95;1.01;M42: 42 St Crosstown;Main
+M50;2.23;1.16;M50: 49 / 50 Sts Crosstown;Main
+M125;3.12;1.37;M125: Manhattanville - The Hub via 125 St / Willis Av;Main
+New Haven;69.81;1.04;New Haven Line;Main
+Q23;6.52;1.5;Q23: 108 St;Main
+Q33;2.32;1.28;Q33: 82 / 83 Sts;Main
+Q35;8.19;1.23;Q35: Rockaway Park - Brooklyn College;Main
+Q38;7.1;24.34;Q38: Eliot Av - Penelope Av;Main
+Q47;5.69;1.27;Q47: LaGuardia Marine Air Terminal - Glendale;Main
+Q49;2.44;1.52;Q49: 35 Av;Main
+Q69;5.01;1.58;Q69: 21 St - Ditmars Blvd;Main
+Q100;5.19;1.32;Q100: Rikers Island Limited;Main
+Q102;6.09;3.6;Q102: 31 St - Roosevelt Island;Main
+Q104;2.85;1.55;Q104: Broadway / 48th St;Main
+QM24;11.51;1.83;QM24: Glendale - Midtown;Main
+S Franklin;1.36;1.0;Franklin Av Shuttle;Main
+S Rockaway;2.67;1.23;Rockaway Park Shuttle;Main
+S42;2.5;2.63;S42: St Marks Pl / Bay St;Main
+S55;9.08;2.29;S55: Annadale Rd / Richmond Av;Main
+S57;9.21;1.71;S57: Rockland / Brielle / Bradley Avs;Main
+S62;8.19;1.07;S62: Victory Blvd;Main
+S74;15.8;1.38;S74: Richmond / Arthur Kill Rds;Main
+S89;10.97;1.12;S89: Richmond Av / Bayonne;Main
+S92;8.1;1.05;S92: Victory Blvd;Main
+SIM22;23.7;1.26;SIM22: Eltingville - Midtown via Richmond Av;Main

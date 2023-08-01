@@ -1,9 +1,9 @@
-40100;2nd St / Columbia St;39.106400;-76.839177
+40100;2nd St / Columbia St;39.1064;-76.839177
 40102;2nd St / Davis Ave;39.110449;-76.836026
 30001;2nd St / Laurel Ave;39.100573;-76.845571
 30002;2nd St / Little Montgomery Ave;39.102243;-76.843808
 30003;2nd St / Main St;39.103537;-76.842443
-40101;2nd St / Midway Plaza Shopping Center;39.109230;-76.836564
+40101;2nd St / Midway Plaza Shopping Center;39.10923;-76.836564
 30004;4th St / Greenhill Ave;39.096626;-76.857225
 30006;4th St / Marshall Ave;39.098532;-76.854853
 30007;4th St / Montrose Ave (Northbound);39.097332;-76.856287
@@ -15,20 +15,20 @@
 30011;8th St / Laurel Ave (Northbound);39.105111;-76.856847
 30012;8th St / Laurel Ave (Southbound);39.105323;-76.856942
 30015;8th St / Laurel Park Apartments;39.100424;-76.857959
-30016;8th St / Laurelton Court Apartments;39.100540;-76.857780
+30016;8th St / Laurelton Court Apartments;39.10054;-76.85778
 30013;8th St / West St (Northbound);39.103172;-76.857239
 30014;8th St / West St (Southbound);39.103168;-76.857403
 40108;All Saints Rd / Bourbon St;39.123498;-76.844508
 42001;All Saints Rd / Covered Wagon Dr;39.119952;-76.849995
-40498;All Saints Rd / North Laurel Rd (Eastbound);39.121347;-76.847520
-40109;All Saints Rd / North Laurel Rd (Westbound);39.121485;-76.847670
-40110;All Saints Rd / Whiskey Run Rd;39.120032;-76.850140
+40498;All Saints Rd / North Laurel Rd (Eastbound);39.121347;-76.84752
+40109;All Saints Rd / North Laurel Rd (Westbound);39.121485;-76.84767
+40110;All Saints Rd / Whiskey Run Rd;39.120032;-76.85014
 20123;Arundel Mills Blvd / Arundel Mills Cir;39.152614;-76.728939
 20124;Arundel Mills Blvd / Flaxpool Ct;39.150599;-76.739223
 20125;Arundel Mills Blvd / Milestone Pkwy (Northbound);39.153854;-76.742585
-20126;Arundel Mills Blvd / Milestone Pkwy (Southbound);39.153510;-76.742820
+20126;Arundel Mills Blvd / Milestone Pkwy (Southbound);39.15351;-76.74282
 20127;Arundel Mills Blvd / Rotherham Dr;39.151453;-76.733935
-20128;Arundel Mills Blvd / Somerton Ct;39.152000;-76.733447
+20128;Arundel Mills Blvd / Somerton Ct;39.152;-76.733447
 20000;Arundel Mills Mall;39.153946;-76.724395
 30017;Ashford Blvd / Fenwick Ct;39.095248;-76.863446
 42002;Assateague Dr / Conowingo Dr;39.165279;-76.783117
@@ -47,16 +47,17 @@
 30021;Baltimore Ave / Muirkirk Meadows Dr (Northbound);39.060961;-76.886379
 30022;Baltimore Ave / Muirkirk Meadows Dr (Southbound);39.060908;-76.886838
 30023;Baltimore Ave / Odell Rd;39.041537;-76.904264
-30024;Baltimore Ave / Powder Mill Rd (Northbound);39.034160;-76.908186
+30024;Baltimore Ave / Powder Mill Rd (Northbound);39.03416;-76.908186
 30025;Baltimore Ave / Powder Mill Rd (Southbound);39.035028;-76.907335
 30027;Baltimore Ave / Ritz Way (Northbound);39.056645;-76.890953
-30028;Baltimore Ave / Ritz Way (Southbound);39.057430;-76.890507
+30028;Baltimore Ave / Ritz Way (Southbound);39.05743;-76.890507
 30029;Baltimore Ave / Sellman Rd;39.033719;-76.909191
 30030;Baltimore Ave / Southard Dr (Northbound);39.031745;-76.911739
 30031;Baltimore Ave / Southard Dr (Southbound);39.031905;-76.911824
 43001;Baltimore National Pike / Lotte Plaza Shopping Center;39.278437;-76.817611
-40180;Baltimore National Pike / North Chatham Rd (Eastbound);39.277255;-76.832470
+40180;Baltimore National Pike / North Chatham Rd (Eastbound);39.277255;-76.83247
 40183;Baltimore National Pike / North Chatham Rd (Westbound);39.277575;-76.831962
+43067;Baltimore National Pike / Nuwood Dr;39.286005;-76.763705
 40919;Baltimore National Pike / St. John's Ln (Eastbound);39.276793;-76.826266
 40835;Baltimore National Pike / St. John's Ln (Westbound);39.277259;-76.827706
 40906;Benson Drive Restaurant Park;39.186798;-76.801161
@@ -71,14 +72,14 @@
 40154;Broken Land Pkwy / Snowden River Pkwy;39.178068;-76.847742
 40166;Broken Land Pkwy / Stevens Forest Rd (Northbound);39.197868;-76.851392
 40171;Broken Land Pkwy / Stevens Forest Rd (Southbound);39.197629;-76.851811
-41008;Campus Dr / HCC SET Building;39.215060;-76.882113
+41008;Campus Dr / HCC SET Building;39.21506;-76.882113
 43041;Campus Dr / HCC Student Services Hall (Northbound);39.213854;-76.881704
 40655;Campus Dr / HCC Student Services Hall (Southbound);39.213605;-76.881676
 40950;Campus Dr / Hickory Ridge Rd (Northbound);39.210995;-76.879025
 40949;Campus Dr / Hickory Ridge Rd (Southbound);39.210981;-76.879235
 43040;Campus Dr / Lot C;39.215115;-76.882356
 43002;Cedar Ln / Freetown Rd;39.197114;-76.884574
-43003;Cedar Ln / Grand Banks Rd;39.219262;-76.888090
+43003;Cedar Ln / Grand Banks Rd;39.219262;-76.88809
 40533;Cedar Ln / Harpers Farm Rd;39.221168;-76.888362
 42003;Cedar Ln / Little Patuxent Pkwy (Northbound);39.215646;-76.887407
 40952;Cedar Ln / Little Patuxent Pkwy (Southbound);39.216009;-76.887689
@@ -91,14 +92,14 @@
 43006;Charter Dr / Medical Pavilion (Northbound);39.212489;-76.882973
 43007;Charter Dr / Medical Pavilion (Southbound);39.212874;-76.883347
 30165;Cherry Ln / 4th St;39.092158;-76.862558
-30034;Cherry Ln / Ashford Blvd (Eastbound);39.092710;-76.864748
+30034;Cherry Ln / Ashford Blvd (Eastbound);39.09271;-76.864748
 30035;Cherry Ln / Ashford Blvd (Westbound);39.093142;-76.865428
 30036;Cherry Ln / Belle Ami Dr (Eastbound);39.093449;-76.871148
 30037;Cherry Ln / Belle Ami Dr (Westbound);39.093754;-76.871291
 30038;Cherry Ln / Cambridge Cir;39.093038;-76.867575
 30039;Cherry Ln / Cherry Lane Ct (Eastbound);39.088811;-76.854924
 30040;Cherry Ln / Cherry Lane Ct (Westbound);39.089149;-76.854699
-30044;Cherry Ln / Cherry Lane Professional Park;39.085360;-76.849119
+30044;Cherry Ln / Cherry Lane Professional Park;39.08536;-76.849119
 30174;Cherry Ln / Kalmia Dr;39.094131;-76.873941
 30045;Cherry Ln / Kimberly Gardens;39.085641;-76.849086
 30041;Cherry Ln / Laurel Pl (Eastbound);39.091918;-76.859613
@@ -107,8 +108,8 @@
 30056;Cherrywood Ln / Beltway Plaza;38.999445;-76.911842
 30047;Cherrywood Ln / Breezewood Dr;39.002103;-76.909999
 30049;Cherrywood Ln / Edmonston Rd (Eastbound);39.010448;-76.895267
-30050;Cherrywood Ln / Edmonston Rd (Westbound);39.010841;-76.894830
-30051;Cherrywood Ln / Ivy Ln (Eastbound);39.009877;-76.898440
+30050;Cherrywood Ln / Edmonston Rd (Westbound);39.010841;-76.89483
+30051;Cherrywood Ln / Ivy Ln (Eastbound);39.009877;-76.89844
 30052;Cherrywood Ln / Ivy Ln (Westbound);39.010075;-76.898411
 30054;Cherrywood Ln / Springhill Dr;39.008509;-76.905217
 40539;Clocktower Lane Loop;39.163284;-76.845986
@@ -118,10 +119,10 @@
 40542;Columbia 100 Pkwy / Centre Park Dr;39.228632;-76.813635
 40944;Columbia Crossing Cir East (Northbound);39.196272;-76.812965
 40548;Columbia Crossing Cir East (Southbound);39.196627;-76.812663
-40549;Columbia Crossing Cir West (Northbound);39.197781;-76.814680
+40549;Columbia Crossing Cir West (Northbound);39.197781;-76.81468
 40550;Columbia Crossing Cir West (Southbound);39.197838;-76.814792
 40899;Columbia Gateway Dr / 7164;39.181452;-76.805395
-40900;Columbia Gateway Dr / 7178;39.182315;-76.803780
+40900;Columbia Gateway Dr / 7178;39.182315;-76.80378
 40896;Columbia Gateway Dr / Albert Einstein Dr;39.173862;-76.802865
 40895;Columbia Gateway Dr / Benjamin Franklin Dr;39.177844;-76.800306
 40893;Columbia Gateway Dr / Howard County Complex;39.183275;-76.801799
@@ -129,14 +130,14 @@
 40903;Columbia Gateway Dr / Robert Fulton Dr;39.174322;-76.809538
 40897;Columbia Gateway Dr / Samuel Morse Dr;39.172408;-76.806731
 40898;Columbia Gateway Dr / Thomas Edison Dr;39.179239;-76.806862
-40978;Columbia Rd / April Journey;39.231100;-76.848562
+40978;Columbia Rd / April Journey;39.2311;-76.848562
 40833;Columbia Rd / Brook Way North (Northbound);39.229503;-76.854074
 40977;Columbia Rd / Brook Way North (Southbound);39.229603;-76.854186
 40552;Columbia Rd / Brook Way South (Northbound);39.227916;-76.855873
 40553;Columbia Rd / Brook Way South (Southbound);39.227973;-76.856035
 40554;Columbia Rd / Clarksville Pike (Northbound);39.238917;-76.844109
 40555;Columbia Rd / Clarksville Pike (Southbound);39.238743;-76.844334
-40734;Columbia Rd / Tarkington Pl (Northbound);39.233558;-76.846020
+40734;Columbia Rd / Tarkington Pl (Northbound);39.233558;-76.84602
 40557;Columbia Rd / Tarkington Pl (Southbound);39.233046;-76.846634
 40558;Columbia Rd / Ten Mills Rd;39.230619;-76.852618
 40115;Community Resources Campus / Board of Elections;39.177192;-76.852819
@@ -149,29 +150,29 @@
 30063;Contee Rd / Deerfield Rd;39.073457;-76.850883
 30064;Contee Rd / Edinburgh Ln (Eastbound);39.073447;-76.853497
 30065;Contee Rd / Edinburgh Ln (Westbound);39.073608;-76.853489
-30068;Contee Rd / Larchdale Rd;39.073631;-76.860720
-30067;Contee Rd / Laurel Bowie Rd;39.073693;-76.848370
+30068;Contee Rd / Larchdale Rd;39.073631;-76.86072
+30067;Contee Rd / Laurel Bowie Rd;39.073693;-76.84837
 30066;Contee Rd / Oaklands Manor Dr;39.073726;-76.860294
 40562;Corridor Rd / Bollman Pl (Northbound);39.131923;-76.802698
 40561;Corridor Rd / Bollman Pl (Southbound);39.131805;-76.802798
-43009;Corridor Rd / Hilda Ave (Northbound);39.130518;-76.801010
+43009;Corridor Rd / Hilda Ave (Northbound);39.130518;-76.80101
 43008;Corridor Rd / Hilda Ave (Southbound);39.130692;-76.801455
-40587;Corridor Rd / Junction Dr (Northbound);39.126199;-76.797720
+40587;Corridor Rd / Junction Dr (Northbound);39.126199;-76.79772
 40563;Corridor Rd / Junction Dr (Southbound);39.126217;-76.797905
 40565;Corridor Rd / Larkin Rd (Eastbound);39.135843;-76.809279
 40564;Corridor Rd / Larkin Rd (Westbound);39.136148;-76.810057
 40560;Corridor Rd / RTA Administration (Eastbound);39.135959;-76.812013
-42004;Corridor Rd / RTA Administration (Westbound);39.136110;-76.812113
-40556;Court House Dr / Government Center (Northbound);39.275830;-76.805040
+42004;Corridor Rd / RTA Administration (Westbound);39.13611;-76.812113
+40556;Court House Dr / Government Center (Northbound);39.27583;-76.80504
 40551;Court House Dr / Government Center (Southbound);39.275611;-76.805195
-42005;Cradlerock Way / Broken Staff;39.185728;-76.848910
+42005;Cradlerock Way / Broken Staff;39.185728;-76.84891
 40174;Cradlerock Way / East Columbia Library (Eastbound);39.191167;-76.845635
 40162;Cradlerock Way / East Columbia Library (Westbound);39.191172;-76.846716
 40175;Cradlerock Way / Frietchie Row (Eastbound);39.192072;-76.843978
 40161;Cradlerock Way / Frietchie Row (Westbound);39.192499;-76.843842
-40176;Cradlerock Way / Garland Ln (Eastbound);39.194076;-76.839620
+40176;Cradlerock Way / Garland Ln (Eastbound);39.194076;-76.83962
 40160;Cradlerock Way / Garland Ln (Westbound);39.193977;-76.839202
-43048;Cradlerock Way / Hickory Log Cir;39.185974;-76.848340
+43048;Cradlerock Way / Hickory Log Cir;39.185974;-76.84834
 40157;Cradlerock Way / Smooth Path (Northbound);39.187981;-76.839914
 40179;Cradlerock Way / Smooth Path (Southbound);39.187947;-76.840097
 40155;Cradlerock Way / Swan Point Way;39.185612;-76.842693
@@ -180,7 +181,7 @@
 30069;Cypress St / Laurel Lakes Ave (Eastbound);39.082983;-76.865637
 30175;Cypress St / Laurel Lakes Ave (Westbound);39.082838;-76.864783
 40891;Dobbin Center;39.194302;-76.818835
-40572;Dorsey Hall Dr / Crossroads Professional Center (Eastbound);39.242975;-76.837790
+40572;Dorsey Hall Dr / Crossroads Professional Center (Eastbound);39.242975;-76.83779
 40976;Dorsey Hall Dr / Crossroads Professional Center (Westbound);39.243089;-76.837894
 40570;Dorsey Hall Dr / Dorsey Hall Professional Park;39.243206;-76.835312
 40577;Dorsey Hall Rd / Dorsey's Search Village Center (Eastbound);39.244005;-76.842149
@@ -195,31 +196,31 @@
 30070;Edmonston Rd / Hammett St (Northbound);39.035659;-76.898367
 30071;Edmonston Rd / Hammett St (Southbound);39.035586;-76.898571
 30072;Edmonston Rd / Old Baltimore Pike (Northbound);39.039811;-76.898387
-30073;Edmonston Rd / Old Baltimore Pike (Southbound);39.040448;-76.898710
-40735;Ellicott City Healthcare Center;39.290770;-76.821245
+30073;Edmonston Rd / Old Baltimore Pike (Southbound);39.040448;-76.89871
+40735;Ellicott City Healthcare Center;39.29077;-76.821245
 40885;Ellicott City Senior Center;39.271914;-76.838313
 40583;Ellicott Mills Dr / Main St (Northbound);39.269218;-76.801047
-40582;Ellicott Mills Dr / Main St (Southbound);39.269180;-76.801225
+40582;Ellicott Mills Dr / Main St (Southbound);39.26918;-76.801225
 40584;Ellicott Mills Dr / Milltowne Dr (Northbound);39.272857;-76.803761
-40585;Ellicott Mills Dr / Milltowne Dr (Southbound);39.272710;-76.803913
+40585;Ellicott Mills Dr / Milltowne Dr (Southbound);39.27271;-76.803913
 40544;Executive Park Dr / Columbia 100 Pkwy;39.235406;-76.815612
 30074;FDA Muirkirk Campus;39.055528;-76.861097
 40776;Florence Bain Senior Center;39.223199;-76.888322
 40591;Foreland Garth / Shalom Square;39.204927;-76.816852
 40592;Foreland Garth / Tamar Dr;39.207173;-76.813825
-20179;Fort Meade Rd / Brock Bridge Rd (Eastbound);39.100562;-76.824630
+20179;Fort Meade Rd / Brock Bridge Rd (Eastbound);39.100562;-76.82463
 20180;Fort Meade Rd / Brock Bridge Rd (Westbound);39.100619;-76.826579
 20189;Fort Meade Rd / Corridor Marketplace Shopping Center;39.097887;-76.806718
 30075;Fort Meade Rd / Dutch Country Farmer's Market;39.095187;-76.838988
 20181;Fort Meade Rd / Ethel Dr;39.100654;-76.819732
 30076;Fort Meade Rd / Laurel Plaza Shopping Center;39.095983;-76.837715
 20182;Fort Meade Rd / Laurel Race Track Rd (Eastbound);39.097594;-76.833493
-20183;Fort Meade Rd / Laurel Race Track Rd (Westbound);39.098080;-76.833377
+20183;Fort Meade Rd / Laurel Race Track Rd (Westbound);39.09808;-76.833377
 20184;Fort Meade Rd / Laureldale Dr;39.101133;-76.821309
 20190;Fort Meade Rd / Maryland City Plaza (Eastbound);39.099764;-76.814791
 20191;Fort Meade Rd / Maryland City Plaza (Westbound);39.099803;-76.813378
 20185;Fort Meade Rd / Old Annapolis Rd;39.100179;-76.816604
-20186;Fort Meade Rd / Red Clay Rd;39.098911;-76.810900
+20186;Fort Meade Rd / Red Clay Rd;39.098911;-76.8109
 20187;Fort Meade Rd / Russett Green East;39.098352;-76.807041
 20188;Fort Meade Rd / Whiskey Bottom Rd;39.100567;-76.816562
 40594;Foundry St / Washington St (Northbound);39.136887;-76.825247
@@ -236,7 +237,7 @@
 43045;Gerwig Ln / Humanim (Northbound);39.168804;-76.837052
 43044;Gerwig Ln / Humanim (Southbound);39.168801;-76.837237
 30167;Gorman Ave / Thomas Dr;39.099051;-76.851263
-43047;Gorman Rd / Falling Waters Ct (Eastbound);39.133199;-76.840250
+43047;Gorman Rd / Falling Waters Ct (Eastbound);39.133199;-76.84025
 43046;Gorman Rd / Falling Waters Ct (Westbound);39.133388;-76.840231
 42008;Gorman Rd / Foundry St (Eastbound);39.133749;-76.825437
 42009;Gorman Rd / Foundry St (Westbound);39.133897;-76.825424
@@ -246,35 +247,35 @@
 40497;Gorman Rd / Shantha Ct (Westbound);39.135378;-76.842758
 30078;Greenbelt Metro Dr / Cherrywood Ln (Northbound);39.011436;-76.904328
 30079;Greenbelt Metro Dr / Cherrywood Ln (Southbound);39.011288;-76.904327
-30080;Greenbelt Metro Station (Bus Bay B);39.011963;-76.909780
+30080;Greenbelt Metro Station (Bus Bay B);39.011963;-76.90978
 41018;Greenfield Rd / 6400;39.207572;-76.732069
 43010;Greenfield Rd / Penniman Park Apartments;39.205488;-76.731107
 40145;Guilford Rd / 12 Sons Ct;39.156846;-76.821416
 40604;Guilford Rd / Blue Sea Dr;39.168586;-76.859292
 40184;Guilford Rd / Early April Way (Eastbound);39.166984;-76.854242
-40152;Guilford Rd / Early April Way (Westbound);39.167100;-76.854131
-40609;Guilford Rd / Eden Brook Dr (Northbound);39.171730;-76.866001
-40608;Guilford Rd / Eden Brook Dr (Southbound);39.171670;-76.866292
+40152;Guilford Rd / Early April Way (Westbound);39.1671;-76.854131
+40609;Guilford Rd / Eden Brook Dr (Northbound);39.17173;-76.866001
+40608;Guilford Rd / Eden Brook Dr (Southbound);39.17167;-76.866292
 40187;Guilford Rd / Gerwig Ln (Eastbound);39.167039;-76.838758
-40149;Guilford Rd / Gerwig Ln (Westbound);39.167012;-76.839050
+40149;Guilford Rd / Gerwig Ln (Westbound);39.167012;-76.83905
 40998;Guilford Rd / Glen Oaks Ln;39.163509;-76.829833
 42012;Guilford Rd / Guilford Neighborhood Park;39.155249;-76.820611
 40605;Guilford Rd / Hammond High School;39.168401;-76.859286
 42013;Guilford Rd / Morningside Park Apartments;39.154365;-76.820104
 40189;Guilford Rd / Oakland Mills Rd;39.164066;-76.831012
 40623;Guilford Rd / Old Columbia Rd (Northbound);39.176039;-76.869856
-40622;Guilford Rd / Old Columbia Rd (Southbound);39.176030;-76.870040
+40622;Guilford Rd / Old Columbia Rd (Southbound);39.17603;-76.87004
 40148;Guilford Rd / Ridgeview Dr;39.164523;-76.833343
 40146;Guilford Rd / Stirling Bridge Dr (Northbound);39.161822;-76.824988
 40190;Guilford Rd / Stirling Bridge Dr (Southbound);39.161467;-76.824733
 40185;Guilford Rd / The Rivers Corporate Park (Eastbound);39.169424;-76.849575
 40151;Guilford Rd / The Rivers Corporate Park (Westbound);39.169478;-76.849757
-40186;Guilford Rd / The Rivers Technology Park (Eastbound);39.168660;-76.844588
+40186;Guilford Rd / The Rivers Technology Park (Eastbound);39.16866;-76.844588
 40150;Guilford Rd / The Rivers Technology Park (Westbound);39.168764;-76.844471
 40643;Guilford Rd / Vollmerhausen Rd (Northbound);39.149932;-76.816625
 40738;Guilford Rd / Vollmerhausen Rd (Southbound);39.149766;-76.816762
 42015;Guilford Rd / Washington Blvd (Northbound);39.142896;-76.808595
-42014;Guilford Rd / Washington Blvd (Southbound);39.143210;-76.809042
+42014;Guilford Rd / Washington Blvd (Southbound);39.14321;-76.809042
 40626;Harper's Choice Village Center;39.222403;-76.889814
 40629;Harpers Farm Rd / Eliots Oak Rd (Eastbound);39.221713;-76.885162
 40628;Harpers Farm Rd / Eliots Oak Rd (Westbound);39.221862;-76.885318
@@ -286,12 +287,12 @@
 43014;Hickory Ridge Rd / College Sq (Westbound);39.207191;-76.872557
 40633;Hickory Ridge Rd / Cordage Walk;39.211015;-76.880637
 43012;Hickory Ridge Rd / East Wind Way;39.208814;-76.877884
-40634;Hickory Ridge Rd / Little Patuxent Pkwy;39.209566;-76.893800
+40634;Hickory Ridge Rd / Little Patuxent Pkwy;39.209566;-76.8938
 43015;Hickory Ridge Rd / Martin Rd (Eastbound);39.206073;-76.869346
 43016;Hickory Ridge Rd / Martin Rd (Westbound);39.206357;-76.868914
 40635;Hickory Ridge Rd / Snowflake Ct;39.210567;-76.888903
 41014;Hickory Ridge Rd / Sunny Spring;39.211069;-76.884367
-41004;Hickory Ridge Village Center / Domino's Pizza;39.193939;-76.883660
+41004;Hickory Ridge Village Center / Domino's Pizza;39.193939;-76.88366
 40636;Hickory Ridge Village Center / Giant;39.195276;-76.883945
 40637;High Tor Hill / Drystraw Dr;39.216514;-76.815091
 40639;High Tor Hill / Eaglebeak Row (Northbound);39.220864;-76.812207
@@ -299,12 +300,12 @@
 43036;High Tor Hill / Elkhorn Branch Trail (Eastbound);39.223178;-76.814727
 43037;High Tor Hill / Elkhorn Branch Trail (Westbound);39.223304;-76.815075
 40638;High Tor Hill / Millwheel Pl;39.215791;-76.814992
-40641;High Tor Hill / Phelps Luck Dr (Eastbound);39.223965;-76.817580
-40642;High Tor Hill / Phelps Luck Dr (Westbound);39.224150;-76.817725
+40641;High Tor Hill / Phelps Luck Dr (Eastbound);39.223965;-76.81758
+40642;High Tor Hill / Phelps Luck Dr (Westbound);39.22415;-76.817725
 46445;High Tor Hill / Tamar Dr (Northbound);39.212666;-76.817049
 40646;High Tor Hill / Tamar Dr (Southbound);39.212969;-76.817095
-40649;Homespun Dr / Angelina Cir (Eastbound);39.190269;-76.836590
-40650;Homespun Dr / Angelina Cir (Westbound);39.190423;-76.836610
+40649;Homespun Dr / Angelina Cir (Eastbound);39.190269;-76.83659
+40650;Homespun Dr / Angelina Cir (Westbound);39.190423;-76.83661
 40651;Homespun Dr / Pigeon Wing Pl (Eastbound);39.190667;-76.832306
 40652;Homespun Dr / Pigeon Wing Pl (Westbound);39.190823;-76.832191
 41023;Howard County Circuit Court;39.269304;-76.797567
@@ -312,25 +313,25 @@
 42019;Howard County Health Department;39.192428;-76.817088
 40657;Howard County Hospital East (Northbound);39.214519;-76.884411
 43019;Howard County Hospital East (Southbound);39.214689;-76.884663
-40660;Howard County Hospital South (Northbound);39.213612;-76.884940
+40660;Howard County Hospital South (Northbound);39.213612;-76.88494
 43020;Howard County Hospital South (Southbound);39.213719;-76.885044
 30081;Kenilworth Ave / Crescent Rd;39.006879;-76.892086
 40661;Kilimanjaro Rd / Afternoon Ln;39.206706;-76.834342
 40663;Kilimanjaro Rd / Macomber Ln;39.207508;-76.839019
 40662;Kilimanjaro Rd / Matador Rd;39.206463;-76.834033
-40664;Kilimanjaro Rd / Oakland Mills High School;39.207381;-76.839480
+40664;Kilimanjaro Rd / Oakland Mills High School;39.207381;-76.83948
 40666;Kilimanjaro Rd / Pamplona Rd (Eastbound);39.206392;-76.842844
-40665;Kilimanjaro Rd / Pamplona Rd (Westbound);39.206520;-76.842906
+40665;Kilimanjaro Rd / Pamplona Rd (Westbound);39.20652;-76.842906
 43017;Kilimanjaro Rd / Reader Ln;39.208462;-76.835717
-43018;Kilimanjaro Rd / Torrent Row;39.208290;-76.835556
+43018;Kilimanjaro Rd / Torrent Row;39.20829;-76.835556
 40667;Kings Contrivance Village Center;39.169048;-76.865353
 40669;Knoll Dr / Columbia Medical Plan;39.224424;-76.840431
 40911;Lark Brown Rd / Lark Brown Centre;39.188682;-76.792666
 41002;Lark Brown Rd / Marie Curie Dr (Eastbound);39.188569;-76.793908
 41001;Lark Brown Rd / Marie Curie Dr (Westbound);39.188753;-76.794155
-40912;Lark Brown Rd / Waterloo Rd;39.188800;-76.795674
+40912;Lark Brown Rd / Waterloo Rd;39.1888;-76.795674
 30083;Laurel Bowie Rd / Bowie Rd;39.089024;-76.846495
-30084;Laurel Bowie Rd / Brock Bridge Rd;39.070545;-76.843390
+30084;Laurel Bowie Rd / Brock Bridge Rd;39.070545;-76.84339
 30097;Laurel Bowie Rd / Cherry Ln;39.086062;-76.846918
 30085;Laurel Bowie Rd / Clubhouse Blvd;39.089104;-76.846003
 30086;Laurel Bowie Rd / Contee Rd (Northbound);39.074268;-76.847853
@@ -357,14 +358,14 @@
 40957;Little Patuxent Pkwy / Century Plaza;39.214165;-76.871543
 40680;Little Patuxent Pkwy / Dark Fire Way;39.206018;-76.897507
 43038;Little Patuxent Pkwy / Faculty Dr (Eastbound);39.214383;-76.874809
-43039;Little Patuxent Pkwy / Faculty Dr (Westbound);39.214660;-76.874902
+43039;Little Patuxent Pkwy / Faculty Dr (Westbound);39.21466;-76.874902
 41003;Little Patuxent Pkwy / Governor Warfield Pkwy;39.212971;-76.868474
-40678;Little Patuxent Pkwy / Green Meadow Dr;39.212079;-76.895970
+40678;Little Patuxent Pkwy / Green Meadow Dr;39.212079;-76.89597
 40658;Little Patuxent Pkwy / Harpers Farm Rd;39.216624;-76.881312
 40951;Little Patuxent Pkwy / Lone Tree Ct;39.206917;-76.899817
 40685;Little Patuxent Pkwy / Pear Tree Way;39.212273;-76.891811
 40687;Little Patuxent Pkwy / Running Brook Rd;39.224647;-76.856898
-40673;Little Patuxent Pkwy / Sterrett Pl (Northbound);39.219090;-76.858417
+40673;Little Patuxent Pkwy / Sterrett Pl (Northbound);39.21909;-76.858417
 40674;Little Patuxent Pkwy / Sterrett Pl (Southbound);39.219407;-76.859087
 40681;Little Patuxent Pkwy / Swift Stream Pl;39.212133;-76.858126
 40686;Little Patuxent Pkwy / Vantage Point Rd;39.223858;-76.856886
@@ -375,29 +376,29 @@
 40973;Long Gate Shopping Center / Montgomery Rd;39.251955;-76.816623
 30168;Main St / 4th St;39.105921;-76.848065
 30103;Main St / C St;39.105152;-76.846311
-30104;Main St / Post Office Ave;39.107230;-76.851003
+30104;Main St / Post Office Ave;39.10723;-76.851003
 40595;Main St / Rogers Ave (Eastbound);39.268692;-76.809651
-40775;Main St / Rogers Ave (Westbound);39.268800;-76.809600
+40775;Main St / Rogers Ave (Westbound);39.2688;-76.8096
 40000;Mall in Columbia;39.214555;-76.863866
-40676;Mall in Columbia / AMC Theatre (Northbound);39.217856;-76.863400
+40676;Mall in Columbia / AMC Theatre (Northbound);39.217856;-76.8634
 40677;Mall in Columbia / AMC Theatre (Southbound);39.218082;-76.863301
 40850;Mall in Columbia / South Lot (Eastbound);39.212926;-76.863369
 43049;Mall in Columbia / South Lot (Westbound);39.213034;-76.863343
 40926;Marie Curie Dr / Gateway Overlook Dr;39.187196;-76.794821
-30106;Marshall Ave / Laurel College Center (Eastbound);39.097760;-76.852973
+30106;Marshall Ave / Laurel College Center (Eastbound);39.09776;-76.852973
 30105;Marshall Ave / Laurel College Center (Westbound);39.097785;-76.852717
 40848;Martin Rd / High Bench;39.188256;-76.872781
-40804;Martin Rd / Seneca Dr;39.190310;-76.872508
+40804;Martin Rd / Seneca Dr;39.19031;-76.872508
 42017;Miller Library;39.272307;-76.839346
 40144;Minstrel Way / Snowden River Pkwy (Northbound);39.176016;-76.845032
 40191;Minstrel Way / Snowden River Pkwy (Southbound);39.175874;-76.845321
-40579;Montgomery Rd / Elkridge Corners Shopping Center;39.208420;-76.728148
+40579;Montgomery Rd / Elkridge Corners Shopping Center;39.20842;-76.728148
 41017;Montgomery Rd / Steepridge Dr;39.211094;-76.733203
 30108;Montgomery St / 9th St;39.107023;-76.858553
 30110;Montrose Ave / 7th St (Eastbound);39.098637;-76.857772
 30111;Montrose Ave / 7th St (Westbound);39.098764;-76.857747
 40192;Morningside Park Apartments;39.153835;-76.820326
-30112;Muirkirk Meadows Dr / Baltimore Ave (Northbound);39.061130;-76.887590
+30112;Muirkirk Meadows Dr / Baltimore Ave (Northbound);39.06113;-76.88759
 30113;Muirkirk Meadows Dr / Baltimore Ave (Southbound);39.061225;-76.888043
 30114;Muirkirk Meadows Dr / Muirkirk Rd (Northbound);39.062439;-76.889059
 30115;Muirkirk Meadows Dr / Muirkirk Rd (Southbound);39.062919;-76.889254
@@ -414,7 +415,7 @@
 40964;Murray Hill Rd / Guilford Rd (Southbound);39.166488;-76.851215
 20235;National Business Pkwy / 140 (Northbound);39.126688;-76.773576
 20203;National Business Pkwy / 140 (Southbound);39.126861;-76.773679
-20233;National Business Pkwy / 430 (Northbound);39.135090;-76.767615
+20233;National Business Pkwy / 430 (Northbound);39.13509;-76.767615
 20206;National Business Pkwy / 430 (Southbound);39.134775;-76.768136
 20198;National Business Pkwy / Hercules Rd (Northbound);39.121277;-76.780193
 20199;National Business Pkwy / Hercules Rd (Southbound);39.121403;-76.780532
@@ -425,13 +426,13 @@
 20204;National Business Pkwy / Technology Dr (Northbound);39.122717;-76.776077
 20205;National Business Pkwy / Technology Dr (Southbound);39.122952;-76.776171
 40523;Normandy Center Dr / Normandy Shopping Center (Northbound);39.285621;-76.807277
-40526;Normandy Center Dr / Normandy Shopping Center (Southbound);39.285540;-76.807401
+40526;Normandy Center Dr / Normandy Shopping Center (Southbound);39.28554;-76.807401
 40490;North Laurel Community Center;39.116075;-76.836761
-40711;North Ridge Rd / Executive Center Rd;39.280515;-76.817140
-40862;Oakland Mills Rd / Berger Rd;39.176790;-76.828029
+40711;North Ridge Rd / Executive Center Rd;39.280515;-76.81714
+40862;Oakland Mills Rd / Berger Rd;39.17679;-76.828029
 40858;Oakland Mills Rd / Carters Cove;39.171294;-76.830751
-40865;Oakland Mills Rd / Dawn Day Dr;39.200925;-76.834690
-42018;Oakland Mills Rd / Deerpasture Dr;39.181260;-76.827562
+40865;Oakland Mills Rd / Dawn Day Dr;39.200925;-76.83469
+42018;Oakland Mills Rd / Deerpasture Dr;39.18126;-76.827562
 40866;Oakland Mills Rd / Dobbin Rd (Northbound);39.184789;-76.827236
 40867;Oakland Mills Rd / Dobbin Rd (Southbound);39.184404;-76.826986
 40868;Oakland Mills Rd / Fairmead Ln;39.197428;-76.834862
@@ -443,21 +444,21 @@
 40860;Oakland Mills Rd / Malindy Cir (Southbound);39.193011;-76.833055
 40857;Oakland Mills Rd / Monarch Mills Way North;39.171652;-76.830551
 40864;Oakland Mills Rd / Monarch Mills Way South;39.170268;-76.830557
-40872;Oakland Mills Rd / Oak Hall Ln (Northbound);39.183195;-76.825700
+40872;Oakland Mills Rd / Oak Hall Ln (Northbound);39.183195;-76.8257
 40873;Oakland Mills Rd / Oak Hall Ln (Southbound);39.183053;-76.825859
 40875;Oakland Mills Rd / Oakwood Business Center (Northbound);39.175896;-76.828644
 40874;Oakland Mills Rd / Oakwood Business Center (Southbound);39.175357;-76.829423
-40876;Oakland Mills Rd / Sewells Orchard Dr;39.200946;-76.834520
+40876;Oakland Mills Rd / Sewells Orchard Dr;39.200946;-76.83452
 40745;Oakland Mills Village Center;39.209894;-76.846594
 40763;Oceano Ave / Assateague Dr;39.158204;-76.780349
 40846;Old Annapolis Rd / Bendix Rd;39.234651;-76.830553
 30125;Old Baltimore Pike / Ammendale Rd (Northbound);39.048607;-76.890705
 30126;Old Baltimore Pike / Ammendale Rd (Southbound);39.048986;-76.890666
 30127;Old Baltimore Pike / Ammendale Way (Northbound);39.047022;-76.892043
-30170;Old Baltimore Pike / Ammendale Way (Southbound);39.046850;-76.892491
+30170;Old Baltimore Pike / Ammendale Way (Southbound);39.04685;-76.892491
 30128;Old Baltimore Pike / Distribution Dr (Northbound);39.055361;-76.885018
-30129;Old Baltimore Pike / Distribution Dr (Southbound);39.055470;-76.885157
-30130;Old Baltimore Pike / Industrial Dr (Northbound);39.051340;-76.888359
+30129;Old Baltimore Pike / Distribution Dr (Southbound);39.05547;-76.885157
+30130;Old Baltimore Pike / Industrial Dr (Northbound);39.05134;-76.888359
 30131;Old Baltimore Pike / Industrial Dr (Southbound);39.051133;-76.888845
 30169;Old Baltimore Pike / Mid Cities Ave (Northbound);39.053076;-76.886916
 30132;Old Baltimore Pike / Mid Cities Ave (Southbound);39.053508;-76.886825
@@ -466,7 +467,7 @@
 43023;Old Columbia Rd / Guilford Rd (Eastbound);39.176379;-76.867906
 43024;Old Columbia Rd / Guilford Rd (Westbound);39.176705;-76.867941
 40922;Old Columbia Road Circle;39.174079;-76.857997
-42016;Old Dobbin Ln / Columbia Crossing Business Center;39.201100;-76.813448
+42016;Old Dobbin Ln / Columbia Crossing Business Center;39.2011;-76.813448
 42020;Old Dobbin Ln / Long Reach High School (Northbound);39.206685;-76.812305
 42021;Old Dobbin Ln / Long Reach High School (Southbound);39.206902;-76.812501
 43025;Old Dobbin Ln / Long Reach Tennis Club;39.202962;-76.813172
@@ -478,61 +479,61 @@
 40156;Owen Brown Village Center;39.186579;-76.842531
 40709;Park View Apartments at Ellicott City;39.278528;-76.812027
 30136;Park View Apartments at Laurel;39.078877;-76.844504
-40766;Park View Apartments at Owen Brown;39.188110;-76.841424
+40766;Park View Apartments at Owen Brown;39.18811;-76.841424
 40904;Park View Apartments at Snowden River;39.199947;-76.809551
 42022;Patuxent Range Rd / Dorsey Run Rd (Eastbound);39.145708;-76.792009
 40770;Patuxent Range Rd / Dorsey Run Rd (Westbound);39.145818;-76.792342
-41024;Patuxent Woods Dr / Community Resources Campus;39.177090;-76.852138
-40773;Phelps Luck Dr / Billow Row;39.220597;-76.824580
+41024;Patuxent Woods Dr / Community Resources Campus;39.17709;-76.852138
+40773;Phelps Luck Dr / Billow Row;39.220597;-76.82458
 40774;Phelps Luck Dr / Halflight Garth;39.221051;-76.824201
-40644;Phelps Luck Dr / High Tor Hill;39.223520;-76.818753
+40644;Phelps Luck Dr / High Tor Hill;39.22352;-76.818753
 40688;Phelps Luck Dr / Lightspun Ln;39.216091;-76.821289
 40689;Phelps Luck Dr / Sheerock Ct;39.216172;-76.821425
 40691;Phelps Luck Dr / Tamar Dr (Northbound);39.213745;-76.821677
 40690;Phelps Luck Dr / Tamar Dr (Southbound);39.213738;-76.821887
 40942;Phelps Luck Dr / Thurso Ct (Northbound);39.218502;-76.823405
-40943;Phelps Luck Dr / Thurso Ct (Southbound);39.218590;-76.823747
-40694;Plumtree Dr / Harrington Dr (Northbound);39.275791;-76.835710
+40943;Phelps Luck Dr / Thurso Ct (Southbound);39.21859;-76.823747
+40694;Plumtree Dr / Harrington Dr (Northbound);39.275791;-76.83571
 40695;Plumtree Dr / Harrington Dr (Southbound);39.275839;-76.835852
 40696;Plumtree Dr / Joycin Ct (Northbound);39.273269;-76.836535
 40697;Plumtree Dr / Joycin Ct (Southbound);39.273355;-76.836663
-43027;Quarterstaff Rd / Freetown Rd;39.193441;-76.881120
-40698;Quarterstaff Rd / Martin Rd;39.193260;-76.870983
+43027;Quarterstaff Rd / Freetown Rd;39.193441;-76.88112
+40698;Quarterstaff Rd / Martin Rd;39.19326;-76.870983
 40700;Red Branch Rd / Rumsey Rd;39.231392;-76.819645
-40702;Red Branch Rd East / Old Annapolis Rd;39.227640;-76.819497
+40702;Red Branch Rd East / Old Annapolis Rd;39.22764;-76.819497
 40703;Red Branch Rd West / Old Annapolis Rd;39.230668;-76.827062
 30137;Rhode Island Ave / Baltimore Ave (Northbound);39.028953;-76.915528
-30138;Rhode Island Ave / Baltimore Ave (Southbound);39.028763;-76.915810
+30138;Rhode Island Ave / Baltimore Ave (Southbound);39.028763;-76.91581
 40707;Ridge Rd / Ellicott Center Dr (Eastbound);39.277571;-76.813915
 40706;Ridge Rd / Ellicott Center Dr (Westbound);39.277954;-76.814468
 40947;Robert Fulton Dr / 8671 (Eastbound);39.175884;-76.813113
 40948;Robert Fulton Dr / 8671 (Westbound);39.175922;-76.812706
-40713;Robert Fulton Dr / Lee Deforest Dr (Eastbound);39.176005;-76.818320
+40713;Robert Fulton Dr / Lee Deforest Dr (Eastbound);39.176005;-76.81832
 40714;Robert Fulton Dr / Lee Deforest Dr (Westbound);39.176024;-76.817719
 40715;Rogers Ave / Baltimore National Pike (Northbound);39.282024;-76.809671
 40716;Rogers Ave / Baltimore National Pike (Southbound);39.281872;-76.809847
-42023;Rogers Ave / Ellicott Center Dr;39.279900;-76.808761
+42023;Rogers Ave / Ellicott Center Dr;39.2799;-76.808761
 40939;Rogers Ave / Oak West Dr;39.279814;-76.808505
 30139;Route 197 Park & Ride;39.078295;-76.847031
 43033;Rowanberry Dr / Bayberry Ct;39.205936;-76.735042
 40541;Rowanberry Dr / Elkridge Library (Northbound);39.202063;-76.735369
-40580;Rowanberry Dr / Elkridge Library (Southbound);39.201920;-76.735478
+40580;Rowanberry Dr / Elkridge Library (Southbound);39.20192;-76.735478
 40718;Rowanberry Dr / Greenfield Rd;39.207516;-76.734148
 40719;Rowanberry Dr / Montgomery Rd;39.210453;-76.736625
 40720;Rowanberry Dr / Orchard Club Dr;39.205862;-76.734867
-30135;Sandy Spring Rd / Westview Terrace;39.105926;-76.863760
+30135;Sandy Spring Rd / Westview Terrace;39.105926;-76.86376
 40139;Savage Guilford Rd / Baltimore St (Northbound);39.138237;-76.824051
 42024;Savage Guilford Rd / Baltimore St (Southbound);39.138203;-76.824191
-40196;Savage Guilford Rd / Lincoln St (Northbound);39.140480;-76.824442
+40196;Savage Guilford Rd / Lincoln St (Northbound);39.14048;-76.824442
 40140;Savage Guilford Rd / Lincoln St (Southbound);39.140639;-76.824626
 42025;Savage Guilford Rd / Patuxent Valley Middle School (Northbound);39.147573;-76.826806
 42026;Savage Guilford Rd / Patuxent Valley Middle School (Southbound);39.147518;-76.826957
 42027;Savage MARC Station;39.123801;-76.796009
 40573;Selborne House of Dorsey Hall;39.246768;-76.832014
 40522;Shaker Dr / Atholton Shopping Center (Northbound);39.184986;-76.871352
-40517;Shaker Dr / Atholton Shopping Center (Southbound);39.184710;-76.871668
+40517;Shaker Dr / Atholton Shopping Center (Southbound);39.18471;-76.871668
 40518;Shaker Dr / Cape Ann Dr (Eastbound);39.179772;-76.867587
-40521;Shaker Dr / Cape Ann Dr (Westbound);39.179920;-76.867704
+40521;Shaker Dr / Cape Ann Dr (Westbound);39.17992;-76.867704
 40928;Shaker Dr / Seneca Farm Rd (Northbound);39.189473;-76.868419
 40960;Shaker Dr / Seneca Farm Rd (Southbound);39.189563;-76.868619
 40520;Shaker Dr / South Carlinda Ave (Eastbound);39.179413;-76.859494
@@ -555,7 +556,7 @@
 30142;South Laurel Dr / Laurelwalk Dr;39.046229;-76.837696
 30143;South Laurel Dr / Tabernacle Church of Laurel;39.048545;-76.837852
 40710;Stanford Blvd / Lakeside Retail Center;39.191676;-76.818088
-41000;Stanford Blvd / McGaw Rd (Northbound);39.187180;-76.818760
+41000;Stanford Blvd / McGaw Rd (Northbound);39.18718;-76.81876
 42029;Stanford Blvd / McGaw Rd (Southbound);39.187439;-76.818894
 40946;Stanford Blvd / Stanford Boulevard Cir (Eastbound);39.191635;-76.817061
 40945;Stanford Blvd / Stanford Boulevard Cir (Westbound);39.191736;-76.817057
@@ -563,7 +564,7 @@
 43029;Stanford Blvd / University of Phoenix (Southbound);39.189922;-76.817332
 42030;Stayton Dr / Patuxent Range Rd (Northbound);39.148397;-76.799684
 42031;Stayton Dr / Patuxent Range Rd (Southbound);39.148542;-76.799773
-42032;Stayton Dr / Sandy Ct (Northbound);39.143331;-76.805100
+42032;Stayton Dr / Sandy Ct (Northbound);39.143331;-76.8051
 42033;Stayton Dr / Sandy Ct (Southbound);39.143472;-76.805153
 42034;Stayton Dr / Wellmoor Ct (Northbound);39.146229;-76.801808
 42035;Stayton Dr / Wellmoor Ct (Southbound);39.146345;-76.801921
@@ -577,7 +578,7 @@
 40631;Sunny Spring / Hickory Ridge Rd (Northbound);39.210526;-76.884839
 40632;Sunny Spring / Hickory Ridge Rd (Southbound);39.210638;-76.884978
 42036;Sunny Spring / Misty Arch Run (Northbound);39.207728;-76.884742
-42037;Sunny Spring / Misty Arch Run (Southbound);39.208006;-76.884920
+42037;Sunny Spring / Misty Arch Run (Southbound);39.208006;-76.88492
 40749;Sunny Spring / Owen Brown Rd (Northbound);39.199209;-76.882305
 40750;Sunny Spring / Owen Brown Rd (Southbound);39.199161;-76.882421
 40747;Sunny Spring / Slender Sky;39.204756;-76.882068
@@ -591,12 +592,12 @@
 40756;Tamar Dr / Flamepool Way (Southbound);39.210669;-76.824134
 40752;Tamar Dr / Hayshed Ln (Northbound);39.209857;-76.815808
 40751;Tamar Dr / Hayshed Ln (Southbound);39.209572;-76.815937
-40648;Tamar Dr / High Tor Hill (Eastbound);39.212170;-76.817046
+40648;Tamar Dr / High Tor Hill (Eastbound);39.21217;-76.817046
 40647;Tamar Dr / High Tor Hill (Westbound);39.212291;-76.816913
 40914;Tamar Dr / Old Dobbin Ln (Eastbound);39.207189;-76.812016
-40915;Tamar Dr / Old Dobbin Ln (Westbound);39.207320;-76.812011
+40915;Tamar Dr / Old Dobbin Ln (Westbound);39.20732;-76.812011
 40693;Tamar Dr / Phelps Luck Dr (Eastbound);39.213205;-76.822034
-40692;Tamar Dr / Phelps Luck Dr (Westbound);39.213340;-76.822125
+40692;Tamar Dr / Phelps Luck Dr (Westbound);39.21334;-76.822125
 40916;Tamar Dr / Snowden River Pkwy (Eastbound);39.207284;-76.807439
 40913;Tamar Dr / Snowden River Pkwy (Westbound);39.207469;-76.807637
 40758;Thunder Hill Rd / Longlook Ln (Northbound);39.215251;-76.840445
@@ -608,40 +609,41 @@
 40796;Thunder Hill Rd / White Acre Rd;39.211842;-76.841745
 40800;Toll House Rd / Manahan Dr (Northbound);39.265998;-76.818358
 40799;Toll House Rd / Manahan Dr (Southbound);39.266054;-76.818528
-40801;Toll House Rd / Old Columbia Pike (Northbound);39.257537;-76.818140
+40801;Toll House Rd / Old Columbia Pike (Northbound);39.257537;-76.81814
 40802;Toll House Rd / Old Columbia Pike (Southbound);39.257458;-76.818281
 40972;Town and Country Blvd / North Ridge Rd (Eastbound);39.287112;-76.819824
 40806;Town and Country Blvd / North Ridge Rd (Westbound);39.287247;-76.819949
 40805;Town and Country Blvd / Rogers Ave (Eastbound);39.287063;-76.811196
 40803;Town and Country Blvd / Rogers Ave (Westbound);39.287191;-76.811177
 40971;Town and Country Blvd / West Springs Dr (Eastbound);39.287031;-76.815861
-40807;Town and Country Blvd / West Springs Dr (Westbound);39.287180;-76.816255
+40807;Town and Country Blvd / West Springs Dr (Westbound);39.28718;-76.816255
 30000;Towne Centre Laurel;39.094751;-76.859126
 40814;Twin Rivers Rd / Harpers Farm Rd (Eastbound);39.219519;-76.879444
-40811;Twin Rivers Rd / Harpers Farm Rd (Westbound);39.219702;-76.879430
+40811;Twin Rivers Rd / Harpers Farm Rd (Westbound);39.219702;-76.87943
 42814;Twin Rivers Rd / Trumpeter Rd (Eastbound);39.219152;-76.870305
 40813;Twin Rivers Rd / Trumpeter Rd (Westbound);39.219263;-76.870163
-30149;Van Dusen Rd / Alan Dr;39.099200;-76.872361
+30149;Van Dusen Rd / Alan Dr;39.0992;-76.872361
 30150;Van Dusen Rd / Cherry Ln (Northbound);39.094012;-76.875614
-30151;Van Dusen Rd / Cherry Ln (Southbound);39.093850;-76.875879
+30151;Van Dusen Rd / Cherry Ln (Southbound);39.09385;-76.875879
 30152;Van Dusen Rd / Erica Ln;39.096918;-76.874325
-30153;Van Dusen Rd / Killbarron Dr;39.088940;-76.876744
+30153;Van Dusen Rd / Killbarron Dr;39.08894;-76.876744
 30154;Van Dusen Rd / Olive Branch Way;39.089587;-76.876606
-30172;Van Dusen Rd / UM Laurel Medical Center (Northbound);39.086041;-76.879760
-30171;Van Dusen Rd / UM Laurel Medical Center (Southbound);39.086465;-76.879580
+30172;Van Dusen Rd / UM Laurel Medical Center (Northbound);39.086041;-76.87976
+30171;Van Dusen Rd / UM Laurel Medical Center (Southbound);39.086465;-76.87958
 40837;Vollmerhausen Rd / Birchwood Way;39.149278;-76.818205
-40142;Vollmerhausen Rd / Castleford Dr;39.148593;-76.820450
-40194;Vollmerhausen Rd / Rosewood Way;39.148715;-76.820570
+40142;Vollmerhausen Rd / Castleford Dr;39.148593;-76.82045
+40194;Vollmerhausen Rd / Rosewood Way;39.148715;-76.82057
 40838;Vollmerhausen Rd / Willowwood Way;39.149038;-76.818418
+43069;Walmart / Catonsville;39.282747;-76.753464
 40841;Walmart at Ellicott City;39.282252;-76.821557
 20231;Walmart at Russett Green East - Laurel;39.100986;-76.802691
-40816;Washington Blvd / Blue Stream Dr (Northbound);39.176784;-76.774200
+40816;Washington Blvd / Blue Stream Dr (Northbound);39.176784;-76.7742
 40834;Washington Blvd / Blue Stream Dr (Southbound);39.176886;-76.774516
 30155;Washington Blvd / Bowie Rd;39.097559;-76.850563
 40103;Washington Blvd / Brewers Ct (Northbound);39.114461;-76.833057
-40209;Washington Blvd / Brewers Ct (Southbound);39.114651;-76.833310
+40209;Washington Blvd / Brewers Ct (Southbound);39.114651;-76.83331
 40820;Washington Blvd / Cedar Ave;39.167596;-76.789443
-30156;Washington Blvd / Compton Ave;39.098940;-76.849088
+30156;Washington Blvd / Compton Ave;39.09894;-76.849088
 40988;Washington Blvd / Cooney Ln (Northbound);39.181911;-76.766538
 40819;Washington Blvd / Cooney Ln (Southbound);39.182885;-76.765583
 40966;Washington Blvd / Corridor Rd;39.135391;-76.814726
@@ -654,30 +656,30 @@
 40206;Washington Blvd / Freestate Dr (Southbound);39.127449;-76.821992
 40967;Washington Blvd / Gorman Rd;39.130375;-76.819657
 40210;Washington Blvd / Hill St;39.113697;-76.834316
-40968;Washington Blvd / Howard St;39.135370;-76.815907
+40968;Washington Blvd / Howard St;39.13537;-76.815907
 30159;Washington Blvd / Laurel Ave;39.101361;-76.846543
-40982;Washington Blvd / Loudon Ave (Northbound);39.198180;-76.740118
-40983;Washington Blvd / Loudon Ave (Southbound);39.198360;-76.740295
+40982;Washington Blvd / Loudon Ave (Northbound);39.19818;-76.740118
+40983;Washington Blvd / Loudon Ave (Southbound);39.19836;-76.740295
 40207;Washington Blvd / Lynn Buff Ct;39.122531;-76.825855
 40211;Washington Blvd / Madison Ave;39.108646;-76.838869
 40128;Washington Blvd / Maier Rd;39.121069;-76.826749
 40830;Washington Blvd / Meadowridge Rd;39.183581;-76.764589
 40986;Washington Blvd / Mission Place Apartments;39.162845;-76.793302
 40832;Washington Blvd / Port Capital Dr (Northbound);39.174568;-76.778364
-40985;Washington Blvd / Port Capital Dr (Southbound);39.174420;-76.779210
+40985;Washington Blvd / Port Capital Dr (Southbound);39.17442;-76.77921
 30160;Washington Blvd / Prince George St;39.103303;-76.844482
 40129;Washington Blvd / Savage Industrial Park;39.124115;-76.824284
-40808;Washington Blvd / Troy Hill Dr;39.195139;-76.746380
+40808;Washington Blvd / Troy Hill Dr;39.195139;-76.74638
 40909;Waterloo Park;39.182759;-76.786661
 40107;Whiskey Bottom Rd / All Saints Rd;39.125156;-76.843111
 40105;Whiskey Bottom Rd / Glen Ridge Dr;39.120452;-76.837823
 40491;Whiskey Bottom Rd / Harmony Ln;39.124322;-76.841642
 42041;Whiskey Bottom Rd / Manorwood Rd;39.120744;-76.838113
 40106;Whiskey Bottom Rd / Moonshine Hollow;39.123762;-76.841342
-40797;White Acre Rd / Basket Ring Dr (Eastbound);39.212060;-76.845496
+40797;White Acre Rd / Basket Ring Dr (Eastbound);39.21206;-76.845496
 40798;White Acre Rd / Basket Ring Dr (Westbound);39.212169;-76.845694
 40843;Wilde Lake Village Center (Northbound);39.219898;-76.875821
-42042;Wilde Lake Village Center (Southbound);39.219900;-76.875985
+42042;Wilde Lake Village Center (Southbound);39.2199;-76.875985
 40815;Windstream Dr / Mall in Columbia (Northbound);39.219407;-76.861096
 40675;Windstream Dr / Mall in Columbia (Southbound);39.219343;-76.861396
 40173;Woodside Ct / Humanim;39.193577;-76.852446

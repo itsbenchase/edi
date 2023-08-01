@@ -1,3 +1,20 @@
+40000;Mall in Columbia;39.214555;-76.863866;505;1
+40676;Mall in Columbia / AMC Theatre (Northbound);39.217856;-76.8634;505;2
+40815;Windstream Dr / Mall in Columbia (Northbound);39.219407;-76.861096;505;3
+40686;Little Patuxent Pkwy / Vantage Point Rd;39.223858;-76.856886;505;4
+40974;Long Gate Shopping Center / Long Gate Pkwy;39.250209;-76.816027;505;5
+40973;Long Gate Shopping Center / Montgomery Rd;39.251955;-76.816623;505;6
+40523;Normandy Center Dr / Normandy Shopping Center (Northbound);39.285621;-76.807277;505;7
+40803;Town and Country Blvd / Rogers Ave (Westbound);39.287191;-76.811177;505;8
+40807;Town and Country Blvd / West Springs Dr (Westbound);39.28718;-76.816255;505;9
+40806;Town and Country Blvd / North Ridge Rd (Westbound);39.287247;-76.819949;505;10
+40841;Walmart at Ellicott City;39.282252;-76.821557;505;11
+40972;Town and Country Blvd / North Ridge Rd (Eastbound);39.287112;-76.819824;505;12
+40971;Town and Country Blvd / West Springs Dr (Eastbound);39.287031;-76.815861;505;13
+40805;Town and Country Blvd / Rogers Ave (Eastbound);39.287063;-76.811196;505;14
+40526;Normandy Center Dr / Normandy Shopping Center (Southbound);39.28554;-76.807401;505;15
+43067;Baltimore National Pike / Nuwood Dr;39.286005;-76.763705;505;16
+43069;Walmart / Catonsville;39.282747;-76.753464;505;17
 40000;Mall in Columbia;39.214555;-76.863866;503;1
 43052;Broken Land Pkwy / Gramercy Pl (Southbound);39.212944;-76.866873;503;2
 40167;Broken Land Pkwy / Hickory Ridge Rd (Southbound);39.207032;-76.866981;503;3
@@ -344,26 +361,26 @@
 40544;Executive Park Dr / Columbia 100 Pkwy;39.235406;-76.815612;403;16
 40975;Columbia 100 Pkwy / Blue Wing Ct;39.233853;-76.816082;403;17
 40542;Columbia 100 Pkwy / Centre Park Dr;39.228632;-76.813635;403;18
-40000;Mall in Columbia;39.214555;-76.863866;402A;1
-40676;Mall in Columbia / AMC Theatre (Northbound);39.217856;-76.8634;402A;2
-40815;Windstream Dr / Mall in Columbia (Northbound);39.219407;-76.861096;402A;3
-40686;Little Patuxent Pkwy / Vantage Point Rd;39.223858;-76.856886;402A;4
-43043;Lightning View Rd / Weatherside Run;39.220847;-76.836725;402A;5
-40669;Knoll Dr / Columbia Medical Plan;39.224424;-76.840431;402A;6
-40670;Lightning View Rd / Thunder Hill Rd;39.220524;-76.836925;402A;7
-40755;Tamar Dr / Flamepool Way (Northbound);39.210708;-76.823908;402A;8
-40693;Tamar Dr / Phelps Luck Dr (Eastbound);39.213205;-76.822034;402A;9
-40648;Tamar Dr / High Tor Hill (Eastbound);39.21217;-76.817046;402A;10
-40751;Tamar Dr / Hayshed Ln (Southbound);39.209572;-76.815937;402A;11
-40753;Tamar Dr / Cloudleap Ct (Eastbound);39.208275;-76.815298;402A;12
-40591;Foreland Garth / Shalom Square;39.204927;-76.816852;402A;13
-40592;Foreland Garth / Tamar Dr;39.207173;-76.813825;402A;14
-40914;Tamar Dr / Old Dobbin Ln (Eastbound);39.207189;-76.812016;402A;15
-40916;Tamar Dr / Snowden River Pkwy (Eastbound);39.207284;-76.807439;402A;16
-40904;Park View Apartments at Snowden River;39.199947;-76.809551;402A;17
-40944;Columbia Crossing Cir East (Northbound);39.196272;-76.812965;402A;18
-40549;Columbia Crossing Cir West (Northbound);39.197781;-76.81468;402A;19
-40891;Dobbin Center;39.194302;-76.818835;402A;20
+40000;Mall in Columbia;39.214555;-76.863866;402;1
+40676;Mall in Columbia / AMC Theatre (Northbound);39.217856;-76.8634;402;2
+40815;Windstream Dr / Mall in Columbia (Northbound);39.219407;-76.861096;402;3
+40686;Little Patuxent Pkwy / Vantage Point Rd;39.223858;-76.856886;402;4
+43043;Lightning View Rd / Weatherside Run;39.220847;-76.836725;402;5
+40669;Knoll Dr / Columbia Medical Plan;39.224424;-76.840431;402;6
+40670;Lightning View Rd / Thunder Hill Rd;39.220524;-76.836925;402;7
+40755;Tamar Dr / Flamepool Way (Northbound);39.210708;-76.823908;402;8
+40693;Tamar Dr / Phelps Luck Dr (Eastbound);39.213205;-76.822034;402;9
+40648;Tamar Dr / High Tor Hill (Eastbound);39.21217;-76.817046;402;10
+40751;Tamar Dr / Hayshed Ln (Southbound);39.209572;-76.815937;402;11
+40753;Tamar Dr / Cloudleap Ct (Eastbound);39.208275;-76.815298;402;12
+40591;Foreland Garth / Shalom Square;39.204927;-76.816852;402;13
+40592;Foreland Garth / Tamar Dr;39.207173;-76.813825;402;14
+40914;Tamar Dr / Old Dobbin Ln (Eastbound);39.207189;-76.812016;402;15
+40916;Tamar Dr / Snowden River Pkwy (Eastbound);39.207284;-76.807439;402;16
+40904;Park View Apartments at Snowden River;39.199947;-76.809551;402;17
+40944;Columbia Crossing Cir East (Northbound);39.196272;-76.812965;402;18
+40549;Columbia Crossing Cir West (Northbound);39.197781;-76.81468;402;19
+40891;Dobbin Center;39.194302;-76.818835;402;20
 40000;Mall in Columbia;39.214555;-76.863866;401;1
 40813;Twin Rivers Rd / Trumpeter Rd (Westbound);39.219263;-76.870163;401;2
 42042;Wilde Lake Village Center (Southbound);39.2199;-76.875985;401;3
