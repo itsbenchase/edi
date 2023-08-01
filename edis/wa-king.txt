@@ -1,13 +1,13 @@
-A;10.67;1.05
-B;8.9;1.66
-C;9.89;1.33
-D;8.31;1.16
-E;13.13;1.04
-F;10.15;1.52
-1;4.16;1.11
-22;6.53;1.66
-24;9.34;1.64
-50-othello;13.75;2.11
-50-sodo;6.53;1.68
-331;8.92;1.68
-345;5.73;1.68
+A;10.67;1.05;A Line: Tukwila International Blvd - Federal Way TC;Main
+B;8.9;1.66;B Line: Redmond - Overlake - Crossroads - Bellevue;Main
+C;9.89;1.33;C Line: South Lake Union - Alaska Jct - Westwood Village;Main
+D;8.31;1.16;D Line: Crown Hill - Ballard - Interbay - Uptown;Main
+E;13.13;1.04;E Line: Aurora Village TC - Bitter Lake - West Green Lake;Main
+F;10.15;1.52;F Line: Burien TC - SeaTac - Tukwila - Renton TC - The Landing;Main
+1;4.16;1.11;1: Kinnear - Seattle Center - Downtown Seattle;Main
+22;6.53;1.66;22: Arbor Heights - Westwood Village - Gatewood - Alaska Jct;Main
+24;9.34;1.64;24: Magnolia - Seattle Center - Downtown Seattle;Main
+50-othello;13.75;2.11;50: Alki - Alaska Jct - SODO - Othello;to Othello Station
+50-sodo;6.53;1.68;50: Alki - Alaska Jct - SODO - Othello;to SODO
+331;8.92;1.68;331: Kenmore - Lake Forest Park - Aurora Village - Shoreline;Main
+345;5.73;1.68;345: Shoreline - Haller Lake - Northgate;Main
