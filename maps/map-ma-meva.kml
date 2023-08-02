@@ -51,7 +51,7 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>34-out</name>
+		<name>4-out</name>
 		<styleUrl>#2.0</styleUrl>
 		<description>Agency: ma-meva<br/>EDI: 2.28</description>
 		<LineString> 
@@ -77,7 +77,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34-in</name>
+		<name>4-in</name>
 		<styleUrl>#2.0</styleUrl>
 		<description>Agency: ma-meva<br/>EDI: 2.38</description>
 		<LineString> 

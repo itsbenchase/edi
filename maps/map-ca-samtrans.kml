@@ -111,7 +111,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>278-s</name>
+		<name>278-w</name>
 		<styleUrl>#1.5</styleUrl>
 		<description>Agency: ca-samtrans<br/>EDI: 1.5</description>
 		<LineString> 
@@ -136,7 +136,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>278-n</name>
+		<name>278-e</name>
 		<styleUrl>#2.0</styleUrl>
 		<description>Agency: ca-samtrans<br/>EDI: 2.15</description>
 		<LineString> 

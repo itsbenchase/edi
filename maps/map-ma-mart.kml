@@ -109,8 +109,6 @@
 	</Placemark>
 	<Placemark> 
 		<name>worcester</name>
-		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mart<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-71.760579,42.275058,0

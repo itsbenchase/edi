@@ -43,6 +43,7 @@ public class StatsList
       fileWriter1.append("<ul><li><a href=index.html>Home</a></li>");
       fileWriter1.append("<li><a href=stops.html>Stop Listing</a></li> \n");
       fileWriter1.append("<li><a href=routes.html>Route Listing</a></li> \n");
+      fileWriter1.append("<li><a href=detailed.html>Route Detail</a></li> \n");
       fileWriter1.append("<li><a href=stats.html class=active>Statistics</a></li> \n");
       fileWriter1.append("<li><a href=calculator.html>Calculator</a></li></ul> \n");
       fileWriter1.append("<h1>Statistics</h1> \n");
@@ -71,7 +72,7 @@ public class StatsList
             data = data.substring(data.indexOf(";") + 1);
             double miles = Double.parseDouble(data.substring(0, data.indexOf(";")));
             data = data.substring(data.indexOf(";") + 1);
-            double edi = Double.parseDouble(data);
+            double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
 
             lengths.add(miles);
             edis.add(edi);

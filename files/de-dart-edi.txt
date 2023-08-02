@@ -1,3 +1,1762 @@
+3852;Lewes Transit Center;38.748176;-75.169855;307;1
+4013;Bayhealth Campus Main Hospital;38.885264;-75.390882;307;2
+3946;Perdue Milford;38.922161;-75.42311;307;3
+453;Super Wal-mart On-site;38.929727;-75.434225;307;4
+4098;Frederica Park N Ride;38.989853;-75.445272;307;5
+3275;Transportation Cir opp Dmv Admin Bld;39.148588;-75.507056;307;6
+3268;Public Safety Blvd @ Central Dist;39.150344;-75.510979;307;7
+571;M L King Blvd @ Courtside Apts;39.157778;-75.514403;307;8
+582;Duke Of York St @ Legislative Av;39.158116;-75.519167;307;9
+3807;Federal St @ Water St Ib;39.155362;-75.521522;307;10
+3777;Dover Transit Center;39.152653;-75.529575;307;11
+4050;Wilmington Tc (Inside);39.737157;-75.549397;305: Wilmington - Rehoboth;1
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;305: Wilmington - Rehoboth;2
+3136;Odessa Park & Ride (DE 299 & DE 1);39.45441;-75.678407;305: Wilmington - Rehoboth;3
+3137;Scarborough Rd P&r;39.196973;-75.559359;305: Wilmington - Rehoboth;4
+3852;Lewes Transit Center;38.748176;-75.169855;305: Wilmington - Rehoboth;5
+416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;305: Wilmington - Rehoboth;6
+422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;305: Wilmington - Rehoboth;7
+392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;305: Wilmington - Rehoboth;8
+3737;Georgetown Transit Hub;38.693068;-75.384975;303-express;1
+3963;Perdue Georgetown;38.697966;-75.38248;303-express;2
+3821;DE 18/404 @ US 113 Boulevard Ford;38.698545;-75.398473;303-express;3
+3590;US Rt 113 @ Georgetown Professional Plaza;38.704226;-75.402114;303-express;4
+3298;US Rt 113 Express Only @ SR 16;38.807333;-75.438467;303-express;5
+453;Super Wal-mart On-site;38.929727;-75.434225;303-express;6
+3777;Dover Transit Center;39.152653;-75.529575;303-express;7
+3777;Dover Transit Center;39.152653;-75.529575;303: Intercounty Dover / Georgetown;1
+4029;Pow/mia Pkwy @ Eden Park S;39.149214;-75.539985;303: Intercounty Dover / Georgetown;2
+4026;Pow/mia Pkwy @ Rodney Village S;39.125185;-75.533665;303: Intercounty Dover / Georgetown;3
+3073;US Rt 13 @ Faith Comm Chrch;39.116777;-75.535986;303: Intercounty Dover / Georgetown;4
+3640;DE 10 @ Moores Lake Sc;39.117691;-75.516723;303: Intercounty Dover / Georgetown;5
+3074;State St opp Richardson Ln;39.116769;-75.515528;303: Intercounty Dover / Georgetown;6
+3075;State St @ Howe Dr;39.111753;-75.514973;303: Intercounty Dover / Georgetown;7
+3076;State St @ Sorghum Mill Rd;39.100949;-75.513636;303: Intercounty Dover / Georgetown;8
+3077;State St @ Fosky Dr;39.095658;-75.508394;303: Intercounty Dover / Georgetown;9
+3502;State St @ Brookdale Rd;39.084849;-75.489843;303: Intercounty Dover / Georgetown;10
+3309;State St @ Woodleytown Rd;39.078753;-75.483478;303: Intercounty Dover / Georgetown;11
+3078;Main St @ Walnut St (Magnolia);39.071137;-75.475945;303: Intercounty Dover / Georgetown;12
+3079;Clapham Rd @ Jury Dr;39.052781;-75.462123;303: Intercounty Dover / Georgetown;13
+3080;Clapham Rd opp Mulberrie Pt;39.050668;-75.460331;303: Intercounty Dover / Georgetown;14
+3454;Frederica Rd @ Front St / DE 12;39.00935;-75.464809;303: Intercounty Dover / Georgetown;15
+3604;US 113 @ Cicadia Ln (Rd 403);38.96606;-75.432348;303: Intercounty Dover / Georgetown;16
+3542;US Rt 113 @ Super 8 Motel;38.949277;-75.425918;303: Intercounty Dover / Georgetown;17
+493;Milford Commons On-site;38.933003;-75.433381;303: Intercounty Dover / Georgetown;18
+453;Super Wal-mart On-site;38.929727;-75.434225;303: Intercounty Dover / Georgetown;19
+3949;Rehoboth Blvd opp Perdue;38.922054;-75.423272;303: Intercounty Dover / Georgetown;20
+454;N Walnut St @ Park St - DHSS;38.913272;-75.428455;303: Intercounty Dover / Georgetown;21
+2949;S Walnut St @ Se 2nd St;38.911143;-75.428534;303: Intercounty Dover / Georgetown;22
+2950;S Walnut St @ Barker St;38.910167;-75.428695;303: Intercounty Dover / Georgetown;23
+2951;S Walnut St @ Kings Hwy;38.905817;-75.429414;303: Intercounty Dover / Georgetown;24
+2952;S Walnut St @ W Clarke St;38.904464;-75.429645;303: Intercounty Dover / Georgetown;25
+2953;S Walnut St @ Wilbur St;38.901212;-75.430237;303: Intercounty Dover / Georgetown;26
+455;S Walnut St @ Mispillion Apts;38.895196;-75.430121;303: Intercounty Dover / Georgetown;27
+3533;Rd 213 @ Susquehanna Ave;38.874988;-75.428312;303: Intercounty Dover / Georgetown;28
+2954;Rd 207 @ Rd 213;38.870961;-75.429986;303: Intercounty Dover / Georgetown;29
+3629;US 113 @ Johnson Rd;38.868489;-75.43959;303: Intercounty Dover / Georgetown;30
+4032;SR 16 @ US 113;38.806705;-75.437337;303: Intercounty Dover / Georgetown;31
+2956;DE 16 @ Ellegood Ave;38.806928;-75.427406;303: Intercounty Dover / Georgetown;32
+2957;DE 16 @ Mccaully Ave;38.806993;-75.424668;303: Intercounty Dover / Georgetown;33
+3534;DE 16 @ Ponder Ave Eb;38.807086;-75.42009;303: Intercounty Dover / Georgetown;34
+3395;DE 16 opp Church Of Jcaf;38.791905;-75.375884;303: Intercounty Dover / Georgetown;35
+2958;DE 16 @ Mulberry St;38.787702;-75.319119;303: Intercounty Dover / Georgetown;36
+456;Palmer St @ Luther Towers;38.785518;-75.309925;303: Intercounty Dover / Georgetown;37
+2959;DE 5 @ Willow St;38.783657;-75.313917;303: Intercounty Dover / Georgetown;38
+2960;Union St @ Magnolia St;38.778684;-75.31116;303: Intercounty Dover / Georgetown;39
+2961;Federal St opp Wharton St;38.774886;-75.311788;303: Intercounty Dover / Georgetown;40
+3711;Federal St opp New St;38.771337;-75.314522;303: Intercounty Dover / Georgetown;41
+439;US Rt 9 @ DE 5;38.724753;-75.286366;303: Intercounty Dover / Georgetown;42
+4025;US Rt 9 @ Emerson Way;38.716554;-75.311093;303: Intercounty Dover / Georgetown;43
+653;US Rt 9 @ DE 30;38.713963;-75.317453;303: Intercounty Dover / Georgetown;44
+3388;US Rt 9 opp Stiener Rd;38.708212;-75.337265;303: Intercounty Dover / Georgetown;45
+3546;US Rt 9 @ Sand Hill Rd;38.698905;-75.369015;303: Intercounty Dover / Georgetown;46
+654;US Rt 9 opp Dollar Store;38.695111;-75.379551;303: Intercounty Dover / Georgetown;47
+3963;Perdue Georgetown;38.697966;-75.38248;303: Intercounty Dover / Georgetown;48
+440;US Rt 9 @ N Railroad Ave;38.69212;-75.383414;303: Intercounty Dover / Georgetown;49
+3737;Georgetown Transit Hub;38.693068;-75.384975;303: Intercounty Dover / Georgetown;50
+3777;Dover Transit Center;39.152653;-75.529575;302;1
+2863;Queen St @ Queen Manor Apts;39.154706;-75.528406;302;2
+2864;Queen St @ Loockerman St;39.156828;-75.529233;302;3
+3849;Queen St @ Reed St Nb;39.158853;-75.530054;302;4
+2698;Division St @ Kirkwood St;39.160372;-75.531853;302;5
+2700;Division St @ Booker T. Wash E.s.;39.159122;-75.539391;302;6
+3288;Saulsbury Rd opp Afton Ct;39.159661;-75.542925;302;7
+2868;Saulsbury Rd @ Carver Rd;39.161234;-75.543486;302;8
+2869;Saulsbury Rd @ Clara St Ext;39.163431;-75.544268;302;9
+2870;Saulsbury Rd @ Whatcoat Apts;39.166992;-75.545523;302;10
+2871;Mckee Rd @ Walker Rd;39.168097;-75.545917;302;11
+2872;Mckee Rd @ Brown St;39.171372;-75.547071;302;12
+2873;Mckee Rd opp Old Forge Rd (DOC Bldg);39.173787;-75.549667;302;13
+2874;Mckee Rd @ College Rd;39.175674;-75.552487;302;14
+3137;Scarborough Rd P&r;39.196973;-75.559359;302;15
+480;US Rt 13 & Denneys Rd;39.202894;-75.559439;302;16
+3628;US Rt 13 @ Marion Dr;39.207785;-75.5663;302;17
+3635;US Rt 13 Walmart Cheswold;39.215987;-75.572733;302;18
+481;US Rt 13 & Fast Landing Rd;39.224372;-75.576605;302;19
+3564;US Rt 13 @ Spring Meadows Dr;39.249755;-75.587013;302;20
+3800;US Rt 13 @ Big Oak Rd;39.269347;-75.588428;302;21
+3602;US Rt 13 @ Lawndale Rd;39.273755;-75.590223;302;22
+3603;US Rt 13 @ Carter Rd;39.279081;-75.592098;302;23
+482;US Rt 13 @ Smyrna Lepsic Rd;39.292143;-75.596751;302;24
+3801;US Rt 13 opp Chestnut St;39.299361;-75.601162;302;25
+3125;Rt 13 @ Mt Vernon St - Nb;39.304597;-75.605365;302;26
+474;Smyrna Rest Area @ P&R;39.323605;-75.618173;302;27
+3942;Summit Bridge Rd @ Pine Tree Rd;39.398146;-75.684664;302;28
+3832;Amazon (Phl 7 & 9);39.440056;-75.736722;302;29
+4106;North Middletown Park & Ride;39.485978;-75.72256;302;30
+465;Delaware Ave @ Adams St;39.750532;-75.554576;301;1
+3362;11th St @ West St;39.747709;-75.550389;301;2
+4;11th St @ King St (Rodney Square);39.746129;-75.546627;301;3
+58;King St @ 8th St;39.742757;-75.548705;301;4
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;301;5
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;301;6
+3138;Boyds Corner P&r;39.501379;-75.643922;301;7
+3136;Odessa Park & Ride (DE 299 & DE 1);39.45441;-75.678407;301;8
+474;Smyrna Rest Area @ P&R;39.323605;-75.618173;301;9
+3137;Scarborough Rd P&r;39.196973;-75.559359;301;10
+385;US Rt 13 @ N College Rd / Del State;39.18799;-75.540098;301;11
+3275;Transportation Cir opp Dmv Admin Bld;39.148588;-75.507056;301;12
+3268;Public Safety Blvd @ Central Dist;39.150344;-75.510979;301;13
+571;M L King Blvd @ Courtside Apts;39.157778;-75.514403;301;14
+582;Duke Of York St @ Legislative Av;39.158116;-75.519167;301;15
+3807;Federal St @ Water St Ib;39.155362;-75.521522;301;16
+3777;Dover Transit Center;39.152653;-75.529575;301;17
+3881;Tull St at Sussex Ave Meadow Bridge Apts;38.648007;-75.633088;903F-eb;1
+3897;Fz: Locust St Btwn Shipley St and Bradford St;38.643309;-75.622054;903F-eb;2
+3898;Fz: Pa Ave / High St btwn Bradford & Cannon;38.639421;-75.616208;903F-eb;3
+3899;Fz: Pa Ave / High St btwn Bradford & Cannon;38.640891;-75.6122;903F-eb;4
+463;Nanticoke Hospital at Middleford Rd;38.642267;-75.605406;903F-eb;5
+2995;US Rt 13 @ Beaver Dam Dr;38.655152;-75.594297;903F-eb;6
+460;US Rt 13 @ Wal-mart-on Site;38.661591;-75.590886;903F-eb;7
+461;Seaford Village Sc Roses / Dollar Store;38.660423;-75.596159;903F-eb;8
+461;Seaford Village Sc Roses / Dollar Store;38.660423;-75.596159;903F-wb;1
+2972;Seaford Village Sc Dialysis Center;38.657265;-75.595965;903F-wb;2
+2973;Nor Eskridge Pwy @ US 13 Mcdonalds;38.652772;-75.596294;903F-wb;3
+3824;Dutton Ave at Seaford Asst Living Center;38.653047;-75.599333;903F-wb;4
+2974;Dutton Ave at Seaford Meadows Apts;38.654563;-75.601451;903F-wb;5
+3955;Nanticoke Health Pav;38.662652;-75.602024;903F-wb;6
+462;Shipley State Service Center at Virginia Ave;38.654142;-75.609647;903F-wb;7
+3881;Tull St at Sussex Ave Meadow Bridge Apts;38.648007;-75.633088;903F-wb;8
+392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;208;1
+396;DE 1 & Phillips St;38.710981;-75.098788;208;2
+397;DE 1 & Rehoboth Beach House;38.707001;-75.089691;208;3
+3571;DE 1 @ Spring Lake Dr;38.705381;-75.087117;208;4
+398;DE 1 @ The Dunes Motel;38.701812;-75.081957;208;5
+399;DE 1 @ Houston St;38.698006;-75.076466;208;6
+4137;DE 1 @ New Orleans St Sb;38.69529;-75.075319;208;7
+401;DE 1 & Read St;38.691993;-75.074898;208;8
+402;DE 1 & Ruddertown;38.689424;-75.07459;208;9
+3166;DE 1 @ Indian River Campground;38.605817;-75.063556;208;10
+3167;DE 1 @ Villas Of Beach Cove;38.589733;-75.062203;208;11
+3647;Delrt1 @ Fred Hudson Rd;38.555114;-75.060148;208;12
+3572;Garfield Ave @ Pennsylvania Ave;38.538162;-75.057477;208;13
+3170;Pennsylvania Ave & Maplewood St;38.533809;-75.057072;208;14
+3171;Pennsylvania Ave opp Sea Colony;38.527884;-75.055987;208;15
+3172;De1 at Evergreen Rd;38.519609;-75.055334;208;16
+3173;De1 & York Beach Mall;38.510358;-75.054896;208;17
+3488;DE 1 opp Fenwick Isld State Park;38.472047;-75.051922;208;18
+3174;De1 opp Lewes St;38.467273;-75.051953;208;19
+3175;De1 & Dagsboro St;38.459954;-75.052183;208;20
+3266;DE 1 @ Bayard St;38.45753;-75.052257;208;21
+3176;De1 & S Carolina Ave;38.455881;-75.052289;208;22
+3197;144th St Transit Ctr (Ocean City, MD);38.449396;-75.052894;208;23
+3852;Lewes Transit Center;38.748176;-75.169855;206;1
+651;US Rt 9 @ Stingey La;38.746107;-75.180308;206;2
+3909;US Rt 9 @ The Vineyards Social Security Wb;38.742126;-75.190927;206;3
+437;US Rt 9 @ Sussex East;38.739784;-75.200524;206;4
+438;US Rt 9 @ Rd 281;38.734199;-75.238895;206;5
+3390;US Rt 9 @ Fisher Rd;38.729603;-75.262092;206;6
+652;US Rt 9 @ Hunters Mill;38.728679;-75.2668;206;7
+439;US Rt 9 @ DE 5;38.724753;-75.286366;206;8
+4025;US Rt 9 @ Emerson Way;38.716554;-75.311093;206;9
+653;US Rt 9 @ DE 30;38.713963;-75.317453;206;10
+3388;US Rt 9 opp Stiener Rd;38.708212;-75.337265;206;11
+3546;US Rt 9 @ Sand Hill Rd;38.698905;-75.369015;206;12
+654;US Rt 9 opp Dollar Store;38.695111;-75.379551;206;13
+3963;Perdue Georgetown;38.697966;-75.38248;206;14
+440;US Rt 9 @ N Railroad Ave;38.69212;-75.383414;206;15
+655;S Bedford St @ Harris Alley;38.688758;-75.384372;206;16
+641;S Bedford St @ Family Ser Bldg;38.677626;-75.379519;206;17
+432;Adams State Service Center at Bedford St;38.665382;-75.379116;206;18
+3212;Sussex Correctional Institution;38.659232;-75.373074;206;19
+3962;Georgetown Probation & Parole;38.667176;-75.381426;206;20
+657;US Rt 113 opp Georgetown Plaza;38.680945;-75.394813;206;21
+3737;Georgetown Transit Hub;38.693068;-75.384975;206;22
+3950;Drba Ferry Terminal;38.780873;-75.118736;204;1
+4140;Henlopen Dr @ Georgia Ave Wb;38.780366;-75.127964;204;2
+636;Henlopen Dr & Dairy Queen;38.780611;-75.131821;204;3
+2919;Savannah Rd @ Daily Market;38.778159;-75.135187;204;4
+427;Market St @ 2nd St;38.775412;-75.140515;204;5
+428;Savannah Rd @ Beebe Hospital;38.771205;-75.142562;204;6
+429;Savannah Rd @ Huling Cove;38.765281;-75.148844;204;7
+4132;Savannah Rd @ Sewell La;38.761029;-75.153356;204;8
+430;Savannah Rd @ Covey Creek;38.756387;-75.158442;204;9
+632;Savannah Rd @ Bayview Med Ctr;38.753238;-75.161924;204;10
+3448;N Vill Main Blvd @ E Austin St;38.751715;-75.168439;204;11
+3476;N Vill Main Blvd @ W Austin St;38.751376;-75.168312;204;12
+3852;Lewes Transit Center;38.748176;-75.169855;204;13
+3852;Lewes Transit Center;38.748176;-75.169855;203;1
+3292;DE 1 @ Savannah West Apts;38.74581;-75.155299;203;2
+3293;DE 1 @ Tenly Ct;38.742638;-75.150528;203;3
+3837;DE 1 at Pelican Square Sc;38.737309;-75.142396;203;4
+416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;203;5
+3294;DE 1 @ Hampton Inn;38.732509;-75.135209;203;6
+417;DE 1 @ Rehob Mall;38.729107;-75.130793;203;7
+3295;DE 1 @ Comfort Inn;38.725397;-75.126074;203;8
+418;DE 1 & The Market Pl (Sea Shell);38.722408;-75.122297;203;9
+420;DE 1 @ Camelot Dr (Econo Lodge);38.719996;-75.118082;203;10
+3475;DE 1 @ Palms at Rehoboth;38.718296;-75.114637;203;11
+3297;DE 1 @ Sea Air Ave;38.71737;-75.112705;203;12
+422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;203;13
+3570;Shuttle Rd @ Exxon Station;38.713733;-75.107908;203;14
+392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;203;15
+396;DE 1 & Phillips St;38.710981;-75.098788;203;16
+397;DE 1 & Rehoboth Beach House;38.707001;-75.089691;203;17
+3571;DE 1 @ Spring Lake Dr;38.705381;-75.087117;203;18
+398;DE 1 @ The Dunes Motel;38.701812;-75.081957;203;19
+399;DE 1 @ Houston St;38.698006;-75.076466;203;20
+4137;DE 1 @ New Orleans St Sb;38.69529;-75.075319;203;21
+401;DE 1 & Read St;38.691993;-75.074898;203;22
+402;DE 1 & Ruddertown;38.689424;-75.07459;203;23
+3852;Lewes Transit Center;38.748176;-75.169855;201: Rehoboth Beach;1
+3292;DE 1 @ Savannah West Apts;38.74581;-75.155299;201: Rehoboth Beach;2
+3293;DE 1 @ Tenly Ct;38.742638;-75.150528;201: Rehoboth Beach;3
+3837;DE 1 at Pelican Square Sc;38.737309;-75.142396;201: Rehoboth Beach;4
+416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;201: Rehoboth Beach;5
+3294;DE 1 @ Hampton Inn;38.732509;-75.135209;201: Rehoboth Beach;6
+417;DE 1 @ Rehob Mall;38.729107;-75.130793;201: Rehoboth Beach;7
+3295;DE 1 @ Comfort Inn;38.725397;-75.126074;201: Rehoboth Beach;8
+418;DE 1 & The Market Pl (Sea Shell);38.722408;-75.122297;201: Rehoboth Beach;9
+420;DE 1 @ Camelot Dr (Econo Lodge);38.719996;-75.118082;201: Rehoboth Beach;10
+3475;DE 1 @ Palms at Rehoboth;38.718296;-75.114637;201: Rehoboth Beach;11
+3297;DE 1 @ Sea Air Ave;38.71737;-75.112705;201: Rehoboth Beach;12
+422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;201: Rehoboth Beach;13
+3570;Shuttle Rd @ Exxon Station;38.713733;-75.107908;201: Rehoboth Beach;14
+392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;201: Rehoboth Beach;15
+396;DE 1 & Phillips St;38.710981;-75.098788;201: Rehoboth Beach;16
+3569;State Rd @ Washington St - Med Ctr;38.706955;-75.090729;201: Rehoboth Beach;17
+3562;State Rd @ Rehoboth Ave;38.714959;-75.088534;201: Rehoboth Beach;18
+393;Rehoboth Ave opp City Hall;38.71576;-75.083567;201: Rehoboth Beach;19
+394;Rehoboth Ave & Boardwalk;38.716627;-75.077004;201: Rehoboth Beach;20
+3137;Scarborough Rd P&r;39.196973;-75.559359;120;1
+480;US Rt 13 & Denneys Rd;39.202894;-75.559439;120;2
+3628;US Rt 13 @ Marion Dr;39.207785;-75.5663;120;3
+3635;US Rt 13 Walmart Cheswold;39.215987;-75.572733;120;4
+481;US Rt 13 & Fast Landing Rd;39.224372;-75.576605;120;5
+3564;US Rt 13 @ Spring Meadows Dr;39.249755;-75.587013;120;6
+3800;US Rt 13 @ Big Oak Rd;39.269347;-75.588428;120;7
+3602;US Rt 13 @ Lawndale Rd;39.273755;-75.590223;120;8
+3603;US Rt 13 @ Carter Rd;39.279081;-75.592098;120;9
+482;US Rt 13 @ Smyrna Lepsic Rd;39.292143;-75.596751;120;10
+3801;US Rt 13 opp Chestnut St;39.299361;-75.601162;120;11
+3125;Rt 13 @ Mt Vernon St - Nb;39.304597;-75.605365;120;12
+474;Smyrna Rest Area @ P&R;39.323605;-75.618173;120;13
+3402;Camden Walmart On-site;39.101542;-75.545847;117;1
+2756;Voshells Mill Rd & Peachtree Run;39.104335;-75.539412;117;2
+2757;Peachtree Run & Palmer Rd;39.10216;-75.540517;117;3
+539;Peachtree & Honda Dealer;39.098583;-75.54301;117;4
+2758;Peachtree Run & Lochmeath Way;39.095269;-75.544833;117;5
+361;Mifflin Meadows & On Site;39.087871;-75.54728;117;6
+3745;Jeffery Dr @ Boyd Dr;39.069929;-75.530759;117;7
+3746;Cherry Dr East @ Orange St;39.066627;-75.52682;117;8
+3747;Plum Dr @ Cherry Dr East;39.063467;-75.530538;117;9
+3748;Plum Dr @ Apple Run;39.065471;-75.531338;117;10
+3749;Millchop Ln @ Mabel Dr;39.067325;-75.532404;117;11
+3750;Millchop Ln opp Stephenson Dr;39.068415;-75.537653;117;12
+3354;Polytech at Walnut Shade Rd;39.073502;-75.547394;117;13
+3751;US Rt 13 opp Crestwood Dr;39.055233;-75.556288;117;14
+3752;US Rt 13 @ Evens Rd;39.046309;-75.558005;117;15
+3753;US Rt 13 @ Rubeon May Allens Tp;39.034457;-75.561049;117;16
+3754;US Rt 13 @ Old New Rd/willis Tires;39.030498;-75.562236;117;17
+3755;US Rt 13 @ S Erin Ave;39.012258;-75.567724;117;18
+3355;US 13 @ SR 12 Felton;39.005905;-75.569527;117;19
+3756;US Rt 13 @ Reeves Crossing Rd;38.983962;-75.567501;117;20
+3757;US Rt 13 @ Delaware Ave;38.932712;-75.56628;117;21
+3758;US Rt 13 @ Shaw Ave;38.928209;-75.567132;117;22
+3759;US Rt 13 @ Fairground Rd;38.91542;-75.569327;117;23
+3760;US Rt 13 @ Corn Crib Rd;38.915526;-75.568881;117;24
+3761;US Rt 13 @ Holiday Inn Express Hotel;38.92158;-75.567299;117;25
+3762;Clark St @ Thomas St;38.923299;-75.572683;117;26
+495;Delaware Ave & Clark St;38.923898;-75.577021;117;27
+3763;Center St @ Park Brown Rd;38.928094;-75.581579;117;28
+3265;Clarks Corner Harrington;38.930096;-75.587179;117;29
+3777;Dover Transit Center;39.152653;-75.529575;112;1
+2837;Governors Ave & North St;39.156521;-75.526455;112;2
+2838;Governors Ave & Minor St;39.15831;-75.527135;112;3
+2839;Governors Ave & Cecil St;39.163718;-75.529186;112;4
+2841;Governors Ave & William St;39.168283;-75.530855;112;5
+344;Walker Rd & Silver Lk Plaza;39.171983;-75.535491;112;6
+609;Walker Rd & Phys Therapy Ser;39.170901;-75.540254;112;7
+610;Walker Rd & opp Playtex;39.170287;-75.543018;112;8
+2675;Walker Rd & Anne Ave;39.169753;-75.545217;112;9
+2872;Mckee Rd @ Brown St;39.171372;-75.547071;112;10
+2873;Mckee Rd opp Old Forge Rd (DOC Bldg);39.173787;-75.549667;112;11
+2874;Mckee Rd @ College Rd;39.175674;-75.552487;112;12
+2860;College Rd & opp College Pk Dr;39.177368;-75.552099;112;13
+2877;College Rd & Jason St;39.181516;-75.546715;112;14
+674;US Rt 13 & North Dover Ctr Staples;39.185809;-75.53381;112;15
+383;Dover Downs & On Site;39.187624;-75.533479;112;16
+2831;US Rt 13 & Best Buy / Michaels;39.187975;-75.538525;112;17
+384;US Rt 13 & Dover Mall Ent 1;39.194441;-75.541366;112;18
+2845;US Rt 13 & Rustic Ln;39.194326;-75.54741;112;19
+2846;US Rt 13 @ Smith St;39.197445;-75.551748;112;20
+2847;Dennys Rd & Comcast Cable US Rt 13;39.201406;-75.561023;112;21
+3137;Scarborough Rd P&r;39.196973;-75.559359;112;22
+3777;Dover Transit Center;39.152653;-75.529575;109;1
+2694;New St & Bank Ln;39.15529;-75.527308;109;2
+2695;New St & North St;39.156355;-75.527709;109;3
+2825;Loockerman St & opp Bradford St;39.157845;-75.525645;109;4
+679;Loockerman St & Federal St;39.15838;-75.522506;109;5
+2826;Kings Hwy & Probation Dept;39.165529;-75.518701;109;6
+382;Luther Towers & Bldg 1;39.168466;-75.519525;109;7
+2827;Center Dr & Metro Food Mkt;39.170189;-75.515517;109;8
+2828;Center at Dover & Red Lobster;39.17108;-75.517774;109;9
+2829;US 13 & Townsend Blvd;39.175441;-75.523333;109;10
+2830;US Rt 13 & Jefferic Blvd;39.178426;-75.526444;109;11
+674;US Rt 13 & North Dover Ctr Staples;39.185809;-75.53381;109;12
+383;Dover Downs & On Site;39.187624;-75.533479;109;13
+2831;US Rt 13 & Best Buy / Michaels;39.187975;-75.538525;109;14
+3598;US 13 Dovemall @ Back Ent Dovecom;39.19133;-75.538241;109;15
+384;US Rt 13 & Dover Mall Ent 1;39.194441;-75.541366;109;16
+673;US Rt 13 at Kw Blvd Near Sams Club;39.196365;-75.550944;109;17
+3777;Dover Transit Center;39.152653;-75.529575;108;1
+604;State St & The Green;39.156266;-75.523678;108;2
+621;Kings Hwy opp Reed St;39.160133;-75.524057;108;3
+583;Kings Hwy & Division St;39.16205;-75.52308;108;4
+622;Division St opp Kent Av;39.162773;-75.520618;108;5
+623;Division St & Bayard Av;39.162812;-75.517299;108;6
+377;Division St & Edgehill Shop Ctr;39.163704;-75.514172;108;7
+3284;Division St opp Greenhill Ave;39.164353;-75.512729;108;8
+2813;Division St & Edgehill Gift;39.165303;-75.51052;108;9
+2814;Willis Rd & Division St;39.167477;-75.506586;108;10
+2815;Willis Rd & Bldg 141;39.169457;-75.508253;108;11
+378;Willis Rd & Lease Office;39.171133;-75.509924;108;12
+584;Nimitz Rd & White Oak Rd;39.173067;-75.510168;108;13
+625;Nimitz Rd Btwn #337 & 345;39.174641;-75.511417;108;14
+626;Nimitz Rd & opp Mcdowell Dr;39.176819;-75.513769;108;15
+627;Nimitz Rd & Townsend Blvd;39.178323;-75.515747;108;16
+628;Townsend Blvd Btwn #851 & 847;39.178103;-75.518666;108;17
+585;Townsend Blvd @ US 13;39.175193;-75.521501;108;18
+2829;US 13 & Townsend Blvd;39.175441;-75.523333;108;19
+2830;US Rt 13 & Jefferic Blvd;39.178426;-75.526444;108;20
+3951;Persimmon Tree Lane @ Persimmon Circle;39.191637;-75.519847;108;21
+3953;Leipsec Road @ Home Depot;39.182777;-75.527858;108;22
+674;US Rt 13 & North Dover Ctr Staples;39.185809;-75.53381;108;23
+2831;US Rt 13 & Best Buy / Michaels;39.187975;-75.538525;108;24
+384;US Rt 13 & Dover Mall Ent 1;39.194441;-75.541366;108;25
+3777;Dover Transit Center;39.152653;-75.529575;105;1
+490;State St & Kent General Hos;39.151041;-75.522381;105;2
+548;State St & Gooden Ave;39.147791;-75.522534;105;3
+549;State St & opp Ymca;39.144567;-75.522779;105;4
+358;State St & Capitol Cleaners;39.141271;-75.523027;105;5
+551;State St & Old Rudnik Ln;39.135284;-75.52139;105;6
+552;State St & Cooper Rd;39.131657;-75.519875;105;7
+553;State St opp Lakeland Tp;39.129373;-75.518937;105;8
+554;State St & Old Mill Rd;39.124798;-75.517074;105;9
+555;State St & opp Emerson Dr;39.12068;-75.515977;105;10
+3074;State St opp Richardson Ln;39.116769;-75.515528;105;11
+3075;State St @ Howe Dr;39.111753;-75.514973;105;12
+4094;Fz: Eagle Meadows;39.106468;-75.506584;105;13
+3279;DE 10 @ Liberto Ind Park;39.119528;-75.502638;105;14
+566;Gateway South & Food Lion;39.123553;-75.498237;105;15
+368;Pine Cabin Rd & opp Generals Grn Apt;39.128966;-75.493711;105;16
+3791;Dover Air Base Visitor Ctr;39.122749;-75.477998;105;17
+3777;Dover Transit Center;39.152653;-75.529575;104-sb;1
+2734;Governors Ave & Holden Dodge;39.151124;-75.524979;104-sb;2
+2735;Governors Ave & Del Surgery Ctr;39.146684;-75.525313;104-sb;3
+2737;Governors Ave & Jefferson Terr;39.142987;-75.525637;104-sb;4
+3271;Governors Ave @ Lynnhaven Dr;39.141094;-75.525757;104-sb;5
+3273;Governors Ave @ Kesselring Ave;39.135567;-75.529389;104-sb;6
+2730;Kesselring Ave & 349 & 353;39.135792;-75.538174;104-sb;7
+2712;Kesselring Ave & opp Haman Dr;39.136846;-75.540718;104-sb;8
+3972;Webbs Ln opp Alder Rd;39.132369;-75.539938;104-sb;9
+2720;Webbs Ln & Nath Mitchell Rd;39.132964;-75.532886;104-sb;10
+2738;Governors Ave & Webbs Ln;39.13234;-75.530324;104-sb;11
+2740;Governors Ave & Gunning Bedfd Dr;39.130261;-75.530674;104-sb;12
+3984;Rodney Village Shopping Center;39.127033;-75.532431;104-sb;13
+2998;US Rt 13 & opp Shamrock Ave;39.119868;-75.534543;104-sb;14
+3073;US Rt 13 @ Faith Comm Chrch;39.116777;-75.535986;104-sb;15
+534;US Rt 13 @ Camden Wyoming Ave;39.114683;-75.537057;104-sb;16
+2743;Camden-Wyoming Av & Main St;39.113477;-75.54112;104-sb;17
+2744;North St & opp Mtng House Ct;39.116736;-75.539951;104-sb;18
+2745;Old North Rd & Caesar Rod Hs;39.118359;-75.542997;104-sb;19
+3560;North St @ Vining Run;39.119359;-75.546855;104-sb;20
+2746;North St & Wb Simpson Es;39.119212;-75.551229;104-sb;21
+2747;Caesar Rodney Av & Camden-Wyoming Av;39.116386;-75.55324;104-sb;22
+2749;Caesar Rodney Av & Stevens St;39.113836;-75.553761;104-sb;23
+2750;Caesar Rodney Av & Peach St;39.112592;-75.554452;104-sb;24
+2751;South St & Vepco Blvd;39.111498;-75.553242;104-sb;25
+2752;South St & opp Wesley St;39.11127;-75.551845;104-sb;26
+2753;South St & opp West St;39.110785;-75.548357;104-sb;27
+2754;Voshells Mill Rd & Maple Ln;39.108302;-75.545456;104-sb;28
+2755;Voshells Mill Rd & Park Ln;39.10648;-75.542457;104-sb;29
+3402;Camden Walmart On-site;39.101542;-75.545847;104-sb;30
+3402;Camden Walmart On-site;39.101542;-75.545847;104-nb;1
+3408;US Rt 13 @ Voshells Mill Rd;39.104297;-75.541291;104-nb;2
+3274;US Rt 13 @ Positive Outcomes Sch;39.108062;-75.539386;104-nb;3
+2774;US Rt 13 @ Lebanon Rd;39.114557;-75.536497;104-nb;4
+2775;US Rt 13 @ Dover Skating Ct;39.116791;-75.535463;104-nb;5
+2776;US Rt 13 & Shamrock Ave;39.119215;-75.534278;104-nb;6
+3152;Governors Ave & Artisan Bank;39.129277;-75.530568;104-nb;7
+2778;Governors Ave & Webbs Ln;39.132395;-75.530048;104-nb;8
+2727;Webbs Ln & Rodney Village Apts;39.133058;-75.53277;104-nb;9
+3973;Webbs Ln @ Alder Rd;39.132529;-75.539973;104-nb;10
+355;Kesselring Ave & Haman Dr;39.136664;-75.54069;104-nb;11
+2717;Kesselring Ave & Bwtn # 342 & 346;39.135728;-75.537502;104-nb;12
+2779;Governors Ave & Southebee Dr Cerny;39.136725;-75.528088;104-nb;13
+2780;Governors Ave & Stop N Shop;39.142223;-75.525466;104-nb;14
+2781;Governors Ave & Waples Ave;39.146674;-75.52511;104-nb;15
+2782;Governors Ave & Kent Hospital;39.150253;-75.524805;104-nb;16
+3777;Dover Transit Center;39.152653;-75.529575;104-nb;17
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;64;1
+3243;Christiana Retail Ctr @ Pier 1;39.674893;-75.650165;64;2
+2406;Old Baltimore Pk @ Road A;39.673778;-75.658242;64;3
+2407;Old Baltimore Pk @ Edgebrook Way;39.671977;-75.658482;64;4
+2408;Old Baltimore Pk @ Browns Ln;39.669064;-75.658868;64;5
+2198;DE 7 @ Old Baltimore Pike;39.664892;-75.658925;64;6
+233;DE 273 & DE 7 Park & Ride;39.66161;-75.654566;64;7
+4102;DE 7 opp School Bell Rd;39.657241;-75.654734;64;8
+2548;DE 7 @ Deldot North;39.655456;-75.654927;64;9
+2549;DE 7 @ Rivers End Dr;39.651108;-75.655899;64;10
+3941;DE 7 @ Newtown Dr;39.646421;-75.657022;64;11
+2550;DE 7 @ Freedom Dr;39.64238;-75.657889;64;12
+4079;Songsmith Dr @ Buckson Ct;39.636026;-75.660334;64;13
+3496;Governors Square Shopping Center;39.633583;-75.663593;64;14
+306;US 40 @ Governors Square;39.631317;-75.663102;64;15
+3551;US Rt 40 @ Governors Sq Plaza 2;39.63016;-75.665637;64;16
+2552;US Rt 40 @ Walther Rd;39.627881;-75.6714;64;17
+3835;Wilmington University Complex;39.625996;-75.675978;64;18
+3468;US Rt 40 @ Old Town Hall Ctr;39.624546;-75.679655;64;19
+2553;US Rt 40 @ Wellington Dr;39.622684;-75.684401;64;20
+3145;Brookmont Dr Oppp Royal Farms;39.622908;-75.687532;64;21
+3341;Flamingo Dr @ Heron Ct;39.625656;-75.688627;64;22
+3342;Flamingo Dr @ Curlew Dr;39.628356;-75.69136;64;23
+3241;Kemper Dr @ Plover Dr;39.627291;-75.693539;64;24
+3343;Kemper Dr @ Egret Ct;39.624709;-75.690962;64;25
+3631;Brookmont Farms @ E-z Waymart;39.622527;-75.687431;64;26
+308;US Rt 40 @ Brookmont Dr;39.621571;-75.687496;64;27
+309;US Rt 40 @ Glasgow Dr;39.620682;-75.689928;64;28
+310;US Rt 40 @ Salem Church Rd;39.618408;-75.695824;64;29
+2554;US Rt 40 @ Becks Woods Dr;39.616294;-75.699036;64;30
+311;US Rt 40 @ Scotland Dr;39.610942;-75.705524;64;31
+2555;US Rt 40 opp Rickey Blvd;39.60892;-75.710839;64;32
+312;US 40 @ Sunset Lake Rd;39.608324;-75.716177;64;33
+2556;US Rt 40 @ Broadleaf Dr;39.60803;-75.719467;64;34
+3469;US Rt 40 @ Aiken Ave;39.607065;-75.730481;64;35
+3470;US Rt 40 @ Glasgow Ave;39.605656;-75.746062;64;36
+313;Peoples Plaza Park & Ride;39.602733;-75.74603;64;37
+3134;Fairplay Station;39.693817;-75.672297;62;1
+3987;DE 4 & Delaware Park Dr;39.693603;-75.668024;62;2
+1043;DE 4 @ Old Churchmans Rd;39.695632;-75.662749;62;3
+3431;DE 4 opp Twin C Ln;39.696783;-75.654528;62;4
+333;Jp Morgan Ctr @ Newark Corp Ctr;39.693449;-75.648621;62;5
+4010;Del Tech Stanton;39.689236;-75.648982;62;6
+2336;Churchmans Rd @ Churchmans Plaza;39.689367;-75.658842;62;7
+275;Christiana Hospital (Parking Garage);39.68917;-75.669875;62;8
+2337;DE 4 @ Hygeia Dr;39.690227;-75.673235;62;9
+2338;DE 4 @ Rolling Dr;39.68743;-75.678578;62;10
+2339;DE 4 @ Harmony Rd;39.685495;-75.682562;62;11
+2340;DE 4 @ Prides Crossing;39.682582;-75.688723;62;12
+2341;DE 4 @ Navient;39.680991;-75.692081;62;13
+2429;Ogletown Rd @ Lowes;39.684476;-75.715061;62;14
+2430;Ogletown Rd @ 1800 Ogletown Ent;39.684246;-75.718245;62;15
+2431;Ogletown Rd opp White Clay Ctr;39.68516;-75.72283;62;16
+2426;Ogletown Rd @ White Clay Ctr;39.684919;-75.722958;62;17
+48;Claymont Station;39.798261;-75.45181;61;1
+721;Myrtle Ave @ Philadelphia Pk;39.804155;-75.453666;61;2
+722;Darley Rd opp Lenape Way;39.807334;-75.4563;61;3
+726;Darley Rd @ Ruby Dr;39.81175;-75.462918;61;4
+156;Darley Rd @ Peachtree Rd;39.812989;-75.466134;61;5
+729;Peachtree Rd opp Birchtree Ln;39.81516;-75.463808;61;6
+730;Peachtree Rd @ Cedartree Ln;39.814791;-75.462016;61;7
+731;Peachtree Rd opp Appletree Ct;39.815695;-75.460157;61;8
+732;Naamans Rd @ Montclair Dr;39.817689;-75.459995;61;9
+735;Society Dr @ Bldg 2000;39.820361;-75.460975;61;10
+736;Society Dr @ Bldg 7000;39.821625;-75.45888;61;11
+737;Society Dr @ Shelter 2;39.820153;-75.456954;61;12
+738;Society Dr opp Northtowne Plaza;39.818258;-75.457844;61;13
+3110;Naamans Rd @ Merribrook Rd - Wb;39.820225;-75.471395;61;14
+3111;Naamans Rd opp Marilyn Dr -wb;39.821118;-75.477673;61;15
+3657;Naamans Rd @ Pin Oak Dr;39.82157;-75.480333;61;16
+4108;Naamans Rd opp Darley Rd Wb;39.822325;-75.484558;61;17
+3113;Naamans Rd @ Marsh Rd - Wb;39.822944;-75.487509;61;18
+3607;Naamans Rd @ Ballymeade;39.823695;-75.492387;61;19
+222;Naamans Rd @ Cedar Tree Apts;39.824577;-75.497263;61;20
+3608;Naamans Rd @ Northgate Rd;39.826356;-75.510058;61;21
+3609;Naamans Rd @ Channin Dr;39.827484;-75.517122;61;22
+2647;Naamans Rd @ Ebright Rd;39.828608;-75.524805;61;23
+2648;Naamans Rd @ Trotters Dr;39.829283;-75.529353;61;24
+2649;Naamans Rd @ Brandywine Ent;39.829782;-75.533328;61;25
+3058;Naamans Rd opp Shopping Ctr;39.830072;-75.536287;61;26
+4099;Naamans Wb @ Brandywine Pkwy;39.829554;-75.538454;61;27
+3061;Concord Pk @ Chubb;39.830931;-75.543916;61;28
+3059;Market Sq @ Tj Maxx;39.832812;-75.540553;61;29
+67;Brandywine Town Center Park & Ride;39.831111;-75.535145;61;30
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;55;1
+3243;Christiana Retail Ctr @ Pier 1;39.674893;-75.650165;55;2
+2406;Old Baltimore Pk @ Road A;39.673778;-75.658242;55;3
+2407;Old Baltimore Pk @ Edgebrook Way;39.671977;-75.658482;55;4
+2408;Old Baltimore Pk @ Browns Ln;39.669064;-75.658868;55;5
+2670;Old Baltimore Pk @ Main St (Christiana);39.665525;-75.659884;55;6
+2599;Old Baltimore Pk @ Birch Brook Dr;39.663954;-75.662175;55;7
+2600;Old Baltimore Pk @ Trevett Dr;39.659206;-75.670301;55;8
+2601;Old Baltimore Pk @ Woodshade Dr;39.655143;-75.678976;55;9
+3506;Old Balt Pike @ Norwegian Woods Dr;39.653797;-75.682393;55;10
+2602;Old Baltimore Pk @ Timerwood Blvd;39.651495;-75.688561;55;11
+3245;Old Baltimore Pk opp Aspen Dr;39.649828;-75.692643;55;12
+330;Old Baltimore Pk @ Salem Church Rd;39.648357;-75.699151;55;13
+2604;Old Baltimore Pk @ Hanna Dr;39.647603;-75.707469;55;14
+3366;Old Baltimore Pk opp Christiana Farms;39.647029;-75.712398;55;15
+3649;Old Baltimore Pk @ Albe Dr;39.646569;-75.714489;55;16
+2605;Old Baltimore Pk @ Lucerne Dr;39.645346;-75.718826;55;17
+3650;Old Baltimore Pk @ Westover Woods Dr;39.644362;-75.722298;55;18
+3770;Old Baltimore Pk @ SR 72;39.642523;-75.728945;55;19
+3325;DE 72 @ Dawson Dr;39.650269;-75.732368;55;20
+4053;DE 72 @ Scottfield Turn;39.65379;-75.733514;55;21
+3665;DE 72 @ Kenmar Dr;39.659925;-75.73532;55;22
+2380;Chestnut Hill Rd @ DE 72 Pnr;39.661514;-75.735116;55;23
+2381;Chestnut Hill Rd @ Kingston Rd;39.661962;-75.729502;55;24
+283;Marrows Rd @ Kensington Ln;39.664553;-75.72678;55;25
+2451;Marrows Rd @ Brookside Dr Eb;39.666792;-75.727061;55;26
+3947;Marrows Rd opp Baseball Field;39.669343;-75.72739;55;27
+3916;Marrows Rd @ Kimberton Dr;39.675292;-75.728559;55;28
+3346;Wyoming Rd opp DE Technology Park;39.679387;-75.73314;55;29
+3690;DE 72 @ Wyoming Road;39.680599;-75.736021;55;30
+1167;Main St opp Med Center - Newark;39.684227;-75.739544;55;31
+3678;Newark Transit Hub (Farmer Lane);39.682337;-75.743428;55;32
+3678;Newark Transit Hub (Farmer Lane);39.682337;-75.743428;53;1
+341;Delaware Ave @ Newark Hs Pedx;39.681078;-75.740305;53;2
+3663;DE 72 @ Pencader Plaza;39.658848;-75.735321;53;3
+4054;DE 72 @ Blue Hen Dr;39.653219;-75.733547;53;4
+3339;DE 72 @ Bellevue Rd;39.650589;-75.732688;53;5
+4016;DE 72 @ Old Baltimore Pk;39.641271;-75.729997;53;6
+4007;Wrangle Hill Rd @ Pulaski Hwy;39.607534;-75.715487;53;7
+3576;Wrangle Hill Park & Ride;39.576003;-75.657404;53;8
+4050;Wilmington Tc (Inside);39.737157;-75.549397;52;1
+72;Walnut St @ 5th St;39.739863;-75.548167;52;2
+908;8th St @ King St;39.743057;-75.548233;52;3
+73;8th St @ Shipley St;39.743609;-75.5496;52;4
+3970;10th St @ Tatnall St;39.746874;-75.550161;52;5
+839;West St @ 11th St;39.747847;-75.549999;52;6
+1086;12th St @ Washington St;39.749131;-75.550896;52;7
+1089;Pennsylvania Ave @ Franklin St;39.753221;-75.558759;52;8
+1090;Pennsylvania Ave @ Broom St;39.753889;-75.561092;52;9
+1092;Pennsylvania Ave @ Clayton St;39.754377;-75.563151;52;10
+1093;Pennsylvania Ave @ Dupont St;39.754762;-75.564549;52;11
+1977;Pennsylvania Ave @ Lincoln St;39.75572;-75.566949;52;12
+1978;Pennsylvania Ave @ Union St;39.756781;-75.568827;52;13
+209;Pennsylvania Ave @ Woodlawn Ave;39.75805;-75.571179;52;14
+1981;Pennsylvania Ave @ Greenhill Ave;39.760067;-75.574551;52;15
+1982;Pennsylvania Ave @ Mt Salem Ln;39.761532;-75.577037;52;16
+132;Pennsylvania Ave @ Rising Sun Ln;39.76311;-75.57949;52;17
+1408;Kennett Pk opp Westover Rd;39.766019;-75.583301;52;18
+1409;Kennett Pk opp Hopeton Rd;39.767027;-75.584564;52;19
+1410;Kennett Pk @ Brecks Ln;39.768378;-75.58637;52;20
+1412;Kennett Pk opp Christiana Care;39.770563;-75.589082;52;21
+1413;Kennett Pk @ Briars Ln;39.774799;-75.594616;52;22
+1414;Kennett Pk @ Railroad Tracks;39.777967;-75.597423;52;23
+1417;Kennett Pk opp Brk Valley Rd;39.781415;-75.600078;52;24
+1418;Kennett Pk @ Sunnyside Rd;39.785146;-75.602133;52;25
+1419;Kennett Pk @ Kirk Rd;39.789285;-75.603996;52;26
+1420;Kennett Pk @ Wilm Country Clb;39.795505;-75.607093;52;27
+1421;Kennett Pk opp Nat History M;39.798699;-75.608608;52;28
+1423;Kennett Pk opp Lower Pres Ch;39.805582;-75.611994;52;29
+1424;Kennett Pk @ Pyles Ford Rd;39.809321;-75.613348;52;30
+1425;Kennett Pk opp Somero Ln;39.813278;-75.614313;52;31
+1426;Kennett Pk opp Swallow Hollw;39.816301;-75.615062;52;32
+1427;Kennett Pk @ Center Mtg Rd;39.818876;-75.615661;52;33
+1429;Kennett Pk @ Twaddell Mill Rd;39.821226;-75.616416;52;34
+465;Delaware Ave @ Adams St;39.750532;-75.554576;51;1
+1271;Delaware Ave @ Jefferson St;39.748674;-75.552414;51;2
+3861;Delaware Ave at Tatnall St;39.746625;-75.550102;51;3
+903;King St @ 9th St;39.744138;-75.547718;51;4
+675;King St @ 6th St;39.741333;-75.549595;51;5
+2460;4th St @ French St;39.739747;-75.549731;51;6
+1622;4th St @ Poplar St;39.738641;-75.547128;51;7
+1625;4th St opp Spruce St;39.737484;-75.544332;51;8
+1626;4th St @ Church St;39.736715;-75.542454;51;9
+1627;Heald St opp Apple St;39.731813;-75.542218;51;10
+1628;Heald St @ A St;39.73016;-75.543283;51;11
+1629;Heald St @ B St;39.728911;-75.544188;51;12
+3661;Heald St @ D St;39.727211;-75.545366;51;13
+1633;New Castle Ave opp New York Ave;39.724128;-75.544471;51;14
+1634;New Castle Ave opp Terminal Ave;39.721331;-75.545242;51;15
+1635;New Castle Ave opp Dover Ave;39.719518;-75.545778;51;16
+1636;New Castle Ave opp North St;39.716761;-75.546712;51;17
+1637;New Castle Ave opp South St;39.71527;-75.547123;51;18
+1638;New Castle Ave @ Gmc Truck;39.714061;-75.547615;51;19
+160;New Castle Ave @ Rogers Rd;39.711976;-75.548377;51;20
+1639;New Castle Ave opp Rizzo Ave;39.709918;-75.549052;51;21
+1640;New Castle Ave @ Ryan Ave;39.708341;-75.549544;51;22
+1641;New Castle Ave opp Rose Ln;39.707217;-75.54993;51;23
+1642;New Castle Ave opp Lambsons Ln;39.705272;-75.550622;51;24
+1643;New Castle Ave @ Moorehouse Dr;39.702967;-75.551391;51;25
+1644;New Castle Ave @ Bowlerama;39.701128;-75.552022;51;26
+1645;New Castle Ave @ Memorial Dr;39.698824;-75.552806;51;27
+161;New Castle Ave @ Cherry Ln;39.693057;-75.554832;51;28
+1646;New Castle Ave opp Rodney Dr;39.691329;-75.555458;51;29
+1647;New Castle Ave @ Landers Ln;39.688127;-75.556593;51;30
+1649;Wilmington Rd @ Castle Hills Dr;39.684078;-75.558021;51;31
+1652;Wilmington Rd @ Adair Ave;39.679325;-75.559706;51;32
+1654;Wilmington Rd @ Brylgon Ave;39.675022;-75.561091;51;33
+3380;Wilmington Rd @ Baldt Ave;39.672291;-75.561273;51;34
+3666;Ships Landing Way Opp. Tire Rack;39.67111;-75.557494;51;35
+3668;Ships Landing Way opp Hibbert Group;39.671291;-75.555106;51;36
+3667;Ships Landing Way @ Essbar Equipment;39.672996;-75.554899;51;37
+3669;Anchor Mill Road opp 5 Below Inc;39.67396;-75.556612;51;38
+1675;Wilmington Rd opp E 6th St;39.66808;-75.560768;51;39
+4046;Chestnut St @ River Plaza Shop Ctr;39.66378;-75.566427;51;40
+4035;Delaware St opp 10th St;39.663948;-75.573155;51;41
+4047;Frenchtown Rd @ Bellanca Rd;39.6644;-75.581378;51;42
+3230;Frenchtown Rd @ Centerpoint Blvd;39.664737;-75.588389;51;43
+2127;Frenchtown Rd @ Farmers Mkt Ent;39.66528;-75.599459;51;44
+2130;Christiana Rd @ Churchmans Rd;39.665428;-75.612103;51;45
+2131;Christiana Rd @ Sally Mae Bldg;39.665164;-75.61502;51;46
+2133;Christiana Rd @ Fresconi Dr;39.66439;-75.622877;51;47
+2134;Christiana Rd @ Pleasant Pl;39.66424;-75.624572;51;48
+2136;Christiana Rd @ Edinburgh Dr;39.663723;-75.6303;51;49
+2137;Christiana Rd @ Gtown Apts East Q1;39.66347;-75.633045;51;50
+2138;Christiana Rd opp Saddlebrook;39.66315;-75.636902;51;51
+169;Christiana Rd & Airport Rd;39.662911;-75.640206;51;52
+1710;Christiana Rd opp Wedgefield Dr;39.662653;-75.644333;51;53
+3244;Christiana Retail Ctr opp Pier 1;39.674394;-75.650156;51;54
+4069;Christiana Mall Park & Ride (Outside);39.680262;-75.65589;51;55
+1711;Christiana Mall (Target);39.679634;-75.650307;51;56
+3679;Newark Transit Hub (Pomeroy La);39.682421;-75.743541;46-weekend;1
+1169;Main St - Newark @ Chapel St;39.683669;-75.745635;46-weekend;2
+1170;Main St @ Academy St - Newark;39.683363;-75.749551;46-weekend;3
+1171;Main St @ Elliot Hall - Newark;39.683192;-75.75212;46-weekend;4
+342;S College Ave @ Amstel Ave - ped X;39.680112;-75.753652;46-weekend;5
+2375;S College Ave @ Kent Way;39.67888;-75.753599;46-weekend;6
+1845;S College Ave @ W Park Pl;39.674044;-75.753575;46-weekend;7
+1846;S College Ave @ Ritter Ln;39.672116;-75.753494;46-weekend;8
+2469;S College Ave @ Newark Sta Ent;39.66737;-75.75307;46-weekend;9
+4019;S College Ave @ Discovery Blvd;39.663811;-75.752617;46-weekend;10
+1847;S College Ave @ Marvin Dr;39.661224;-75.752286;46-weekend;11
+4115;DE 896/4 Park & Ride (Outside);39.658152;-75.749942;46-weekend;12
+1854;S College Ave @ Chestnut Hl Rd W;39.654819;-75.75136;46-weekend;13
+188;S College Ave opp Friendlys;39.650685;-75.74914;46-weekend;14
+2606;S College Ave opp Glasgow Hs;39.630845;-75.743973;46-weekend;15
+331;S College Ave @ Four Seasons Pkwy;39.624569;-75.744297;46-weekend;16
+2608;S College Ave @ Corporate Bvd;39.616929;-75.745209;46-weekend;17
+2609;Corporate Blvd & opp Dept Of Labor;39.616442;-75.749979;46-weekend;18
+3326;Corporate Blvd @ Lake Dr;39.616745;-75.75349;46-weekend;19
+3327;Corporate Blvd @ Pencader Dr;39.616998;-75.756471;46-weekend;20
+3328;Pencader Dr @ 650 Pencader Dr;39.611962;-75.762844;46-weekend;21
+3329;Pencader Dr @ Reynolds Aluminum;39.611339;-75.767761;46-weekend;22
+3330;Pleasant Valley Rd opp Pencader Bar;39.607288;-75.769633;46-weekend;23
+3331;US Rt 40 @ Perch Creek Dr;39.603826;-75.764582;46-weekend;24
+3332;US Rt 40 @ Biddle Ave;39.60366;-75.754333;46-weekend;25
+313;Peoples Plaza Park & Ride;39.602733;-75.74603;46-weekend;26
+3679;Newark Transit Hub (Pomeroy La);39.682421;-75.743541;46-weekday;1
+1169;Main St - Newark @ Chapel St;39.683669;-75.745635;46-weekday;2
+1170;Main St @ Academy St - Newark;39.683363;-75.749551;46-weekday;3
+1171;Main St @ Elliot Hall - Newark;39.683192;-75.75212;46-weekday;4
+342;S College Ave @ Amstel Ave - ped X;39.680112;-75.753652;46-weekday;5
+2375;S College Ave @ Kent Way;39.67888;-75.753599;46-weekday;6
+1845;S College Ave @ W Park Pl;39.674044;-75.753575;46-weekday;7
+1846;S College Ave @ Ritter Ln;39.672116;-75.753494;46-weekday;8
+2469;S College Ave @ Newark Sta Ent;39.66737;-75.75307;46-weekday;9
+4019;S College Ave @ Discovery Blvd;39.663811;-75.752617;46-weekday;10
+1847;S College Ave @ Marvin Dr;39.661224;-75.752286;46-weekday;11
+4115;DE 896/4 Park & Ride (Outside);39.658152;-75.749942;46-weekday;12
+1854;S College Ave @ Chestnut Hl Rd W;39.654819;-75.75136;46-weekday;13
+188;S College Ave opp Friendlys;39.650685;-75.74914;46-weekday;14
+2606;S College Ave opp Glasgow Hs;39.630845;-75.743973;46-weekday;15
+331;S College Ave @ Four Seasons Pkwy;39.624569;-75.744297;46-weekday;16
+2608;S College Ave @ Corporate Bvd;39.616929;-75.745209;46-weekday;17
+2609;Corporate Blvd & opp Dept Of Labor;39.616442;-75.749979;46-weekday;18
+3326;Corporate Blvd @ Lake Dr;39.616745;-75.75349;46-weekday;19
+3327;Corporate Blvd @ Pencader Dr;39.616998;-75.756471;46-weekday;20
+3328;Pencader Dr @ 650 Pencader Dr;39.611962;-75.762844;46-weekday;21
+3329;Pencader Dr @ Reynolds Aluminum;39.611339;-75.767761;46-weekday;22
+3330;Pleasant Valley Rd opp Pencader Bar;39.607288;-75.769633;46-weekday;23
+3331;US Rt 40 @ Perch Creek Dr;39.603826;-75.764582;46-weekday;24
+3332;US Rt 40 @ Biddle Ave;39.60366;-75.754333;46-weekday;25
+313;Peoples Plaza Park & Ride;39.602733;-75.74603;46-weekday;26
+4106;North Middletown Park & Ride;39.485978;-75.72256;46-weekday;27
+4087;Ash Blvd @ Foxtail La;39.459481;-75.724161;46-weekday;28
+4080;Ramunno Dr @ Ash Blvd;39.458602;-75.728965;46-weekday;29
+4088;Fz - Ramunno Dr @ Lisa La;39.457084;-75.729228;46-weekday;30
+4089;Fz - Ramunno Dr @ Louis La;39.45397;-75.729131;46-weekday;31
+4090;Fz - Sandhill Dr @ Ketlay Plaza;39.451631;-75.729612;46-weekday;32
+4065;Merrimac Ave @ Bunker Hill Rd Sb;39.452872;-75.735951;46-weekday;33
+4075;Merrimac Ave @ Spring Arbor Dr;39.450885;-75.737888;46-weekday;34
+4064;Merrimac Ave @ Commerce Dr;39.444704;-75.740004;46-weekday;35
+4127;Merrimac Ave Oppp Amazon;39.440599;-75.737311;46-weekday;36
+4130;Industrial Dr @ Main St Nb;39.448963;-75.722974;46-weekday;37
+486;Main St @ N Catherine St Wb;39.449796;-75.713685;46-weekday;38
+3727;SR 299 opp New St;39.45003;-75.707881;46-weekday;39
+3364;SR 299 @ Silver Lake Road;39.450552;-75.699001;46-weekday;40
+3126;SR 299 @ Middletown High School;39.451788;-75.69038;46-weekday;41
+3136;Odessa Park & Ride (DE 299 & DE 1);39.45441;-75.678407;46-weekday;42
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;44;1
+3243;Christiana Retail Ctr @ Pier 1;39.674893;-75.650165;44;2
+3576;Wrangle Hill Park & Ride;39.576003;-75.657404;44;3
+4076;Delaware St @ Broad St;39.555594;-75.649659;44;4
+3795;5th St @ Jefferson St;39.574772;-75.597171;44;5
+3694;Washington St @ Harbor St;39.579828;-75.588669;44;6
+465;Delaware Ave @ Adams St;39.750532;-75.554576;42-weekend;1
+3362;11th St @ West St;39.747709;-75.550389;42-weekend;2
+4;11th St @ King St (Rodney Square);39.746129;-75.546627;42-weekend;3
+58;King St @ 8th St;39.742757;-75.548705;42-weekend;4
+675;King St @ 6th St;39.741333;-75.549595;42-weekend;5
+907;King St @ 3rd St;39.739538;-75.550804;42-weekend;6
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;42-weekend;7
+1796;Market St @ A St;39.73516;-75.554973;42-weekend;8
+1797;Market St @ Howard St;39.733141;-75.556228;42-weekend;9
+3808;Market St @ Asph Parking Lot;39.731936;-75.556355;42-weekend;10
+4042;Market St @ New Sweden St;39.728911;-75.55616;42-weekend;11
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;42-weekend;12
+178;I-95 Service Plaza;39.662153;-75.69194;42-weekend;13
+2606;S College Ave opp Glasgow Hs;39.630845;-75.743973;42-weekend;14
+331;S College Ave @ Four Seasons Pkwy;39.624569;-75.744297;42-weekend;15
+2608;S College Ave @ Corporate Bvd;39.616929;-75.745209;42-weekend;16
+3470;US Rt 40 @ Glasgow Ave;39.605656;-75.746062;42-weekend;17
+313;Peoples Plaza Park & Ride;39.602733;-75.74603;42-weekend;18
+465;Delaware Ave @ Adams St;39.750532;-75.554576;42-weekday;1
+3362;11th St @ West St;39.747709;-75.550389;42-weekday;2
+4;11th St @ King St (Rodney Square);39.746129;-75.546627;42-weekday;3
+58;King St @ 8th St;39.742757;-75.548705;42-weekday;4
+675;King St @ 6th St;39.741333;-75.549595;42-weekday;5
+907;King St @ 3rd St;39.739538;-75.550804;42-weekday;6
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;42-weekday;7
+1796;Market St @ A St;39.73516;-75.554973;42-weekday;8
+1797;Market St @ Howard St;39.733141;-75.556228;42-weekday;9
+3808;Market St @ Asph Parking Lot;39.731936;-75.556355;42-weekday;10
+4042;Market St @ New Sweden St;39.728911;-75.55616;42-weekday;11
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;42-weekday;12
+179;S College Ave @ Friendlys;39.650749;-75.74874;42-weekday;13
+1799;S College Ave @ Old Chestnut Hill Rd;39.655391;-75.751127;42-weekday;14
+180;DE 896 @ DE 4 Park & Ride (Inside);39.657875;-75.750176;42-weekday;15
+1854;S College Ave @ Chestnut Hl Rd W;39.654819;-75.75136;42-weekday;16
+188;S College Ave opp Friendlys;39.650685;-75.74914;42-weekday;17
+2606;S College Ave opp Glasgow Hs;39.630845;-75.743973;42-weekday;18
+331;S College Ave @ Four Seasons Pkwy;39.624569;-75.744297;42-weekday;19
+2608;S College Ave @ Corporate Bvd;39.616929;-75.745209;42-weekday;20
+3470;US Rt 40 @ Glasgow Ave;39.605656;-75.746062;42-weekday;21
+313;Peoples Plaza Park & Ride;39.602733;-75.74603;42-weekday;22
+119;9th St @ Market St;39.744717;-75.548684;40;1
+675;King St @ 6th St;39.741333;-75.549595;40;2
+907;King St @ 3rd St;39.739538;-75.550804;40;3
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;40;4
+1796;Market St @ A St;39.73516;-75.554973;40;5
+1797;Market St @ Howard St;39.733141;-75.556228;40;6
+3808;Market St @ Asph Parking Lot;39.731936;-75.556355;40;7
+4042;Market St @ New Sweden St;39.728911;-75.55616;40;8
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;40;9
+2114;Dupont Hwy @ Hessler IndUS Pk;39.711838;-75.562492;40;10
+194;Dupont Hwy @ Hazeldell Ave;39.709651;-75.564447;40;11
+1887;Dupont Hwy @ County Police Bl;39.707426;-75.566466;40;12
+1888;Dupont Hwy @ Delaware Public Auto Auction;39.705646;-75.5681;40;13
+1889;Dupont Hwy opp Gracelawn Mem Pk;39.702538;-75.570866;40;14
+1890;Dupont Hwy @ Lovelace Ave;39.701591;-75.571711;40;15
+1892;Dupont Hwy @ Health & Soc Svc;39.699992;-75.573119;40;16
+2115;Dupont Hwy @ Mcmullen Ave;39.692791;-75.579573;40;17
+2117;Dupont Hwy @ Bacon Ave;39.689733;-75.582258;40;18
+2118;Dupont Hwy @ Jefferson Ave;39.688384;-75.583467;40;19
+2119;Dupont Hwy @ Roosevelt Ave;39.686981;-75.584788;40;20
+2120;Dupont Hwy @ Harrison Ave;39.68547;-75.586172;40;21
+2121;Dupont Hwy @ Garfield Ave;39.683656;-75.587819;40;22
+4004;Dupont Hwy opp School La;39.673003;-75.597576;40;23
+3945;Dupont Hwy opp Quigley Blvd;39.663233;-75.607004;40;24
+2268;Dupont Hwy @ 5th Ave;39.659784;-75.61092;40;25
+2269;Dupont Hwy @ 3rd St;39.658608;-75.612285;40;26
+2270;Dupont Hwy @ Wilson Dr;39.65531;-75.616059;40;27
+4073;US Rt 40 @ Wilton Blvd;39.651759;-75.620622;40;28
+2583;US 40 @ Fir Ave;39.646186;-75.636949;40;29
+2584;US 40 @ Holly Ave;39.6446;-75.639777;40;30
+324;US 40 opp Buckley Blvd;39.640477;-75.647264;40;31
+3624;US 40 @ Best Western Plus Hotel;39.638752;-75.650291;40;32
+306;US 40 @ Governors Square;39.631317;-75.663102;40;33
+3551;US Rt 40 @ Governors Sq Plaza 2;39.63016;-75.665637;40;34
+2552;US Rt 40 @ Walther Rd;39.627881;-75.6714;40;35
+3835;Wilmington University Complex;39.625996;-75.675978;40;36
+3468;US Rt 40 @ Old Town Hall Ctr;39.624546;-75.679655;40;37
+2553;US Rt 40 @ Wellington Dr;39.622684;-75.684401;40;38
+308;US Rt 40 @ Brookmont Dr;39.621571;-75.687496;40;39
+309;US Rt 40 @ Glasgow Dr;39.620682;-75.689928;40;40
+310;US Rt 40 @ Salem Church Rd;39.618408;-75.695824;40;41
+2554;US Rt 40 @ Becks Woods Dr;39.616294;-75.699036;40;42
+311;US Rt 40 @ Scotland Dr;39.610942;-75.705524;40;43
+2555;US Rt 40 opp Rickey Blvd;39.60892;-75.710839;40;44
+312;US 40 @ Sunset Lake Rd;39.608324;-75.716177;40;45
+2556;US Rt 40 @ Broadleaf Dr;39.60803;-75.719467;40;46
+3469;US Rt 40 @ Aiken Ave;39.607065;-75.730481;40;47
+3470;US Rt 40 @ Glasgow Ave;39.605656;-75.746062;40;48
+313;Peoples Plaza Park & Ride;39.602733;-75.74603;40;49
+465;Delaware Ave @ Adams St;39.750532;-75.554576;37-north-middletown;1
+903;King St @ 9th St;39.744138;-75.547718;37-north-middletown;2
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;37-north-middletown;3
+3576;Wrangle Hill Park & Ride;39.576003;-75.657404;37-north-middletown;4
+4106;North Middletown Park & Ride;39.485978;-75.72256;37-north-middletown;5
+4056;Broad St @ Greenlawn Blvd;39.456603;-75.719022;37-north-middletown;6
+4057;Fz - Broad St @ Shallcross Pl;39.453831;-75.718106;37-north-middletown;7
+4059;Fz - Broad St @ Crawford St;39.451245;-75.717238;37-north-middletown;8
+4060;Fz - Green St @ Cox St;39.44861;-75.714728;37-north-middletown;9
+4063;Catherine St @ Main St;39.449758;-75.712494;37-north-middletown;10
+4129;Industrial Dr @ Main St Sb;39.448793;-75.723149;37-north-middletown;11
+3832;Amazon (Phl 7 & 9);39.440056;-75.736722;37-north-middletown;12
+465;Delaware Ave @ Adams St;39.750532;-75.554576;37-christiana;1
+903;King St @ 9th St;39.744138;-75.547718;37-christiana;2
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;37-christiana;3
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;37-christiana;4
+3576;Wrangle Hill Park & Ride;39.576003;-75.657404;37-christiana;5
+4056;Broad St @ Greenlawn Blvd;39.456603;-75.719022;37-christiana;6
+4057;Fz - Broad St @ Shallcross Pl;39.453831;-75.718106;37-christiana;7
+4059;Fz - Broad St @ Crawford St;39.451245;-75.717238;37-christiana;8
+4060;Fz - Green St @ Cox St;39.44861;-75.714728;37-christiana;9
+4063;Catherine St @ Main St;39.449758;-75.712494;37-christiana;10
+4129;Industrial Dr @ Main St Sb;39.448793;-75.723149;37-christiana;11
+3832;Amazon (Phl 7 & 9);39.440056;-75.736722;37-christiana;12
+4050;Wilmington Tc (Inside);39.737157;-75.549397;35;1
+72;Walnut St @ 5th St;39.739863;-75.548167;35;2
+102;French St @ 9th St;39.74405;-75.546434;35;3
+3851;10th St @ King St (Rodney Square);39.745406;-75.547296;35;4
+3970;10th St @ Tatnall St;39.746874;-75.550161;35;5
+839;West St @ 11th St;39.747847;-75.549999;35;6
+3218;Washington St @ 13th St;39.749945;-75.549838;35;7
+841;Washington St @ 14th St;39.750936;-75.549158;35;8
+842;Baynard Blvd @ Washington St;39.753699;-75.547276;35;9
+843;18th St @ Baynard Blvd;39.755265;-75.546689;35;10
+845;18th St @ Warner School;39.75837;-75.548951;35;11
+256;Broom St @ 19th St;39.760186;-75.549385;35;12
+847;Broom St @ 21st St;39.761327;-75.546802;35;13
+848;Broom St @ 23rd St;39.762011;-75.545405;35;14
+849;Broom St @ 25th St;39.76279;-75.543572;35;15
+257;Concord Pk @ Independence Mall;39.781515;-75.545256;35;16
+853;Concord Pk @ Murphy Rd;39.786033;-75.545866;35;17
+854;Concord Pk @ Fairfax Shop Ctr;39.787818;-75.546027;35;18
+855;Concord Pk opp Zeneca Bldg;39.789074;-75.546214;35;19
+856;Concord Pk opp Rollins Bldg;39.79134;-75.54653;35;20
+857;Concord Pk opp Sharpley Rd;39.793724;-75.546838;35;21
+858;Concord Pk @ Prospect Dr;39.795866;-75.547143;35;22
+859;Concord Pk @ Nichols Ave;39.798167;-75.547464;35;23
+860;Concord Pk @ Cleveland Av;39.800022;-75.5477;35;24
+861;Concord Pk @ Florence Ave;39.802389;-75.548025;35;25
+862;Concord Pk @ Prospect Ave;39.804346;-75.548392;35;26
+863;Concord Pk @ Seasons;39.806412;-75.548691;35;27
+63;Concord Pk @ Brandywine Blvd;39.808036;-75.54892;35;28
+2913;Silverside Rd @ Concord Pk;39.809044;-75.54867;35;29
+2914;Silverside Rd @ The Commons;39.808807;-75.544264;35;30
+3018;Silverside Rd opp Greenmount Dr;39.808585;-75.540548;35;31
+3049;Silverside Rd @ N Bapt Church Pnr;39.808474;-75.538836;35;32
+286;Shipley Rd @ Silverside Rd;39.809074;-75.535589;35;33
+3021;Shipley Rd @ N Lori Ln;39.810909;-75.535756;35;34
+3022;Shipley Rd @ Heathwood Rd;39.814518;-75.535531;35;35
+3050;Shipley Rd opp Cross Country Rd;39.81591;-75.535366;35;36
+3051;Shipley Rd @ Drexel Dr;39.818137;-75.535099;35;37
+3052;Shipley Rd @ Summerset Rd;39.819467;-75.534872;35;38
+3053;Shipley Rd opp Morningside Dr;39.821567;-75.534369;35;39
+3054;Shipley Rd opp S Rockfld Dr;39.824251;-75.534442;35;40
+3055;Shipley Rd @ Burnett Dr;39.825628;-75.53446;35;41
+3056;Shipley Rd opp N Rockfld Dr;39.827155;-75.534477;35;42
+3057;Shipley Rd @ Granite Way;39.82875;-75.534527;35;43
+3058;Naamans Rd opp Shopping Ctr;39.830072;-75.536287;35;44
+4099;Naamans Wb @ Brandywine Pkwy;39.829554;-75.538454;35;45
+4126;Concord Pk opp Chubb - Nb;39.831118;-75.543503;35;46
+2633;Market Sq opp Tj Maxx;39.832669;-75.54064;35;47
+67;Brandywine Town Center Park & Ride;39.831111;-75.535145;35;48
+4050;Wilmington Tc (Inside);39.737157;-75.549397;33;1
+72;Walnut St @ 5th St;39.739863;-75.548167;33;2
+908;8th St @ King St;39.743057;-75.548233;33;3
+73;8th St @ Shipley St;39.743609;-75.5496;33;4
+3;Orange St @ 10th St;39.745723;-75.549155;33;5
+1086;12th St @ Washington St;39.749131;-75.550896;33;6
+1088;Delaware Ave @ Jackson St;39.751526;-75.555224;33;7
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;33;8
+1050;DE Rt 7 @ Stairway To Churchmans Rd;39.686269;-75.655324;33;9
+2336;Churchmans Rd @ Churchmans Plaza;39.689367;-75.658842;33;10
+275;Christiana Hospital (Parking Garage);39.68917;-75.669875;33;11
+2337;DE 4 @ Hygeia Dr;39.690227;-75.673235;33;12
+2338;DE 4 @ Rolling Dr;39.68743;-75.678578;33;13
+2339;DE 4 @ Harmony Rd;39.685495;-75.682562;33;14
+2340;DE 4 @ Prides Crossing;39.682582;-75.688723;33;15
+2341;DE 4 @ Navient;39.680991;-75.692081;33;16
+279;Chestnut Hill Rd opp Salem Chrh Rd;39.676607;-75.700438;33;17
+2353;Chestnut Hill Rd @ Augusta Dr;39.674477;-75.704566;33;18
+2354;Chestnut Hill Rd opp Todd Ln;39.673333;-75.706706;33;19
+2356;Chestnut Hill Rd @ Todd Est Ent;39.670664;-75.710623;33;20
+2357;Chestnut Hill Rd @ Old Newark Rd;39.669182;-75.712694;33;21
+2358;Chestnut Hill Rd @ Malvern Ave;39.666766;-75.716663;33;22
+2352;Chestnut Hill Rd @ Ches Cross E;39.665075;-75.720749;33;23
+280;Chestnut Hill Rd @ Martindale Dr;39.663524;-75.724693;33;24
+2361;Chestnut Hill Rd @ Marrows Rd;39.662606;-75.727417;33;25
+2362;Chestnut Hill Rd @ Kingston Rd;39.662214;-75.730544;33;26
+2363;Chestnut Hill Rd @ DE 72 opp Pnr;39.661916;-75.73493;33;27
+2364;Chestnut Hill Rd opp Pencader S Cr;39.661624;-75.737487;33;28
+2365;Chestnut Hill Rd opp Argyle Rd;39.660965;-75.740018;33;29
+2366;Chestnut Hill Rd opp Robscott Ent;39.659229;-75.744152;33;30
+180;DE 896 @ DE 4 Park & Ride (Inside);39.657875;-75.750176;33;31
+1800;S College Ave @ Bob Carpenter Ctr;39.661341;-75.751946;33;32
+4086;S College Ave Oppp Discovery Blvd;39.663883;-75.752288;33;33
+181;S College Ave opp Inspiration Blvd;39.666533;-75.752631;33;34
+1801;S College Ave opp Ritter Ln;39.671983;-75.753352;33;35
+1802;S College Ave @ Kells Ave;39.673473;-75.753395;33;36
+1805;W Park Pl @ Apple Rd;39.674753;-75.761295;33;37
+1806;W Park Pl @ Willa Rd;39.674754;-75.763848;33;38
+1813;S Main St @ Murray Rd;39.675684;-75.764375;33;39
+183;S Main St @ Park & Shop Shopping Ctr;39.677239;-75.762449;33;40
+2373;S Main St @ Delaware Ave;39.681823;-75.757355;33;41
+2434;Delaware Ave @ S College Ave - Newark;39.681739;-75.751912;33;42
+1188;Delaware Ave @ Academy St;39.681919;-75.74912;33;43
+1189;Delaware Ave @ Chapel St - Newark;39.682217;-75.745854;33;44
+3679;Newark Transit Hub (Pomeroy La);39.682421;-75.743541;33;45
+4096;Nemours Childrens Hosp Main Entrance;39.778359;-75.556394;28-weekend;1
+3385;Childrens Dr @ Rockland Rd;39.78286;-75.554496;28-weekend;2
+2308;Murphy Rd & opp Zeneca Ent;39.784464;-75.549563;28-weekend;3
+262;Concord Pk @ Murphy Rd;39.784263;-75.546005;28-weekend;4
+890;Concord Pk opp Indepndnce Ml;39.780279;-75.545516;28-weekend;5
+891;Broom St @ 25th St;39.762973;-75.543414;28-weekend;6
+892;Broom St opp 23rd St;39.761989;-75.545649;28-weekend;7
+893;Broom St opp 21st St;39.761044;-75.547784;28-weekend;8
+264;Broom St @ 19th St;39.760297;-75.549426;28-weekend;9
+2311;Augustine C-off @ 18th St;39.761633;-75.554631;28-weekend;10
+2312;Augustine C-off @ Wawaset Rd;39.760599;-75.558543;28-weekend;11
+2313;Dupont St @ Gilpin Ave;39.758678;-75.561375;28-weekend;12
+3912;Dupont St @ 16th St;39.757575;-75.562822;28-weekend;13
+3422;Dupont St @ 11th St;39.753952;-75.56532;28-weekend;14
+3885;Dupont St @ 10th St;39.753019;-75.565908;28-weekend;15
+3397;Dupont St @ W 9th St;39.752336;-75.566425;28-weekend;16
+3423;Dupont St @ 7th St;39.749907;-75.568092;28-weekend;17
+997;4th St @ Clayton St;39.747213;-75.568259;28-weekend;18
+241;4th St @ Broom St;39.746254;-75.565874;28-weekend;19
+1000;4th St @ Franklin St;39.745588;-75.564193;28-weekend;20
+1002;4th St @ Van Buren St;39.744739;-75.56202;28-weekend;21
+90;4th St & Monroe St;39.74332;-75.558707;28-weekend;22
+1006;4th St @ Washington St;39.741822;-75.555011;28-weekend;23
+4005;4th St @ Orange St;39.740928;-75.552656;28-weekend;24
+907;King St @ 3rd St;39.739538;-75.550804;28-weekend;25
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;28-weekend;26
+3736;Howard St @ Shop Rite;39.732781;-75.555296;28-weekend;27
+4042;Market St @ New Sweden St;39.728911;-75.55616;28-weekend;28
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;28-weekend;29
+2114;Dupont Hwy @ Hessler IndUS Pk;39.711838;-75.562492;28-weekend;30
+3964;Dmv Wilmington;39.714265;-75.564352;28-weekend;31
+4096;Nemours Childrens Hosp Main Entrance;39.778359;-75.556394;28-weekday;1
+260;Nemours Clinic;39.781096;-75.552312;28-weekday;2
+3385;Childrens Dr @ Rockland Rd;39.78286;-75.554496;28-weekday;3
+2308;Murphy Rd & opp Zeneca Ent;39.784464;-75.549563;28-weekday;4
+262;Concord Pk @ Murphy Rd;39.784263;-75.546005;28-weekday;5
+890;Concord Pk opp Indepndnce Ml;39.780279;-75.545516;28-weekday;6
+891;Broom St @ 25th St;39.762973;-75.543414;28-weekday;7
+892;Broom St opp 23rd St;39.761989;-75.545649;28-weekday;8
+893;Broom St opp 21st St;39.761044;-75.547784;28-weekday;9
+264;Broom St @ 19th St;39.760297;-75.549426;28-weekday;10
+2311;Augustine C-off @ 18th St;39.761633;-75.554631;28-weekday;11
+2312;Augustine C-off @ Wawaset Rd;39.760599;-75.558543;28-weekday;12
+2313;Dupont St @ Gilpin Ave;39.758678;-75.561375;28-weekday;13
+3912;Dupont St @ 16th St;39.757575;-75.562822;28-weekday;14
+3422;Dupont St @ 11th St;39.753952;-75.56532;28-weekday;15
+3885;Dupont St @ 10th St;39.753019;-75.565908;28-weekday;16
+3397;Dupont St @ W 9th St;39.752336;-75.566425;28-weekday;17
+3423;Dupont St @ 7th St;39.749907;-75.568092;28-weekday;18
+997;4th St @ Clayton St;39.747213;-75.568259;28-weekday;19
+241;4th St @ Broom St;39.746254;-75.565874;28-weekday;20
+1000;4th St @ Franklin St;39.745588;-75.564193;28-weekday;21
+1002;4th St @ Van Buren St;39.744739;-75.56202;28-weekday;22
+90;4th St & Monroe St;39.74332;-75.558707;28-weekday;23
+1006;4th St @ Washington St;39.741822;-75.555011;28-weekday;24
+4005;4th St @ Orange St;39.740928;-75.552656;28-weekday;25
+907;King St @ 3rd St;39.739538;-75.550804;28-weekday;26
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;28-weekday;27
+3736;Howard St @ Shop Rite;39.732781;-75.555296;28-weekday;28
+4042;Market St @ New Sweden St;39.728911;-75.55616;28-weekday;29
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;28-weekday;30
+2114;Dupont Hwy @ Hessler IndUS Pk;39.711838;-75.562492;28-weekday;31
+3964;Dmv Wilmington;39.714265;-75.564352;28-weekday;32
+1897;Memorial Dr @ Karlyn Dr N;39.708745;-75.562276;28-weekday;33
+1898;Memorial Dr @ Parma Ave;39.707457;-75.561161;28-weekday;34
+1899;Memorial Dr @ Karlyn Dr S;39.704358;-75.558632;28-weekday;35
+1900;Memorial Dr @ Bizarre Dr;39.702001;-75.556611;28-weekday;36
+197;Memorial Dr @ Lind Ave;39.699953;-75.55368;28-weekday;37
+3696;Cherry Lane @ Riverview Dr;39.691515;-75.549555;28-weekday;38
+3692;Cherry Lane @ Dept Of Corrections;39.68926;-75.544018;28-weekday;39
+3106;Lukens Dr opp 2 Lukens Dr;39.689816;-75.548536;28-weekday;40
+3100;Lukens Dr @ 55 Lukens Dr;39.68798;-75.550115;28-weekday;41
+3099;Lukens Dr opp Movers Intl;39.685358;-75.546268;28-weekday;42
+3313;Lukens Dr @ 551 Mews Dr;39.678554;-75.547612;28-weekday;43
+3095;Steel Dr @ Lukens Dr;39.677175;-75.549006;28-weekday;44
+152;Miller Rd Shop Ctr;39.766348;-75.53441;25;1
+1590;Franklin St @ 39th St;39.767628;-75.529853;25;2
+1591;Lea Blvd opp Coverly Rd;39.767204;-75.528005;25;3
+1592;Lea Blvd @ Monroe St;39.766589;-75.526955;25;4
+1593;Monroe St @ 39th St;39.765615;-75.528107;25;5
+1594;Monroe St @ 37th St;39.764765;-75.530049;25;6
+1595;Monroe St opp 35th St;39.763397;-75.532649;25;7
+1596;Van Buren St @ 32nd St;39.763465;-75.534899;25;8
+1597;Van Buren St @ 30th St;39.762669;-75.536664;25;9
+1598;Van Buren St @ 28th St;39.761712;-75.538806;25;10
+1599;Van Buren St @ 26th St;39.760888;-75.54063;25;11
+1601;Van Buren St @ Baynard Blvd;39.760198;-75.542854;25;12
+1603;Baynard Blvd @ 22nd St;39.75876;-75.543958;25;13
+1604;Baynard Blvd @ 21st St;39.757867;-75.544545;25;14
+1605;Baynard Blvd @ 20th St;39.756903;-75.545214;25;15
+153;Baynard Blvd @ 18th St;39.755143;-75.546447;25;16
+898;Baynard Blvd @ Washington St;39.753368;-75.54768;25;17
+899;Washington St @ 14th St;39.750954;-75.549323;25;18
+3926;Washington St opp 13th St;39.749748;-75.550121;25;19
+901;Washington St @ 12th St;39.748712;-75.550825;25;20
+3362;11th St @ West St;39.747709;-75.550389;25;21
+3934;Market St @ 9th St;39.744726;-75.548355;25;22
+3935;Market St @ 7th St;39.742725;-75.549763;25;23
+3862;Market St @ 2nd St;39.738804;-75.552427;25;24
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;25;25
+3863;West St @ Barclays Wb;39.737485;-75.558064;25;26
+3844;Justison St @ Hollingsworth Ave;39.735518;-75.56059;25;27
+3404;Justison St @ Frawley Dr;39.733812;-75.561846;25;28
+4067;Shipyard Dr @ Frawley Stadium;39.732346;-75.563691;25;29
+4066;Shipyard Dr @ Pettinaro Park Dr;39.73031;-75.564109;25;30
+4068;Shipyard Dr @ Judy Johnson Dr;39.72807;-75.564457;25;31
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;25;32
+2114;Dupont Hwy @ Hessler IndUS Pk;39.711838;-75.562492;25;33
+194;Dupont Hwy @ Hazeldell Ave;39.709651;-75.564447;25;34
+1887;Dupont Hwy @ County Police Bl;39.707426;-75.566466;25;35
+1888;Dupont Hwy @ Delaware Public Auto Auction;39.705646;-75.5681;25;36
+1889;Dupont Hwy opp Gracelawn Mem Pk;39.702538;-75.570866;25;37
+1890;Dupont Hwy @ Lovelace Ave;39.701591;-75.571711;25;38
+1892;Dupont Hwy @ Health & Soc Svc;39.699992;-75.573119;25;39
+2115;Dupont Hwy @ Mcmullen Ave;39.692791;-75.579573;25;40
+2117;Dupont Hwy @ Bacon Ave;39.689733;-75.582258;25;41
+2118;Dupont Hwy @ Jefferson Ave;39.688384;-75.583467;25;42
+2119;Dupont Hwy @ Roosevelt Ave;39.686981;-75.584788;25;43
+2120;Dupont Hwy @ Harrison Ave;39.68547;-75.586172;25;44
+2121;Dupont Hwy @ Garfield Ave;39.683656;-75.587819;25;45
+2124;Dupont Hwy @ NCC Airport;39.674573;-75.597933;25;46
+225;Sunset Blvd @ Arbys Rest;39.67036;-75.598239;25;47
+2126;Traders La Opp Bjs;39.667913;-75.599514;25;48
+3834;Amazon (Phl 1);39.664455;-75.591141;25;49
+3202;Centerpoint Blvd @ Amazon.com;39.664158;-75.587576;25;50
+2127;Frenchtown Rd @ Farmers Mkt Ent;39.66528;-75.599459;25;51
+3945;Dupont Hwy opp Quigley Blvd;39.663233;-75.607004;25;52
+2268;Dupont Hwy @ 5th Ave;39.659784;-75.61092;25;53
+2269;Dupont Hwy @ 3rd St;39.658608;-75.612285;25;54
+2272;Dupont Hwy opp Llangollen Blvd;39.648955;-75.621612;25;55
+2276;Mendell Pl @ Saienni Blvd;39.641823;-75.622459;25;56
+2277;Saienni Blvd opp Maple Ct Apts;39.640581;-75.623607;25;57
+249;Saienni Blvd @ Dupont Hwy;39.640853;-75.625983;25;58
+3559;Dupont Hwy @ Mallard Pointe;39.640591;-75.62764;25;59
+2278;Dupont Hwy @ Buena Vista Dr;39.638205;-75.629314;25;60
+2279;Dupont Hwy & Vinway Rd;39.636418;-75.630566;25;61
+4093;Amazon (ILG1);39.623825;-75.631428;25;62
+4071;New Castle County Logistics Ctr;39.585611;-75.654491;25;63
+3576;Wrangle Hill Park & Ride;39.576003;-75.657404;25;64
+4050;Wilmington Tc (Inside);39.737157;-75.549397;20;1
+72;Walnut St @ 5th St;39.739863;-75.548167;20;2
+102;French St @ 9th St;39.74405;-75.546434;20;3
+3851;10th St @ King St (Rodney Square);39.745406;-75.547296;20;4
+839;West St @ 11th St;39.747847;-75.549999;20;5
+1086;12th St @ Washington St;39.749131;-75.550896;20;6
+1089;Pennsylvania Ave @ Franklin St;39.753221;-75.558759;20;7
+1090;Pennsylvania Ave @ Broom St;39.753889;-75.561092;20;8
+1092;Pennsylvania Ave @ Clayton St;39.754377;-75.563151;20;9
+1093;Pennsylvania Ave @ Dupont St;39.754762;-75.564549;20;10
+1977;Pennsylvania Ave @ Lincoln St;39.75572;-75.566949;20;11
+1978;Pennsylvania Ave @ Union St;39.756781;-75.568827;20;12
+209;Pennsylvania Ave @ Woodlawn Ave;39.75805;-75.571179;20;13
+1981;Pennsylvania Ave @ Greenhill Ave;39.760067;-75.574551;20;14
+1982;Pennsylvania Ave @ Mt Salem Ln;39.761532;-75.577037;20;15
+132;Pennsylvania Ave @ Rising Sun Ln;39.76311;-75.57949;20;16
+1408;Kennett Pk opp Westover Rd;39.766019;-75.583301;20;17
+1409;Kennett Pk opp Hopeton Rd;39.767027;-75.584564;20;18
+1410;Kennett Pk @ Brecks Ln;39.768378;-75.58637;20;19
+1412;Kennett Pk opp Christiana Care;39.770563;-75.589082;20;20
+4120;Centre Rd opp Barley Mill Plaza;39.764855;-75.598999;20;21
+4121;Centre Rd @ Lancaster Pike;39.759554;-75.603777;20;22
+975;Lancaster Pk opp Downs Dr;39.759841;-75.607308;20;23
+976;Lancaster Pk opp Masonic Home;39.761062;-75.613188;20;24
+977;Lancaster Pk @ Hedgerow Pl;39.761342;-75.616713;20;25
+1986;Lancaster Pk @ Centerville Rd;39.761946;-75.623678;20;26
+1998;Lancaster Pk opp Westgate Dr;39.766076;-75.653962;20;27
+1999;Lancaster Pk opp Coffe Rn Cond;39.769959;-75.661267;20;28
+2000;Lancaster Pk @ Loveville Rd;39.771024;-75.663835;20;29
+2003;Lancaster Pk opp Sanford Schl;39.775536;-75.67478;20;30
+2005;Lancaster Pk @ Brackenville Rd;39.780562;-75.679933;20;31
+2007;Lancaster Pk @ Coffee Run S Ctr;39.785345;-75.684858;20;32
+212;Lancaster Pk opp Wells Fargo;39.7873;-75.690731;20;33
+213;Yorklyn Rd @ Lancaster Pk;39.788452;-75.696469;20;34
+2009;Old Lancaster Pk opp Wells Fargo;39.786113;-75.693375;20;35
+214;Old Lancaster Pk @ Erickson Ave;39.785503;-75.69205;20;36
+2012;Erickson Ave @ Becket Ct;39.781429;-75.695981;20;37
+2014;Millcreek Rd @ Grant Ave;39.784542;-75.69793;20;38
+215;Yorklyn Rd @ Lancaster Pk;39.78827;-75.696447;20;39
+465;Delaware Ave @ Adams St;39.750532;-75.554576;15;1
+1271;Delaware Ave @ Jefferson St;39.748674;-75.552414;15;2
+3861;Delaware Ave at Tatnall St;39.746625;-75.550102;15;3
+903;King St @ 9th St;39.744138;-75.547718;15;4
+675;King St @ 6th St;39.741333;-75.549595;15;5
+2460;4th St @ French St;39.739747;-75.549731;15;6
+1622;4th St @ Poplar St;39.738641;-75.547128;15;7
+1625;4th St opp Spruce St;39.737484;-75.544332;15;8
+1626;4th St @ Church St;39.736715;-75.542454;15;9
+1627;Heald St opp Apple St;39.731813;-75.542218;15;10
+1628;Heald St @ A St;39.73016;-75.543283;15;11
+1629;Heald St @ B St;39.728911;-75.544188;15;12
+3661;Heald St @ D St;39.727211;-75.545366;15;13
+1633;New Castle Ave opp New York Ave;39.724128;-75.544471;15;14
+1634;New Castle Ave opp Terminal Ave;39.721331;-75.545242;15;15
+1635;New Castle Ave opp Dover Ave;39.719518;-75.545778;15;16
+1636;New Castle Ave opp North St;39.716761;-75.546712;15;17
+1637;New Castle Ave opp South St;39.71527;-75.547123;15;18
+1638;New Castle Ave @ Gmc Truck;39.714061;-75.547615;15;19
+160;New Castle Ave @ Rogers Rd;39.711976;-75.548377;15;20
+1639;New Castle Ave opp Rizzo Ave;39.709918;-75.549052;15;21
+1640;New Castle Ave @ Ryan Ave;39.708341;-75.549544;15;22
+1641;New Castle Ave opp Rose Ln;39.707217;-75.54993;15;23
+1642;New Castle Ave opp Lambsons Ln;39.705272;-75.550622;15;24
+1643;New Castle Ave @ Moorehouse Dr;39.702967;-75.551391;15;25
+1644;New Castle Ave @ Bowlerama;39.701128;-75.552022;15;26
+1645;New Castle Ave @ Memorial Dr;39.698824;-75.552806;15;27
+161;New Castle Ave @ Cherry Ln;39.693057;-75.554832;15;28
+1646;New Castle Ave opp Rodney Dr;39.691329;-75.555458;15;29
+1647;New Castle Ave @ Landers Ln;39.688127;-75.556593;15;30
+1655;Landers Ln opp Queen Ave E En;39.688776;-75.55886;15;31
+1656;Landers Ln @ Glen Ave;39.68955;-75.560445;15;32
+1657;Landers Ln opp Queen Ave W En;39.690245;-75.561857;15;33
+1658;Landers Ln opp East Ave;39.69102;-75.563416;15;34
+1659;Landers Ln @ Moores Ln;39.691971;-75.565309;15;35
+1660;Moores Ln opp Midfield Ave N;39.6903;-75.567079;15;36
+1661;Moores Ln opp Pierson Pl;39.687479;-75.568122;15;37
+1662;Moores Ln opp Midfield Ave S;39.685526;-75.567849;15;38
+1663;Moores Ln @ Colonial Vill Ap;39.684241;-75.567636;15;39
+162;Moores Ln @ Montpelier Blvd;39.683454;-75.568265;15;40
+1664;Montpelier Blvd @ Lunenburg Dr;39.683071;-75.569868;15;41
+1665;Montpelier Blvd @ Powhatan Rd;39.682824;-75.572336;15;42
+1666;Independence Blv @ Raleigh Ct;39.681634;-75.572921;15;43
+1667;Independence Blv @ Tuckahoe Rd;39.680146;-75.572933;15;44
+1668;Independence Blv @ Shadwell Ct;39.678549;-75.572767;15;45
+1669;Constitution Blv @ Independence Blv;39.677186;-75.571974;15;46
+1670;Constitution Blv opp Monticello Bl;39.678065;-75.568714;15;47
+1671;Constitution Blv @ Moores Ln;39.679637;-75.566279;15;48
+4111;Moores La opp Rogers Manor Park;39.678308;-75.565887;15;49
+1672;Moores Ln @ Swedes St;39.676969;-75.56522;15;50
+1674;Moores Ln @ 12th St;39.674414;-75.5622;15;51
+3380;Wilmington Rd @ Baldt Ave;39.672291;-75.561273;15;52
+3666;Ships Landing Way Opp. Tire Rack;39.67111;-75.557494;15;53
+3668;Ships Landing Way opp Hibbert Group;39.671291;-75.555106;15;54
+3667;Ships Landing Way @ Essbar Equipment;39.672996;-75.554899;15;55
+3669;Anchor Mill Road opp 5 Below Inc;39.67396;-75.556612;15;56
+1675;Wilmington Rd opp E 6th St;39.66808;-75.560768;15;57
+164;6th St @ Delaware Ave (Historic New Castle);39.661842;-75.56714;15;58
+1678;6th St - NC @ Tremont St;39.660939;-75.568268;15;59
+1679;6th St - NC @ South St;39.659974;-75.569476;15;60
+1680;7th St - NC @ South St;39.660168;-75.571099;15;61
+4044;7th St - NC Oppp The Garrison Apts;39.658851;-75.574224;15;62
+1684;Washington St - NC @ 10th St;39.661052;-75.576594;15;63
+1685;Washington St - NC @ 11th St;39.662058;-75.577319;15;64
+1686;Washington St - NC @ 13th St;39.663574;-75.578365;15;65
+165;Basin Rd @ Frenchtown Rd;39.665321;-75.57964;15;66
+1687;Basin Rd @ Stockton Dr;39.668548;-75.581919;15;67
+1688;Basin Rd @ Notre Dame Ave;39.670714;-75.583442;15;68
+1689;Basin Rd @ University Ave;39.672836;-75.584953;15;69
+1690;Basin Rd @ E Roosevelt Ave;39.67477;-75.586323;15;70
+1691;Basin Rd @ Blount Rd;39.675804;-75.587044;15;71
+166;Basin Rd @ Crippen Dr;39.677239;-75.588071;15;72
+1693;Basin Rd @ Washington Ave;39.683835;-75.592655;15;73
+1692;Basin Rd @ Jay Dr;39.686287;-75.594368;15;74
+4104;Basin Rd @ Paul Rd;39.691448;-75.597595;15;75
+239;Basin Rd @ News Journal;39.695522;-75.600254;15;76
+3508;Creekwood Dr @ E. Commons Blvd;39.696705;-75.597269;15;77
+4103;Commons Blvd @ Fed Ex Ship Center;39.692843;-75.601576;15;78
+3968;Commons Blvd @ Reads Way;39.687468;-75.608137;15;79
+168;Reads Way @ Bldg One;39.688554;-75.609154;15;80
+1697;Reads Way @ 31 Reads Way;39.688819;-75.612407;15;81
+1698;Reads Way @ New Castle Cy Gov Ct;39.686551;-75.611805;15;82
+1699;Commons Blvd opp Easter Seals;39.685521;-75.615189;15;83
+1700;Airport Rd opp Schley Rd;39.684116;-75.619285;15;84
+1701;Airport Rd @ Mowery Rd;39.681741;-75.621496;15;85
+231;Airport Rd @ Churchmans Rd;39.677584;-75.625494;15;86
+3192;Churchmans Rd @ Ncc Com Pk;39.686363;-75.635923;15;87
+3193;Churchmans Rd opp Cavalier Apts;39.687305;-75.642257;15;88
+3194;Churchmans Rd @ Deltech Ent;39.68794;-75.649989;15;89
+4069;Christiana Mall Park & Ride (Outside);39.680262;-75.65589;15;90
+1711;Christiana Mall (Target);39.679634;-75.650307;15;91
+152;Miller Rd Shop Ctr;39.766348;-75.53441;14;1
+1590;Franklin St @ 39th St;39.767628;-75.529853;14;2
+1591;Lea Blvd opp Coverly Rd;39.767204;-75.528005;14;3
+1592;Lea Blvd @ Monroe St;39.766589;-75.526955;14;4
+3999;Lea Blvd @ Washington St;39.764746;-75.523218;14;5
+932;Lea Blvd @ Tatnall St;39.762791;-75.521658;14;6
+3519;Lea Blvd @ Pine St;39.760298;-75.519761;14;7
+933;Lea Blvd @ Goodwill Exit;39.757316;-75.517816;14;8
+80;Lea Blvd @ Goodwill Ent;39.75525;-75.517505;14;9
+934;Gov Printz Blvd @ Lea Blvd;39.753462;-75.517293;14;10
+936;Gov Printz Blvd @ Pepsi Plant;39.753803;-75.520581;14;11
+937;Northeast Blvd @ 35th St;39.75336;-75.522431;14;12
+3789;Northeast Blvd @ 30th St;39.752246;-75.525009;14;13
+938;Northeast Blvd opp 29th St;39.751259;-75.526149;14;14
+81;Northeast Blvd @ 27th St;39.749825;-75.527662;14;15
+941;26th St @ Heald St;39.749799;-75.528473;14;16
+942;26th St @ Locust St;39.750957;-75.5303;14;17
+944;26th St @ Pine St;39.75275;-75.533121;14;18
+82;26th St @ Jessup St;39.753338;-75.534038;14;19
+945;Jessup St @ 25th St;39.752862;-75.534779;14;20
+946;Jessup St @ 23rd St;39.751672;-75.536072;14;21
+947;Jessup St @ Vandever Ave;39.749361;-75.538497;14;22
+949;16th St @ Walnut St;39.748973;-75.541813;14;23
+3974;King St @ 13th St;39.747863;-75.545159;14;24
+57;King St @ 10th St (Library);39.745138;-75.547092;14;25
+675;King St @ 6th St;39.741333;-75.549595;14;26
+907;King St @ 3rd St;39.739538;-75.550804;14;27
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;14;28
+1796;Market St @ A St;39.73516;-75.554973;14;29
+3736;Howard St @ Shop Rite;39.732781;-75.555296;14;30
+1859;A St opp Humane Socty;39.73169;-75.546763;14;31
+1860;A St @ Townsend St;39.730606;-75.544142;14;32
+1628;Heald St @ A St;39.73016;-75.543283;14;33
+1629;Heald St @ B St;39.728911;-75.544188;14;34
+3661;Heald St @ D St;39.727211;-75.545366;14;35
+1633;New Castle Ave opp New York Ave;39.724128;-75.544471;14;36
+1634;New Castle Ave opp Terminal Ave;39.721331;-75.545242;14;37
+1635;New Castle Ave opp Dover Ave;39.719518;-75.545778;14;38
+1636;New Castle Ave opp North St;39.716761;-75.546712;14;39
+1637;New Castle Ave opp South St;39.71527;-75.547123;14;40
+1638;New Castle Ave @ Gmc Truck;39.714061;-75.547615;14;41
+160;New Castle Ave @ Rogers Rd;39.711976;-75.548377;14;42
+1861;Rogers Rd @ Oakmont Dr;39.712773;-75.549464;14;43
+191;Hastie Dr @ Rogers Rd;39.714516;-75.551491;14;44
+1862;Talledega Dr @ Bunche Blvd;39.713673;-75.551539;14;45
+1863;Bunche Blvd @ Cheyney Dr;39.712523;-75.553547;14;46
+1864;Bunche Blvd @ Carver Dr;39.711663;-75.555216;14;47
+1865;Bunche Blvd opp Anderson Dr;39.710554;-75.557034;14;48
+1866;Moorehouse Dr @ Bunche Blvd;39.708785;-75.558236;14;49
+1867;Moorehouse Dr @ E Of Bunche Blvd;39.707594;-75.557705;14;50
+1868;Moorehouse Dr @ B Bunche-anderson;39.706365;-75.556655;14;51
+1869;Moorehouse Dr @ W Of Anderson Dr;39.705019;-75.555536;14;52
+1870;Moorehouse Dr @ Anderson Dr;39.70393;-75.554562;14;53
+1871;Moorehouse Dr @ New Castle Ave;39.702886;-75.551756;14;54
+1644;New Castle Ave @ Bowlerama;39.701128;-75.552022;14;55
+193;Memorial Dr opp Lind Ave;39.700052;-75.553517;14;56
+1883;Memorial Dr @ Bizarre Dr;39.701906;-75.556268;14;57
+1884;Memorial Dr @ Karlyn Dr S;39.704128;-75.558108;14;58
+1885;Memorial Dr @ Parma Ave;39.70725;-75.560727;14;59
+1886;Memorial Dr @ Karlyn Dr N;39.708513;-75.561667;14;60
+194;Dupont Hwy @ Hazeldell Ave;39.709651;-75.564447;14;61
+1887;Dupont Hwy @ County Police Bl;39.707426;-75.566466;14;62
+1888;Dupont Hwy @ Delaware Public Auto Auction;39.705646;-75.5681;14;63
+1889;Dupont Hwy opp Gracelawn Mem Pk;39.702538;-75.570866;14;64
+1890;Dupont Hwy @ Lovelace Ave;39.701591;-75.571711;14;65
+1892;Dupont Hwy @ Health & Soc Svc;39.699992;-75.573119;14;66
+195;Dept Of Health & Social Services;39.700151;-75.575032;14;67
+3695;Baylor Women's Correctional Inst;39.702808;-75.581105;14;68
+732;Naamans Rd @ Montclair Dr;39.817689;-75.459995;13;1
+735;Society Dr @ Bldg 2000;39.820361;-75.460975;13;2
+736;Society Dr @ Bldg 7000;39.821625;-75.45888;13;3
+737;Society Dr @ Shelter 2;39.820153;-75.456954;13;4
+738;Society Dr opp Northtowne Plaza;39.818258;-75.457844;13;5
+742;Peachtree Rd @ Appletree Ct;39.81573;-75.460282;13;6
+743;Peachtree Rd opp Cedartree Ct;39.814904;-75.462045;13;7
+744;Peachtree Rd @ Birchtree Ln;39.815364;-75.463522;13;8
+746;Darley Rd @ Peachtree Rd;39.812769;-75.466108;13;9
+747;Darley Rd @ Ruby Dr;39.811447;-75.462476;13;10
+751;Darley Rd @ Lenape Way;39.806914;-75.45604;13;11
+158;Philadelphia Pk opp Archmere Academy;39.804002;-75.45549;13;12
+754;Philadelphia Pk @ Seminole Ave;39.802451;-75.457921;13;13
+756;Philadelphia Pk @ Lawson Ave;39.799985;-75.461334;13;14
+757;Philadelphia Pk @ Commonwealth Ave;39.797814;-75.463819;13;15
+759;Philadelphia Pk @ Pennsylvania Ave;39.795912;-75.466018;13;16
+760;Philadelphia Pk @ Harvey Rd;39.793799;-75.468398;13;17
+761;Philadelphia Pk @ Maple Rd;39.791726;-75.470757;13;18
+764;Philadelphia Pk opp Winding Rd;39.789254;-75.473431;13;19
+765;Philadelphia Pk @ W Delaware Ave;39.787414;-75.475447;13;20
+767;Philadelphia Pk @ Holly Oak Rd;39.784893;-75.478262;13;21
+52;Philadelphia Pk @ Silverside Rd;39.782588;-75.481664;13;22
+770;Philadelphia Pk @ Clearview Ave;39.781789;-75.482945;13;23
+772;Philadelphia Pk opp Sunset Dr-del;39.780241;-75.485162;13;24
+821;Philadelphia Pk @ Bellevue Corp Cr;39.778008;-75.488838;13;25
+825;Philadelphia Pk opp Bellevue Rd;39.775826;-75.492159;13;26
+828;Philadelphia Pk opp Lindsey Pl;39.773459;-75.495538;13;27
+791;Philadelphia Pk @ Dupont Ave;39.771859;-75.498016;13;28
+830;Duncan Rd & Philadelphia Pk;39.771857;-75.497305;13;29
+54;Duncan Rd @ Brandywine Blvd;39.770517;-75.494836;13;30
+778;Brandywine Blvd opp Highland Ave;39.768408;-75.497452;13;31
+779;Brandywine Blvd opp Bellefonte Av;39.767845;-75.498554;13;32
+781;Brandywine Blvd @ Marion Ave;39.76652;-75.500006;13;33
+782;Brandywine Blvd @ Maple Ave;39.765465;-75.501053;13;34
+783;Brandywine Blvd @ Stidham Ave;39.76415;-75.502364;13;35
+784;Brandywine Blvd @ Lore Ave;39.763137;-75.503323;13;36
+786;Haines Ave @ Chestnut Ave;39.762886;-75.506284;13;37
+787;Hillcrest Ave @ Woodside Ave;39.763304;-75.507926;13;38
+788;Hillcrest Ave @ Marsh Rd;39.763664;-75.509905;13;39
+789;Hillcrest Ave @ Beeson Ave;39.764004;-75.511674;13;40
+790;Hillcrest Ave @ Philadelphia Pk;39.764378;-75.51377;13;41
+800;Philadelphia Pk @ Forman Mills;39.762818;-75.51776;13;42
+834;Philadelphia Pk @ 44th St;39.762061;-75.519323;13;43
+56;Market St @ Lea Blvd;39.761314;-75.521029;13;44
+801;Market St @ 41st St;39.760794;-75.522139;13;45
+803;Market St @ 38th St;39.759704;-75.524514;13;46
+804;Market St @ 36th St;39.75909;-75.525893;13;47
+806;Market St @ 33rd St;39.757857;-75.528565;13;48
+808;Market St @ 30th St;39.756373;-75.531816;13;49
+810;Market St @ 28th St;39.755221;-75.534265;13;50
+811;Market St @ 26th St;39.75455;-75.535867;13;51
+813;Market St @ 24th St;39.753746;-75.5377;13;52
+815;Market St @ 22nd St;39.752741;-75.539891;13;53
+816;Market St @ Concord Ave;39.752375;-75.540765;13;54
+818;Market St @ 19th St;39.751489;-75.542611;13;55
+3974;King St @ 13th St;39.747863;-75.545159;13;56
+57;King St @ 10th St (Library);39.745138;-75.547092;13;57
+58;King St @ 8th St;39.742757;-75.548705;13;58
+675;King St @ 6th St;39.741333;-75.549595;13;59
+907;King St @ 3rd St;39.739538;-75.550804;13;60
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;13;61
+1796;Market St @ A St;39.73516;-75.554973;13;62
+1797;Market St @ Howard St;39.733141;-75.556228;13;63
+3808;Market St @ Asph Parking Lot;39.731936;-75.556355;13;64
+4042;Market St @ New Sweden St;39.728911;-75.55616;13;65
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;13;66
+2114;Dupont Hwy @ Hessler IndUS Pk;39.711838;-75.562492;13;67
+194;Dupont Hwy @ Hazeldell Ave;39.709651;-75.564447;13;68
+1887;Dupont Hwy @ County Police Bl;39.707426;-75.566466;13;69
+1888;Dupont Hwy @ Delaware Public Auto Auction;39.705646;-75.5681;13;70
+1889;Dupont Hwy opp Gracelawn Mem Pk;39.702538;-75.570866;13;71
+1890;Dupont Hwy @ Lovelace Ave;39.701591;-75.571711;13;72
+1892;Dupont Hwy @ Health & Soc Svc;39.699992;-75.573119;13;73
+2115;Dupont Hwy @ Mcmullen Ave;39.692791;-75.579573;13;74
+2117;Dupont Hwy @ Bacon Ave;39.689733;-75.582258;13;75
+2118;Dupont Hwy @ Jefferson Ave;39.688384;-75.583467;13;76
+2119;Dupont Hwy @ Roosevelt Ave;39.686981;-75.584788;13;77
+2120;Dupont Hwy @ Harrison Ave;39.68547;-75.586172;13;78
+2121;Dupont Hwy @ Garfield Ave;39.683656;-75.587819;13;79
+2124;Dupont Hwy @ NCC Airport;39.674573;-75.597933;13;80
+225;Sunset Blvd @ Arbys Rest;39.67036;-75.598239;13;81
+2126;Traders La Opp Bjs;39.667913;-75.599514;13;82
+2127;Frenchtown Rd @ Farmers Mkt Ent;39.66528;-75.599459;13;83
+2130;Christiana Rd @ Churchmans Rd;39.665428;-75.612103;13;84
+2131;Christiana Rd @ Sally Mae Bldg;39.665164;-75.61502;13;85
+2133;Christiana Rd @ Fresconi Dr;39.66439;-75.622877;13;86
+2136;Christiana Rd @ Edinburgh Dr;39.663723;-75.6303;13;87
+2137;Christiana Rd @ Gtown Apts East Q1;39.66347;-75.633045;13;88
+2138;Christiana Rd opp Saddlebrook;39.66315;-75.636902;13;89
+2139;Appleby Rd @ Frenchtown Rd;39.661761;-75.641354;13;90
+3847;Appleby Rd @ Winburne Dr;39.659959;-75.639407;13;91
+2142;Appleby Rd @ Wilton Blvd;39.655374;-75.635195;13;92
+3774;Appleby Rd @ Old Forge Rd;39.65416;-75.634344;13;93
+2143;Old Forge Rd @ Appleby Rd;39.653368;-75.633056;13;94
+2144;Old Forge Rd @ Jennings Ct;39.654074;-75.630131;13;95
+2145;Old Forge Rd opp Marlborough C;39.652525;-75.627484;13;96
+226;Old Forge Rd opp Chelton Apt;39.651754;-75.625805;13;97
+323;Wilton Blvd @ Old Forge Rd;39.653101;-75.623343;13;98
+4050;Wilmington Tc (Inside);39.737157;-75.549397;11-leah;1
+1857;2nd St @ French St;39.738084;-75.550647;11-leah;2
+1342;2nd St @ King St;39.738751;-75.552085;11-leah;3
+1344;2nd St @ Orange St;39.73916;-75.553287;11-leah;4
+1386;Orange St @ 4th St;39.740356;-75.552807;11-leah;5
+3933;Market St @ 7th Nb;39.742556;-75.549727;11-leah;6
+3687;N Market St @ Rodney Square;39.746054;-75.547353;11-leah;7
+3860;12th St @ Orange St;39.747868;-75.547667;11-leah;8
+3218;Washington St @ 13th St;39.749945;-75.549838;11-leah;9
+841;Washington St @ 14th St;39.750936;-75.549158;11-leah;10
+1476;Washington St @ 17th St;39.753406;-75.546447;11-leah;11
+1477;Washington St @ 18th St;39.753938;-75.545428;11-leah;12
+3816;Washington St @ 20th St;39.754477;-75.544019;11-leah;13
+1479;Washington St @ 21st St;39.754997;-75.543041;11-leah;14
+1481;Washington St @ Concord Ave;39.755663;-75.541557;11-leah;15
+1482;Washington St @ 24th St;39.75638;-75.539958;11-leah;16
+1484;Washington St @ 26th St;39.757202;-75.538117;11-leah;17
+1486;Washington St @ 28th St;39.758011;-75.536294;11-leah;18
+1488;Washington St @ 30th St;39.758966;-75.534142;11-leah;19
+1490;Washington St opp 32nd St;39.759892;-75.532003;11-leah;20
+1493;Washington St @ 36th St;39.761546;-75.529415;11-leah;21
+1495;Washington St @ 38th St;39.762618;-75.527106;11-leah;22
+139;Washington St @ 39th St;39.763133;-75.525969;11-leah;23
+79;Lea Blvd opp Ruskin Rd;39.763789;-75.522472;11-leah;24
+4050;Wilmington Tc (Inside);39.737157;-75.549397;11-arden;1
+1857;2nd St @ French St;39.738084;-75.550647;11-arden;2
+1342;2nd St @ King St;39.738751;-75.552085;11-arden;3
+1344;2nd St @ Orange St;39.73916;-75.553287;11-arden;4
+1386;Orange St @ 4th St;39.740356;-75.552807;11-arden;5
+3933;Market St @ 7th Nb;39.742556;-75.549727;11-arden;6
+3687;N Market St @ Rodney Square;39.746054;-75.547353;11-arden;7
+3860;12th St @ Orange St;39.747868;-75.547667;11-arden;8
+3218;Washington St @ 13th St;39.749945;-75.549838;11-arden;9
+841;Washington St @ 14th St;39.750936;-75.549158;11-arden;10
+1476;Washington St @ 17th St;39.753406;-75.546447;11-arden;11
+1477;Washington St @ 18th St;39.753938;-75.545428;11-arden;12
+3816;Washington St @ 20th St;39.754477;-75.544019;11-arden;13
+1479;Washington St @ 21st St;39.754997;-75.543041;11-arden;14
+1481;Washington St @ Concord Ave;39.755663;-75.541557;11-arden;15
+1482;Washington St @ 24th St;39.75638;-75.539958;11-arden;16
+1484;Washington St @ 26th St;39.757202;-75.538117;11-arden;17
+1486;Washington St @ 28th St;39.758011;-75.536294;11-arden;18
+1488;Washington St @ 30th St;39.758966;-75.534142;11-arden;19
+1490;Washington St opp 32nd St;39.759892;-75.532003;11-arden;20
+1493;Washington St @ 36th St;39.761546;-75.529415;11-arden;21
+1495;Washington St @ 38th St;39.762618;-75.527106;11-arden;22
+139;Washington St @ 39th St;39.763133;-75.525969;11-arden;23
+1497;Washington St @ Lea Blvd;39.764339;-75.52324;11-arden;24
+1498;Washington St @ Hawthorne Dr;39.765821;-75.521237;11-arden;25
+1499;Washington St @ Dryden St;39.766993;-75.520233;11-arden;26
+3435;Washington St @ Rockwood Mansn Park;39.769697;-75.518391;11-arden;27
+1501;Washington St @ Shipley Rd;39.771436;-75.516855;11-arden;28
+1504;Washington St @ Wyndham Rd;39.773454;-75.510972;11-arden;29
+1505;Washington St @ Hanover Rd;39.773643;-75.509671;11-arden;30
+141;Marsh Rd @ Washington St;39.774097;-75.507061;11-arden;31
+4109;Marsh Rd @ Bellevue Park Nb;39.777721;-75.506361;11-arden;32
+1507;Marsh Rd opp Faith Pres Ch;39.782001;-75.506103;11-arden;33
+1508;Marsh Rd @ Rowland Park Bvd;39.783515;-75.505951;11-arden;34
+1511;Marsh Rd @ Crest Rd;39.787493;-75.505761;11-arden;35
+1512;Marsh Rd opp Bette Rd;39.791638;-75.505553;11-arden;36
+1513;Marsh Rd @ Northwood Rd;39.792564;-75.505507;11-arden;37
+1514;Marsh Rd opp Webster Dr;39.794874;-75.505329;11-arden;38
+1515;Marsh Rd opp Mayfield Rd;39.798533;-75.505159;11-arden;39
+1516;Marsh Rd opp Gray Sh Ctr;39.800543;-75.505072;11-arden;40
+1517;Marsh Rd @ Silverside Rd;39.802898;-75.504344;11-arden;41
+1518;Marsh Rd @ Plaza III;39.805731;-75.501735;11-arden;42
+144;Marsh Rd opp Forwood Manor;39.806984;-75.500563;11-arden;43
+132;Pennsylvania Ave @ Rising Sun Ln;39.76311;-75.57949;10;1
+137;Rising Sun Ln @ 17th St;39.765084;-75.578659;10;2
+1459;Rising Sun Ln @ 19th St;39.766174;-75.57792;10;3
+1460;19th St @ Tower St;39.765561;-75.575822;10;4
+1463;Delaware Ave @ Greenhill Ave;39.764514;-75.571755;10;5
+1464;Delaware Ave @ Riverview Ave;39.763803;-75.569999;10;6
+1466;Delaware Ave @ Bancroft Pkwy;39.762076;-75.567062;10;7
+1468;Delaware Ave @ Union St;39.760525;-75.565385;10;8
+1469;Delaware Ave @ Lincoln St;39.759697;-75.564441;10;9
+1471;Delaware Ave @ Dupont St;39.75803;-75.562635;10;10
+138;Delaware Ave @ Clayton St;39.757059;-75.561537;10;11
+1473;Delaware Ave @ Broom St;39.755366;-75.559673;10;12
+1474;Delaware Ave @ Franklin St;39.754172;-75.558315;10;13
+265;Delaware Ave @ Harrison St;39.753352;-75.557465;10;14
+1269;Pennsylvania Ave @ Van Buren St;39.752559;-75.557087;10;15
+465;Delaware Ave @ Adams St;39.750532;-75.554576;10;16
+1271;Delaware Ave @ Jefferson St;39.748674;-75.552414;10;17
+3861;Delaware Ave at Tatnall St;39.746625;-75.550102;10;18
+903;King St @ 9th St;39.744138;-75.547718;10;19
+675;King St @ 6th St;39.741333;-75.549595;10;20
+907;King St @ 3rd St;39.739538;-75.550804;10;21
+1795;Market St @ Shipley St / Rosa Parks Dr;39.737402;-75.553401;10;22
+1796;Market St @ A St;39.73516;-75.554973;10;23
+1797;Market St @ Howard St;39.733141;-75.556228;10;24
+3808;Market St @ Asph Parking Lot;39.731936;-75.556355;10;25
+4042;Market St @ New Sweden St;39.728911;-75.55616;10;26
+229;Dupont Hwy @ Royal Farms Store;39.721148;-75.555741;10;27
+4103;Commons Blvd @ Fed Ex Ship Center;39.692843;-75.601576;10;28
+3968;Commons Blvd @ Reads Way;39.687468;-75.608137;10;29
+1699;Commons Blvd opp Easter Seals;39.685521;-75.615189;10;30
+1700;Airport Rd opp Schley Rd;39.684116;-75.619285;10;31
+1701;Airport Rd @ Mowery Rd;39.681741;-75.621496;10;32
+231;Airport Rd @ Churchmans Rd;39.677584;-75.625494;10;33
+3697;Airport Rd @ Dmv;39.674815;-75.628258;10;34
+1704;Airport Rd @ Cherry Rd;39.67343;-75.629448;10;35
+3316;Edinburgh Dr @ Chiming Rd;39.668602;-75.632733;10;36
+2184;Edinburgh Dr opp Freeport Rd;39.667687;-75.630519;10;37
+2186;Edinburgh Dr @ Frenchtown Rd;39.664269;-75.630001;10;38
+2136;Christiana Rd @ Edinburgh Dr;39.663723;-75.6303;10;39
+2137;Christiana Rd @ Gtown Apts East Q1;39.66347;-75.633045;10;40
+2138;Christiana Rd opp Saddlebrook;39.66315;-75.636902;10;41
+169;Christiana Rd & Airport Rd;39.662911;-75.640206;10;42
+1710;Christiana Rd opp Wedgefield Dr;39.662653;-75.644333;10;43
+4031;Christiana Rd opp 273/7 P&r;39.660714;-75.653994;10;44
+233;DE 273 & DE 7 Park & Ride;39.66161;-75.654566;10;45
+2187;DE 7 @ Old Baltimore Pk;39.664969;-75.658703;10;46
+2410;W Main St @ Old Baltimore Pk;39.665848;-75.661092;10;47
+2188;W Main St @ Chris Sal Elem S;39.667206;-75.664428;10;48
+3317;Christiana Town Ctr @ Boscovs;39.668315;-75.664828;10;49
+2189;University Plz opp Burlington Fac;39.666561;-75.669366;10;50
+2190;Chapman Rd opp Lawrence Rd;39.667851;-75.675134;10;51
+2411;Chapman Rd opp Wakefield Dr;39.667426;-75.677473;10;52
+2412;Chapman Rd @ Residence Inn En;39.666845;-75.681371;10;53
+2413;Chapman Rd @ Regal Blvd;39.66637;-75.690411;10;54
+2414;Chapman Rd @ Sandlewood Apts;39.66684;-75.694785;10;55
+278;Salem Church Rd @ Chapman Rd;39.667863;-75.695942;10;56
+2415;Salem Church Rd @ Elm Dr;39.672733;-75.697045;10;57
+2416;Salem Church Rd opp Salem Ch I Pk;39.675561;-75.697516;10;58
+2429;Ogletown Rd @ Lowes;39.684476;-75.715061;10;59
+2430;Ogletown Rd @ 1800 Ogletown Ent;39.684246;-75.718245;10;60
+2431;Ogletown Rd opp White Clay Ctr;39.68516;-75.72283;10;61
+2444;Ogletown Rd @ Southern States;39.686027;-75.729981;10;62
+1167;Main St opp Med Center - Newark;39.684227;-75.739544;10;63
+4105;Main St @ Pomeroy Tr - Newark;39.683807;-75.744283;10;64
+1170;Main St @ Academy St - Newark;39.683363;-75.749551;10;65
+1171;Main St @ Elliot Hall - Newark;39.683192;-75.75212;10;66
+342;S College Ave @ Amstel Ave - ped X;39.680112;-75.753652;10;67
+2375;S College Ave @ Kent Way;39.67888;-75.753599;10;68
+1845;S College Ave @ W Park Pl;39.674044;-75.753575;10;69
+1846;S College Ave @ Ritter Ln;39.672116;-75.753494;10;70
+2469;S College Ave @ Newark Sta Ent;39.66737;-75.75307;10;71
+339;Newark Regional Transit Center;39.669268;-75.754138;10;72
+105;Prices Corner Park & Ride;39.736132;-75.621803;9;1
+1127;Old Capitol Tr @ Pr Cor-penneys;39.73469;-75.623988;9;2
+1365;Newport Gap Pk @ Hillards Inc;39.73129;-75.62544;9;3
+1367;Newport Gap Pike @ Meadowbrook Ave;39.727211;-75.62085;9;4
+1368;Boxwood Rd @ Newport-gap Pk;39.725248;-75.61801;9;5
+1370;Boxwood Rd @ Augustine St;39.725061;-75.610136;9;6
+1371;Boxwood Rd @ Rochelle Pl;39.724668;-75.606865;9;7
+1374;Boxwood Rd @ Jackson Rd;39.723819;-75.600527;9;8
+100;Maryland Ave @ Boxwood Shop Ctr;39.723684;-75.592754;9;9
+1071;Maryland Ave @ Champlain Ave;39.725601;-75.589994;9;10
+1073;Maryland Ave @ Summit Ave;39.727453;-75.587271;9;11
+1074;Maryland Ave @ Valley Rd;39.728296;-75.586128;9;12
+1075;Maryland Ave @ Ashley Place;39.729857;-75.583888;9;13
+1077;Maryland Ave @ Germay Dr;39.732208;-75.579829;9;14
+1079;Maryland Ave @ Canby Park Shopping Center Entrance;39.733877;-75.575787;9;15
+1376;Broom St @ Cedar St;39.73754;-75.571655;9;16
+1378;Broom St opp Sycamore St;39.740147;-75.569892;9;17
+128;Broom St @ Linden St;39.74165;-75.568857;9;18
+1379;Broom St @ Lancaster Ave;39.743711;-75.56749;9;19
+1380;Lancaster Ave @ Franklin St;39.743185;-75.565813;9;20
+1382;Lancaster Ave @ Van Buren St;39.742296;-75.563621;9;21
+1384;M L King Blvd @ Monroe St;39.741015;-75.560415;9;22
+1385;Orange St @ 2nd St;39.739138;-75.553743;9;23
+1386;Orange St @ 4th St;39.740356;-75.552807;9;24
+1;Orange St @ 5th St;39.742018;-75.551716;9;25
+2;Orange St @ 8th St;39.743706;-75.550554;9;26
+3;Orange St @ 10th St;39.745723;-75.549155;9;27
+4;11th St @ King St (Rodney Square);39.746129;-75.546627;9;28
+909;Walnut St @ 12th St;39.746053;-75.543824;9;29
+910;Walnut St @ 14th St;39.748188;-75.54246;9;30
+6;Market St opp 20th St;39.751561;-75.542246;9;31
+1387;Vandever Ave @ Buena Vista St;39.751394;-75.540175;9;32
+129;Vandever Ave @ Jessup St;39.750013;-75.537978;9;33
+1388;Vandever Ave @ Spruce St;39.748787;-75.536029;9;34
+1389;Vandever Ave @ Thatcher St;39.746506;-75.532453;9;35
+1390;Claymont St @ Vandever Av;39.745354;-75.531097;9;36
+1391;Claymont St @ 15th St;39.74442;-75.531678;9;37
+122;Howard Young Correctional Inst;39.74232;-75.531088;9;38
+3216;Port Of Wilmington Ftp;39.71693;-75.53239;8;1
+3524;Christina Ave @ Public Works Yard;39.719662;-75.533565;8;2
+3921;A St @ S. Claymont St;39.72984;-75.541823;8;3
+1790;New Castle Ave @ Lobdell St;39.731142;-75.542332;8;4
+1791;New Castle Ave @ Peach St;39.732527;-75.541534;8;5
+1792;4th St @ Church St;39.736854;-75.542356;8;6
+3378;Church St opp 5th St;39.737539;-75.542154;8;7
+3379;Church St opp Curlett St;39.738809;-75.541299;8;8
+1280;8th St @ Kirkwood St;39.740638;-75.542366;8;9
+1282;8th St @ Lombard St;39.741283;-75.543925;8;10
+1283;8th St @ Walnut St;39.742243;-75.546271;8;11
+908;8th St @ King St;39.743057;-75.548233;8;12
+73;8th St @ Shipley St;39.743609;-75.5496;8;13
+1285;8th St @ Orange St;39.74404;-75.550618;8;14
+1286;8th St @ West St;39.744748;-75.552346;8;15
+4141;8th St @ Jefferson;39.745504;-75.554185;8;16
+1289;8th St @ Adams St;39.746811;-75.557406;8;17
+1291;8th St @ Van Buren St;39.747719;-75.559602;8;18
+1292;8th St @ Harrison St;39.748158;-75.56073;8;19
+1294;8th St @ Broom St;39.749314;-75.563575;8;20
+115;8th St @ Clayton St;39.750312;-75.565963;8;21
+1296;8th St @ Dupont St;39.750741;-75.567133;8;22
+1297;8th St @ Scott St;39.751284;-75.568483;8;23
+1298;8th St @ Lincoln St;39.751738;-75.569638;8;24
+1299;8th St @ Grant Ave;39.752584;-75.571659;8;25
+3778;9th St @ Grant Ave;39.753798;-75.570844;8;26
+4050;Wilmington Tc (Inside);39.737157;-75.549397;6;1
+72;Walnut St @ 5th St;39.739863;-75.548167;6;2
+102;French St @ 9th St;39.74405;-75.546434;6;3
+3851;10th St @ King St (Rodney Square);39.745406;-75.547296;6;4
+3970;10th St @ Tatnall St;39.746874;-75.550161;6;5
+839;West St @ 11th St;39.747847;-75.549999;6;6
+1086;12th St @ Washington St;39.749131;-75.550896;6;7
+1089;Pennsylvania Ave @ Franklin St;39.753221;-75.558759;6;8
+1090;Pennsylvania Ave @ Broom St;39.753889;-75.561092;6;9
+1092;Pennsylvania Ave @ Clayton St;39.754377;-75.563151;6;10
+1093;Pennsylvania Ave @ Dupont St;39.754762;-75.564549;6;11
+1097;Union St @ 9th St;39.753682;-75.570116;6;12
+1098;Union St @ 8th St;39.752335;-75.570927;6;13
+1099;Union St @ 6th St;39.750836;-75.571948;6;14
+103;Union St @ 4th St;39.7489;-75.573351;6;15
+962;Union St @ 2nd St;39.747726;-75.574146;6;16
+200;Union St @ Lancaster Ave;39.746795;-75.574736;6;17
+1104;Union St @ Sycamore St;39.743404;-75.577129;6;18
+1106;Kirkwood Hwy @ Prospect Rd N;39.741612;-75.58152;6;19
+1108;Kirkwood Hwy @ Dupont Rd;39.739255;-75.589955;6;20
+104;Kirkwood Hwy @ Western Ave;39.738925;-75.591713;6;21
+1110;Kirkwood Hwy @ Leech Ave;39.738793;-75.594733;6;22
+1111;Kirkwood Hwy opp Birch Ave;39.739272;-75.597012;6;23
+1112;Kirkwood Hwy @ Sanders Rd;39.739641;-75.599023;6;24
+1114;Kirkwood Hwy @ Spruce Ave;39.739173;-75.602837;6;25
+1115;Kirkwood Hwy @ Veterans Hospital;39.738812;-75.605704;6;26
+1118;Kirkwood Hwy @ Bj's Store;39.738321;-75.610396;6;27
+1119;Kirkwood Hwy @ Clifton Ave;39.738182;-75.612198;6;28
+1121;Kirkwood Hwy @ N Woodward Ave;39.737902;-75.615262;6;29
+4114;Kirkwood Hwy @ Prices Corner Car Wash;39.737392;-75.625351;6;30
+1124;Greenbank Rd @ Albertson Blvd;39.738551;-75.626367;6;31
+105;Prices Corner Park & Ride;39.736132;-75.621803;6;32
+1127;Old Capitol Tr @ Pr Cor-penneys;39.73469;-75.623988;6;33
+1128;Old Capitol Tr @ Newport-gap Pk;39.732259;-75.626124;6;34
+1129;Newport-Gap Pk @ Fmr Sears Ent;39.733813;-75.628042;6;35
+1131;Kirkwood Hwy @ Newport-gap Pk;39.736019;-75.631359;6;36
+1132;Kirkwood Hwy @ Greenbank Rd;39.734602;-75.636551;6;37
+1133;Kirkwood Hwy @ Duncan Rd;39.733256;-75.640235;6;38
+1134;Kirkwood Hwy @ Dunlinden Rd;39.732095;-75.642519;6;39
+1930;Kirkwood Hwy @ Evelyn Dr;39.730113;-75.646277;6;40
+1137;Kirkwood Hwy @ Farrand Dr;39.728045;-75.650347;6;41
+1138;Kirkwood Hwy opp Ol Capitol Tr;39.72608;-75.654169;6;42
+106;Kirkwood Hwy @ Limestone Rd;39.724654;-75.656855;6;43
+1139;Kirkwood Hwy @ Midway Shop Ctr;39.722756;-75.660525;6;44
+1140;Kirkwood Hwy @ Griffin Dr;39.72119;-75.663638;6;45
+1141;Kirkwood Hwy @ Woodmill Dr;39.718091;-75.669543;6;46
+3491;Kirkwood Hwy @ Milltown Rd;39.716479;-75.672367;6;47
+1143;Kirkwood Hwy opp Delaware Park;39.714088;-75.675528;6;48
+1144;Kirkwood Hwy @ Wallaston Rd;39.71221;-75.678008;6;49
+1145;Kirkwood Hwy @ Pike Creek;39.70905;-75.682158;6;50
+1147;Kirkwood Hwy @ Meadowood Dr;39.706975;-75.684942;6;51
+1149;Kirkwood Hwy @ Park Ave;39.704474;-75.689362;6;52
+1150;Kirkwood Hwy opp Grn Valley Ln;39.703547;-75.692138;6;53
+1151;Kirkwood Hwy @ Upper Pike Creek;39.70216;-75.696495;6;54
+107;Kirkwood Hwy opp Harmony Rd;39.701078;-75.699887;6;55
+1153;Kirkwood Hwy opp Brewster Dr;39.699712;-75.704155;6;56
+1154;Kirkwood Hwy @ Drummond Plaza;39.698312;-75.708477;6;57
+1156;Kirkwood Hwy @ Rose Cir;39.696995;-75.712177;6;58
+1158;Kirkwood Hwy @ Delaplane Ave;39.695724;-75.716127;6;59
+1159;Kirkwood Hwy @ Possum Pk Rd;39.695106;-75.718646;6;60
+1160;Kirkwood Hwy opp Possum Pk Apt;39.693751;-75.722084;6;61
+1161;Kirkwood Hwy opp S Dillwyn Rd;39.691564;-75.726467;6;62
+1165;Kirkwood Hwy @ Cleveland Ave;39.687497;-75.735559;6;63
+1166;Kirkwood Hwy @ Mcdonalds Rest;39.685398;-75.737214;6;64
+1167;Main St opp Med Center - Newark;39.684227;-75.739544;6;65
+3678;Newark Transit Hub (Farmer Lane);39.682337;-75.743428;6;66
+4050;Wilmington Tc (Inside);39.737157;-75.549397;5;1
+1794;4th St @ King St;39.740019;-75.550118;5;2
+950;4th St @ Orange St;39.741157;-75.552761;5;3
+951;4th St @ Washington St;39.742099;-75.555114;5;4
+84;4th St @ Monroe St;39.743612;-75.558809;5;5
+1010;Jackson St @ 3rd St;39.743779;-75.561201;5;6
+91;Jackson St @ Lancaster Ave;39.742;-75.562394;5;7
+1011;Jackson St @ Elm St;39.740439;-75.563477;5;8
+1012;Jackson St & Maple St;39.739032;-75.564423;5;9
+1013;Maryland Ave @ Van Buren St;39.737719;-75.56648;5;10
+1014;Maryland Ave @ Harrison St;39.73696;-75.56842;5;11
+1015;Maryland Ave @ Banning St;39.736294;-75.570106;5;12
+1016;Maryland Ave @ Broom St;39.735166;-75.572974;5;13
+1017;Maryland Ave @ Mcgovern Terr;39.734291;-75.575225;5;14
+1018;Maryland Ave opp Robinson Ln;39.73325;-75.577782;5;15
+1019;Maryland Ave opp Germay Dr;39.732392;-75.579922;5;16
+3875;Maryland Ave @ Race St;39.731382;-75.581736;5;17
+1020;Maryland Ave @ Dupont Rd;39.729879;-75.584133;5;18
+1021;Maryland Ave @ Elmhurst Place;39.727974;-75.586871;5;19
+1022;Maryland Ave @ Champlain Ave;39.725845;-75.589879;5;20
+1023;Maryland Ave @ Hayden Ave;39.723671;-75.593063;5;21
+92;Maryland Ave @ Boxwood Rd;39.722549;-75.594625;5;22
+1024;Maryland Ave @ Fallon Ave;39.721454;-75.596221;5;23
+1025;Maryland Ave @ Troy Ave;39.719258;-75.599392;5;24
+1026;Maryland Ave @ Highland Ave;39.717512;-75.60184;5;25
+1027;Maryland Ave @ Cedar St - Newport;39.715749;-75.604397;5;26
+1028;DE 4 @ Walnut St;39.714962;-75.607162;5;27
+93;Justis St @ Marshall St (Newport);39.714746;-75.609139;5;28
+1029;DE 4 @ Ethan St;39.714628;-75.610757;5;29
+1030;DE 4 @ Market St;39.714064;-75.612508;5;30
+1031;DE 4 @ Gregg Ave;39.713756;-75.615027;5;31
+1032;DE 4 @ State St;39.714057;-75.617003;5;32
+1033;DE 4 opp Kentucky Ave;39.714729;-75.622024;5;33
+1034;DE 4 @ Hershey Run Dr;39.715165;-75.624842;5;34
+1035;DE 4 @ Glenmore Dr E;39.715411;-75.626621;5;35
+1036;DE 4 @ Glenberne Dr;39.71593;-75.630612;5;36
+1037;DE 4 @ Rothwell Dr;39.716121;-75.633062;5;37
+1038;DE 4 @ W Redmont Dr;39.715999;-75.635951;5;38
+1040;Main St @ Redwood Ave - Stanton;39.715211;-75.642039;5;39
+1041;Main St @ Royal Ave - Stanton;39.713813;-75.645511;5;40
+1042;DE Rt 4 @ Argonne Ave;39.712946;-75.647609;5;41
+94;DE 7 @ Telegraph Rd;39.711123;-75.650698;5;42
+95;Delaware Park Oppp Stables;39.707921;-75.662275;5;43
+97;Casino at Delaware Park;39.704205;-75.671424;5;44
+3987;DE 4 & Delaware Park Dr;39.693603;-75.668024;5;45
+1043;DE 4 @ Old Churchmans Rd;39.695632;-75.662749;5;46
+3431;DE 4 opp Twin C Ln;39.696783;-75.654528;5;47
+1044;DE 7 @ DE 4;39.696358;-75.651974;5;48
+1046;DE 7 opp Aaa Blvd;39.693307;-75.653036;5;49
+4069;Christiana Mall Park & Ride (Outside);39.680262;-75.65589;5;50
+1711;Christiana Mall (Target);39.679634;-75.650307;5;51
+88;Prices Corner Park & Ride;39.736854;-75.621993;4;1
+2532;Centerville Rd @ Trenton Pl;39.738495;-75.622835;4;2
+2534;Centerville Rd @ Rhode Island Ave;39.742286;-75.623459;4;3
+2536;Centerville Rd @ Faulkland Rd;39.745677;-75.623836;4;4
+2537;Faulkland Rd @ Armstrong Ave;39.746849;-75.621955;4;5
+2539;Faulkland Rd @ Kendall Rd;39.748461;-75.614118;4;6
+2541;Faulkland Rd @ Ches Run Shop Ct;39.747994;-75.611734;4;7
+86;Barley Mill Plaza - Inside;39.758718;-75.600147;4;8
+984;Lancaster Pk @ Court Dr W;39.755938;-75.597472;4;9
+986;Lancaster Pk @ Maryella Dr;39.754298;-75.593363;4;10
+988;Lancaster Pk @ Silverbrook Cemt;39.752574;-75.588965;4;11
+989;Lancaster Ave @ Ogle Ave;39.751187;-75.585428;4;12
+990;Lancaster Ave @ Gray Ave;39.750512;-75.583766;4;13
+1304;4th St @ Greenhill Ave;39.751918;-75.579734;4;14
+3381;4th St @ Hawley St;39.751322;-75.578264;4;15
+3382;4th St @ Bayard Ave;39.750006;-75.575039;4;16
+3383;4th St @ Bancroft Pkwy;39.749346;-75.573442;4;17
+995;4th St @ Scott St;39.748296;-75.570774;4;18
+997;4th St @ Clayton St;39.747213;-75.568259;4;19
+241;4th St @ Broom St;39.746254;-75.565874;4;20
+1000;4th St @ Franklin St;39.745588;-75.564193;4;21
+1002;4th St @ Van Buren St;39.744739;-75.56202;4;22
+90;4th St & Monroe St;39.74332;-75.558707;4;23
+1006;4th St @ Washington St;39.741822;-75.555011;4;24
+1;Orange St @ 5th St;39.742018;-75.551716;4;25
+2;Orange St @ 8th St;39.743706;-75.550554;4;26
+3;Orange St @ 10th St;39.745723;-75.549155;4;27
+4;11th St @ King St (Rodney Square);39.746129;-75.546627;4;28
+2203;11th St @ Clifford Brown Walk;39.74468;-75.542909;4;29
+2204;11th St @ Pine St;39.743954;-75.541154;4;30
+2205;11th St @ Spruce St;39.743541;-75.540043;4;31
+2206;Northeast Blvd @ 12th St;39.743683;-75.536406;4;32
+2207;Northeast Blvd @ Heald St;39.744847;-75.533603;4;33
+2208;Northeast Blvd @ Vandever Ave;39.746174;-75.531219;4;34
+2209;Northeast Blvd @ 23rd St;39.747355;-75.529944;4;35
+2210;Northeast Blvd @ 25th St;39.748531;-75.528738;4;36
+76;Northeast Blvd @ 27th St;39.749729;-75.527429;4;37
+922;Northeast Blvd @ 30th St;39.751842;-75.525156;4;38
+925;Northeast Blvd opp Eastlawn Ave;39.752865;-75.523124;4;39
+927;Gov Printz Blvd opp Del Olds;39.753557;-75.519023;4;40
+3466;Gov Printz Blvd opp Lea Blvd;39.753225;-75.517144;4;41
+242;Gov Printz Blvd opp Paladin Dr;39.752728;-75.514287;4;42
+2211;Edgemoor Rd @ Denny Rd;39.754438;-75.505863;4;43
+2212;Edgemoor Rd @ Beekman Rd;39.757974;-75.509582;4;44
+2214;Bradywine Blvd @ River Rd;39.759366;-75.507561;4;45
+2215;Rysing Dr opp River Rd;39.759087;-75.505829;4;46
+2216;Rysing Dr @ S Pennewell Dr;39.758812;-75.503684;4;47
+2218;Rysing Dr @ Polk Rd;39.757559;-75.501623;4;48
+2219;Rysing Dr @ Painter Dr;39.756942;-75.500519;4;49
+243;Rysing Dr @ Salisbury Dr;39.756012;-75.499189;4;50
+2220;Gov Printz Blvd @ Haines Ave;39.755928;-75.495658;4;51
+2221;Lore Ave @ Gov Printz Blvd;39.757384;-75.4936;4;52
+2222;Lore Ave opp Channel Ave;39.758231;-75.495075;4;53
+2224;Lore Ave opp Woodcroft Ave;39.75929;-75.49721;4;54
+2226;River Rd opp Rodman Ave;39.761851;-75.496739;4;55
+2227;River Rd & opp Marion Ave;39.763381;-75.494995;4;56
+2229;River Rd @ Kynlyn Dr;39.764884;-75.493507;4;57
+2230;River Rd @ Prospect Dr;39.765793;-75.492561;4;58
+2231;Prospect Dr @ Bldg 1258;39.765048;-75.491041;4;59
+244;Kynlyn Dr @ Prospect Dr;39.763388;-75.488882;4;60
+4050;Wilmington Tc (Inside);39.737157;-75.549397;2;1
+72;Walnut St @ 5th St;39.739863;-75.548167;2;2
+102;French St @ 9th St;39.74405;-75.546434;2;3
+3851;10th St @ King St (Rodney Square);39.745406;-75.547296;2;4
+3970;10th St @ Tatnall St;39.746874;-75.550161;2;5
+839;West St @ 11th St;39.747847;-75.549999;2;6
+3218;Washington St @ 13th St;39.749945;-75.549838;2;7
+841;Washington St @ 14th St;39.750936;-75.549158;2;8
+842;Baynard Blvd @ Washington St;39.753699;-75.547276;2;9
+843;18th St @ Baynard Blvd;39.755265;-75.546689;2;10
+845;18th St @ Warner School;39.75837;-75.548951;2;11
+256;Broom St @ 19th St;39.760186;-75.549385;2;12
+847;Broom St @ 21st St;39.761327;-75.546802;2;13
+848;Broom St @ 23rd St;39.762011;-75.545405;2;14
+849;Broom St @ 25th St;39.76279;-75.543572;2;15
+257;Concord Pk @ Independence Mall;39.781515;-75.545256;2;16
+853;Concord Pk @ Murphy Rd;39.786033;-75.545866;2;17
+854;Concord Pk @ Fairfax Shop Ctr;39.787818;-75.546027;2;18
+855;Concord Pk opp Zeneca Bldg;39.789074;-75.546214;2;19
+856;Concord Pk opp Rollins Bldg;39.79134;-75.54653;2;20
+857;Concord Pk opp Sharpley Rd;39.793724;-75.546838;2;21
+858;Concord Pk @ Prospect Dr;39.795866;-75.547143;2;22
+859;Concord Pk @ Nichols Ave;39.798167;-75.547464;2;23
+860;Concord Pk @ Cleveland Av;39.800022;-75.5477;2;24
+861;Concord Pk @ Florence Ave;39.802389;-75.548025;2;25
+862;Concord Pk @ Prospect Ave;39.804346;-75.548392;2;26
+863;Concord Pk @ Seasons;39.806412;-75.548691;2;27
+63;Concord Pk @ Brandywine Blvd;39.808036;-75.54892;2;28
+864;Concord Pk @ Silverside Rd;39.810354;-75.549293;2;29
+865;Concord Pk @ Concord Sq;39.812616;-75.549593;2;30
+866;Concord Pk opp Rocky Run Pkwy;39.817693;-75.548425;2;31
+64;Concord Mall @ Sears;39.82125;-75.545427;2;32
+867;Concord Mall @ Boscovs;39.82466;-75.544008;2;33
+4122;Concord Pk @ Rocky Run Pkwy - Sb;39.824744;-75.545717;2;34
+65;Brandywine Commons opp Shop-rite;39.823979;-75.548572;2;35
+4123;Concord Pk @ Northern Mall Ent - Nb;39.826932;-75.544414;2;36
+870;Naamans Rd @ Perry Pl;39.828791;-75.541848;2;37
+3462;Brandywne Twn Ct opp Target;39.829803;-75.538594;2;38
+871;Brandywine Twn Ct opp Community Ctr;39.830401;-75.536153;2;39
+67;Brandywine Town Center Park & Ride;39.831111;-75.535145;2;40
 204;Polly Drummond Shopping Center;39.718517;-75.709555;18;1
 1953;New Linden Hill @ Henderson Hill R;39.720953;-75.705532;18;2
 1964;New Linden Hill Rd @ Skyline Dr;39.727413;-75.692031;18;3

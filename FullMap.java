@@ -73,7 +73,7 @@ public class FullMap
           String line2 = data.substring(0, data.indexOf(";"));
           data = data.substring(data.indexOf(";") + 1);
           data = data.substring(data.indexOf(";") + 1);
-          double edi = Double.parseDouble(data);
+          double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
 
           routes.add(new Stop(line2, edi));
         }

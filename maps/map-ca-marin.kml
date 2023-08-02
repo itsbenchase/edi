@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>23X</name>
+		<name>23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-marin<br/>EDI: 1.08</description>
+		<description>Agency: ca-marin<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.604134,38.000221,0
@@ -62,27 +62,6 @@
 			-122.596703,37.995659,0
 			-122.594208,37.993378,0
 			-122.591644,37.989788,0
-			-122.588791,37.987301,0
-			-122.580917,37.986561,0
-			-122.576797,37.986454,0
-			-122.574287,37.985386,0
-			-122.568779,37.982178,0
-			-122.566727,37.980919,0
-			-122.564331,37.97879,0
-			-122.562841,37.976546,0
-			-122.522417,37.971249,0
-			-122.519966,37.970295,0
-			-122.50441,37.960659,0
-			-122.502007,37.962776,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>23</name>
-		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-marin<br/>EDI: 1.18</description>
-		<LineString> 
-			<coordinates>
 			-122.588791,37.987301,0
 			-122.580917,37.986561,0
 			-122.576797,37.986454,0

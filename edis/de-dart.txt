@@ -1,6 +1,60 @@
+2;7.63;1.17;2: Concord Pike;Main
+4;10.49;1.43;4: W 4th St / Governor Printz Blvd;Main
+5;10.79;1.61;5: Maryland Ave / Christiana Mall;Main
+6;13.77;1.25;6: Kirkwood Highway;Main
+8;3.67;1.12;8th / 9th St;Main
+9;7.26;1.5;9: Boxwood Rd / Broom St / Vandever Ave;Main
+10;18.95;1.67;10: Wilmington / University Plaza / Newark;Main
+11-arden;6.4;1.17;11: Washington St / Arden;to Arden
+11-leah;2.92;1.25;11: Washington St / Arden;to Leah Blvd
+13;19.03;1.33;13: Philadelphia Pike / DuPont Hwy;Main
+14;10.3;2.04;14: Baylor / DHSS / Miller Rd Shopping Center;Main
+15;17.47;2.47;15: New Castle Ave / Basin Rd / Christiana Mall;Main
 18;18.1;1.35;18: Pike Creek Valley / Foulk Rd;Main
+20;11.26;1.31;20: Lancaster Pike / Hockessin;Main
+25;17.91;1.22;25: Miller Rd Shopping Ctr / Wilmington / Wrangle Hill;Main
+28-weekday;11.13;1.59;28: Nemours Children's Hospital / DMV / Riveredge;Weekdays
+28-weekend;7.61;1.71;28: Nemours Children's Hospital / DMV / Riveredge;Weekends
+33;17.76;1.61;33: Wilmington / Christiana Mall / Newark;Main
+35;8.46;1.29;35: Brandywine Town Center / Shipley Rd;Main
+37-christiana;26.22;1.11;37: Wilmington / Christiana Mall / Middletown;via Christiana Mall
+37-north-middletown;25.03;1.06;37: Wilmington / Christiana Mall / Middletown;via North Middletown
+40;15.45;1.07;Glasgow / US Routes 13 & 40 / Wilmington;Main
+42-weekday;18.17;1.26;42: Glasgow / Newark Express;Weekdays
+42-weekend;16.18;1.12;42: Glasgow / Newark Express;Weekends
+44;12.45;1.6;44: Delaware City / St Georges / Christiana Mall;Main
+46-weekday;23.61;1.46;46: Newark / Glasgow / Middletown / Odessa;Weekdays
+46-weekend;8.2;1.49;46: Newark / Glasgow / Middletown / Odessa;Weekends
+51;13.26;1.88;51: New Castle Ave / DE 273 / Christiana Mall;Main
+52;7.29;1.07;52: Centerville / Greenville / Kennett Park;Main
+53;9.24;1.07;53: Delaware City DMV / Newark;Main
 54;9.26;2.41;54: Fairplay Station / Wilton;Main
+55;9.29;1.99;55: Newark / Old Baltimore Pike / Christiana Mall;Main
+61;7.71;1.55;61: Naamans Rd;Main
+62;5.85;2.12;62: Churchmans Shuttle;Main
+64;10.23;1.42;64: Glasgow / Governor's Sq / Christiana Mall;Main
+104-nb;5.14;1.41;104: Camden Walmart;Northbound
+104-sb;6.94;1.91;104: Camden Walmart;Southbound
+105;6.44;1.86;105: Gateway South / Dover AFB;Main
 107;5.12;4.08;107: Luther Village;Main
+108;6.36;2.15;108: East Dover;Main
+109;4.51;1.4;109: Dover Mall;Main
+112;6.31;1.83;112: Del Tech;Main
+117;17.78;1.47;117: Harrington / Camden;Main
+120;9.49;1.02;120: Scarborough Rd - Cheswold - Smyrna;Main
+201;6.51;1.19;201: Rehoboth Beach;Main
+203;6.91;1.05;203: Dewey Beach;Main
+204;3.86;1.08;204: Lewes;Main
+206;17.94;1.47;206: Georgetown - Lewes TC;Main
+208;19.24;1.05;208: Ocean City;Main
 210;7.62;1.97;210: Milford Circulator;Main
 212;36.53;1.93;212: Georgetown - Delmar;Main
 215;26.5;1.93;215: Rehoboth / Millsboro;Main
+301;49.19;1.19;301: Intercounty Wilmington / Dover;Main
+302;27.01;1.07;302: Intercounty Middletown / Dover;Main
+303;45.95;1.4;303: Intercounty Dover / Georgetown;Main
+303-express;33.78;1.03;303: Intercounty Dover / Georgetown;Express
+305;83.18;1.11;305: Wilmington - Rehoboth;Main
+307;36.52;1.07;307: Intercounty Lewes TC / Dover;Main
+903F-eb;3.56;1.64;903F: Flex - Seaford;Eastbound
+903F-wb;3.46;1.6;903F: Flex - Seaford;Westbound
