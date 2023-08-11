@@ -1,8 +1,242 @@
-<head>
-  <link rel="stylesheet" href="style.css">
-  <title>Redirecting...</title>
-  <meta http-equiv="refresh" content="0; URL='https://www.replit.com/@benchase/edicalc'" />
-  </head>
-  <body>
-  <p>Redirecting...</p>
-  </body>  
+<!DOCTYPE html>
+<html>
+<title>Calculator - Eliot Deviation Index</title>
+<link rel=stylesheet href=style.css>
+<body onload="getAgencies()">
+<ul><li><a href=index.html>Home</a></li>
+    <li><a href=stops.html>Stop Listing</a></li> 
+    <li><a href=routes.html>Route Listing</a></li>
+    <li><a href=detailed.html>Route Detail</a></li>
+    <li><a href=stats.html>Statistics</a></li>
+    <li><a href=calculator.html class=active>Calculator</a></ul>
+<h1>Calculator</h1>
+
+<p>Agency:
+    <select id="agencyDrop">
+        <option value="none">Select an agency</option>
+    </select>
+
+    <button onclick="getStops()">Enter</button>
+</p>
+
+<p>Code:
+    <input id=code-assign type=text placeholder="e.g. Blue"></input>
+</p>
+
+<p>Stop ID:
+    <input id=stop-added type=text placeholder="e.g. 5322"></input>
+    <button id="sumbit" type="button" onclick="findIndex()">Add Stop</button>
+    <button id="exportbtn" type="button" onclick="exportGen()">Export</button>
+</p>
+
+<h3 id="route" style="color:black">New Route</h3>
+<p id="last"></p>
+<p id="agency"><b>Agency: </b>Not Available</p>
+<p id="code"><b>Code: </b>Not Available</p>
+<p id="length"><b>Length: </b>Not Available</p>
+<p id="index"><b>EDI: </b>Not Available</p>
+<p id="stops"><b>Stop Listing: </b></p>
+<p id="export"></p>
+
+<script>
+
+// global input data
+var agency = "Not Available";
+var code = "Not Available";
+var branch = "Not Available";
+var length = "Not Available";
+var index = "Not Available";
+
+const agencies = [];
+const fullAgencies = [];
+const agencyLines = [];
+
+const stopIds = [];
+const stopNames = [];
+const stopLats = [];
+const stopLons = [];
+
+const lineStops = []; // array for stops on the line, used in export
+const lineLats = [];
+const lineLons = [];
+
+function getAgencies()
+{
+    const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    fetch(agencyFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const agencyFile = text.split("\n");
+            agencyFile.pop();
+
+            for (let i = 0; i < agencyFile.length; i++)
+            {
+                var data = agencyFile[i];
+                agencies.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                fullAgencies.push(data);
+                agencyLines.push(fullAgencies[i] + " (" + agencies[i] + ")");
+                document.getElementById("agencyDrop").innerHTML += ("<option value=" + agencies[i] + ">" + agencyLines[i] + "</option>");
+            }
+        })
+}
+
+function getStops()
+{
+    selectedAgency = document.querySelector('#agencyDrop');
+    agency = selectedAgency.value;
+
+    for (let i = 0; i < agencies.length; i++)
+    {
+        if (agencies[i] == agency)
+        {
+            document.getElementById("agency").innerHTML = ("<b>Agency: </b>" + fullAgencies[i] + " (" + agencies[i] + ")");
+        }
+    }
+
+    const stopFileUrl = ("https://edi.benchase.info/stops/" + agency + ".txt"); // provide file location
+    fetch(stopFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const stopFile = text.split("\n");
+            stopFile.pop();
+
+            for (let i = 0; i < stopFile.length; i++)
+            {
+                var data = stopFile[i];
+                stopIds.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                stopNames.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                stopLats.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                stopLons.push(data);
+            }
+        })
+}
+
+function findIndex()
+{
+    // add route code to page
+    document.getElementById("code").innerHTML = ("<b>Code:</b> " + document.getElementById("code-assign").value);
+
+    var stopAdded = document.getElementById("stop-added").value;
+    for (let i = 0; i < stopIds.length; i++)
+    {
+        if (stopIds[i] == stopAdded)
+        {
+            document.getElementById("last").innerHTML = ("<b>Last Added:</b> " + stopNames[i]);
+            document.getElementById("stops").innerHTML += ("<br>" + stopNames[i]);
+            lineStops.push(stopIds[i]);
+            lineLats.push(stopLats[i]);
+            lineLons.push(stopLons[i]);
+        }
+    }
+
+    // haversine formula loop
+    // spherical trig cause this is the globe
+    var dist = 0;
+    for (let i = 1; i < lineStops.length; i++)
+    {
+        var lon1 = toRadians(Math.abs(lineLons[i - 1]));
+        var lon2 = toRadians(Math.abs(lineLons[i]));
+        var lat1 = toRadians(Math.abs(lineLats[i - 1]));
+        var lat2 = toRadians(Math.abs(lineLats[i]));
+        var dlon = lon2 - lon1;
+        var dlat = lat2 - lat1;
+        var a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);      
+        var c = 2 * Math.asin(Math.sqrt(a));
+        var r = 3963;
+
+        dist += c * r;
+    }
+
+    // full line haversine
+    var firstLon = toRadians(lineLons[0]);
+    var lastLon = toRadians(lineLons[lineLons.length - 1]);
+    var firstLat = toRadians(lineLats[0]);
+    var lastLat = toRadians(lineLats[lineLats.length - 1]);
+    var difflon = 0; // placeholder
+    var difflat = 0; // placeholder
+
+    // longitude math
+    if (firstLon >= 0 && lastLon >= 0)
+    {
+        difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon <= 0)
+    {
+        lastLon = Math.abs(lastLon);
+        firstLon = Math.abs(firstLon);
+        difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon >= 0)
+    {
+        difflon = Math.abs(firstLon - lastLon);
+    }
+    else if (firstLon >= 0 && lastLon <= 0)
+    {
+        difflon = Math.abs(lastLon - firstLon);
+    }
+
+    // latitude math
+    if (firstLat >= 0 && lastLat >= 0)
+    {
+        difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat <= 0)
+    {
+        lastLat = Math.abs(lastLat);
+        firstLat = Math.abs(firstLat);
+        difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat >= 0)
+    {
+        difflat = Math.abs(firstLat - lastLat);
+    }
+    else if (firstLat >= 0 && lastLat <= 0)
+    {
+        difflat = Math.abs(lastLat - firstLat);
+    }
+
+    var a1 = Math.pow(Math.sin(difflat / 2), 2) + Math.cos(firstLat) * Math.cos(lastLat) * Math.pow(Math.sin(difflon / 2), 2);      
+    var c1 = 2 * Math.asin(Math.sqrt(a1));
+    var r1 = 3963;
+    var lineDist = c1 * r1;
+
+    // calculate the edi
+    var edi = dist / lineDist;
+    edi = Math.round(edi * 100.0) / 100.0;
+
+    if (edi < 1) // case for the 0.9x
+    {
+        edi = 1.0;
+    }
+
+    // dist rounded for display
+    dist = Math.round(dist * 100.0) / 100.0;
+
+    // display the results
+    document.getElementById("length").innerHTML = ("<b>Length: </b>" + dist + " miles");
+    document.getElementById("index").innerHTML = ("<b>EDI: </b>" + edi);
+}
+
+function exportGen()
+{
+    document.getElementById("export").innerHTML = "<b>Export File:</b>";
+    for (let i = 0; i < lineStops.length; i++)
+    {
+        document.getElementById("export").innerHTML += ("<br>" + lineStops[i]);
+    }
+    document.getElementById("export").innerHTML += ("<br>-0");
+}
+
+function toRadians(degrees)
+{
+    return degrees * (Math.PI / 180);
+}
+
+</script>
+
+</body>
+</html>
