@@ -25,7 +25,8 @@
 
 <p>Stop ID:
     <input id=stop-added type=text placeholder="e.g. 5322"></input>
-    <button id="sumbit" type="button" onclick="findIndex()">Add Stop</button>
+    <button id="sumbit" type="button" onclick="findIndex()">Add</button>
+    <button id="remove" type="button" onclick="removeLast()">Remove</button>
     <button id="exportbtn" type="button" onclick="exportGen()">Export</button>
 </p>
 
@@ -51,12 +52,13 @@ const agencies = [];
 const fullAgencies = [];
 const agencyLines = [];
 
-const stopIds = [];
-const stopNames = [];
-const stopLats = [];
-const stopLons = [];
+var stopIds = [];
+var stopNames = [];
+var stopLats = [];
+var stopLons = [];
 
-const lineStops = []; // array for stops on the line, used in export
+const lineStops = [];
+const lineIds = [];
 const lineLats = [];
 const lineLons = [];
 
@@ -83,6 +85,12 @@ function getAgencies()
 
 function getStops()
 {
+    // reset in case of adding new agency (-3 equivalent)
+    stopIds = [];
+    stopNames = [];
+    stopLats = [];
+    stopLons = [];
+
     selectedAgency = document.querySelector('#agencyDrop');
     agency = selectedAgency.value;
 
@@ -118,7 +126,8 @@ function getStops()
 function findIndex()
 {
     // add route code to page
-    document.getElementById("code").innerHTML = ("<b>Code:</b> " + document.getElementById("code-assign").value);
+    code = document.getElementById("code-assign").value
+    document.getElementById("code").innerHTML = ("<b>Code:</b> " + code);
 
     var stopAdded = document.getElementById("stop-added").value;
     for (let i = 0; i < stopIds.length; i++)
@@ -127,7 +136,8 @@ function findIndex()
         {
             document.getElementById("last").innerHTML = ("<b>Last Added:</b> " + stopNames[i]);
             document.getElementById("stops").innerHTML += ("<br>" + stopNames[i]);
-            lineStops.push(stopIds[i]);
+            lineStops.push(stopNames[i]);
+            lineIds.push(stopIds[i]);
             lineLats.push(stopLats[i]);
             lineLons.push(stopLons[i]);
         }
@@ -224,9 +234,11 @@ function findIndex()
 function exportGen()
 {
     document.getElementById("export").innerHTML = "<b>Export File:</b>";
+    document.getElementById("export").innerHTML += ("<br>Agency: " + agency);
+    document.getElementById("export").innerHTML += ("<br>Line: " + code);
     for (let i = 0; i < lineStops.length; i++)
     {
-        document.getElementById("export").innerHTML += ("<br>" + lineStops[i]);
+        document.getElementById("export").innerHTML += ("<br>" + lineIds[i]);
     }
     document.getElementById("export").innerHTML += ("<br>-0");
 }
@@ -234,6 +246,23 @@ function exportGen()
 function toRadians(degrees)
 {
     return degrees * (Math.PI / 180);
+}
+
+function removeLast()
+{
+    // remove from arrays
+    lineStops.pop();
+    lineLats.pop();
+    lineLons.pop();
+
+    // remove from stop list
+    document.getElementById("stops").innerHTML = "<b>Stop Listing:</b>";
+    for (let i = 0; i < lineStops.length; i++)
+    {
+        document.getElementById("stops").innerHTML += ("<br>" + lineStops[i]);
+    }
+
+    findIndex();
 }
 
 </script>
