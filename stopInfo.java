@@ -39,8 +39,8 @@ public class stopInfo
       System.out.println("Error, can't load stop file " + agencyChoice + ".");
     }
 
-    while (cont == 1) // loop it
-    {
+    /*while (cont == 1) // loop it
+    {*/
       System.out.print("Stop ID: ");
       String stopChoice = s2.nextLine();
 
@@ -54,10 +54,13 @@ public class stopInfo
         }
       }
 
-      System.out.print("Enter 1 to search again: ");
+      PopulationData pop = new PopulationData(agencyChoice, stopChoice);
+      pop.main(args);
+
+      /*System.out.print("Enter 1 to search again: ");
       cont = s2.nextInt();
 
       s2.nextLine(); // absorbed enter
-    }
+    }*/
   }
 }

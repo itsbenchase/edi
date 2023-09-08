@@ -71,7 +71,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>305: Wilmington - Rehoboth</name>
+		<name>305</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: de-dart<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -102,7 +104,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>303: Intercounty Dover / Georgetown</name>
+		<name>303</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: de-dart<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -375,7 +379,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201: Rehoboth Beach</name>
+		<name>201</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Agency: de-dart<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-75.169855,38.748176,0

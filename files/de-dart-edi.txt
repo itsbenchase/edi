@@ -9,14 +9,14 @@
 582;Duke Of York St @ Legislative Av;39.158116;-75.519167;307;9
 3807;Federal St @ Water St Ib;39.155362;-75.521522;307;10
 3777;Dover Transit Center;39.152653;-75.529575;307;11
-4050;Wilmington Tc (Inside);39.737157;-75.549397;305: Wilmington - Rehoboth;1
-96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;305: Wilmington - Rehoboth;2
-3136;Odessa Park & Ride (DE 299 & DE 1);39.45441;-75.678407;305: Wilmington - Rehoboth;3
-3137;Scarborough Rd P&r;39.196973;-75.559359;305: Wilmington - Rehoboth;4
-3852;Lewes Transit Center;38.748176;-75.169855;305: Wilmington - Rehoboth;5
-416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;305: Wilmington - Rehoboth;6
-422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;305: Wilmington - Rehoboth;7
-392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;305: Wilmington - Rehoboth;8
+4050;Wilmington Tc (Inside);39.737157;-75.549397;305;1
+96;Christiana Mall Park & Ride (Inside);39.679932;-75.655795;305;2
+3136;Odessa Park & Ride (DE 299 & DE 1);39.45441;-75.678407;305;3
+3137;Scarborough Rd P&r;39.196973;-75.559359;305;4
+3852;Lewes Transit Center;38.748176;-75.169855;305;5
+416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;305;6
+422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;305;7
+392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;305;8
 3737;Georgetown Transit Hub;38.693068;-75.384975;303-express;1
 3963;Perdue Georgetown;38.697966;-75.38248;303-express;2
 3821;DE 18/404 @ US 113 Boulevard Ford;38.698545;-75.398473;303-express;3
@@ -24,56 +24,56 @@
 3298;US Rt 113 Express Only @ SR 16;38.807333;-75.438467;303-express;5
 453;Super Wal-mart On-site;38.929727;-75.434225;303-express;6
 3777;Dover Transit Center;39.152653;-75.529575;303-express;7
-3777;Dover Transit Center;39.152653;-75.529575;303: Intercounty Dover / Georgetown;1
-4029;Pow/mia Pkwy @ Eden Park S;39.149214;-75.539985;303: Intercounty Dover / Georgetown;2
-4026;Pow/mia Pkwy @ Rodney Village S;39.125185;-75.533665;303: Intercounty Dover / Georgetown;3
-3073;US Rt 13 @ Faith Comm Chrch;39.116777;-75.535986;303: Intercounty Dover / Georgetown;4
-3640;DE 10 @ Moores Lake Sc;39.117691;-75.516723;303: Intercounty Dover / Georgetown;5
-3074;State St opp Richardson Ln;39.116769;-75.515528;303: Intercounty Dover / Georgetown;6
-3075;State St @ Howe Dr;39.111753;-75.514973;303: Intercounty Dover / Georgetown;7
-3076;State St @ Sorghum Mill Rd;39.100949;-75.513636;303: Intercounty Dover / Georgetown;8
-3077;State St @ Fosky Dr;39.095658;-75.508394;303: Intercounty Dover / Georgetown;9
-3502;State St @ Brookdale Rd;39.084849;-75.489843;303: Intercounty Dover / Georgetown;10
-3309;State St @ Woodleytown Rd;39.078753;-75.483478;303: Intercounty Dover / Georgetown;11
-3078;Main St @ Walnut St (Magnolia);39.071137;-75.475945;303: Intercounty Dover / Georgetown;12
-3079;Clapham Rd @ Jury Dr;39.052781;-75.462123;303: Intercounty Dover / Georgetown;13
-3080;Clapham Rd opp Mulberrie Pt;39.050668;-75.460331;303: Intercounty Dover / Georgetown;14
-3454;Frederica Rd @ Front St / DE 12;39.00935;-75.464809;303: Intercounty Dover / Georgetown;15
-3604;US 113 @ Cicadia Ln (Rd 403);38.96606;-75.432348;303: Intercounty Dover / Georgetown;16
-3542;US Rt 113 @ Super 8 Motel;38.949277;-75.425918;303: Intercounty Dover / Georgetown;17
-493;Milford Commons On-site;38.933003;-75.433381;303: Intercounty Dover / Georgetown;18
-453;Super Wal-mart On-site;38.929727;-75.434225;303: Intercounty Dover / Georgetown;19
-3949;Rehoboth Blvd opp Perdue;38.922054;-75.423272;303: Intercounty Dover / Georgetown;20
-454;N Walnut St @ Park St - DHSS;38.913272;-75.428455;303: Intercounty Dover / Georgetown;21
-2949;S Walnut St @ Se 2nd St;38.911143;-75.428534;303: Intercounty Dover / Georgetown;22
-2950;S Walnut St @ Barker St;38.910167;-75.428695;303: Intercounty Dover / Georgetown;23
-2951;S Walnut St @ Kings Hwy;38.905817;-75.429414;303: Intercounty Dover / Georgetown;24
-2952;S Walnut St @ W Clarke St;38.904464;-75.429645;303: Intercounty Dover / Georgetown;25
-2953;S Walnut St @ Wilbur St;38.901212;-75.430237;303: Intercounty Dover / Georgetown;26
-455;S Walnut St @ Mispillion Apts;38.895196;-75.430121;303: Intercounty Dover / Georgetown;27
-3533;Rd 213 @ Susquehanna Ave;38.874988;-75.428312;303: Intercounty Dover / Georgetown;28
-2954;Rd 207 @ Rd 213;38.870961;-75.429986;303: Intercounty Dover / Georgetown;29
-3629;US 113 @ Johnson Rd;38.868489;-75.43959;303: Intercounty Dover / Georgetown;30
-4032;SR 16 @ US 113;38.806705;-75.437337;303: Intercounty Dover / Georgetown;31
-2956;DE 16 @ Ellegood Ave;38.806928;-75.427406;303: Intercounty Dover / Georgetown;32
-2957;DE 16 @ Mccaully Ave;38.806993;-75.424668;303: Intercounty Dover / Georgetown;33
-3534;DE 16 @ Ponder Ave Eb;38.807086;-75.42009;303: Intercounty Dover / Georgetown;34
-3395;DE 16 opp Church Of Jcaf;38.791905;-75.375884;303: Intercounty Dover / Georgetown;35
-2958;DE 16 @ Mulberry St;38.787702;-75.319119;303: Intercounty Dover / Georgetown;36
-456;Palmer St @ Luther Towers;38.785518;-75.309925;303: Intercounty Dover / Georgetown;37
-2959;DE 5 @ Willow St;38.783657;-75.313917;303: Intercounty Dover / Georgetown;38
-2960;Union St @ Magnolia St;38.778684;-75.31116;303: Intercounty Dover / Georgetown;39
-2961;Federal St opp Wharton St;38.774886;-75.311788;303: Intercounty Dover / Georgetown;40
-3711;Federal St opp New St;38.771337;-75.314522;303: Intercounty Dover / Georgetown;41
-439;US Rt 9 @ DE 5;38.724753;-75.286366;303: Intercounty Dover / Georgetown;42
-4025;US Rt 9 @ Emerson Way;38.716554;-75.311093;303: Intercounty Dover / Georgetown;43
-653;US Rt 9 @ DE 30;38.713963;-75.317453;303: Intercounty Dover / Georgetown;44
-3388;US Rt 9 opp Stiener Rd;38.708212;-75.337265;303: Intercounty Dover / Georgetown;45
-3546;US Rt 9 @ Sand Hill Rd;38.698905;-75.369015;303: Intercounty Dover / Georgetown;46
-654;US Rt 9 opp Dollar Store;38.695111;-75.379551;303: Intercounty Dover / Georgetown;47
-3963;Perdue Georgetown;38.697966;-75.38248;303: Intercounty Dover / Georgetown;48
-440;US Rt 9 @ N Railroad Ave;38.69212;-75.383414;303: Intercounty Dover / Georgetown;49
-3737;Georgetown Transit Hub;38.693068;-75.384975;303: Intercounty Dover / Georgetown;50
+3777;Dover Transit Center;39.152653;-75.529575;303;1
+4029;Pow/mia Pkwy @ Eden Park S;39.149214;-75.539985;303;2
+4026;Pow/mia Pkwy @ Rodney Village S;39.125185;-75.533665;303;3
+3073;US Rt 13 @ Faith Comm Chrch;39.116777;-75.535986;303;4
+3640;DE 10 @ Moores Lake Sc;39.117691;-75.516723;303;5
+3074;State St opp Richardson Ln;39.116769;-75.515528;303;6
+3075;State St @ Howe Dr;39.111753;-75.514973;303;7
+3076;State St @ Sorghum Mill Rd;39.100949;-75.513636;303;8
+3077;State St @ Fosky Dr;39.095658;-75.508394;303;9
+3502;State St @ Brookdale Rd;39.084849;-75.489843;303;10
+3309;State St @ Woodleytown Rd;39.078753;-75.483478;303;11
+3078;Main St @ Walnut St (Magnolia);39.071137;-75.475945;303;12
+3079;Clapham Rd @ Jury Dr;39.052781;-75.462123;303;13
+3080;Clapham Rd opp Mulberrie Pt;39.050668;-75.460331;303;14
+3454;Frederica Rd @ Front St / DE 12;39.00935;-75.464809;303;15
+3604;US 113 @ Cicadia Ln (Rd 403);38.96606;-75.432348;303;16
+3542;US Rt 113 @ Super 8 Motel;38.949277;-75.425918;303;17
+493;Milford Commons On-site;38.933003;-75.433381;303;18
+453;Super Wal-mart On-site;38.929727;-75.434225;303;19
+3949;Rehoboth Blvd opp Perdue;38.922054;-75.423272;303;20
+454;N Walnut St @ Park St - DHSS;38.913272;-75.428455;303;21
+2949;S Walnut St @ Se 2nd St;38.911143;-75.428534;303;22
+2950;S Walnut St @ Barker St;38.910167;-75.428695;303;23
+2951;S Walnut St @ Kings Hwy;38.905817;-75.429414;303;24
+2952;S Walnut St @ W Clarke St;38.904464;-75.429645;303;25
+2953;S Walnut St @ Wilbur St;38.901212;-75.430237;303;26
+455;S Walnut St @ Mispillion Apts;38.895196;-75.430121;303;27
+3533;Rd 213 @ Susquehanna Ave;38.874988;-75.428312;303;28
+2954;Rd 207 @ Rd 213;38.870961;-75.429986;303;29
+3629;US 113 @ Johnson Rd;38.868489;-75.43959;303;30
+4032;SR 16 @ US 113;38.806705;-75.437337;303;31
+2956;DE 16 @ Ellegood Ave;38.806928;-75.427406;303;32
+2957;DE 16 @ Mccaully Ave;38.806993;-75.424668;303;33
+3534;DE 16 @ Ponder Ave Eb;38.807086;-75.42009;303;34
+3395;DE 16 opp Church Of Jcaf;38.791905;-75.375884;303;35
+2958;DE 16 @ Mulberry St;38.787702;-75.319119;303;36
+456;Palmer St @ Luther Towers;38.785518;-75.309925;303;37
+2959;DE 5 @ Willow St;38.783657;-75.313917;303;38
+2960;Union St @ Magnolia St;38.778684;-75.31116;303;39
+2961;Federal St opp Wharton St;38.774886;-75.311788;303;40
+3711;Federal St opp New St;38.771337;-75.314522;303;41
+439;US Rt 9 @ DE 5;38.724753;-75.286366;303;42
+4025;US Rt 9 @ Emerson Way;38.716554;-75.311093;303;43
+653;US Rt 9 @ DE 30;38.713963;-75.317453;303;44
+3388;US Rt 9 opp Stiener Rd;38.708212;-75.337265;303;45
+3546;US Rt 9 @ Sand Hill Rd;38.698905;-75.369015;303;46
+654;US Rt 9 opp Dollar Store;38.695111;-75.379551;303;47
+3963;Perdue Georgetown;38.697966;-75.38248;303;48
+440;US Rt 9 @ N Railroad Ave;38.69212;-75.383414;303;49
+3737;Georgetown Transit Hub;38.693068;-75.384975;303;50
 3777;Dover Transit Center;39.152653;-75.529575;302;1
 2863;Queen St @ Queen Manor Apts;39.154706;-75.528406;302;2
 2864;Queen St @ Loockerman St;39.156828;-75.529233;302;3
@@ -218,26 +218,26 @@
 4137;DE 1 @ New Orleans St Sb;38.69529;-75.075319;203;21
 401;DE 1 & Read St;38.691993;-75.074898;203;22
 402;DE 1 & Ruddertown;38.689424;-75.07459;203;23
-3852;Lewes Transit Center;38.748176;-75.169855;201: Rehoboth Beach;1
-3292;DE 1 @ Savannah West Apts;38.74581;-75.155299;201: Rehoboth Beach;2
-3293;DE 1 @ Tenly Ct;38.742638;-75.150528;201: Rehoboth Beach;3
-3837;DE 1 at Pelican Square Sc;38.737309;-75.142396;201: Rehoboth Beach;4
-416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;201: Rehoboth Beach;5
-3294;DE 1 @ Hampton Inn;38.732509;-75.135209;201: Rehoboth Beach;6
-417;DE 1 @ Rehob Mall;38.729107;-75.130793;201: Rehoboth Beach;7
-3295;DE 1 @ Comfort Inn;38.725397;-75.126074;201: Rehoboth Beach;8
-418;DE 1 & The Market Pl (Sea Shell);38.722408;-75.122297;201: Rehoboth Beach;9
-420;DE 1 @ Camelot Dr (Econo Lodge);38.719996;-75.118082;201: Rehoboth Beach;10
-3475;DE 1 @ Palms at Rehoboth;38.718296;-75.114637;201: Rehoboth Beach;11
-3297;DE 1 @ Sea Air Ave;38.71737;-75.112705;201: Rehoboth Beach;12
-422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;201: Rehoboth Beach;13
-3570;Shuttle Rd @ Exxon Station;38.713733;-75.107908;201: Rehoboth Beach;14
-392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;201: Rehoboth Beach;15
-396;DE 1 & Phillips St;38.710981;-75.098788;201: Rehoboth Beach;16
-3569;State Rd @ Washington St - Med Ctr;38.706955;-75.090729;201: Rehoboth Beach;17
-3562;State Rd @ Rehoboth Ave;38.714959;-75.088534;201: Rehoboth Beach;18
-393;Rehoboth Ave opp City Hall;38.71576;-75.083567;201: Rehoboth Beach;19
-394;Rehoboth Ave & Boardwalk;38.716627;-75.077004;201: Rehoboth Beach;20
+3852;Lewes Transit Center;38.748176;-75.169855;201;1
+3292;DE 1 @ Savannah West Apts;38.74581;-75.155299;201;2
+3293;DE 1 @ Tenly Ct;38.742638;-75.150528;201;3
+3837;DE 1 at Pelican Square Sc;38.737309;-75.142396;201;4
+416;DE 1 & Tanger Outlets Surfside;38.735685;-75.140081;201;5
+3294;DE 1 @ Hampton Inn;38.732509;-75.135209;201;6
+417;DE 1 @ Rehob Mall;38.729107;-75.130793;201;7
+3295;DE 1 @ Comfort Inn;38.725397;-75.126074;201;8
+418;DE 1 & The Market Pl (Sea Shell);38.722408;-75.122297;201;9
+420;DE 1 @ Camelot Dr (Econo Lodge);38.719996;-75.118082;201;10
+3475;DE 1 @ Palms at Rehoboth;38.718296;-75.114637;201;11
+3297;DE 1 @ Sea Air Ave;38.71737;-75.112705;201;12
+422;DE 1 & Tanger Outlets Bayside;38.715493;-75.109029;201;13
+3570;Shuttle Rd @ Exxon Station;38.713733;-75.107908;201;14
+392;Rehoboth P-n-r @ Country Club Rd;38.712003;-75.10727;201;15
+396;DE 1 & Phillips St;38.710981;-75.098788;201;16
+3569;State Rd @ Washington St - Med Ctr;38.706955;-75.090729;201;17
+3562;State Rd @ Rehoboth Ave;38.714959;-75.088534;201;18
+393;Rehoboth Ave opp City Hall;38.71576;-75.083567;201;19
+394;Rehoboth Ave & Boardwalk;38.716627;-75.077004;201;20
 3137;Scarborough Rd P&r;39.196973;-75.559359;120;1
 480;US Rt 13 & Denneys Rd;39.202894;-75.559439;120;2
 3628;US Rt 13 @ Marion Dr;39.207785;-75.5663;120;3

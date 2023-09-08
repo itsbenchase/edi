@@ -54,7 +54,7 @@ const agencyLines = [];
 
 function getAgencies()
 {
-    const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    const agencyFileUrl = ("https://index.benchase.info/agencies.txt"); // provide file location
     fetch(agencyFileUrl)
         .then(r => r.text())
         .then((text) => {
@@ -113,7 +113,7 @@ function getOption()
 
     document.getElementById("routeDrop").innerHTML = ("<option value=none>Select a route</option>");
 
-    const routeFileUrl = ("https://edi.benchase.info/edis/" + agency + ".txt"); // provide file location
+    const routeFileUrl = ("https://index.benchase.info/edis/" + agency + ".txt"); // provide file location
     fetch(routeFileUrl)
         .then(r => r.text())
         .then((text) => {
@@ -150,7 +150,7 @@ function getRandom()
 {
     code = "none";
     rand = true;
-    const randAgencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    const randAgencyFileUrl = ("https://index.benchase.info/agencies.txt"); // provide file location
     fetch(randAgencyFileUrl)
         .then(r => r.text())
         .then((text) => {
@@ -168,7 +168,7 @@ function getRandom()
             var randAgency = Math.floor(Math.random() * randAgencyFile.length);
             agency = randAgencies[randAgency];
 
-            const randListFileUrl = ("https://edi.benchase.info/edis/" + agency +  ".txt"); // provide file location
+            const randListFileUrl = ("https://index.benchase.info/edis/" + agency +  ".txt"); // provide file location
             fetch(randListFileUrl)
                 .then(r => r.text())
                 .then((text) => {
@@ -209,7 +209,7 @@ function findIndex()
     document.getElementById("code").innerHTML = ("<b>Code: </b>" + code);
 
     // gets full agency name
-    const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    const agencyFileUrl = ("https://index.benchase.info/agencies.txt"); // provide file location
     fetch(agencyFileUrl)
         .then(r => r.text())
         .then((text) => {
@@ -236,7 +236,7 @@ function findIndex()
             }
         })
 
-    const ediFileUrl = ("https://edi.benchase.info/files/" + agency +  "-edi.txt"); // provide file location
+    const ediFileUrl = ("https://index.benchase.info/files/" + agency +  "-edi.txt"); // provide file location
     fetch(ediFileUrl)
         .then(r => r.text())
         .then((text) => {
@@ -246,7 +246,7 @@ function findIndex()
             intoArray(ediFile);
         })
 
-    const listFileUrl = ("https://edi.benchase.info/edis/" + agency +  ".txt"); // provide file location
+    const listFileUrl = ("https://index.benchase.info/edis/" + agency +  ".txt"); // provide file location
     fetch(listFileUrl)
         .then(r => r.text())
         .then((text) => {

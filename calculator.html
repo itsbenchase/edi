@@ -64,7 +64,7 @@ const lineLons = [];
 
 function getAgencies()
 {
-    const agencyFileUrl = ("https://edi.benchase.info/agencies.txt"); // provide file location
+    const agencyFileUrl = ("https://index.benchase.info/agencies.txt"); // provide file location
     fetch(agencyFileUrl)
         .then(r => r.text())
         .then((text) => {
@@ -102,7 +102,7 @@ function getStops()
         }
     }
 
-    const stopFileUrl = ("https://edi.benchase.info/stops/" + agency + ".txt"); // provide file location
+    const stopFileUrl = ("https://index.benchase.info/stops/" + agency + ".txt"); // provide file location
     fetch(stopFileUrl)
         .then(r => r.text())
         .then((text) => {
