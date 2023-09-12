@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Rose Park / South Temple</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ut-uta<br/>EDI: 1.9</description>
+		<description>Branch: Main<br/>Agency: ut-uta<br/>EDI: 1.9</description>
 		<LineString> 
 			<coordinates>
 			-111.837594,40.772535,0

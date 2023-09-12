@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>39</name>
+		<name>39: Ardsley - Hartsdale</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.62</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.62</description>
 		<LineString> 
 			<coordinates>
 			-73.79584,41.01126,0
@@ -76,9 +76,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: Orchard Hill - Hartsdale</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-73.795737,41.011357,0
@@ -95,9 +95,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54</name>
+		<name>54: Mount Vernon Local</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 2.37</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.37</description>
 		<LineString> 
 			<coordinates>
 			-73.826595,40.900321,0
@@ -120,9 +120,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26</name>
+		<name>26: Bronx - Yonkers - Bronxville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-73.854478,40.898587,0
@@ -154,9 +154,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1X</name>
+		<name>1: Bronx and Yonkers - White Plains</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.19</description>
+		<description>Branch: X: to Westchester Medical Ctr<br/>Agency: ny-beeline<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -197,9 +197,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1W</name>
+		<name>1: Bronx and Yonkers - White Plains</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.51</description>
+		<description>Branch: W: to White Plains<br/>Agency: ny-beeline<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -298,9 +298,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1T</name>
+		<name>1: Bronx and Yonkers - White Plains</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.1</description>
+		<description>Branch: T: to Tarrytown<br/>Agency: ny-beeline<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -382,9 +382,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1C</name>
+		<name>1: Bronx and Yonkers - White Plains</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.36</description>
+		<description>Branch: C: to Westchester Medical Ctr<br/>Agency: ny-beeline<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -490,9 +490,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Bronx and Yonkers - White Plains</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -539,9 +539,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27</name>
+		<name>27: Skyline Dr - Eastview - White Plains</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-73.763459,41.034022,0
@@ -571,9 +571,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Croton Commuter</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.91</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.91</description>
 		<LineString> 
 			<coordinates>
 			-73.882696,41.190353,0
@@ -610,9 +610,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78</name>
+		<name>78: Getty Sq - Stew Leonard's Dr</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 2.0</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.0</description>
 		<LineString> 
 			<coordinates>
 			-73.897843,40.933627,0
@@ -644,9 +644,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12</name>
+		<name>12: Armonk - Westchester Airport - Purchase - White Plains</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 2.36</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.36</description>
 		<LineString> 
 			<coordinates>
 			-73.773514,41.033861,0
@@ -699,9 +699,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38</name>
+		<name>38: Secor Rd - Hartsdale</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-beeline<br/>EDI: 1.69</description>
+		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-73.795737,41.011357,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>rambler</name>
+		<name>Upper Merion Rambler</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-uppermerion<br/>EDI: 6.55</description>
+		<description>Branch: Main<br/>Agency: pa-uppermerion<br/>EDI: 6.55</description>
 		<LineString> 
 			<coordinates>
 			-75.379879,40.101158,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Station Belvédère - Gare fluviale / Cap-Blanc</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: qc-rtc<br/>EDI: 4.81</description>
+		<description>Branch: Main<br/>Agency: qc-rtc<br/>EDI: 4.81</description>
 		<LineString> 
 			<coordinates>
 			-71.24041,46.796825,0

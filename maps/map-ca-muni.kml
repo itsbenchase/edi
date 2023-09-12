@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>T</name>
+		<name>T: Third Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-122.408068,37.794817,0
@@ -82,9 +82,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N</name>
+		<name>N: Judah</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-122.508181,37.760304,0
@@ -123,9 +123,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M</name>
+		<name>M: Ocean View</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-122.447196,37.720096,0
@@ -158,9 +158,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L</name>
+		<name>L: Taraval</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-122.504351,37.736125,0
@@ -208,9 +208,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>K</name>
+		<name>K: Ingleside</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-122.446222,37.721238,0
@@ -237,9 +237,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J</name>
+		<name>J: Church</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-122.446222,37.721238,0
@@ -271,9 +271,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F</name>
+		<name>F: Market & Wharves</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-122.434979,37.762576,0
@@ -310,9 +310,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90</name>
+		<name>90: San Bruno Owl</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-122.402442,37.712298,0
@@ -357,9 +357,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67</name>
+		<name>67: Bernal Heights</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.71</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.71</description>
 		<LineString> 
 			<coordinates>
 			-122.418333,37.752321,0
@@ -387,9 +387,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66</name>
+		<name>66: Quintara</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.44</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-122.48611,37.73896,0
@@ -421,9 +421,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57</name>
+		<name>57: Parkmerced</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.61</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.61</description>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -460,9 +460,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56-out</name>
+		<name>56: Rutland</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 2.45</description>
+		<description>Branch: Outbound<br/>Agency: ca-muni<br/>EDI: 2.45</description>
 		<LineString> 
 			<coordinates>
 			-122.405152,37.72057,0
@@ -492,9 +492,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56-in</name>
+		<name>56: Rutland</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 3.12</description>
+		<description>Branch: Inbound<br/>Agency: ca-muni<br/>EDI: 3.12</description>
 		<LineString> 
 			<coordinates>
 			-122.392893,37.709831,0
@@ -531,9 +531,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Dogpatch</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-122.388707,37.760536,0
@@ -555,9 +555,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54</name>
+		<name>54: Felton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -642,9 +642,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52</name>
+		<name>52: Excelsior</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-122.425802,37.719192,0
@@ -685,9 +685,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49</name>
+		<name>49: Van Ness / Mission</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-122.45267,37.723629,0
@@ -730,9 +730,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48</name>
+		<name>48: Qunitara / 24th Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-122.50755,37.74544,0
@@ -810,9 +810,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45</name>
+		<name>45: Union / Stockton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-122.447206,37.797428,0
@@ -850,9 +850,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43</name>
+		<name>43: Masonic</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.8</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.8</description>
 		<LineString> 
 			<coordinates>
 			-122.43295,37.71293,0
@@ -946,9 +946,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38-48th</name>
+		<name>38: Geary</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.06</description>
+		<description>Branch: to 48th Ave<br/>Agency: ca-muni<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-122.395206,37.789975,0
@@ -1001,9 +1001,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38-va</name>
+		<name>38: Geary</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.04</description>
+		<description>Branch: to VA Hosptial<br/>Agency: ca-muni<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-122.395206,37.789975,0
@@ -1051,9 +1051,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38-33rd</name>
+		<name>38: Geary</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.06</description>
+		<description>Branch: to 33rd Ave<br/>Agency: ca-muni<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-122.395206,37.789975,0
@@ -1098,9 +1098,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Eureka</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-122.43408,37.733488,0
@@ -1141,9 +1141,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Ashbury / 18th Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.67</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.67</description>
 		<LineString> 
 			<coordinates>
 			-122.40668,37.751407,0
@@ -1192,9 +1192,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Balboa</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-122.50998,37.773562,0
@@ -1250,9 +1250,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Stockton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-122.393908,37.777875,0
@@ -1300,9 +1300,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29</name>
+		<name>29: Sunset</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.74</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.74</description>
 		<LineString> 
 			<coordinates>
 			-122.38699,37.717502,0
@@ -1395,9 +1395,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28</name>
+		<name>28: 19th Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -1439,9 +1439,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27</name>
+		<name>27: Bryant</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.75</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-122.418333,37.752321,0
@@ -1489,9 +1489,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25</name>
+		<name>25: Treasure Island</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-122.371758,37.828276,0
@@ -1505,9 +1505,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: Divisadero</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.86</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.86</description>
 		<LineString> 
 			<coordinates>
 			-122.391522,37.736304,0
@@ -1573,9 +1573,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Monterey</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-122.50493,37.735394,0
@@ -1647,9 +1647,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Fillmore</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.57</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-122.389936,37.771146,0
@@ -1696,9 +1696,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21</name>
+		<name>21: Hayes</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-122.465739,37.773318,0
@@ -1725,9 +1725,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19</name>
+		<name>19: Polk</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-122.367027,37.728795,0
@@ -1803,9 +1803,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44</name>
+		<name>44: O'Shuaghnessy</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.81</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.81</description>
 		<LineString> 
 			<coordinates>
 			-122.387862,37.742628,0
@@ -1876,9 +1876,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: 46th Avenue</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-122.475063,37.725732,0
@@ -1929,9 +1929,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: Bayview Hunters Point Express</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-122.390859,37.73385,0
@@ -1962,9 +1962,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Mission</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-122.459975,37.706372,0
@@ -2013,9 +2013,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12</name>
+		<name>12: Folsom / Pacific</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.82</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-122.420213,37.748217,0
@@ -2061,9 +2061,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: San Bruno</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-122.42388,37.714017,0
@@ -2125,9 +2125,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8BX</name>
+		<name>8BX: Bayshore B Express</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.67</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.67</description>
 		<LineString> 
 			<coordinates>
 			-122.45267,37.723629,0
@@ -2178,9 +2178,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8AX</name>
+		<name>8AX: Bayshore A Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-122.413084,37.706296,0
@@ -2211,9 +2211,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Bayshore</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-122.45267,37.723629,0
@@ -2274,9 +2274,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Haight / Noriega</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.507497,37.750981,0
@@ -2332,9 +2332,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Haight / Parnassus</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.470706,37.748878,0
@@ -2387,9 +2387,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: Fulton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-122.50998,37.773562,0
@@ -2439,9 +2439,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Sutter</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-122.446965,37.787676,0
@@ -2474,9 +2474,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: California</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-122.493112,37.779735,0
@@ -2531,9 +2531,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>714</name>
+		<name>714: BART Early Bird</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -2548,9 +2548,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36</name>
+		<name>36: Teresita</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 3.47</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.47</description>
 		<LineString> 
 			<coordinates>
 			-122.420351,37.747994,0
@@ -2625,9 +2625,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58</name>
+		<name>58: Lake Merced</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 3.87</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.87</description>
 		<LineString> 
 			<coordinates>
 			-122.475063,37.725732,0
@@ -2657,9 +2657,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39</name>
+		<name>39: Coit</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 3.83</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.83</description>
 		<LineString> 
 			<coordinates>
 			-122.40579,37.80266,0
@@ -2690,9 +2690,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37</name>
+		<name>37: Corbett</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 3.53</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.53</description>
 		<LineString> 
 			<coordinates>
 			-122.445384,37.770152,0
@@ -2749,9 +2749,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91</name>
+		<name>91: 3rd Street / 19th Avenue Owl</name>
 		<styleUrl>#10.0</styleUrl>
-		<description>Agency: ca-muni<br/>EDI: 14.58</description>
+		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 14.58</description>
 		<LineString> 
 			<coordinates>
 			-122.465846,37.740893,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>21</name>
+		<name>21: Lee - Great Barrington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-brta<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: ma-brta<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-73.362386,42.174176,0

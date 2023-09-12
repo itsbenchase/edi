@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Orange</name>
+		<name>Orange Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-part<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: pa-part<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-75.624031,40.382432,0
@@ -70,9 +70,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-part<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: pa-part<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-75.651227,40.244921,0
@@ -98,9 +98,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Purple</name>
+		<name>Purple Line</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: pa-part<br/>EDI: 3.94</description>
+		<description>Branch: Main<br/>Agency: pa-part<br/>EDI: 3.94</description>
 		<LineString> 
 			<coordinates>
 			-75.651227,40.244921,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Vine</name>
+		<name>The Vine</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-ctran<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-122.584719,45.656179,0

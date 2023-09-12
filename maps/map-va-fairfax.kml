@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>937</name>
+		<name>937: Coppermine - Elden - Herndon Metro</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: va-fairfax<br/>EDI: 4.54</description>
+		<description>Branch: Main<br/>Agency: va-fairfax<br/>EDI: 4.54</description>
 		<LineString> 
 			<coordinates>
 			-77.383016,38.951652,0
@@ -100,9 +100,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>703</name>
+		<name>703: Pimmit Hills</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: va-fairfax<br/>EDI: 2.63</description>
+		<description>Branch: Main<br/>Agency: va-fairfax<br/>EDI: 2.63</description>
 		<LineString> 
 			<coordinates>
 			-77.207962,38.924601,0

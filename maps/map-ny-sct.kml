@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>S57</name>
+		<name>S57: Sayville - Smith Haven Mall via LI Airport</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ny-sct<br/>EDI: 2.54</description>
+		<description>Branch: Main<br/>Agency: ny-sct<br/>EDI: 2.54</description>
 		<LineString> 
 			<coordinates>
 			-73.081981,40.736289,0
@@ -125,9 +125,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8A</name>
+		<name>8A: Riverhead</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ny-sct<br/>EDI: 6.4</description>
+		<description>Branch: Main<br/>Agency: ny-sct<br/>EDI: 6.4</description>
 		<LineString> 
 			<coordinates>
 			-72.699342,40.877412,0
@@ -170,9 +170,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S92</name>
+		<name>S92: Orient Point / Greenport - East Hampton via Riverhead</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ny-sct<br/>EDI: 4.63</description>
+		<description>Branch: Main<br/>Agency: ny-sct<br/>EDI: 4.63</description>
 		<LineString> 
 			<coordinates>
 			-72.194203,40.964834,0

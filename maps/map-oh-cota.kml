@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1-riverside</name>
+		<name>1: Kenny / Livingston</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: oh-cota<br/>EDI: 1.24</description>
+		<description>Branch: to Riverside Hospital<br/>Agency: oh-cota<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-82.827489,39.939285,0
@@ -140,9 +140,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-pickforde</name>
+		<name>1: Kenny / Livingston</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: oh-cota<br/>EDI: 1.27</description>
+		<description>Branch: to Pickforde Dr<br/>Agency: oh-cota<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-82.827489,39.939285,0

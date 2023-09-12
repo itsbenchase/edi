@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>South Shore</name>
+		<name>South Shore Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: in-nictd<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: in-nictd<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0

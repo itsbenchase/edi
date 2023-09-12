@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Greenback</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-sacrt<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ca-sacrt<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-121.383345,38.645132,0

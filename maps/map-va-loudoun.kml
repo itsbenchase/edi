@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>82</name>
+		<name>82: Sterling Connector</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-loudoun<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-77.404547,38.997255,0
@@ -72,9 +72,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70</name>
+		<name>70: Leesburg - Sterling via Leesburg Pike</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-loudoun<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-77.389506,39.029187,0
@@ -122,9 +122,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62</name>
+		<name>62: Ashburn Connector</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: va-loudoun<br/>EDI: 2.11</description>
+		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 2.11</description>
 		<LineString> 
 			<coordinates>
 			-77.474035,39.04427,0
@@ -146,9 +146,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>331</name>
+		<name>331: One Loudon</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-loudoun<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-77.48959,39.004361,0
@@ -161,9 +161,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>312</name>
+		<name>312: Potomac Falls</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-loudoun<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-77.424699,39.046445,0
@@ -175,9 +175,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80</name>
+		<name>80: Sugarland Run Connector</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-loudoun<br/>EDI: 1.95</description>
+		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.95</description>
 		<LineString> 
 			<coordinates>
 			-77.40819,38.99612,0

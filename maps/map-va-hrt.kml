@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Downtown Norfolk TC / Pembroke East</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: va-hrt<br/>EDI: 2.52</description>
+		<description>Branch: Main<br/>Agency: va-hrt<br/>EDI: 2.52</description>
 		<LineString> 
 			<coordinates>
 			-76.129864,36.847027,0

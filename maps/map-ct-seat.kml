@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>108</name>
+		<name>108: New London / Groton / Mistick Village</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 2.13</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 2.13</description>
 		<LineString> 
 			<coordinates>
 			-72.093231,41.355421,0
@@ -92,9 +92,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: NL Mall / Crystal Mall / NL Shopping Ctr</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-72.093231,41.355421,0
@@ -120,9 +120,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: Shaws Cove / LM Hospital / Ocean Beach</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-72.093231,41.355421,0
@@ -155,9 +155,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>982</name>
+		<name>982: Norwich / Foxwoods</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0
@@ -170,9 +170,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12</name>
+		<name>12: Jefferson St / Crystal Mall / Senior Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-72.143133,41.373133,0
@@ -201,9 +201,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: Norwich / Lisbon Landing</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.989769,41.585457,0
@@ -221,9 +221,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Hamilton Ave / Mohegan Sun / West Main</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-72.046724,41.528486,0
@@ -259,9 +259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: West Side</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.52</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0
@@ -291,9 +291,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: Industrial Park / Norwichtown / Backus</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0
@@ -328,9 +328,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-B</name>
+		<name>4: Taftville / Occum / Greenville</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 3.34</description>
+		<description>Branch: B: to Norwich Tech<br/>Agency: ct-seat<br/>EDI: 3.34</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0
@@ -354,9 +354,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-A</name>
+		<name>4: Taftville / Occum / Greenville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.16</description>
+		<description>Branch: A: to Occum<br/>Agency: ct-seat<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0
@@ -380,9 +380,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Groton / New London / Niantic</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 2.05</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 2.05</description>
 		<LineString> 
 			<coordinates>
 			-72.067007,41.368741,0
@@ -426,9 +426,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Norwich / Groton / New London</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0
@@ -460,9 +460,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Norwich / New London</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-seat<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ct-seat<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-72.082188,41.524401,0

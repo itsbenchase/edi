@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>27</name>
+		<name>27: Ferndale - Cordata / WCC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-122.494229,48.795213,0
@@ -97,9 +97,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26</name>
+		<name>26: Lynden - Cordata / WCC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-122.48828,48.795078,0
@@ -142,9 +142,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: Cordata / WCC - Downtown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-122.475612,48.75039,0
@@ -167,9 +167,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14S</name>
+		<name>14S: WWU - Billy Frank Jr</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-122.48613,48.717717,0
@@ -187,9 +187,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Fairhaven - Downtown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-122.475612,48.75039,0
@@ -214,9 +214,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Hospital / Cordata - Downtown</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 2.19</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 2.19</description>
 		<LineString> 
 			<coordinates>
 			-122.475612,48.75039,0
@@ -259,9 +259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Airport / Cordata - Downtown</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 2.28</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 2.28</description>
 		<LineString> 
 			<coordinates>
 			-122.475612,48.75039,0
@@ -305,9 +305,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Fairhaven - Downtown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-wta<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: wa-wta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-122.51069,48.720356,0

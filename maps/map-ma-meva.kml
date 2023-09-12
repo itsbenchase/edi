@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>4-out</name>
+		<name>4: Prospect Hill</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-meva<br/>EDI: 2.28</description>
+		<description>Branch: Outbound<br/>Agency: ma-meva<br/>EDI: 2.28</description>
 		<LineString> 
 			<coordinates>
 			-71.163624,42.708119,0
@@ -77,9 +77,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-in</name>
+		<name>4: Prospect Hill</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-meva<br/>EDI: 2.38</description>
+		<description>Branch: Inbound<br/>Agency: ma-meva<br/>EDI: 2.38</description>
 		<LineString> 
 			<coordinates>
 			-71.139534,42.71363,0

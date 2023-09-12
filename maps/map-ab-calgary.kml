@@ -53,7 +53,7 @@
 	<Placemark> 
 		<name>894</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ab-calgary<br/>EDI: 4.68</description>
+		<description>Branch: Main<br/>Agency: ab-calgary<br/>EDI: 4.68</description>
 		<LineString> 
 			<coordinates>
 			-114.185373,51.046539,0
@@ -102,9 +102,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52</name>
+		<name>52: Evergreen/Somerset-Bridlewood Station</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ab-calgary<br/>EDI: 4.56</description>
+		<description>Branch: Main<br/>Agency: ab-calgary<br/>EDI: 4.56</description>
 		<LineString> 
 			<coordinates>
 			-114.074452,50.924324,0

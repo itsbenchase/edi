@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>E</name>
+		<name>E: CountryExpress: Waikiki - Ewa Beach</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: hi-thebus<br/>EDI: 1.82</description>
+		<description>Branch: Main<br/>Agency: hi-thebus<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-157.821045,21.271688,0
@@ -91,9 +91,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C</name>
+		<name>C: CountryExpress: Makaha Beach - Alana Moana</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: hi-thebus<br/>EDI: 1.14</description>
+		<description>Branch:  Main<br/>Agency: hi-thebus<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-157.844926,21.293009,0
@@ -148,9 +148,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A</name>
+		<name>A: CityExpress: Pearlridge - UH Manoa</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: hi-thebus<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: hi-thebus<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-157.946305,21.383343,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>jetties-beach</name>
+		<name>Jetties Beach Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-70.09861,41.28543,0
@@ -67,9 +67,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>madaket</name>
+		<name>Madaket Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-70.09861,41.28543,0
@@ -99,9 +99,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>surfside-beach</name>
+		<name>Surfside Beach Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -123,9 +123,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>airport</name>
+		<name>Airport Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -148,9 +148,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>sconset-polpis</name>
+		<name>Sconset Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.43</description>
+		<description>Branch: via Polpis Road<br/>Agency: ma-nrta<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -189,9 +189,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>sconset-old-south</name>
+		<name>Sconset Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.15</description>
+		<description>Branch: via Old South Road<br/>Agency: ma-nrta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -229,9 +229,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>sconset-milestone</name>
+		<name>Sconset Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-nrta<br/>EDI: 1.06</description>
+		<description>Branch: via Milestone Road<br/>Agency: ma-nrta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0

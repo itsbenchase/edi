@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1T</name>
+		<name>1T: International - E. 14th</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ac<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: ca-ac<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-122.268681,37.808537,0

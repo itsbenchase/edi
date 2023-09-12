@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Z</name>
+		<name>Z: Amtrak / Cantrill / 5th</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-121.750044,38.54386,0
@@ -80,9 +80,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W</name>
+		<name>W: Cowell / Lillard / Drummond</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-121.753079,38.539346,0
@@ -102,9 +102,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>V</name>
+		<name>V: West Village - All Stops</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-121.753094,38.539142,0
@@ -117,9 +117,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>U</name>
+		<name>U: West Village via MU Terminal</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -131,9 +131,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>T</name>
+		<name>T: Davis High</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 7.8</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 7.8</description>
 		<LineString> 
 			<coordinates>
 			-121.750585,38.555965,0
@@ -172,9 +172,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>O</name>
+		<name>O: Amtrak / 5th / Alhambra / Target</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-121.750044,38.54386,0
@@ -205,9 +205,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M</name>
+		<name>M: B St / Cowell / Drew</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -223,9 +223,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L</name>
+		<name>L: E 8th / Pole Line / Moore / Loyola</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-121.753685,38.539329,0
@@ -251,9 +251,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>K</name>
+		<name>K: Lake / Arlington / Arthur</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -266,9 +266,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J</name>
+		<name>J: Anderson / Alvarado / N Sycamore / Silo Terminal</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-121.753094,38.539142,0
@@ -287,9 +287,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G</name>
+		<name>G: Anderson / Alvarado / N Sycamore / MU Terminal</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -306,9 +306,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F</name>
+		<name>F: Oak / Anderson / F St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -328,9 +328,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E</name>
+		<name>E: Downtown / F St / J St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -345,9 +345,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D</name>
+		<name>D: Lake / Arlington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-121.753685,38.539329,0
@@ -363,9 +363,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C</name>
+		<name>C: Sycamore / Wake Forest / Cuarto Dorms</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-121.753094,38.539142,0
@@ -379,9 +379,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B</name>
+		<name>B: Sycamore / Drake</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-121.749755,38.543593,0
@@ -397,9 +397,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A</name>
+		<name>A: Amtrak / 5th / Alhambra</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-unitrans<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-121.753685,38.539329,0

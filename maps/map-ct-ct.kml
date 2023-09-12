@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>52-R</name>
+		<name>52: Blue Hills Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.13</description>
+		<description>Branch: R: Rockwell Corner<br/>Agency: ct-ct<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -100,9 +100,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52-W</name>
+		<name>52: Blue Hills Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.11</description>
+		<description>Branch: W: Wedgewood<br/>Agency: ct-ct<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -156,9 +156,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>282</name>
+		<name>282: East Grand Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.94</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.94</description>
 		<LineString> 
 			<coordinates>
 			-72.878155,41.320321,0
@@ -174,9 +174,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>345</name>
+		<name>345: NCC Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-73.541371,41.047976,0
@@ -190,9 +190,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>927</name>
+		<name>927: Torrington Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-72.673034,41.765839,0
@@ -224,9 +224,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>926</name>
+		<name>926: Winsted Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-72.673034,41.765839,0
@@ -259,9 +259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>901</name>
+		<name>901: Avon - Canton Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-72.673034,41.765839,0
@@ -289,9 +289,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50-C</name>
+		<name>50: Blue Hills Ave - Cottage Grove Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.28</description>
+		<description>Branch: C: Copaco<br/>Agency: ct-ct<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -341,9 +341,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50-B</name>
+		<name>50: Blue Hills Ave - Cottage Grove Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.27</description>
+		<description>Branch: B: Bloomfield Center<br/>Agency: ct-ct<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -408,9 +408,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50-A</name>
+		<name>50: Blue Hills Ave - Cottage Grove Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.56</description>
+		<description>Branch: A: CIGNA / MetLife<br/>Agency: ct-ct<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -472,9 +472,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47-B</name>
+		<name>47: Franklin Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.21</description>
+		<description>Branch: B: Berlin Turnpike<br/>Agency: ct-ct<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -541,9 +541,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47-R</name>
+		<name>47: Franklin Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.11</description>
+		<description>Branch: R: Rose Hill<br/>Agency: ct-ct<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -628,9 +628,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47</name>
+		<name>47: Franklin Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -664,9 +664,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47-W</name>
+		<name>47: Franklin Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.07</description>
+		<description>Branch: W: Wethersfield Shopping Ctr<br/>Agency: ct-ct<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -723,9 +723,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46</name>
+		<name>46: Vine St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -763,9 +763,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45</name>
+		<name>45: Berlin Turnpike Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-72.681399,41.769084,0
@@ -781,9 +781,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44</name>
+		<name>44: Garden St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -813,9 +813,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43</name>
+		<name>43: Campfield Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -855,9 +855,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41</name>
+		<name>41: New Britain / Hartford</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -946,9 +946,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42</name>
+		<name>42: Barbour St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -979,9 +979,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40</name>
+		<name>40: North Main St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -1023,9 +1023,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38-C</name>
+		<name>38: Weston St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.17</description>
+		<description>Branch: C: CTtransit<br/>Agency: ct-ct<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-72.676086,41.766442,0
@@ -1041,9 +1041,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38</name>
+		<name>38: Weston St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-72.676086,41.766442,0
@@ -1066,9 +1066,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39</name>
+		<name>39: New Britain Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1120,9 +1120,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37</name>
+		<name>37: New Britain Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1160,9 +1160,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36-X</name>
+		<name>36: Windsor - Day Hill Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.69</description>
+		<description>Branch: X: via I-91<br/>Agency: ct-ct<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1195,9 +1195,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36</name>
+		<name>36: Windsor - Day Hill Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1290,9 +1290,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34-X</name>
+		<name>34: Kennedy Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.38</description>
+		<description>Branch: X: via I-91<br/>Agency: ct-ct<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1325,9 +1325,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34-A</name>
+		<name>34: Kennedy Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.17</description>
+		<description>Branch: A: Halfway House Rd<br/>Agency: ct-ct<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1408,9 +1408,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: Kennedy Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.49</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.49</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1501,9 +1501,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32-M</name>
+		<name>32: Windsor Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.13</description>
+		<description>Branch: M: via Matianuck Ave<br/>Agency: ct-ct<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1564,9 +1564,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32-B</name>
+		<name>32: Windsor Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.31</description>
+		<description>Branch: B: Bloomfield Ave<br/>Agency: ct-ct<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1636,9 +1636,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32</name>
+		<name>32: Windsor Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1711,9 +1711,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33-W</name>
+		<name>33: Park St - Park Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.29</description>
+		<description>Branch: W: Westfarms<br/>Agency: ct-ct<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1767,9 +1767,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Park St - Park Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1802,9 +1802,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Park St - New Park Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1838,9 +1838,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Bradley Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-72.681399,41.769084,0
@@ -1860,9 +1860,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: Windsor - Bradley Int'l - Windsor Locks</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 2.73</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.73</description>
 		<LineString> 
 			<coordinates>
 			-72.643272,41.85188,0
@@ -1925,9 +1925,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>928</name>
+		<name>928: Southington - Cheshire - Waterbury Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-73.04307,41.554015,0
@@ -1951,9 +1951,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>161</name>
+		<name>161: St. Francis Hosptial / Hartford Hospital</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.38</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-72.698263,41.775663,0
@@ -1979,9 +1979,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>153</name>
+		<name>153: Flatbush / Copaco</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 2.18</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.18</description>
 		<LineString> 
 			<coordinates>
 			-72.720261,41.739746,0
@@ -2049,9 +2049,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>923</name>
+		<name>923: Bristol Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -2069,9 +2069,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>543</name>
+		<name>543: West St</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 3.38</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 3.38</description>
 		<LineString> 
 			<coordinates>
 			-72.946382,41.674632,0
@@ -2088,9 +2088,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>541-C</name>
+		<name>541: Bristol Local</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.62</description>
+		<description>Branch: C: via Senior Center<br/>Agency: ct-ct<br/>EDI: 1.62</description>
 		<LineString> 
 			<coordinates>
 			-72.946249,41.674722,0
@@ -2123,9 +2123,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>541-B</name>
+		<name>541: Bristol Local</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.72</description>
+		<description>Branch: B: via Birchwood Manor<br/>Agency: ct-ct<br/>EDI: 1.72</description>
 		<LineString> 
 			<coordinates>
 			-72.946249,41.674722,0
@@ -2155,9 +2155,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>502</name>
+		<name>502: Black Rock Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-72.781537,41.66853,0
@@ -2208,9 +2208,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>471</name>
+		<name>471: Rubber Ave - Millville</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 2.35</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.35</description>
 		<LineString> 
 			<coordinates>
 			-73.055917,41.489249,0
@@ -2232,9 +2232,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324-S</name>
+		<name>324: Fairfield Ave</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 3.31</description>
+		<description>Branch: S: Sound Beach Ave<br/>Agency: ct-ct<br/>EDI: 3.31</description>
 		<LineString> 
 			<coordinates>
 			-73.53966,41.05313,0
@@ -2290,9 +2290,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324-in</name>
+		<name>324: Fairfield Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.26</description>
+		<description>Branch: Inbound<br/>Agency: ct-ct<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-73.551188,41.028709,0
@@ -2318,9 +2318,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324-out</name>
+		<name>324: Fairfield Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.38</description>
+		<description>Branch: Outbound<br/>Agency: ct-ct<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-73.53966,41.05313,0
@@ -2353,7 +2353,7 @@
 	<Placemark> 
 		<name>Shore Line East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-72.926195,41.29733,0
@@ -2371,7 +2371,7 @@
 	<Placemark> 
 		<name>Hartford Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-72.926195,41.29733,0
@@ -2387,9 +2387,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69-F</name>
+		<name>69: Capitol Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.99</description>
+		<description>Branch: via Fenn Rd<br/>Agency: ct-ct<br/>EDI: 1.99</description>
 		<LineString> 
 			<coordinates>
 			-72.674129,41.763642,0
@@ -2467,9 +2467,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69</name>
+		<name>69: Capitol Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.67</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.67</description>
 		<LineString> 
 			<coordinates>
 			-72.674129,41.763642,0
@@ -2545,9 +2545,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>261</name>
+		<name>261: Boston Post Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2621,9 +2621,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>271-R</name>
+		<name>271: Kimberly Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.12</description>
+		<description>Branch: R: Bayshore via Jones Hill Rd<br/>Agency: ct-ct<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2686,9 +2686,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>271-S</name>
+		<name>271: Kimberly Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.31</description>
+		<description>Branch: S: Savin Rock<br/>Agency: ct-ct<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2739,9 +2739,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>271-M</name>
+		<name>271: Kimberly Ave</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 2.06</description>
+		<description>Branch: M: Milford - CT Post Mall<br/>Agency: ct-ct<br/>EDI: 2.06</description>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2855,9 +2855,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>144</name>
+		<name>144: Wethersfield / Westfarms</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 2.37</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.37</description>
 		<LineString> 
 			<coordinates>
 			-72.76145,41.724921,0
@@ -2914,9 +2914,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>128</name>
+		<name>128: Hartford / Westfarms - New Britain</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -2967,9 +2967,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>121</name>
+		<name>121: MCC / Hartford / UConn Health</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-72.563377,41.761183,0
@@ -3018,9 +3018,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102</name>
+		<name>102: Hartford / New Britain / Bristol</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -3069,9 +3069,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101</name>
+		<name>101: Hartford / New Britain</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -3091,9 +3091,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>255</name>
+		<name>255: New Haven / Ansonia / Seymour</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.89</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.89</description>
 		<LineString> 
 			<coordinates>
 			-72.92665,41.306527,0
@@ -3216,9 +3216,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201</name>
+		<name>201: Madison</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-ct<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-72.92708,41.30415,0

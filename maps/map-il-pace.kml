@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>543-D</name>
+		<name>543: Dundee - Carpentersville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.13</description>
+		<description>Branch: D: to Blackhawk<br/>Agency: il-pace<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-88.286961,42.037502,0
@@ -74,9 +74,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>543</name>
+		<name>543: Dundee - Carpentersville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-88.286961,42.037502,0
@@ -118,9 +118,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>540</name>
+		<name>540: Farnsworth Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-88.267803,41.729897,0
@@ -157,9 +157,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>533-H</name>
+		<name>533: Northeast Aurora</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.83</description>
+		<description>Branch: H: to Molitor<br/>Agency: il-pace<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-88.307085,41.762427,0
@@ -216,9 +216,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>533</name>
+		<name>533: Northeast Aurora</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-88.307085,41.762427,0
@@ -274,9 +274,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>530</name>
+		<name>530: West Galena - Naperville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-88.145713,41.779507,0
@@ -358,9 +358,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>524</name>
+		<name>524: West Aurora</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-88.307472,41.761925,0
@@ -403,9 +403,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>512</name>
+		<name>512: Joliet - Centerpoint</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-88.147066,41.446495,0
@@ -447,9 +447,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>511</name>
+		<name>511: Joliet - Elmwood - Centerpoint</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-88.07964,41.522577,0
@@ -501,9 +501,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>509</name>
+		<name>509: Joliet - Fairmont</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.88</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-88.068333,41.56747,0
@@ -587,9 +587,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>508</name>
+		<name>508: East Joliet</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-88.079595,41.523098,0
@@ -657,9 +657,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>507</name>
+		<name>507: Plainfield</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-88.079782,41.522183,0
@@ -699,9 +699,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504</name>
+		<name>504: South Joliet</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.94</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.94</description>
 		<LineString> 
 			<coordinates>
 			-88.079685,41.52276,0
@@ -734,9 +734,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501-jewel</name>
+		<name>501: West Jefferson</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.07</description>
+		<description>Branch: to Jewel<br/>Agency: il-pace<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-88.079908,41.523157,0
@@ -774,9 +774,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501-houbolt</name>
+		<name>501: West Jefferson</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.38</description>
+		<description>Branch: via Houbolt<br/>Agency: il-pace<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-88.079908,41.523157,0
@@ -819,9 +819,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>471-C</name>
+		<name>471: Highland Park - Northbrook Court</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 3.55</description>
+		<description>Branch: C: to Crossroads<br/>Agency: il-pace<br/>EDI: 3.55</description>
 		<LineString> 
 			<coordinates>
 			-87.797719,42.183231,0
@@ -862,9 +862,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>471</name>
+		<name>471: Highland Park - Northbrook Court</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.41</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 2.41</description>
 		<LineString> 
 			<coordinates>
 			-87.797719,42.183231,0
@@ -902,9 +902,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>395</name>
+		<name>395: 95th / Dan Ryan - UPS Hodgkins</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-87.884583,41.747125,0
@@ -931,9 +931,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>392</name>
+		<name>392: Little Village - UPS Hodgkins</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-87.884583,41.747125,0
@@ -1034,9 +1034,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>390</name>
+		<name>390: Midway - UPS Hodgkins</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.7</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.7</description>
 		<LineString> 
 			<coordinates>
 			-87.882058,41.75048,0
@@ -1103,9 +1103,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>386</name>
+		<name>386: South Harlem</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-87.798962,41.55267,0
@@ -1193,9 +1193,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>385</name>
+		<name>385: 87th / 111th / 127th</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 3.25</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 3.25</description>
 		<LineString> 
 			<coordinates>
 			-87.743222,41.654118,0
@@ -1335,9 +1335,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>384</name>
+		<name>384: Narragansett / Ridgeland</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-87.738353,41.786052,0
@@ -1397,9 +1397,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>383-104th</name>
+		<name>383: South Cicero</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.16</description>
+		<description>Branch: to 104th / Pulaski<br/>Agency: il-pace<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-87.738353,41.786052,0
@@ -1444,9 +1444,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>383</name>
+		<name>383: South Cicero</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-87.738353,41.786052,0
@@ -1520,9 +1520,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>381-H</name>
+		<name>381: 95th St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.15</description>
+		<description>Branch: H: via 88th Ave<br/>Agency: il-pace<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-87.834748,41.69303,0
@@ -1617,9 +1617,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>381</name>
+		<name>381: 95th St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-87.834748,41.69303,0
@@ -1709,9 +1709,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>379</name>
+		<name>379: Midway - Orland Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-87.84915,41.608428,0
@@ -1805,9 +1805,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>367</name>
+		<name>367: University Park - Park Forest</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 3.23</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 3.23</description>
 		<LineString> 
 			<coordinates>
 			-87.722651,41.45905,0
@@ -1846,9 +1846,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>364</name>
+		<name>364: 159th St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-87.84915,41.608428,0
@@ -1959,9 +1959,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>361</name>
+		<name>361: Harvey - Laraway Crossings Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-87.643255,41.610978,0
@@ -1971,9 +1971,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>359</name>
+		<name>359: Robbins - South Kedzie Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-87.668102,41.561693,0
@@ -2058,9 +2058,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>358</name>
+		<name>358: Torrence</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-87.637975,41.501972,0
@@ -2202,9 +2202,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>357</name>
+		<name>357: Lincoln Highway</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-87.739688,41.49966,0
@@ -2248,9 +2248,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>356</name>
+		<name>356: Harvey - Homewood - Tinley Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-87.798962,41.55267,0
@@ -2311,9 +2311,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>353-victory</name>
+		<name>353: 95th / Dan Ryan - River Oaks - Homewood</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.7</description>
+		<description>Branch: to Victory Centre<br/>Agency: il-pace<br/>EDI: 1.7</description>
 		<LineString> 
 			<coordinates>
 			-87.62488,41.721357,0
@@ -2363,9 +2363,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>353-homewood</name>
+		<name>353: 95th / Dan Ryan - River Oaks - Homewood</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.38</description>
+		<description>Branch: to Homewood<br/>Agency: il-pace<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-87.62488,41.721357,0
@@ -2415,9 +2415,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>352-harvey</name>
+		<name>352: Halsted</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.11</description>
+		<description>Branch: to Harvey<br/>Agency: il-pace<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-87.623955,41.72224,0
@@ -2450,9 +2450,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>352</name>
+		<name>352: Halsted</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-87.623955,41.72224,0
@@ -2521,9 +2521,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>350</name>
+		<name>350: Sibley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-87.64341,41.61112,0
@@ -2570,9 +2570,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>349</name>
+		<name>349: South Western</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-87.643255,41.610978,0
@@ -2642,9 +2642,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>348</name>
+		<name>348: Harvey - Riverdale - Blue Island</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.56</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 2.56</description>
 		<LineString> 
 			<coordinates>
 			-87.680165,41.66097,0
@@ -2696,9 +2696,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>332-delta</name>
+		<name>332: River Rd - York Rd</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.26</description>
+		<description>Branch: to Delta Cargo<br/>Agency: il-pace<br/>EDI: 2.26</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -2735,9 +2735,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>332</name>
+		<name>332: River Rd - York Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.7</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.7</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -2853,9 +2853,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>331-H</name>
+		<name>331: Cumberland - 5th Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.27</description>
+		<description>Branch: H: to La Grange<br/>Agency: il-pace<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-87.869614,41.817058,0
@@ -3006,9 +3006,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>331</name>
+		<name>331: Cumberland - 5th Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-87.845008,41.822022,0
@@ -3140,9 +3140,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>322</name>
+		<name>322: Cermak Rd - 22nd St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-88.004698,41.842112,0
@@ -3209,9 +3209,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>319-B</name>
+		<name>319: Grand Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.11</description>
+		<description>Branch: B: to Bensenville<br/>Agency: il-pace<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-87.802068,41.923886,0
@@ -3306,9 +3306,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>319</name>
+		<name>319: Grand Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-87.802068,41.923886,0
@@ -3396,9 +3396,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>318</name>
+		<name>318: West North Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-87.908144,41.905052,0
@@ -3450,9 +3450,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>315</name>
+		<name>315: Austin Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-87.763203,41.823727,0
@@ -3504,9 +3504,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>314</name>
+		<name>314: Ridgeland Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-87.762387,41.823693,0
@@ -3553,9 +3553,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>313</name>
+		<name>313: St. Charles Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-88.024475,41.83161,0
@@ -3733,9 +3733,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>311</name>
+		<name>311: Oak Park Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-87.824877,41.805883,0
@@ -3795,9 +3795,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>309</name>
+		<name>309: Lake St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-87.940604,41.899827,0
@@ -3860,9 +3860,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>307</name>
+		<name>307: Harlem</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-87.801755,41.763467,0
@@ -3958,9 +3958,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>272</name>
+		<name>272: Milwaukee Ave North</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-87.83664,42.048333,0
@@ -4027,9 +4027,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>250</name>
+		<name>250: Dempster St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-87.88259,41.993427,0
@@ -4119,9 +4119,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>241</name>
+		<name>241: Greenwood - Talcott</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.7</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.7</description>
 		<LineString> 
 			<coordinates>
 			-87.838658,41.983752,0
@@ -4210,9 +4210,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>240</name>
+		<name>240: Dee Road</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-87.838658,41.983752,0
@@ -4261,9 +4261,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>808</name>
+		<name>808: Crystal Lake - Harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-88.607671,42.426217,0
@@ -4376,9 +4376,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>234</name>
+		<name>234: Wheeling - Des Plaines</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.88</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-87.887203,42.041308,0
@@ -4521,9 +4521,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>230</name>
+		<name>230: South Des Plaines</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.61</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.61</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -4580,9 +4580,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>226</name>
+		<name>226: Oakton St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-87.761974,41.970208,0
@@ -4733,9 +4733,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225</name>
+		<name>225: Central - Howard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-87.761974,41.970208,0
@@ -4802,9 +4802,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>223-W</name>
+		<name>223: Elk Grove - Rosemont</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.89</description>
+		<description>Branch: W: via Lively<br/>Agency: il-pace<br/>EDI: 1.89</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -4850,9 +4850,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>223-E</name>
+		<name>223: Elk Grove - Rosemont</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.51</description>
+		<description>Branch: E: via Devon<br/>Agency: il-pace<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -4895,9 +4895,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>221-K</name>
+		<name>221: Wolf Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.37</description>
+		<description>Branch: K: via Business Ctr<br/>Agency: il-pace<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -4957,9 +4957,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>221</name>
+		<name>221: Wolf Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-87.860723,41.984485,0
@@ -4999,9 +4999,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>412</name>
+		<name>412: North Miles Circulator</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-87.831325,42.04835,0
@@ -5027,9 +5027,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>411</name>
+		<name>411: West Niles Local</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-87.767491,42.010791,0
@@ -5105,9 +5105,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>410</name>
+		<name>410: East Niles Local</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.87</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-87.767491,42.010791,0
@@ -5209,9 +5209,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>213-H</name>
+		<name>213: Green Bay Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.1</description>
+		<description>Branch: H: via Dodge<br/>Agency: il-pace<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-87.672956,42.01788,0
@@ -5257,9 +5257,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>213</name>
+		<name>213: Green Bay Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-87.672956,42.01788,0
@@ -5342,9 +5342,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>290</name>
+		<name>290: Touhy Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-87.838658,41.983752,0
@@ -5415,9 +5415,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215</name>
+		<name>215: Crawford - Howard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-87.750937,42.060993,0
@@ -5495,9 +5495,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>715</name>
+		<name>715: Central DuPage</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.72</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.72</description>
 		<LineString> 
 			<coordinates>
 			-87.978305,41.717856,0
@@ -5682,9 +5682,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>711</name>
+		<name>711: Wheaton - Addison</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.31</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 2.31</description>
 		<LineString> 
 			<coordinates>
 			-88.112413,41.864145,0
@@ -5769,7 +5769,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>549-c</name>
+		<name>549: South Randall</name>
+		<styleUrl>#2.5</styleUrl>
+		<description>Branch: C: via Bowes<br/>Agency: il-pace<br/>EDI: 2.95</description>
 		<LineString> 
 			<coordinates>
 			-88.286737,42.037137,0
@@ -5812,9 +5814,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>549</name>
+		<name>549: South Randall</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.27</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 2.27</description>
 		<LineString> 
 			<coordinates>
 			-88.286737,42.037137,0
@@ -5855,9 +5857,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>807</name>
+		<name>807: Woodstock - McHenry</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.87</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-88.447583,42.316923,0
@@ -5920,9 +5922,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>330</name>
+		<name>330: Mannheim - LaGrange Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-87.79963,41.792133,0
@@ -6052,9 +6054,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>303-rosemont</name>
+		<name>303: Forest Park - Rosemont</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.36</description>
+		<description>Branch: to Rosemont<br/>Agency: il-pace<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-87.817302,41.8745,0
@@ -6126,9 +6128,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>472</name>
+		<name>472: Highland Park - Highwood</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 3.36</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 3.36</description>
 		<LineString> 
 			<coordinates>
 			-87.822799,42.187525,0
@@ -6206,9 +6208,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>270</name>
+		<name>270: Milwaukee Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-87.762022,41.969951,0
@@ -6280,9 +6282,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>423</name>
+		<name>423: Linden - The Glen - Harlem</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.02</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 2.02</description>
 		<LineString> 
 			<coordinates>
 			-87.691214,42.073679,0
@@ -6443,9 +6445,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>422</name>
+		<name>422: Linden - Glenview - Northbrook Ct</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 2.18</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 2.18</description>
 		<LineString> 
 			<coordinates>
 			-87.814355,42.150345,0
@@ -6603,7 +6605,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>pulse</name>
+		<name>Pulse Milwaukee Line</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-87.762022,41.969951,0
@@ -6620,9 +6624,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>317</name>
+		<name>317: Westchester</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-87.817302,41.8745,0
@@ -6662,9 +6666,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>316</name>
+		<name>316: Laramie Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-87.745013,41.871618,0
@@ -6711,9 +6715,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>421</name>
+		<name>421: Wilmette Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-87.691214,42.073679,0
@@ -6756,9 +6760,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>366</name>
+		<name>366: Park Forest - Chicago Heights</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-87.637883,41.501963,0
@@ -6790,9 +6794,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>360</name>
+		<name>360: Harvey - Amazon Monee Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-87.643447,41.611088,0
@@ -6802,9 +6806,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>305</name>
+		<name>305: East Roosevelt Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-87.816382,41.87404,0
@@ -6843,9 +6847,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>208</name>
+		<name>208: Golf Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-88.036948,42.041245,0
@@ -6959,9 +6963,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>209</name>
+		<name>209: Busse Hwy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-87.887203,42.041308,0
@@ -7010,9 +7014,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210</name>
+		<name>210: Lincoln Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-87.855333,42.092708,0
@@ -7136,9 +7140,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301</name>
+		<name>301: Roosevelt Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-88.138197,41.868036,0
@@ -7237,9 +7241,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>302</name>
+		<name>302: Ogden / Stanley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-87.869614,41.817058,0
@@ -7330,9 +7334,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>303-winston</name>
+		<name>303: Forest Park - Rosemont</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.84</description>
+		<description>Branch: to Winston Plaza<br/>Agency: il-pace<br/>EDI: 1.84</description>
 		<LineString> 
 			<coordinates>
 			-87.816382,41.87404,0
@@ -7374,9 +7378,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>308</name>
+		<name>308: Medical Center</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.83</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-87.816382,41.87404,0
@@ -7399,9 +7403,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>310</name>
+		<name>310: Madison St - Hillside</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-87.900772,41.869987,0
@@ -7444,9 +7448,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>603</name>
+		<name>603: Elgin TC - Rosemont</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-88.286918,42.037173,0
@@ -7457,9 +7461,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>905</name>
+		<name>905: Schaumburg Trolley</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-pace<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: il-pace<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-88.042418,42.060948,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: 6th Ave - Pacific Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-pierce<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: wa-pierce<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-122.525946,47.243527,0

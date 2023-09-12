@@ -129,7 +129,7 @@ public class Stats
             data = data.substring(data.indexOf(";") + 1);
             double miles = Double.parseDouble(data.substring(0, data.indexOf(";")));
             data = data.substring(data.indexOf(";") + 1);
-            double edi = Double.parseDouble(data);
+            double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
 
             lengths.add(miles);
             edis.add(edi);
@@ -227,6 +227,62 @@ public class Stats
       System.out.println("Median EDI: " + medianEdi);
       System.out.println("Mean Length: " + meanLength + " miles");
       System.out.println("Median Length: " + medianLength + " miles");
+
+      // spreads
+      int cat10 = 0;
+      int cat15 = 0;
+      int cat20 = 0;
+      int cat25 = 0;
+      int cat30 = 0;
+      int cat35 = 0;
+      int cat40 = 0;
+      int cat100 = 0;
+
+      for (int i = 0; i < edis.size(); i++)
+      {
+        if (edis.get(i) >= 1.0 && edis.get(i) < 1.5)
+        {
+          cat10++;
+        }
+        else if (edis.get(i) >= 1.5 && edis.get(i) < 2.0)
+        {
+          cat15++;
+        }
+        else if (edis.get(i) >= 2.0 && edis.get(i) < 2.5)
+        {
+          cat20++;
+        }
+        else if (edis.get(i) >= 2.5 && edis.get(i) < 3.0)
+        {
+          cat25++;
+        }
+        else if (edis.get(i) >= 3.0 && edis.get(i) < 3.5)
+        {
+          cat30++;
+        }
+        else if (edis.get(i) >= 3.5 && edis.get(i) < 4.0)
+        {
+          cat35++;
+        }
+        else if (edis.get(i) >= 4.0 && edis.get(i) < 10.0)
+        {
+          cat40++;
+        }
+        else // (edis.get(i) >= 10.0)
+        {
+          cat100++;
+        }
+      }
+
+      System.out.println("Spreads:");
+      System.out.println("1.00 - 1.49: " + cat10);
+      System.out.println("1.50 - 1.99: " + cat15);
+      System.out.println("2.00 - 2.49: " + cat20);
+      System.out.println("2.50 - 2.99: " + cat25);
+      System.out.println("3.00 - 3.49: " + cat30);
+      System.out.println("3.50 - 3.99: " + cat35);
+      System.out.println("4.00 - 9.99: " + cat40);
+      System.out.println("above 10.00: " + cat100);
       
       if (!bypass)
       {

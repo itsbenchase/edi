@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: West 1st Avenue</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 2.12</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.12</description>
 		<LineString> 
 			<coordinates>
 			-105.084986,39.707613,0
@@ -116,9 +116,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W</name>
+		<name>W: Union Station - Jefferson County Government Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-105.201046,39.726318,0
@@ -140,9 +140,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R</name>
+		<name>R: Lincoln - Peoria</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-104.82847,39.690358,0
@@ -156,9 +156,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N</name>
+		<name>N: Union Station - Eastlake & 124th</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-105.00108,39.753269,0
@@ -172,9 +172,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L</name>
+		<name>L: 30th & Downing - 16th & Stout</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-104.992421,39.744907,0
@@ -187,9 +187,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H</name>
+		<name>H: 18th & California - Florida</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.69</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-104.828474,39.689534,0
@@ -212,9 +212,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G</name>
+		<name>G: Union Station - Wheat Ridge Ward</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-105.132658,39.788077,0
@@ -229,9 +229,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E</name>
+		<name>E: Union Station - RidgeGate Parkway</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-105.003351,39.755125,0
@@ -259,9 +259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D</name>
+		<name>D: 18th & California - Littleton-Mineral</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-105.024812,39.580413,0
@@ -280,9 +280,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B</name>
+		<name>B: Union Station - Westminster</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-105.028733,39.82239,0
@@ -293,9 +293,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A</name>
+		<name>A: Union Station - Denver Airport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: co-rtd<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-105.0002,39.753698,0

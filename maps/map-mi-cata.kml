@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Downtown Lansing - Meridian Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mi-cata<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: mi-cata<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-84.420488,42.724535,0

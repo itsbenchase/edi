@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>KST</name>
+		<name>King St Trolley: King St - Market Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-77.042595,38.804695,0
@@ -70,9 +70,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104</name>
+		<name>104: Braddock - Pentagon</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-77.054941,38.868187,0
@@ -108,9 +108,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>103</name>
+		<name>103: Braddock - Pentagon</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-77.054941,38.868187,0
@@ -144,9 +144,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102</name>
+		<name>102: Mark Center - King St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.86</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.86</description>
 		<LineString> 
 			<coordinates>
 			-77.060281,38.806367,0
@@ -181,9 +181,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36B</name>
+		<name>36: Mark Center - Shirlington - Potomac Yard</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.95</description>
+		<description>Branch: B: via Van Dorn<br/>Agency: va-dash<br/>EDI: 1.95</description>
 		<LineString> 
 			<coordinates>
 			-77.050545,38.83989,0
@@ -233,9 +233,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36A</name>
+		<name>36: Mark Center - Shirlington - Potomac Yard</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.89</description>
+		<description>Branch: A: via Menokin<br/>Agency: va-dash<br/>EDI: 1.89</description>
 		<LineString> 
 			<coordinates>
 			-77.050545,38.83989,0
@@ -288,9 +288,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Van Dorn - Pentagon</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-77.053847,38.869018,0
@@ -343,9 +343,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: Lee Center - Potomac Yard</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 2.97</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 2.97</description>
 		<LineString> 
 			<coordinates>
 			-77.05397,38.813393,0
@@ -377,9 +377,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: King St - Mt Vernon Av - Potomac Yard</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-77.050018,38.835243,0
@@ -409,9 +409,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32</name>
+		<name>32: Landmark - Van Dorn - King St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.71</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.71</description>
 		<LineString> 
 			<coordinates>
 			-77.061611,38.805859,0
@@ -450,9 +450,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: NVCC - King St - Braddock Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.72</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.72</description>
 		<LineString> 
 			<coordinates>
 			-77.053864,38.813545,0
@@ -510,9 +510,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Van Dorn - King St - Braddock</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-dash<br/>EDI: 1.88</description>
+		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-77.053864,38.813545,0

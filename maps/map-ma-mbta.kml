@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>29</name>
+		<name>29: Mattapan - Jackson Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-71.099592,42.323132,0
@@ -86,18 +86,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>h</name>
-		<LineString> 
-			<coordinates>
-			-71.11597,42.370925,0
-			-71.113514,42.370044,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>16-harbor</name>
+		<name>16: Forest Hills - Andrew or Harbor Point</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.47</description>
+		<description>Branch: to Harbor Point<br/>Agency: ma-mbta<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-71.040238,42.317184,0
@@ -134,9 +125,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: Forest Hills - Andrew or Harbor Point</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-71.057655,42.330154,0
@@ -165,9 +156,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>716</name>
+		<name>716: Cobbs Corner - Mattapan</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-71.092486,42.26762,0
@@ -195,9 +186,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>714-B</name>
+		<name>714: Pemberton Point Hull - Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.96</description>
+		<description>Branch: B: via Park Ave and Rockland House Rd<br/>Agency: ma-mbta<br/>EDI: 1.96</description>
 		<LineString> 
 			<coordinates>
 			-70.883973,42.244102,0
@@ -220,9 +211,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>714-A</name>
+		<name>714: Pemberton Point Hull - Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.58</description>
+		<description>Branch: A: via Washington Blvd<br/>Agency: ma-mbta<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-70.883973,42.244102,0
@@ -241,9 +232,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>714</name>
+		<name>714: Pemberton Point Hull - Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.78</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.78</description>
 		<LineString> 
 			<coordinates>
 			-70.883973,42.244102,0
@@ -264,9 +255,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>713</name>
+		<name>713: Point Shirley - Orient Heights via Winthrop Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-71.004736,42.386867,0
@@ -298,9 +289,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>712</name>
+		<name>712: Point Shirley - Orient Heights via Revere Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-71.004736,42.386867,0
@@ -333,9 +324,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>456</name>
+		<name>456: Salem Depot - Central Square Lynn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-70.945421,42.462953,0
@@ -385,9 +376,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>450W</name>
+		<name>450: Salem Depot - Wonderland or Haymarket</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.18</description>
+		<description>Branch: to Wonderland<br/>Agency: ma-mbta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-70.991648,42.41342,0
@@ -448,9 +439,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>450</name>
+		<name>450: Salem Depot - Wonderland or Haymarket</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.05</description>
+		<description>Branch: to Haymarket<br/>Agency: ma-mbta<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-71.057724,42.361847,0
@@ -514,9 +505,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>442</name>
+		<name>442: Marblehead - Wonderland via Humphrey Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-70.991648,42.41342,0
@@ -586,9 +577,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>441</name>
+		<name>441: Marblehead - Wonderland via Paradise Road</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-70.991648,42.41342,0
@@ -657,9 +648,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>436</name>
+		<name>436: Liberty Tree Mall - Central Square Lynn via Goodwin Circle</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.56</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-70.945421,42.462953,0
@@ -718,9 +709,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>435</name>
+		<name>435: Liberty Tree Mall - Central Square Lynn via Peabody Square</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.53</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.53</description>
 		<LineString> 
 			<coordinates>
 			-70.954095,42.460633,0
@@ -794,9 +785,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>430</name>
+		<name>430: Saugus Center - Malden Center</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-71.013455,42.470434,0
@@ -847,9 +838,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>428</name>
+		<name>428: Oaklandvale - Haymarket</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-71.057724,42.361847,0
@@ -905,9 +896,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>426W</name>
+		<name>426: Central Square Lynn - Haymarket or Wonderland</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.01</description>
+		<description>Branch: to Wonderland<br/>Agency: ma-mbta<br/>EDI: 2.01</description>
 		<LineString> 
 			<coordinates>
 			-70.947263,42.462057,0
@@ -962,9 +953,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>426</name>
+		<name>426: Central Square Lynn - Haymarket or Wonderland</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.22</description>
+		<description>Branch: to Haymarket<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-70.947263,42.462057,0
@@ -1016,9 +1007,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>424</name>
+		<name>424: Eastern Avenue & Essex Street - Wonderland</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-70.991648,42.41342,0
@@ -1065,9 +1056,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>240-holbrook</name>
+		<name>240: Avon Square - Ashmont</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.12</description>
+		<description>Branch: to Holbrook/Randolph<br/>Agency: ma-mbta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.063777,42.28452,0
@@ -1138,9 +1129,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>240-avon</name>
+		<name>240: Avon Square - Ashmont</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.08</description>
+		<description>Branch: to Avon<br/>Agency: ma-mbta<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-71.063777,42.28452,0
@@ -1225,9 +1216,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>238</name>
+		<name>238: Holbrook/Randolph - Quincy Center</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -1297,9 +1288,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>230</name>
+		<name>230: Montello - Quincy Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -1376,9 +1367,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>222-pleasant</name>
+		<name>222: East Weymouth - Quincy Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.28</description>
+		<description>Branch: to Lovell Corners<br/>Agency: ma-mbta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -1440,9 +1431,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>222-east-weymouth</name>
+		<name>222: East Weymouth - Quincy Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.22</description>
+		<description>Branch: to East Weymouth<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -1498,9 +1489,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>220</name>
+		<name>220: Hingham Depot - Quincy Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -1553,9 +1544,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211</name>
+		<name>211: Quincy Center - Squantum</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.7</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.7</description>
 		<LineString> 
 			<coordinates>
 			-71.009904,42.298949,0
@@ -1603,9 +1594,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210</name>
+		<name>210: Quincy Center - Fields Corner</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-71.061667,42.300093,0
@@ -1644,9 +1635,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>202</name>
+		<name>202: Fields Corner Loop via Adams Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-71.061667,42.300093,0
@@ -1675,9 +1666,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201</name>
+		<name>201: Fields Corner Loop via Neponset Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-71.061667,42.300093,0
@@ -1697,9 +1688,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>137</name>
+		<name>137: Reading Depot - Malden Center</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.57</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-71.07411,42.426632,0
@@ -1761,9 +1752,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>134</name>
+		<name>134: North Woburn - Wellington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-71.077082,42.40237,0
@@ -1837,9 +1828,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>132</name>
+		<name>132: Redstone Shopping Center - Malden Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.07411,42.426632,0
@@ -1877,9 +1868,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>131</name>
+		<name>131: Melrose Highlands - Oak Grove or Malden Center</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.38</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.38</description>
 		<LineString> 
 			<coordinates>
 			-71.07411,42.426632,0
@@ -1933,9 +1924,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>121</name>
+		<name>121: Wood Island - Maverick</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-71.03953,42.369119,0
@@ -1953,9 +1944,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120</name>
+		<name>120: Orient Heights - Jeffries Point</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.91</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.91</description>
 		<LineString> 
 			<coordinates>
 			-71.030841,42.364964,0
@@ -1995,9 +1986,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>119</name>
+		<name>119: Northgate Shopping Center - Beachmont</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.87</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-71.011751,42.42777,0
@@ -2038,9 +2029,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>117</name>
+		<name>117: Wonderland - Maverick via Beach Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.03953,42.369119,0
@@ -2077,9 +2068,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>116</name>
+		<name>116: Wonderland - Maverick via Revere Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.03953,42.369119,0
@@ -2119,9 +2110,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>114</name>
+		<name>114: Market Basket - Maverick</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-71.03953,42.369119,0
@@ -2146,9 +2137,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>111</name>
+		<name>111: Woodlawn - Haymarket</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.056806,42.362243,0
@@ -2180,9 +2171,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108</name>
+		<name>108: Linden Square - Wellington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-71.077082,42.40237,0
@@ -2231,9 +2222,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>106</name>
+		<name>106: Lebanon Loop - Wellington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.57</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-71.077082,42.40237,0
@@ -2273,9 +2264,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105</name>
+		<name>105: Malden Center - Sullivan Square via Newland Street Housing</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.99</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.99</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -2325,9 +2316,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104</name>
+		<name>104: Malden Center - Sullivan Square via Ferry Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.56</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -2364,9 +2355,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101</name>
+		<name>101: Malden Center - Sullivan Square via Winter Hill</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -2411,9 +2402,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>96</name>
+		<name>96: Medford Square - Harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -2447,9 +2438,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>95-playstead</name>
+		<name>95: West Medford or Arlington Center - Sullivan Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.26</description>
+		<description>Branch: to Playstead Rd<br/>Agency: ma-mbta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -2489,9 +2480,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>95-arlington</name>
+		<name>95: West Medford or Arlington Center - Sullivan Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.33</description>
+		<description>Branch: to Arlington Center<br/>Agency: ma-mbta<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -2532,9 +2523,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>93</name>
+		<name>93: Sullivan Square - Downtown via Bunker Hill Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.057414,42.356837,0
@@ -2561,9 +2552,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92</name>
+		<name>92: Sullivan Square - Downtown via Main Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-71.057414,42.356837,0
@@ -2585,9 +2576,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91</name>
+		<name>91: Sullivan Square - Central Square Cambridge</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-71.104311,42.365114,0
@@ -2609,9 +2600,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90</name>
+		<name>90: Davis - Assembly Row</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.78</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.78</description>
 		<LineString> 
 			<coordinates>
 			-71.081102,42.394706,0
@@ -2646,9 +2637,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88</name>
+		<name>88: Clarendon Hill - Lechmere</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-71.076536,42.370772,0
@@ -2681,9 +2672,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87</name>
+		<name>87: Clarendon Hill or Arlington Center - Lechmere</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-71.076536,42.370772,0
@@ -2726,9 +2717,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85</name>
+		<name>85: Spring Hill - Kendall/MIT</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-71.085841,42.362498,0
@@ -2749,9 +2740,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83</name>
+		<name>83: Rindge Avenue - Central Square Cambridge</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-71.104311,42.365114,0
@@ -2782,9 +2773,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80</name>
+		<name>80: Arlington Center - Lechmere</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-71.076536,42.370772,0
@@ -2831,9 +2822,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78</name>
+		<name>78: Arlmont Village - Harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -2886,9 +2877,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77</name>
+		<name>77: Arlington Heights - Harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -2928,9 +2919,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75</name>
+		<name>75: Belmont Center - Harvard via Huron Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -2958,9 +2949,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74</name>
+		<name>74: Belmont Center - Harvard via Concord Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -2989,9 +2980,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73</name>
+		<name>73: Waverley Square - Harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -3022,9 +3013,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70</name>
+		<name>70: Market Place Drive or Waltham Center - University Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.100647,42.361836,0
@@ -3089,9 +3080,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68</name>
+		<name>68: Harvard Square - Kendall/MIT</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.085841,42.362498,0
@@ -3113,9 +3104,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67</name>
+		<name>67: Turkey Hill - Alewife</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -3141,9 +3132,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65</name>
+		<name>65: Brighton Center - Kenmore</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-71.095169,42.348949,0
@@ -3178,9 +3169,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64</name>
+		<name>64: Oak Square - University Park or Kendall/MIT</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-71.085841,42.362498,0
@@ -3217,9 +3208,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62/76</name>
+		<name>62/76: Bedford VA Hospital - Alewife via Hanscom Airport</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.87</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -3298,9 +3289,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76</name>
+		<name>76: Lincoln Lab - Alewife</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.84</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.84</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -3356,9 +3347,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62</name>
+		<name>62: Bedford VA Hospital - Alewife</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -3430,9 +3421,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60</name>
+		<name>60: Chestnut Hill - Kenmore</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-71.095169,42.348949,0
@@ -3467,9 +3458,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59</name>
+		<name>59: Needham Junction - Watertown Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-71.185502,42.365436,0
@@ -3527,9 +3518,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57</name>
+		<name>57: Watertown Yard - Kenmore</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.095169,42.348949,0
@@ -3568,9 +3559,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Jersey Street & Queensberry Street - Copley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-71.076911,42.349373,0
@@ -3587,9 +3578,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52</name>
+		<name>52: Dedham Mall - Watertown Yard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-71.185703,42.364307,0
@@ -3652,9 +3643,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51</name>
+		<name>51: Reservoir - Forest Hills</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.44</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.44</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -3708,9 +3699,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50</name>
+		<name>50: Cleary Square - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -3746,9 +3737,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45</name>
+		<name>45: Franklin Park - Ruggles</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -3778,9 +3769,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43</name>
+		<name>43: Ruggles - Park Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-71.065766,42.356954,0
@@ -3802,9 +3793,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42</name>
+		<name>42: Forest Hills - Nubian</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-71.083887,42.329789,0
@@ -3830,9 +3821,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41</name>
+		<name>41: Centre Street & Eliot Street - JFK/UMass</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-71.052391,42.320685,0
@@ -3871,9 +3862,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40</name>
+		<name>40: Georgetowne - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -3910,9 +3901,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44</name>
+		<name>44: Jackson Square - Ruggles</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 3.17</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 3.17</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -3942,9 +3933,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38</name>
+		<name>38: Wren Street - Forest Hills</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.62</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.62</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -3981,9 +3972,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37</name>
+		<name>37: Baker Street & Vermont Street - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4020,9 +4011,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36-va</name>
+		<name>36: Millennium Park or VA Hospital - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.18</description>
+		<description>Branch: to VA Hospital<br/>Agency: ma-mbta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4059,9 +4050,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36-rivermoor</name>
+		<name>36: Millennium Park or VA Hospital - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.28</description>
+		<description>Branch: via Rivermoor Industrial Park<br/>Agency: ma-mbta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4102,9 +4093,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36-millennium</name>
+		<name>36: Millennium Park or VA Hospital - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.34</description>
+		<description>Branch: to Millennium Park<br/>Agency: ma-mbta<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4145,9 +4136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Dedham Mall or Stimson Street - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.44</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4192,9 +4183,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34E</name>
+		<name>34E: Walpole Center - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4283,9 +4274,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: Dedham Mall or Dedham Line - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4320,9 +4311,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: River Street & Milton Street - Mattapan</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.57</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-71.092486,42.26762,0
@@ -4363,9 +4354,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71</name>
+		<name>71: Watertown Square - Harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-71.118956,42.373362,0
@@ -4394,9 +4385,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>109</name>
+		<name>109: Linden Square - Sullivan Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -4430,9 +4421,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>94</name>
+		<name>94: Medford Square - Davis</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.41</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.41</description>
 		<LineString> 
 			<coordinates>
 			-71.121815,42.39674,0
@@ -4467,9 +4458,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Harvard Square - Nubian</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-71.083887,42.329789,0
@@ -4500,9 +4491,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: City Point - Otis Street & Summer Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.65</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-71.058557,42.354243,0
@@ -4527,9 +4518,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Harbor Point - Kenmore</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.96</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.96</description>
 		<LineString> 
 			<coordinates>
 			-71.095169,42.348949,0
@@ -4582,9 +4573,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: City Point - Copley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-71.077432,42.350011,0
@@ -4617,9 +4608,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: City Point - Copley Square</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.04</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.04</description>
 		<LineString> 
 			<coordinates>
 			-71.076911,42.349373,0
@@ -4664,9 +4655,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Roslindale Square - Heath Street</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.58</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.58</description>
 		<LineString> 
 			<coordinates>
 			-71.110231,42.328658,0
@@ -4720,9 +4711,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: Fields Corner or Kane Square - Ruggles</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -4748,9 +4739,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Fields Corner - Andrew</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-71.057655,42.330154,0
@@ -4781,9 +4772,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Ashmont - Andrew</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-71.057655,42.330154,0
@@ -4824,9 +4815,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19</name>
+		<name>19: Fields Corner - Kenmore or Ruggles</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-71.095169,42.348949,0
@@ -4871,9 +4862,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21</name>
+		<name>21: Ashmont - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -4900,9 +4891,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Ashmont - Ruggles via Talbot Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -4936,9 +4927,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Ashmont - Ruggles via Washington Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -4974,9 +4965,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: Wakefield Avenue & Truman Parkway - Ashmont</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-71.063777,42.28452,0
@@ -5026,9 +5017,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28</name>
+		<name>28: Mattapan - Ruggles</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -5070,9 +5061,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Mattapan - Forest Hills via Cummins Highway and Roslindale Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -5105,9 +5096,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Mattapan - Forest Hills via Morton Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -5131,9 +5122,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32</name>
+		<name>32: Wolcott or Cleary Square - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-71.113686,42.300523,0
@@ -5165,9 +5156,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39</name>
+		<name>39: Forest Hills - Back Bay</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-71.075727,42.34735,0
@@ -5200,9 +5191,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47</name>
+		<name>47: Central Square Cambridge - Broadway</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.99</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.99</description>
 		<LineString> 
 			<coordinates>
 			-71.103074,42.364915,0
@@ -5243,9 +5234,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61</name>
+		<name>61: North Waltham - Waltham Center</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.96</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.96</description>
 		<LineString> 
 			<coordinates>
 			-71.234024,42.404137,0
@@ -5273,9 +5264,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66</name>
+		<name>66: Harvard Square - Nubian</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-71.119237,42.375302,0
@@ -5317,9 +5308,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69</name>
+		<name>69: Harvard Square - Lechmere</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-71.076536,42.370772,0
@@ -5343,9 +5334,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>86</name>
+		<name>86: Sullivan Square - Reservoir</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-71.076994,42.383975,0
@@ -5390,9 +5381,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>97</name>
+		<name>97: Malden Center - Wellington</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.29</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.29</description>
 		<LineString> 
 			<coordinates>
 			-71.076089,42.402581,0
@@ -5419,9 +5410,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>99</name>
+		<name>99: Woodland Road - Wellington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-71.089594,42.451719,0
@@ -5466,9 +5457,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>100</name>
+		<name>100: Elm Street - Wellington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-71.076089,42.402581,0
@@ -5494,9 +5485,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>110</name>
+		<name>110: Wonderland - Wellington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-70.991648,42.41342,0
@@ -5539,9 +5530,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>112</name>
+		<name>112: Wellington - Wood Island</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.28</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.28</description>
 		<LineString> 
 			<coordinates>
 			-71.077082,42.40237,0
@@ -5593,9 +5584,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>171</name>
+		<name>171: Logan Airport Terminals - Nubian</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-71.030339,42.374431,0
@@ -5618,9 +5609,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215</name>
+		<name>215: Quincy Center - Ashmont via West Quincy</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -5673,9 +5664,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>216</name>
+		<name>216: Houghs Neck - Quincy Center via Germantown</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.9</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.9</description>
 		<LineString> 
 			<coordinates>
 			-71.005099,42.251772,0
@@ -5735,9 +5726,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>217</name>
+		<name>217: Quincy Center - Ashmont via Wollaston</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.4</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.4</description>
 		<LineString> 
 			<coordinates>
 			-71.063777,42.28452,0
@@ -5818,9 +5809,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>226</name>
+		<name>226: Columbian Square - Braintree</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-71.00107,42.207743,0
@@ -5852,9 +5843,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>236</name>
+		<name>236: South Shore Plaza - Quincy Center</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.83</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.83</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -5901,9 +5892,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>245</name>
+		<name>245: Quincy Center - Mattapan</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.65</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-71.092486,42.26762,0
@@ -5960,9 +5951,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>350</name>
+		<name>350: North Burlington - Alewife</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -6037,9 +6028,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>354</name>
+		<name>354: North Burlington - State Street Boston</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-71.057481,42.358863,0
@@ -6092,9 +6083,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>411</name>
+		<name>411: Kennedy Drive or Jack Satter House - Malden Center</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.06</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.06</description>
 		<LineString> 
 			<coordinates>
 			-70.984702,42.423921,0
@@ -6159,9 +6150,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>429</name>
+		<name>429: Northgate Shopping Center - Central Square Lynn</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.76</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.76</description>
 		<LineString> 
 			<coordinates>
 			-71.011751,42.42777,0
@@ -6229,9 +6220,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>439</name>
+		<name>439: Nahant - Wonderland</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.98</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.98</description>
 		<LineString> 
 			<coordinates>
 			-70.91348,42.422444,0
@@ -6268,9 +6259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>455</name>
+		<name>455: Salem Depot - Wonderland</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.59</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 2.59</description>
 		<LineString> 
 			<coordinates>
 			-70.945945,42.461856,0
@@ -6339,9 +6330,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501</name>
+		<name>501: Brighton Center - Federal Street & Franklin Street</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.83</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-71.056411,42.355286,0
@@ -6372,9 +6363,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504</name>
+		<name>504: Watertown Yard - Federal Street & Franklin Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-71.056411,42.355286,0
@@ -6393,9 +6384,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>505</name>
+		<name>505: Waltham Center - Federal Street & Franklin Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-71.056411,42.355286,0
@@ -6430,9 +6421,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>553</name>
+		<name>553: Roberts - Newton Corner</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.73</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-71.185943,42.357134,0
@@ -6484,9 +6475,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>554</name>
+		<name>554: Waverley Square - Newton Corner</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 3.8</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 3.8</description>
 		<LineString> 
 			<coordinates>
 			-71.185943,42.357134,0
@@ -6542,9 +6533,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>556</name>
+		<name>556: Waltham Highlands - Newton Corner</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-71.185943,42.357134,0
@@ -6587,9 +6578,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>558</name>
+		<name>558: Riverside - Newton Corner</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.82</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-71.185943,42.357134,0
@@ -6636,9 +6627,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11-in</name>
+		<name>11: City Point - Chauncy Street & Summer Street</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.26</description>
+		<description>Branch: Inbound<br/>Agency: ma-mbta<br/>EDI: 2.26</description>
 		<LineString> 
 			<coordinates>
 			-71.031899,42.338524,0
@@ -6675,9 +6666,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11-out</name>
+		<name>11: City Point - Chauncy Street & Summer Street</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 2.32</description>
+		<description>Branch: Outbound<br/>Agency: ma-mbta<br/>EDI: 2.32</description>
 		<LineString> 
 			<coordinates>
 			-71.059508,42.354271,0
@@ -6715,9 +6706,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225-quincy</name>
+		<name>225: Weymouth Landing - Quincy Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.12</description>
+		<description>Branch: via Quincy Ave<br/>Agency: ma-mbta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -6753,9 +6744,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225-south</name>
+		<name>225: Weymouth Landing - Quincy Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.19</description>
+		<description>Branch: via South St<br/>Agency: ma-mbta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-71.005409,42.251809,0
@@ -6795,9 +6786,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>351-emd</name>
+		<name>351: Bedford Woods Drive - Third Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.12</description>
+		<description>Branch: via EMD<br/>Agency: ma-mbta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.223178,42.488073,0
@@ -6809,9 +6800,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>351-oak-park</name>
+		<name>351: Bedford Woods Drive - Third Avenue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.19</description>
+		<description>Branch: via Oak Park Dr<br/>Agency: ma-mbta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-71.223178,42.488073,0
@@ -6829,9 +6820,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>354-cummings</name>
+		<name>354: North Burlington - State Street Boston</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.35</description>
+		<description>Branch: via West Cummings<br/>Agency: ma-mbta<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-71.057481,42.358863,0
@@ -6883,9 +6874,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-e</name>
+		<name>4: North Station - Tide Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.43</description>
+		<description>Branch: via Commerical St and Summer St<br/>Agency: ma-mbta<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-71.031986,42.34508,0
@@ -6907,9 +6898,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-w</name>
+		<name>4: North Station - Tide Street</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.09</description>
+		<description>Branch: via Pearl St and Seaport Blvd<br/>Agency: ma-mbta<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-71.060067,42.366114,0
@@ -6926,9 +6917,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>451-cabot</name>
+		<name>451: North Beverly - Salem Depot</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.69</description>
+		<description>Branch: via Cabot St<br/>Agency: ma-mbta<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-70.895876,42.524792,0
@@ -6978,9 +6969,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>451-tozer</name>
+		<name>451: North Beverly - Salem Depot</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.62</description>
+		<description>Branch: via Tozer Rd<br/>Agency: ma-mbta<br/>EDI: 1.62</description>
 		<LineString> 
 			<coordinates>
 			-70.895876,42.524792,0
@@ -7018,9 +7009,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89-clarendon</name>
+		<name>89: Clarendon Hill or Davis - Sullivan Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.02</description>
+		<description>Branch: to Clarendon Hill<br/>Agency: ma-mbta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-71.13207,42.405907,0
@@ -7050,9 +7041,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89-davis</name>
+		<name>89: Clarendon Hill or Davis - Sullivan Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.13</description>
+		<description>Branch: to Davis<br/>Agency: ma-mbta<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-71.121815,42.39674,0
@@ -7079,9 +7070,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Ashmont</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.3</description>
+		<description>Branch: Ashmont<br/>Agency: ma-mbta<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -7105,9 +7096,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-71.062037,42.361365,0
@@ -7126,9 +7117,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Braintree</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.15</description>
+		<description>Branch: Braintree<br/>Agency: ma-mbta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-71.142483,42.395428,0
@@ -7153,7 +7144,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>ct2</name>
+		<name>CT2: Sullivan Square - Ruggles</name>
+		<styleUrl>#1.5</styleUrl>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-71.088961,42.336377,0
@@ -7181,7 +7174,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>ct3</name>
+		<name>CT3: Beth Israel Deaconess Hospital - Andrew</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-71.057655,42.330154,0
@@ -7197,9 +7192,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Fairmount</name>
+		<name>Fairmount Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7215,9 +7210,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Fitchburg</name>
+		<name>Fitchburg Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.06129,42.365577,0
@@ -7243,9 +7238,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Foxboro</name>
+		<name>Foxboro Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7264,9 +7259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Franklin</name>
+		<name>Franklin Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7290,9 +7285,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green B</name>
+		<name>Green Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.11</description>
+		<description>Branch: B: Boston College<br/>Agency: ma-mbta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-71.059215,42.359705,0
@@ -7322,9 +7317,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green C</name>
+		<name>Green Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.04</description>
+		<description>Branch: C: Cleveland Circle<br/>Agency: ma-mbta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-71.059215,42.359705,0
@@ -7351,9 +7346,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green D</name>
+		<name>Green Line</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.64</description>
+		<description>Branch: D: Riverside - Union Sq<br/>Agency: ma-mbta<br/>EDI: 1.64</description>
 		<LineString> 
 			<coordinates>
 			-71.252685,42.337352,0
@@ -7385,9 +7380,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green E</name>
+		<name>Green Line</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.52</description>
+		<description>Branch: E: Heath St - Medford / Tufts<br/>Agency: ma-mbta<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-71.110252,42.328316,0
@@ -7419,9 +7414,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Greenbush</name>
+		<name>Greenbush Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7438,9 +7433,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Haverhill</name>
+		<name>Haverhill Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-71.06129,42.365577,0
@@ -7461,9 +7456,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Kingston</name>
+		<name>Kingston Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7481,9 +7476,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Lowell</name>
+		<name>Lowell Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-71.06129,42.365577,0
@@ -7499,9 +7494,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Mattapan</name>
+		<name>Mattapan Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-71.063777,42.28452,0
@@ -7516,9 +7511,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Middleborough</name>
+		<name>Middleborough/Lakeville Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7535,9 +7530,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Needham</name>
+		<name>Needham Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7556,9 +7551,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Newburyport</name>
+		<name>Newburyport/Rockport Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.08</description>
+		<description>Branch: Newburyport<br/>Agency: ma-mbta<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-71.06129,42.365577,0
@@ -7576,9 +7571,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Orange</name>
+		<name>Orange Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-71.071097,42.43668,0
@@ -7605,9 +7600,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Providence</name>
+		<name>Providence/Stoughton Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.03</description>
+		<description>Branch: Providence<br/>Agency: ma-mbta<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7628,9 +7623,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Rockport</name>
+		<name>Newburyport/Rockport Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.07</description>
+		<description>Branch: Rockport<br/>Agency: ma-mbta<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-71.06129,42.365577,0
@@ -7650,9 +7645,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SL1</name>
+		<name>SL1: Logan Airport Terminals - South Station</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7669,9 +7664,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SL2</name>
+		<name>SL2: Drydock Avenue - South Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7687,9 +7682,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SL3</name>
+		<name>SL3: Chelsea - South Station</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7706,9 +7701,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SL4</name>
+		<name>SL4: Nubian - South Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-71.083887,42.329789,0
@@ -7727,9 +7722,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SL5</name>
+		<name>SL5: Nubian - Temple Place</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-71.083887,42.329789,0
@@ -7749,9 +7744,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Stoughton</name>
+		<name>Providence/Stoughton Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.15</description>
+		<description>Branch: Stoughton<br/>Agency: ma-mbta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0
@@ -7766,9 +7761,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Worcester</name>
+		<name>Worcester Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-mbta<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-71.055242,42.352271,0

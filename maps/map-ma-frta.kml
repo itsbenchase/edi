@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>41</name>
+		<name>41: Charlemont / Greenfield</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ma-frta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-72.600632,42.585745,0
@@ -72,9 +72,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32</name>
+		<name>32: Orange / Greenfield</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ma-frta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-72.600632,42.585745,0
@@ -99,9 +99,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31-pelican</name>
+		<name>31: Northampton / Greenfield</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.18</description>
+		<description>Branch: via Pelican Products<br/>Agency: ma-frta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-72.600632,42.585745,0
@@ -139,9 +139,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Northampton / Greenfield</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ma-frta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-72.600632,42.585745,0
@@ -175,9 +175,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: Crosstown Connector</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.71</description>
+		<description>Branch: Main<br/>Agency: ma-frta<br/>EDI: 1.71</description>
 		<LineString> 
 			<coordinates>
 			-72.630279,42.599867,0
@@ -200,9 +200,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23-turners</name>
+		<name>23: Sunderland / Greenfield</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.59</description>
+		<description>Branch: via Turners Falls<br/>Agency: ma-frta<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-72.58131,42.457829,0
@@ -224,9 +224,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23-millers</name>
+		<name>23: Sunderland / Greenfield</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-frta<br/>EDI: 1.86</description>
+		<description>Branch: via Millers Falls<br/>Agency: ma-frta<br/>EDI: 1.86</description>
 		<LineString> 
 			<coordinates>
 			-72.600632,42.585745,0

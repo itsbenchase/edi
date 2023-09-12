@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Blue Weekday</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: il-cumtd<br/>EDI: 3.17</description>
+		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 3.17</description>
 		<LineString> 
 			<coordinates>
 			-88.240947,40.115935,0
@@ -109,9 +109,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Lavender Weekday</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: il-cumtd<br/>EDI: 2.77</description>
+		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 2.77</description>
 		<LineString> 
 			<coordinates>
 			-88.241104,40.115535,0
@@ -165,9 +165,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Red Weekday</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: il-cumtd<br/>EDI: 3.89</description>
+		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 3.89</description>
 		<LineString> 
 			<coordinates>
 			-88.207479,40.111898,0
@@ -260,9 +260,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Yellow Weekday</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-cumtd<br/>EDI: 1.84</description>
+		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.84</description>
 		<LineString> 
 			<coordinates>
 			-88.255951,40.048065,0

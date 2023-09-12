@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Swift Green</name>
+		<name>Swift Green: Seaway - Canyon Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-community<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: wa-community<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-122.260421,47.929989,0
@@ -77,9 +77,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Swift Blue</name>
+		<name>Swift Blue: Everett - Aurora Village</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-community<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: wa-community<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-122.196897,47.973389,0

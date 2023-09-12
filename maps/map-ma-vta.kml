@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Edgartown - Vineyard Haven Road</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-70.51463,41.391,0
@@ -75,9 +75,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: West Tisbury - Vineyard Haven via Lambert's Cove Road</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-70.67487,41.38082,0
@@ -92,9 +92,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: West Tisbury - Vineyard Haven via State Road</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-70.60132,41.45571,0
@@ -107,9 +107,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: West Tisbury - Chilmark - Menemsha</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 2.03</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 2.03</description>
 		<LineString> 
 			<coordinates>
 			-70.67487,41.38082,0
@@ -122,9 +122,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: West Tisbury - Chilmark - Aquinnah</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-70.67478,41.38018,0
@@ -138,9 +138,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Edgartown - Airport - West Tisbury</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-70.51463,41.391,0
@@ -154,9 +154,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Oak Bluffs - Airport - Hospital</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-70.55626,41.45692,0
@@ -173,9 +173,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: South Beach Route</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-70.51463,41.391,0
@@ -188,9 +188,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: Oak Bluffs - Hospital - Airport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-70.61158,41.38959,0
@@ -208,9 +208,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Tisbury Park and Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.0</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-70.60132,41.45571,0
@@ -220,9 +220,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11</name>
+		<name>11: Downtown Edgartown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.0</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-70.51203,41.38943,0
@@ -233,9 +233,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: Edgartown - Oak Bluffs - Vineyard Haven</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-vta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-vta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-70.51463,41.391,0

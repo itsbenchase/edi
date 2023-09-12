@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Camden Town - White City</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: uk-tfl<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: uk-tfl<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-0.14046,51.53818,0
@@ -97,9 +97,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Aldwych - Westbourne Park</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: uk-tfl<br/>EDI: 1.81</description>
+		<description>Branch: Main<br/>Agency: uk-tfl<br/>EDI: 1.81</description>
 		<LineString> 
 			<coordinates>
 			-0.20219,51.52227,0

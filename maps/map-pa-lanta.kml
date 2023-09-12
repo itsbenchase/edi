@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>322</name>
+		<name>322: Allentown TC - Amazon / Breinigsville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-75.619026,40.557441,0
@@ -108,9 +108,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>605</name>
+		<name>605: Commerce Center Blvd - Bethlehem TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.65</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-75.309755,40.611814,0
@@ -140,9 +140,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>603</name>
+		<name>603: 17th St - Crosstown</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.52</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-75.480688,40.579445,0
@@ -187,9 +187,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>441</name>
+		<name>441: Hanover Ave - Harrison Morton MS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-75.461017,40.608242,0
@@ -210,9 +210,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>440</name>
+		<name>440: Pennsylvania St - Harrison Morton MS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-75.461017,40.608242,0
@@ -234,9 +234,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>431</name>
+		<name>431: Gilmore & Susquehanna - South Mountain MS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-75.438859,40.592611,0
@@ -254,9 +254,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>423</name>
+		<name>423: Allentown ATC - South Mountain MS</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 3.38</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 3.38</description>
 		<LineString> 
 			<coordinates>
 			-75.460811,40.574952,0
@@ -297,9 +297,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>422</name>
+		<name>422: 4th & Gordon - Allen HS</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-75.492733,40.597434,0
@@ -323,9 +323,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>403</name>
+		<name>403: Emaus Ave - Allen HS</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 2.2</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 2.2</description>
 		<LineString> 
 			<coordinates>
 			-75.460811,40.574952,0
@@ -358,9 +358,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>402</name>
+		<name>402: Tilghman Street - Allen HS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-75.460656,40.616198,0
@@ -385,9 +385,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>413</name>
+		<name>413: Dixon & South 5th - Dieruff HS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-75.467098,40.580857,0
@@ -419,9 +419,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>410</name>
+		<name>410: Emaus Ave - Dieruff HS</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-75.460289,40.575056,0
@@ -451,9 +451,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>327</name>
+		<name>327: Fountain Hill to Bethlehem Square</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.93</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.93</description>
 		<LineString> 
 			<coordinates>
 			-75.391861,40.609516,0
@@ -510,9 +510,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>325</name>
+		<name>325: Lehigh Valley Mall - Palmerton via LCCC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.75</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-75.478783,40.631269,0
@@ -600,9 +600,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324</name>
+		<name>324: Allentown - Lehigh Valley Airport</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-75.47158,40.604598,0
@@ -641,9 +641,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>323</name>
+		<name>323: Penn State LV - Bethlehem Southside</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-75.369005,40.610655,0
@@ -665,9 +665,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>319</name>
+		<name>319: Lehigh Valley Mall - Bethlehem Sq via Airport</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.56</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-75.478325,40.631321,0
@@ -716,9 +716,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>312-ncc</name>
+		<name>312: Bethlehem - Nazareth Plaza</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.87</description>
+		<description>Branch: to NCC<br/>Agency: pa-lanta<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-75.380569,40.623114,0
@@ -766,9 +766,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>312-nazareth</name>
+		<name>312: Bethlehem - Nazareth Plaza</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.88</description>
+		<description>Branch: to Nazareth<br/>Agency: pa-lanta<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-75.380569,40.623114,0
@@ -833,9 +833,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>220</name>
+		<name>220: Bethlehem - Easton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -921,9 +921,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>218</name>
+		<name>218: Fogelsville - Allentown TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-75.471036,40.604901,0
@@ -984,9 +984,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>217-wind-gap</name>
+		<name>217: Slatebelt</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.41</description>
+		<description>Branch: to Wind Gap Plaza<br/>Agency: pa-lanta<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-75.299934,40.839532,0
@@ -1015,9 +1015,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>217-northampton</name>
+		<name>217: Slatebelt</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.58</description>
+		<description>Branch: to Northampton Crossing<br/>Agency: pa-lanta<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-75.282111,40.715209,0
@@ -1075,9 +1075,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>216-northampton</name>
+		<name>216: Easton - Nazareth Plaza</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.98</description>
+		<description>Branch: to Northampton Crossing<br/>Agency: pa-lanta<br/>EDI: 1.98</description>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1134,9 +1134,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>216-nazareth</name>
+		<name>216: Easton - Nazareth Plaza</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.73</description>
+		<description>Branch: to Nazareth Plaza<br/>Agency: pa-lanta<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1210,9 +1210,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215</name>
+		<name>215: Majestic Bethlehem Center - LV Airport via BTC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-75.451632,40.638964,0
@@ -1271,9 +1271,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>214</name>
+		<name>214: Easton Intermodal Transit Center - Chrin Commerce Centre</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.61</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.61</description>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1306,9 +1306,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211</name>
+		<name>211: Lehigh Parkway - Allentown TC - Whitehall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.97</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.97</description>
 		<LineString> 
 			<coordinates>
 			-75.480688,40.579445,0
@@ -1375,9 +1375,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210</name>
+		<name>210: South Mall - Lehigh Valley Mall via Allentown TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-75.491467,40.555157,0
@@ -1425,9 +1425,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>209</name>
+		<name>209: LCCC - Allentown TC - Cumberland Gardens</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-75.44286,40.592475,0
@@ -1511,9 +1511,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108</name>
+		<name>108: Fountain Hill - Bethlehem Square</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-75.394712,40.606468,0
@@ -1571,9 +1571,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>107</name>
+		<name>107: Village West - Hanover Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-75.524726,40.596959,0
@@ -1645,9 +1645,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>106</name>
+		<name>106: Easton - Northampton Crossings & Palmer</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 2.05</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 2.05</description>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1697,9 +1697,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105</name>
+		<name>105: Hellertown - LV Airport via BTC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-75.340591,40.562966,0
@@ -1762,9 +1762,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104</name>
+		<name>104: Emmaus - Allentown TC</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 2.77</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 2.77</description>
 		<LineString> 
 			<coordinates>
 			-75.527058,40.567355,0
@@ -1820,9 +1820,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>103</name>
+		<name>103: South Bethlehem - Allentown - Northampton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.95</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.95</description>
 		<LineString> 
 			<coordinates>
 			-75.352234,40.614909,0
@@ -1944,9 +1944,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102</name>
+		<name>102: Lehigh Valley Hospital Cedar Crest - Allentown - Bethlehem</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.49</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.49</description>
 		<LineString> 
 			<coordinates>
 			-75.357938,40.613948,0
@@ -2029,9 +2029,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Line</name>
+		<name>Blue Line: Easton - Bethlehem - Allentown - Trexlertown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-75.594043,40.550566,0
@@ -2141,9 +2141,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green Line</name>
+		<name>Green Line: S Bethlehem - Allentown - Whitehall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-lanta<br/>EDI: 1.74</description>
+		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.74</description>
 		<LineString> 
 			<coordinates>
 			-75.495111,40.644582,0

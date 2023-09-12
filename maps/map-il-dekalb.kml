@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>21</name>
+		<name>21: Sycamore Rd / Downtown Sycamore</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-dekalb<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: il-dekalb<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-88.72192,41.949837,0
@@ -75,9 +75,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Downtown DeKalb / Sycamore Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: il-dekalb<br/>EDI: 1.56</description>
+		<description>Branch: Main<br/>Agency: il-dekalb<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-88.765878,41.935756,0
@@ -103,9 +103,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12-w</name>
+		<name>12: Elburn Train Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-dekalb<br/>EDI: 1.03</description>
+		<description>Branch: Westbound<br/>Agency: il-dekalb<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-88.464326,41.890536,0
@@ -124,9 +124,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12-e</name>
+		<name>12: Elburn Train Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-dekalb<br/>EDI: 1.06</description>
+		<description>Branch: Eastbound<br/>Agency: il-dekalb<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-88.770154,41.934676,0

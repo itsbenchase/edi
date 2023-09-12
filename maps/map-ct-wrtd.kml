@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>993</name>
+		<name>993: Willimantic - Danielson</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ct-wrtd<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-72.23154,41.717819,0
@@ -77,9 +77,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>991</name>
+		<name>991: Willimantic - Norwich</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ct-wrtd<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-72.191828,41.721524,0
@@ -99,9 +99,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>674C</name>
+		<name>674: Storrs - Willimantic</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 2.39</description>
+		<description>Branch: C: South Eagleville<br/>Agency: ct-wrtd<br/>EDI: 2.39</description>
 		<LineString> 
 			<coordinates>
 			-72.239333,41.725357,0
@@ -134,9 +134,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>674B</name>
+		<name>674: Storrs - Willimantic</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 1.18</description>
+		<description>Branch: B: Express<br/>Agency: ct-wrtd<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-72.207667,41.726505,0
@@ -155,9 +155,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>674A</name>
+		<name>674: Storrs - Willimantic</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 1.81</description>
+		<description>Branch: A: Four Corners<br/>Agency: ct-wrtd<br/>EDI: 1.81</description>
 		<LineString> 
 			<coordinates>
 			-72.239333,41.725357,0
@@ -192,9 +192,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>672</name>
+		<name>672: Willimantic Central</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: ct-wrtd<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-72.239333,41.725357,0
@@ -223,9 +223,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>671</name>
+		<name>671: Willimantic East</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-wrtd<br/>EDI: 1.92</description>
+		<description>Branch: Main<br/>Agency: ct-wrtd<br/>EDI: 1.92</description>
 		<LineString> 
 			<coordinates>
 			-72.174188,41.740102,0

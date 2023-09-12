@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Q - BRT</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-fax<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: ca-fax<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-119.785065,36.857407,0

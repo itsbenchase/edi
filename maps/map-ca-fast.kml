@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Cordelia Library - Oakbrook Dr</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.73</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-122.144451,38.21764,0
@@ -77,9 +77,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: FTC - Solano College - Cordelia Library</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-122.068482,38.24877,0
@@ -97,9 +97,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Solano Town Center - E. Tabor / Sunset</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.78</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.78</description>
 		<LineString> 
 			<coordinates>
 			-122.020269,38.265314,0
@@ -121,9 +121,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Smart & Final - Travis AFB</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.037043,38.278081,0
@@ -145,9 +145,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: FTC - Solano Town Center - Fairfield Walmart</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-122.068482,38.24877,0
@@ -166,9 +166,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Solano Town Center - Fairfield-Vacaville Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-121.968472,38.285759,0
@@ -193,9 +193,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: FTC - Fairfield Walmart</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-fast<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ca-fast<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-122.068482,38.24877,0

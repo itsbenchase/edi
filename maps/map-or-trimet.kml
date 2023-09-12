@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Holgate / Broadway</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 1.82</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-122.524025,45.483485,0
@@ -147,9 +147,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Vermont</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 2.33</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 2.33</description>
 		<LineString> 
 			<coordinates>
 			-122.677232,45.522894,0
@@ -208,9 +208,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Yellow</name>
+		<name>MAX Yellow Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-122.683593,45.509616,0
@@ -234,9 +234,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red</name>
+		<name>MAX Red Line</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-122.8012,45.491696,0
@@ -265,9 +265,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Orange</name>
+		<name>MAX Orange Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.635065,45.430734,0
@@ -285,9 +285,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green</name>
+		<name>MAX Green Line</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 1.78</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.78</description>
 		<LineString> 
 			<coordinates>
 			-122.683593,45.509616,0
@@ -316,9 +316,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>MAX Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-trimet<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-122.991022,45.522204,0

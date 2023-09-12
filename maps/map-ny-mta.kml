@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>S Rockaway</name>
+		<name>Rockaway Park Shuttle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-73.815925,40.608382,0
@@ -65,9 +65,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S Franklin</name>
+		<name>Franklin Av Shuttle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.0</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-73.962246,40.661614,0
@@ -78,9 +78,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>hrl-m</name>
+		<name>Hudson Rail Link M</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 5.7</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 5.7</description>
 		<LineString> 
 			<coordinates>
 			-73.917093,40.88118,0
@@ -92,9 +92,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>hrl-l</name>
+		<name>Hudson Rail Link L</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 3.47</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 3.47</description>
 		<LineString> 
 			<coordinates>
 			-73.90921,40.881211,0
@@ -110,9 +110,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M31</name>
+		<name>M31: 57 St / York Av</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-73.991859,40.767925,0
@@ -149,9 +149,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx18B</name>
+		<name>Bx18: Morris Heights / High Bridge</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.83</description>
+		<description>Branch: B: Sedgwick Loop<br/>Agency: ny-mta<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-73.91349,40.838728,0
@@ -168,9 +168,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx18A</name>
+		<name>Bx18: Morris Heights / High Bridge</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 2.07</description>
+		<description>Branch: A: Undercliff Loop<br/>Agency: ny-mta<br/>EDI: 2.07</description>
 		<LineString> 
 			<coordinates>
 			-73.91349,40.838728,0
@@ -188,9 +188,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx16</name>
+		<name>Bx16: Pelham - Norwood via E 233 / Nereid Av</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 2.02</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 2.02</description>
 		<LineString> 
 			<coordinates>
 			-73.880302,40.874929,0
@@ -232,9 +232,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx1</name>
+		<name>Bx1: Riverdale / Kingsbridge Heights - Mott Haven</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-73.927908,40.809876,0
@@ -286,9 +286,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S92</name>
+		<name>S92: Victory Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-74.198763,40.586613,0
@@ -335,9 +335,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S62</name>
+		<name>S62: Victory Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-74.198763,40.586613,0
@@ -401,9 +401,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S57</name>
+		<name>S57: Rockland / Brielle / Bradley Avs</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.71</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.71</description>
 		<LineString> 
 			<coordinates>
 			-74.110532,40.564049,0
@@ -472,9 +472,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M125</name>
+		<name>M125: Manhattanville - The Hub via 125 St / Willis Av</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-73.959775,40.817065,0
@@ -501,9 +501,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M50</name>
+		<name>M50: 49 / 50 Sts Crosstown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-74.00144,40.762148,0
@@ -527,9 +527,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M42</name>
+		<name>M42: 42 St Crosstown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-74.00144,40.762148,0
@@ -553,9 +553,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M10</name>
+		<name>M10: Central Park W / Frederick Douglass Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-73.93599,40.830954,0
@@ -608,9 +608,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx22</name>
+		<name>Bx22: Bedford Park - Castle Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-73.846145,40.812847,0
@@ -653,9 +653,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx15</name>
+		<name>Bx15: Fordham Plaza - The Hub via 3 Av</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-73.916829,40.816492,0
@@ -678,9 +678,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx9</name>
+		<name>Bx9: Riverdale - West Farms Sq</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-73.878605,40.839857,0
@@ -723,9 +723,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx7</name>
+		<name>Bx7: Riverdale - Washington Heights</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-73.939441,40.840879,0
@@ -768,9 +768,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S42</name>
+		<name>S42: St Marks Pl / Bay St</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 2.63</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 2.63</description>
 		<LineString> 
 			<coordinates>
 			-74.090139,40.638994,0
@@ -797,9 +797,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q47</name>
+		<name>Q47: LaGuardia Marine Air Terminal - Glendale</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-73.869074,40.709603,0
@@ -848,9 +848,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q35</name>
+		<name>Q35: Rockaway Park - Brooklyn College</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-73.946552,40.631678,0
@@ -884,9 +884,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q23</name>
+		<name>Q23: 108 St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-73.854282,40.707053,0
@@ -943,9 +943,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M35</name>
+		<name>M35: Randall's / Ward's Islands</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-73.937417,40.80458,0
@@ -963,9 +963,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M9</name>
+		<name>M9: Bellevue Hospital Center / Battery Park City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-73.977915,40.741591,0
@@ -999,9 +999,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B41-kings</name>
+		<name>B41: Flatbush Av</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.03</description>
+		<description>Branch: to Kings Plaza<br/>Agency: ny-mta<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-73.990829,40.695535,0
@@ -1048,9 +1048,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B41-bergen</name>
+		<name>B41: Flatbush Av</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.12</description>
+		<description>Branch: to E 70 / Veterans<br/>Agency: ny-mta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-73.990829,40.695535,0
@@ -1104,9 +1104,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B16</name>
+		<name>B16: Fort Hamilton Pkwy / 13 & 14 Avs</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-74.03512,40.611761,0
@@ -1173,9 +1173,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B42</name>
+		<name>B42: Rockaway Pkwy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-73.88668,40.631304,0
@@ -1192,9 +1192,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S55</name>
+		<name>S55: Annadale Rd / Richmond Av</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 2.29</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 2.29</description>
 		<LineString> 
 			<coordinates>
 			-74.161424,40.58372,0
@@ -1241,9 +1241,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M7</name>
+		<name>M7: Columbus / Amsterdam / 6 & 7 Avs</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-73.99621,40.738103,0
@@ -1312,9 +1312,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B24</name>
+		<name>B24: Greenpoint / Kingsland Avs</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 4.26</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 4.26</description>
 		<LineString> 
 			<coordinates>
 			-73.95942,40.709539,0
@@ -1362,9 +1362,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q69</name>
+		<name>Q69: 21 St - Ditmars Blvd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-73.943528,40.747499,0
@@ -1410,9 +1410,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B69</name>
+		<name>B69: 7 & Vanderbilt Avs</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.38</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-73.987598,40.699922,0
@@ -1464,9 +1464,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>QM24</name>
+		<name>QM24: Glendale - Midtown</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.83</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-73.876211,40.702403,0
@@ -1499,9 +1499,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>BxM4</name>
+		<name>BxM4: Woodlawn - Midtown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-73.86809,40.902133,0
@@ -1539,9 +1539,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q102</name>
+		<name>Q102: 31 St - Roosevelt Island</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 3.6</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 3.6</description>
 		<LineString> 
 			<coordinates>
 			-73.93493,40.775144,0
@@ -1588,9 +1588,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>BxM1</name>
+		<name>BxM1: Riverdale - East Midtown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-73.978601,40.744963,0
@@ -1626,9 +1626,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>New Haven</name>
+		<name>New Haven Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-73.977056,40.752998,0
@@ -1667,9 +1667,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S89</name>
+		<name>S89: Richmond Av / Bayonne</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-74.154134,40.533924,0
@@ -1691,9 +1691,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q100</name>
+		<name>Q100: Rikers Island Limited</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-73.939042,40.748406,0
@@ -1710,9 +1710,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Broadway / 7 Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-73.898583,40.889248,0
@@ -1757,9 +1757,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q104</name>
+		<name>Q104: Broadway / 48th St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-73.91691,40.743321,0
@@ -1791,9 +1791,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q49</name>
+		<name>Q49: 35 Av</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.52</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-73.890747,40.746588,0
@@ -1823,9 +1823,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q33</name>
+		<name>Q33: 82 / 83 Sts</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-73.890854,40.746637,0
@@ -1852,9 +1852,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx20</name>
+		<name>Bx20: Riverdale - Inwood</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.73</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-73.908526,40.893316,0
@@ -1882,9 +1882,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M</name>
+		<name>M: Queens Blvd / 6 Av</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 7.07</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 7.07</description>
 		<LineString> 
 			<coordinates>
 			-73.889601,40.711396,0
@@ -1927,9 +1927,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S74</name>
+		<name>S74: Richmond / Arthur Kill Rds</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.38</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-74.230218,40.528346,0
@@ -2030,9 +2030,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SIM22</name>
+		<name>SIM22: Eltingville - Midtown via Richmond Av</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-74.158116,40.530671,0
@@ -2058,9 +2058,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx10</name>
+		<name>Bx10: Riverdale - Norwood</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 2.41</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 2.41</description>
 		<LineString> 
 			<coordinates>
 			-73.880302,40.874929,0
@@ -2105,9 +2105,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bx24</name>
+		<name>Bx24: Country Club - Hutchinson Metro Center</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 3.06</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 3.06</description>
 		<LineString> 
 			<coordinates>
 			-73.837728,40.855109,0
@@ -2137,9 +2137,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B39</name>
+		<name>B39: Williamsburg Bridge Plaza / Brooklyn Lower East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 1.0</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-73.990466,40.719411,0
@@ -2149,9 +2149,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q38</name>
+		<name>Q38: Eliot Av - Penelope Av</name>
 		<styleUrl>#10.0</styleUrl>
-		<description>Agency: ny-mta<br/>EDI: 24.34</description>
+		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 24.34</description>
 		<LineString> 
 			<coordinates>
 			-73.85088,40.735797,0

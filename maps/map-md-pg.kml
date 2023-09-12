@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>37</name>
+		<name>37: Camp Springs / Southern Ave</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 2.48</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 2.48</description>
 		<LineString> 
 			<coordinates>
 			-76.905041,38.801593,0
@@ -108,9 +108,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36</name>
+		<name>36: Clinton / Brandywine</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-76.872651,38.671639,0
@@ -131,9 +131,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Southern Ave / National Harbor / Camp Springs</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 3.1</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 3.1</description>
 		<LineString> 
 			<coordinates>
 			-76.975372,38.840658,0
@@ -194,9 +194,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: Suitland Metro</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-76.93251,38.84467,0
@@ -214,9 +214,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Southern Ave / Camp Springs</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 2.05</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 2.05</description>
 		<LineString> 
 			<coordinates>
 			-76.905017,38.801803,0
@@ -280,9 +280,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32</name>
+		<name>32: Naylor Rd / Clinton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-76.885142,38.766071,0
@@ -346,9 +346,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Branch Ave / Southern Maryland Hospital</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.85</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.85</description>
 		<LineString> 
 			<coordinates>
 			-76.877158,38.748844,0
@@ -396,9 +396,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26</name>
+		<name>26: Largo / Morgan</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 6.24</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 6.24</description>
 		<LineString> 
 			<coordinates>
 			-76.846156,38.900272,0
@@ -434,9 +434,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: Capitol Heights / Morgan</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 4.68</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 4.68</description>
 		<LineString> 
 			<coordinates>
 			-76.867385,38.892975,0
@@ -508,9 +508,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21x</name>
+		<name>21x: New Carrollton / MVA</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-76.828657,38.897228,0
@@ -526,9 +526,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21</name>
+		<name>21: New Carrollton / Upper Marlboro</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-76.749703,38.81477,0
@@ -593,9 +593,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: Addison Rd / Upper Marlboro</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-76.748652,38.816727,0
@@ -649,9 +649,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Langley Park / Addison Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.57</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-76.89566,38.885672,0
@@ -747,9 +747,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: College Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-76.960057,38.936641,0
@@ -796,9 +796,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: New Carrollton / Greenbelt</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.94</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.94</description>
 		<LineString> 
 			<coordinates>
 			-76.872238,38.94866,0
@@ -855,9 +855,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15x</name>
+		<name>15x: New Carrollton / Greenbelt</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-76.872238,38.94866,0
@@ -870,9 +870,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11</name>
+		<name>11: Greenbelt</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 1.73</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-76.910176,39.011528,0
@@ -908,9 +908,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Seat Pleasant</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: md-pg<br/>EDI: 3.85</description>
+		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 3.85</description>
 		<LineString> 
 			<coordinates>
 			-76.89566,38.885672,0

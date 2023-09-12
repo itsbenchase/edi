@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Main St & Santa Monica Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-bbb<br/>EDI: 1.41</description>
+		<description>Branch: Main<br/>Agency: ca-bbb<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-118.469639,33.988215,0

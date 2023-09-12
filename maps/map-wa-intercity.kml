@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>68</name>
+		<name>68: Yelm Highway / Capital Mall</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: wa-intercity<br/>EDI: 3.57</description>
+		<description>Branch: Main<br/>Agency: wa-intercity<br/>EDI: 3.57</description>
 		<LineString> 
 			<coordinates>
 			-122.932533,47.042278,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Vernor</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mi-ddot<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: mi-ddot<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-83.052425,42.332769,0

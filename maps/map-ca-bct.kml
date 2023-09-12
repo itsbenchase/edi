@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>109</name>
+		<name>Line 109</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-bct<br/>EDI: 1.8</description>
+		<description>Branch: Main<br/>Agency: ca-bct<br/>EDI: 1.8</description>
 		<LineString> 
 			<coordinates>
 			-118.38527,33.816544,0
@@ -137,9 +137,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102</name>
+		<name>Line 102</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-bct<br/>EDI: 1.85</description>
+		<description>Branch: Main<br/>Agency: ca-bct<br/>EDI: 1.85</description>
 		<LineString> 
 			<coordinates>
 			-118.390306,33.838584,0

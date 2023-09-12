@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>D</name>
+		<name>D: Erford Rd / Capital City Mall</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-cat<br/>EDI: 2.12</description>
+		<description>Branch: Main<br/>Agency: pa-cat<br/>EDI: 2.12</description>
 		<LineString> 
 			<coordinates>
 			-76.881485,40.259789,0
@@ -96,9 +96,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W</name>
+		<name>W: Allen Road Warehouses</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-cat<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: pa-cat<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-76.836479,40.232681,0
@@ -160,9 +160,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: High Point Commons</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-cat<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: pa-cat<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-76.881485,40.259789,0
@@ -204,9 +204,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Union Deposit / Hamilton Health Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-cat<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: pa-cat<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-76.881485,40.259789,0

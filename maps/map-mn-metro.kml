@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>C</name>
+		<name>C Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-93.318324,45.059728,0
@@ -80,9 +80,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A</name>
+		<name>A Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-93.220455,44.921323,0
@@ -109,9 +109,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-93.2383,44.853805,0
@@ -123,9 +123,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Orange</name>
+		<name>Orange Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-93.278552,44.776176,0
@@ -145,9 +145,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green</name>
+		<name>Green Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-93.08672,44.948226,0
@@ -178,9 +178,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-93.238877,44.854277,0
@@ -207,9 +207,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>227</name>
+		<name>227: Roseville - Shoreview via Victoria St</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 2.13</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 2.13</description>
 		<LineString> 
 			<coordinates>
 			-93.170551,45.012523,0
@@ -262,9 +262,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225</name>
+		<name>225: Roseville - Shoreview via Snelling Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: mn-metro<br/>EDI: 1.96</description>
+		<description>Branch: Main<br/>Agency: mn-metro<br/>EDI: 1.96</description>
 		<LineString> 
 			<coordinates>
 			-93.170551,45.012523,0

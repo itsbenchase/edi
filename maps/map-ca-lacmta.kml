@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>155</name>
+		<name>155: Sherman Oaks - Burbank via Riverside Dr and Olive St</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: ca-lacmta<br/>EDI: 5.44</description>
+		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 5.44</description>
 		<LineString> 
 			<coordinates>
 			-118.375295,34.168829,0
@@ -143,9 +143,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215</name>
+		<name>215: Downtown Inglewood - Redondo Beach TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-lacmta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-118.350296,33.968274,0
@@ -181,9 +181,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211</name>
+		<name>211: Downtown Inglewood - Redondo Beach Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-lacmta<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-118.356871,33.87176,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Belle Valley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -103,9 +103,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Tacoma</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 2.34</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 2.34</description>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -145,9 +145,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21</name>
+		<name>21: Lawrence Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-80.084412,42.125802,0
@@ -183,9 +183,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20B</name>
+		<name>20B: Lincoln Park N Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-80.080023,42.139665,0
@@ -196,9 +196,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20A</name>
+		<name>20A: Downtown Loop</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-80.090146,42.136999,0
@@ -209,9 +209,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: North East</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -297,9 +297,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: E 38th St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-79.983263,42.11992,0
@@ -350,9 +350,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Edinboro</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -410,9 +410,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12</name>
+		<name>12: Albion</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -516,9 +516,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11</name>
+		<name>11: Harborcreek</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 2.46</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 2.46</description>
 		<LineString> 
 			<coordinates>
 			-80.084412,42.125802,0
@@ -563,9 +563,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Liberty St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.82</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -620,9 +620,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3-peach</name>
+		<name>3: Peach St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.3</description>
+		<description>Branch: via Peach St<br/>Agency: pa-emta<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -676,9 +676,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3-cherry</name>
+		<name>3: Peach St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.65</description>
+		<description>Branch: via Cherry St<br/>Agency: pa-emta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -730,9 +730,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Glenwood</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-emta<br/>EDI: 1.65</description>
+		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0

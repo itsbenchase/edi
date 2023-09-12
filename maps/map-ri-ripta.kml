@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>75-mall</name>
+		<name>75: Dexter / Lincoln Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.49</description>
+		<description>Branch: Lincoln Mall<br/>Agency: ri-ripta<br/>EDI: 1.49</description>
 		<LineString> 
 			<coordinates>
 			-71.476323,41.937542,0
@@ -106,9 +106,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-attleboro</name>
+		<name>1: Eddy / Hope / Benefit</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.2</description>
+		<description>Branch: South Attleboro<br/>Agency: ri-ripta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-71.405103,41.767311,0
@@ -178,9 +178,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-tf-green</name>
+		<name>1: Eddy / Hope / Benefit</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.12</description>
+		<description>Branch: TF Green Airport<br/>Agency: ri-ripta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.436997,41.725802,0
@@ -248,9 +248,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92</name>
+		<name>92: RI College / Federal Hill / East Side</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-71.460627,41.841629,0
@@ -298,9 +298,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58</name>
+		<name>58: Mineral Spring / North Providence</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-71.517031,41.874078,0
@@ -361,9 +361,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57</name>
+		<name>57: Smith St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.486611,41.857661,0
@@ -401,9 +401,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56</name>
+		<name>56: Chalkstone Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-71.466228,41.832361,0
@@ -436,9 +436,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Admiral / Providence College</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.11</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.11</description>
 		<LineString> 
 			<coordinates>
 			-71.411248,41.825429,0
@@ -481,9 +481,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54</name>
+		<name>54: Lincoln / Woonsocket</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-71.505392,42.007887,0
@@ -538,9 +538,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51</name>
+		<name>51: Charles St / Twin River / CCRI</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.407055,41.811233,0
@@ -581,9 +581,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50</name>
+		<name>50: Douglas Ave / Bryant University</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.411054,41.825567,0
@@ -630,9 +630,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40</name>
+		<name>40: Butler / Elmgrove</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.57</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-71.411248,41.825429,0
@@ -659,9 +659,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Rumford / Newport Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.44</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-71.411448,41.825282,0
@@ -713,9 +713,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: East Providence / Seekonk Square</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-71.322655,41.795429,0
@@ -764,9 +764,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Riverside</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-71.343641,41.759567,0
@@ -827,9 +827,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32</name>
+		<name>32: E. Providence / Wampanoag / Seekonk Sq.</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-71.322655,41.795429,0
@@ -865,9 +865,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Cranston St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-71.443918,41.795587,0
@@ -891,9 +891,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Arlington / Oaklawn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -946,9 +946,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29</name>
+		<name>CCRI / Warwick / Conimicut</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.62</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.62</description>
 		<LineString> 
 			<coordinates>
 			-71.384242,41.721733,0
@@ -996,9 +996,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28</name>
+		<name>28: Broadway / Hartford</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-71.500056,41.820704,0
@@ -1035,9 +1035,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27-woona</name>
+		<name>27: Broadway / Manton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.28</description>
+		<description>Branch: via Woonasquatucket Ave<br/>Agency: ri-ripta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.41262,41.825568,0
@@ -1084,9 +1084,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27-waterman</name>
+		<name>27: Broadway / Manton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.37</description>
+		<description>Branch: via George Waterman Rd<br/>Agency: ri-ripta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-71.41262,41.825568,0
@@ -1136,9 +1136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Arctic / Crompton / Centre of New England</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.56</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-71.549526,41.662561,0
@@ -1175,9 +1175,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88</name>
+		<name>88: Simmonsville Village Shuttle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-71.499027,41.787536,0
@@ -1187,9 +1187,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Pontiac Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -1252,9 +1252,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21</name>
+		<name>21: Reservoir / Garden City / CCRI</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -1298,9 +1298,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: Elmwood Ave / TF Green Airport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-71.411466,41.824873,0
@@ -1358,9 +1358,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19</name>
+		<name>19: Plainfield / Westminster</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-71.51558,41.785283,0
@@ -1409,9 +1409,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Union Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-71.457319,41.795707,0
@@ -1444,9 +1444,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14-newport</name>
+		<name>14: West Bay</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.54</description>
+		<description>Branch: Newport<br/>Agency: ri-ripta<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-71.439628,41.738297,0
@@ -1546,9 +1546,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14-narragansett</name>
+		<name>14: West Bay</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.27</description>
+		<description>Branch: Narragansett<br/>Agency: ri-ripta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-71.4117,41.826001,0
@@ -1694,9 +1694,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Qx</name>
+		<name>Qx: Quonset Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -1733,9 +1733,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10x</name>
+		<name>10x: North Scituate Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -1785,9 +1785,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9x</name>
+		<name>9x: Pascoag Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -1851,9 +1851,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Warwick Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.379216,41.695293,0
@@ -1929,9 +1929,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Oakland Beach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.398111,41.686606,0
@@ -2000,9 +2000,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Dyer / Pocasset</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-71.473986,41.781562,0
@@ -2044,9 +2044,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: Bald Hill / NEIT / Quonset</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-71.447153,41.60565,0
@@ -2097,9 +2097,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: Coventry / Arctic / CCRI</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -2166,9 +2166,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89</name>
+		<name>89: Cranston Walmart</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.21</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.21</description>
 		<LineString> 
 			<coordinates>
 			-71.44873,41.801451,0
@@ -2202,9 +2202,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87-w</name>
+		<name>87: Fairmount / Walnut Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.4</description>
+		<description>Branch: Westbound<br/>Agency: ri-ripta<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-71.471549,42.015802,0
@@ -2247,9 +2247,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87-e</name>
+		<name>87: Fairmount / Walnut Hill</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.68</description>
+		<description>Branch: Eastbound<br/>Agency: ri-ripta<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-71.532057,41.996647,0
@@ -2300,9 +2300,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80</name>
+		<name>80: Armistice Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-71.341948,41.874741,0
@@ -2330,9 +2330,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78</name>
+		<name>78: Beverage Hill Ave / East Providence</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.44</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.44</description>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -2387,9 +2387,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76</name>
+		<name>76: Central Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-71.345849,41.891536,0
@@ -2419,9 +2419,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75-industrial</name>
+		<name>75: Dexter / Lincoln Mall</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.03</description>
+		<description>Branch: North Central Industrial Park<br/>Agency: ri-ripta<br/>EDI: 2.03</description>
 		<LineString> 
 			<coordinates>
 			-71.481251,41.923692,0
@@ -2481,9 +2481,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73</name>
+		<name>73: Mineral Spring / Twin River / CCRI</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -2514,9 +2514,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72</name>
+		<name>72: Weeden / Central Falls</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.75</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -2571,9 +2571,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71</name>
+		<name>71: Broad St / Pawtucket Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-71.40232,41.857002,0
@@ -2610,9 +2610,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65x</name>
+		<name>65x: Wakefield Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-71.483328,41.428201,0
@@ -2641,9 +2641,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R</name>
+		<name>R Line: Broad / North Main</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-71.401675,41.786141,0
@@ -2682,9 +2682,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69</name>
+		<name>69: Narragansett / Galilee</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-71.529311,41.484315,0
@@ -2739,9 +2739,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64</name>
+		<name>64: Newport / URI Kingston</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.1</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.1</description>
 		<LineString> 
 			<coordinates>
 			-71.317681,41.491168,0
@@ -2825,9 +2825,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24l</name>
+		<name>24L: Newport / Fall River / Providence</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-71.317643,41.491792,0
@@ -2840,9 +2840,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61x</name>
+		<name>61x: Tiverton / East Bay Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -2905,9 +2905,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60-e</name>
+		<name>60: Providence / Newport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.24</description>
+		<description>Branch: via East Main St<br/>Agency: ri-ripta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-71.317616,41.491606,0
@@ -3035,9 +3035,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60-w</name>
+		<name>60: Providence / Newport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.25</description>
+		<description>Branch: via West Main St<br/>Agency: ri-ripta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-71.317616,41.491606,0
@@ -3153,9 +3153,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66</name>
+		<name>66: URI / CCRI Warwick / Providence</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-71.412841,41.828623,0
@@ -3193,9 +3193,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301</name>
+		<name>301: Westerly / Hope Valley Rural Ride</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-71.829808,41.381108,0
@@ -3222,9 +3222,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>95x</name>
+		<name>95x: Westerly Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-71.829808,41.381108,0
@@ -3246,9 +3246,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12x</name>
+		<name>12x: Arctic / 117 Express Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-71.412371,41.825959,0
@@ -3279,9 +3279,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59x</name>
+		<name>59x: N. Smithfield / Lincoln Park-n-Ride</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -3301,9 +3301,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68</name>
+		<name>68: CCRI Newport / Memorial Blvd / First Beach</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.79</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.79</description>
 		<LineString> 
 			<coordinates>
 			-71.285354,41.499428,0
@@ -3336,9 +3336,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67</name>
+		<name>67: Bellevue / Salve Regina Univ.</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-71.317681,41.491168,0
@@ -3371,9 +3371,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63</name>
+		<name>63: Broadway / Middletown Shops</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 2.18</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.18</description>
 		<LineString> 
 			<coordinates>
 			-71.317594,41.491319,0
@@ -3434,9 +3434,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Prairie / Roger Williams Park Zoo</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ri-ripta<br/>EDI: 1.61</description>
+		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.61</description>
 		<LineString> 
 			<coordinates>
 			-71.416191,41.794166,0

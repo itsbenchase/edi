@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1 Line: Northgate - Angle Lake</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-sound<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: wa-sound<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-122.32832,47.702662,0

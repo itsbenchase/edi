@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>92</name>
+		<name>92: Spring Valley - Nyack</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-tor<br/>EDI: 2.21</description>
+		<description>Branch: Main<br/>Agency: ny-tor<br/>EDI: 2.21</description>
 		<LineString> 
 			<coordinates>
 			-74.043822,41.111615,0
@@ -71,9 +71,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91</name>
+		<name>91: Nyack - Spring Valley</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ny-tor<br/>EDI: 3.98</description>
+		<description>Branch: Main<br/>Agency: ny-tor<br/>EDI: 3.98</description>
 		<LineString> 
 			<coordinates>
 			-74.043822,41.111615,0
@@ -96,9 +96,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Loop 3</name>
+		<name>Loop 3: Suffern / Chestnut St - Spring Valley</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-tor<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: ny-tor<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-74.152039,41.116321,0

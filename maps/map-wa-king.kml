@@ -51,9 +51,89 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>249: Overdale - S Kirkland - Bellevue</name>
+		<styleUrl>#2.5</styleUrl>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 2.98</description>
+		<LineString> 
+			<coordinates>
+			-122.131401,47.645981,0
+			-122.122467,47.645992,0
+			-122.114677,47.646015,0
+			-122.107918,47.645702,0
+			-122.103912,47.642113,0
+			-122.099899,47.639927,0
+			-122.097969,47.638931,0
+			-122.0942,47.636692,0
+			-122.091209,47.633987,0
+			-122.090721,47.631191,0
+			-122.093452,47.631207,0
+			-122.097054,47.631226,0
+			-122.10009,47.631252,0
+			-122.106934,47.631287,0
+			-122.109856,47.631306,0
+			-122.113815,47.631344,0
+			-122.11808,47.631382,0
+			-122.120964,47.631413,0
+			-122.125275,47.631504,0
+			-122.127808,47.631565,0
+			-122.131248,47.631645,0
+			-122.134445,47.631649,0
+			-122.136086,47.63316,0
+			-122.137604,47.633709,0
+			-122.136108,47.637997,0
+			-122.138542,47.640976,0
+			-122.143188,47.638592,0
+			-122.143661,47.636231,0
+			-122.144386,47.634903,0
+			-122.153831,47.631226,0
+			-122.15947,47.628082,0
+			-122.164291,47.628113,0
+			-122.167587,47.62814,0
+			-122.176544,47.629772,0
+			-122.182076,47.632614,0
+			-122.189835,47.635693,0
+			-122.191383,47.637714,0
+			-122.194443,47.640911,0
+			-122.196693,47.643852,0
+			-122.2006,47.645645,0
+			-122.20182,47.645657,0
+			-122.201759,47.637482,0
+			-122.201759,47.635788,0
+			-122.201752,47.633534,0
+			-122.201752,47.631599,0
+			-122.201759,47.628487,0
+			-122.201752,47.624905,0
+			-122.20179,47.620655,0
+			-122.196678,47.619202,0
+			-122.196411,47.615593,0
+			-122.196312,47.611721,0
+			-122.1968,47.610188,0
+			-122.201584,47.609451,0
+			-122.201515,47.607094,0
+			-122.201477,47.605251,0
+			-122.201447,47.603817,0
+			-122.201546,47.602623,0
+			-122.201874,47.59993,0
+			-122.201996,47.596375,0
+			-122.202011,47.594894,0
+			-122.201355,47.59251,0
+			-122.201637,47.591164,0
+			-122.20269,47.59005,0
+			-122.202843,47.587826,0
+			-122.20253,47.586475,0
+			-122.202377,47.58548,0
+			-122.201424,47.584213,0
+			-122.199455,47.582604,0
+			-122.196671,47.580036,0
+			-122.192749,47.580204,0
+			-122.19133,47.586979,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>1: Kinnear - Seattle Center - Downtown Seattle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-122.370277,47.645111,0
@@ -87,9 +167,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Arbor Heights - Westwood Village - Gatewood - Alaska Jct</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.66</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.66</description>
 		<LineString> 
 			<coordinates>
 			-122.380615,47.504662,0
@@ -138,9 +218,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>345</name>
+		<name>345: Shoreline - Haller Lake - Northgate</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-122.328026,47.702309,0
@@ -175,9 +255,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>331</name>
+		<name>331: Kenmore - Lake Forest Park - Aurora Village - Shoreline</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-122.353134,47.744144,0
@@ -225,9 +305,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: Magnolia - Seattle Center - Downtown Seattle</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.64</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.64</description>
 		<LineString> 
 			<coordinates>
 			-122.328957,47.593342,0
@@ -293,9 +373,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50-sodo</name>
+		<name>50: Alki - Alaska Jct - SODO - Othello</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.68</description>
+		<description>Branch: to SODO<br/>Agency: wa-king<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-122.410797,47.578995,0
@@ -333,9 +413,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50-othello</name>
+		<name>50: Alki - Alaska Jct - SODO - Othello</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 2.11</description>
+		<description>Branch: to Othello Station<br/>Agency: wa-king<br/>EDI: 2.11</description>
 		<LineString> 
 			<coordinates>
 			-122.410797,47.578995,0
@@ -406,9 +486,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F</name>
+		<name>F Line: Burien TC - SeaTac - Tukwila - Renton TC - The Landing</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.52</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-122.337318,47.46941,0
@@ -447,9 +527,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E</name>
+		<name>E Line: Aurora Village TC - Bitter Lake - West Green Lake</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-122.327316,47.592129,0
@@ -492,9 +572,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D</name>
+		<name>D Line: Crown Hill - Ballard - Interbay - Uptown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-122.329941,47.601658,0
@@ -529,9 +609,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C</name>
+		<name>C Line: South Lake Union - Alaska Jct - Westwood Village</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-122.334106,47.626034,0
@@ -562,9 +642,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B</name>
+		<name>B Line: Redmond - Overlake - Crossroads - Bellevue</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.66</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.66</description>
 		<LineString> 
 			<coordinates>
 			-122.195358,47.615505,0
@@ -596,9 +676,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A</name>
+		<name>A Line: Tukwila International Blvd - Federal Way TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-king<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-122.288452,47.464207,0

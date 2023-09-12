@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Derby via Rt 110</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-73.187515,41.181396,0
@@ -122,9 +122,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22x</name>
+		<name>22X: Corporate Dr</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-73.187515,41.181396,0
@@ -155,9 +155,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19x</name>
+		<name>19X: Monroe Tpke Shop and Shop</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-73.18708,41.181568,0
@@ -191,9 +191,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Success Park via North Ave</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 3.1</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 3.1</description>
 		<LineString> 
 			<coordinates>
 			-73.187195,41.181244,0
@@ -250,9 +250,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: Derby via Huntington Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-73.187515,41.181396,0
@@ -327,9 +327,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: Success Park via Central Ave</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 2.52</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 2.52</description>
 		<LineString> 
 			<coordinates>
 			-73.187462,41.181553,0
@@ -377,9 +377,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Fairfield Woods</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-73.133461,41.188435,0
@@ -448,9 +448,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9-quarry</name>
+		<name>9: Seaside Park - Hawley Lane</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.35</description>
+		<description>Branch: to Quarry Road<br/>Agency: ct-gbt<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-73.202938,41.160015,0
@@ -500,9 +500,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9-hawley</name>
+		<name>9: Seaside Park - Hawley Lane</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.2</description>
+		<description>Branch: to Hawley Lane<br/>Agency: ct-gbt<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-73.202938,41.160015,0
@@ -552,9 +552,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Westfield Trumbull Mall via Main St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-73.187271,41.180889,0
@@ -592,9 +592,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Carolton Hospital</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-73.187347,41.181141,0
@@ -635,9 +635,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Westfield Trumbull Mall via Trumbull Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.87</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-73.187149,41.181408,0
@@ -692,9 +692,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5-out</name>
+		<name>5: Black Rock</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.27</description>
+		<description>Branch: Outbound<br/>Agency: ct-gbt<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-73.187378,41.180981,0
@@ -722,9 +722,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5-in</name>
+		<name>5: Black Rock</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.34</description>
+		<description>Branch: Inbound<br/>Agency: ct-gbt<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-73.226669,41.157604,0
@@ -757,9 +757,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Westfield Trumbull Mall via Park Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-73.187195,41.181244,0
@@ -808,9 +808,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Westfield Trumbull Mall via Madison Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-73.187233,41.18108,0
@@ -862,9 +862,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: The Dock - Seaside Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-73.115273,41.203007,0
@@ -906,9 +906,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>coastal</name>
+		<name>Coastal Link</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ct-gbt<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-73.034622,41.234528,0

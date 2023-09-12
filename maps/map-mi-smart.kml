@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>796</name>
+		<name>796: Pontiac - Perry - Opdyke</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: mi-smart<br/>EDI: 4.67</description>
+		<description>Branch: Main<br/>Agency: mi-smart<br/>EDI: 4.67</description>
 		<LineString> 
 			<coordinates>
 			-83.290922,42.635852,0
@@ -103,9 +103,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>125</name>
+		<name>125: Fort St - Eureka Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: mi-smart<br/>EDI: 1.73</description>
+		<description>Branch: Main<br/>Agency: mi-smart<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-83.355568,42.208427,0

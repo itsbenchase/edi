@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>307</name>
+		<name>307: Intercounty Lewes TC / Dover</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-75.169855,38.748176,0
@@ -71,9 +71,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>305</name>
+		<name>305: Wilmington - Rehoboth</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -88,9 +88,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>303-express</name>
+		<name>303: Intercounty Dover / Georgetown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.03</description>
+		<description>Branch: Express<br/>Agency: de-dart<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-75.384975,38.693068,0
@@ -104,9 +104,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>303</name>
+		<name>303: Intercounty Dover / Georgetown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -163,9 +163,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>302</name>
+		<name>302: Intercounty Middletown / Dover</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -202,9 +202,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301</name>
+		<name>301: Intercounty Wilmington / Dover</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -228,9 +228,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>903F-eb</name>
+		<name>903F: Flex - Seaford</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.64</description>
+		<description>Branch: Eastbound<br/>Agency: de-dart<br/>EDI: 1.64</description>
 		<LineString> 
 			<coordinates>
 			-75.633088,38.648007,0
@@ -245,9 +245,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>903F-wb</name>
+		<name>903F: Flex - Seaford</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.6</description>
+		<description>Branch: Westbound<br/>Agency: de-dart<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-75.596159,38.660423,0
@@ -262,9 +262,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>208</name>
+		<name>208: Ocean City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-75.10727,38.712003,0
@@ -294,9 +294,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>206</name>
+		<name>206: Georgetown - Lewes TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-75.169855,38.748176,0
@@ -325,9 +325,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>204</name>
+		<name>204: Lewes</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-75.118736,38.780873,0
@@ -347,9 +347,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>203</name>
+		<name>203: Dewey Beach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-75.169855,38.748176,0
@@ -379,9 +379,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201</name>
+		<name>201: Rehoboth Beach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-75.169855,38.748176,0
@@ -408,9 +408,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120</name>
+		<name>120: Scarborough Rd - Cheswold - Smyrna</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-75.559359,39.196973,0
@@ -430,9 +430,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>117</name>
+		<name>117: Harrington / Camden</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-75.545847,39.101542,0
@@ -468,9 +468,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>112</name>
+		<name>112: Del Tech</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.83</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -499,9 +499,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>109</name>
+		<name>109: Dover Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -525,9 +525,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108</name>
+		<name>108: East Dover</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 2.15</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 2.15</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -559,9 +559,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105</name>
+		<name>105: Gateway South / Dover AFB</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.86</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.86</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -585,9 +585,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104-sb</name>
+		<name>104: Camden Walmart</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.91</description>
+		<description>Branch: Southbound<br/>Agency: de-dart<br/>EDI: 1.91</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0
@@ -624,9 +624,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104-nb</name>
+		<name>104: Camden Walmart</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.41</description>
+		<description>Branch: Northbound<br/>Agency: de-dart<br/>EDI: 1.41</description>
 		<LineString> 
 			<coordinates>
 			-75.545847,39.101542,0
@@ -650,9 +650,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64</name>
+		<name>64: Glasgow / Governor's Sq / Christiana Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-75.655795,39.679932,0
@@ -696,9 +696,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62</name>
+		<name>62: Churchmans Shuttle</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 2.12</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 2.12</description>
 		<LineString> 
 			<coordinates>
 			-75.672297,39.693817,0
@@ -722,9 +722,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61</name>
+		<name>61: Naamans Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-75.45181,39.798261,0
@@ -761,9 +761,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Newark / Old Baltimore Pike / Christiana Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.99</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.99</description>
 		<LineString> 
 			<coordinates>
 			-75.655795,39.679932,0
@@ -802,9 +802,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53</name>
+		<name>53: Delaware City DMV / Newark</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-75.743428,39.682337,0
@@ -819,9 +819,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52</name>
+		<name>52: Centerville / Greenville / Kennett Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -862,9 +862,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51</name>
+		<name>51: New Castle Ave / DE 273 / Christiana Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.88</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -927,9 +927,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46-weekend</name>
+		<name>46: Newark / Glasgow / Middletown / Odessa</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.49</description>
+		<description>Branch: Weekends<br/>Agency: de-dart<br/>EDI: 1.49</description>
 		<LineString> 
 			<coordinates>
 			-75.743541,39.682421,0
@@ -962,9 +962,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46-weekday</name>
+		<name>46: Newark / Glasgow / Middletown / Odessa</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.46</description>
+		<description>Branch: Weekdays<br/>Agency: de-dart<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-75.743541,39.682421,0
@@ -1013,9 +1013,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44</name>
+		<name>44: Delaware City / St Georges / Christiana Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-75.655795,39.679932,0
@@ -1028,9 +1028,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42-weekend</name>
+		<name>42: Glasgow / Newark Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.12</description>
+		<description>Branch: Weekends<br/>Agency: de-dart<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -1055,9 +1055,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42-weekday</name>
+		<name>42: Glasgow / Newark Express</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.26</description>
+		<description>Branch: Weekdays<br/>Agency: de-dart<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -1086,9 +1086,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40</name>
+		<name>Glasgow / US Routes 13 & 40 / Wilmington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-75.548684,39.744717,0
@@ -1144,9 +1144,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37-north-middletown</name>
+		<name>37: Wilmington / Christiana Mall / Middletown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.06</description>
+		<description>Branch: via North Middletown<br/>Agency: de-dart<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -1165,9 +1165,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37-christiana</name>
+		<name>37: Wilmington / Christiana Mall / Middletown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.11</description>
+		<description>Branch: via Christiana Mall<br/>Agency: de-dart<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -1186,9 +1186,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Brandywine Town Center / Shipley Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -1243,9 +1243,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Wilmington / Christiana Mall / Newark</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.61</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.61</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -1297,9 +1297,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28-weekend</name>
+		<name>28: Nemours Children's Hospital / DMV / Riveredge</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.71</description>
+		<description>Branch: Weekends<br/>Agency: de-dart<br/>EDI: 1.71</description>
 		<LineString> 
 			<coordinates>
 			-75.556394,39.778359,0
@@ -1337,9 +1337,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28-weekday</name>
+		<name>28: Nemours Children's Hospital / DMV / Riveredge</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.59</description>
+		<description>Branch: Weekdays<br/>Agency: de-dart<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-75.556394,39.778359,0
@@ -1390,9 +1390,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25</name>
+		<name>25: Miller Rd Shopping Ctr / Wilmington / Wrangle Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.22</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-75.53441,39.766348,0
@@ -1463,9 +1463,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: Lancaster Pike / Hockessin</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -1511,9 +1511,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: New Castle Ave / Basin Rd / Christiana Mall</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 2.47</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 2.47</description>
 		<LineString> 
 			<coordinates>
 			-75.554576,39.750532,0
@@ -1611,9 +1611,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Baylor / DHSS / Miller Rd Shopping Center</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 2.04</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 2.04</description>
 		<LineString> 
 			<coordinates>
 			-75.53441,39.766348,0
@@ -1688,9 +1688,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: Philadelphia Pike / DuPont Hwy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-75.459995,39.817689,0
@@ -1795,9 +1795,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11-leah</name>
+		<name>11: Washington St / Arden</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.25</description>
+		<description>Branch: to Leah Blvd<br/>Agency: de-dart<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -1828,9 +1828,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11-arden</name>
+		<name>11: Washington St / Arden</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.17</description>
+		<description>Branch: to Arden<br/>Agency: de-dart<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -1880,9 +1880,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Wilmington / University Plaza / Newark</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.67</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.67</description>
 		<LineString> 
 			<coordinates>
 			-75.57949,39.76311,0
@@ -1961,9 +1961,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: Boxwood Rd / Broom St / Vandever Ave</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-75.621803,39.736132,0
@@ -2008,9 +2008,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8th / 9th St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-75.53239,39.71693,0
@@ -2043,9 +2043,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Kirkwood Highway</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -2118,9 +2118,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: Maryland Ave / Christiana Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.61</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.61</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -2178,9 +2178,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: W 4th St / Governor Printz Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-75.621993,39.736854,0
@@ -2247,9 +2247,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Concord Pike</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-75.549397,39.737157,0
@@ -2296,9 +2296,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Pike Creek Valley / Foulk Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-75.709555,39.718517,0
@@ -2380,9 +2380,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210</name>
+		<name>210: Milford Circulator</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.97</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.97</description>
 		<LineString> 
 			<coordinates>
 			-75.390882,38.885264,0
@@ -2404,9 +2404,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54</name>
+		<name>54: Fairplay Station / Wilton</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 2.41</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 2.41</description>
 		<LineString> 
 			<coordinates>
 			-75.623343,39.653101,0
@@ -2449,9 +2449,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215</name>
+		<name>215: Rehoboth / Millsboro</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.93</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.93</description>
 		<LineString> 
 			<coordinates>
 			-75.097818,38.712165,0
@@ -2500,9 +2500,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>212</name>
+		<name>212: Georgetown - Delmar</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 1.93</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 1.93</description>
 		<LineString> 
 			<coordinates>
 			-75.384975,38.693068,0
@@ -2540,9 +2540,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>107</name>
+		<name>107: Luther Village</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: de-dart<br/>EDI: 4.08</description>
+		<description>Branch: Main<br/>Agency: de-dart<br/>EDI: 4.08</description>
 		<LineString> 
 			<coordinates>
 			-75.529575,39.152653,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Florida Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: fl-hart<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: fl-hart<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-82.430439,28.066473,0

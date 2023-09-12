@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Glenn / Swan</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: az-suntran<br/>EDI: 3.03</description>
+		<description>Branch: Main<br/>Agency: az-suntran<br/>EDI: 3.03</description>
 		<LineString> 
 			<coordinates>
 			-110.970862,32.224425,0

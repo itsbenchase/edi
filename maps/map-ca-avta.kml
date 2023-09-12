@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Lancaster - Palmdale</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-avta<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: ca-avta<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-118.137135,34.701524,0

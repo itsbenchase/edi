@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Lynx Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: nc-cats<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: nc-cats<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-80.882925,35.107087,0
@@ -86,9 +86,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Gold</name>
+		<name>Lynx Gold Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: nc-cats<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: nc-cats<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-80.856853,35.246253,0

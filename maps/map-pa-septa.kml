@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>57-T</name>
+		<name>57: Whitman Plaza - Fern Rock TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.69</description>
+		<description>Branch: T: to Marine Terminal<br/>Agency: pa-septa<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-75.155728,39.91373,0
@@ -193,9 +193,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57</name>
+		<name>57: Whitman Plaza - Fern Rock TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-75.155728,39.91373,0
@@ -326,9 +326,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57-rising-sun</name>
+		<name>57: Whitman Plaza - Fern Rock TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.1</description>
+		<description>Branch: to Rising Sun / Olney<br/>Agency: pa-septa<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-75.155728,39.91373,0
@@ -428,9 +428,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70-torresdale</name>
+		<name>70: Gregg or Torresdale - Fern Rock TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.36</description>
+		<description>Branch: to Torresdale / Cottman<br/>Agency: pa-septa<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-75.136596,40.043383,0
@@ -506,9 +506,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70-gregg</name>
+		<name>70: Gregg or Torresdale - Fern Rock TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.59</description>
+		<description>Branch: to Frankford / Gregg<br/>Agency: pa-septa<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-75.13697,40.04194,0
@@ -609,9 +609,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L-R</name>
+		<name>L: Erdenheim / Plymouth Meeting Mall - Olney TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.23</description>
+		<description>Branch: R: to Mt Airy / Rodney<br/>Agency: pa-septa<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-75.144361,40.038681,0
@@ -650,9 +650,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L-chestnut-hill</name>
+		<name>L: Erdenheim / Plymouth Meeting Mall - Olney TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.2</description>
+		<description>Branch: to Chestnut Hill Loop<br/>Agency: pa-septa<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-75.144361,40.038681,0
@@ -704,9 +704,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L-E</name>
+		<name>L: Erdenheim / Plymouth Meeting Mall - Olney TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.72</description>
+		<description>Branch: E: to Erdenheim<br/>Agency: pa-septa<br/>EDI: 1.72</description>
 		<LineString> 
 			<coordinates>
 			-75.144361,40.038681,0
@@ -769,9 +769,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L-plymouth</name>
+		<name>L: Erdenheim / Plymouth Meeting Mall - Olney TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.16</description>
+		<description>Branch: to Plymouth Meeting Mall<br/>Agency: pa-septa<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-75.144361,40.038681,0
@@ -852,6 +852,8 @@
 	</Placemark>
 	<Placemark> 
 		<name>55: Doylestown - Olney TC</name>
+		<styleUrl>#1.0</styleUrl>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-75.144301,40.038859,0
@@ -986,9 +988,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>115-darby</name>
+		<name>115: Delaware County Community College - Airport</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 3.13</description>
+		<description>Branch: to Darby TC<br/>Agency: pa-septa<br/>EDI: 3.13</description>
 		<LineString> 
 			<coordinates>
 			-75.244295,39.877266,0
@@ -1058,9 +1060,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>115</name>
+		<name>115: Delaware County Community College - Airport</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.08</description>
+		<description>Branch: to DCCC<br/>Agency: pa-septa<br/>EDI: 2.08</description>
 		<LineString> 
 			<coordinates>
 			-75.244295,39.877266,0
@@ -1198,9 +1200,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Fox Chase - Cedarbrook Plaza</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.61</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.61</description>
 		<LineString> 
 			<coordinates>
 			-75.085523,40.076654,0
@@ -1311,9 +1313,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: City Hall - Cheltenham / Ogontz</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-75.159098,40.074834,0
@@ -1400,9 +1402,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Warminster - Olney TC</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 3.55</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 3.55</description>
 		<LineString> 
 			<coordinates>
 			-75.091174,40.18749,0
@@ -1524,9 +1526,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Olney TC - Frankford TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-75.149717,40.03855,0
@@ -1548,9 +1550,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80</name>
+		<name>80: Horsham - Olney TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.52</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-75.143828,40.03876,0
@@ -1578,9 +1580,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54</name>
+		<name>54: Richmond / Cambria - 33rd / Dauphin</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-75.18609,39.992001,0
@@ -1640,9 +1642,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Cheltenham / Ogontz - Olney TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-75.144207,40.038752,0
@@ -1677,9 +1679,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>BRS</name>
+		<name>Broad - Ridge Spur</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-75.153542,39.951138,0
@@ -1694,9 +1696,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>BSL</name>
+		<name>Broad Street Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-75.136757,40.04185,0
@@ -1724,9 +1726,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78</name>
+		<name>78: Cornwells Heights - Center City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-75.153365,39.951191,0
@@ -1739,9 +1741,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73</name>
+		<name>73: Richmond / Westmoreland - Frankford TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.95</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.95</description>
 		<LineString> 
 			<coordinates>
 			-75.099295,39.981209,0
@@ -1785,9 +1787,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26-frankford</name>
+		<name>26: Chelten Av - Frankford TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.82</description>
+		<description>Branch: via Frankford Av<br/>Agency: pa-septa<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-75.180925,40.029851,0
@@ -1881,9 +1883,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26-torresdale</name>
+		<name>26: Chelten Av - Frankford TC</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.01</description>
+		<description>Branch: via Torresdale Av<br/>Agency: pa-septa<br/>EDI: 2.01</description>
 		<LineString> 
 			<coordinates>
 			-75.180925,40.029851,0
@@ -1991,9 +1993,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75</name>
+		<name>75: Wayne Junction - Arrott TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-75.160079,40.021669,0
@@ -2047,9 +2049,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66-gregg</name>
+		<name>66: Frankford / Knights - Frankford TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.02</description>
+		<description>Branch: to Gregg St<br/>Agency: pa-septa<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-75.005394,40.053917,0
@@ -2090,9 +2092,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66-cottman</name>
+		<name>66: Frankford / Knights - Frankford TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.02</description>
+		<description>Branch: to Cottman Av<br/>Agency: pa-septa<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-75.040538,40.036939,0
@@ -2114,9 +2116,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66-knights</name>
+		<name>66: Frankford / Knights - Frankford TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.02</description>
+		<description>Branch: to Knights Rd<br/>Agency: pa-septa<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-74.981369,40.064401,0
@@ -2168,9 +2170,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: 4th / Walnut - Andorra</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-75.239696,40.063763,0
@@ -2233,9 +2235,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34</name>
+		<name>34: 13th / Market - 61st / Baltimore</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-75.246342,39.943963,0
@@ -2271,9 +2273,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28</name>
+		<name>28: Torresdale / Cottman - Fern Rock TC</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.24</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.24</description>
 		<LineString> 
 			<coordinates>
 			-75.036178,40.030026,0
@@ -2384,9 +2386,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: 13th / Market - 63rd / Malvern</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-75.245957,39.983838,0
@@ -2428,9 +2430,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>126-central</name>
+		<name>126: Lawrence Park - 69th St TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.52</description>
+		<description>Branch: via South Central Blvd<br/>Agency: pa-septa<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-75.259677,39.96217,0
@@ -2483,9 +2485,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>126-abbott</name>
+		<name>126: Lawrence Park - 69th St TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.44</description>
+		<description>Branch: via Abbott Dr<br/>Agency: pa-septa<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-75.259677,39.96217,0
@@ -2534,9 +2536,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>128</name>
+		<name>128: Neshaminy Mall - Oxford Valley Mall</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 4.62</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 4.62</description>
 		<LineString> 
 			<coordinates>
 			-74.881256,40.182396,0
@@ -2629,9 +2631,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201</name>
+		<name>201: Fort Washington Office Ctr - Fort Washington Station</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-75.21193,40.136032,0
@@ -2653,9 +2655,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>133</name>
+		<name>133: Frankford / Knights - Bensalem</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.71</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.71</description>
 		<LineString> 
 			<coordinates>
 			-74.981369,40.064401,0
@@ -2686,9 +2688,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67</name>
+		<name>67: Philadelphia Mills and Bustleton - Frankford TC</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.32</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.32</description>
 		<LineString> 
 			<coordinates>
 			-74.96447,40.085833,0
@@ -2800,9 +2802,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60</name>
+		<name>60: 35th / Allegheny - Richmond / Westmoreland</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-75.099295,39.981209,0
@@ -2861,9 +2863,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19</name>
+		<name>19: Torresdale - Frankford TC</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.14</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.14</description>
 		<LineString> 
 			<coordinates>
 			-74.983927,40.054325,0
@@ -2950,9 +2952,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53-g</name>
+		<name>53: Wayne / Carpenter - Broad or G / Hunting Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.21</description>
+		<description>Branch: to G / Hunting Park<br/>Agency: pa-septa<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-75.200113,40.044257,0
@@ -3015,9 +3017,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53-broad</name>
+		<name>53: Wayne / Carpenter - Broad or G / Hunting Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.48</description>
+		<description>Branch: to Broad / Hunting Park<br/>Agency: pa-septa<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-75.200113,40.044257,0
@@ -3073,9 +3075,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: 30th St - 69th St TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-75.258613,39.96282,0
@@ -3144,9 +3146,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Broad / Pattison - Fern Rock TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-75.139313,40.041436,0
@@ -3255,9 +3257,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: 33rd / Cecil B Moore - Frankford TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-75.078114,40.024322,0
@@ -3336,9 +3338,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2-wayne-junction</name>
+		<name>2: 20th / Johnston - Pulaski / Hunting Park or Wayne Jct</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.12</description>
+		<description>Branch: to Wayne Jct<br/>Agency: pa-septa<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-75.181094,39.916621,0
@@ -3433,9 +3435,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2-hunting-park</name>
+		<name>2: 20th / Johnston - Pulaski / Hunting Park or Wayne Jct</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.15</description>
+		<description>Branch: to Pulaski / Hunting Park<br/>Agency: pa-septa<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-75.181094,39.916621,0
@@ -3527,9 +3529,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-parx</name>
+		<name>1: Parx Casino to 54th / City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.14</description>
+		<description>Branch: to Parx Casino<br/>Agency: pa-septa<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-75.235135,39.99696,0
@@ -3636,9 +3638,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-decatur-parx</name>
+		<name>1: Parx Casino to 54th / City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.38</description>
+		<description>Branch: to Park Casino via Decatur Rd<br/>Agency: pa-septa<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-75.235135,39.99696,0
@@ -3770,9 +3772,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-decatur</name>
+		<name>1: Parx Casino to 54th / City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.31</description>
+		<description>Branch: to Decatur Rd<br/>Agency: pa-septa<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-75.235135,39.99696,0
@@ -3882,9 +3884,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blvd Direct</name>
+		<name>Boulevard Direct</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-75.077788,40.023402,0
@@ -3901,9 +3903,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>93</name>
+		<name>93: Pottstown - Norristown TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-75.344818,40.11345,0
@@ -3986,9 +3988,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>79</name>
+		<name>79: Columbus Commons - 29th / Snyder</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-75.194395,39.92749,0
@@ -4032,9 +4034,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: Front / Market - Frankford TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-75.078866,40.022878,0
@@ -4103,9 +4105,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>117</name>
+		<name>117: Penn State - I-95 Industrial Park</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.64</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.64</description>
 		<LineString> 
 			<coordinates>
 			-75.407759,39.846826,0
@@ -4210,9 +4212,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>98</name>
+		<name>98: Blue Bell - Norristown TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-75.344818,40.11345,0
@@ -4252,9 +4254,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90</name>
+		<name>90: Plymouth Meeting Mall - Arrott TC</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 3.68</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 3.68</description>
 		<LineString> 
 			<coordinates>
 			-75.344818,40.11345,0
@@ -4317,9 +4319,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>150</name>
+		<name>150: Park Casino - Plymouth Meeting Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-75.284034,40.117196,0
@@ -4334,9 +4336,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>132</name>
+		<name>132: Telford - Montgomery Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-75.245488,40.235047,0
@@ -4398,9 +4400,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>129</name>
+		<name>129: Franford / Knights - Oxford Valley Mall</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.52</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.52</description>
 		<LineString> 
 			<coordinates>
 			-74.981369,40.064401,0
@@ -4507,9 +4509,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>107</name>
+		<name>107: Lawrence Park - 69th St TC</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 3.25</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 3.25</description>
 		<LineString> 
 			<coordinates>
 			-75.258284,39.962079,0
@@ -4617,9 +4619,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88-bethayres</name>
+		<name>88: Bethayres or Frankford / Gregg - Frankford TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.97</description>
+		<description>Branch: to Bethayres<br/>Agency: pa-septa<br/>EDI: 1.97</description>
 		<LineString> 
 			<coordinates>
 			-75.077949,40.024223,0
@@ -4704,9 +4706,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88-gregg</name>
+		<name>88: Bethayres or Frankford / Gregg - Frankford TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.51</description>
+		<description>Branch: to Frankford / Gregg<br/>Agency: pa-septa<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-75.077949,40.024223,0
@@ -4766,9 +4768,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>84</name>
+		<name>84: Bustleton / County Line - Frankford TC</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.16</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.16</description>
 		<LineString> 
 			<coordinates>
 			-75.076994,40.023801,0
@@ -4911,9 +4913,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68</name>
+		<name>68: Broad / Oregon - UPS or 69th St TC</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 3.73</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 3.73</description>
 		<LineString> 
 			<coordinates>
 			-75.171603,39.916762,0
@@ -5007,9 +5009,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59</name>
+		<name>59: Castor / Bustleton - Arrott TC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-75.084202,40.016869,0
@@ -5053,9 +5055,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89</name>
+		<name>89: Front / Dauphin - Arrott TC</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-septa<br/>EDI: 2.95</description>
+		<description>Branch: Main<br/>Agency: pa-septa<br/>EDI: 2.95</description>
 		<LineString> 
 			<coordinates>
 			-75.084202,40.016869,0

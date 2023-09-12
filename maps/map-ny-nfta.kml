@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1-A</name>
+		<name>1: William</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-nfta<br/>EDI: 1.23</description>
+		<description>Branch: A: Appletree Business Park<br/>Agency: ny-nfta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-78.872411,42.883348,0
@@ -116,9 +116,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: William</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-nfta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ny-nfta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-78.872411,42.883348,0
@@ -164,9 +164,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Rail</name>
+		<name>Metro Rail</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-nfta<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: ny-nfta<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-78.820253,42.954409,0

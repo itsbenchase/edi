@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1-mo</name>
+		<name>1: Gold</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mo-metro<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-90.308863,38.646948,0
@@ -84,9 +84,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1-il</name>
+		<name>1: Main St - State St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mo-metro<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-89.974612,38.521699,0
@@ -237,9 +237,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mo-metro<br/>EDI: 1.44</description>
+		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-90.319436,38.592869,0
@@ -271,9 +271,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: mo-metro<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-90.3646,38.741219,0

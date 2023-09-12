@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Warwick-Wallkill</name>
+		<name>Warwick-Wallkill Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: ny-orange<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-74.296041,41.223303,0
@@ -68,9 +68,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Highland Falls</name>
+		<name>Highland Falls Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: ny-orange<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-73.986909,41.331524,0
@@ -84,7 +84,7 @@
 	<Placemark> 
 		<name>Newburgh Crosstown</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: ny-orange<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-74.042275,41.435801,0
@@ -104,9 +104,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Warwick-sunday</name>
+		<name>Warwick Line</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 2.72</description>
+		<description>Branch: Sunday<br/>Agency: ny-orange<br/>EDI: 2.72</description>
 		<LineString> 
 			<coordinates>
 			-74.337767,41.251225,0
@@ -136,9 +136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Warwick-weekday</name>
+		<name>Warwick Line</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 2.56</description>
+		<description>Branch: Weekday<br/>Agency: ny-orange<br/>EDI: 2.56</description>
 		<LineString> 
 			<coordinates>
 			-74.337767,41.251225,0
@@ -170,7 +170,7 @@
 	<Placemark> 
 		<name>Newburgh Broadway</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 2.21</description>
+		<description>Branch: Main<br/>Agency: ny-orange<br/>EDI: 2.21</description>
 		<LineString> 
 			<coordinates>
 			-74.010754,41.500018,0
@@ -190,7 +190,7 @@
 	<Placemark> 
 		<name>Main Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-orange<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: ny-orange<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-74.417859,41.448127,0

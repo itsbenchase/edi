@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>n1-jamaica</name>
+		<name>n1: Jamaica / Elmont - Hewlett</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-nice<br/>EDI: 1.88</description>
+		<description>Branch: to Jamaica<br/>Agency: ny-nice<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-73.689811,40.647133,0
@@ -123,9 +123,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n1</name>
+		<name>n1: Jamaica / Elmont - Hewlett</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ny-nice<br/>EDI: 1.83</description>
+		<description>Branch: to Elmont<br/>Agency: ny-nice<br/>EDI: 1.83</description>
 		<LineString> 
 			<coordinates>
 			-73.689811,40.647133,0
@@ -176,9 +176,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n27</name>
+		<name>n27: Hempstead - Glen Cove</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ny-nice<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -254,9 +254,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n58</name>
+		<name>n58: Great Neck - Kings Point</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ny-nice<br/>EDI: 2.44</description>
+		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 2.44</description>
 		<LineString> 
 			<coordinates>
 			-73.726357,40.787478,0

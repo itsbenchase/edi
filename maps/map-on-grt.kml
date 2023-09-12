@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Huron</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: on-grt<br/>EDI: 3.27</description>
+		<description>Branch: Main<br/>Agency: on-grt<br/>EDI: 3.27</description>
 		<LineString> 
 			<coordinates>
 			-80.466746,43.426411,0
@@ -100,9 +100,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: Lakeshore</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: on-grt<br/>EDI: 3.11</description>
+		<description>Branch: Main<br/>Agency: on-grt<br/>EDI: 3.11</description>
 		<LineString> 
 			<coordinates>
 			-80.539424,43.474441,0

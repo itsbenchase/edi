@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Del Amo - CSUDH</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-lbt<br/>EDI: 1.89</description>
+		<description>Branch: Main<br/>Agency: ca-lbt<br/>EDI: 1.89</description>
 		<LineString> 
 			<coordinates>
 			-118.211259,33.848161,0

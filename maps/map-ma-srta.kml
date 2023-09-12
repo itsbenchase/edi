@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>NB-21</name>
+		<name>New Bedford 21: North End Shuttle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-70.942289,41.675664,0
@@ -81,9 +81,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-11-in</name>
+		<name>New Bedford 11: Fairhaven</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.89</description>
+		<description>Branch: Inbound<br/>Agency: ma-srta<br/>EDI: 1.89</description>
 		<LineString> 
 			<coordinates>
 			-70.879291,41.640227,0
@@ -110,9 +110,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-11-out</name>
+		<name>New Bedford 11: Fairhaven</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 2.77</description>
+		<description>Branch: Outbound<br/>Agency: ma-srta<br/>EDI: 2.77</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -152,9 +152,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-10-in</name>
+		<name>New Bedford 10: Dartmouth Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.79</description>
+		<description>Branch: Inbound<br/>Agency: ma-srta<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-70.987689,41.672621,0
@@ -191,9 +191,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-10-out</name>
+		<name>New Bedford 10: Dartmouth Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.43</description>
+		<description>Branch: Outbound<br/>Agency: ma-srta<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -226,9 +226,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-6-out</name>
+		<name>New Bedford 6: Shawmut</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.56</description>
+		<description>Branch: Outbound<br/>Agency: ma-srta<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -263,9 +263,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-9</name>
+		<name>New Bedford 9: Intercity</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -350,9 +350,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-8</name>
+		<name>New Bedford 8: Mt. Pleasant</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -385,9 +385,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-6-in</name>
+		<name>New Bedford 6: Shawmut</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.96</description>
+		<description>Branch: Inbound<br/>Agency: ma-srta<br/>EDI: 1.96</description>
 		<LineString> 
 			<coordinates>
 			-70.963073,41.646651,0
@@ -427,9 +427,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-5</name>
+		<name>New Bedford 5: South Central</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -443,9 +443,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-4-NB</name>
+		<name>New Bedford 4: Ashley Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.42</description>
+		<description>Branch: NB: New Bedford Business Park<br/>Agency: ma-srta<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -500,9 +500,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-4</name>
+		<name>New Bedford 4: Ashley Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -553,9 +553,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-3</name>
+		<name>New Bedford 3: Dartmouth St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.77</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.77</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -597,9 +597,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-2-B</name>
+		<name>New Bedford 2: Lund's Corner</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.35</description>
+		<description>Branch: B: via Belleville Ave<br/>Agency: ma-srta<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -638,9 +638,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-2</name>
+		<name>New Bedford 2: Lund's Corner</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -683,9 +683,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB-1</name>
+		<name>New Bedford 1: Fort Rodman</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -722,9 +722,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-14</name>
+		<name>Fall River 14: Swansea Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -749,9 +749,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-10</name>
+		<name>Fall River 10: Rodman St</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 3.59</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 3.59</description>
 		<LineString> 
 			<coordinates>
 			-71.137859,41.693909,0
@@ -785,9 +785,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-9</name>
+		<name>Fall River 9: Bedford St</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 2.71</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 2.71</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -821,9 +821,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-8</name>
+		<name>Fall River 8: BCC / Durfee HS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -849,9 +849,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-7</name>
+		<name>Fall River 7: Bay St</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -886,9 +886,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-6</name>
+		<name>Fall River 6: Pleasant St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -906,9 +906,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-5-A</name>
+		<name>Fall River 5: Stafford Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.48</description>
+		<description>Branch: A: via Atlantis Charter School<br/>Agency: ma-srta<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-71.144751,41.670164,0
@@ -936,9 +936,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-5-T</name>
+		<name>Fall River 5: Stafford Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.32</description>
+		<description>Branch: T: via Tiverton Casino<br/>Agency: ma-srta<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-71.157631,41.662117,0
@@ -970,9 +970,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-5</name>
+		<name>Fall River 5: Stafford Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-71.15353,41.664296,0
@@ -1003,9 +1003,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-4</name>
+		<name>Fall River 4: Robeson St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1045,9 +1045,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-3</name>
+		<name>Fall River 3: Laurel St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1075,9 +1075,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-2-SS</name>
+		<name>Fall River 2: North Main</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.65</description>
+		<description>Branch: SS: via Stop & Shop<br/>Agency: ma-srta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1120,9 +1120,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-2-C</name>
+		<name>Fall River 2: North Main</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.65</description>
+		<description>Branch: C: via Commerce Dr<br/>Agency: ma-srta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1168,9 +1168,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-2</name>
+		<name>Fall River 2: North Main</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1214,9 +1214,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FR-1</name>
+		<name>Fall River 1: South Main</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ma-srta<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-71.180684,41.674219,0

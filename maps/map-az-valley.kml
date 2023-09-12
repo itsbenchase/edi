@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Washington St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: az-valley<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: az-valley<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-112.073147,33.451297,0
@@ -89,9 +89,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>0A-dobbins</name>
+		<name>0A: South Central Shuttle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: az-valley<br/>EDI: 1.13</description>
+		<description>Branch: to Dobbins Rd<br/>Agency: az-valley<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-112.073504,33.451514,0
@@ -128,9 +128,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>0A-baseline</name>
+		<name>0A: South Central Shuttle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: az-valley<br/>EDI: 1.0</description>
+		<description>Branch: to Baseline Rd<br/>Agency: az-valley<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-112.073504,33.451514,0
@@ -158,9 +158,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>0</name>
+		<name>0: Central Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: az-valley<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: az-valley<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-112.073736,33.452902,0

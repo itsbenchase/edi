@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>Silver</name>
+		<name>Silver Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-80.017787,40.44789,0
@@ -91,9 +91,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.38</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-80.017787,40.44789,0
@@ -131,9 +131,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-80.017787,40.44789,0
@@ -164,9 +164,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Y49</name>
+		<name>Y49: Prospect Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.38</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-79.999643,40.441801,0
@@ -229,9 +229,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Y47</name>
+		<name>Y47: Curry Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-79.999643,40.441801,0
@@ -296,9 +296,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Y46</name>
+		<name>Y46: Elizabeth Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.38</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-79.999643,40.441801,0
@@ -383,9 +383,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Y45</name>
+		<name>Y45: Baldwin Manor Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-79.999643,40.441801,0
@@ -442,9 +442,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Y1</name>
+		<name>Y1: Large Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.999643,40.441801,0
@@ -479,9 +479,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P78</name>
+		<name>P78: Oakmont Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -563,9 +563,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P76</name>
+		<name>P76: Lincoln Highway Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.66</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.66</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -625,9 +625,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P3</name>
+		<name>P3: East Busway - Oakland</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-79.965235,40.437773,0
@@ -655,9 +655,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P2</name>
+		<name>P2: East Busway Short</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-79.997611,40.441684,0
@@ -674,9 +674,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P1</name>
+		<name>P1: East Busway - All Stops</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.36</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-79.997611,40.441684,0
@@ -695,9 +695,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G2</name>
+		<name>G2: West Busway</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-79.994316,40.443292,0
@@ -718,9 +718,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>93</name>
+		<name>93: Lawrenceville - Hazelwood</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.9</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.9</description>
 		<LineString> 
 			<coordinates>
 			-79.926369,40.408001,0
@@ -812,9 +812,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91-va</name>
+		<name>91: Butler St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.42</description>
+		<description>Branch: to VA Hospital<br/>Agency: pa-prt<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-80.000347,40.443323,0
@@ -893,9 +893,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91-ridc</name>
+		<name>91: Butler St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.24</description>
+		<description>Branch: to RIDC Industrial Park<br/>Agency: pa-prt<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-80.000347,40.443323,0
@@ -976,9 +976,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88</name>
+		<name>88: Penn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-80.000347,40.443323,0
@@ -1021,9 +1021,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87-S</name>
+		<name>87: Friendship</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.96</description>
+		<description>Branch: S: Stanton Heights<br/>Agency: pa-prt<br/>EDI: 1.96</description>
 		<LineString> 
 			<coordinates>
 			-80.000347,40.443323,0
@@ -1099,9 +1099,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87-M</name>
+		<name>87: Friendship</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.1</description>
+		<description>Branch: M: Morningside<br/>Agency: pa-prt<br/>EDI: 2.1</description>
 		<LineString> 
 			<coordinates>
 			-80.000347,40.443323,0
@@ -1175,9 +1175,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>86</name>
+		<name>86: Liberty</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-80.000347,40.443323,0
@@ -1256,9 +1256,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83</name>
+		<name>83: Bedford Hill</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 4.14</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 4.14</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -1322,9 +1322,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>81</name>
+		<name>81: Oak Hill</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 3.24</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 3.24</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -1377,9 +1377,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P17</name>
+		<name>P17: Lincoln Park Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -1453,9 +1453,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>82</name>
+		<name>82: Lincoln</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -1528,9 +1528,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>79-giant-eagle</name>
+		<name>79: East Hills</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.33</description>
+		<description>Branch: to Giant Eagle<br/>Agency: pa-prt<br/>EDI: 2.33</description>
 		<LineString> 
 			<coordinates>
 			-79.865005,40.462338,0
@@ -1576,9 +1576,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>79</name>
+		<name>79: East Hills</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 4.23</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 4.23</description>
 		<LineString> 
 			<coordinates>
 			-79.888966,40.472931,0
@@ -1657,9 +1657,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P16-L</name>
+		<name>P16: Penn Hills Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.27</description>
+		<description>Branch: L: via Leechburg Rd<br/>Agency: pa-prt<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -1722,9 +1722,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P16-L-harmar</name>
+		<name>P16: Penn Hills Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.79</description>
+		<description>Branch: L: via Leechburg Rd to Harmar<br/>Agency: pa-prt<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -1799,9 +1799,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P16-U</name>
+		<name>P16: Penn Hills Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.19</description>
+		<description>Branch: U: via Unity-Trestle Rd<br/>Agency: pa-prt<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -1862,9 +1862,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P16-U-harmar</name>
+		<name>P16: Penn Hills Flyer</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.07</description>
+		<description>Branch: U: via Unity-Trestle Rd to Harmar<br/>Agency: pa-prt<br/>EDI: 2.07</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -1958,9 +1958,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77-S</name>
+		<name>77: Penn Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.46</description>
+		<description>Branch: S: via Saltsburg Rd<br/>Agency: pa-prt<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -2086,9 +2086,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77-L</name>
+		<name>77: Penn Hills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.44</description>
+		<description>Branch: L: via Leechburg Rd<br/>Agency: pa-prt<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -2213,9 +2213,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75</name>
+		<name>75: Ellsworth</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.54</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.54</description>
 		<LineString> 
 			<coordinates>
 			-79.962356,40.424271,0
@@ -2293,9 +2293,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74</name>
+		<name>74: Homewood - Squirrel Hill</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 3.62</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 3.62</description>
 		<LineString> 
 			<coordinates>
 			-79.9271,40.461603,0
@@ -2392,9 +2392,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71D</name>
+		<name>71D: Hamilton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -2467,9 +2467,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71B</name>
+		<name>71B: Highland Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -2535,9 +2535,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71C</name>
+		<name>71C: Point Breeze</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -2610,9 +2610,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71A</name>
+		<name>71A: Negley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -2678,9 +2678,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71</name>
+		<name>71: Edgewood Town Center</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.44</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.44</description>
 		<LineString> 
 			<coordinates>
 			-79.888607,40.446405,0
@@ -2738,9 +2738,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P71</name>
+		<name>P71: Swissvale Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.75</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-79.997611,40.441684,0
@@ -2800,9 +2800,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P68</name>
+		<name>P68: Braddock Hills Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-79.997611,40.441684,0
@@ -2899,9 +2899,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P67</name>
+		<name>P67: Monroeville Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -2943,9 +2943,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P12</name>
+		<name>P12: Holiday Park Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -2988,9 +2988,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67</name>
+		<name>67: Monroeville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-80.004448,40.440689,0
@@ -3090,9 +3090,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65</name>
+		<name>65: Squirrel Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-80.004448,40.440689,0
@@ -3128,9 +3128,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64</name>
+		<name>64: Lawrenceville - Waterfront</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.6</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-79.963592,40.467498,0
@@ -3195,9 +3195,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61D</name>
+		<name>61D: Murray</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -3257,9 +3257,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61C</name>
+		<name>61C: McKeesport - Homestead</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -3347,9 +3347,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61B</name>
+		<name>61B: Braddock - Swissvale</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -3426,9 +3426,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61A</name>
+		<name>61A: North Braddock</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-80.000658,40.440792,0
@@ -3524,9 +3524,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P7</name>
+		<name>P7: McKeesport Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -3581,9 +3581,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60</name>
+		<name>60: McKeesport - Walnut</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.32</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.32</description>
 		<LineString> 
 			<coordinates>
 			-79.838546,40.346224,0
@@ -3637,9 +3637,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58</name>
+		<name>58: Greenfield</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.82</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.82</description>
 		<LineString> 
 			<coordinates>
 			-80.004786,40.439575,0
@@ -3707,9 +3707,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57</name>
+		<name>57: Hazelwood</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-80.004786,40.439575,0
@@ -3759,9 +3759,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56</name>
+		<name>56: Lincoln Place</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-80.004786,40.439575,0
@@ -3843,9 +3843,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Glassport</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 4.02</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 4.02</description>
 		<LineString> 
 			<coordinates>
 			-79.8235,40.387651,0
@@ -3962,9 +3962,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54-D</name>
+		<name>54: North Side - Oakland - South Side</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 3.2</description>
+		<description>Branch: D: Bon Air<br/>Agency: pa-prt<br/>EDI: 3.2</description>
 		<LineString> 
 			<coordinates>
 			-80.006447,40.452023,0
@@ -4056,9 +4056,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54-C</name>
+		<name>54: North Side - Oakland - South Side</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 4.99</description>
+		<description>Branch: C: South Hills Junction<br/>Agency: pa-prt<br/>EDI: 4.99</description>
 		<LineString> 
 			<coordinates>
 			-80.006447,40.452023,0
@@ -4145,9 +4145,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53L</name>
+		<name>53L: Homestead Park Limited</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.54</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.54</description>
 		<LineString> 
 			<coordinates>
 			-80.004786,40.439575,0
@@ -4241,9 +4241,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53</name>
+		<name>53: Homestead Park</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.59</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.59</description>
 		<LineString> 
 			<coordinates>
 			-79.916568,40.409498,0
@@ -4309,9 +4309,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52L</name>
+		<name>52L: Homeville Limited</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-80.004786,40.439575,0
@@ -4391,9 +4391,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51L</name>
+		<name>51L: Carrick Limited</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-79.99826,40.441593,0
@@ -4427,9 +4427,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51-west-mifflin</name>
+		<name>51: Carrick</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.9</description>
+		<description>Branch: to West Mifflin<br/>Agency: pa-prt<br/>EDI: 1.9</description>
 		<LineString> 
 			<coordinates>
 			-79.99826,40.441593,0
@@ -4509,9 +4509,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51-brentwood</name>
+		<name>51: Carrick</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.39</description>
+		<description>Branch: to Brentwood Loop<br/>Agency: pa-prt<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-79.99826,40.441593,0
@@ -4564,9 +4564,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89</name>
+		<name>89: Garfield Commons</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 5.89</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 5.89</description>
 		<LineString> 
 			<coordinates>
 			-79.9271,40.461603,0
@@ -4603,9 +4603,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48</name>
+		<name>48: Arlington</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 3.97</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 3.97</description>
 		<LineString> 
 			<coordinates>
 			-79.99826,40.441593,0
@@ -4657,9 +4657,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44-weekend</name>
+		<name>44: Knoxville</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.3</description>
+		<description>Branch: Weekend<br/>Agency: pa-prt<br/>EDI: 2.3</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -4708,9 +4708,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44</name>
+		<name>44: Knoxville</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.2</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.2</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -4786,9 +4786,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43</name>
+		<name>43: Bailey</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.99</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.99</description>
 		<LineString> 
 			<coordinates>
 			-79.99826,40.441593,0
@@ -4827,9 +4827,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40</name>
+		<name>40: Mount Washington</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.71</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.71</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -4879,9 +4879,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39</name>
+		<name>39: Brookline</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.65</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -4928,9 +4928,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41</name>
+		<name>41: Bower Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.32</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-79.99826,40.441593,0
@@ -5010,9 +5010,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38-M</name>
+		<name>38: Green Tree</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.65</description>
+		<description>Branch: M: Mount Lebanon<br/>Agency: pa-prt<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-80.003964,40.441042,0
@@ -5062,9 +5062,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38-G</name>
+		<name>38: Green Tree</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.31</description>
+		<description>Branch: G: Chartiers Valley Shopping Ctr<br/>Agency: pa-prt<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-80.003964,40.441042,0
@@ -5126,9 +5126,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36</name>
+		<name>36: Banksville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-80.003964,40.441042,0
@@ -5179,9 +5179,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G31</name>
+		<name>G31: Bridgeville Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -5229,9 +5229,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Bridgeville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -5305,9 +5305,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28X</name>
+		<name>28X: Airport Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-79.910881,40.455505,0
@@ -5354,9 +5354,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29</name>
+		<name>29: Robinson</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -5430,9 +5430,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27</name>
+		<name>27: Fairywood</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.07</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.07</description>
 		<LineString> 
 			<coordinates>
 			-80.004413,40.44265,0
@@ -5492,9 +5492,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26</name>
+		<name>26: Chartiers</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.73</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.73</description>
 		<LineString> 
 			<coordinates>
 			-80.004413,40.44265,0
@@ -5548,9 +5548,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G3</name>
+		<name>G3: Moon Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-79.994316,40.443292,0
@@ -5575,9 +5575,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21-M</name>
+		<name>21: Coraopolis</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.22</description>
+		<description>Branch: M: Moon Park and Ride<br/>Agency: pa-prt<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-80.004108,40.442445,0
@@ -5646,9 +5646,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21-S</name>
+		<name>21: Coraopolis</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.16</description>
+		<description>Branch: S: Sewickley<br/>Agency: pa-prt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-80.004108,40.442445,0
@@ -5716,9 +5716,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24</name>
+		<name>24: West Park</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.53</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.53</description>
 		<LineString> 
 			<coordinates>
 			-80.004108,40.442445,0
@@ -5773,9 +5773,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: McCoy</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-80.004108,40.442445,0
@@ -5817,9 +5817,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: Kennedy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-80.004108,40.442445,0
@@ -5876,9 +5876,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P13</name>
+		<name>P13: Mount Royal Flyer</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.99</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.99</description>
 		<LineString> 
 			<coordinates>
 			-79.999766,40.442537,0
@@ -5949,9 +5949,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Mount Royal</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 3.05</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 3.05</description>
 		<LineString> 
 			<coordinates>
 			-79.999766,40.442537,0
@@ -6061,9 +6061,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Troy Hill</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.64</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.64</description>
 		<LineString> 
 			<coordinates>
 			-79.999766,40.442537,0
@@ -6130,9 +6130,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19L</name>
+		<name>19L: Emsworth Limited</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -6184,9 +6184,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: Brighton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-80.001567,40.442021,0
@@ -6240,9 +6240,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: Charles</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -6292,9 +6292,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Spring Garden</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-80.001567,40.442021,0
@@ -6338,9 +6338,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Spring Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.44</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -6387,9 +6387,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Manchester</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 2.54</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 2.54</description>
 		<LineString> 
 			<coordinates>
 			-80.019387,40.447641,0
@@ -6421,9 +6421,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Shadeland</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.81</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.81</description>
 		<LineString> 
 			<coordinates>
 			-80.001567,40.442021,0
@@ -6479,9 +6479,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Ohio Valley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-80.019162,40.447675,0
@@ -6558,9 +6558,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: Bellevue</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.55</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.55</description>
 		<LineString> 
 			<coordinates>
 			-80.001567,40.442021,0
@@ -6636,9 +6636,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>O12</name>
+		<name>O12: McKnight Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-79.998105,40.442835,0
@@ -6674,9 +6674,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>O5</name>
+		<name>O5: Thompson Run Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-79.99662,40.442791,0
@@ -6757,9 +6757,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12</name>
+		<name>12: McKnight</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-79.998481,40.443888,0
@@ -6826,9 +6826,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>O1</name>
+		<name>O1: Ross Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-79.998105,40.442835,0
@@ -6841,9 +6841,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Perrysville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-80.00009,40.44332,0
@@ -6910,9 +6910,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P10</name>
+		<name>P10: Allegheny Valley Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-80.00499,40.441341,0
@@ -7014,9 +7014,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Freeport Road</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-79.992195,40.443968,0
@@ -7136,9 +7136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P69</name>
+		<name>P69: Trafford Flyer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-80.002082,40.441802,0
@@ -7215,9 +7215,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69</name>
+		<name>69: Trafford</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-80.004448,40.440689,0
@@ -7337,9 +7337,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59</name>
+		<name>59: Mon Valley</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 4.33</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 4.33</description>
 		<LineString> 
 			<coordinates>
 			-79.94588,40.336288,0
@@ -7531,9 +7531,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11</name>
+		<name>11: Fineview</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-prt<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: pa-prt<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-79.992052,40.444022,0

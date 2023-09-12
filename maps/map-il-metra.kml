@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>UP-W</name>
+		<name>Union Pacific West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -79,9 +79,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>UP-NW-mchenry</name>
+		<name>Union Pacific Northwest</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.09</description>
+		<description>Branch: McHenry<br/>Agency: il-metra<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -107,9 +107,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>UP-NW-harvard</name>
+		<name>Union Pacific Northwest</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.0</description>
+		<description>Branch: Harvard<br/>Agency: il-metra<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -137,9 +137,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>UP-N</name>
+		<name>Union Pacific North</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -172,9 +172,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SWS</name>
+		<name>Southwest Service</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -194,9 +194,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>RI-joliet</name>
+		<name>Rock Island</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.18</description>
+		<description>Branch: Joliet<br/>Agency: il-metra<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-87.632222,41.876389,0
@@ -217,9 +217,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>RI-blue</name>
+		<name>Rock Island</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.04</description>
+		<description>Branch: Blue Island<br/>Agency: il-metra<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-87.632222,41.876389,0
@@ -241,9 +241,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>RI-all</name>
+		<name>Rock Island</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.2</description>
+		<description>Branch: All Stops<br/>Agency: il-metra<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-87.632222,41.876389,0
@@ -274,9 +274,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NCS</name>
+		<name>North Central Service</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -301,9 +301,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MD-W</name>
+		<name>Milwaukee District West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -332,9 +332,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MD-N</name>
+		<name>Milwaukee District North</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -363,9 +363,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>ME-UP</name>
+		<name>Metra Electric</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.04</description>
+		<description>Branch: University Park<br/>Agency: il-metra<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0
@@ -405,9 +405,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>ME-SC</name>
+		<name>Metra Electric</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.09</description>
+		<description>Branch: South Chicago<br/>Agency: il-metra<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0
@@ -432,9 +432,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>ME-BI</name>
+		<name>Metra Electric</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.15</description>
+		<description>Branch: Blue Island<br/>Agency: il-metra<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0
@@ -469,9 +469,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>HC</name>
+		<name>Heritage Corridor</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -487,7 +487,7 @@
 	<Placemark> 
 		<name>BNSF</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: il-metra<br/>EDI: 1.03</description>
+		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0

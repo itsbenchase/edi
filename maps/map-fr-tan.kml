@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>66</name>
+		<name>66: Babinière - Ecole Centrale-Audencia</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: fr-tan<br/>EDI: 1.9</description>
+		<description>Branch: Main<br/>Agency: fr-tan<br/>EDI: 1.9</description>
 		<LineString> 
 			<coordinates>
 			-1.551005,47.248776,0
@@ -68,7 +68,7 @@
 	<Placemark> 
 		<name>109</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: fr-tan<br/>EDI: 1.85</description>
+		<description>Branch: Main<br/>Agency: fr-tan<br/>EDI: 1.85</description>
 		<LineString> 
 			<coordinates>
 			-1.591604,47.243257,0
@@ -94,9 +94,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>81</name>
+		<name>81: Mendès France - Bellevue - Gare Maritime</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: fr-tan<br/>EDI: 5.26</description>
+		<description>Branch: Main<br/>Agency: fr-tan<br/>EDI: 5.26</description>
 		<LineString> 
 			<coordinates>
 			-1.573349,47.20704,0

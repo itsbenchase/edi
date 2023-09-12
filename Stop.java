@@ -10,6 +10,8 @@ public class Stop
   private double lon; // stop longitude
   private int order; // order in line
   private String lineEDI; // line stop is on
+  private String lineName; // name of line (not code)
+  private String branch; // branch of the line
   private double edi; // edi of a route, only used in FullMap and AgencyMap
   private ArrayList<String> line; // not used in EDI (Fixing Fare Zones only)
 
@@ -56,6 +58,13 @@ public class Stop
   {
     lineEDI = l;
     edi = e;
+  }
+  public Stop(String l, double e, String n, String b) // in FullMap and AgencyMap
+  {
+    lineEDI = l;
+    edi = e;
+    lineName = n;
+    branch = b;
   }
 
   public void setID(String i)
@@ -121,6 +130,16 @@ public class Stop
   public String getLineEDI()
   {
     return lineEDI;
+  }
+
+  public String getLineName()
+  {
+    return lineName;
+  }
+
+  public String getBranch()
+  {
+    return branch;
   }
 
   public double getEdi()

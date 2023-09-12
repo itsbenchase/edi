@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>29</name>
+		<name>29: Mall Station - College Station</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.95</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.95</description>
 		<LineString> 
 			<coordinates>
 			-122.213638,47.908085,0
@@ -128,9 +128,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18</name>
+		<name>18: Everett Station - Mukilteo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.48</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-122.197113,47.973289,0
@@ -171,9 +171,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12</name>
+		<name>9: Mall Station - Seaway TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-122.213547,47.907703,0
@@ -204,9 +204,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Everett Station - Airport Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-122.259171,47.890736,0
@@ -258,9 +258,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Mall Station - College Station</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.5</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-122.213638,47.908085,0
@@ -318,9 +318,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Everett Station - Waterfront</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-122.214844,48.000328,0
@@ -339,9 +339,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Everett Station - College Station</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.92</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.92</description>
 		<LineString> 
 			<coordinates>
 			-122.200294,48.005245,0
@@ -369,9 +369,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Everett Station - Seaway TC</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.85</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.85</description>
 		<LineString> 
 			<coordinates>
 			-122.259567,47.930084,0
@@ -415,9 +415,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Mall Station - Mariner P&R</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: wa-everett<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-122.238518,47.879951,0

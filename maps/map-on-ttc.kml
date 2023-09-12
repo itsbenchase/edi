@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>72C</name>
+		<name>72: Pape</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.14</description>
+		<description>Branch: C: Commissioners<br/>Agency: on-ttc<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-79.344974,43.680066,0
@@ -78,9 +78,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72B</name>
+		<name>72: Pape</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.6</description>
+		<description>Branch: B: Union Station<br/>Agency: on-ttc<br/>EDI: 1.6</description>
 		<LineString> 
 			<coordinates>
 			-79.344974,43.680066,0
@@ -118,9 +118,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72A</name>
+		<name>72: Pape</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.32</description>
+		<description>Branch: A: Parliament<br/>Agency: on-ttc<br/>EDI: 1.32</description>
 		<LineString> 
 			<coordinates>
 			-79.344974,43.680066,0
@@ -148,9 +148,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71</name>
+		<name>71: Runnymeade</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-79.494006,43.693949,0
@@ -186,9 +186,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70A</name>
+		<name>70: O'Connor</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.2</description>
+		<description>Branch: A: Eglinton<br/>Agency: on-ttc<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-79.322919,43.684079,0
@@ -223,9 +223,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68B</name>
+		<name>68: Warden</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.02</description>
+		<description>Branch: B: Major Mackenzie<br/>Agency: on-ttc<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-79.274961,43.697766,0
@@ -300,9 +300,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68A</name>
+		<name>68: Warden</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.0</description>
+		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-79.274961,43.697766,0
@@ -358,9 +358,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67B</name>
+		<name>67: Pharmacy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.12</description>
+		<description>Branch: B: Eglinton<br/>Agency: on-ttc<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-79.288543,43.694134,0
@@ -387,9 +387,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67A</name>
+		<name>67: Pharmacy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.06</description>
+		<description>Branch: A: Ellesmere<br/>Agency: on-ttc<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-79.28801,43.691385,0
@@ -434,9 +434,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>510C</name>
+		<name>510: Spadina</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.0</description>
+		<description>Branch: C: King<br/>Agency: on-ttc<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -453,9 +453,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66B</name>
+		<name>66: Prince Edward</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 2.22</description>
+		<description>Branch: B: Lakeshore<br/>Agency: on-ttc<br/>EDI: 2.22</description>
 		<LineString> 
 			<coordinates>
 			-79.495025,43.650311,0
@@ -491,9 +491,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66A</name>
+		<name>66: Prince Edward</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.88</description>
+		<description>Branch: A: Humber Loop<br/>Agency: on-ttc<br/>EDI: 1.88</description>
 		<LineString> 
 			<coordinates>
 			-79.495025,43.650311,0
@@ -521,9 +521,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65</name>
+		<name>65: Parliament</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-79.369136,43.673452,0
@@ -549,9 +549,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64</name>
+		<name>64: Main</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-79.302006,43.688299,0
@@ -568,9 +568,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63B</name>
+		<name>63: Ossington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.27</description>
+		<description>Branch: B: St Clair<br/>Agency: on-ttc<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-79.435844,43.679864,0
@@ -605,9 +605,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63A</name>
+		<name>63: Ossington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.25</description>
+		<description>Branch: A: Eglinton West<br/>Agency: on-ttc<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-79.436493,43.699447,0
@@ -651,9 +651,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62</name>
+		<name>62: Mortimer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-79.357849,43.67715,0
@@ -686,9 +686,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61</name>
+		<name>61: Avenue Road North</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.13</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.424182,43.743614,0
@@ -718,9 +718,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60D</name>
+		<name>60: Steeles West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.13</description>
+		<description>Branch: D: Highway 27<br/>Agency: on-ttc<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.414857,43.780619,0
@@ -783,9 +783,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60B</name>
+		<name>60: Steeles West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.14</description>
+		<description>Branch: B: Martin Grove<br/>Agency: on-ttc<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-79.414857,43.780619,0
@@ -843,9 +843,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60A</name>
+		<name>60: Steeles West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.25</description>
+		<description>Branch: A: Pioneer Village<br/>Agency: on-ttc<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-79.414857,43.780619,0
@@ -880,9 +880,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59</name>
+		<name>59: Maple Leaf</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-79.532567,43.708091,0
@@ -933,9 +933,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57</name>
+		<name>57: Midland</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.08</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-79.300444,43.825065,0
@@ -983,9 +983,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56</name>
+		<name>56: Leadside</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.39</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.39</description>
 		<LineString> 
 			<coordinates>
 			-79.398499,43.70476,0
@@ -1023,9 +1023,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Warren Park</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 2.53</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 2.53</description>
 		<LineString> 
 			<coordinates>
 			-79.495183,43.659921,0
@@ -1049,9 +1049,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54B</name>
+		<name>54: Lawrence East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.17</description>
+		<description>Branch: B: Orton Park<br/>Agency: on-ttc<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-79.399237,43.705532,0
@@ -1125,9 +1125,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54A</name>
+		<name>54: Lawrence East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.09</description>
+		<description>Branch: A: Starspray<br/>Agency: on-ttc<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-79.399237,43.705532,0
@@ -1221,9 +1221,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53B</name>
+		<name>53: Steeles East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.14</description>
+		<description>Branch: B: Markham<br/>Agency: on-ttc<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-79.414746,43.78073,0
@@ -1286,9 +1286,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53A</name>
+		<name>53: Steeles East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.28</description>
+		<description>Branch: A: Staines<br/>Agency: on-ttc<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-79.414746,43.78073,0
@@ -1361,9 +1361,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52G</name>
+		<name>52: Lawrence West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.11</description>
+		<description>Branch: G: Martin Grove<br/>Agency: on-ttc<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-79.444333,43.715545,0
@@ -1413,9 +1413,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52F</name>
+		<name>52: Lawrence West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.0</description>
+		<description>Branch: F: Royal York<br/>Agency: on-ttc<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1463,9 +1463,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52D</name>
+		<name>52: Lawrence West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.1</description>
+		<description>Branch: D: McNaughton<br/>Agency: on-ttc<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1541,9 +1541,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52B</name>
+		<name>52: Lawrence West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.22</description>
+		<description>Branch: B: Westwood<br/>Agency: on-ttc<br/>EDI: 1.22</description>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1627,9 +1627,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52A</name>
+		<name>52: Lawrence West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.02</description>
+		<description>Branch: A: Pearson Airport<br/>Agency: on-ttc<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1693,9 +1693,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51</name>
+		<name>51: Leslie</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-79.358829,43.809161,0
@@ -1757,9 +1757,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50</name>
+		<name>50: Burnhamthorpe</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.25</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-79.580761,43.636821,0
@@ -1786,9 +1786,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49</name>
+		<name>49: Bloor West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-79.580248,43.629667,0
@@ -1812,9 +1812,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48</name>
+		<name>48: Rathburn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.34</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.34</description>
 		<LineString> 
 			<coordinates>
 			-79.511038,43.648282,0
@@ -1853,9 +1853,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47C</name>
+		<name>47: Lansdowne</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.23</description>
+		<description>Branch: C: via Orfus<br/>Agency: on-ttc<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-79.437986,43.640726,0
@@ -1912,9 +1912,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47B</name>
+		<name>47: Lansdowne</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.24</description>
+		<description>Branch: B: via Bridgeland<br/>Agency: on-ttc<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-79.437986,43.640726,0
@@ -1972,9 +1972,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47A</name>
+		<name>47: Lansdowne</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.02</description>
+		<description>Branch: A: Gunn's Loop via St Clair<br/>Agency: on-ttc<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-79.437986,43.640726,0
@@ -2000,9 +2000,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46</name>
+		<name>46: Martin Grove</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-79.607838,43.756665,0
@@ -2064,9 +2064,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45B</name>
+		<name>45: Kipling</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.27</description>
+		<description>Branch: B: Carlingview via Belfield<br/>Agency: on-ttc<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-79.534941,43.638195,0
@@ -2116,9 +2116,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45A</name>
+		<name>45: Kipling</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.0</description>
+		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-79.534941,43.638195,0
@@ -2171,9 +2171,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44</name>
+		<name>44: Kipling South</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-79.535345,43.637851,0
@@ -2199,9 +2199,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43C</name>
+		<name>43: Kennedy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.09</description>
+		<description>Branch: C: Village Green Square<br/>Agency: on-ttc<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-79.263479,43.73266,0
@@ -2227,9 +2227,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43B</name>
+		<name>43: Kennedy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.43</description>
+		<description>Branch: B: Scarborough Center<br/>Agency: on-ttc<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-79.263479,43.73266,0
@@ -2260,9 +2260,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43A</name>
+		<name>43: Kennedy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.1</description>
+		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-79.263479,43.73266,0
@@ -2312,9 +2312,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42C</name>
+		<name>42: Cummer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.26</description>
+		<description>Branch: C: Victoria Park Av<br/>Agency: on-ttc<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-79.414927,43.780786,0
@@ -2352,9 +2352,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42A</name>
+		<name>42: Cummer</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.13</description>
+		<description>Branch: A: Middlefield<br/>Agency: on-ttc<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.414927,43.780786,0
@@ -2418,9 +2418,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41</name>
+		<name>41: Keele</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.14</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-79.508835,43.776839,0
@@ -2487,9 +2487,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40B</name>
+		<name>40: Junction-Dundas West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.18</description>
+		<description>Branch: B: Jane and St Clair<br/>Agency: on-ttc<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-79.491124,43.667174,0
@@ -2512,9 +2512,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40A</name>
+		<name>40: Junction-Dundas West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.31</description>
+		<description>Branch: A: Kipling<br/>Agency: on-ttc<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-79.535511,43.637717,0
@@ -2555,9 +2555,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39C</name>
+		<name>39: Finch East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.42</description>
+		<description>Branch: C: Victoria Park and Gordon Baker<br/>Agency: on-ttc<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-79.415127,43.78127,0
@@ -2595,9 +2595,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39B</name>
+		<name>39: Finch East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.02</description>
+		<description>Branch: B: Old Finch and Morningview<br/>Agency: on-ttc<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-79.415127,43.78127,0
@@ -2661,9 +2661,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39A</name>
+		<name>39: Finch East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.03</description>
+		<description>Branch: A: Neilson<br/>Agency: on-ttc<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-79.415127,43.78127,0
@@ -2720,9 +2720,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38B</name>
+		<name>38: Highland Creek</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.07</description>
+		<description>Branch: B: U of T Scarborough<br/>Agency: on-ttc<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-79.257246,43.774499,0
@@ -2743,9 +2743,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38A</name>
+		<name>38: Highland Creek</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.15</description>
+		<description>Branch: A: Rouge Hill<br/>Agency: on-ttc<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-79.257246,43.774499,0
@@ -2786,9 +2786,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37B</name>
+		<name>37: Islington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.01</description>
+		<description>Branch: B: Steeles<br/>Agency: on-ttc<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-79.576584,43.764093,0
@@ -2843,9 +2843,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37A</name>
+		<name>37: Islington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.29</description>
+		<description>Branch: A: Woodbine & Humberwood<br/>Agency: on-ttc<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -2901,9 +2901,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36F</name>
+		<name>36: Finch West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.24</description>
+		<description>Branch: F: Weston Rd & Milvan via Fenmar<br/>Agency: on-ttc<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-79.564051,43.762579,0
@@ -2933,9 +2933,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36D</name>
+		<name>36: Finch West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.16</description>
+		<description>Branch: D: Weston Rd & Milvan<br/>Agency: on-ttc<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-79.566035,43.760715,0
@@ -2964,9 +2964,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36B</name>
+		<name>36: Finch West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.07</description>
+		<description>Branch: B: Humberwood<br/>Agency: on-ttc<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -3032,9 +3032,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36A</name>
+		<name>36: Finch West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.1</description>
+		<description>Branch: A: Finch West<br/>Agency: on-ttc<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -3079,9 +3079,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35B</name>
+		<name>35: Jane</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.15</description>
+		<description>Branch: B: Pioneer Village via Hullmar<br/>Agency: on-ttc<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-79.50966,43.777064,0
@@ -3150,9 +3150,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35A</name>
+		<name>35: Jane</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.08</description>
+		<description>Branch: A: Pioneer Village<br/>Agency: on-ttc<br/>EDI: 1.08</description>
 		<LineString> 
 			<coordinates>
 			-79.50966,43.777064,0
@@ -3215,9 +3215,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34C</name>
+		<name>34: Eglinton East</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.57</description>
+		<description>Branch: C: Flemingdon Park<br/>Agency: on-ttc<br/>EDI: 1.57</description>
 		<LineString> 
 			<coordinates>
 			-79.398567,43.705093,0
@@ -3259,9 +3259,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34B</name>
+		<name>34: Eglinton East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.14</description>
+		<description>Branch: B: Don Mills & Wynford<br/>Agency: on-ttc<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-79.338338,43.723099,0
@@ -3294,9 +3294,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34A</name>
+		<name>34: Eglinton East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.03</description>
+		<description>Branch: A: Kennedy<br/>Agency: on-ttc<br/>EDI: 1.03</description>
 		<LineString> 
 			<coordinates>
 			-79.398613,43.705256,0
@@ -3338,9 +3338,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33</name>
+		<name>33: Forest Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-79.425724,43.70525,0
@@ -3362,9 +3362,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32D</name>
+		<name>32: Eglinton West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.11</description>
+		<description>Branch: D: Jane & Emmett<br/>Agency: on-ttc<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-79.503988,43.688587,0
@@ -3396,9 +3396,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32C</name>
+		<name>32: Eglinton West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.11</description>
+		<description>Branch: C: Jane & Lawrence via Trethewey<br/>Agency: on-ttc<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-79.507916,43.701353,0
@@ -3447,9 +3447,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32A</name>
+		<name>32: Eglinton West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.09</description>
+		<description>Branch: A: Renforth<br/>Agency: on-ttc<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-79.58283,43.65916,0
@@ -3508,9 +3508,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31B</name>
+		<name>31: Greenwood</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.48</description>
+		<description>Branch: B: Eastern<br/>Agency: on-ttc<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-79.323101,43.684264,0
@@ -3535,9 +3535,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31A</name>
+		<name>31: Greenwood</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.24</description>
+		<description>Branch: A: Queen<br/>Agency: on-ttc<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-79.323101,43.684264,0
@@ -3558,9 +3558,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: High Park North</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-79.482355,43.665824,0
@@ -3576,9 +3576,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29C</name>
+		<name>29: Dufferin</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.15</description>
+		<description>Branch: C: Princes Gate<br/>Agency: on-ttc<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-79.45092,43.734475,0
@@ -3636,9 +3636,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29A</name>
+		<name>29: Dufferin</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.05</description>
+		<description>Branch: A: DUfferin Gate<br/>Agency: on-ttc<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-79.45092,43.734475,0
@@ -3694,9 +3694,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28</name>
+		<name>28: Bayview South</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-79.396868,43.69763,0
@@ -3716,9 +3716,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26</name>
+		<name>26: Dupont</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-79.483848,43.649968,0
@@ -3766,9 +3766,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25C</name>
+		<name>25: Don Mills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.13</description>
+		<description>Branch: C: Steeles<br/>Agency: on-ttc<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.3455,43.775993,0
@@ -3791,9 +3791,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25B</name>
+		<name>25: Don Mills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.23</description>
+		<description>Branch: B: Pape<br/>Agency: on-ttc<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-79.344585,43.680042,0
@@ -3843,9 +3843,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25A</name>
+		<name>25: Don Mills</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.21</description>
+		<description>Branch: A: Pape via Don Mills<br/>Agency: on-ttc<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-79.344585,43.680042,0
@@ -3910,9 +3910,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24B</name>
+		<name>24: Victoria Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.16</description>
+		<description>Branch: B: Don Mills<br/>Agency: on-ttc<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-79.284747,43.681533,0
@@ -3968,9 +3968,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24A</name>
+		<name>24: Victoria Park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.0</description>
+		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-79.284747,43.681533,0
@@ -4034,9 +4034,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Dawes</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 2.11</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 2.11</description>
 		<LineString> 
 			<coordinates>
 			-79.305535,43.704609,0
@@ -4062,9 +4062,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22B</name>
+		<name>22: Coxwell</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.13</description>
+		<description>Branch: B: Queen<br/>Agency: on-ttc<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.323123,43.684135,0
@@ -4083,9 +4083,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22A</name>
+		<name>22: Coxwell</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.74</description>
+		<description>Branch: A: Victoria Park<br/>Agency: on-ttc<br/>EDI: 1.74</description>
 		<LineString> 
 			<coordinates>
 			-79.323123,43.684135,0
@@ -4115,9 +4115,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21C</name>
+		<name>21: Brimley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.16</description>
+		<description>Branch: C: via Scarborough Centre<br/>Agency: on-ttc<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-79.263253,43.732739,0
@@ -4168,9 +4168,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21B</name>
+		<name>21: Brimley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.04</description>
+		<description>Branch: B: Steeles Ave E<br/>Agency: on-ttc<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-79.258185,43.774257,0
@@ -4201,9 +4201,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21A</name>
+		<name>21: Brimley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.25</description>
+		<description>Branch: A: Kennedy<br/>Agency: on-ttc<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-79.263253,43.732739,0
@@ -4231,9 +4231,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: Cliffside</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.63</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.63</description>
 		<LineString> 
 			<coordinates>
 			-79.301482,43.689158,0
@@ -4280,9 +4280,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19</name>
+		<name>19: Bay</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-79.401938,43.675511,0
@@ -4316,9 +4316,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17C</name>
+		<name>17: Birchmount</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.09</description>
+		<description>Branch: C: Steeles and Warden<br/>Agency: on-ttc<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-79.325087,43.82097,0
@@ -4371,9 +4371,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17B</name>
+		<name>17: Birchmount</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.05</description>
+		<description>Branch: B: Steeles via Wintermute<br/>Agency: on-ttc<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-79.316825,43.820861,0
@@ -4424,9 +4424,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17A</name>
+		<name>17: Birchmount</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.06</description>
+		<description>Branch: A: Highway 7<br/>Agency: on-ttc<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-79.324977,43.856324,0
@@ -4492,9 +4492,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16</name>
+		<name>16: McCowan</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-79.257944,43.774322,0
@@ -4537,9 +4537,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15</name>
+		<name>15: Evans</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-79.557773,43.609847,0
@@ -4580,9 +4580,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Glencairn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-79.397014,43.697799,0
@@ -4619,9 +4619,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13B</name>
+		<name>13: Avenue Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.12</description>
+		<description>Branch: B: Gerrard<br/>Agency: on-ttc<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-79.399863,43.70565,0
@@ -4653,9 +4653,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13A</name>
+		<name>13: Avenue Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.13</description>
+		<description>Branch: A: Queen's Park<br/>Agency: on-ttc<br/>EDI: 1.13</description>
 		<LineString> 
 			<coordinates>
 			-79.399863,43.70565,0
@@ -4685,9 +4685,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12D</name>
+		<name>12: Kingston Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.28</description>
+		<description>Branch: D: U of T Scarborough<br/>Agency: on-ttc<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4747,9 +4747,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12C</name>
+		<name>12: Kingston Rd</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.69</description>
+		<description>Branch: C: St Clair and Barkdene Hills<br/>Agency: on-ttc<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4793,9 +4793,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12B</name>
+		<name>12: Kingston Rd</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 2.31</description>
+		<description>Branch: B: Kennedy via Brimley<br/>Agency: on-ttc<br/>EDI: 2.31</description>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4843,9 +4843,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12A</name>
+		<name>12: Kingston Rd</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 2.35</description>
+		<description>Branch: A: Kennedy via Variety Village<br/>Agency: on-ttc<br/>EDI: 2.35</description>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4893,9 +4893,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11C</name>
+		<name>11: Bayview</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.31</description>
+		<description>Branch: C: Davisville<br/>Agency: on-ttc<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-79.375956,43.72264,0
@@ -4920,9 +4920,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11A</name>
+		<name>11: Bayview</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.17</description>
+		<description>Branch: A: Davisville via Sunnybrook<br/>Agency: on-ttc<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-79.397336,43.803431,0
@@ -4985,9 +4985,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Van Horne</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.94</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.94</description>
 		<LineString> 
 			<coordinates>
 			-79.347048,43.776222,0
@@ -5009,9 +5009,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: Bellamy</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-79.258185,43.774257,0
@@ -5064,9 +5064,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: Broadview</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.27</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.27</description>
 		<LineString> 
 			<coordinates>
 			-79.32923,43.695885,0
@@ -5093,9 +5093,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: Bathurst</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-79.411065,43.666061,0
@@ -5160,9 +5160,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>Line 4: Sheppard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.0</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-79.410394,43.761494,0
@@ -5174,9 +5174,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>Line 3: Scarborough</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.29</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-79.263885,43.732449,0
@@ -5189,9 +5189,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>Line 2: Bloor - Danforth</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-79.535694,43.637648,0
@@ -5229,9 +5229,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>512</name>
+		<name>512: St Clair</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.01</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.01</description>
 		<LineString> 
 			<coordinates>
 			-79.471837,43.671912,0
@@ -5265,9 +5265,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>511</name>
+		<name>511: Bathurst</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-79.411286,43.666532,0
@@ -5291,9 +5291,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>510B</name>
+		<name>510: Spadina</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.05</description>
+		<description>Branch: B: Queens Quay<br/>Agency: on-ttc<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -5314,9 +5314,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>510A</name>
+		<name>510: Spadina</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.65</description>
+		<description>Branch: A: Union Station<br/>Agency: on-ttc<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -5340,9 +5340,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>509</name>
+		<name>509: Harbourfront</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-79.41471,43.636511,0
@@ -5361,9 +5361,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>506</name>
+		<name>506: Carlton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-79.458045,43.647681,0
@@ -5428,9 +5428,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>505</name>
+		<name>505: Dundas</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-79.453463,43.656821,0
@@ -5481,9 +5481,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504B</name>
+		<name>504: King</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.29</description>
+		<description>Branch: B: Dufferin Gate<br/>Agency: on-ttc<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-79.425872,43.634401,0
@@ -5527,9 +5527,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504A</name>
+		<name>504: King</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.48</description>
+		<description>Branch: A: Dundas West<br/>Agency: on-ttc<br/>EDI: 1.48</description>
 		<LineString> 
 			<coordinates>
 			-79.453027,43.657134,0
@@ -5579,9 +5579,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>503</name>
+		<name>503: Kingston Rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.07</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-79.383573,43.648231,0
@@ -5627,9 +5627,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501</name>
+		<name>501: Queen</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-79.544124,43.591811,0
@@ -5728,9 +5728,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>310</name>
+		<name>310: Spadina</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.65</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -5754,9 +5754,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>306</name>
+		<name>306: Carlton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-79.453027,43.657134,0
@@ -5818,9 +5818,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>304</name>
+		<name>304: King</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.76</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.76</description>
 		<LineString> 
 			<coordinates>
 			-79.453027,43.657134,0
@@ -5878,9 +5878,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301</name>
+		<name>301: Queen</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 1.06</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.06</description>
 		<LineString> 
 			<coordinates>
 			-79.544124,43.591811,0
@@ -5975,9 +5975,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>Line 1: Yonge - University</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: on-ttc<br/>EDI: 4.05</description>
+		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 4.05</description>
 		<LineString> 
 			<coordinates>
 			-79.414829,43.780942,0

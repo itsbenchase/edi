@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>23</name>
+		<name>23: Canal – Fairfax Manor</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-marin<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.604134,38.000221,0
@@ -92,9 +92,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22</name>
+		<name>22: Downtown San Rafael - Marin City</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-marin<br/>EDI: 1.87</description>
+		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.87</description>
 		<LineString> 
 			<coordinates>
 			-122.511571,37.8723,0
@@ -136,9 +136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17</name>
+		<name>17: Downtown San Rafael - Sausalito</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-marin<br/>EDI: 1.43</description>
+		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.43</description>
 		<LineString> 
 			<coordinates>
 			-122.480469,37.857136,0

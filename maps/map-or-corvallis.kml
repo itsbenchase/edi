@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>9</name>
+		<name>9: 5th / Buchanan / Grant / Witham Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-123.263725,44.564733,0
@@ -77,9 +77,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: OSU / 35th / Research Way / Grand Oaks</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.49</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.49</description>
 		<LineString> 
 			<coordinates>
 			-123.263725,44.564733,0
@@ -107,9 +107,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7</name>
+		<name>7: OSU / 29th / Timberhill / Circle / HP</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 3.03</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 3.03</description>
 		<LineString> 
 			<coordinates>
 			-123.263345,44.564633,0
@@ -148,9 +148,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: South Corvallis / Western / OSU</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.4</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-123.274069,44.563867,0
@@ -178,9 +178,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: OSU / Kings / Timberhill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.33</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.33</description>
 		<LineString> 
 			<coordinates>
 			-123.263345,44.564633,0
@@ -206,9 +206,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: 5th / Highland / Conifer / Hospital</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.56</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.56</description>
 		<LineString> 
 			<coordinates>
 			-123.263345,44.564633,0
@@ -241,9 +241,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Philomath Blvd / 49th / OSU</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-123.263303,44.56473,0
@@ -266,9 +266,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: 9th / Hospital</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-123.263345,44.564633,0
@@ -291,9 +291,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: OSU / Withan Hill / Timberhill</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: or-corvallis<br/>EDI: 2.82</description>
+		<description>Branch: Main<br/>Agency: or-corvallis<br/>EDI: 2.82</description>
 		<LineString> 
 			<coordinates>
 			-123.263345,44.564633,0

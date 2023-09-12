@@ -24,8 +24,6 @@ jaksn;Jackson Square;42.323132;-71.099592;29;1
 1720;Blue Hill Ave @ Mattapan Sq;42.26876;-71.093955;29;24
 1721;Blue Hills Pkwy @ River St;42.2667;-71.093631;29;25
 matt;Mattapan;42.26762;-71.092486;29;26
-66;Mt Auburn St @ DeWolfe St;42.370925;-71.11597;h;1
-67;Mt Auburn St @ Putnam Ave;42.370044;-71.113514;h;2
 111;Mt Vernon St @ South Point Dr;42.317184;-71.040238;16-harbor;1
 31111;Mt Vernon St opp Paul A. Dever School;42.317984;-71.042713;16-harbor;2
 41111;250 Mt Vernon St @ Geiger Gibson Health Center;42.319029;-71.045472;16-harbor;3
@@ -5626,36 +5624,36 @@ wlsta;Wollaston;42.266514;-71.020337;Braintree;15
 qnctr;Quincy Center;42.251809;-71.005409;Braintree;16
 qamnl;Quincy Adams;42.233391;-71.007153;Braintree;17
 brntn;Braintree;42.207854;-71.001138;Braintree;18
-rugg;Ruggles;42.336377;-71.088961;ct2;1
-71391;Huntington Ave @ Louis Prang St;42.337684;-71.096046;ct2;2
-91391;Huntington Ave @ Longwood Ave;42.336067;-71.100187;ct2;3
-11803;Longwood Ave @ Binney St;42.338207;-71.105846;ct2;4
-1805;Brookline Ave opp Short St;42.340438;-71.105523;ct2;5
-1807;Park Dr @ Fenway Station;42.345214;-71.104266;ct2;6
-1808;Park Dr @ Beacon St;42.3471;-71.105198;ct2;7
-1809;Park Dr @ Mountfort St;42.348313;-71.105903;ct2;8
-11809;Mountfort St @ Carlton St;42.348846;-71.108581;ct2;9
-1810;Commonwealth Ave @ University Rd;42.35075;-71.109976;ct2;10
-21772;Amesbury St @ Vassar St;42.354929;-71.10512;ct2;11
-21174;Vassar St opp Pacific St Extension;42.358309;-71.098379;ct2;12
-21773;Vassar St @ Massachusetts Ave;42.360559;-71.093953;ct2;13
-12231;Ames St @ Broadway;42.363498;-71.087704;ct2;14
-2521;Hampshire St @ Cardinal Medeiros Ave;42.366261;-71.091675;ct2;15
-2525;Columbia St @ Cambridge St;42.372783;-71.094479;ct2;16
-2531;Prospect St @ Bennett Ct;42.37812;-71.09467;ct2;17
-2774;Washington St @ McGrath Hwy;42.379792;-71.089974;ct2;18
-2778;Washington St opp Myrtle St;42.381576;-71.084037;ct2;19
-2777;Washington St @ Inner Belt Rd;42.382012;-71.081316;ct2;20
-sull;Sullivan Square;42.383975;-71.076994;ct2;21
-andrw;Andrew;42.330154;-71.057655;ct3;1
-128;1010 Massachusetts Ave opp Magazine St;42.327984;-71.067744;ct3;2
-10014;Albany St opp Boston Medical;42.334117;-71.07251;ct3;3
-5090;88 E Newton St;42.336679;-71.070973;ct3;4
-1790;Harrison Ave @ Worcester Sq;42.335883;-71.074011;ct3;5
-7;Melnea Cass Blvd @ Washington St;42.333043;-71.081108;ct3;6
-rugg;Ruggles;42.336377;-71.088961;ct3;7
-1799;Ruggles St @ Huntington Ave;42.337523;-71.095101;ct3;8
-11802;Ave Louis Pasteur @ Longwood Ave;42.338473;-71.102334;ct3;9
+rugg;Ruggles;42.336377;-71.088961;CT2;1
+71391;Huntington Ave @ Louis Prang St;42.337684;-71.096046;CT2;2
+91391;Huntington Ave @ Longwood Ave;42.336067;-71.100187;CT2;3
+11803;Longwood Ave @ Binney St;42.338207;-71.105846;CT2;4
+1805;Brookline Ave opp Short St;42.340438;-71.105523;CT2;5
+1807;Park Dr @ Fenway Station;42.345214;-71.104266;CT2;6
+1808;Park Dr @ Beacon St;42.3471;-71.105198;CT2;7
+1809;Park Dr @ Mountfort St;42.348313;-71.105903;CT2;8
+11809;Mountfort St @ Carlton St;42.348846;-71.108581;CT2;9
+1810;Commonwealth Ave @ University Rd;42.35075;-71.109976;CT2;10
+21772;Amesbury St @ Vassar St;42.354929;-71.10512;CT2;11
+21174;Vassar St opp Pacific St Extension;42.358309;-71.098379;CT2;12
+21773;Vassar St @ Massachusetts Ave;42.360559;-71.093953;CT2;13
+12231;Ames St @ Broadway;42.363498;-71.087704;CT2;14
+2521;Hampshire St @ Cardinal Medeiros Ave;42.366261;-71.091675;CT2;15
+2525;Columbia St @ Cambridge St;42.372783;-71.094479;CT2;16
+2531;Prospect St @ Bennett Ct;42.37812;-71.09467;CT2;17
+2774;Washington St @ McGrath Hwy;42.379792;-71.089974;CT2;18
+2778;Washington St opp Myrtle St;42.381576;-71.084037;CT2;19
+2777;Washington St @ Inner Belt Rd;42.382012;-71.081316;CT2;20
+sull;Sullivan Square;42.383975;-71.076994;CT2;21
+andrw;Andrew;42.330154;-71.057655;CT3;1
+128;1010 Massachusetts Ave opp Magazine St;42.327984;-71.067744;CT3;2
+10014;Albany St opp Boston Medical;42.334117;-71.07251;CT3;3
+5090;88 E Newton St;42.336679;-71.070973;CT3;4
+1790;Harrison Ave @ Worcester Sq;42.335883;-71.074011;CT3;5
+7;Melnea Cass Blvd @ Washington St;42.333043;-71.081108;CT3;6
+rugg;Ruggles;42.336377;-71.088961;CT3;7
+1799;Ruggles St @ Huntington Ave;42.337523;-71.095101;CT3;8
+11802;Ave Louis Pasteur @ Longwood Ave;42.338473;-71.102334;CT3;9
 sstat;South Station;42.352271;-71.055242;Fairmount;1
 db-2265;Newmarket;42.327415;-71.065674;Fairmount;2
 db-2258;Uphams Corner;42.319125;-71.068627;Fairmount;3

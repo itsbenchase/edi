@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Christian Hill</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ma-lrta<br/>EDI: 2.26</description>
+		<description>Branch: Main<br/>Agency: ma-lrta<br/>EDI: 2.26</description>
 		<LineString> 
 			<coordinates>
 			-71.308351,42.660071,0
@@ -80,9 +80,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Belvidere</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ma-lrta<br/>EDI: 3.0</description>
+		<description>Branch: Main<br/>Agency: ma-lrta<br/>EDI: 3.0</description>
 		<LineString> 
 			<coordinates>
 			-71.31445,42.63634,0

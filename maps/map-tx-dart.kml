@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Malcom X / Maple</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: tx-dart<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: tx-dart<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-96.833247,32.812993,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>7-oceanview</name>
+		<name>7: Falmouth</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.58</description>
+		<description>Branch: to OceanView<br/>Agency: me-gpm<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -93,9 +93,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7-market</name>
+		<name>7: Falmouth</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.25</description>
+		<description>Branch: to Town Market<br/>Agency: me-gpm<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -135,9 +135,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5-jetport</name>
+		<name>5: Maine Mall</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.52</description>
+		<description>Branch: via Jetport<br/>Agency: me-gpm<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -172,9 +172,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5-hutchins</name>
+		<name>5: Maine Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.38</description>
+		<description>Branch: via Congress / Hutchins<br/>Agency: me-gpm<br/>EDI: 1.38</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -205,9 +205,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: Maine Mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -237,9 +237,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-westbrook</name>
+		<name>4: Westbrook</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.07</description>
+		<description>Branch: to Westbrook Hub<br/>Agency: me-gpm<br/>EDI: 1.07</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -279,9 +279,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-hamlet</name>
+		<name>4: Westbrook</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.21</description>
+		<description>Branch: to Hamlet<br/>Agency: me-gpm<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -325,9 +325,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4-bradley</name>
+		<name>4: Westbrook</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.4</description>
+		<description>Branch: to Bradley Dr<br/>Agency: me-gpm<br/>EDI: 1.4</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -372,9 +372,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Portland - Westbrook - S Portland</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.81</description>
+		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.81</description>
 		<LineString> 
 			<coordinates>
 			-70.332598,43.632857,0
@@ -411,9 +411,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2-prides</name>
+		<name>2: Forest Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.25</description>
+		<description>Branch: to Pride's Corner<br/>Agency: me-gpm<br/>EDI: 1.25</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -455,9 +455,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2-hannaford</name>
+		<name>2: Forest Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.09</description>
+		<description>Branch: to Hannaford<br/>Agency: me-gpm<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -492,9 +492,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Congress St</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.44</description>
+		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.44</description>
 		<LineString> 
 			<coordinates>
 			-70.290114,43.651296,0
@@ -524,9 +524,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Breeze</name>
+		<name>Metro Breeze</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-70.290114,43.651296,0
@@ -549,9 +549,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Husky</name>
+		<name>Husky Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: me-gpm<br/>EDI: 1.02</description>
+		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.02</description>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0

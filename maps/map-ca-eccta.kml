@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>200X</name>
+		<name>200X: Martinez / Pittsburg</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-eccta<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ca-eccta<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-122.139107,38.018487,0

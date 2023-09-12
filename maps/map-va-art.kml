@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>87P</name>
+		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.74</description>
+		<description>Branch: P: to Lang / S Glebe<br/>Agency: va-art<br/>EDI: 1.74</description>
 		<LineString> 
 			<coordinates>
 			-77.054613,38.868434,0
@@ -80,9 +80,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87A</name>
+		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.19</description>
+		<description>Branch: A: to 26th / Troy<br/>Agency: va-art<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-77.054613,38.868434,0
@@ -101,9 +101,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87-weekend</name>
+		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 2.02</description>
+		<description>Branch: Weekend<br/>Agency: va-art<br/>EDI: 2.02</description>
 		<LineString> 
 			<coordinates>
 			-77.0598,38.8625,0
@@ -136,9 +136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87-weekday</name>
+		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.75</description>
+		<description>Branch: Weekday<br/>Agency: va-art<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-77.054613,38.868434,0
@@ -173,9 +173,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>84</name>
+		<name>84: Douglas Park - Nauck - Pentagon City</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.46</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.46</description>
 		<LineString> 
 			<coordinates>
 			-77.09644,38.853808,0
@@ -193,9 +193,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77</name>
+		<name>77: Shirlington - Lyon Park - Courthouse</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-77.087266,38.839523,0
@@ -235,9 +235,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75</name>
+		<name>75: Shirlington - Ballston - Virginia Square</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 2.15</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 2.15</description>
 		<LineString> 
 			<coordinates>
 			-77.102949,38.882443,0
@@ -281,9 +281,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74</name>
+		<name>74: Arlington Village - Arlington View - Pentagon City</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.91</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.91</description>
 		<LineString> 
 			<coordinates>
 			-77.087121,38.862047,0
@@ -306,9 +306,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72</name>
+		<name>72: Rock Spring - Ballston - Shirlington</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.58</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.58</description>
 		<LineString> 
 			<coordinates>
 			-77.13681,38.91572,0
@@ -356,9 +356,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: E Falls Church - Langston Blvd - Rosslyn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-77.156706,38.886298,0
@@ -400,9 +400,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53B</name>
+		<name>53: Ballston Metro - Old Glebe - E Falls Church</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 2.76</description>
+		<description>Branch: B: via N Glebe Rd<br/>Agency: va-art<br/>EDI: 2.76</description>
 		<LineString> 
 			<coordinates>
 			-77.110594,38.882127,0
@@ -451,9 +451,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53A</name>
+		<name>53: Ballston Metro - Old Glebe - E Falls Church</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 2.75</description>
+		<description>Branch: A: via Old Glebe Rd<br/>Agency: va-art<br/>EDI: 2.75</description>
 		<LineString> 
 			<coordinates>
 			-77.110594,38.882127,0
@@ -502,9 +502,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52</name>
+		<name>52: Ballston - Virginia Hospital Center - E Falls Church</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 2.03</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 2.03</description>
 		<LineString> 
 			<coordinates>
 			-77.156807,38.886711,0
@@ -544,9 +544,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51</name>
+		<name>51: Ballston - Virginia Hospital Center</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-77.111615,38.881724,0
@@ -562,9 +562,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45</name>
+		<name>45: Coulmbia Pike - DHS / Sequoia - Rosslyn</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.45</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.45</description>
 		<LineString> 
 			<coordinates>
 			-77.07158,38.895511,0
@@ -597,9 +597,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43</name>
+		<name>43: Crystal City - Rosslyn - Courthouse</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.2</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.2</description>
 		<LineString> 
 			<coordinates>
 			-77.049105,38.857872,0
@@ -609,9 +609,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42-weekend</name>
+		<name>42: Ballston - Pentagon</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.37</description>
+		<description>Branch: Weekend<br/>Agency: va-art<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-77.111682,38.881934,0
@@ -643,9 +643,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42-weekday</name>
+		<name>42: Ballston - Pentagon</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.36</description>
+		<description>Branch: Weekday<br/>Agency: va-art<br/>EDI: 1.36</description>
 		<LineString> 
 			<coordinates>
 			-77.111682,38.881934,0
@@ -677,9 +677,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41</name>
+		<name>41: Columbia Pike - Ballston - Court House</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: va-art<br/>EDI: 1.64</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.64</description>
 		<LineString> 
 			<coordinates>
 			-77.119226,38.857169,0
@@ -720,9 +720,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62</name>
+		<name>62: Court House Metro - Lorcom Ln - Ballston Metro</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: va-art<br/>EDI: 3.01</description>
+		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 3.01</description>
 		<LineString> 
 			<coordinates>
 			-77.110594,38.882127,0

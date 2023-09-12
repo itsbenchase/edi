@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>69</name>
+		<name>69: Gouin</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: qc-stm<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: qc-stm<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-73.606562,45.617516,0

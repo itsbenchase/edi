@@ -74,8 +74,15 @@ public class FullMap
           data = data.substring(data.indexOf(";") + 1);
           data = data.substring(data.indexOf(";") + 1);
           double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
+          data = data.substring(data.indexOf(";") + 1);
+          String name = data.substring(0, data.indexOf(";"));
+          data = data.substring(data.indexOf(";") + 1);
+          String branch = data;
 
-          routes.add(new Stop(line2, edi));
+          name = name.replace("&", "&amp;");
+          branch = branch.replace("&", "&amp;");
+
+          routes.add(new Stop(line2, edi, name, branch));
         }
       }
       catch (Exception e)
@@ -85,12 +92,12 @@ public class FullMap
 
       maps.add("\t<Document> \n\t\t<name>" + agencies.get(a) + " routes</name>");
       // colors for groups of EDI values
-      maps.add("\t\t<Placemark> \n\t\t\t<name>" + load.get(0).getLineEDI() + "</name>");
-
       for (int j = 0; j < routes.size(); j++)
       {
         if (load.get(0).getLineEDI().equals(routes.get(j).getLineEDI()))
         {
+          maps.add("\t\t<Placemark> \n\t\t\t<name>" + routes.get(j).getLineName() + "</name>");
+
           // yeah yeah i gotta do this twice
           if (routes.get(j).getEdi() >= 1.0 && routes.get(j).getEdi() < 1.5)
           {
@@ -125,7 +132,7 @@ public class FullMap
             maps.add("\t\t<styleUrl>#10.0</styleUrl>");
           }
 
-          maps.add("\t\t\t<description>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
+          maps.add("\t\t\t<description>Branch: " + routes.get(j).getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
         }
       }
 
@@ -140,11 +147,13 @@ public class FullMap
         else
         {
           maps.add("\t\t\t\t</coordinates> \n\t\t\t</LineString> \n\t\t</Placemark>");
-          maps.add("\t\t<Placemark> \n\t\t\t<name>" + load.get(i).getLineEDI() + "</name>");
+          
           for (int j = 0; j < routes.size(); j++)
           {
             if (load.get(i).getLineEDI().equals(routes.get(j).getLineEDI()))
             {
+              maps.add("\t\t<Placemark> \n\t\t\t<name>" + routes.get(j).getLineName() + "</name>");
+
               if (routes.get(j).getEdi() >= 1.0 && routes.get(j).getEdi() < 1.5)
               {
                 maps.add("\t\t\t<styleUrl>#1.0</styleUrl>");
@@ -178,7 +187,7 @@ public class FullMap
                 maps.add("\t\t<styleUrl>#10.0</styleUrl>");
               }
 
-              maps.add("\t\t\t<description>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
+              maps.add("\t\t\t<description>Branch: " + routes.get(j).getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
             }
           }
           maps.add("\t\t\t<LineString> \n\t\t\t\t<coordinates>");

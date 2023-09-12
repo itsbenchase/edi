@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>62</name>
+		<name>62: CCBC Essex - Turner Station</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.79</description>
+		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 2.79</description>
 		<LineString> 
 			<coordinates>
 			-76.482796,39.353654,0
@@ -140,9 +140,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71</name>
+		<name>71: Downtown - Patapsco Station</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.25</description>
+		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 2.25</description>
 		<LineString> 
 			<coordinates>
 			-76.630226,39.24181,0
@@ -187,9 +187,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92-velvet</name>
+		<name>92: Glen - Baas & Talmudical</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.01</description>
+		<description>Branch: to Velvert Valley<br/>Agency: md-mta<br/>EDI: 2.01</description>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -224,9 +224,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92-scotts</name>
+		<name>92: Glen - Baas & Talmudical</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.65</description>
+		<description>Branch: to Scotts Hill<br/>Agency: md-mta<br/>EDI: 2.65</description>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -272,9 +272,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92-owings</name>
+		<name>92: Glen - Baas & Talmudical</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 1.81</description>
+		<description>Branch: to Owings Mills Center<br/>Agency: md-mta<br/>EDI: 1.81</description>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -327,9 +327,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92-copper</name>
+		<name>92: Glen - Baas & Talmudical</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 3.05</description>
+		<description>Branch: to Copper Ridge<br/>Agency: md-mta<br/>EDI: 3.05</description>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -360,9 +360,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63-bayview</name>
+		<name>63: Gardenville - Tradepoint Atlantic</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.23</description>
+		<description>Branch: to Johns Hopkins<br/>Agency: md-mta<br/>EDI: 2.23</description>
 		<LineString> 
 			<coordinates>
 			-76.491371,39.226298,0
@@ -399,9 +399,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63-gardenville</name>
+		<name>63: Gardenville - Tradepoint Atlantic</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.1</description>
+		<description>Branch: to Gardenville<br/>Agency: md-mta<br/>EDI: 2.1</description>
 		<LineString> 
 			<coordinates>
 			-76.491371,39.226298,0
@@ -467,9 +467,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75</name>
+		<name>75: Patapsco Station - Arundel Mills</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 2.13</description>
+		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 2.13</description>
 		<LineString> 
 			<coordinates>
 			-76.630066,39.242004,0
@@ -519,9 +519,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69</name>
+		<name>69: Patapsco Station - Jumpers Hole</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: md-mta<br/>EDI: 1.93</description>
+		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 1.93</description>
 		<LineString> 
 			<coordinates>
 			-76.630145,39.241996,0

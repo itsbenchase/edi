@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>WS</name>
+		<name>W-S: Weekend Shopper</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: nj-tiger<br/>EDI: 1.35</description>
+		<description>Branch: Main<br/>Agency: nj-tiger<br/>EDI: 1.35</description>
 		<LineString> 
 			<coordinates>
 			-74.675024,40.305298,0
@@ -71,9 +71,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4</name>
+		<name>4: Princeton Junction - Stadium Dr Garage</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: nj-tiger<br/>EDI: 1.82</description>
+		<description>Branch: Main<br/>Agency: nj-tiger<br/>EDI: 1.82</description>
 		<LineString> 
 			<coordinates>
 			-74.625436,40.316378,0
@@ -89,9 +89,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3</name>
+		<name>3: Merwick - Forrestal PPPL</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: nj-tiger<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: nj-tiger<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-74.665908,40.353101,0
@@ -105,9 +105,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Lawrence / Lakeside - EQuad</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: nj-tiger<br/>EDI: 1.19</description>
+		<description>Branch: Main<br/>Agency: nj-tiger<br/>EDI: 1.19</description>
 		<LineString> 
 			<coordinates>
 			-74.656848,40.333283,0
@@ -121,9 +121,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Grad College - Stadium Dr Garage</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: nj-tiger<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: nj-tiger<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-74.66462,40.340707,0

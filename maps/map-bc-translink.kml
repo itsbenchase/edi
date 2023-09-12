@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>322</name>
+		<name>322: Newton Exchange / Scottsdale</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: bc-translink<br/>EDI: 4.34</description>
+		<description>Branch: Main<br/>Agency: bc-translink<br/>EDI: 4.34</description>
 		<LineString> 
 			<coordinates>
 			-122.842704,49.133098,0

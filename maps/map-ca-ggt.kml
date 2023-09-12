@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>154</name>
+		<name>154: Novato - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -92,9 +92,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>580</name>
+		<name>580: Del Norte BART - San Rafael</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-122.522698,37.971194,0
@@ -114,9 +114,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>172</name>
+		<name>172: Santa Rosa - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -154,9 +154,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>154</name>
+		<name>154: Novato - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.16</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -195,9 +195,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>150</name>
+		<name>150: San Rafael - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-122.396066,37.790097,0
@@ -233,9 +233,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>132</name>
+		<name>132: San Anselmo - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -275,9 +275,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>130</name>
+		<name>130: San Rafael - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.28</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.28</description>
 		<LineString> 
 			<coordinates>
 			-122.396066,37.790097,0
@@ -320,9 +320,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>114</name>
+		<name>114: Mill Valley - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.47</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.47</description>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -365,9 +365,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101</name>
+		<name>101: Santa Rosa - San Francisco</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-ggt<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-122.396066,37.790097,0

@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Marietta Blvd / Joseph E Lowery Blvd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ga-marta<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ga-marta<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-84.452113,33.820737,0
@@ -97,9 +97,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ga-marta<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ga-marta<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-84.446198,33.640831,0
@@ -125,9 +125,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green</name>
+		<name>Green Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ga-marta<br/>EDI: 1.11</description>
+		<description>Branch: Main<br/>Agency: ga-marta<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-84.428873,33.772159,0
@@ -141,9 +141,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Gold</name>
+		<name>Gold Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ga-marta<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ga-marta<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-84.446198,33.640831,0
@@ -168,9 +168,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Red Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ga-marta<br/>EDI: 1.04</description>
+		<description>Branch: Main<br/>Agency: ga-marta<br/>EDI: 1.04</description>
 		<LineString> 
 			<coordinates>
 			-84.469302,33.754553,0

@@ -11,7 +11,24 @@ public class HasIndex
         // some basic input
         Scanner in = new Scanner(System.in);
         System.out.print("Enter index value: ");
-        double indexNeeded = in.nextDouble();
+        String indexNeededStr = in.nextLine();
+        double indexNeeded = 0.00;
+
+        double lowEnd = 0.00;
+        double highEnd = 0.10;
+
+        // inclusive range
+        if (indexNeededStr.equals("range"))
+        {
+            System.out.print("Enter low end: ");
+            lowEnd = in.nextDouble();
+            System.out.print("Enter high end: ");
+            highEnd = in.nextDouble();
+        }
+        else // make that a double
+        {
+            indexNeeded = Double.parseDouble(indexNeededStr);
+        }
 
         // yeah i'm only doing global search
         ArrayList<String> agencies = new ArrayList<String>();
@@ -61,12 +78,26 @@ public class HasIndex
         }
 
         int indexFound = 0; // count for end.
-        for (int i = 0; i < routeEdi.size(); i++)
+        if (indexNeededStr.equals("range"))
         {
-            if (routeEdi.get(i) == indexNeeded)
+            for (int i = 0; i < routeEdi.size(); i++)
             {
-                System.out.println(routeAgency.get(i) + " | " + routeCode.get(i) + " (" + routeDist.get(i) + " mi.)");
-                indexFound++;
+                if (routeEdi.get(i) >= lowEnd && routeEdi.get(i) <= highEnd)
+                {
+                    System.out.println(routeAgency.get(i) + " | " + routeCode.get(i) + " (" + routeDist.get(i) + " mi., " + routeEdi.get(i) + ")");
+                    indexFound++;
+                }
+            }
+        }
+        else
+        {
+            for (int i = 0; i < routeEdi.size(); i++)
+            {
+                if (routeEdi.get(i) == indexNeeded)
+                {
+                    System.out.println(routeAgency.get(i) + " | " + routeCode.get(i) + " (" + routeDist.get(i) + " mi., " + routeEdi.get(i) + ")");
+                    indexFound++;
+                }
             }
         }
 

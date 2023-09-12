@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>16</name>
+		<name>16: Balmoral</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.26</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.26</description>
 		<LineString> 
 			<coordinates>
 			-89.26967,48.40297,0
@@ -73,9 +73,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14</name>
+		<name>14: Arthur</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.69</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-89.2458,48.38246,0
@@ -113,9 +113,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13</name>
+		<name>13: John - Jumbo</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-89.21709,48.43579,0
@@ -151,9 +151,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11</name>
+		<name>11: John</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.68</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.68</description>
 		<LineString> 
 			<coordinates>
 			-89.25747,48.44316,0
@@ -182,9 +182,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Northwood</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 2.57</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 2.57</description>
 		<LineString> 
 			<coordinates>
 			-89.2458,48.38246,0
@@ -224,9 +224,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9</name>
+		<name>9: Junot</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 3.0</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 3.0</description>
 		<LineString> 
 			<coordinates>
 			-89.24327,48.40344,0
@@ -273,9 +273,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8</name>
+		<name>8: James</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 5.83</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 5.83</description>
 		<LineString> 
 			<coordinates>
 			-89.24327,48.40344,0
@@ -334,9 +334,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6</name>
+		<name>6: Mission</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 3.57</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 3.57</description>
 		<LineString> 
 			<coordinates>
 			-89.28197,48.36516,0
@@ -362,9 +362,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5</name>
+		<name>5: Edward</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.18</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.18</description>
 		<LineString> 
 			<coordinates>
 			-89.26967,48.40297,0
@@ -393,9 +393,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3M</name>
+		<name>3M: Memorial</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-89.21709,48.43579,0
@@ -428,9 +428,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3J</name>
+		<name>3J: Jumbo Gardens</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.42</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.42</description>
 		<LineString> 
 			<coordinates>
 			-89.21709,48.43579,0
@@ -466,9 +466,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3C</name>
+		<name>3C: County Park</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 2.24</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 2.24</description>
 		<LineString> 
 			<coordinates>
 			-89.21709,48.43579,0
@@ -509,9 +509,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2</name>
+		<name>2: Crosstown</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 2.03</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 2.03</description>
 		<LineString> 
 			<coordinates>
 			-89.26967,48.40297,0
@@ -553,9 +553,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1</name>
+		<name>1: Mainline</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: on-thunderbay<br/>EDI: 1.37</description>
+		<description>Branch: Main<br/>Agency: on-thunderbay<br/>EDI: 1.37</description>
 		<LineString> 
 			<coordinates>
 			-89.18251,48.47868,0

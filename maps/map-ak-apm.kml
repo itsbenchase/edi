@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>92</name>
+		<name>92: Eagle River</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.09</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.09</description>
 		<LineString> 
 			<coordinates>
 			-149.894746,61.216564,0
@@ -72,9 +72,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91</name>
+		<name>91: Huffman</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.23</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.23</description>
 		<LineString> 
 			<coordinates>
 			-149.871953,61.142763,0
@@ -93,9 +93,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85</name>
+		<name>85: Old Seward - West Anchorage</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.96</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.96</description>
 		<LineString> 
 			<coordinates>
 			-149.887511,61.215198,0
@@ -155,9 +155,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65</name>
+		<name>65: Jewel Lake - Airport</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.51</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.51</description>
 		<LineString> 
 			<coordinates>
 			-149.871953,61.142763,0
@@ -179,9 +179,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55</name>
+		<name>55: Lake Otis</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.75</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-149.871953,61.142763,0
@@ -210,9 +210,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41</name>
+		<name>41: Government Hill</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.31</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.31</description>
 		<LineString> 
 			<coordinates>
 			-149.894746,61.216564,0
@@ -230,9 +230,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40</name>
+		<name>40: Spenard - Airport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-149.887511,61.215198,0
@@ -269,9 +269,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35</name>
+		<name>35: Arctic</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.17</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.17</description>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -313,9 +313,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31</name>
+		<name>31: Northeast</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.79</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.79</description>
 		<LineString> 
 			<coordinates>
 			-149.821187,61.215517,0
@@ -366,9 +366,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30</name>
+		<name>30: Debarr</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.12</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.12</description>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -403,9 +403,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25</name>
+		<name>25: Tudor</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 2.23</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 2.23</description>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -467,9 +467,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20</name>
+		<name>20: Mountain View</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.75</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.75</description>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -514,9 +514,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11</name>
+		<name>11: Senior Center</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 1.69</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.69</description>
 		<LineString> 
 			<coordinates>
 			-149.894746,61.216564,0
@@ -541,9 +541,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10</name>
+		<name>10: Northern Lights</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ak-apm<br/>EDI: 2.15</description>
+		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 2.15</description>
 		<LineString> 
 			<coordinates>
 			-149.887511,61.215198,0

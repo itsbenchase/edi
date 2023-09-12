@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>10-in</name>
+		<name>10: Lisa & Howard via N Quincy & Court</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ma-bat<br/>EDI: 3.13</description>
+		<description>Branch: Inbound<br/>Agency: ma-bat<br/>EDI: 3.13</description>
 		<LineString> 
 			<coordinates>
 			-71.025677,42.108796,0
@@ -102,9 +102,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10-out</name>
+		<name>10: Lisa & Howard via N Quincy & Court</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ma-bat<br/>EDI: 3.0</description>
+		<description>Branch: Outbound<br/>Agency: ma-bat<br/>EDI: 3.0</description>
 		<LineString> 
 			<coordinates>
 			-71.015268,42.085291,0

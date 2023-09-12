@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>eBART</name>
+		<name>Yellow Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-bart<br/>EDI: 1.0</description>
+		<description>Branch: eBART<br/>Agency: ca-bart<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-121.944248,38.01895,0
@@ -63,9 +63,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Yellow</name>
+		<name>Yellow Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-bart<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: ca-bart<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-121.944248,38.01895,0
@@ -97,9 +97,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red</name>
+		<name>Red Line</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-bart<br/>EDI: 1.62</description>
+		<description>Branch: Main<br/>Agency: ca-bart<br/>EDI: 1.62</description>
 		<LineString> 
 			<coordinates>
 			-122.353004,37.936795,0
@@ -130,9 +130,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Orange</name>
+		<name>Orange Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-bart<br/>EDI: 1.05</description>
+		<description>Branch: Main<br/>Agency: ca-bart<br/>EDI: 1.05</description>
 		<LineString> 
 			<coordinates>
 			-122.353004,37.936795,0
@@ -160,9 +160,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green</name>
+		<name>Green Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-bart<br/>EDI: 1.3</description>
+		<description>Branch: Main<br/>Agency: ca-bart<br/>EDI: 1.3</description>
 		<LineString> 
 			<coordinates>
 			-121.874661,37.368495,0
@@ -191,9 +191,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-bart<br/>EDI: 1.21</description>
+		<description>Branch: Main<br/>Agency: ca-bart<br/>EDI: 1.21</description>
 		<LineString> 
 			<coordinates>
 			-121.899242,37.701692,0

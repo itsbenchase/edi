@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>9</name>
+		<name>9: East Port Orchard</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: wa-kitsap<br/>EDI: 2.78</description>
+		<description>Branch: Main<br/>Agency: wa-kitsap<br/>EDI: 2.78</description>
 		<LineString> 
 			<coordinates>
 			-122.635696,47.542591,0

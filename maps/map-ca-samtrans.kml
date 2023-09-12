@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>85</name>
+		<name>85: Ormondale School - La Honda / Grandview</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 3.79</description>
+		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 3.79</description>
 		<LineString> 
 			<coordinates>
 			-122.217796,37.381312,0
@@ -84,9 +84,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>294</name>
+		<name>294: San Mateo Medical Center - Main / Poplar</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 1.15</description>
+		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 1.15</description>
 		<LineString> 
 			<coordinates>
 			-122.430008,37.457039,0
@@ -111,9 +111,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>278-w</name>
+		<name>278: Redwood City Transit Center - Cañada College</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 1.5</description>
+		<description>Branch: Westbound<br/>Agency: ca-samtrans<br/>EDI: 1.5</description>
 		<LineString> 
 			<coordinates>
 			-122.265122,37.448957,0
@@ -136,9 +136,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>278-e</name>
+		<name>278: Redwood City Transit Center - Cañada College</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 2.15</description>
+		<description>Branch: Eastbound<br/>Agency: ca-samtrans<br/>EDI: 2.15</description>
 		<LineString> 
 			<coordinates>
 			-122.265122,37.448957,0
@@ -177,9 +177,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>260</name>
+		<name>260: San Carlos Caltrain - Polhemus / De Anza</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 2.03</description>
+		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 2.03</description>
 		<LineString> 
 			<coordinates>
 			-122.258953,37.506411,0
@@ -200,9 +200,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>250</name>
+		<name>250: 5th / El Camino Real - College of San Mateo</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 3.08</description>
+		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 3.08</description>
 		<LineString> 
 			<coordinates>
 			-122.337045,37.533785,0
@@ -237,9 +237,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120</name>
+		<name>120: Brunswick / Templeton - Colma BART</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 3.96</description>
+		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 3.96</description>
 		<LineString> 
 			<coordinates>
 			-122.453043,37.707179,0
@@ -276,9 +276,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>142</name>
+		<name>142: SFO - Shelter Creek</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Agency: ca-samtrans<br/>EDI: 2.59</description>
+		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 2.59</description>
 		<LineString> 
 			<coordinates>
 			-122.400155,37.627261,0

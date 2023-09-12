@@ -51,9 +51,9 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>402</name>
+		<name>402: APCP - Giant Bartonsville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-mcta<br/>EDI: 1.1</description>
+		<description>Branch: Main<br/>Agency: pa-mcta<br/>EDI: 1.1</description>
 		<LineString> 
 			<coordinates>
 			-75.365158,41.21909,0
@@ -83,9 +83,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>103</name>
+		<name>103: Kalahari - A Pocono Country Place</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Agency: pa-mcta<br/>EDI: 1.24</description>
+		<description>Branch: Main<br/>Agency: pa-mcta<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-75.365196,41.219086,0
@@ -113,9 +113,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102</name>
+		<name>102: Stroudsburg - Mt. Pocono</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Agency: pa-mcta<br/>EDI: 1.52</description>
+		<description>Branch: Main<br/>Agency: pa-mcta<br/>EDI: 1.52</description>
 		<LineString> 
 			<coordinates>
 			-75.272606,41.001041,0
@@ -169,9 +169,9 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101</name>
+		<name>101: E Stroudsburg - Stroudsburg</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Agency: pa-mcta<br/>EDI: 2.09</description>
+		<description>Branch: Main<br/>Agency: pa-mcta<br/>EDI: 2.09</description>
 		<LineString> 
 			<coordinates>
 			-75.272606,41.001041,0
