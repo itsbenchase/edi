@@ -238,51 +238,68 @@ public class Stats
       int cat40 = 0;
       int cat100 = 0;
 
+      double pct10 = 0.00;
+      double pct15 = 0.00;
+      double pct20 = 0.00;
+      double pct25 = 0.00;
+      double pct30 = 0.00;
+      double pct35 = 0.00;
+      double pct40 = 0.00;
+      double pct100 = 0.00;
+
       for (int i = 0; i < edis.size(); i++)
       {
         if (edis.get(i) >= 1.0 && edis.get(i) < 1.5)
         {
           cat10++;
+          pct10 = Math.round(((cat10 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else if (edis.get(i) >= 1.5 && edis.get(i) < 2.0)
         {
           cat15++;
+          pct15 = Math.round(((cat15 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else if (edis.get(i) >= 2.0 && edis.get(i) < 2.5)
         {
           cat20++;
+          pct20 = Math.round(((cat20 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else if (edis.get(i) >= 2.5 && edis.get(i) < 3.0)
         {
           cat25++;
+          pct25 = Math.round(((cat25 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else if (edis.get(i) >= 3.0 && edis.get(i) < 3.5)
         {
           cat30++;
+          pct30 = Math.round(((cat30 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else if (edis.get(i) >= 3.5 && edis.get(i) < 4.0)
         {
           cat35++;
+          pct35 = Math.round(((cat35 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else if (edis.get(i) >= 4.0 && edis.get(i) < 10.0)
         {
           cat40++;
+          pct40 = Math.round(((cat40 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
         else // (edis.get(i) >= 10.0)
         {
           cat100++;
+          pct100 = Math.round(((cat100 / (double) lengths.size()) * 100.0) * 100.0) / 100.0;
         }
       }
 
       System.out.println("Spreads:");
-      System.out.println("1.00 - 1.49: " + cat10);
-      System.out.println("1.50 - 1.99: " + cat15);
-      System.out.println("2.00 - 2.49: " + cat20);
-      System.out.println("2.50 - 2.99: " + cat25);
-      System.out.println("3.00 - 3.49: " + cat30);
-      System.out.println("3.50 - 3.99: " + cat35);
-      System.out.println("4.00 - 9.99: " + cat40);
-      System.out.println("above 10.00: " + cat100);
+      System.out.println("1.00 - 1.49: " + cat10 + " (" + pct10 + "%)");
+      System.out.println("1.50 - 1.99: " + cat15 + " (" + pct15 + "%)");
+      System.out.println("2.00 - 2.49: " + cat20 + " (" + pct20 + "%)");
+      System.out.println("2.50 - 2.99: " + cat25 + " (" + pct25 + "%)");
+      System.out.println("3.00 - 3.49: " + cat30 + " (" + pct30 + "%)");
+      System.out.println("3.50 - 3.99: " + cat35 + " (" + pct35 + "%)");
+      System.out.println("4.00 - 9.99: " + cat40 + " (" + pct40 + "%)");
+      System.out.println("above 10.00: " + cat100 + " (" + pct100 + "%)");
       
       if (!bypass)
       {
