@@ -291,7 +291,7 @@ public class Stats
         }
       }
 
-      System.out.println("Spreads:");
+      System.out.println("Spread:");
       System.out.println("1.00 - 1.49: " + cat10 + " (" + pct10 + "%)");
       System.out.println("1.50 - 1.99: " + cat15 + " (" + pct15 + "%)");
       System.out.println("2.00 - 2.49: " + cat20 + " (" + pct20 + "%)");
