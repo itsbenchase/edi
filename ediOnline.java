@@ -16,7 +16,7 @@ public class ediOnline
     System.out.println("Welcome to the Eliot Deviation Index calculator!");
     System.out.println("");
 	 
-	  System.out.println("Before starting, please select the agency you would like to access data for. Agency codes are listed online at edi.benchase.info.");
+	  System.out.println("Before starting, please select the agency you would like to access data for. Agency codes are listed online at www.eliotindex.org.");
 
     System.out.println("");
 
@@ -28,7 +28,7 @@ public class ediOnline
 
     System.out.println("INSTRUCTIONS - CUSTOM LINES");
     System.out.println("- When prompted for a line, enter \"custom\".");
-    System.out.println("- Enter the stop IDs in order. A full list can be found at edi.benchase.info/stops.html.");
+    System.out.println("- Enter the stop IDs in order. A full list can be found at dev.eliotindex.org/stops.html.");
     System.out.println("- Enter \"-1\" to add a custom stop.");
     System.out.println("- Enter \"-2\" to remove the last stop added.");
     System.out.println("- Enter \"-3\" to add a stop from another agency.");
@@ -59,7 +59,7 @@ public class ediOnline
     ArrayList<String> agencies = new ArrayList<String>();
     try
     {
-      Scanner s = new Scanner(new URI("https://edi.benchase.info/agencies.txt").toURL().openStream());
+      Scanner s = new Scanner(new URI("https://dev.eliotindex.org/agencies.txt").toURL().openStream());
       while (s.hasNextLine())
       {
         String data = s.nextLine();
@@ -111,7 +111,7 @@ public class ediOnline
         // load in only existing stops
         try
         {
-          Scanner s = new Scanner(new URI("https://edi.benchase.info/stops/" + agencyChoice + ".txt").toURL().openStream());
+          Scanner s = new Scanner(new URI("https://dev.eliotindex.org/stops/" + agencyChoice + ".txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -177,7 +177,7 @@ public class ediOnline
             ArrayList<Stop> stopsExtra = new ArrayList<Stop>(); // not to confuse with stops
             try
             {
-              Scanner extra = new Scanner(new URI("https://edi.benchase.info/stops/" + extraAgency + ".txt").toURL().openStream());
+              Scanner extra = new Scanner(new URI("https://dev.eliotindex.org/stops/" + extraAgency + ".txt").toURL().openStream());
               while (extra.hasNextLine())
               {
                 String data = extra.nextLine();
@@ -232,7 +232,7 @@ public class ediOnline
               ArrayList<Stop> stops3 = new ArrayList<Stop>(); // stops3 - pulls from existing EDI file to add to segment
               try
               {
-                Scanner s3 = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
+                Scanner s3 = new Scanner(new URI("https://dev.eliotindex.org/files/" + agencyChoice + "-edi.txt").toURL().openStream());
                 while (s3.hasNextLine())
                 {
                   String data = s3.nextLine();
@@ -288,7 +288,7 @@ public class ediOnline
               ArrayList<Stop> stops3 = new ArrayList<Stop>();
               try
               {
-                Scanner s3 = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
+                Scanner s3 = new Scanner(new URI("https://dev.eliotindex.org/files/" + agencyChoice + "-edi.txt").toURL().openStream());
                 while (s3.hasNextLine())
                 {
                   String data = s3.nextLine();
@@ -366,7 +366,7 @@ public class ediOnline
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
+          Scanner s = new Scanner(new URI("https://dev.eliotindex.org/files/" + agencyChoice + "-edi.txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -428,7 +428,7 @@ public class ediOnline
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
+          Scanner s = new Scanner(new URI("https://dev.eliotindex.org/files/" + agencyChoice + "-edi.txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -496,7 +496,7 @@ public class ediOnline
         // loads in EDI file with existing routes only
         try
         {
-          Scanner s = new Scanner(new URI("https://edi.benchase.info/files/" + agencyChoice + "-edi.txt").toURL().openStream());
+          Scanner s = new Scanner(new URI("https://dev.eliotindex.org/files/" + agencyChoice + "-edi.txt").toURL().openStream());
           while (s.hasNextLine())
           {
             String data = s.nextLine();

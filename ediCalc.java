@@ -16,7 +16,7 @@ public class ediCalc
     System.out.println("Welcome to the Eliot Deviation Index calculator!");
     System.out.println("");
 	 
-	  System.out.println("Before starting, please select the agency you would like to access data for. Agency codes are listed online at edi.benchase.info.");
+	  System.out.println("Before starting, please select the agency you would like to access data for. Agency codes are listed online at www.eliotindex.org.");
 
     System.out.println("");
     
