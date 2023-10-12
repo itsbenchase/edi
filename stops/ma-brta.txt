@@ -1,12 +1,12 @@
 2555725;510 North St (Out);42.455507;-73.251655
 2576677;703 W Housatonic;42.440067;-73.286961
-2555719;Allendale Plaza on Cheshire Rd (in);42.469886;-73.203938
 2555739;Allendale Plaza on Cheshire Rd (out);42.469804;-73.203598
-794918;Allendale Shopping Center;42.468544;-73.205589
-794920;Ashland St. at Church St.;42.681319;-73.098408
-807147;Ashland St. at Church St.;42.681432;-73.098597
+794918;Allendale Plaza – DCR Rail Trail;42.468544;-73.205589
 2455268;BCC Great Barrington;42.192905;-73.363500
 2555720;BCC Paterson Field House (in);42.457909;-73.316843
+4226664;BCC Temporary Stop #1;42.459007;-73.313965
+4226665;BCC Temporary Stop #2;42.460270;-73.315760
+4226666;BCC Temporary Stop #3;42.458951;-73.315613
 2455254;BMC Wahconah St;42.459072;-73.249977
 794921;Barrington Plaza;42.210196;-73.344697
 2455275;Beachtree Commons North;42.184104;-73.366908
@@ -24,23 +24,26 @@
 794985;Brayton Hill Elementary;42.698125;-73.137210
 2455276;Brookside Great Barrington;42.175990;-73.361251
 2455270;CVS Great Barrington;42.192971;-73.364619
+4148576;Callahan Drive;42.431209;-73.318135
 794926;Center St. (Adams);42.619402;-73.119713
 807149;Center St. (Adams);42.619233;-73.119062
 794927;Cheshire Post Office;42.562577;-73.157521
 807151;Cheshire Post Office;42.562653;-73.157637
-794968;Claire Teague Senior Center;42.174176;-73.362386
+794968;Claire Teague Senior Center;42.174176;-73.362385
+4148579;Clapp Park;42.442701;-73.263891
+4148580;Clapp Park;42.442619;-73.263840
 2555724;Crane Ave (in);42.474616;-73.243463
 2555737;Crane Ave (out);42.474246;-73.240958
 2555729;Cumberland Farms;42.198774;-73.360755
 2555743;Cumberland Farms;42.198887;-73.360970
-794928;Curtis Ave. and Main St. (Dalton);42.473241;-73.170855
-807157;Curtis Ave. and Main St. (Dalton);42.474074;-73.171269
+794928;Curtis Ave. and Main St., Dalton;42.473241;-73.170855
+807157;Curtis Ave. and Main St., Dalton;42.474074;-73.171269
+4148544;Dalton Ave & Connecticut Ave;42.462858;-73.215105
+4148545;Dalton Ave & Thorndyke Ave;42.463462;-73.214283
 794919;Dalton Division Rd. and April Lane;42.435408;-73.195625
 803724;Dalton Division Rd. and April Lane;42.435155;-73.195825
 794929;Dalton Division Rd. and Hubbard Ave.;42.452816;-73.190907
 803725;Dalton Division Rd. and Hubbard Ave.;42.452898;-73.191049
-2555722;Dalton General Store (in);42.479312;-73.156828
-2555735;Dollar General (out);42.566258;-73.162659
 794930;Downing Industrial Park;42.459932;-73.195294
 2555731;East & Elm (Fenn);42.448057;-73.242230
 2555726;East St and E Center St (in);42.312358;-73.242844
@@ -49,7 +52,8 @@
 803739;East St. and Center St.;42.313361;-73.234223
 794932;East St. and Elm St.;42.446970;-73.245527
 803722;East St. and Elm St.;42.446418;-73.244676
-794933;East St. and Newell St.;42.453202;-73.226187
+794933;East St. and Newell St. (Inbound);42.453202;-73.226187
+4209762;East St. and Newell St. (Outbound);42.453087;-73.226132
 794934;Elm St. and Holmes Rd.;42.443188;-73.234565
 803721;Elm St. and Holmes Rd.;42.443369;-73.234757
 794935;Fairgrounds Plaza;42.180631;-73.365561
@@ -65,9 +69,10 @@
 794965;Great Barrington Library;42.196135;-73.361253
 2455271;Great Barrington West Ave;42.192803;-73.369395
 2455272;Great Barrington West Ave;42.192893;-73.369248
-2615679;Greylock Avenue;42.697213;-73.145611
+4148548;Greylock Valley Apartments;42.697368;-73.145354
+4148549;Greylock Valley Apartments;42.697371;-73.145218
 804124;Hancock Rd. and Route 7 (Main St.);42.484746;-73.248154
-2576673;Highland Ave and Pecks Rd;42.475794;-73.264681
+2576673;Highland Ave and Pecks Rd;42.475794;-73.264680
 794939;Hillcrest Campus (Berkshire Medical Center);42.458047;-73.281639
 794940;Hinsdale Post Office;42.438268;-73.125805
 794941;Housatonic (Front St. and Depot St.);42.256722;-73.364972
@@ -87,7 +92,7 @@
 794963;Lee Premium Outlets;42.295114;-73.233805
 794947;Lenox;42.356477;-73.284379
 803737;Lenox;42.356820;-73.284667
-794948;Lenox (Walker St. at Rt. 7);42.346782;-73.269477
+794948;Lenox (Walker St. at Rt. 7);42.346781;-73.269477
 794949;Lenoxdale (Crystal St. and Mill St.);42.332794;-73.246521
 803736;Lenoxdale (Crystal St. and Mill St.);42.333376;-73.246188
 2455250;Lenoxdale Post Office;42.335947;-73.244860
@@ -99,24 +104,28 @@
 2324964;Massachusetts College of Liberal Arts (MCLA);42.691543;-73.106682
 2576670;Meadowvale Apartments;42.701907;-73.185526
 794951;Merrill Rd. at Stop & Shop;42.466127;-73.204567
-803715;Merrill Rd. at Stop & Shop;42.465438;-73.205460
+4148582;MoCA;42.701519;-73.113700
 794952;Mohawk Forest;42.693819;-73.091904
-794953;Newell St. and Elm St.;42.444439;-73.239330
-2455253;North Adams Stop & Shop;42.700573;-73.166617
+794953;Newell St. and Elm St.;42.444259;-73.239626
+2455253;North Adams Stop & Shop;42.700572;-73.166617
 794971;North Adams Stop & Shop;42.700317;-73.166182
 794975;North Adams Walmart;42.665362;-73.110191
+4148583;North St & Cromwell Ave;42.473880;-73.244032
+4148584;North St & Cromwell Ave;42.473767;-73.244193
 2555740;North St and Linden St (in);42.455485;-73.251817
 794955;North St. and Tyler St. (Berkshire Medical Center);42.457031;-73.250576
 803712;North St. and Wahconah St. (Berkshire Medical Center);42.458087;-73.249990
 794980;Ocean State Job Lot (Curran Highway);42.679369;-73.105813
 794957;Onota St. and Linden St.;42.457342;-73.263066
 804121;Onota St. and Linden St.;42.457552;-73.263286
+803715;Panera Bread Plaza on Merrill Rd;42.465438;-73.205460
+4148550;Park Ave & High St;42.480552;-73.175093
+4148551;Park Ave & High St;42.480397;-73.175165
 794958;Park Square;42.448706;-73.253472
 794984;Park St. (at Paresky Center);42.713567;-73.205863
 807156;Park St. (at Paresky Center);42.713484;-73.205692
 2751417;Pecks Rd and Valentine Rd;42.475685;-73.264729
 2455269;People's Pantry;42.193065;-73.364370
-2511833;Pittsfield High School (East Street);42.447468;-73.248341
 794959;Pittsfield Plaza;42.443132;-73.275153
 807162;Pittsfield Plaza;42.442996;-73.275108
 794923;Pittsfield Walmart;42.465245;-73.197869
@@ -141,8 +150,7 @@
 2555728;St. Joseph's Church (out);42.453850;-73.252371
 794970;Stockbridge Center (Main St.);42.282029;-73.310588
 803742;Stockbridge Center (Main St.);42.281517;-73.308472
-794972;Stop and Shop Lenox;42.409799;-73.265100
-2576672;Taconic Industrial Park;42.474215;-73.246634
+794972;Stop and Shop Dan Fox Dr;42.409799;-73.265100
 2740067;Tyler St & Plunkett St;42.456604;-73.236464
 2740068;Tyler St & Plunkett St;42.456726;-73.236217
 2455228;Tyler St @ Courtland Pl;42.458027;-73.244531
@@ -160,8 +168,8 @@
 794978;William Street Plaza;42.432324;-73.213585
 807161;William Street Plaza;42.432422;-73.213537
 2576667;Williams College at Hopkins Hall;42.711440;-73.202592
-794979;Williams Inn;42.714039;-73.210615
+794979;Williams Inn;42.714038;-73.210615
 794977;Williams St. and Dalton Division Rd. (Burgner's);42.430449;-73.197056
 803723;Williams St. and Dalton Division Rd. (Burgner's);42.429951;-73.197985
-2576669;Williamstown History Museum;42.660492;-73.240948
-2576668;Williamstown Rotary;42.710937;-73.199753
+2576669;Williamstown Hist. Museum;42.660492;-73.240948
+2576668;Williamstown Rotary;42.710937;-73.199752
