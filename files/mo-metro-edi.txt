@@ -1,3 +1,986 @@
+14769;Shrewsbury-Lansdowne I-44 Transit Center;38.592769;-90.319249;11;1
+2928;Lansdowne @ Wabash Eb;38.591905;-90.315756;11;2
+2929;Lansdowne @ Mccausland Eb;38.591639;-90.31304;11;3
+2930;Lansdowne @ Jamieson Eb;38.591395;-90.310932;11;4
+2931;Lansdowne @ Chippewa Eb;38.590956;-90.306314;11;5
+8968;Chippewa @ Lansdowne Eb;38.591401;-90.303927;11;6
+8970;Chippewa @ Watson Eb;38.592626;-90.301354;11;7
+8973;Chippewa @ Clifton Eb;38.593451;-90.295502;11;8
+8784;Chippewa @ Hampton Eb;38.593332;-90.293817;11;9
+8785;Chippewa @ Sulphur Eb;38.59316;-90.292077;11;10
+8787;Chippewa @ January Eb;38.592652;-90.28763;11;11
+15076;Chippewa @ Macklind Eb;38.592196;-90.28304;11;12
+8790;Chippewa @ Brannon Eb;38.591808;-90.279524;11;13
+8792;Chippewa @ Lawn Eb;38.591392;-90.275284;11;14
+8793;Chippewa @ Kings Highway Eb;38.591214;-90.271434;11;15
+8794;Chippewa @ Ridgewood Eb;38.591058;-90.2701;11;16
+8795;Chippewa @ Alfred Eb;38.59072;-90.26708;11;17
+8796;Chippewa @ Morganford Eb;38.590286;-90.263454;11;18
+8798;Chippewa @ Oak Hill Eb;38.58968;-90.257407;11;19
+8799;Chippewa @ Gravois Eb;38.589404;-90.25489;11;20
+8800;Chippewa @ Gustine Eb;38.589149;-90.252197;11;21
+8802;Chippewa @ Spring Eb;38.588819;-90.248796;11;22
+8803;Chippewa @ Giles Eb;38.588529;-90.246555;11;23
+8804;Chippewa @ Grand Eb;38.588254;-90.244178;11;24
+8807;Chippewa @ Compton Eb;38.587514;-90.238181;11;25
+8809;Chippewa @ Pennsylvania Eb;38.58708;-90.234766;11;26
+8811;Chippewa @ Iowa Eb;38.586576;-90.231202;11;27
+8812;Chippewa @ Ohio Eb;38.586372;-90.228989;11;28
+8814;Jefferson @ Chippewa Nb;38.586511;-90.226752;11;29
+8816;Jefferson @ Miami Nb;38.590042;-90.226045;11;30
+14489;Jeffers0n @ Cherokee Nb;38.592901;-90.225437;11;31
+8819;Jefferson @ Utah Nb;38.594741;-90.225057;11;32
+8821;Jefferson @ Arsenal Nb;38.598595;-90.224262;11;33
+8822;Jefferson @ Pestalozzi Nb;38.600802;-90.223775;11;34
+8823;Jefferson @ Lynch Nb;38.602775;-90.223363;11;35
+8824;Jefferson @ Gravois Nb;38.605278;-90.222823;11;36
+8826;Jefferson @ Shenandoah Nb;38.60696;-90.222509;11;37
+8828;Jefferson @ Russell Nb;38.611306;-90.221625;11;38
+8830;Jefferson @ Lafayette Nb;38.615163;-90.220761;11;39
+8832;Jefferson @ Park Nb;38.618559;-90.219976;11;40
+8834;Jefferson @ Chouteau Nb;38.621856;-90.218647;11;41
+5150;Chouteau @ 22nd Street Eb;38.621527;-90.215605;11;42
+5151;Chouteau @ Mississippi Eb;38.620808;-90.212056;11;43
+3496;Chouteau @ Dolman Eb;38.620361;-90.209879;11;44
+16352;18th @ Chouteau Nb;38.620405;-90.208057;11;45
+3497;18th Street @ Gratiot Nb;38.622639;-90.208366;11;46
+3499;18th Street @ Union Sta Metrolink Nb;38.626751;-90.206991;11;47
+7653;Civic Center Transit Center;38.62428;-90.202809;11;48
+14792;Central West End Transit Center;38.636091;-90.260156;10;1
+2347;Forest Park @ Euclid Wb;38.639058;-90.261936;10;2
+2348;Kings Highway @ Laclede Nb;38.640719;-90.265303;10;3
+2349;Kings Highway @  Lindell Nb;38.643563;-90.264814;10;4
+9543;Lindell @ Euclid Eb;38.643269;-90.262115;10;5
+13432;Lindell @ Taylor Eb;38.642339;-90.257563;10;6
+15142;Lindell @ Newstead Eb;38.641529;-90.253763;10;7
+13434;Lindell @ Boyle Eb;38.64094;-90.25089;10;8
+15143;Lindell @ Whittier Eb;38.640297;-90.247811;10;9
+13435;Lindell @ Sarah Eb;38.639927;-90.246037;10;10
+13436;Lindell @ Vandeventer Eb;38.638821;-90.240609;10;11
+13437;Lindell @ Spring Eb;38.637864;-90.235992;10;12
+13438;Lindell @ Grand Eb;38.637058;-90.232228;10;13
+13439;3450 Lindell Eb;38.636691;-90.230489;10;14
+13441;Olive @ Compton Eb;38.635507;-90.225049;10;15
+13443;Olive @ Garrison Eb;38.634651;-90.221666;10;16
+15145;Olive @ Leffingwell Eb;38.634011;-90.218627;10;17
+13519;Olive @ Jefferson Eb;38.633002;-90.213794;10;18
+9295;Olive @ 22nd Street Eb;38.632411;-90.211015;10;19
+1561;Olive @ 20th Street Eb;38.631925;-90.208694;10;20
+15149;Olive @ 18th Street Eb;38.631257;-90.205458;10;21
+15146;Olive @ 16th Street Eb;38.630793;-90.203274;10;22
+14499;14th Street @ Pine Sb;38.629827;-90.200571;10;23
+7855;14th Street @ Market Sb;38.62775;-90.201274;10;24
+7653;Civic Center Transit Center;38.62428;-90.202809;10;25
+14807;Chouteau @ 14th Street Eb;38.619145;-90.203963;10;26
+8847;Tucker @ Hickory Sb;38.616997;-90.202447;10;27
+8848;Tucker @ Park Sb;38.614562;-90.20465;10;28
+8849;Tucker @ Lafayette Sb;38.612556;-90.206512;10;29
+8851;Gravois @ 13th Street Wb;38.609383;-90.21002;10;30
+8852;Gravois @ Russell Wb;38.608362;-90.21299;10;31
+8853;Gravois @ Ann Wb;38.607858;-90.214724;10;32
+8859;Gravois @ Mcnair Wb;38.606831;-90.218367;10;33
+8860;Gravois @ Jefferson Wb;38.604917;-90.223301;10;34
+8857;Gravois @ California Wb;38.603097;-90.227463;10;35
+8863;Gravois @ Nebraska Wb;38.601919;-90.230253;10;36
+8864;Gravois @ Arsenal Wb;38.600764;-90.232696;10;37
+8865;Gravois @ Michigan Wb;38.599685;-90.234392;10;38
+8867;Gravois @ Utah Wb;38.596572;-90.238649;10;39
+8868;Gravois @ Cherokee Wb;38.594997;-90.241056;10;40
+7669;Gravois @ Grand Wb;38.592306;-90.244445;10;41
+7582;Gravois @ Bamberger Wb;38.591713;-90.249595;10;42
+7672;Gravois @ Gustine Wb;38.591289;-90.251881;10;43
+7583;Gravois @ Winnebago Wb;38.589912;-90.25504;10;44
+7673;Gravois @ Chippewa Wb;38.589335;-90.256349;10;45
+7585;Gravois @ Taft Wb;38.584925;-90.262645;10;46
+7674;Gravois @ Itaska Wb;38.582163;-90.266185;10;47
+7588;Gravois @ Wilcox Wb;38.580823;-90.267904;10;48
+7589;Gravois @ Eichelberger Wb;38.579142;-90.270069;10;49
+7675;Gravois @ Bates Wb;38.577806;-90.272385;10;50
+7590;Gravois @ Christy Wb;38.576639;-90.275983;10;51
+8933;Gravois @ Holly Hills Wb;38.573648;-90.280966;10;52
+7678;Gravois @ Kings Highway Wb;38.571688;-90.283519;10;53
+7679;Gravois @ Loughborough Wb;38.56996;-90.285392;10;54
+7593;Gravois @ Nagel Wb;38.568162;-90.287869;10;55
+7681;Gravois @ Allemania Wb;38.565736;-90.291881;10;56
+768;Gravois-Hampton Transit Center;38.564759;-90.293892;10;57
+8155;Telegraph @ Baumgartner Nb;38.471177;-90.304595;9-mo;1
+8180;5500 Telegraph Nb;38.472814;-90.304317;9-mo;2
+8182;Telegraph @ Crestline Nb;38.478272;-90.30431;9-mo;3
+8185;Telegraph @ Burncoate Nb;38.482953;-90.304335;9-mo;4
+8186;Telegraph @ Pottle Nb;38.485761;-90.304112;9-mo;5
+8187;Telegraph @ Golden Valley Nb;38.488747;-90.303874;9-mo;6
+5643;Kinswood @ Martigney Nb;38.49249;-90.302709;9-mo;7
+5624;Kinswood @ Sunrise Heights Eb;38.491362;-90.29328;9-mo;8
+5639;Kinswood @ Gateway Accessible Housing Eb;38.488572;-90.286651;9-mo;9
+5638;Koch @ Kinswood Nb;38.488248;-90.284081;9-mo;10
+5637;Jefferson @ Veterans Hospital Building 51;38.492342;-90.282025;9-mo;11
+8189;Telegraph @ Barracksview Nb;38.497891;-90.30013;9-mo;12
+8191;Telegraph @ Lin-Tel Nb;38.500505;-90.298762;9-mo;13
+3928;Telegraph @ Sappington Barracks Eb;38.502983;-90.297328;9-mo;14
+3929;Telegraph @ Franview Plaza Eb;38.504044;-90.296761;9-mo;15
+3932;Telegraph @ Brilliant Nb;38.50841;-90.294205;9-mo;16
+10492;Telegraph @ Kingston Nb;38.512051;-90.290531;9-mo;17
+10494;Kingston @ Shetland Nb;38.513383;-90.287978;9-mo;18
+10496;Kingston @ Earlsfield Nb;38.515342;-90.284354;9-mo;19
+10498;Kingston @ Pentonville Nb;38.517254;-90.282511;9-mo;20
+10500;Kingston @ Carrington Nb;38.519267;-90.280604;9-mo;21
+10501;120 Kingston Nb;38.52086;-90.279056;9-mo;22
+10502;Broadway @ Ripa Nb;38.524693;-90.277211;9-mo;23
+10504;Broadway @ Loretta Nb;38.528054;-90.277148;9-mo;24
+10505;Broadway @ Velma Nb;38.529854;-90.277101;9-mo;25
+10508;Broadway @ Hoffmeister Nb;38.53354;-90.274975;9-mo;26
+10509;Broadway @ Weiss Nb;38.534805;-90.272823;9-mo;27
+10511;Broadway @ River City Casino Nb;38.537445;-90.269191;9-mo;28
+393;Catalan Transit Center;38.540064;-90.265961;9-mo;29
+10513;Marceau @ Broadway Wb;38.541977;-90.264664;9-mo;30
+10516;Germania @ Alabama Nb;38.546319;-90.270621;9-mo;31
+10517;Germania @ On-Ramp I-55 N Nb;38.551349;-90.270365;9-mo;32
+3266;Germania @ Eugene Nb;38.55472;-90.270576;9-mo;33
+3269;Germania @ Sharp Nb;38.557166;-90.278467;9-mo;34
+3271;Germania @ Morganford Nb;38.560451;-90.282916;9-mo;35
+3272;Germania @ Primm Nb;38.561683;-90.286997;9-mo;36
+3274;Germania @ Stolle Nb;38.562374;-90.292144;9-mo;37
+791;Gravois @ Hampton Wb;38.564039;-90.294796;9-mo;38
+16375;River Des Peres @ Olde English Nb;38.568075;-90.3016;9-mo;39
+16374;River Des Peres @ Loughborough Nb;38.575214;-90.308535;9-mo;40
+14769;Shrewsbury-Lansdowne I-44 Transit Center;38.592769;-90.319249;9-mo;41
+14792;Central West End Transit Center;38.636091;-90.260156;8-mo;1
+8531;Taylor @ Mckinley Sb;38.634123;-90.260047;8-mo;2
+8535;Chouteau @ Newstead Eb;38.629916;-90.258133;8-mo;3
+8536;Tower Grove @ Chouteau Sb;38.629244;-90.256129;8-mo;4
+8538;Tower Grove @ Manchester Sb;38.627164;-90.256874;8-mo;5
+8542;Tower Grove @ Hunt Sb;38.622999;-90.256044;8-mo;6
+15479;Tower Grove @ Folsom Sb;38.621571;-90.255762;8-mo;7
+8544;Tower Grove @ Mcree Sb;38.619965;-90.255788;8-mo;8
+1810;Shaw @ Tower Grove Eb;38.616537;-90.255661;8-mo;9
+1811;Shaw @ Thurman Eb;38.616126;-90.250846;8-mo;10
+1812;Shaw @ Lawrence Eb;38.615877;-90.248232;8-mo;11
+1813;Shaw @ 39th Street Eb;38.61562;-90.245516;8-mo;12
+3376;39th Street @ Russell Sb;38.614108;-90.245548;8-mo;13
+3378;39th Street @ Flad Sb;38.611996;-90.245856;8-mo;14
+3379;39th Street @ Shenandoah Sb;38.610182;-90.246132;8-mo;15
+16139;Magnolia @ 39th Street Eb;38.607582;-90.245853;8-mo;16
+4088;Grand @ Magnolia Sb;38.606864;-90.241588;8-mo;17
+4089;Grand @ Arsenal Sb;38.60399;-90.242193;8-mo;18
+4090;Grand @ Juniata Sb;38.6006;-90.242674;8-mo;19
+4093;Grand @ Utah Sb;38.596879;-90.243243;8-mo;20
+7769;Cherokee @ Gravois Eb;38.59524;-90.241209;8-mo;21
+7823;Cherokee @ Compton Eb;38.594699;-90.237052;8-mo;22
+7825;Cherokee @ Minnesota Eb;38.594376;-90.23438;8-mo;23
+7826;Cherokee @ Nebraska Eb;38.594136;-90.232647;8-mo;24
+4022;Cherokee @ California Eb;38.593796;-90.229824;8-mo;25
+4024;Cherokee @ Jefferson Eb;38.593301;-90.225751;8-mo;26
+8664;Jefferson @ Cherokee Sb;38.592746;-90.225697;8-mo;27
+8666;Jefferson @ Miami Sb;38.589485;-90.226367;8-mo;28
+15869;Jefferson @ Chippewa Sb;38.586523;-90.227006;8-mo;29
+6458;Broadway @ Keokuk Sb;38.584039;-90.227496;8-mo;30
+4106;Broadway @ Gasconade Sb;38.58051;-90.228632;8-mo;31
+6461;Broadway @ Meramec Sb;38.578922;-90.230323;8-mo;32
+6463;Broadway @ Osceola Sb;38.576559;-90.232791;8-mo;33
+6465;Broadway @ Mount Pleasant Sb;38.572044;-90.234866;8-mo;34
+6466;Broadway @ Itaska Sb;38.571004;-90.235633;8-mo;35
+1904;Broadway @ Nebraska Sb;38.568344;-90.237499;8-mo;36
+15791;Broadway @ Maeder Sb;38.567275;-90.238258;8-mo;37
+1908;Broadway @ Fassen Sb;38.562903;-90.241364;8-mo;38
+6468;Broadway @ Dover Sb;38.560551;-90.243048;8-mo;39
+6469;Broadway @ Fillmore Sb;38.559033;-90.244642;8-mo;40
+6472;Broadway @ Holly Hills Sb;38.555932;-90.248348;8-mo;41
+6475;Broadway @ Kraus Sb;38.553076;-90.251592;8-mo;42
+6476;Broadway @ Quincy Sb;38.551665;-90.253133;8-mo;43
+6479;Broadway @ Upton Sb;38.548845;-90.256425;8-mo;44
+6482;Broadway @ Primm Sb;38.54552;-90.260217;8-mo;45
+6485;Broadway @ Davis Sb;38.543364;-90.262655;8-mo;46
+412;Catalan Transit Center;38.540046;-90.265932;8-mo;47
+13330;North Hanley Transit Center;38.719761;-90.314949;4-mo;1
+5902;4215 North Hanley Sb;38.716494;-90.318999;4-mo;2
+5904;North Hanley @ Natural Bridge Sb;38.712216;-90.319421;4-mo;3
+9222;8324 Natural Bridge Eb;38.708155;-90.316535;4-mo;4
+9224;Natural Bridge @ Clearview Eb;38.706947;-90.314377;4-mo;5
+9225;Natural Bridge @ University Eb;38.707009;-90.310978;4-mo;6
+9226;Natural Bridge @ Normandy Middle School Eb;38.70731;-90.308346;4-mo;7
+9157;Umsl South Transit Center;38.705276;-90.305305;4-mo;8
+9228;Natural Bridge @ Marietta Eb;38.706151;-90.302886;4-mo;9
+9229;Natural Bridge @ St. Anns Eb;38.705237;-90.300206;4-mo;10
+9230;Natural Bridge @ St. Marys Eb;38.704349;-90.297517;4-mo;11
+9232;7272 Natural Bridge Eb;38.703305;-90.295389;4-mo;12
+9233;Natural Bridge @ Lucas-Hunt Eb;38.701015;-90.292129;4-mo;13
+9234;7060 Natural Bridge Eb;38.69985;-90.290374;4-mo;14
+9235;Natural Bridge  @ Colonial Eb;38.698753;-90.288969;4-mo;15
+9236;Natural Bridge @ Maywood Eb;38.697576;-90.28773;4-mo;16
+9238;Natural Bridge @ Lawler Eb;38.695717;-90.285842;4-mo;17
+9240;Natural Bridge @ Pine Grove Eb;38.693458;-90.280495;4-mo;18
+9242;Natural Bridge @ Kienlen Eb;38.691849;-90.27834;4-mo;19
+9244;Natural Bridge @ Darby Eb;38.688888;-90.274934;4-mo;20
+9246;Natural Bridge @ Goodfellow Eb;38.68561;-90.270729;4-mo;21
+15969;Natural Bridge @ Clara Eb;38.682513;-90.265926;4-mo;22
+9248;Natural Bridge @ Belt Eb;38.681432;-90.263459;4-mo;23
+9250;Natural Bridge @ Abner Place Eb;38.679784;-90.259593;4-mo;24
+9251;Natural Bridge @ Union Eb;38.679014;-90.25794;4-mo;25
+9252;Natural Bridge @ Geraldine Eb;38.677805;-90.255386;4-mo;26
+9254;Natural Bridge @ Kings Highway Eb;38.676816;-90.253165;4-mo;27
+9255;Natural Bridge @ Kings Highway Eb;38.676042;-90.251339;4-mo;28
+9256;Natural Bridge @ Euclid Eb;38.675203;-90.249385;4-mo;29
+9257;Natural Bridge @ Shreve Eb;38.673745;-90.246063;4-mo;30
+9258;Natural Bridge @ Marcus Eb;38.672781;-90.243765;4-mo;31
+9259;Natural Bridge @ Cora Eb;38.672109;-90.242083;4-mo;32
+9260;Natural Bridge @ Taylor Eb;38.670849;-90.239077;4-mo;33
+9261;Natural Bridge @ Newstead Eb;38.669809;-90.236731;4-mo;34
+9262;Natural Bridge @ Clarence Eb;38.668814;-90.234488;4-mo;35
+9263;Natural Bridge @ Lambdin Eb;38.668095;-90.232844;4-mo;36
+9265;Natural Bridge @ Fair Eb;38.6665;-90.229226;4-mo;37
+9266;Natural Bridge @ Clay Eb;38.665482;-90.226957;4-mo;38
+9267;Natural Bridge @ Warne Eb;38.664826;-90.22532;4-mo;39
+9268;Natural Bridge @ Vandeventer  Eb;38.663424;-90.222217;4-mo;40
+9269;Natural Bridge @ Prairie Eb;38.662415;-90.219925;4-mo;41
+9270;Natural Bridge @ Spring Eb;38.66173;-90.218262;4-mo;42
+9271;Natural Bridge @ Grand Eb;38.661283;-90.217331;4-mo;43
+9272;Natural Bridge @ Glasgow Eb;38.659388;-90.213018;4-mo;44
+9275;Natural Bridge @ Parnell Eb;38.658104;-90.210342;4-mo;45
+9276;Parnell @ Hebert Sb;38.656094;-90.210061;4-mo;46
+9279;Parnell @ St. Louis Sb;38.652618;-90.211277;4-mo;47
+9280;Parnell @ Warren Sb;38.651158;-90.211777;4-mo;48
+9282;Parnell @ North Market Sb;38.64973;-90.212297;4-mo;49
+9284;Jefferson @ Howard Sb;38.646735;-90.213019;4-mo;50
+9285;Jefferson @ Cass Sb;38.64463;-90.212912;4-mo;51
+9287;Jefferson @ Dayton Sb;38.642015;-90.212852;4-mo;52
+9288;Jefferson @ Stoddard Sb;38.640551;-90.212953;4-mo;53
+9290;Jefferson @ Dr Ml King Sb;38.638193;-90.212932;4-mo;54
+9291;Jefferson @ Delmar Sb;38.636415;-90.212949;4-mo;55
+9292;Jefferson @ Washington Sb;38.634601;-90.213599;4-mo;56
+5316;Jefferson @ Pine Sb;38.632265;-90.21488;4-mo;57
+8839;Market @ 23rd Street Eb;38.630712;-90.21381;4-mo;58
+8840;Market @ 22nd Street Eb;38.630424;-90.212419;4-mo;59
+1589;Market @ 20th Street Eb;38.629713;-90.208674;4-mo;60
+8842;Market @ 18th Street Eb;38.629093;-90.206091;4-mo;61
+1591;Market @ 16th Street Eb;38.62859;-90.203616;4-mo;62
+7855;14th Street @ Market Sb;38.62775;-90.201274;4-mo;63
+7653;Civic Center Transit Center;38.62428;-90.202809;4-mo;64
+7424;Rock Road Transit Center;38.685161;-90.301639;2-mo;1
+7198;Ferguson @ Saint Charles Rock Road Sb;38.685409;-90.305558;2-mo;2
+7199;Ferguson @ Baerveldt Park Sb;38.681933;-90.307455;2-mo;3
+7200;Ferguson @ Robbins Sb;38.677361;-90.308747;2-mo;4
+4337;Ferguson @ Page Sb;38.675185;-90.309121;2-mo;5
+4336;Ferguson @ Mcnamee Sb;38.6741;-90.309258;2-mo;6
+4338;Ferguson @ Raymond Sb;38.67132;-90.309633;2-mo;7
+4339;Ferguson @ Julian Sb;38.670237;-90.30987;2-mo;8
+4340;Ferguson @ Etzel Sb;38.667475;-90.310244;2-mo;9
+4733;Etzel @ Purcell Wb;38.667643;-90.312894;2-mo;10
+4734;Etzel @ Pennsylvania Wb;38.667933;-90.315544;2-mo;11
+4718;Pennsylvania @ Olive Sb;38.665417;-90.316253;2-mo;12
+15037;Pennsylvania @ Ucity Shopping Ctr Sb;38.663864;-90.315894;2-mo;13
+15038;Vernon @ Ferguson Eb;38.662427;-90.310673;2-mo;14
+15039;Vernon @ Kingsland Eb;38.662015;-90.306734;2-mo;15
+15040;Vernon @ Westgate Eb;38.661252;-90.304492;2-mo;16
+15041;Vernon @ Eastgate Eb;38.659029;-90.300548;2-mo;17
+15049;Enright @ Rosedale Eb;38.656425;-90.297715;2-mo;18
+2097;Delmar Loop Transit Center Eb;38.655616;-90.295273;2-mo;19
+2031;Delmar @ 6161 Delmar Wb;38.655279;-90.297872;2-mo;20
+8332;Skinker @ Delmar Sb;38.65512;-90.29983;2-mo;21
+8336;Skinker @ Waterman Sb;38.651122;-90.300496;2-mo;22
+172;Skinker @ Forest Park Parkway Sb;38.649624;-90.300736;2-mo;23
+2639;Skinker Metrolink @ Forest Park Parkway Sb;38.64859;-90.300825;2-mo;24
+2640;Skinker @ Brookings Sb;38.647193;-90.301127;2-mo;25
+15661;Forsyth @ Hoyt Wb;38.64631;-90.304118;2-mo;26
+14818;Mallinckrodt Center;38.646948;-90.308863;2-mo;27
+14447;Forsyth @ Wallace Circle Wb;38.647019;-90.311301;2-mo;28
+14281;Big Bend @ Forsyth Sb;38.647096;-90.315936;2-mo;29
+16364;Big Bend @ Forest Ridge Sb;38.643663;-90.316627;2-mo;30
+5359;Clayton @ Claytonia Terrace Wb;38.635308;-90.320577;2-mo;31
+5361;Clayton @ Crestwood Wb;38.636089;-90.325558;2-mo;32
+5363;Clayton @ Glen Ridge Wb;38.63695;-90.330092;2-mo;33
+5364;Clayton @ Cromwell Wb;38.637415;-90.33224;2-mo;34
+5366;Clayton @ Biltmore Wb;38.637788;-90.336363;2-mo;35
+5367;Clayton @ Central Wb;38.637718;-90.339267;2-mo;36
+5368;Clayton @ Meramec Wb;38.637701;-90.340849;2-mo;37
+15056;Brentwood @ Darst Court Sb;38.634271;-90.345999;2-mo;38
+8070;Brentwood @ Eager Sb;38.628832;-90.346444;2-mo;39
+15036;Strassner @ Urban Eb;38.624126;-90.34655;2-mo;40
+15922;Strassner @ Brentwood Park Eb;38.624106;-90.345194;2-mo;41
+15924;1432 Strassner Eb;38.623263;-90.341505;2-mo;42
+15974;Strassner @ Hanley Industrial Court Eb;38.622483;-90.338841;2-mo;43
+15925;1270 Strassner Eb;38.622695;-90.335879;2-mo;44
+14942;Maplewood Commons @ Corcoran Sb;38.622147;-90.333196;2-mo;45
+5967;Hanley @ Elinor Nb;38.624912;-90.334911;2-mo;46
+14779;Brentwood I-64 Transit Center;38.627571;-90.337775;2-mo;47
+10606;College Transit Center;38.516439;-89.91984;16-il;1
+15374;Back @ Swic Ring Road Nb;38.517507;-89.920464;16-il;2
+11104;Carlyle @ Ymca Wb;38.519592;-89.920937;16-il;3
+16168;Green Mount Commons @ Game Stop Wb;38.520584;-89.92481;16-il;4
+16169;Green Mount Commons @ Lowes Wb;38.520588;-89.925667;16-il;5
+11105;Carlyle @ Green Mount Wb;38.519591;-89.929384;16-il;6
+11106;Carlyle @ Bradford Place Wb;38.519588;-89.932037;16-il;7
+15913;Carlyle @ College Plaza Wb;38.519608;-89.935158;16-il;8
+11107;Carlyle @ Carlyle East Wb;38.519613;-89.937132;16-il;9
+11108;Carlyle @  Coral Wb;38.51959;-89.938261;16-il;10
+11069;Carlyle @ Shady Wb;38.519429;-89.941207;16-il;11
+11110;Carlyle @ Lincolnshire Wb;38.519222;-89.942502;16-il;12
+11111;Carlyle @ West Wb;38.518641;-89.945856;16-il;13
+11113;Carlyle @ East High School Rear Entrance Wb;38.517759;-89.950578;16-il;14
+11114;Denvershire @ Sherwin Williams Entrance Sb;38.516264;-89.952328;16-il;15
+11188;Denvershire @ Carlyle Plaza Entrance Sb;38.513995;-89.952244;16-il;16
+11190;Vicksburg @ Cedar Mountain Eb;38.512529;-89.950767;16-il;17
+15586;Vicksburg @ Cedar Mountain Eb;38.511999;-89.950258;16-il;18
+11191;Vicksburg @ Mill Springs Eb;38.512024;-89.948757;16-il;19
+11159;West @ Vicksburg Nb;38.512429;-89.947462;16-il;20
+11193;West @ Rutledge Nb;38.513773;-89.947494;16-il;21
+11158;West @ Five Forks Nb;38.514515;-89.947509;16-il;22
+11194;West @ Fair Oaks Nb;38.515113;-89.947494;16-il;23
+11157;West @ Brookshire Court Nb;38.515694;-89.94729;16-il;24
+11156;West @ Lindbergh Circle Nb;38.51706;-89.945291;16-il;25
+11155;2600 West Nb;38.51765;-89.94468;16-il;26
+11197;West @ Carlyle Nb;38.519175;-89.945452;16-il;27
+11198;West @ Shady Nb;38.520709;-89.947101;16-il;28
+11199;West @ Cardinal Nb;38.521814;-89.948267;16-il;29
+11200;West @ Cresthaven Nb;38.523557;-89.950161;16-il;30
+11201;West @ Main Nb;38.525912;-89.95286;16-il;31
+11202;West @ A Street Nb;38.526926;-89.954028;16-il;32
+11204;West @ Delmar Nb;38.529442;-89.95689;16-il;33
+11205;West @ Eastview Nb;38.530941;-89.958569;16-il;34
+11206;West @ Old Collinsville Nb;38.532609;-89.960415;16-il;35
+12001;Lebanon @ Grove Nb;38.534605;-89.963563;16-il;36
+12002;Lebanon @ Old Collinsville Nb;38.536016;-89.962568;16-il;37
+15911;Old Collinsville @ Central Plaza Eb;38.53513;-89.960535;16-il;38
+11145;1101 West Sb;38.530885;-89.958719;16-il;39
+11146;West @ Delmar Sb;38.529225;-89.956764;16-il;40
+11203;B Street @ West Wb;38.528036;-89.956006;16-il;41
+15375;B Street @ Schilling Wb;38.527155;-89.95727;16-il;42
+15376;B Street @ Hillcrest Wb;38.525859;-89.959098;16-il;43
+11213;1819 B Street Wb;38.523717;-89.962212;16-il;44
+11214;B Street @ Delaware Wb;38.522668;-89.9637;16-il;45
+11215;B Street @ Kansas Wb;38.521757;-89.965015;16-il;46
+11216;B Street @ Lucinda Wb;38.52097;-89.966135;16-il;47
+11217;B Street @ Michigan Wb;38.520485;-89.966823;16-il;48
+11218;B Street @ Florida Wb;38.519574;-89.968092;16-il;49
+11219;B Street @ Iowa Wb;38.518299;-89.969933;16-il;50
+11220;B Street @ Virginia Wb;38.517174;-89.971554;16-il;51
+11221;B Street @ Pennsylvania Wb;38.516356;-89.972726;16-il;52
+12165;Douglas @ B Street Nb;38.516019;-89.97377;16-il;53
+12167;Douglas @ C Street Nb;38.516715;-89.974544;16-il;54
+12173;Douglas @ D Street Nb;38.517443;-89.975354;16-il;55
+12166;Douglas @ Sycamore Nb;38.518557;-89.976619;16-il;56
+14222;Scheel @ Douglas Eb;38.519647;-89.977124;16-il;57
+14223;Scheel @ Benton Eb;38.520369;-89.976103;16-il;58
+11102;Belleville Transit Center;38.521699;-89.974612;16-il;59
+11102;Belleville Transit Center;38.521699;-89.974612;16-il;60
+11101;Scheel @ Benton Wb;38.520547;-89.975963;16-il;61
+12170;Scheel @ Douglas Wb;38.51957;-89.977357;16-il;62
+11100;Scheel @ Charles Wb;38.518636;-89.978668;16-il;63
+11099;Charles @ D Street Sb;38.517432;-89.979089;16-il;64
+11097;Charles @ B Street Sb;38.515417;-89.979096;16-il;65
+11096;Charles @ A Street Sb;38.514727;-89.979099;16-il;66
+15712;A Street @ Church Wb;38.514625;-89.98052;16-il;67
+15713;A Street @ Jackson Wb;38.51463;-89.981703;16-il;68
+15714;A Street @ High Wb;38.514619;-89.983078;16-il;69
+11267;Illinois @ B Street Nb;38.515427;-89.984151;16-il;70
+11268;Illinois @ C Street Nb;38.516497;-89.984144;16-il;71
+11269;Illinois @ D Street Nb;38.517621;-89.984158;16-il;72
+11270;Illinois @ Lebanon Nb;38.51928;-89.98419;16-il;73
+11271;Illinois @ F Street Nb;38.520154;-89.984177;16-il;74
+11272;Illinois @ Douglas Nb;38.52309;-89.984126;16-il;75
+11273;Illinois @ Gilbert Nb;38.524597;-89.984108;16-il;76
+11274;Illinois @ Brackett Nb;38.525853;-89.984136;16-il;77
+11275;Illinois @ Pawnee Nb;38.5279;-89.98411;16-il;78
+11252;Illinois @ Boul Nb;38.529082;-89.984112;16-il;79
+15380;Illinois @ Service Nb;38.530956;-89.983768;16-il;80
+15381;Illinois @ Caroline Nb;38.532522;-89.983473;16-il;81
+11424;Illinois @ Illinois Route 161 Nb;38.534353;-89.983456;16-il;82
+11425;Illinois @ Alexa Nb;38.535641;-89.983452;16-il;83
+11626;Swansea Transit Center;38.536446;-89.987373;16-il;84
+11222;Illinois @ Smelting Works Nb;38.539223;-89.983536;16-il;85
+11223;Illinois @ Fullerton Nb;38.540957;-89.983665;16-il;86
+11624;Illinois @ Rosewood Village Nb;38.544547;-89.983867;16-il;87
+11623;Illinois @ Emerald Terrace Nb;38.546979;-89.984;16-il;88
+11622;Illinois @ Wolf Creek Nb;38.550471;-89.984192;16-il;89
+11621;Illinois @ Twilight Nb;38.55348;-89.98436;16-il;90
+11620;Illinois @ Huntwood Nb;38.556154;-89.984502;16-il;91
+16059;Illinois @ Round Hill Nb;38.557985;-89.984586;16-il;92
+16060;Illinois @ Round Hill North Nb;38.559307;-89.984651;16-il;93
+11635;Illinois @ Executive Woods Court Nb;38.563119;-89.98473;16-il;94
+11618;Illinois @ Illinois Lane Nb;38.564059;-89.98473;16-il;95
+11637;4216 Illinois Nb;38.56586;-89.984725;16-il;96
+11638;Illinois @ Corporate Nb;38.56802;-89.984727;16-il;97
+11639;4580 Illinois Nb;38.570178;-89.984736;16-il;98
+11640;Illinois @ Winchester Place Nb;38.572868;-89.984725;16-il;99
+11641;Illinois @ Lakeland Hills Nb;38.574992;-89.984725;16-il;100
+11642;Illinois @ Chateau Nb;38.578557;-89.984735;16-il;101
+11643;Illinois @ Linda Nb;38.580237;-89.984745;16-il;102
+11645;Illinois @ Elvira Nb;38.582983;-89.984751;16-il;103
+11646;Illinois @ Kadlec Nb;38.584438;-89.984763;16-il;104
+11647;Illinois @ Lincoln Place Nb;38.586525;-89.984786;16-il;105
+11607;Illinois @ Lowes Plaza Nb;38.587331;-89.984781;16-il;106
+11649;6118 Illinois Nb;38.589331;-89.984805;16-il;107
+15384;6214 Illinois Nb;38.590937;-89.984822;16-il;108
+11650;6550 Illinois Nb;38.593976;-89.984781;16-il;109
+11846;St. Clair Square Macys Entrance;38.595966;-89.981762;16-il;110
+15587;Illinois @ Salem Place Nb;38.602347;-89.984895;16-il;111
+15588;Illinois @ Fountain Parkway Nb;38.605265;-89.984941;16-il;112
+11653;Illinois @ Milburn School Road Nb;38.611237;-89.984919;16-il;113
+15589;Illinois @ Stonewolf Trail Nb;38.615245;-89.984943;16-il;114
+15590;Illinois @ Donald Bailey Nb;38.622866;-89.98507;16-il;115
+11654;Illinois @ Pin Oak Nb;38.624639;-89.985102;16-il;116
+11655;Illinois @ Bethel Nb;38.637317;-89.985282;16-il;117
+15591;Illinois @ Perry Place Nb;38.642315;-89.985367;16-il;118
+11656;Illinois @ Commerce Access Nb;38.645905;-89.985327;16-il;119
+11657;Illinois @ Brookhaven Nb;38.652083;-89.98738;16-il;120
+11658;Morrison @ Illinois Nb;38.656374;-89.987104;16-il;121
+15592;Morrison @ Cherokee Nb;38.657978;-89.986002;16-il;122
+11660;Morrison @ Idlewood Nb;38.659504;-89.984849;16-il;123
+11661;Morrison @ Clinton Nb;38.661736;-89.983141;16-il;124
+11593;Morrison @ Chestnut Nb;38.664383;-89.982412;16-il;125
+11663;Morrison @ Hill Nb;38.667942;-89.983447;16-il;126
+11665;Morrison @ Church Nb;38.66926;-89.98411;16-il;127
+11666;Morrison @ Main Nb;38.670226;-89.98464;16-il;128
+13932;Madison County Transit Ctr;38.670639;-89.987386;16-il;129
+11102;Belleville Transit Center;38.521699;-89.974612;15;1
+11101;Scheel @ Benton Wb;38.520547;-89.975963;15;2
+12170;Scheel @ Douglas Wb;38.51957;-89.977357;15;3
+11984;Douglas @ Charles Nb;38.520352;-89.977907;15;4
+11985;Douglas @ Church Nb;38.521221;-89.979197;15;5
+11986;Douglas @ Lebanon Nb;38.521836;-89.980117;15;6
+11987;Lebanon @ Benton Eb;38.522528;-89.979645;15;7
+11988;Lebanon @ Clay Eb;38.523302;-89.978807;15;8
+11989;Lebanon @ Bristow Eb;38.524874;-89.977129;15;9
+11990;Lebanon @ Hecker Eb;38.525472;-89.976356;15;10
+11991;Lebanon @ Arthur Eb;38.526487;-89.974979;15;11
+11992;Lebanon @ Lucinda Eb;38.527141;-89.974104;15;12
+11993;Lebanon @ Koerner Eb;38.527792;-89.973188;15;13
+11994;Lebanon @ Forest Hill Eb;38.528751;-89.971773;15;14
+11996;1234 Lebanon Eb;38.529955;-89.969746;15;15
+11998;Lebanon @ Dewey Eb;38.531655;-89.967228;15;16
+11999;Lebanon @ Freemont Eb;38.532456;-89.966006;15;17
+12001;Lebanon @ Grove Nb;38.534605;-89.963563;15;18
+12002;Lebanon @ Old Collinsville Nb;38.536016;-89.962568;15;19
+12003;Lebanon @ Dublin Eb;38.53815;-89.958398;15;20
+12004;Lebanon @ Southwind Eb;38.539072;-89.955921;15;21
+12005;Lebanon @ Whiteside Eb;38.539867;-89.952791;15;22
+12006;Lebanon @ San Mateo Eb;38.54058;-89.949595;15;23
+12007;Lebanon @ Hartman Eb;38.541377;-89.94654;15;24
+12008;Lebanon @ Anderson Eb;38.541672;-89.945434;15;25
+12009;Lebanon @ Williamsburg Eb;38.542242;-89.943449;15;26
+12010;Lebanon @ Warrior Way Eb;38.543373;-89.939948;15;27
+12011;2620 Lebanon Eb;38.544068;-89.938132;15;28
+12012;Lebanon @ St. John Eb;38.544637;-89.936659;15;29
+15365;Lebanon @ Pastoral Center Eb;38.545412;-89.934611;15;30
+12013;Lebanon @ Green Mount Eb;38.547114;-89.928484;15;31
+12014;Lebanon @ Ramona Eb;38.547759;-89.924328;15;32
+11924;Lebanon @ Christine Eb;38.547885;-89.923468;15;33
+12015;Lebanon @ Sir Lawrence Eb;38.548172;-89.92152;15;34
+12016;Lebanon @ Archview Eb;38.548818;-89.91756;15;35
+12017;Lebanon @ Innsbruck Eb;38.549677;-89.913522;15;36
+12018;Lebanon @ Twin Oaks Eb;38.549969;-89.911678;15;37
+12019;Lebanon @ Eagle Eb;38.550296;-89.910357;15;38
+12020;Lebanon @ Valley View Farm Eb;38.553672;-89.90479;15;39
+12021;Lebanon @ Eden Park Eb;38.554688;-89.903441;15;40
+11916;Main @ Shiloh Station Road Eb;38.556023;-89.901618;15;41
+12022;Main @ Julie Eb;38.557308;-89.900428;15;42
+12023;Main @ Seibert Eb;38.558714;-89.899365;15;43
+12024;Main @ Church Eb;38.559954;-89.898408;15;44
+12026;Cross @ Main Nb;38.561957;-89.897822;15;45
+12028;Cross @ Oak Nb;38.56262;-89.899256;15;46
+12029;Cross @ Tamarack Nb;38.565978;-89.90085;15;47
+12027;Cross @ Frank Scott Pkwy Nb;38.569659;-89.903257;15;48
+16248;Cross @ Memorial Hospital East Sb;38.573148;-89.905875;15;49
+12030;Lincoln @ Dartmouth Nb;38.577989;-89.91073;15;50
+12032;Lincoln @ Westminster Nb;38.580268;-89.910986;15;51
+12033;Lincoln @ Harvard Nb;38.582587;-89.910957;15;52
+14237;Lincoln @ East Us-50 Nb;38.585814;-89.911043;15;53
+10984;Lincoln @ 7th Street Nb;38.586546;-89.911041;15;54
+10982;Lincoln @ 5th Street Nb;38.588609;-89.910981;15;55
+10981;Lincoln @ 3rd Street Nb;38.590024;-89.910867;15;56
+14263;Lincoln @ 2nd Street Nb;38.590957;-89.910764;15;57
+11522;Westchester @ 74th Street Eb;38.54775;-90.054431;14;1
+11449;74th Street @ Illinois Route 13 Sb;38.546442;-90.054668;14;2
+14390;Magna @ Magna Bank Wb;38.545477;-90.061154;14;3
+11521;74th Street @ Magna Sb;38.543773;-90.054274;14;4
+14535;St. Clair Housing;38.538589;-90.053236;14;5
+11517;7245 Westfield Plaza Eb;38.541893;-90.052234;14;6
+11514;Westfield Plaza @ Westfield Plaza Entrance Nb;38.542602;-90.051636;14;7
+11457;Westfield Plaza @ Westfield Plaza Eb;38.544007;-90.051344;14;8
+11458;Illinois Route 13 @ Hillside Eb;38.544238;-90.050442;14;9
+11459;Illinois Route 13 @ North Belt West Eb;38.541892;-90.047833;14;10
+11461;Illinois Route 13 @ Birch Eb;38.53724;-90.043603;14;11
+11462;Illinois Route 13 @ Jonathon Lee Eb;38.536387;-90.04203;14;12
+11463;Illinois Route 13 @ Hickory Eb;38.535279;-90.038396;14;13
+15358;Illinois Route 13 @ Hickory Ridge Eb;38.534978;-90.036946;14;14
+16346;Frank Scott @ Hickory Bend Sb;38.533552;-90.036123;14;15
+16347;Frank Scott @ Hickory Manor Sb;38.531831;-90.036122;14;16
+16348;Belleville Crossing @ Shopping Center Sb;38.528835;-90.034829;14;17
+16349;Frank Scott Pkwy @ Hickory Manor Nb;38.532042;-90.036017;14;18
+16350;Frank Scott Pkwy @ Hickory Bend Nb;38.5337;-90.036019;14;19
+11464;Frank Scott Parkway @ South Belt West Nb;38.535458;-90.03618;14;20
+11465;Frank Scott Parkway @ Elizabeth Nb;38.537164;-90.036695;14;21
+11466;Frank Scott Parkway @ Memory Nb;38.539068;-90.036882;14;22
+11467;Frank Scott Parkway @ North Belt West Nb;38.54128;-90.036742;14;23
+11468;North Belt West @ 47th Street Eb;38.54159;-90.03459;14;24
+11469;5610 North Belt West Eb;38.541531;-90.03206;14;25
+11470;North Belt West @ Freedom Eb;38.541468;-90.029455;14;26
+11471;North Belt West @ Washington Eb;38.54146;-90.026934;14;27
+11472;North Belt West @ Main Eb;38.54152;-90.02405;14;28
+11473;North Belt West @ 46th Street Eb;38.541496;-90.022521;14;29
+11474;North Belt West @ 44th Street Eb;38.541476;-90.020709;14;30
+11475;North Belt West @ 43rd Street Eb;38.541464;-90.01802;14;31
+11476;North Belt West @ 42nd Street Eb;38.541451;-90.016702;14;32
+11477;North Belt West @ 41st Street Eb;38.541444;-90.01548;14;33
+11478;North Belt West @ 40th Street Eb;38.541424;-90.01425;14;34
+11479;North Belt West @ 39th Street Eb;38.54141;-90.012967;14;35
+11480;Royal Heights @ North Belt West Nb;38.541968;-90.011096;14;36
+15359;Royal Heights @ Mariknoll Nb;38.543931;-90.0111;14;37
+15360;Royal Heights @ North Nb;38.545041;-90.011088;14;38
+15361;Royal Heights @ Park Nb;38.546786;-90.011092;14;39
+11433;Memorial @ Royal Heights Wb;38.548878;-90.011443;14;40
+11434;Memorial @ High Forest Wb;38.548878;-90.013175;14;41
+11435;Memorial @ 39th Street Wb;38.548896;-90.01423;14;42
+11436;Memorial @ 43rd Street Wb;38.548923;-90.018087;14;43
+11437;Memorial @ Park Wb;38.548943;-90.020145;14;44
+11538;Memorial @ Memorial Hospital Main Entrance Wb;38.55057;-90.021201;14;45
+11439;Memorial @ Admission Testing Center Wb;38.550587;-90.022237;14;46
+15362;Dapron @ Hope Church Wb;38.550232;-90.025535;14;47
+15363;Dapron @ Frank Scott Parkway Wb;38.550519;-90.027243;14;48
+15364;Frank Scott Parkway @ Gettysburg Nb;38.555198;-90.020034;14;49
+11545;Flanagan @ Ida Nb;38.556217;-90.018275;14;50
+11427;Memorial Hospital Transit Center;38.558318;-90.01537;14;51
+13932;Madison County Transit Ctr;38.670639;-89.987386;13-il;1
+11589;Main @ Center Eb;38.669964;-89.986223;13-il;2
+11667;Main @ Morrison Eb;38.670389;-89.984978;13-il;3
+11591;Morrison @ Church Sb;38.669041;-89.984167;13-il;4
+11592;Morrison @ Hill Sb;38.667788;-89.983491;13-il;5
+11662;Morrison @ Chestnut Sb;38.664458;-89.982552;13-il;6
+11594;Morrison @ Clinton Sb;38.661736;-89.983304;13-il;7
+11595;Morrison @ Idlewood Sb;38.659692;-89.984869;13-il;8
+11596;Morrison @ Cherokee Sb;38.658056;-89.986143;13-il;9
+15596;Morrison @ St. Clair Wb;38.650044;-89.994846;13-il;10
+15597;Morrison @ Carl Wb;38.648814;-89.999489;13-il;11
+15598;Morrison @ Wendler Wb;38.647941;-90.002857;13-il;12
+15599;Morrison @ Heatherwood Wb;38.647058;-90.006264;13-il;13
+11686;2220 Morrison Wb;38.645735;-90.013378;13-il;14
+11570;Main @ Hollywood Heights Sb;38.64086;-90.020801;13-il;15
+11569;Main @ Reynolds Sb;38.639646;-90.022201;13-il;16
+15908;Main @ Scates Sb;38.637808;-90.024322;13-il;17
+11556;Main @ Lincoln Sb;38.633388;-90.028427;13-il;18
+15304;Main @ St Stephens Church Sb;38.63016;-90.030727;13-il;19
+15305;Main @ Braden Sb;38.627264;-90.033357;13-il;20
+11696;89th Street @ Parkdale Sb;38.625747;-90.034715;13-il;21
+11697;89th Street @ Sterling Place Sb;38.624383;-90.035965;13-il;22
+11698;Illinois Route 157 @ Bunkum Sb;38.620391;-90.040432;13-il;23
+15306;Illinois Route 157 @ Maple Sb;38.618906;-90.041649;13-il;24
+11699;Illinois Route 157 @ Sasak Place Sb;38.617306;-90.043404;13-il;25
+16342;40 Tucker Wb;38.610965;-90.050869;13-il;26
+16343;20 Tucker Wb;38.611043;-90.055208;13-il;27
+16344;12 Tucker;38.610017;-90.0577;13-il;28
+16345;40 Tucker Eb;38.610831;-90.050543;13-il;29
+11702;Illinois Route 157 @ Tucker Sb;38.610438;-90.048286;13-il;30
+11703;Illinois Route 157 @ Garden Sb;38.608707;-90.049182;13-il;31
+11704;Illinois Route 157 @ California Sb;38.60292;-90.05201;13-il;32
+12079;St. Clair @ Magdalena Eb;38.597703;-90.051173;13-il;33
+14124;Fairview Heights Transit Center;38.594699;-90.048283;13-il;34
+14124;Fairview Heights Transit Center;38.594699;-90.048283;12;1
+11819;St. Clair @ Montclair Eb;38.595434;-90.041771;12;2
+11820;St. Clair @ Clifford Terrace Eb;38.594992;-90.034045;12;3
+11821;St. Clair @ Edgewood Eb;38.594872;-90.032271;12;4
+11822;St. Clair @ Estates View Eb;38.594599;-90.027147;12;5
+11823;St. Clair @ Fairview Eb;38.594247;-90.020954;12;6
+11824;St. Clair @ Weinel Eb;38.594101;-90.018413;12;7
+11825;St. Clair @ St. Clair Eb;38.593982;-90.016276;12;8
+11826;St. Clair @ Bunkum Eb;38.593763;-90.013222;12;9
+11827;Lincoln Trail @ Phillips Eb;38.593468;-90.011267;12;10
+11828;Lincoln Trail @ Old Lincoln Trail Eb;38.593166;-90.009575;12;11
+11829;Lincoln Trail @ North Point Eb;38.592937;-90.007382;12;12
+11830;Lincoln Trail @ Union Hill Eb;38.592888;-90.004193;12;13
+11831;Lincoln Trail @ Roselawn Eb;38.592884;-90.002337;12;14
+11833;Lincoln Trail @ Catherine Eb;38.592872;-89.998366;12;15
+11834;Lincoln Trail @ Bluff Court Eb;38.59287;-89.995859;12;16
+11835;Lincoln Trail @ Ruby Eb;38.592821;-89.99388;12;17
+11836;Lincoln Trail @ Canty Eb;38.592807;-89.991981;12;18
+15270;Commerce @ Lincoln Trail Nb;38.59357;-89.990375;12;19
+11837;Commerce @ Market Place Nb;38.59496;-89.990338;12;20
+11838;58 Commerce Nb;38.596319;-89.990292;12;21
+11839;Commerce @ Vatterott College Nb;38.597599;-89.990251;12;22
+11840;Plaza @ Best Buy Wb;38.59948;-89.993547;12;23
+11841;140 Ludwig Eb;38.601046;-89.993542;12;24
+11842;Ludwig @ Fairview Heights Plaza - Red Lobster Eb;38.600917;-89.991441;12;25
+14253;100 Ludwig Eb;38.600851;-89.990236;12;26
+11843;Ludwig @ St. Clair 10 Eb;38.600769;-89.988994;12;27
+11844;Ludwig @ Drury Inn Entrance - Olive Garden Eb;38.60175;-89.986833;12;28
+11957;Ludwig @ Drury Inn Entrance - Bob Evans Eb;38.601906;-89.986235;12;29
+11603;Illinois @ Ludwig Sb;38.601633;-89.985159;12;30
+11846;St. Clair Square Macys Entrance;38.595966;-89.981762;12;31
+15271;St. Clair Square @ Plaza St. Clair Sb;38.594047;-89.976828;12;32
+11851;Lincoln Highway @ Joseph Eb;38.59261;-89.975935;12;33
+11852;Lincoln Highway @ Aubuchon Eb;38.592599;-89.974022;12;34
+11853;Lincoln Highway @ Bel-Rose Eb;38.592596;-89.971559;12;35
+11854;Lincoln Highway @ Hampton Eb;38.592588;-89.969864;12;36
+11855;Lincoln Highway @ Schaperkoetter Eb;38.5926;-89.967606;12;37
+11856;West Us-50 @ Old Collinsville Eb;38.592599;-89.965764;12;38
+11857;2003 West Us-50 Eb;38.592601;-89.963454;12;39
+11858;West Us-50 @ Mari Eb;38.592581;-89.960968;12;40
+11859;West Us-50 @ Castle Acres Eb;38.592583;-89.958578;12;41
+11860;West Us-50 @ St. Ellen Eb;38.592567;-89.956084;12;42
+11861;West Us-50 @ Dean Eb;38.592549;-89.954664;12;43
+14254;West Us-50 @ Alice Eb;38.592531;-89.953687;12;44
+11862;West Us-50 @ Long Eb;38.592511;-89.950947;12;45
+11863;West Us-50 @ Hartman Eb;38.592476;-89.949002;12;46
+14255;Hartman @ Belt Sb;38.590677;-89.947612;12;47
+11864;1325 Central Park Eb;38.589518;-89.946105;12;48
+11865;Central Park @ Chevys Fresh Mex Sb;38.588538;-89.943513;12;49
+11866;Central Park @ Central Park Plaza Sb;38.587319;-89.942579;12;50
+15272;Central Park @ Garden Ridge Entrance Sb;38.586343;-89.941058;12;51
+15273;Central Park @ Menards Sb;38.585364;-89.94011;12;52
+15274;1247 Central Park Sb;38.57987;-89.937055;12;53
+16443;Central Park @ Gateway Classic Cars Sb;38.576949;-89.934897;12;54
+15275;Central Park @ Golds Gym Sb;38.575639;-89.933445;12;55
+15905;Central Park @ Drury Inn Eb;38.572918;-89.930836;12;56
+14282;Green Mount @ Green Mount Crossing Nb;38.573278;-89.928918;12;57
+15805;Regency @ Greenmount Wb;38.579597;-89.929865;12;58
+15806;Regency @ Regency Conference Center Nb;38.579601;-89.931379;12;59
+15807;Regengy @ Hilton Garden Inn Entrance Nb;38.580537;-89.933369;12;60
+16389;St. Elizabeth Hospital Loop;38.582996;-89.933448;12;61
+15808;Regency @ Extended Stay America 2nd Entrance Nb;38.587252;-89.939574;12;62
+15809;Regency @ Baymont Entrance Nb;38.588756;-89.940005;12;63
+15810;Regency @ Schantz Eb;38.591279;-89.939083;12;64
+11870;West Us-50 @ Main Eb;38.592313;-89.93739;12;65
+14256;West Us-50 @ Eagle Center Eb;38.590303;-89.930897;12;66
+10827;West Us-50 @ Green Mount Eb;38.588671;-89.928306;12;67
+10828;West Us-50 @ Principle Eb;38.588563;-89.925514;12;68
+10830;West Us-50 @ Lawn Eb;38.588538;-89.921946;12;69
+14239;Cambridge @ West Us-50 Sb;38.588115;-89.920895;12;70
+15811;Cambridge @ Granite Sb;38.586724;-89.92202;12;71
+15812;Cambridge @ Titan Sb;38.585597;-89.92293;12;72
+15813;844 Cambridge Wb;38.585011;-89.925318;12;73
+15814;Cambridge @ Indian Creek Wb;38.585;-89.926902;12;74
+15279;Cambridge @ Green Mount Wb;38.585161;-89.928884;12;75
+15280;Greenmount @ Misty Valley Nb;38.587438;-89.928835;12;76
+15815;Schwaegel @ Center Grove Nb;38.590818;-89.928951;12;77
+14264;State @ 9 Eagle Park Eb;38.592302;-89.928;12;78
+11874;State @ Countryside Eb;38.592391;-89.925877;12;79
+11875;State @ Lawn Eb;38.592282;-89.922151;12;80
+11876;State @ Douglas Eb;38.592257;-89.921086;12;81
+11877;State @ Spruce Eb;38.59255;-89.918706;12;82
+11878;State @ Charles Eb;38.592435;-89.916311;12;83
+11879;State @ Oak Eb;38.592285;-89.913702;12;84
+11880;State @ Cherry Eb;38.592286;-89.912503;12;85
+11881;State @ Lincoln Eb;38.592277;-89.911199;12;86
+12052;Lincoln @ 2nd Street Sb;38.591372;-89.91084;12;87
+10980;Lincoln @ 5th Street Sb;38.588649;-89.911057;12;88
+10983;Lincoln @ 7th Street Sb;38.586397;-89.911113;12;89
+14261;East Us-50 @ Whitehall Eb;38.584829;-89.908965;12;90
+12036;East Us-50 @ Park Entrance Place Eb;38.584739;-89.906085;12;91
+12037;East Us-50 @ Southview Eb;38.584536;-89.904086;12;92
+13885;Smiley @ 7th Street Nb;38.585482;-89.902519;12;93
+11896;Smiley @ 6th Street Nb;38.586718;-89.902472;12;94
+12038;Smiley @ 5th Street Nb;38.587886;-89.902474;12;95
+14286;Smiley @ 3rd Street Nb;38.590018;-89.902482;12;96
+11888;1st Street @ Smiley Eb;38.591368;-89.902236;12;97
+14225;1st Street @ Utility Pole #36193 Eb;38.59123;-89.899337;12;98
+11889;Weber @ 2nd Street Sb;38.590654;-89.897737;12;99
+11890;Weber @ 3rd Street Sb;38.588501;-89.897733;12;100
+11891;Weber @ Agnes Sb;38.586876;-89.89813;12;101
+11892;Weber @ Ofallon High School Rear Entrance Sb;38.585421;-89.898576;12;102
+11893;Weber @ Ofallon Health Rehab Center Sb;38.584294;-89.898625;12;103
+14328;Weber @ East Us-50 Sb;38.583138;-89.898621;12;104
+10985;904 East Us-50 Eb;38.58184;-89.896306;12;105
+10986;East Us-50 @ Timber Creek Eb;38.580939;-89.892823;12;106
+10987;East Us-50 @ Country Oaks Eb;38.58091;-89.886;12;107
+10988;East Us-50 @ Lakepointe Centre Eb;38.580886;-89.882656;12;108
+15281;East Us-50 @ Arbor Parkway Eb;38.581044;-89.878985;12;109
+10989;East Us-50 @ Eastgate Eb;38.581747;-89.877097;12;110
+15282;East Us-50 @ Air Mobility Eb;38.582895;-89.874657;12;111
+15283;Air Mobility @ Maple Sb;38.560748;-89.88055;12;112
+15284;Air Mobility @ Seibert Sb;38.547637;-89.88385;12;113
+15285;Metro Plaza @ Section Line Eb;38.540161;-89.882358;12;114
+14272;Shiloh-Scott Transit Center;38.539473;-89.879645;12;115
+12702;Emerson Park Transit Center;38.629466;-90.137885;9-il;1
+12741;11th Street @ Bowman Nb;38.631392;-90.1399;9-il;2
+14197;Exchange @ 13th Street Eb;38.631553;-90.137469;9-il;3
+14556;Exchange @ 15th Street Eb;38.629636;-90.135111;9-il;4
+15572;Lynch @ 15th Street Eb;38.63113;-90.13209;9-il;5
+16327;18th Street @ Lynch Sb;38.629827;-90.131039;9-il;6
+16328;18th Street @ Winstanley Sb;38.628883;-90.131939;9-il;7
+16329;18th Street @ Exchange Sb;38.628127;-90.132633;9-il;8
+16330;18th Street @ Weiman Sb;38.627458;-90.133323;9-il;9
+16331;18th Street @ Baugh Sb;38.625779;-90.134411;9-il;10
+12823;25th Street @ St. Clair Nb;38.620708;-90.124696;9-il;11
+14280;Jjk Center Transit Center;38.62369;-90.124126;9-il;12
+12525;25th Street @ Argonne Nb;38.625114;-90.122044;9-il;13
+12526;25th Street @ Lynch Nb;38.626579;-90.121456;9-il;14
+12527;25th Street @ Caseyville Nb;38.627821;-90.12145;9-il;15
+12528;25th Street @ Natalie Nb;38.628614;-90.121425;9-il;16
+12529;25th Street @ Douglas Nb;38.629847;-90.121395;9-il;17
+12530;25th Street @ Gross Nb;38.630952;-90.121406;9-il;18
+12531;25th Street @ Audubon Nb;38.632523;-90.121379;9-il;19
+12532;25th Street @ Lincolin Nb;38.634202;-90.121357;9-il;20
+12533;Waverly @ 25th Street Eb;38.635268;-90.121062;9-il;21
+12534;2550 Waverly Eb;38.635295;-90.118937;9-il;22
+12415;Waverly @ Park Eb;38.635307;-90.116844;9-il;23
+12541;Waverly @ 32nd Street Eb;38.635318;-90.114382;9-il;24
+12542;Waverly @ 36th Street Eb;38.635343;-90.111797;9-il;25
+12543;Waverly @ 38th Street Eb;38.635343;-90.110979;9-il;26
+12544;Waverly @ 39th Street Eb;38.63535;-90.109902;9-il;27
+12545;Waverly @ 40th Street Eb;38.635355;-90.108882;9-il;28
+12546;40th Street @ Forest Nb;38.636573;-90.108572;9-il;29
+12547;Forest @ 42nd Street Eb;38.636743;-90.106186;9-il;30
+12548;Forest @ 43rd Street Eb;38.636758;-90.105059;9-il;31
+15253;Forest @ 44th Street Eb;38.636758;-90.104256;9-il;32
+12549;Forest @ 46th Street Eb;38.636761;-90.101868;9-il;33
+12551;Forest @ Washington Park Eb;38.636771;-90.100248;9-il;34
+12552;Forest @ 49th Street Eb;38.636782;-90.099062;9-il;35
+12553;4998 Forest Eb;38.636789;-90.097834;9-il;36
+16176;Forest @ 51st Street Eb;38.636806;-90.096789;9-il;37
+16177;Forest @ 52nd Street Eb;38.636802;-90.095583;9-il;38
+15254;Forest @ 53rd Street Eb;38.636839;-90.094452;9-il;39
+12554;Forest @ 54th Street Eb;38.63681;-90.093809;9-il;40
+12555;Forest @ 55th Street Eb;38.636826;-90.092114;9-il;41
+12556;Forest @ 57th Street Eb;38.636867;-90.089805;9-il;42
+12557;Forest @ 59th Street Eb;38.636856;-90.087567;9-il;43
+12559;Sanitation District Loop @ 62nd Street Eb;38.636796;-90.083354;9-il;44
+12396;Forest @ 60th Street Wb;38.63694;-90.086048;9-il;45
+12397;Forest @ 58th Street Wb;38.636941;-90.088798;9-il;46
+12399;Forest @ 56th Street Wb;38.63694;-90.090625;9-il;47
+12400;Forest @ 55th Street Wb;38.636952;-90.092116;9-il;48
+16442;54th Street @ North Park Sb;38.634861;-90.093164;9-il;49
+16447;54th Street @ Audubon Sb;38.632491;-90.093148;9-il;50
+12450;Kings Highway @ Warren Sb;38.628624;-90.093138;9-il;51
+15245;Kings Highway @ Westmoreland Sb;38.627611;-90.093118;9-il;52
+12451;Kings Highway @ Hallows Sb;38.626829;-90.093108;9-il;53
+12452;Kings Highway @ Avon Place Sb;38.625856;-90.093102;9-il;54
+12453;Kings Highway @ Adelaide Sb;38.623747;-90.093136;9-il;55
+14125;Washington Park Transit Center;38.614094;-90.095014;9-il;56
+12985;Old Camp Jackson @ Range Eb;38.563203;-90.177147;8-il;1
+12986;Camp Jackson @ Miskell Sb;38.561393;-90.174961;8-il;2
+12987;Camp Jackson @ Kazilek Sb;38.558857;-90.172018;8-il;3
+12988;Camp Jackson @ Cahokia Park Sb;38.556978;-90.169786;8-il;4
+12989;Camp Jackson @ Christopher Sb;38.555867;-90.168443;8-il;5
+12990;Camp Jackson @ Kenneth Sb;38.554513;-90.166922;8-il;6
+12991;Camp Jackson @ Lazarcheff Sb;38.552897;-90.165097;8-il;7
+12992;Camp Jackson @ Poplar Eb;38.548749;-90.156953;8-il;8
+12993;Camp Jackson @ Louise Eb;38.549255;-90.155063;8-il;9
+12994;Camp Jackson @ Jerome Eb;38.549809;-90.151772;8-il;10
+14883;Camp Jackson @ Doris Eb;38.550172;-90.149498;8-il;11
+12996;Camp Jackson @ Lloyd Eb;38.550823;-90.145294;8-il;12
+12997;Camp Jackson @ Delano Eb;38.550726;-90.139172;8-il;13
+12998;Camp Jackson @ Helen Court Eb;38.55055;-90.13727;8-il;14
+12999;Camp Jackson @ Delores Eb;38.550302;-90.134603;8-il;15
+13000;Camp Jackson @ Lenora Eb;38.55011;-90.132736;8-il;16
+13001;Camp Jackson @ Calvin Eb;38.549821;-90.129611;8-il;17
+16434;Camp Jackson @ Lorraine Eb;38.550639;-90.119351;8-il;18
+16450;Camp Jackson @ Renois Eb;38.553313;-90.114128;8-il;19
+16436;Old Missouri @ Church Nb;38.558063;-90.10852;8-il;20
+12629;Old Missouri @ Tuskegee Nb;38.560324;-90.106416;8-il;21
+12605;Clarita @ Old Missouri Nb;38.563455;-90.104088;8-il;22
+12606;Carver @ Hinkley Nb;38.56539;-90.105757;8-il;23
+12630;66th Street @ Clarita Sb;38.566002;-90.107045;8-il;24
+15263;6610 Future Eb;38.565095;-90.1069;8-il;25
+12631;Hinckley @ Clarita Sb;38.564807;-90.106155;8-il;26
+12632;Clarita @ Old Missouri Sb;38.563396;-90.104173;8-il;27
+16438;Old Missouri @ Clarita Nb;38.563454;-90.103573;8-il;28
+12657;Bond @ Old Missouri Nb;38.567884;-90.103592;8-il;29
+12658;Bond @ 5851 Bond Wb;38.571689;-90.108006;8-il;30
+12661;Bond @ 57th Street Wb;38.573238;-90.109785;8-il;31
+12663;Bond @ 55th Street Wb;38.575577;-90.112494;8-il;32
+12665;Bond @ 5oth Street Wb;38.578951;-90.116482;8-il;33
+15803;Bond @ Jarvis Place Wb;38.579995;-90.117616;8-il;34
+12666;Bond @ 49th Street Wb;38.58029;-90.118048;8-il;35
+12667;Bond @ Village Wb;38.580985;-90.118829;8-il;36
+12668;Bond @ 48th Street Wb;38.582127;-90.120033;8-il;37
+12669;Bond @ 47th Street Wb;38.582891;-90.121173;8-il;38
+12670;Bond @ 43rd Street Wb;38.584161;-90.122689;8-il;39
+12671;Bond @ 42nd Street Wb;38.585947;-90.124737;8-il;40
+12673;Bond @ 37th Street Wb;38.590923;-90.130204;8-il;41
+12674;Bond @ 36th Street Wb;38.592915;-90.132578;8-il;42
+12675;Bond @ 35th Street Wb;38.593822;-90.133661;8-il;43
+12676;Bond @ 33rd Street Wb;38.595312;-90.135421;8-il;44
+12677;3109 Bond Wb;38.596403;-90.136722;8-il;45
+12678;Bond @ 29th Street Wb;38.597625;-90.138167;8-il;46
+12679;Bond @ 27th Street Wb;38.599135;-90.139888;8-il;47
+14319;Bond @ 26th Street Wb;38.600137;-90.141078;8-il;48
+14460;26th Street @ Dr John H Rouse Nb;38.60093;-90.140758;8-il;49
+15269;26th Street @ Kansas Nb;38.604831;-90.13544;8-il;50
+12900;26th Street @ Missouri Nb;38.605407;-90.13468;8-il;51
+14193;26th Street @ Gaty Nb;38.606042;-90.133798;8-il;52
+12834;26th Street @ St. Louis Nb;38.606909;-90.132608;8-il;53
+12833;25th Street @ Illinois Nb;38.60837;-90.131777;8-il;54
+12832;25th Street @ Louisiana Nb;38.60923;-90.131257;8-il;55
+12831;25th Street @ Belleview Nb;38.61095;-90.130231;8-il;56
+12830;510 25th Street Nb;38.613391;-90.128798;8-il;57
+12818;25th Street @ Henrietta Nb;38.614312;-90.128224;8-il;58
+12819;25th Street @ State Nb;38.615702;-90.127406;8-il;59
+12820;25th Street @ State Nb;38.616823;-90.127119;8-il;60
+12821;25th Street @ Ohio Nb;38.618033;-90.126391;8-il;61
+12822;25th Street @ Summit Nb;38.619466;-90.125475;8-il;62
+12823;25th Street @ St. Clair Nb;38.620708;-90.124696;8-il;63
+15558;Baugh @ 18th Street Wb;38.625623;-90.134727;8-il;64
+15559;Baugh @ 13th Street Wb;38.627509;-90.137362;8-il;65
+15560;Baugh @ 11th Street Wb;38.630509;-90.140903;8-il;66
+12702;Emerson Park Transit Center;38.629466;-90.137885;8-il;67
+14124;Fairview Heights Loop @ Metrolink;38.594699;-90.048283;6;1
+14209;St. Clair @ Magdalena Wb;38.597563;-90.050667;6;2
+12263;Illinois Route 157 @ Church Sb;38.596543;-90.054317;6;3
+15307;Vieux Carre @ Bougainville Wb;38.595494;-90.056463;6;4
+15308;Vieux Carre @ 86th Street Wb;38.595821;-90.057633;6;5
+15309;Vieux Carre @ Goelz Wb;38.596331;-90.059436;6;6
+15310;Marybell @ 84th Street Wb;38.595897;-90.06119;6;7
+15311;Marybell @ 83rd Street Wb;38.596621;-90.062599;6;8
+15312;Marybell @ 82nd Street Wb;38.597192;-90.063746;6;9
+15313;Marybell @ 81st Street Wb;38.597679;-90.064715;6;10
+14401;Marybell @ 80th Street Wb;38.598287;-90.065944;6;11
+15314;Marybell @ 78th Street Wb;38.599068;-90.067499;6;12
+15315;Marybell @ Pershing Wb;38.599898;-90.069151;6;13
+15316;Marybell @ 76th Street Wb;38.600554;-90.070466;6;14
+15317;Marybell @ 75th Street Wb;38.601044;-90.071446;6;15
+15318;Marybell @ 73rd Street Wb;38.601948;-90.073308;6;16
+15319;Marybell @ 71st Street Wb;38.602657;-90.074713;6;17
+15320;Marybell @ Noble Wb;38.603546;-90.076512;6;18
+15321;Marybell @ Bre-mar Wb;38.604044;-90.07756;6;19
+15322;Summit @ Kings Highway Wb;38.610226;-90.092431;6;20
+12476;Kings Highway @ Summit Nb;38.610767;-90.092735;6;21
+14125;Washington Park Loop @ Metrolink;38.614094;-90.095014;6;22
+15239;St. Clair @ 47th Street Wb;38.614563;-90.103258;6;23
+12484;St. Clair @ 40th Street Wb;38.616198;-90.109546;6;24
+12485;St. Clair @ 39th Street Wb;38.616592;-90.111064;6;25
+15240;37th Street @ St. Clair Nb;38.61704;-90.111704;6;26
+12486;37th Street @ Monk Nb;38.621747;-90.111218;6;27
+12487;37th Street @ Bumkum Nb;38.623306;-90.111247;6;28
+12488;Bunkum @ 38th Street Eb;38.62349;-90.110233;6;29
+12489;Bunkum @ 40th Street Eb;38.623431;-90.108238;6;30
+12490;Bunkum @ 41st Street Eb;38.623408;-90.106934;6;31
+12491;Bunkum @ 43rd Street Eb;38.62335;-90.104682;6;32
+12492;Bunkum @ 44th Street Eb;38.623304;-90.103472;6;33
+12493;Bunkum @ 45th Street Eb;38.623279;-90.102166;6;34
+12494;Bunkum @ 47th Street Eb;38.623265;-90.100881;6;35
+12495;Bunkum @ 48th Street Eb;38.623216;-90.09971;6;36
+12496;Bunkum @ 49th Street Eb;38.623183;-90.098524;6;37
+12497;Bunkum @ 51st Street Eb;38.623136;-90.096546;6;38
+12498;Bunkum @ 52nd Street Eb;38.623079;-90.094907;6;39
+12499;Kings Highway @ Adelaide Nb;38.623782;-90.09292;6;40
+12500;Kings Highway @ Avon Place Nb;38.625502;-90.093018;6;41
+12501;Kings Highway @ Westmoreland Nb;38.627235;-90.093008;6;42
+12502;Kings Highway @ Warren Nb;38.628094;-90.093016;6;43
+12503;Kings Highway @ Portland Place Nb;38.628974;-90.093016;6;44
+12504;Caseyville @ 55th Street Wb;38.630397;-90.094173;6;45
+12505;Caseyville @ 51st Street Wb;38.630432;-90.095906;6;46
+12506;Caseyville @ 50th Street Wb;38.630461;-90.097027;6;47
+12507;Caseyville @ 49th Street Wb;38.630493;-90.098184;6;48
+12509;Caseyville @ 46th Street Wb;38.630576;-90.101847;6;49
+12510;Caseyville @ 45th Street Wb;38.63059;-90.103029;6;50
+12511;Caseyville @ 44th Street Wb;38.630618;-90.104257;6;51
+12512;Caseyville @ 43rd Street Wb;38.630637;-90.105036;6;52
+15241;Caseyville @ 42nd Street Wb;38.630675;-90.106105;6;53
+12513;Caseyville @ 41st Street Wb;38.630694;-90.107168;6;54
+12514;Caseyville @ 40th Street Wb;38.630735;-90.108364;6;55
+12515;Caseyville @ 39th Street Wb;38.630379;-90.109771;6;56
+12516;Caseyville @ 36th Street Wb;38.629557;-90.111769;6;57
+12517;Caseyville @ 35th Street Wb;38.629134;-90.112644;6;58
+12518;Caseyville @ 32nd Street Wb;38.628621;-90.114321;6;59
+12519;Caseyville @ Park Wb;38.628558;-90.115636;6;60
+12520;Caseyville @ 29th Street Wb;38.627946;-90.118857;6;61
+12522;26th Street @ Lynch Sb;38.626378;-90.121056;6;62
+12523;25th Street @ Jjk Circle Sb;38.624975;-90.122247;6;63
+14280;JJK Center Loop @ Metrolink;38.62369;-90.124126;6;64
+12725;18th Street @ Parson Nb;38.626139;-90.13408;6;65
+12726;18th Street @ Weiman Nb;38.627469;-90.133177;6;66
+12727;18th Street @ Exchange Nb;38.628191;-90.132489;6;67
+12728;18th Street @ Winstanley Nb;38.629102;-90.131618;6;68
+12729;18th Street @ Lynch Nb;38.629828;-90.130917;6;69
+12730;Lynch @ 15th Street Wb;38.631236;-90.132167;6;70
+15573;Exchange @ 15th Street;38.629692;-90.13515;6;71
+12740;Exchange @ 13th Street;38.631375;-90.13709;6;72
+12703;11th Street @ Bowman Sb;38.631671;-90.139701;6;73
+12702;Emerson Park Loop @ Metrolink;38.629466;-90.137885;6;74
+14330;5th & Missouri Loop @ Metrolink;38.625015;-90.159056;4-il;1
+12797;Missouri @ 7th Street Eb;38.6244;-90.156888;4-il;2
+12798;Missouri @ 8th Street Eb;38.623356;-90.155679;4-il;3
+12799;9th Street @ Missouri Sb;38.622633;-90.155387;4-il;4
+14884;Broadway @ 10th Street Eb;38.620649;-90.156666;4-il;5
+14906;10th Street @ Walnut Sb;38.619997;-90.157113;4-il;6
+14885;10th Street @ Converse Sb;38.618121;-90.159707;4-il;7
+12567;Bond @ 10th Street Eb;38.616806;-90.16099;4-il;8
+12569;Bond @ 12th Street Eb;38.615006;-90.158845;4-il;9
+12570;Bond @ 13th Street Eb;38.614006;-90.157659;4-il;10
+12571;Bond @ 14th Street Eb;38.612794;-90.156245;4-il;11
+12572;Bond @ 15th Street Eb;38.611696;-90.154937;4-il;12
+12573;Bond @ 16th Street Eb;38.610565;-90.153587;4-il;13
+12574;Bond @ 17th Street Eb;38.609375;-90.152158;4-il;14
+12575;Bond @ 18th Street Eb;38.608185;-90.150764;4-il;15
+12576;Bond @ 19th Street Eb;38.607019;-90.149396;4-il;16
+14907;19th Street @ Market Sb;38.606445;-90.149967;4-il;17
+14886;19th Street @ Pigott Sb;38.605285;-90.151546;4-il;18
+14887;19th Street @ Tudor Sb;38.604486;-90.15266;4-il;19
+12863;19th Street @ Boismenue Sb;38.603334;-90.154216;4-il;20
+12864;19th Street @ Gay Sb;38.602122;-90.155849;4-il;21
+12865;19th Street @ Lawrence Sb;38.601277;-90.157031;4-il;22
+12866;Wilford @ G Street Wb;38.601048;-90.158717;4-il;23
+15234;Wilford @ 18th Street Wb;38.601618;-90.159394;4-il;24
+12868;Wilford @ Dr Mr Lemons Wb;38.603004;-90.16103;4-il;25
+12869;16th Street @ Wilford Nb;38.604416;-90.162482;4-il;26
+14277;1st Street @ Water Wb;38.547377;-90.198809;3;1
+14167;Water @ Adams Nb;38.549738;-90.200813;3;2
+14168;Water @ St. Gregory Nb;38.554221;-90.200638;3;3
+13055;Water @ Garden Nb;38.55683;-90.19916;3;4
+14170;Water @ Isabell Nb;38.559119;-90.197701;3;5
+14171;Water @ Cardinal Heights Nb;38.562024;-90.195374;3;6
+14172;Water @ Ruby Nb;38.563689;-90.194027;3;7
+13008;Water @ 6th Street Nb;38.566097;-90.191868;3;8
+12274;Illinois Route 3 @ 4th Street Nb;38.567678;-90.190584;3;9
+12272;Illinois Route 3 @ 2nd Street Nb;38.569965;-90.190051;3;10
+12385;4076 Illinois Route 3;38.57274;-90.187038;3;11
+12386;Mississippi @ Circle Creek;38.574502;-90.185272;3;12
+12389;Mississippi @ Gloria;38.578344;-90.182773;3;13
+16431;Jerome @ Lee;38.58008;-90.180058;3;14
+16432;Jerome @ 210 Jerome;38.577457;-90.176901;3;15
+13059;Falling Springs @ Kinder Nb;38.577786;-90.17485;3;16
+13060;Falling Springs @ Julian Nb;38.580327;-90.172726;3;17
+13061;Falling Springs @ Judith Nb;38.582352;-90.17155;3;18
+16319;Sauget Industrial Pkwy @ Curtis Steinberg Nb;38.58161;-90.159947;3;19
+16320;Sauget Industrial Pkwy @ Sauget Industrial Pkwy Nb;38.582902;-90.158083;3;20
+16321;1640 Sauget Industrial Pkwy Eb;38.582127;-90.15664;3;21
+16322;Sauget Industrial Pkwy @ St. Louis Downtown Airport Eb;38.57849;-90.152379;3;22
+16309;Sauget Business @ Sauget Industrial Pkwy Wb;38.578288;-90.147778;3;23
+16324;Sauget Business @ Stellar Entrance Wb;38.581913;-90.152003;3;24
+16325;Sauget Business @ Fedex Sb;38.584183;-90.155319;3;25
+16326;Sauget Business @ Sauget Industrial Sb;38.583484;-90.15758;3;26
+13065;Curtis Steinberg @ Sauget Industrial Wb;38.581663;-90.160586;3;27
+13062;Falling Springs @ Curtis Steinberg Nb;38.58615;-90.169806;3;28
+14880;Nickell @ Falling Spring Nb;38.589414;-90.169495;3;29
+13067;Queeny @ Illinois Route 3 Wb;38.589963;-90.175947;3;30
+13069;Illinois Route 3 @ Monsanto Nb;38.601049;-90.172628;3;31
+13071;Mississippi @ Liberty Nb;38.609289;-90.170263;3;32
+14173;Mississippi @ Sycamore Nb;38.61152;-90.169604;3;33
+13075;8th Street @ Market Nb;38.617952;-90.163519;3;34
+12696;8th Street @ Converse Nb;38.619308;-90.161653;3;35
+12697;8th Street @ Brady Nb;38.620157;-90.160485;3;36
+12698;8th Street @ Walnut Nb;38.621209;-90.159062;3;37
+12700;Broadway @ 8th Street Wb;38.622235;-90.158403;3;38
+12701;Broadway @ 6th Street Wb;38.623265;-90.159622;3;39
+14330;5th & Missouri Loop @ Metrolink;38.625015;-90.159056;3;40
+14330;5th & Missouri Loop @ Metrolink;38.625015;-90.159056;2-il;1
+12560;East Broadway @ 6th Street Eb;38.623103;-90.159612;2-il;2
+12561;East Broadway @ 8th Street Eb;38.622018;-90.15834;2-il;3
+12562;8th Street @ Walnut Sb;38.621234;-90.159102;2-il;4
+12563;8th Street @ James R Thompson Sb;38.620205;-90.160542;2-il;5
+12564;8th Street @ Converse Sb;38.619305;-90.161779;2-il;6
+12961;8th Street @ Market Sb;38.618003;-90.163561;2-il;7
+14174;Mississippi @ Sycamore Sb;38.611649;-90.169703;2-il;8
+12965;Mississippi @ Liberty Sb;38.609498;-90.170339;2-il;9
+12966;Illinois Route 3 @ Yellow Brick Rd Sb;38.601789;-90.172659;2-il;10
+12968;Queeny @ Illinois Route 3 Eb;38.589882;-90.17607;2-il;11
+14881;Nickell @ Falling Springs Sb;38.589339;-90.169506;2-il;12
+12970;Falling Springs @ Curtis Steinberg Sb;38.585639;-90.170046;2-il;13
+12971;Falling Springs @ Nadine Sb;38.582673;-90.171442;2-il;14
+12972;Falling Springs @ Julian Sb;38.580372;-90.172795;2-il;15
+12973;Falling Springs @ Kinder Sb;38.578001;-90.174783;2-il;16
+12974;Falling Springs @ Jerome Sb;38.57636;-90.17657;2-il;17
+12975;Falling Spring @ Upper Cahokia Sb;38.575341;-90.178222;2-il;18
+14176;Falling Springs @ Mildred Wb;38.574136;-90.180155;2-il;19
+14177;Falling Springs @ Old Park College Entrance Wb;38.572115;-90.184381;2-il;20
+13049;Camp Jackson @ Falling Springs Nb;38.571661;-90.186475;2-il;21
+16446;Camp Jackson @ Cahokia Sports Complex;38.569141;-90.184418;2-il;22
+16166;Camp Jackson @ Saint Paul;38.567138;-90.181419;2-il;23
+13038;Old Camp Jackson @ Range Wb;38.563545;-90.177408;2-il;24
+13039;Range @ St. Michael Eb;38.564907;-90.174858;2-il;25
+13040;Range @ Sparks Eb;38.565039;-90.173303;2-il;26
+13042;Range @ Williams Eb;38.564866;-90.170288;2-il;27
+16424;Range @ Cahokia High;38.565921;-90.166058;2-il;28
+16429;Jerome @ Wesley;38.565438;-90.158682;2-il;29
+16426;Paris @ Jerome;38.562535;-90.155266;2-il;30
 14818;Mallinckrodt Center;38.646948;-90.308863;1-mo;1
 15018;Forsyth @ Wrighton Way Eb;38.646148;-90.303218;1-mo;2
 2732;Skinker @ Forsyth Nb;38.646613;-90.301028;1-mo;3
