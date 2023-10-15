@@ -19,7 +19,7 @@
 759;14th Street @ Washington Sb;38.632136;-90.199797
 768;Gravois-Hampton Transit Center;38.564759;-90.293892
 791;Gravois @ Hampton Wb;38.564039;-90.294796
-880;Kings Highway @ Eichelberger Nb;38.581227;-90.278591
+880;Kingshighway @ Eichelberger Nb;38.581227;-90.278591
 1340;Waterford @ Parker Sb;38.794858;-90.301085
 1443;Forest Park Transit Center Nb;38.648548;-90.285285
 1460;Forest Park Transit Center Sb;38.648026;-90.285370
@@ -94,7 +94,7 @@
 2016;Delmar @ Taylor Wb;38.650202;-90.253270
 2017;Delmar @ Walton Wb;38.651144;-90.257264
 2018;Delmar @ Euclid Wb;38.651387;-90.260132
-2019;Delmar @ Kings Highway Wb;38.651700;-90.264051
+2019;Delmar @ Kingshighway Wb;38.651700;-90.264051
 2020;Delmar @ Academy Wb;38.651979;-90.266890
 2022;Delmar @ Clarendon Wb;38.652432;-90.271007
 2023;Delmar @ Union Wb;38.652689;-90.273015
@@ -150,7 +150,7 @@
 2106;Delmar @ Union Eb;38.652484;-90.273062
 2107;Delmar @ Lake Eb;38.652156;-90.270288
 2108;Delmar @ Academy Eb;38.651842;-90.267030
-2109;Delmar @ Kings Highway Eb;38.651503;-90.263924
+2109;Delmar @ Kingshighway Eb;38.651503;-90.263924
 2110;Delmar @ Euclid Eb;38.651277;-90.260278
 2111;Delmar @ Walton Eb;38.651071;-90.258144
 2112;Delmar @ Taylor Eb;38.650300;-90.253783
@@ -165,85 +165,85 @@
 2269;West Florissant @ I-70 Exit 245b Sb;38.684993;-90.230686
 2270;West Florissant @ Shreve Sb;38.686672;-90.232160
 2271;West Florissant @ Euclid Sb;38.689064;-90.234234
-2272;Kings Highway @ West Florissant Sb;38.691316;-90.236715
-2273;Kings Highway @ Harney Sb;38.690135;-90.238778
-2274;Kings Highway @ Thekla Sb;38.688472;-90.241863
-2276;Kings Highway @ Lillian Sb;38.686950;-90.244654
-2277;Kings Highway @ Bircher Sb;38.685264;-90.247194
-2280;Kings Highway @ Penrose Sb;38.683228;-90.247780
-2281;Kings Highway @ Brown Sb;38.680505;-90.249141
-2282;Kings Highway @ Margeretta Sb;38.678245;-90.250699
-2283;Kings Highway @ Natural Bridge Sb;38.676925;-90.251637
-2284;Kings Highway @ Natural Bridge Sb;38.676134;-90.252198
-2285;Kings Highway @ Lexington Sb;38.675107;-90.252918
-2287;Kings Highway @ St. Louis Sb;38.671147;-90.255660
-2288;Kings Highway @ Maffitt Sb;38.669919;-90.256594
-2290;Kings Highway @ Highland Sb;38.668315;-90.257846
-2292;Kings Highway @ Lotus Sb;38.666560;-90.259189
-2294;Kings Highway @ Dr Ml King Sb;38.663359;-90.261474
-2295;Kings Highway @ Dr Ml King Sb;38.662864;-90.261717
-2296;Kings Highway @ Page Sb;38.660305;-90.262158
-2297;Kings Highway @ Vernon Sb;38.658242;-90.262475
-2299;Kings Highway @ Cabanne Sb;38.656305;-90.262798
-2300;Kings Highway @ Hodiamont Right Of Way Sb;38.654273;-90.263162
-2302;Kings Highway @ Delmar Sb;38.651362;-90.263670
-2303;Kings Highway @ Mcpherson Sb;38.649997;-90.263860
-2304;Kings Highway @ Waterman Sb;38.648421;-90.264127
-2305;Kings Highway @ Maryland Sb;38.645532;-90.264625
-2306;Kings Highway @ Lindell Sb;38.644311;-90.264843
+2272;Kingshighway @ West Florissant Sb;38.691316;-90.236715
+2273;Kingshighway @ Harney Sb;38.690135;-90.238778
+2274;Kingshighway @ Thekla Sb;38.688472;-90.241863
+2276;Kingshighway @ Lillian Sb;38.686950;-90.244654
+2277;Kingshighway @ Bircher Sb;38.685264;-90.247194
+2280;Kingshighway @ Penrose Sb;38.683228;-90.247780
+2281;Kingshighway @ Brown Sb;38.680505;-90.249141
+2282;Kingshighway @ Margeretta Sb;38.678245;-90.250699
+2283;Kingshighway @ Natural Bridge Sb;38.676925;-90.251637
+2284;Kingshighway @ Natural Bridge Sb;38.676134;-90.252198
+2285;Kingshighway @ Lexington Sb;38.675107;-90.252918
+2287;Kingshighway @ St. Louis Sb;38.671147;-90.255660
+2288;Kingshighway @ Maffitt Sb;38.669919;-90.256594
+2290;Kingshighway @ Highland Sb;38.668315;-90.257846
+2292;Kingshighway @ Lotus Sb;38.666560;-90.259189
+2294;Kingshighway @ Dr Ml King Sb;38.663359;-90.261474
+2295;Kingshighway @ Dr Ml King Sb;38.662864;-90.261717
+2296;Kingshighway @ Page Sb;38.660305;-90.262158
+2297;Kingshighway @ Vernon Sb;38.658242;-90.262475
+2299;Kingshighway @ Cabanne Sb;38.656305;-90.262798
+2300;Kingshighway @ Hodiamont Right Of Way Sb;38.654273;-90.263162
+2302;Kingshighway @ Delmar Sb;38.651362;-90.263670
+2303;Kingshighway @ Mcpherson Sb;38.649997;-90.263860
+2304;Kingshighway @ Waterman Sb;38.648421;-90.264127
+2305;Kingshighway @ Maryland Sb;38.645532;-90.264625
+2306;Kingshighway @ Lindell Sb;38.644311;-90.264843
 2308;Forest Park @ Euclid Eb;38.638886;-90.261747
-2309;Kings Highway @ Oakland  Sb;38.628354;-90.264726
-2310;Kings Highway @ Manchester Sb;38.626453;-90.265011
-2313;Kings Highway @ Shaw Sb;38.618084;-90.266729
-2314;Kings Highway @ Southwest Sb;38.611884;-90.267925
-2316;Kings Highway @ Magnolia Sb;38.608734;-90.268566
-2317;Kings Highway @ Oleatha Sb;38.596095;-90.271066
-2318;Kings Highway @ Tholozan Sb;38.593289;-90.272157
-2319;Kings Highway @ Chippewa Sb;38.591233;-90.273635
-2321;Kings Highway @ Bancroft Sb;38.589315;-90.274928
-2323;Kings Highway @ Devonshire Sb;38.587085;-90.276365
-2325;Kings Highway @ Nottingham Sb;38.585383;-90.276687
-2327;Kings Highway @ Delor Sb;38.582644;-90.278061
-2329;Kings Highway @ Eichelberger Sb;38.580841;-90.279021
-2331;Kings Highway @ Rosa Nb;38.580120;-90.279373
-2332;Kings Highway @ Murdoch Nb;38.585866;-90.276412
-2333;Kings Highway @ Devonshire Nb;38.587130;-90.276150
-2334;Kings Highway @ Sutherland Nb;38.588458;-90.275293
-2335;Kings Highway @ Winona Nb;38.589908;-90.274289
-2336;Kings Highway @ Chippewa Nb;38.591972;-90.272815
-2338;Kings Highway @ Tholozan Nb;38.593834;-90.271555
-2340;Kings Highway @ Vandeventer Nb;38.612308;-90.267626
-2342;Kings Highway @ Shaw Nb;38.617900;-90.266482
-2343;Kings Highway @ Mcree Sb;38.620057;-90.266304
-2344;Kings Highway @ Mcree Nb;38.619454;-90.266171
-2345;Kings Highway @ Manchester Nb;38.626205;-90.264801
+2309;Kingshighway @ Oakland  Sb;38.628354;-90.264726
+2310;Kingshighway @ Manchester Sb;38.626453;-90.265011
+2313;Kingshighway @ Shaw Sb;38.618084;-90.266729
+2314;Kingshighway @ Southwest Sb;38.611884;-90.267925
+2316;Kingshighway @ Magnolia Sb;38.608734;-90.268566
+2317;Kingshighway @ Oleatha Sb;38.596095;-90.271066
+2318;Kingshighway @ Tholozan Sb;38.593289;-90.272157
+2319;Kingshighway @ Chippewa Sb;38.591233;-90.273635
+2321;Kingshighway @ Bancroft Sb;38.589315;-90.274928
+2323;Kingshighway @ Devonshire Sb;38.587085;-90.276365
+2325;Kingshighway @ Nottingham Sb;38.585383;-90.276687
+2327;Kingshighway @ Delor Sb;38.582644;-90.278061
+2329;Kingshighway @ Eichelberger Sb;38.580841;-90.279021
+2331;Kingshighway @ Rosa Nb;38.580120;-90.279373
+2332;Kingshighway @ Murdoch Nb;38.585866;-90.276412
+2333;Kingshighway @ Devonshire Nb;38.587130;-90.276150
+2334;Kingshighway @ Sutherland Nb;38.588458;-90.275293
+2335;Kingshighway @ Winona Nb;38.589908;-90.274289
+2336;Kingshighway @ Chippewa Nb;38.591972;-90.272815
+2338;Kingshighway @ Tholozan Nb;38.593834;-90.271555
+2340;Kingshighway @ Vandeventer Nb;38.612308;-90.267626
+2342;Kingshighway @ Shaw Nb;38.617900;-90.266482
+2343;Kingshighway @ Mcree Sb;38.620057;-90.266304
+2344;Kingshighway @ Mcree Nb;38.619454;-90.266171
+2345;Kingshighway @ Manchester Nb;38.626205;-90.264801
 2347;Forest Park @ Euclid Wb;38.639058;-90.261936
-2348;Kings Highway @ Laclede Nb;38.640719;-90.265303
-2349;Kings Highway @  Lindell Nb;38.643563;-90.264814
-2350;Kings Highway @ Maryland Nb;38.646004;-90.264361
-2351;Kings Highway @ Hortense Place Nb;38.647656;-90.264073
-2352;Kings Highway @ Mcpherson Nb;38.649991;-90.263693
-2353;Kings Highway @ Delmar Nb;38.651241;-90.263448
-2354;Kings Highway @ Delmar Nb;38.652225;-90.263302
-2355;Kings Highway @ Kensington Nb;38.654001;-90.263032
-2356;Kings Highway @ Fountain Nb;38.655216;-90.262823
-2357;Kings Highway @ Vernon Nb;38.657436;-90.262441
-2358;Kings Highway @ Page Nb;38.659546;-90.262074
-2359;Kings Highway @ Ridge Nb;38.661362;-90.261792
-2361;Kings Highway @ Dr Ml King Nb;38.663574;-90.261051
-2363;Kings Highway @ Lotus Nb;38.666110;-90.259146
-2365;Kings Highway @ Highland Nb;38.668212;-90.257558
-2367;Kings Highway @ Maffitt Nb;38.669379;-90.256630
-2368;Kings Highway @ St. Louis Nb;38.671271;-90.255203
-2370;Kings Highway @ Lexington Nb;38.674555;-90.252883
-2371;Kings Highway @ Natural Bridge Nb;38.676040;-90.251873
-2373;Kings Highway @ San Francisco Nb;38.677093;-90.251092
-2374;Kings Highway @ Margaretta Nb;38.678720;-90.249958
-2376;Kings Highway @ Lee Nb;38.680867;-90.248448
-2377;Kings Highway @ Penrose Nb;38.683343;-90.247521
-2379;Kings Highway @ Lillian Nb;38.686738;-90.244667
-2381;Kings Highway @ Thekla Nb;38.688617;-90.241224
-2382;Kings Highway @ Harney Nb;38.689774;-90.239096
+2348;Kingshighway @ Laclede Nb;38.640719;-90.265303
+2349;Kingshighway @  Lindell Nb;38.643563;-90.264814
+2350;Kingshighway @ Maryland Nb;38.646004;-90.264361
+2351;Kingshighway @ Hortense Place Nb;38.647656;-90.264073
+2352;Kingshighway @ Mcpherson Nb;38.649991;-90.263693
+2353;Kingshighway @ Delmar Nb;38.651241;-90.263448
+2354;Kingshighway @ Delmar Nb;38.652225;-90.263302
+2355;Kingshighway @ Kensington Nb;38.654001;-90.263032
+2356;Kingshighway @ Fountain Nb;38.655216;-90.262823
+2357;Kingshighway @ Vernon Nb;38.657436;-90.262441
+2358;Kingshighway @ Page Nb;38.659546;-90.262074
+2359;Kingshighway @ Ridge Nb;38.661362;-90.261792
+2361;Kingshighway @ Dr Ml King Nb;38.663574;-90.261051
+2363;Kingshighway @ Lotus Nb;38.666110;-90.259146
+2365;Kingshighway @ Highland Nb;38.668212;-90.257558
+2367;Kingshighway @ Maffitt Nb;38.669379;-90.256630
+2368;Kingshighway @ St. Louis Nb;38.671271;-90.255203
+2370;Kingshighway @ Lexington Nb;38.674555;-90.252883
+2371;Kingshighway @ Natural Bridge Nb;38.676040;-90.251873
+2373;Kingshighway @ San Francisco Nb;38.677093;-90.251092
+2374;Kingshighway @ Margaretta Nb;38.678720;-90.249958
+2376;Kingshighway @ Lee Nb;38.680867;-90.248448
+2377;Kingshighway @ Penrose Nb;38.683343;-90.247521
+2379;Kingshighway @ Lillian Nb;38.686738;-90.244667
+2381;Kingshighway @ Thekla Nb;38.688617;-90.241224
+2382;Kingshighway @ Harney Nb;38.689774;-90.239096
 2384;West Florissant @ Euclid Nb;38.689356;-90.234300
 2385;West Florissant @ Shreve Nb;38.686897;-90.232145
 2399;Page @ Pendleton Wb;38.653134;-90.243624
@@ -253,7 +253,7 @@
 2403;Page @ Marcus Wb;38.658000;-90.254687
 2404;Page @ Walton Wb;38.658928;-90.256803
 2406;Page @ Euclid Wb;38.659711;-90.259519
-2407;Page @ Kings Highway Wb;38.660022;-90.262501
+2407;Page @ Kingshighway Wb;38.660022;-90.262501
 2408;Page @ Academy Wb;38.660383;-90.266160
 2409;Page @ Clarendon Wb;38.660672;-90.268921
 2410;Page @ Union Wb;38.661228;-90.272530
@@ -315,7 +315,7 @@
 2507;Page @ Union Eb;38.660797;-90.271501
 2508;Page @ Clarendon Eb;38.660538;-90.269186
 2509;Page @ Academy Eb;38.660228;-90.265924
-2510;Page @ Kings Highway Eb;38.659808;-90.261864
+2510;Page @ Kingshighway Eb;38.659808;-90.261864
 2512;Page @ Euclid Eb;38.659503;-90.258830
 2514;Page @ Walton Eb;38.658406;-90.255970
 2516;Page @ Rev Gh Pruitt Place Eb;38.656995;-90.252777
@@ -369,7 +369,7 @@
 2620;Lindell @ Boyle Wb;38.641074;-90.250793
 2622;Lindell @ Taylor Wb;38.642458;-90.257612
 2624;Lindell @ Euclid Wb;38.643457;-90.262260
-2625;Lindell @ Kings Highway Wb;38.643813;-90.264014
+2625;Lindell @ Kingshighway Wb;38.643813;-90.264014
 2626;Lindell @ Lake Wb;38.644752;-90.271253
 2628;5375 Pershing Wb;38.647863;-90.276964
 2629;Pershing @ Belt Wb;38.647986;-90.278217
@@ -671,22 +671,22 @@
 3376;39th Street @ Russell Sb;38.614108;-90.245548
 3378;39th Street @ Flad Sb;38.611996;-90.245856
 3379;39th Street @ Shenandoah Sb;38.610182;-90.246132
-3390;Kings Highway @ Odell Sb;38.606452;-90.269049
-3391;Arsenal @ Kings Highway Wb;38.605136;-90.269920
-3392;Kings Highway @ Connecticut Wb;38.602047;-90.269871
-3393;Kings Highway @ Fyler Sb;38.599289;-90.270435
-3394;Kings Highway @ Parker Sb;38.598357;-90.270622
+3390;Kingshighway @ Odell Sb;38.606452;-90.269049
+3391;Arsenal @ Kingshighway Wb;38.605136;-90.269920
+3392;Kingshighway @ Connecticut Wb;38.602047;-90.269871
+3393;Kingshighway @ Fyler Sb;38.599289;-90.270435
+3394;Kingshighway @ Parker Sb;38.598357;-90.270622
 3422;Hampton @ Loughborough Sb;38.575156;-90.294674
 3423;Hampton @ Robert Sb;38.572464;-90.295542
 3424;Hampton @ Sunshine Sb;38.570873;-90.296123
 3425;Hampton @ Parkview Sb;38.566619;-90.295438
 3427;Hampton @ Parkview Nb;38.566746;-90.295335
-3454;Kings Highway @ Oleatha Nb;38.596023;-90.270897
-3456;Kings Highway @ Parker Nb;38.598664;-90.270359
-3458;Kings Highway @ Connecticut Nb;38.602713;-90.269541
-3459;Kings Highway @ Arsenal Nb;38.605564;-90.269023
-3460;Kings Highway @ Reber Place Nb;38.607595;-90.268618
-3461;Kings Highway @ Magnolia Nb;38.609591;-90.268226
+3454;Kingshighway @ Oleatha Nb;38.596023;-90.270897
+3456;Kingshighway @ Parker Nb;38.598664;-90.270359
+3458;Kingshighway @ Connecticut Nb;38.602713;-90.269541
+3459;Kingshighway @ Arsenal Nb;38.605564;-90.269023
+3460;Kingshighway @ Reber Place Nb;38.607595;-90.268618
+3461;Kingshighway @ Magnolia Nb;38.609591;-90.268226
 3470;39th Street @ Shenandoah Nb;38.610305;-90.246076
 3471;39th Street @ Flad Nb;38.612164;-90.245746
 3473;39th Street @ Russell Nb;38.614179;-90.245428
@@ -715,7 +715,7 @@
 3539;West Florissant @ Athlone Nb;38.678154;-90.222888
 3541;West Florissant @ Clarence Nb;38.679868;-90.224180
 3542;West Florissant @ Pope Nb;38.681213;-90.224869
-3543;West Florissant @ Kings Highway Nb;38.691375;-90.236066
+3543;West Florissant @ Kingshighway Nb;38.691375;-90.236066
 3545;West Florissant @ Union Nb;38.694959;-90.238992
 3547;West Florissant @ Emerson Nb;38.697119;-90.240884
 3548;West Florissant @ Davison Nb;38.698622;-90.242191
@@ -854,7 +854,7 @@
 3768;West Florissant @ Davison Sb;38.698387;-90.242212
 3770;West Florissant @ Emerson Sb;38.697264;-90.241232
 3772;West Florissant @ Union Sb;38.694588;-90.239014
-3774;West Florissant @ Kings Highway Sb;38.691708;-90.236577
+3774;West Florissant @ Kingshighway Sb;38.691708;-90.236577
 3775;West Florissant @ Carrie Sb;38.681504;-90.225333
 3776;West Florissant  @ Pope Sb;38.680603;-90.224649
 3777;Ofallon Park Rec Complex Sb;38.680558;-90.223669
@@ -1199,7 +1199,7 @@
 4943;Manchester @ Tower Grove Wb;38.627083;-90.256475
 4944;Manchester @ Newstead Wb;38.626735;-90.259208
 4945;Manchester @ Taylor Wb;38.626459;-90.261237
-4946;Manchester @ Kings Highway Wb;38.625995;-90.264604
+4946;Manchester @ Kingshighway Wb;38.625995;-90.264604
 4947;5011 Manchester Wb;38.625500;-90.267810
 4950;Manchester @ Macklind Wb;38.623897;-90.276280
 4952;Manchester @ Sublette Wb;38.623409;-90.280546
@@ -1303,7 +1303,7 @@
 5120;Manchester @ Sulphur Eb;38.622667;-90.286067
 5122;Manchester @ Sublette Eb;38.623302;-90.280552
 5124;Manchester @ Macklind Eb;38.623991;-90.274858
-5128;Manchester @ Kings Highway Eb;38.625899;-90.264090
+5128;Manchester @ Kingshighway Eb;38.625899;-90.264090
 5129;Manchester @ Taylor Eb;38.626361;-90.261434
 5130;Manchester @ Newstead Eb;38.626573;-90.259927
 5131;Manchester @ Tower Grove Eb;38.626915;-90.257283
@@ -1359,7 +1359,7 @@
 5331;4451 Forest Park  Wb;38.638137;-90.257656
 5332;Taylor @ Parkview Place Sb;38.637298;-90.259745
 5336;Barnes Jewish Hospital Plaza Wb;38.634830;-90.264953
-5339;Oakland @ Kings Highway Wb;38.628873;-90.265236
+5339;Oakland @ Kingshighway Wb;38.628873;-90.265236
 5340;Oakland @ Slu High School Wb;38.629110;-90.267634
 5341;Oakland @ St. Louis Science Center Wb;38.629268;-90.269263
 5343;Oakland @ Macklind Wb;38.629762;-90.274280
@@ -1392,7 +1392,7 @@
 5452;Oakland @ Macklind Eb;38.629625;-90.273809
 5453;Oakland @ St. Louis Science Center Eb;38.629223;-90.270047
 5454;Oakland @ Slu High School Eb;38.628878;-90.266466
-5456;Kings Highway @ Oakland Nb;38.629213;-90.264370
+5456;Kingshighway @ Oakland Nb;38.629213;-90.264370
 5459;Barnes Jewish Hospital Plaza Eb;38.634952;-90.264584
 5463;4450 Forest Park Eb;38.637803;-90.257332
 5464;Forest Park @ Newstead Eb;38.637411;-90.255499
@@ -1735,8 +1735,8 @@
 6261;Lee @ Marcus Wb;38.677242;-90.239927
 6262;Lee @ Shreve Wb;38.678515;-90.242713
 6263;Lee @ Euclid Wb;38.679743;-90.245558
-6265;Lee @ Kings Highway Wb;38.680617;-90.248393
-6266;Lillian @ Kings Highway Nb;38.687041;-90.244984
+6265;Lee @ Kingshighway Wb;38.680617;-90.248393
+6266;Lillian @ Kingshighway Nb;38.687041;-90.244984
 6268;Lillian @ Ruskin Nb;38.688555;-90.246353
 6270;Lillian @ Union Nb;38.690475;-90.248034
 6272;Lillian @ Emerson Sb;38.691974;-90.249493
@@ -1772,8 +1772,8 @@
 6317;Thekla @ Thrush Sb;38.698003;-90.248275
 6325;Lillian @ Union Sb;38.690387;-90.248061
 6327;Lillian @ Ruskin Sb;38.688798;-90.246647
-6328;Lillian @ Kings Highway Sb;38.686951;-90.244968
-6329;Lee @ Kings Highway Eb;38.680514;-90.248321
+6328;Lillian @ Kingshighway Sb;38.686951;-90.244968
+6329;Lee @ Kingshighway Eb;38.680514;-90.248321
 6330;Lee @ Euclid Eb;38.679750;-90.246013
 6331;Lee @ Shreve Eb;38.678508;-90.242813
 6333;Lee @ Cora Eb;38.676717;-90.238826
@@ -2029,7 +2029,7 @@
 7043;Dr Ml King @ Cora Wb;38.659666;-90.252051
 7044;Dr Ml King @ Marcus Wb;38.660122;-90.253089
 7046;Dr Ml King @ Euclid Wb;38.662044;-90.258296
-7047;Dr Ml King @ Kings Highway Wb;38.663391;-90.262263
+7047;Dr Ml King @ Kingshighway Wb;38.663391;-90.262263
 7048;Dr Ml King @ Academy Wb;38.664607;-90.265390
 7049;Dr Ml King @ Union Wb;38.666056;-90.268094
 7050;Dr Ml King @ Arlington Wb;38.667266;-90.270349
@@ -2077,7 +2077,7 @@
 7108;Dr Ml King @ Arlington Eb;38.667384;-90.270827
 7109;Dr Ml King @ Union Eb;38.665519;-90.267410
 7110;Dr Ml King @ Academy Eb;38.664368;-90.265196
-7111;Dr Ml King @ Kings Highway Eb;38.663215;-90.262171
+7111;Dr Ml King @ Kingshighway Eb;38.663215;-90.262171
 7112;Dr Ml King @ Euclid Eb;38.661910;-90.258291
 7114;Dr Ml King @ Marcus Eb;38.660367;-90.253979
 7115;Dr Ml King @ Cora Eb;38.659207;-90.251359
@@ -2144,7 +2144,7 @@
 7226;St. Louis @ Arlington Eb;38.675480;-90.264525
 7228;St. Louis @ Union Eb;38.674364;-90.261968
 7229;St. Louis @ Norwood Eb;38.673321;-90.259610
-7231;St. Louis @ Kings Highway Eb;38.671529;-90.255578
+7231;St. Louis @ Kingshighway Eb;38.671529;-90.255578
 7232;St. Louis @ Euclid Eb;38.670399;-90.252980
 7233;4844 St. Louis Eb;38.669214;-90.251822
 7235;St. Louis @ Marcus Eb;38.667627;-90.248479
@@ -2177,7 +2177,7 @@
 7320;Arsenal @ Macklind Eb;38.605944;-90.278981
 7321;Arsenal @ Brannon Eb;38.605704;-90.276136
 7322;Arsenal @ Hereford Eb;38.605407;-90.273544
-7325;Arsenal @ Kings Highway Eb;38.604999;-90.268813
+7325;Arsenal @ Kingshighway Eb;38.604999;-90.268813
 7327;Arsenal @ Portis Eb;38.604914;-90.264722
 7349;9th Street @ Cass Nb;38.639595;-90.189697
 7351;Cass @ 13th Street Wb;38.641366;-90.194876
@@ -2200,7 +2200,7 @@
 7385;St. Louis @ Marcus Wb;38.667503;-90.247945
 7387;4829 St. Louis Wb;38.669025;-90.251435
 7388;St. Louis @ Euclid Wb;38.670593;-90.253225
-7389;St. Louis @ Kings Highway Wb;38.671325;-90.254894
+7389;St. Louis @ Kingshighway Wb;38.671325;-90.254894
 7391;St. Louis @ Norwood Wb;38.673561;-90.259940
 7392;St. Louis @ Union Wb;38.674176;-90.261354
 7394;St. Louis @ Arlington Wb;38.675581;-90.264545
@@ -2251,13 +2251,13 @@
 7673;Gravois @ Chippewa Wb;38.589335;-90.256349
 7674;Gravois @ Itaska Wb;38.582163;-90.266185
 7675;Gravois @ Bates Wb;38.577806;-90.272385
-7678;Gravois @ Kings Highway Wb;38.571688;-90.283519
+7678;Gravois @ Kingshighway Wb;38.571688;-90.283519
 7679;Gravois @ Loughborough Wb;38.569960;-90.285392
 7681;Gravois @ Allemania Wb;38.565736;-90.291881
 7741;7220 Gravois Eb;38.565655;-90.291777
 7745;Gravois @ Nagel Eb;38.568448;-90.287149
 7746;Gravois @ Loughbrough Eb;38.570221;-90.284889
-7747;Gravois @ Kings Highway Eb;38.571912;-90.283110
+7747;Gravois @ Kingshighway Eb;38.571912;-90.283110
 7749;Gravois @ Holly Hills Eb;38.573557;-90.280894
 7750;Gravois @ Goethe Eb;38.574728;-90.278887
 7752;Gravois @ Christy Eb;38.576193;-90.276506
@@ -2479,8 +2479,8 @@
 8601;Waterman @ Union Eb;38.649104;-90.273408
 8602;Waterman @ Lake Eb;38.648798;-90.270465
 8603;5082 Waterman Eb;38.648489;-90.267184
-8604;Waterman @ Kings Highway Eb;38.648220;-90.264605
-8605;Waterman @ Kings Highway Wb;38.648252;-90.264531
+8604;Waterman @ Kingshighway Eb;38.648220;-90.264605
+8605;Waterman @ Kingshighway Wb;38.648252;-90.264531
 8606;Waterman @ 5079 Waterman Wb;38.648499;-90.267032
 8607;Waterman @ Lake Wb;38.648807;-90.269990
 8608;Union @ Waterman Nb;38.649504;-90.273786
@@ -2537,7 +2537,7 @@
 8689;Chippewa @ Morganford Wb;38.590576;-90.264439
 8690;4365 Chippewa Wb;38.590739;-90.266054
 8692;Chippewa @ Ridgewood Wb;38.591237;-90.270392
-8693;Chippewa @ Kings Highway Wb;38.591475;-90.272214
+8693;Chippewa @ Kingshighway Wb;38.591475;-90.272214
 8694;Chippewa @ Lawn Wb;38.591644;-90.274094
 8696;Chippewa @ Brannon Wb;38.591918;-90.279131
 8697;Chippewa @ Macklind Wb;38.592335;-90.283150
@@ -2603,7 +2603,7 @@
 8787;Chippewa @ January Eb;38.592652;-90.287630
 8790;Chippewa @ Brannon Eb;38.591808;-90.279524
 8792;Chippewa @ Lawn Eb;38.591392;-90.275284
-8793;Chippewa @ Kings Highway Eb;38.591214;-90.271434
+8793;Chippewa @ Kingshighway Eb;38.591214;-90.271434
 8794;Chippewa @ Ridgewood Eb;38.591058;-90.270100
 8795;Chippewa @ Alfred Eb;38.590720;-90.267080
 8796;Chippewa @ Morganford Eb;38.590286;-90.263454
@@ -2659,8 +2659,8 @@
 8888;Grand @ Iron Sb;38.563048;-90.259207
 8889;Grand @ Holly Hills Sb;38.561713;-90.261737
 8933;Gravois @ Holly Hills Wb;38.573648;-90.280966
-8935;Kings Highway @ Schollmeyer Wb;38.572642;-90.284117
-8939;Kings Highway @ Rhodes Sb;38.577947;-90.282569
+8935;Kingshighway @ Schollmeyer Wb;38.572642;-90.284117
+8939;Kingshighway @ Rhodes Sb;38.577947;-90.282569
 8951;Hampton @ Nottingham Nb;38.586705;-90.292434
 8956;Chippewa @ Hampton Wb;38.593441;-90.293602
 8957;Chippewa @ Clifton Wb;38.593707;-90.296214
@@ -2677,10 +2677,10 @@
 8979;Hampton @ Nottingham Sb;38.586664;-90.292598
 8980;Hampton @ Neosho Sb;38.585781;-90.292764
 8981;Hampton @ Delor Sb;38.584110;-90.293056
-8988;Kings Highway @ Rosa Sb;38.580058;-90.279761
-8989;Kings Highway @ Goethe Nb;38.579388;-90.280626
-8990;Kings Highway @ Rhodes Nb;38.577091;-90.282852
-8995;Kings Highway @ Kings Nb;38.575812;-90.283523
+8988;Kingshighway @ Rosa Sb;38.580058;-90.279761
+8989;Kingshighway @ Goethe Nb;38.579388;-90.280626
+8990;Kingshighway @ Rhodes Nb;38.577091;-90.282852
+8995;Kingshighway @ Kings Nb;38.575812;-90.283523
 9011;Grand @ Wilmington Nb;38.566217;-90.256356
 9013;Grand @ Bates Nb;38.568751;-90.254174
 9015;Grand @ Eichelberger Nb;38.570328;-90.252824
@@ -2736,7 +2736,7 @@
 9124;Natural Bridge @ Marcus Wb;38.672839;-90.243423
 9125;Natural Bridge @ Shreve Wb;38.674030;-90.246224
 9126;Natural Bridge @ Euclid Wb;38.675253;-90.249045
-9127;Natural Bridge @ Kings Highway Wb;38.676218;-90.251240
+9127;Natural Bridge @ Kingshighway Wb;38.676218;-90.251240
 9130;Natural Bridge @ Union Wb;38.679473;-90.258519
 9131;Natural Bridge @ Abner Place Wb;38.680068;-90.259870
 9133;Natural Bridge @ Belt Wb;38.681497;-90.263117
@@ -2822,8 +2822,8 @@
 9251;Natural Bridge @ Union Eb;38.679014;-90.257940
 9252;Natural Bridge @ Geraldine Eb;38.677805;-90.255386
 9253;Natural Bridge @ Geraldine Wb;38.678389;-90.256267
-9254;Natural Bridge @ Kings Highway Eb;38.676816;-90.253165
-9255;Natural Bridge @ Kings Highway Eb;38.676042;-90.251339
+9254;Natural Bridge @ Kingshighway Eb;38.676816;-90.253165
+9255;Natural Bridge @ Kingshighway Eb;38.676042;-90.251339
 9256;Natural Bridge @ Euclid Eb;38.675203;-90.249385
 9257;Natural Bridge @ Shreve Eb;38.673745;-90.246063
 9258;Natural Bridge @ Marcus Eb;38.672781;-90.243765
@@ -3725,11 +3725,11 @@
 12443;Caseyville @ 45th Street Eb;38.630526;-90.102636
 12446;Caseyville @ 49th Street Eb;38.630436;-90.098048
 12447;Caseyville @ 53rd Street Eb;38.630344;-90.095194
-12449;Caseyville @ Kings Highway Eb;38.630302;-90.093495
-12450;Kings Highway @ Warren Sb;38.628624;-90.093138
-12451;Kings Highway @ Hallows Sb;38.626829;-90.093108
-12452;Kings Highway @ Avon Place Sb;38.625856;-90.093102
-12453;Kings Highway @ Adelaide Sb;38.623747;-90.093136
+12449;Caseyville @ Kingshighway Eb;38.630302;-90.093495
+12450;Kingshighway @ Warren Sb;38.628624;-90.093138
+12451;Kingshighway @ Hallows Sb;38.626829;-90.093108
+12452;Kingshighway @ Avon Place Sb;38.625856;-90.093102
+12453;Kingshighway @ Adelaide Sb;38.623747;-90.093136
 12454;Bunkum @ 52nd Street Wb;38.623164;-90.095315
 12455;Bunkum @ 51st Street Wb;38.623200;-90.096542
 12456;Bunkum @ 49th Street Wb;38.623245;-90.098914
@@ -3745,8 +3745,8 @@
 12466;37th Street @ Monk Sb;38.621605;-90.111298
 12467;St. Clair @ 39th Street Eb;38.616388;-90.110947
 12468;St. Clair @ 40th Street Eb;38.616065;-90.109646
-12476;Kings Highway @ Summit Nb;38.610554;-90.092694
-12478;Kings Highway @ Summit Sb;38.610594;-90.092870
+12476;Kingshighway @ Summit Nb;38.610554;-90.092694
+12478;Kingshighway @ Summit Sb;38.610594;-90.092870
 12484;St. Clair @ 40th Street Wb;38.616198;-90.109546
 12485;St. Clair @ 39th Street Wb;38.616476;-90.110599
 12486;37th Street @ Monk Nb;38.621747;-90.111218
@@ -3762,11 +3762,11 @@
 12496;Bunkum @ 49th Street Eb;38.623183;-90.098524
 12497;Bunkum @ 51st Street Eb;38.623136;-90.096546
 12498;Bunkum @ 52nd Street Eb;38.623079;-90.094907
-12499;Kings Highway @ Adelaide Nb;38.623782;-90.092920
-12500;Kings Highway @ Avon Place Nb;38.625502;-90.093018
-12501;Kings Highway @ Westmoreland Nb;38.627235;-90.093008
-12502;Kings Highway @ Warren Nb;38.628094;-90.093016
-12503;Kings Highway @ Portland Place Nb;38.628974;-90.093016
+12499;Kingshighway @ Adelaide Nb;38.623782;-90.092920
+12500;Kingshighway @ Avon Place Nb;38.625502;-90.093018
+12501;Kingshighway @ Westmoreland Nb;38.627235;-90.093008
+12502;Kingshighway @ Warren Nb;38.628094;-90.093016
+12503;Kingshighway @ Portland Place Nb;38.628974;-90.093016
 12504;Caseyville @ 55th Street Wb;38.630397;-90.094173
 12505;Caseyville @ 51st Street Wb;38.630432;-90.095906
 12506;Caseyville @ 50th Street Wb;38.630461;-90.097027
@@ -4205,7 +4205,7 @@
 13446;Compton @ Franklin Sb;38.640421;-90.224083
 13447;3507 Lindell Wb;38.636752;-90.229643
 13448;Lindell @ Grand Wb;38.637263;-90.232454
-13456;Lindell @ Kings Highway Eb;38.643773;-90.264527
+13456;Lindell @ Kingshighway Eb;38.643773;-90.264527
 13469;10th Street @ Ofallon Sb;38.637756;-90.191632
 13473;Tucker @ Walnut Sb;38.626497;-90.198840
 13475;Spruce @ 14th Street Wb;38.624946;-90.201842
@@ -4215,7 +4215,7 @@
 13518;5370 Pershing Eb;38.647839;-90.277119
 13519;Olive @ Jefferson Eb;38.633002;-90.213794
 13520;Tucker @ St. Charles Nb;38.631099;-90.196800
-13523;Kings Highway @ West Florissant Nb;38.691132;-90.236629
+13523;Kingshighway @ West Florissant Nb;38.691132;-90.236629
 13526;Mercy Hospital Driveway;38.643445;-90.446922
 13536;Chesterfield Airport @ Long Eb;38.668209;-90.616652
 13541;Chesterfield Airport @ Goddard Eb;38.669257;-90.635076
@@ -4231,7 +4231,7 @@
 13597;Broadway @ Park Nb;38.612779;-90.195926
 13616;Rider Trail South @ Earth City Expressway Eb;38.761624;-90.460002
 13630;Lucas-Hunt @ Groveland Sb;38.709059;-90.287196
-13631;Kings Highway @ Arsenal Sb;38.604854;-90.269364
+13631;Kingshighway @ Arsenal Sb;38.604854;-90.269364
 13636;Airport @ North Hanley Wb;38.749946;-90.335840
 13638;Dunn @ Lilac Park Ride Lot Wb;38.768348;-90.201422
 13642;Lilac @ Wiskow Nb;38.769353;-90.202561
@@ -4474,8 +4474,8 @@
 14766;Manchester @ Maplewood Metrolink Eb;38.613378;-90.332164
 14769;Shrewsbury-Lansdowne I-44 Transit Center;38.592769;-90.319249
 14774;12742 St. Charles Rock Road Eb;38.762441;-90.435775
-14777;Kings Highway @ Lissette Sb;38.575001;-90.284166
-14778;Kings Highway @ Schollmeyer Sb;38.572252;-90.284235
+14777;Kingshighway @ Lissette Sb;38.575001;-90.284166
+14778;Kingshighway @ Schollmeyer Sb;38.572252;-90.284235
 14779;Brentwood I-64 Transit Center;38.627571;-90.337775
 14785;Lucas-Hunt @ Groveland Nb;38.709122;-90.286972
 14786;Lucas-Hunt @ Rock Road Nb;38.681090;-90.295219
@@ -4617,7 +4617,7 @@
 15240;37th Street @ St. Clair Nb;38.617040;-90.111704
 15241;Caseyville @ 42nd Street Wb;38.630675;-90.106105
 15244;Forest @ 44th Street Wb;38.636900;-90.104281
-15245;Kings Highway @ Westmoreland Sb;38.627611;-90.093118
+15245;Kingshighway @ Westmoreland Sb;38.627611;-90.093118
 15246;Bunkum @ 48th Street Wb;38.623275;-90.099684
 15247;St. Clair @ 47th Street Eb;38.614392;-90.102234
 15253;Forest @ 44th Street Eb;38.636758;-90.104256
@@ -4672,8 +4672,8 @@
 15319;Marybell @ 71st Street Wb;38.602657;-90.074713
 15320;Marybell @ Noble Wb;38.603546;-90.076512
 15321;Marybell @ Bre-Mar Wb;38.604044;-90.077560
-15322;Summit @ Kings Highway Wb;38.610109;-90.092152
-15332;Summit @ Kings Highway Eb;38.610071;-90.092298
+15322;Summit @ Kingshighway Wb;38.610109;-90.092152
+15332;Summit @ Kingshighway Eb;38.610071;-90.092298
 15333;Marybell @ Bre-Mar Eb;38.603924;-90.077511
 15334;Marybell @ Noble Eb;38.603472;-90.076570
 15335;Marybell @ 71st Street Eb;38.602549;-90.074701
@@ -4831,7 +4831,7 @@
 15742;Washington @ Church Eb;38.512626;-89.979968
 15756;Manchester @ Prather Wb;38.617851;-90.305035
 15765;Watson @ Park Crestwood Wb;38.559035;-90.376665
-15769;Manchester @ Kings Highway Eb;38.625538;-90.266886
+15769;Manchester @ Kingshighway Eb;38.625538;-90.266886
 15787;Euclid @ Barnes Jewish Hospital Plaza Nb;38.634611;-90.263208
 15790;N Broadway @ Biddle Nb;38.636013;-90.185697
 15791;Broadway @ Maeder Sb;38.567275;-90.238258
@@ -4919,7 +4919,7 @@
 15966;Ashland @ Harris Wb;38.664935;-90.231626
 15968;Labadie @ Whittier Eb;38.662119;-90.233049
 15969;Natural Bridge @ Clara Eb;38.682513;-90.265926
-15970;Natural Bridge @ Kings Highway Wb;38.676769;-90.252619
+15970;Natural Bridge @ Kingshighway Wb;38.676769;-90.252619
 15973;West Florissant @ Solway Sb;38.733369;-90.277597
 15974;Strassner @ Hanley Industrial Court Eb;38.622483;-90.338841
 16030;Taussig @ Ferguson Wb;38.776990;-90.429409
@@ -4937,7 +4937,7 @@
 16074;Natural Bridge @ Brenton Wb;38.732373;-90.350557
 16075;Craig @ Craigview Nb;38.679762;-90.439153
 16076;Craig @ Craigview Sb;38.679442;-90.438987
-16079;Kings Highway @ Delor Nb;38.582679;-90.277832
+16079;Kingshighway @ Delor Nb;38.582679;-90.277832
 16084;Union @ Natural Bridge Sb;38.679064;-90.258484
 16085;National Personnel Record Center & National Archives;38.771872;-90.229569
 16089;Central West End Transit Center;38.636061;-90.260194
@@ -4982,7 +4982,7 @@
 16169;Green Mount Commons @ Lowes Wb;38.520588;-89.925667
 16176;Forest @ 51st Street Eb;38.636806;-90.096789
 16177;Forest @ 52nd Street Eb;38.636802;-90.095583
-16178;Kings Highway @ Delmar Sb;38.651814;-90.263585
+16178;Kingshighway @ Delmar Sb;38.651814;-90.263585
 16181;Falling Springs @ Mildred Eb;38.574344;-90.179581
 16183;Page @ Skinker Wb;38.670877;-90.290388
 16185;Lindbergh @ Inverness Sb;38.715354;-90.408235
