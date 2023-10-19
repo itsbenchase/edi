@@ -415,7 +415,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Mall Station - Mariner P&R</name>
+		<name>2: Mall Station - Mariner P&amp;R</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.33</description>
 		<LineString> 

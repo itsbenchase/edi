@@ -1007,7 +1007,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>424: Eastern Avenue & Essex Street - Wonderland</name>
+		<name>424: Eastern Avenue &amp; Essex Street - Wonderland</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.43</description>
 		<LineString> 
@@ -3559,7 +3559,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Jersey Street & Queensberry Street - Copley</name>
+		<name>55: Jersey Street &amp; Queensberry Street - Copley</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.22</description>
 		<LineString> 
@@ -3821,7 +3821,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Centre Street & Eliot Street - JFK/UMass</name>
+		<name>41: Centre Street &amp; Eliot Street - JFK/UMass</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.39</description>
 		<LineString> 
@@ -3972,7 +3972,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Baker Street & Vermont Street - Forest Hills</name>
+		<name>37: Baker Street &amp; Vermont Street - Forest Hills</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.25</description>
 		<LineString> 
@@ -4311,7 +4311,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: River Street & Milton Street - Mattapan</name>
+		<name>33: River Street &amp; Milton Street - Mattapan</name>
 		<styleUrl>#1.5</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.57</description>
 		<LineString> 
@@ -4491,7 +4491,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: City Point - Otis Street & Summer Street</name>
+		<name>7: City Point - Otis Street &amp; Summer Street</name>
 		<styleUrl>#1.5</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.65</description>
 		<LineString> 
@@ -4965,7 +4965,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Wakefield Avenue & Truman Parkway - Ashmont</name>
+		<name>24: Wakefield Avenue &amp; Truman Parkway - Ashmont</name>
 		<styleUrl>#1.5</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.5</description>
 		<LineString> 
@@ -6330,7 +6330,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501: Brighton Center - Federal Street & Franklin Street</name>
+		<name>501: Brighton Center - Federal Street &amp; Franklin Street</name>
 		<styleUrl>#1.5</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.83</description>
 		<LineString> 
@@ -6363,7 +6363,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504: Watertown Yard - Federal Street & Franklin Street</name>
+		<name>504: Watertown Yard - Federal Street &amp; Franklin Street</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.14</description>
 		<LineString> 
@@ -6384,7 +6384,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>505: Waltham Center - Federal Street & Franklin Street</name>
+		<name>505: Waltham Center - Federal Street &amp; Franklin Street</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ma-mbta<br/>EDI: 1.4</description>
 		<LineString> 
@@ -6627,7 +6627,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: City Point - Chauncy Street & Summer Street</name>
+		<name>11: City Point - Chauncy Street &amp; Summer Street</name>
 		<styleUrl>#2.0</styleUrl>
 		<description>Branch: Inbound<br/>Agency: ma-mbta<br/>EDI: 2.26</description>
 		<LineString> 
@@ -6666,7 +6666,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: City Point - Chauncy Street & Summer Street</name>
+		<name>11: City Point - Chauncy Street &amp; Summer Street</name>
 		<styleUrl>#2.0</styleUrl>
 		<description>Branch: Outbound<br/>Agency: ma-mbta<br/>EDI: 2.32</description>
 		<LineString> 

@@ -2845,7 +2845,7 @@
 	<Placemark> 
 		<name>37: Islington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Woodbine & Humberwood<br/>Agency: on-ttc<br/>EDI: 1.29</description>
+		<description>Branch: A: Woodbine &amp; Humberwood<br/>Agency: on-ttc<br/>EDI: 1.29</description>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -2903,7 +2903,7 @@
 	<Placemark> 
 		<name>36: Finch West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: F: Weston Rd & Milvan via Fenmar<br/>Agency: on-ttc<br/>EDI: 1.24</description>
+		<description>Branch: F: Weston Rd &amp; Milvan via Fenmar<br/>Agency: on-ttc<br/>EDI: 1.24</description>
 		<LineString> 
 			<coordinates>
 			-79.564051,43.762579,0
@@ -2935,7 +2935,7 @@
 	<Placemark> 
 		<name>36: Finch West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: Weston Rd & Milvan<br/>Agency: on-ttc<br/>EDI: 1.16</description>
+		<description>Branch: D: Weston Rd &amp; Milvan<br/>Agency: on-ttc<br/>EDI: 1.16</description>
 		<LineString> 
 			<coordinates>
 			-79.566035,43.760715,0
@@ -3261,7 +3261,7 @@
 	<Placemark> 
 		<name>34: Eglinton East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Don Mills & Wynford<br/>Agency: on-ttc<br/>EDI: 1.14</description>
+		<description>Branch: B: Don Mills &amp; Wynford<br/>Agency: on-ttc<br/>EDI: 1.14</description>
 		<LineString> 
 			<coordinates>
 			-79.338338,43.723099,0
@@ -3364,7 +3364,7 @@
 	<Placemark> 
 		<name>32: Eglinton West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: Jane & Emmett<br/>Agency: on-ttc<br/>EDI: 1.11</description>
+		<description>Branch: D: Jane &amp; Emmett<br/>Agency: on-ttc<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-79.503988,43.688587,0
@@ -3398,7 +3398,7 @@
 	<Placemark> 
 		<name>32: Eglinton West</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Jane & Lawrence via Trethewey<br/>Agency: on-ttc<br/>EDI: 1.11</description>
+		<description>Branch: C: Jane &amp; Lawrence via Trethewey<br/>Agency: on-ttc<br/>EDI: 1.11</description>
 		<LineString> 
 			<coordinates>
 			-79.507916,43.701353,0

@@ -1,3 +1,618 @@
+34328;Union Station Gate B9;39.754666;-105.002224;10-clermont;1
+34384;Wewatta St & 17th St;39.754216;-105.001462;10-clermont;2
+22574;15th St & Wynkoop St;39.751033;-105.002397;10-clermont;3
+17766;Wazee St & 16th Street Mall;39.751042;-105.000108;10-clermont;4
+20745;17th St & Market St;39.750938;-104.997405;10-clermont;5
+17717;17th St & Lawrence St;39.749498;-104.995545;10-clermont;6
+17716;17th St & Arapahoe St [ Y Stop ];39.748379;-104.99408;10-clermont;7
+17713;17th St & Stout St [ Y Stop ];39.746469;-104.991578;10-clermont;8
+17710;17th St & Glenarm [ Y Stop ];39.744464;-104.989005;10-clermont;9
+17730;Broadway & Cleveland Pl;39.74246;-104.987551;10-clermont;10
+17731;Broadway & W Colfax Ave;39.740318;-104.987529;10-clermont;11
+10159;12th Ave & Broadway;39.735237;-104.986919;10-clermont;12
+10168;12th Ave & Grant St;39.735227;-104.983287;10-clermont;13
+10177;12th Ave & Pennsylvania St;39.735102;-104.980599;10-clermont;14
+10186;12th Ave & Washington St;39.735093;-104.97837;10-clermont;15
+10160;12th Ave & Corona St;39.7351;-104.973595;10-clermont;16
+10170;12th Ave & Humboldt St;39.735125;-104.968576;10-clermont;17
+10188;12th Ave & Gilpin St;39.736056;-104.966469;10-clermont;18
+10179;12th Ave & Race St;39.735005;-104.963223;10-clermont;19
+10190;12th Ave & York St;39.734996;-104.95948;10-clermont;20
+10162;12th Ave & Elizabeth St;39.735096;-104.956006;10-clermont;21
+10166;12th Ave & Fillmore St;39.735078;-104.952621;10-clermont;22
+10181;12th Ave & Steele St;39.735064;-104.948897;10-clermont;23
+10175;12th Ave & Madison St;39.735067;-104.945899;10-clermont;24
+22300;12th Ave & Harrison St;39.735047;-104.94132;10-clermont;25
+13047;Colorado Blvd & 11th Ave;39.73376;-104.940864;10-clermont;26
+18960;9th Ave & Clermont St;39.730958;-104.936055;10-clermont;27
+34328;Union Station Gate B9;39.754666;-105.002224;10-billings;1
+34384;Wewatta St & 17th St;39.754216;-105.001462;10-billings;2
+22574;15th St & Wynkoop St;39.751033;-105.002397;10-billings;3
+17766;Wazee St & 16th Street Mall;39.751042;-105.000108;10-billings;4
+20745;17th St & Market St;39.750938;-104.997405;10-billings;5
+17717;17th St & Lawrence St;39.749498;-104.995545;10-billings;6
+17716;17th St & Arapahoe St [ Y Stop ];39.748379;-104.99408;10-billings;7
+17713;17th St & Stout St [ Y Stop ];39.746469;-104.991578;10-billings;8
+17710;17th St & Glenarm [ Y Stop ];39.744464;-104.989005;10-billings;9
+17730;Broadway & Cleveland Pl;39.74246;-104.987551;10-billings;10
+17731;Broadway & W Colfax Ave;39.740318;-104.987529;10-billings;11
+10159;12th Ave & Broadway;39.735237;-104.986919;10-billings;12
+10168;12th Ave & Grant St;39.735227;-104.983287;10-billings;13
+10177;12th Ave & Pennsylvania St;39.735102;-104.980599;10-billings;14
+10186;12th Ave & Washington St;39.735093;-104.97837;10-billings;15
+10160;12th Ave & Corona St;39.7351;-104.973595;10-billings;16
+10170;12th Ave & Humboldt St;39.735125;-104.968576;10-billings;17
+10188;12th Ave & Gilpin St;39.736056;-104.966469;10-billings;18
+10179;12th Ave & Race St;39.735005;-104.963223;10-billings;19
+10190;12th Ave & York St;39.734996;-104.95948;10-billings;20
+10162;12th Ave & Elizabeth St;39.735096;-104.956006;10-billings;21
+10166;12th Ave & Fillmore St;39.735078;-104.952621;10-billings;22
+10181;12th Ave & Steele St;39.735064;-104.948897;10-billings;23
+10175;12th Ave & Madison St;39.735067;-104.945899;10-billings;24
+22300;12th Ave & Harrison St;39.735047;-104.94132;10-billings;25
+13047;Colorado Blvd & 11th Ave;39.73376;-104.940864;10-billings;26
+18960;9th Ave & Clermont St;39.730958;-104.936055;10-billings;27
+11903;9th Ave & Dahlia St;39.731129;-104.931942;10-billings;28
+11907;9th Ave & Fairfax St;39.731009;-104.927777;10-billings;29
+11912;9th Ave & Grape St;39.731013;-104.924836;10-billings;30
+21511;9th Ave & Ivanhoe St;39.730427;-104.921823;10-billings;31
+10056;Jersey St & 10th Ave;39.731453;-104.919403;10-billings;32
+10062;10th Ave & Leyden St;39.731631;-104.914705;10-billings;33
+10068;10th Ave & Monaco Pkwy;39.731643;-104.912577;10-billings;34
+10125;11th Ave & Magnolia St;39.73285;-104.911162;10-billings;35
+10132;11th Ave & Oneida St;39.732858;-104.908263;10-billings;36
+10137;11th Ave & Pontiac St;39.732853;-104.905209;10-billings;37
+10139;11th Ave & Quebec St;39.732809;-104.902489;10-billings;38
+10142;11th Ave & Rosemary St;39.732821;-104.899552;10-billings;39
+26053;11th Ave & Spruce Ct;39.732808;-104.895575;10-billings;40
+25223;11th Ave & Uinta St;39.732794;-104.893019;10-billings;41
+26019;11th Ave & Willow St;39.732796;-104.887603;10-billings;42
+25299;11th Ave & Yosemite St;39.732758;-104.883449;10-billings;43
+10100;11th Ave & Boston St;39.732758;-104.880085;10-billings;44
+10102;11th Ave & Dayton St;39.7328;-104.874946;10-billings;45
+10109;11th Ave & Galena St;39.732805;-104.869976;10-billings;46
+10116;11th Ave & Havana St;39.732808;-104.865539;10-billings;47
+10120;11th Ave & Joliet St;39.732828;-104.860061;10-billings;48
+33385;11th Ave & Kramer Ct;39.732837;-104.857392;10-billings;49
+10127;11th Ave & Moline St;39.732853;-104.85463;10-billings;50
+10129;11th Ave & Nome St;39.73286;-104.849883;10-billings;51
+15885;Peoria St & 11th Ave;39.733383;-104.847058;10-billings;52
+15887;Peoria St & 13th Ave;39.737002;-104.846918;10-billings;53
+12954;Colfax Ave & Peoria St;39.740056;-104.845858;10-billings;54
+12973;Colfax Ave & Scranton St;39.740074;-104.841762;10-billings;55
+12994;Colfax Ave & Ursula St;39.740031;-104.836427;10-billings;56
+13013;Colfax Ave & Xanadu St;39.740081;-104.831107;10-billings;57
+25560;Colfax Station;39.74004;-104.827194;10-billings;58
+12847;Colfax Ave & Billings St;39.740066;-104.82309;10-billings;59
+25312;S Allison Pkwy & W Alameda Ave;39.710135;-105.08606;9;1
+17023;S Wadsworth Blvd & W Alameda Ave;39.711748;-105.081272;9;2
+17025;S Wadsworth Blvd & W Bayaud Ave;39.715297;-105.081301;9;3
+16946;Wadsworth Blvd & W 1st Ave;39.71885;-105.081335;9;4
+22917;Wadsworth Blvd & W 4th Ave;39.722168;-105.081351;9;5
+17060;Wadsworth Blvd & Highland Dr;39.728658;-105.08135;9;6
+33667;Wadsworth Blvd & W 9th Ave;39.731046;-105.081353;9;7
+16940;Wadsworth Blvd & W 10th Ave;39.733408;-105.081323;9;8
+33971;Wadsworth Blvd & W 13th Ave;39.737064;-105.081178;9;9
+34612;W 14th Ave & Vance St;39.738396;-105.078285;9;10
+34613;W 14th Ave & Reed St;39.738396;-105.074445;9;11
+10238;W 14th Ave & Pierce St;39.738443;-105.071531;9;12
+10236;W 14th Ave & Newland St;39.738444;-105.069056;9;13
+33954;Lamar St & W 13th Ave;39.736787;-105.067306;9;14
+14917;Lamar St & W 11th Ave;39.735346;-105.067336;9;15
+10057;W 10th Ave & Kendall St;39.733051;-105.065219;9;16
+10048;W 10th Ave & Gray St;39.733052;-105.061044;9;17
+10039;W 10th Ave & Depew St;39.733;-105.057679;9;18
+10076;W 10th Ave & Sheridan Blvd;39.733072;-105.052504;9;19
+10083;W 10th Ave & Wolff St;39.73304;-105.04949;9;20
+10082;W 10th Ave & Winona Ct;39.733019;-105.046716;9;21
+11926;W 9th Ave & Vrain St;39.731201;-105.045719;9;22
+10077;W 10th Ave & Stuart St;39.732976;-105.042225;9;23
+10070;W 10th Ave & Perry St;39.732948;-105.038991;9;24
+10066;W 10th Ave & Meade St;39.732915;-105.036005;9;25
+25202;W 10th Ave & King St;39.732899;-105.03394;9;26
+10060;W 10th Ave & Julian St;39.732914;-105.030539;9;27
+10050;W 10th Ave & Hooker St;39.732913;-105.028345;9;28
+10044;W 10th Ave & Federal Blvd;39.732946;-105.024758;9;29
+25926;Decatur St & W 10th Ave;39.732739;-105.021807;9;30
+11841;W 8th Ave & Decatur St;39.72924;-105.021033;9;31
+20508;W 8th Ave & Bryant St;39.729256;-105.018896;9;32
+25600;W 8th Ave & Wyandot St;39.729228;-105.013839;9;33
+24371;Mariposa St & W 8th Ave;39.729232;-105.002752;9;34
+20124;W 9th Ave & Mariposa St;39.730429;-105.002442;9;35
+20125;W 9th Ave & Kalamath St;39.730464;-104.999837;9;36
+16418;Santa Fe Dr & W 11th Ave;39.733915;-104.998604;9;37
+16420;Santa Fe Dr & W 13th Ave;39.737446;-104.998614;9;38
+10228;W 14th Ave & Galapago St;39.738407;-104.996035;9;39
+12739;Cherokee St & W 14th Ave;39.738761;-104.991564;9;40
+17745;Court Pl & 14th St;39.740833;-104.99076;9;41
+17699;15th St & Tremont Pl [ X Stop ];39.742597;-104.991089;9;42
+17702;15th St & California St [ X Stop ];39.744592;-104.993709;9;43
+17705;15th St & Curtis St [ X Stop ];39.746779;-104.996523;9;44
+17707;15th St & Larimer St;39.748253;-104.998456;9;45
+17756;Market St & 16th Street Mall;39.749677;-104.99839;9;46
+17834;18th St & Blake St;39.752629;-104.996932;9;47
+34324;Union Station Gate B5;39.754028;-105.001423;9;48
+35034;Civic Center Station Gate 4;39.740811;-104.986479;8;1
+17698;15th St & Cleveland Pl;39.741184;-104.989239;8;2
+17701;15th St & Welton St [ Z Stop ];39.743924;-104.992835;8;3
+17704;15th St & Champa St [ Z Stop ];39.745953;-104.995464;8;4
+17747;Curtis St & 16th Street Mall;39.747278;-104.994561;8;5
+22700;Curtis St & 18th St;39.748868;-104.992565;8;6
+22701;Curtis St & 20th St;39.751116;-104.989571;8;7
+23223;Park Ave West & Lawrence St;39.755422;-104.988414;8;8
+23224;Park Ave West & Blake St;39.756991;-104.990429;8;9
+16328;Platte Employee Lot (Sb);39.770187;-104.982984;8;10
+33344;Lincoln St & 46th Ave;39.780334;-104.985716;8;11
+14968;Lincoln St & 47th Ave;39.782255;-104.985751;8;12
+14970;Lincoln St & 48th Ave;39.784373;-104.985751;8;13
+14973;50th Ave & Lincoln St;39.787452;-104.986041;8;14
+11357;51st Ave & Lincoln St;39.789268;-104.986877;8;15
+12442;Broadway & 52nd Ave;39.791229;-104.987484;8;16
+14974;Lincoln St & 54th Ave;39.794922;-104.987216;8;17
+14976;Lincoln St & 56th Ave;39.798065;-104.986007;8;18
+22937;56th Ave & Logan St;39.798252;-104.982654;8;19
+11427;Logan Ct & 57th Ave;39.79989;-104.98115;8;20
+15025;Logan Ct & 58th Ave;39.801459;-104.981133;8;21
+24069;59th Ave & Logan Ct;39.802006;-104.981686;8;22
+12446;Broadway & 58th Ave;39.802994;-104.987294;8;23
+22314;5900 Block Broadway;39.804682;-104.987353;8;24
+12449;Broadway & 60th Pl;39.80696;-104.987387;8;25
+12453;6300 Block Broadway;39.81064;-104.987388;8;26
+12458;Broadway & 64th Ave;39.813148;-104.98736;8;27
+21068;6800 Block Broadway;39.820321;-104.98734;8;28
+34645;Broadway & 70th Ave;39.824893;-104.987222;8;29
+12485;Broadway & Bowie Ct;39.829781;-104.98721;8;30
+12503;Broadway & Cragmore St;39.833092;-104.987191;8;31
+18994;Conifer Rd & Durango St;39.836562;-104.989283;8;32
+13159;Conifer Rd & Dakin St;39.838536;-104.990843;8;33
+13154;Conifer Rd & W 79th Pl;39.839764;-104.991645;8;34
+33591;Conifer Rd & W 80th Ave;39.84196;-104.99248;8;35
+13162;Conifer Rd & Leona Dr;39.843618;-104.991385;8;36
+13156;Conifer Rd & W 81st Pl;39.845019;-104.990115;8;37
+13157;Conifer Rd & W 83rd Ave;39.847357;-104.989579;8;38
+11780;W 84th Ave & Conifer Rd;39.849108;-104.990137;8;39
+11781;W 84th Ave & Fox St;39.84911;-104.99428;8;40
+14422;Huron St & W 84th Ave;39.849385;-104.996504;8;41
+14436;Huron St & Milky Way;39.853345;-104.996498;8;42
+14423;Huron St & W 88th Ave;39.856623;-104.996507;8;43
+14434;Huron St & Fox Dr;39.859897;-104.996514;8;44
+14425;Huron St & Thornton Pkwy;39.864158;-104.996524;8;45
+14431;Huron St & Croke Dr;39.867695;-104.996531;8;46
+23994;Huron St & Switzer Ln;39.869287;-104.996535;8;47
+14427;Huron St & W 96th Pl;39.87216;-104.996538;8;48
+14430;Huron St & W 99th Ave;39.875885;-104.996546;8;49
+14406;Huron St & W 100th Pl;39.878768;-104.996553;8;50
+14408;Huron St & W 102nd Pl;39.881711;-104.996558;8;51
+14410;Huron St & W 104th Ave;39.884214;-104.996558;8;52
+22002;Huron St & Naiad Dr;39.887363;-104.996551;8;53
+23383;Huron St & W 106th Ave;39.889332;-104.996537;8;54
+14435;Huron St & Kennedy Dr;39.8935;-104.996553;8;55
+14413;11000 Block Huron St;39.896995;-104.996551;8;56
+34342;Huron St & Community Center Dr;39.898998;-104.996554;8;57
+14414;Huron St & Community Center Dr;39.900169;-104.996572;8;58
+14417;Huron St & W 114th Ave;39.902983;-104.996572;8;59
+19729;Huron St & W 116th Ave;39.907376;-104.996584;8;60
+24272;Huron St & W 118th Ave;39.911367;-104.996591;8;61
+26106;Wagon Road PnR Gate F;39.912496;-104.993985;8;62
+35320;38th & Blake Station;39.77055;-104.973378;7;1
+34787;38th St & Wynkoop St;39.772227;-104.974334;7;2
+11068;38th St & Brighton Blvd;39.773244;-104.975691;7;3
+11067;38th St & Arkins Ct;39.774849;-104.977789;7;4
+17167;Washington St & 45th Ave;39.77865;-104.979081;7;5
+17169;Washington St & 47th Ave;39.782115;-104.978489;7;6
+22041;Washington St & 49th Ave;39.785969;-104.978237;7;7
+17173;Washington St & 50th Ave;39.788097;-104.978225;7;8
+17175;Washington St & 51st Ave;39.789593;-104.978222;7;9
+17177;5300 Block Washington St;39.791912;-104.978187;7;10
+17179;Washington St & 56th Ave;39.797703;-104.978171;7;11
+34570;Washington St & 58th Ave;39.800718;-104.977972;7;12
+17181;Washington St & 58th Ave;39.802483;-104.977864;7;13
+17183;6000 Block Washington St;39.804566;-104.9779;7;14
+17185;Washington St & 62nd Ave;39.809511;-104.97794;7;15
+17187;Washington St & 64th Ave;39.813134;-104.977951;7;16
+17189;Washington St & 66th Ave;39.81667;-104.97797;7;17
+24706;Washington St & 68th Ave;39.820235;-104.977911;7;18
+17191;Washington St & Hwy 224;39.824522;-104.977873;7;19
+17193;Washington St & 73rd Ave;39.829336;-104.9778;7;20
+23724;Washington St & 76th Ave;39.835163;-104.97778;7;21
+17197;Washington St & 78th Pl;39.839603;-104.977771;7;22
+17217;Washington St & Explorador Calle;39.842425;-104.977765;7;23
+17214;Washington St & Coronado Pkwy;39.846803;-104.97775;7;24
+17200;Washington St & 84th Ave;39.850094;-104.977744;7;25
+17203;Washington St & Sheldon Dr;39.853927;-104.977744;7;26
+17205;Washington St & 88th Ave;39.857787;-104.977777;7;27
+17228;Washington St & Russell Blvd;39.859484;-104.977757;7;28
+21551;Eppinger Blvd & Washington St;39.864057;-104.97836;7;29
+33389;Eppinger Blvd & Grant St;39.863827;-104.982513;7;30
+21545;Grant St & Eppinger Blvd;39.863935;-104.983513;7;31
+33638;9300 Block Grant St;39.865507;-104.985026;7;32
+21546;Grant St & Thornton Pkwy;39.871457;-104.981498;7;33
+21547;Grant St & 98th Ave;39.875327;-104.983134;7;34
+21548;Grant St & 100th Ave;39.878424;-104.983526;7;35
+21549;Grant St & 102nd Ave;39.882448;-104.982024;7;36
+17155;Washington St & 104th Ave;39.88605;-104.977591;7;37
+17157;Washington St & 105th Pl;39.88804;-104.977592;7;38
+17218;Washington St & Garland Dr;39.891125;-104.977568;7;39
+17224;Washington St & Muriel Dr;39.897617;-104.977532;7;40
+35279;112th Ave & Irma Dr;39.89943;-104.964696;7;41
+23700;Northglenn & 112th Station Gate A;39.901829;-104.959744;7;42
+34970;11th St & Auraria Pkwy;39.7472;-105.004918;6;1
+21374;Market St & 14th St;39.748135;-105.00042;6;2
+17756;Market St & 16th Street Mall;39.749677;-104.99839;6;3
+17717;17th St & Lawrence St;39.749498;-104.995545;6;4
+17715;17th St & Curtis St [ Z Stop ];39.747891;-104.99344;6;5
+17712;17th St & California St [ Z Stop ];39.745801;-104.990744;6;6
+17730;Broadway & Cleveland Pl;39.74246;-104.987551;6;7
+12849;Colfax Ave & Broadway;39.739947;-104.986666;6;8
+12978;Colfax Ave & Sherman St;39.739975;-104.984252;6;9
+18999;Grant St & 14th Ave;39.73814;-104.983662;6;10
+14112;Grant St & 12th Ave;39.735039;-104.983675;6;11
+14111;Grant St & 10th Ave;39.731408;-104.983671;6;12
+14114;Grant St & 8th Ave;39.728831;-104.983703;6;13
+11583;6th Ave & Pennsylvania St;39.725566;-104.980921;6;14
+11603;6th Ave & Washington St;39.725555;-104.978388;6;15
+11454;6th Ave & Corona St;39.725517;-104.97381;6;16
+11568;6th Ave & Lafayette St;39.725519;-104.97028;6;17
+11604;6th Ave & Williams St;39.725531;-104.96612;6;18
+11602;6th Ave & Gaylord St;39.725525;-104.962304;6;19
+11560;6th Ave & Josephine St;39.725548;-104.958387;6;20
+11527;6th Ave & Clayton St;39.725551;-104.955439;6;21
+11569;6th Ave & Milwaukee St;39.725544;-104.951937;6;22
+11519;6th Ave & Adams St;39.725547;-104.948256;6;23
+11576;6th Ave & Monroe St;39.725546;-104.944662;6;24
+11558;6th Ave & Jackson St;39.725536;-104.942651;6;25
+11532;6th Ave & Colorado Blvd;39.725261;-104.939775;6;26
+11525;6th Ave & Clermont Pkwy;39.725267;-104.934622;6;27
+11541;6th Ave & Elm St;39.725279;-104.929176;6;28
+11549;6th Ave & Glencoe St;39.725282;-104.925809;6;29
+11554;6th Ave & Holly St;39.725292;-104.922242;6;30
+11556;6th Ave & Ivy Ln;39.725289;-104.918725;6;31
+11566;6th Ave & Krameria St;39.725299;-104.915628;6;32
+11572;6th Ave & Monaco Pkwy;39.725298;-104.91213;6;33
+11580;6th Ave & Olive St;39.725302;-104.906843;6;34
+16139;Quebec St & 6th Ave;39.724954;-104.903635;6;35
+16134;Quebec St & 3rd Ave;39.721245;-104.903649;6;36
+16120;Quebec St & 1st Ave;39.718813;-104.90383;6;37
+25261;Lowry Blvd & Quebec St;39.716944;-104.903166;6;38
+25262;Lowry Blvd & Rosemary St;39.716957;-104.89922;6;39
+25263;Lowry Blvd & Fairmount Dr;39.717394;-104.894788;6;40
+25264;Lowry Blvd & Uinta Way;39.720095;-104.890098;6;41
+25293;Lowry Blvd & Yosemite Way;39.723881;-104.883318;6;42
+24470;Lowry Blvd & Alton Way;39.725439;-104.878023;6;43
+11533;6th Ave & Dayton St;39.725469;-104.87491;6;44
+11547;6th Ave & Fulton St;39.725466;-104.869972;6;45
+11552;6th Ave & Havana St;39.725482;-104.865438;6;46
+11561;6th Ave & Kenton St;39.725502;-104.861422;6;47
+11570;6th Ave & Moline St;39.725505;-104.856561;6;48
+20003;6th Ave & Del Mar Cir W;39.725576;-104.850613;6;49
+15912;Peoria St & 6th Ave;39.726458;-104.847097;6;50
+22337;Del Mar Cir & Quari Ct;39.728841;-104.845939;6;51
+18617;Hoffman Blvd & Del Mar Cir;39.728614;-104.84335;6;52
+18618;Hoffman Blvd & Revere St;39.729714;-104.840982;6;53
+18619;Hoffman Blvd & Tucson St;39.731321;-104.837436;6;54
+18620;Hoffman Blvd & Victor St;39.732893;-104.833967;6;55
+18621;Hoffman Blvd & Xapary St;39.734154;-104.831034;6;56
+18622;Potomac St & Hoffman Blvd;39.73409;-104.828399;6;57
+18623;Potomac St & 10th Ave;39.731537;-104.828409;6;58
+18624;700 Block Potomac St;39.727601;-104.828414;6;59
+20718;Potomac St & 6th Ave;39.72467;-104.828388;6;60
+18625;Potomac St & Parkview Dr;39.721726;-104.8284;6;61
+22641;2nd Ave. & Abilene St.;39.718669;-104.826253;6;62
+34155;S Abilene St & Cedar Ave;39.712673;-104.824687;6;63
+21050;Alameda Ave & S Blackhawk St;39.711003;-104.822526;6;64
+16378;S Sable Blvd & Alameda Ave;39.710659;-104.819475;6;65
+26337;Aurora Metro Center Stn Gate H;39.707975;-104.818481;6;66
+13360;S Depew St & W Evans Ave;39.67949;-105.057201;4;1
+21058;S Depew St & W Jewell Ave;39.681627;-105.057199;4;2
+16559;S Sheridan Blvd & W Jewell Ave;39.68263;-105.053031;4;3
+16574;S Sheridan Blvd & S Zenobia Way;39.686355;-105.05307;4;4
+16556;S Sheridan Blvd & W Florida Ave;39.689901;-105.053124;4;5
+16568;S Sheridan Blvd & W Louisiana Ave;39.693711;-105.053082;4;6
+16572;S Sheridan Blvd & Morrison Rd;39.697811;-105.053144;4;7
+14769;W Kentucky Ave & S Sheridan Blvd;39.700392;-105.052525;4;8
+25843;Morrison Rd & W Kentucky Ave;39.700799;-105.047429;4;9
+25861;Morrison Rd & W Ohio Ave;39.702448;-105.045146;4;10
+25862;Morrison Rd & S Raleigh St;39.703865;-105.04313;4;11
+25863;Morrison Rd & S Patton Ct;39.705806;-105.040314;4;12
+25864;Morrison Rd & S Osceola St;39.707509;-105.037934;4;13
+34462;Morrison Rd & W Nevada Pl;39.710501;-105.033608;4;14
+34461;Morrison Rd & W Nevada Pl;39.710951;-105.032895;4;15
+12029;W Alameda Ave & S Knox Ct;39.711067;-105.030627;4;16
+11991;W Alameda Ave & S Federal Blvd;39.711025;-105.024578;4;17
+11968;W Alameda Ave & S Clay St;39.711082;-105.019621;4;18
+12119;W Alameda Ave & S Yuma St;39.71109;-105.014756;4;19
+12092;W Alameda Ave & S Tejon St;39.711121;-105.01074;4;20
+12063;W Alameda Ave & S Pecos St;39.711118;-105.005896;4;21
+12039;W Alameda Ave & S Lipan St;39.711101;-105.001158;4;22
+12023;W Alameda Ave & S Kalamath St;39.711078;-104.997817;4;23
+35012;Alameda Station Gate F;39.708839;-104.9925;4;24
+35035;Civic Center Station Gate 5;39.740774;-104.986746;3L;1
+12427;Broadway & W 13th Ave;39.736373;-104.987538;3L;2
+12463;Broadway & W 9th Ave;39.729734;-104.987564;3L;3
+20128;Speer Blvd & Washington St;39.720166;-104.978759;3L;4
+20376;1st Ave & Downing St;39.718144;-104.972827;3L;5
+10480;1st Ave & University Blvd;39.717998;-104.958053;3L;6
+10413;1st Ave & Fillmore Plaza;39.717975;-104.95362;3L;7
+21849;S Steele St & Ellsworth Ave;39.715874;-104.950001;3L;8
+18513;Alameda Ave & S Harrison St;39.71142;-104.941502;3L;9
+11974;Alameda Ave & S Colorado Blvd;39.71138;-104.939338;3L;10
+11976;Alameda Ave & S Dahlia St;39.711145;-104.930865;3L;11
+12011;Alameda Ave & S Holly St;39.711153;-104.921906;3L;12
+22875;Alameda Ave & S Monaco Pkwy;39.711159;-104.913248;3L;13
+12046;Alameda Ave & S Monaco Pkwy;39.711155;-104.912059;3L;14
+12075;Alameda Ave & S Quebec St;39.71117;-104.902627;3L;15
+11989;Alameda Ave & Fairmount Dr;39.711082;-104.8925;3L;16
+22668;8500 Block Alameda Ave;39.709741;-104.890056;3L;17
+11946;8600 Block Alameda Ave;39.708112;-104.887429;3L;18
+11970;Alameda Ave & S Clinton St;39.708082;-104.878471;3L;19
+11978;Alameda Ave & S Dayton St;39.708936;-104.874865;3L;20
+11996;Alameda Ave & S Galena Way;39.710348;-104.869133;3L;21
+18671;Alameda & Havana PnR;39.712246;-104.864808;3L;22
+19000;Alameda Ave & Jamaica Way;39.710962;-104.862031;3L;23
+12033;Alameda Ave & S Lansing St;39.710997;-104.857125;3L;24
+12044;Alameda Ave & S Moline St;39.711015;-104.854267;3L;25
+12053;Alameda Ave & S Nome St;39.711041;-104.850293;3L;26
+12065;Alameda Ave & S Peoria St;39.711061;-104.846722;3L;27
+12099;Alameda Ave & S Troy St;39.711059;-104.841979;3L;28
+12105;Alameda Ave & S Ursula Way;39.711054;-104.83624;3L;29
+12113;Alameda Ave & S Xapary St;39.711051;-104.832001;3L;30
+12069;Alameda Ave & S Potomac St;39.711044;-104.82772;3L;31
+21050;Alameda Ave & S Blackhawk St;39.711003;-104.822526;3L;32
+26335;Aurora Metro Center Stn Gate F;39.708145;-104.818418;3L;33
+33660;Federal Center Station Gate N;39.719619;-105.128682;3-aurora;1
+16773;Union Blvd & W 2nd Pl;39.717643;-105.132747;3-aurora;2
+16789;Union Blvd & W Ellsworth Ave;39.714867;-105.133462;3-aurora;3
+33542;S Union Blvd & W Cedar Dr;39.712557;-105.133381;3-aurora;4
+12101;W Alameda Ave & S Union Blvd;39.70974;-105.132443;3-aurora;5
+12089;W Alameda Ave & S Swadley St;39.710672;-105.129923;3-aurora;6
+12080;W Alameda Ave & S Robb Way;39.710845;-105.126837;3-aurora;7
+12068;W Alameda Ave & S Pierson St;39.710857;-105.12341;3-aurora;8
+12055;W Alameda Ave & S Oak St;39.710878;-105.118679;3-aurora;9
+12049;W Alameda Ave & S Moore St;39.710896;-105.11519;3-aurora;10
+12026;W Alameda Ave & S Kipling St;39.710872;-105.108332;3-aurora;11
+12015;W Alameda Ave & S Hoyt St;39.710914;-105.103671;3-aurora;12
+11999;W Alameda Ave & S Garrison St;39.710904;-105.099522;3-aurora;13
+11987;W Alameda Ave & S Estes St;39.710873;-105.095283;3-aurora;14
+11960;W Alameda Ave & S Carr St;39.7109;-105.090472;3-aurora;15
+25313;S Allison Pkwy & W Alameda Ave;39.710594;-105.08633;3-aurora;16
+24857;S Allison Pkwy & W Virginia Ave Gate B;39.707613;-105.084986;3-aurora;17
+25137;W Virginia Ave & S Wadsworth Blvd;39.706944;-105.082571;3-aurora;18
+33213;W Virginia Ave & S Vance St;39.707003;-105.078988;3-aurora;19
+25826;W Virginia Ave & S Teller St;39.707023;-105.077104;3-aurora;20
+33220;S Saulsbury St & W Virginia Ave;39.707336;-105.075008;3-aurora;21
+25824;S Saulsbury St & W Alaska Dr;39.709472;-105.074988;3-aurora;22
+12067;W Alameda Ave & S Pierce St;39.710999;-105.071668;3-aurora;23
+12032;W Alameda Ave & S Lamar St;39.711034;-105.066591;3-aurora;24
+12004;W Alameda Ave & S Harlan St;39.711046;-105.062145;3-aurora;25
+11979;W Alameda Ave & S Depew St;39.711087;-105.057327;3-aurora;26
+12085;W Alameda Ave & S Sheridan Blvd;39.711225;-105.052589;3-aurora;27
+12115;W Alameda Ave & S Xavier St;39.711198;-105.049641;3-aurora;28
+12106;W Alameda Ave & S Utica St;39.711167;-105.047151;3-aurora;29
+12088;W Alameda Ave & S Stuart St;39.711145;-105.044146;3-aurora;30
+12076;W Alameda Ave & S Quitman St;39.71116;-105.040448;3-aurora;31
+12042;W Alameda Ave & S Meade St;39.711108;-105.035726;3-aurora;32
+12029;W Alameda Ave & S Knox Ct;39.711067;-105.030627;3-aurora;33
+11991;W Alameda Ave & S Federal Blvd;39.711025;-105.024578;3-aurora;34
+11968;W Alameda Ave & S Clay St;39.711082;-105.019621;3-aurora;35
+12119;W Alameda Ave & S Yuma St;39.71109;-105.014756;3-aurora;36
+12092;W Alameda Ave & S Tejon St;39.711121;-105.01074;3-aurora;37
+12063;W Alameda Ave & S Pecos St;39.711118;-105.005896;3-aurora;38
+12039;W Alameda Ave & S Lipan St;39.711101;-105.001158;3-aurora;39
+12023;W Alameda Ave & S Kalamath St;39.711078;-104.997817;3-aurora;40
+26258;Alameda Station Gate D;39.708096;-104.992459;3-aurora;41
+34672;S Bannock St & W Dakota Ave;39.709151;-104.989933;3-aurora;42
+11958;W Alameda Ave & S Broadway;39.711059;-104.988452;3-aurora;43
+12038;Alameda Ave & S Sherman St;39.711087;-104.98556;3-aurora;44
+12062;Alameda Ave & S Pearl St;39.711074;-104.980993;3-aurora;45
+11985;Alameda Ave & S Emerson St;39.711054;-104.97651;3-aurora;46
+11981;Alameda Ave & S Downing St;39.711055;-104.973103;3-aurora;47
+25549;Alameda Ave & S Williams St;39.711072;-104.966463;3-aurora;48
+25550;Alameda Ave & S Vine St;39.71107;-104.962308;3-aurora;49
+16801;S University Blvd & Alameda Ave;39.711701;-104.959071;3-aurora;50
+16814;University Blvd & Cherry Creek North Dr;39.716948;-104.958987;3-aurora;51
+10480;1st Ave & University Blvd;39.717998;-104.958053;3-aurora;52
+10413;1st Ave & Fillmore Plaza;39.717975;-104.95362;3-aurora;53
+21849;S Steele St & Ellsworth Ave;39.715874;-104.950001;3-aurora;54
+22147;Alameda Ave & S Monroe St;39.711431;-104.945304;3-aurora;55
+18513;Alameda Ave & S Harrison St;39.71142;-104.941502;3-aurora;56
+11974;Alameda Ave & S Colorado Blvd;39.71138;-104.939338;3-aurora;57
+12034;Alameda Ave & Leetsdale Dr;39.711121;-104.935294;3-aurora;58
+11976;Alameda Ave & S Dahlia St;39.711145;-104.930865;3-aurora;59
+11993;Alameda Ave & S Forest St;39.711124;-104.926563;3-aurora;60
+12011;Alameda Ave & S Holly St;39.711153;-104.921906;3-aurora;61
+12024;Alameda Ave & S Kearney St;39.711139;-104.917255;3-aurora;62
+22875;Alameda Ave & S Monaco Pkwy;39.711159;-104.913248;3-aurora;63
+12046;Alameda Ave & S Monaco Pkwy;39.711155;-104.912059;3-aurora;64
+12051;Alameda Ave & S Niagara St;39.711147;-104.909341;3-aurora;65
+12057;Alameda Ave & S Olive Way;39.711143;-104.906108;3-aurora;66
+12075;Alameda Ave & S Quebec St;39.71117;-104.902627;3-aurora;67
+11989;Alameda Ave & Fairmount Dr;39.711082;-104.8925;3-aurora;68
+22668;8500 Block Alameda Ave;39.709741;-104.890056;3-aurora;69
+11946;8600 Block Alameda Ave;39.708112;-104.887429;3-aurora;70
+12789;S Clinton St & Alameda Ave;39.707685;-104.879024;3-aurora;71
+12691;Center Ave & Windsor Gardens Lot 20;39.706543;-104.879262;3-aurora;72
+12694;Center Ave & Windsor Gardens Lot 17;39.706461;-104.88197;3-aurora;73
+12185;S Alton Way & Windsor Gardens Lot 15;39.705429;-104.883342;3-aurora;74
+12184;S Alton Way & Windsor Gardens Lot 15;39.703615;-104.882875;3-aurora;75
+12182;S Alton Way & Windsor Gardens Lot 12;39.702707;-104.880429;3-aurora;76
+12189;S Alton Way & Windsor Gardens Lot 9;39.701283;-104.878669;3-aurora;77
+12187;S Alton Way & S Clinton St;39.701798;-104.876734;3-aurora;78
+12793;S Clinton St & Windsor Gardens Lot 2;39.704189;-104.876323;3-aurora;79
+12790;S Clinton St & Center Ave;39.706088;-104.876237;3-aurora;80
+13339;S Dayton St & Center Ave;39.707333;-104.875295;3-aurora;81
+11978;Alameda Ave & S Dayton St;39.708936;-104.874865;3-aurora;82
+11996;Alameda Ave & S Galena Way;39.710348;-104.869133;3-aurora;83
+33992;Alameda Ave & S Havana St;39.710783;-104.867307;3-aurora;84
+34726;Alameda Ave & S Ironton St;39.710936;-104.864484;3-aurora;85
+19000;Alameda Ave & Jamaica Way;39.710962;-104.862031;3-aurora;86
+12033;Alameda Ave & S Lansing St;39.710997;-104.857125;3-aurora;87
+12044;Alameda Ave & S Moline St;39.711015;-104.854267;3-aurora;88
+12053;Alameda Ave & S Nome St;39.711041;-104.850293;3-aurora;89
+12065;Alameda Ave & S Peoria St;39.711061;-104.846722;3-aurora;90
+12099;Alameda Ave & S Troy St;39.711059;-104.841979;3-aurora;91
+12105;Alameda Ave & S Ursula Way;39.711054;-104.83624;3-aurora;92
+12113;Alameda Ave & S Xapary St;39.711051;-104.832001;3-aurora;93
+12069;Alameda Ave & S Potomac St;39.711044;-104.82772;3-aurora;94
+21050;Alameda Ave & S Blackhawk St;39.711003;-104.822526;3-aurora;95
+16378;S Sable Blvd & Alameda Ave;39.710659;-104.819475;3-aurora;96
+26335;Aurora Metro Center Stn Gate F;39.708145;-104.818418;3-aurora;97
+33660;Federal Center Station Gate N;39.719619;-105.128682;3-alameda;1
+16773;Union Blvd & W 2nd Pl;39.717643;-105.132747;3-alameda;2
+16789;Union Blvd & W Ellsworth Ave;39.714867;-105.133462;3-alameda;3
+33542;S Union Blvd & W Cedar Dr;39.712557;-105.133381;3-alameda;4
+12101;W Alameda Ave & S Union Blvd;39.70974;-105.132443;3-alameda;5
+12089;W Alameda Ave & S Swadley St;39.710672;-105.129923;3-alameda;6
+12080;W Alameda Ave & S Robb Way;39.710845;-105.126837;3-alameda;7
+12068;W Alameda Ave & S Pierson St;39.710857;-105.12341;3-alameda;8
+12055;W Alameda Ave & S Oak St;39.710878;-105.118679;3-alameda;9
+12049;W Alameda Ave & S Moore St;39.710896;-105.11519;3-alameda;10
+12026;W Alameda Ave & S Kipling St;39.710872;-105.108332;3-alameda;11
+12015;W Alameda Ave & S Hoyt St;39.710914;-105.103671;3-alameda;12
+11999;W Alameda Ave & S Garrison St;39.710904;-105.099522;3-alameda;13
+11987;W Alameda Ave & S Estes St;39.710873;-105.095283;3-alameda;14
+11960;W Alameda Ave & S Carr St;39.7109;-105.090472;3-alameda;15
+25313;S Allison Pkwy & W Alameda Ave;39.710594;-105.08633;3-alameda;16
+24857;S Allison Pkwy & W Virginia Ave Gate B;39.707613;-105.084986;3-alameda;17
+25137;W Virginia Ave & S Wadsworth Blvd;39.706944;-105.082571;3-alameda;18
+33213;W Virginia Ave & S Vance St;39.707003;-105.078988;3-alameda;19
+25826;W Virginia Ave & S Teller St;39.707023;-105.077104;3-alameda;20
+33220;S Saulsbury St & W Virginia Ave;39.707336;-105.075008;3-alameda;21
+25824;S Saulsbury St & W Alaska Dr;39.709472;-105.074988;3-alameda;22
+12067;W Alameda Ave & S Pierce St;39.710999;-105.071668;3-alameda;23
+12032;W Alameda Ave & S Lamar St;39.711034;-105.066591;3-alameda;24
+12004;W Alameda Ave & S Harlan St;39.711046;-105.062145;3-alameda;25
+11979;W Alameda Ave & S Depew St;39.711087;-105.057327;3-alameda;26
+12085;W Alameda Ave & S Sheridan Blvd;39.711225;-105.052589;3-alameda;27
+12115;W Alameda Ave & S Xavier St;39.711198;-105.049641;3-alameda;28
+12106;W Alameda Ave & S Utica St;39.711167;-105.047151;3-alameda;29
+12088;W Alameda Ave & S Stuart St;39.711145;-105.044146;3-alameda;30
+12076;W Alameda Ave & S Quitman St;39.71116;-105.040448;3-alameda;31
+12042;W Alameda Ave & S Meade St;39.711108;-105.035726;3-alameda;32
+12029;W Alameda Ave & S Knox Ct;39.711067;-105.030627;3-alameda;33
+11991;W Alameda Ave & S Federal Blvd;39.711025;-105.024578;3-alameda;34
+11968;W Alameda Ave & S Clay St;39.711082;-105.019621;3-alameda;35
+12119;W Alameda Ave & S Yuma St;39.71109;-105.014756;3-alameda;36
+12092;W Alameda Ave & S Tejon St;39.711121;-105.01074;3-alameda;37
+12063;W Alameda Ave & S Pecos St;39.711118;-105.005896;3-alameda;38
+12039;W Alameda Ave & S Lipan St;39.711101;-105.001158;3-alameda;39
+12023;W Alameda Ave & S Kalamath St;39.711078;-104.997817;3-alameda;40
+26258;Alameda Station Gate D;39.708096;-104.992459;3-alameda;41
+35036;Civic Center Station Gate 6;39.740766;-104.98708;0L;1
+12427;Broadway & W 13th Ave;39.736373;-104.987538;0L;2
+12463;Broadway & W 9th Ave;39.729734;-104.987564;0L;3
+17774;Broadway & W 1st Ave;39.718153;-104.98762;0L;4
+12464;S Broadway & W Alameda Ave;39.710672;-104.987721;0L;5
+21472;Broadway & W Center Ave;39.706448;-104.98771;0L;6
+26274;I-25 & Broadway Station Gate A3;39.70162;-104.989935;0L;7
+34326;Union Station Gate B7;39.754355;-105.001835;0-highlands;1
+20745;17th St & Market St;39.750938;-104.997405;0-highlands;2
+17717;17th St & Lawrence St;39.749498;-104.995545;0-highlands;3
+17715;17th St & Curtis St [ Z Stop ];39.747891;-104.99344;0-highlands;4
+17712;17th St & California St [ Z Stop ];39.745801;-104.990744;0-highlands;5
+17730;Broadway & Cleveland Pl;39.74246;-104.987551;0-highlands;6
+17731;Broadway & W Colfax Ave;39.740318;-104.987529;0-highlands;7
+12427;Broadway & W 13th Ave;39.736373;-104.987538;0-highlands;8
+17770;Broadway & W 11th Ave;39.733487;-104.987534;0-highlands;9
+12463;Broadway & W 9th Ave;39.729734;-104.987564;0-highlands;10
+17771;Broadway & Speer Blvd;39.72632;-104.987563;0-highlands;11
+17772;Broadway & W 5th Ave;39.723921;-104.987648;0-highlands;12
+17773;Broadway & 4th Ave;39.722192;-104.987628;0-highlands;13
+17774;Broadway & W 1st Ave;39.718153;-104.98762;0-highlands;14
+17776;S Broadway & W Bayaud Ave;39.714549;-104.987633;0-highlands;15
+12464;S Broadway & W Alameda Ave;39.710672;-104.987721;0-highlands;16
+21472;Broadway & W Center Ave;39.706448;-104.98771;0-highlands;17
+12519;S Broadway & W Exposition Ave;39.704141;-104.987679;0-highlands;18
+26278;I-25 & Broadway Station Gate B1;39.70214;-104.989809;0-highlands;19
+12526;S Broadway & W Tennessee Ave;39.698129;-104.987552;0-highlands;20
+12564;S Broadway & W Mississippi Ave;39.69616;-104.987539;0-highlands;21
+12556;S Broadway & W Louisiana Ave;39.692677;-104.987574;0-highlands;22
+12521;S Broadway & W Florida Ave;39.689131;-104.987608;0-highlands;23
+12538;S Broadway & W Mexico Ave;39.686382;-104.98763;0-highlands;24
+12501;S Broadway & W Colorado Ave;39.683663;-104.987657;0-highlands;25
+12541;S Broadway & W Jewell Ave;39.681928;-104.987671;0-highlands;26
+12517;S Broadway & W Evans Ave;39.678136;-104.987684;0-highlands;27
+12536;S Broadway & W Iliff Ave;39.674424;-104.987683;0-highlands;28
+12533;S Broadway & W Harvard Ave;39.671031;-104.987687;0-highlands;29
+12617;S Broadway & W Yale Ave;39.667236;-104.98773;0-highlands;30
+12481;S Broadway & W Bates Ave;39.663795;-104.987727;0-highlands;31
+12511;S Broadway & W Dartmouth Ave;39.660055;-104.987753;0-highlands;32
+22268;S Broadway & W Floyd Ave;39.656016;-104.98775;0-highlands;33
+20093;Englewood Pkwy & S Acoma St;39.655026;-104.989193;0-highlands;34
+13514;S Elati St & Englewood Pkwy;39.655719;-104.993439;0-highlands;35
+26179;Englewood Station Gate G;39.656238;-104.999351;0-highlands;36
+20171;S Elati St & Englewood Pkwy;39.65571;-104.993607;0-highlands;37
+20094;Englewood Pkwy & S Acoma St;39.654834;-104.9891;0-highlands;38
+12530;S Broadway & W Hampden Ave;39.652807;-104.987763;0-highlands;39
+12547;S Broadway & W Kenyon Ave;39.64912;-104.987827;0-highlands;40
+12558;S Broadway & W Mansfield Ave;39.645532;-104.987874;0-highlands;41
+12573;S Broadway & W Oxford Ave;39.641971;-104.987915;0-highlands;42
+12584;S Broadway & W Quincy Ave;39.638284;-104.987961;0-highlands;43
+12595;S Broadway & W Stanford Ave;39.634685;-104.988006;0-highlands;44
+12607;S Broadway & W Union Ave;39.631019;-104.988042;0-highlands;45
+12497;S Broadway & W Chenango Ave;39.627396;-104.988081;0-highlands;46
+12483;S Broadway & W Belleview Ave;39.623201;-104.988139;0-highlands;47
+12494;S Broadway & W Centennial Ave;39.621519;-104.98818;0-highlands;48
+22056;S Broadway & W Rafferty Gardens Ave;39.618587;-104.988201;0-highlands;49
+12443;S Broadway & W Powers Ave;39.616343;-104.98819;0-highlands;50
+12553;S Broadway & W Littleton Blvd;39.612492;-104.988213;0-highlands;51
+12486;S Broadway & W Broadmoor Dr;39.608539;-104.98823;0-highlands;52
+20637;S Broadway & W Fair Ave;39.603255;-104.988294;0-highlands;53
+12615;S Broadway & Weaver Pl;39.598094;-104.988372;0-highlands;54
+12468;S Broadway & Arapahoe Rd;39.595007;-104.988462;0-highlands;55
+12596;S Broadway & W Sterne Pkwy;39.592567;-104.988443;0-highlands;56
+18836;S Broadway & W Ridge Rd;39.590388;-104.988468;0-highlands;57
+18837;S Broadway & W Davies Ave;39.588663;-104.988459;0-highlands;58
+24176;S Broadway & W Fremont Pl;39.586565;-104.9885;0-highlands;59
+17609;S Broadway & W Fremont Ave;39.583205;-104.988538;0-highlands;60
+19144;S Broadway & W Dry Creek Rd;39.580219;-104.988574;0-highlands;61
+22217;S Broadway & W Jamison Ave;39.575836;-104.988605;0-highlands;62
+20446;S Broadway & W Mineral Ave;39.572906;-104.988629;0-highlands;63
+22453;S Broadway & S Grant Way;39.570567;-104.988648;0-highlands;64
+24460;S Broadway & Southpark Dr;39.567679;-104.988699;0-highlands;65
+25185;Centennial Blvd & S Broadway;39.562585;-104.987279;0-highlands;66
+26613;Centennial Blvd & S Broadway;39.562058;-104.98882;0-highlands;67
+25931;Centennial Blvd & Plaza Dr;39.559937;-104.991041;0-highlands;68
+26245;Ridgeline Blvd & Bluepoint Rd;39.55677;-104.998564;0-highlands;69
+22906;8700 Block Ridgeline Blvd;39.556166;-104.99645;0-highlands;70
+22907;8900 Block Ridgeline Blvd;39.553211;-104.996647;0-highlands;71
+24947;Ridgeline Blvd & Highlands Ranch Pkwy;39.548417;-104.996231;0-highlands;72
+26262;Highlands Ranch Town Center PnR Gate B;39.547191;-104.997556;0-highlands;73
+34326;Union Station Gate B7;39.754355;-105.001835;0-englewood;1
+20745;17th St & Market St;39.750938;-104.997405;0-englewood;2
+17717;17th St & Lawrence St;39.749498;-104.995545;0-englewood;3
+17715;17th St & Curtis St [ Z Stop ];39.747891;-104.99344;0-englewood;4
+17712;17th St & California St [ Z Stop ];39.745801;-104.990744;0-englewood;5
+17730;Broadway & Cleveland Pl;39.74246;-104.987551;0-englewood;6
+17731;Broadway & W Colfax Ave;39.740318;-104.987529;0-englewood;7
+12427;Broadway & W 13th Ave;39.736373;-104.987538;0-englewood;8
+17770;Broadway & W 11th Ave;39.733487;-104.987534;0-englewood;9
+12463;Broadway & W 9th Ave;39.729734;-104.987564;0-englewood;10
+17771;Broadway & Speer Blvd;39.72632;-104.987563;0-englewood;11
+17772;Broadway & W 5th Ave;39.723921;-104.987648;0-englewood;12
+17773;Broadway & 4th Ave;39.722192;-104.987628;0-englewood;13
+17774;Broadway & W 1st Ave;39.718153;-104.98762;0-englewood;14
+17776;S Broadway & W Bayaud Ave;39.714549;-104.987633;0-englewood;15
+12464;S Broadway & W Alameda Ave;39.710672;-104.987721;0-englewood;16
+21472;Broadway & W Center Ave;39.706448;-104.98771;0-englewood;17
+12519;S Broadway & W Exposition Ave;39.704141;-104.987679;0-englewood;18
+26278;I-25 & Broadway Station Gate B1;39.70214;-104.989809;0-englewood;19
+12526;S Broadway & W Tennessee Ave;39.698129;-104.987552;0-englewood;20
+12564;S Broadway & W Mississippi Ave;39.69616;-104.987539;0-englewood;21
+12556;S Broadway & W Louisiana Ave;39.692677;-104.987574;0-englewood;22
+12521;S Broadway & W Florida Ave;39.689131;-104.987608;0-englewood;23
+12538;S Broadway & W Mexico Ave;39.686382;-104.98763;0-englewood;24
+12501;S Broadway & W Colorado Ave;39.683663;-104.987657;0-englewood;25
+12541;S Broadway & W Jewell Ave;39.681928;-104.987671;0-englewood;26
+12517;S Broadway & W Evans Ave;39.678136;-104.987684;0-englewood;27
+12536;S Broadway & W Iliff Ave;39.674424;-104.987683;0-englewood;28
+12533;S Broadway & W Harvard Ave;39.671031;-104.987687;0-englewood;29
+12617;S Broadway & W Yale Ave;39.667236;-104.98773;0-englewood;30
+12481;S Broadway & W Bates Ave;39.663795;-104.987727;0-englewood;31
+12511;S Broadway & W Dartmouth Ave;39.660055;-104.987753;0-englewood;32
+22268;S Broadway & W Floyd Ave;39.656016;-104.98775;0-englewood;33
+20093;Englewood Pkwy & S Acoma St;39.655026;-104.989193;0-englewood;34
+13514;S Elati St & Englewood Pkwy;39.655719;-104.993439;0-englewood;35
+26175;Englewood Station Gate C;39.655756;-104.999554;0-englewood;36
 24857;S Allison Pkwy & W Virginia Ave Gate B;39.707613;-105.084986;1;1
 25137;W Virginia Ave & S Wadsworth Blvd;39.706944;-105.082571;1;2
 33213;W Virginia Ave & S Vance St;39.707003;-105.078988;1;3

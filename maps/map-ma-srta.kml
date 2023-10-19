@@ -1077,7 +1077,7 @@
 	<Placemark> 
 		<name>Fall River 2: North Main</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: SS: via Stop & Shop<br/>Agency: ma-srta<br/>EDI: 1.65</description>
+		<description>Branch: SS: via Stop &amp; Shop<br/>Agency: ma-srta<br/>EDI: 1.65</description>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0

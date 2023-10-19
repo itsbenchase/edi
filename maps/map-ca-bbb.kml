@@ -51,7 +51,7 @@
 		</LineStyle> 
 	</Style>
 	<Placemark> 
-		<name>1: Main St & Santa Monica Blvd</name>
+		<name>1: Main St &amp; Santa Monica Blvd</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ca-bbb<br/>EDI: 1.41</description>
 		<LineString> 

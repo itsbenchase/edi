@@ -1104,7 +1104,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B16: Fort Hamilton Pkwy / 13 & 14 Avs</name>
+		<name>B16: Fort Hamilton Pkwy / 13 &amp; 14 Avs</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.42</description>
 		<LineString> 
@@ -1241,7 +1241,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M7: Columbus / Amsterdam / 6 & 7 Avs</name>
+		<name>M7: Columbus / Amsterdam / 6 &amp; 7 Avs</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.17</description>
 		<LineString> 
@@ -1410,7 +1410,7 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B69: 7 & Vanderbilt Avs</name>
+		<name>B69: 7 &amp; Vanderbilt Avs</name>
 		<styleUrl>#1.0</styleUrl>
 		<description>Branch: Main<br/>Agency: ny-mta<br/>EDI: 1.38</description>
 		<LineString> 
