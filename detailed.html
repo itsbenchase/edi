@@ -11,29 +11,26 @@
     <li><a href=calculator.html>Calculator</a></li></ul>
 <h1>Route Detail</h1>
 
-<p>Agency:
-    <select id="agencyDrop">
-        <option value="none">Select an agency</option>
-    </select>
+<p>Agency: <select id="agencyDrop"><option value="none">Select an agency</option></select> <button onclick="getOption()">Enter</button></p>
 
-    <button onclick="getOption()">Enter</button>
-</p>
-
-<p>Route:
-    <select id="routeDrop">
-        <option value="none">Select a route</option>
-    </select>
-</p>
+<p>Route: <select id="routeDrop"><option value="none">Select a route</option></select></p>
 
 <p>
     <button id="sumbit" type="button" onclick="findIndexPre()">Submit</button>
     <button id="lucky" type="button" onclick="getRandom()">Random</button>
+    <button id="segment" type="button" onclick="findSegment()">Segment</button>
+    <button id="clear" type="button" onclick="clearAll()">Clear</button>
 </p>
+
+<p id="startDrop2"></p>
+<p id="endDrop2"></p>
 
 <h3 id="route" style="color:black">Not Available</h3>
 <p id="agency"><b>Agency: </b>Not Available</p>
 <p id="code"><b>Code: </b>Not Available</p>
 <p id="branch"><b>Branch: </b>Not Available</p>
+<p id="segstart"></p>
+<p id="segend"></p>
 <p id="length"><b>Length: </b>Not Available</p>
 <p id="index"><b>EDI: </b>Not Available</p>
 <p id="stops"></p>
@@ -47,10 +44,63 @@ var branch = "Not Available";
 var length = "Not Available";
 var index = "Not Available";
 var rand = false;
+var isSegment = false;
+var secondRun = false;
+
+var segLength = 0.00;
+var segIndex = 0.00;
 
 const agencies = [];
 const fullAgencies = [];
 const agencyLines = [];
+
+// cumulative
+const cumLats = [];
+const cumLons = [];
+
+// create arrays
+const stopIds = [];
+const stopNames = [];
+const stopLats = [];
+const stopLons = [];
+const stopLines = [];
+const stopOrders = [];
+const segStrings = []; // combined for segments
+
+var segStartOrder = -1;
+var segEndOrder = -1;
+
+function clearAll()
+{
+    // clear everything
+    stopIds.length = 0;
+    stopNames.length = 0;
+    stopLats.length = 0;
+    stopLons.length = 0;
+    stopLines.length = 0;
+    stopOrders.length = 0;
+    segStrings.length = 0;
+    cumLats.length = 0;
+    cumLons.length = 0;
+    segStartOrder = -1;
+    segEndOrder = -1;
+    isSegment = false;
+    secondRun = false;
+    segLength = 0.00;
+    segIndex = 0.00;
+
+    document.getElementById("route").innerHTML = ("Not Available");
+    document.getElementById("agency").innerHTML = ("<b>Agency: </b>Not Available");
+    document.getElementById("code").innerHTML = ("<b>Code: </b>Not Available");
+    document.getElementById("branch").innerHTML = ("<b>Branch: </b>Not Available");
+    document.getElementById("length").innerHTML = ("<b>Length: </b>Not Available");
+    document.getElementById("index").innerHTML = ("<b>EDI: </b>Not Available");
+    document.getElementById("segstart").innerHTML = ("");
+    document.getElementById("segend").innerHTML = ("");
+    document.getElementById("startDrop2").innerHTML = ("");
+    document.getElementById("endDrop2").innerHTML = ("");
+    document.getElementById("stops").innerHTML = ("");
+}
 
 function getAgencies()
 {
@@ -197,8 +247,31 @@ function findIndexPre()
     findIndex();
 }
 
+function findSegment()
+{
+    isSegment = true;
+    document.getElementById("length").innerHTML = ("<b>Length: </b>");
+    document.getElementById("index").innerHTML = ("<b>EDI: </b>");
+    document.getElementById("segstart").innerHTML = ("<b>Segment Start:</b>");
+    document.getElementById("segend").innerHTML = ("<b>Segment End:</b>");
+    document.getElementById("startDrop2").innerHTML = ("Segment Start: <select id=startDrop><option value=none>Select a stop</option></select>");
+    document.getElementById("endDrop2").innerHTML = ("Segment End: <select id=endDrop><option value=none>Select a stop</option></select> <button onclick=setEnd()>Enter</button>");
+    findIndex();
+}
+
 function findIndex()
 {
+    // clear arrays
+    stopIds.length = 0;
+    stopNames.length = 0;
+    stopLats.length = 0;
+    stopLons.length = 0;
+    stopLines.length = 0;
+    stopOrders.length = 0;
+    segStrings.length = 0;
+    cumLats.length = 0;
+    cumLons.length = 0;
+
     if (!rand)
     {
         selectedRoute = document.querySelector('#routeDrop');
@@ -245,27 +318,10 @@ function findIndex()
 
             intoArray(ediFile);
         })
-
-    const listFileUrl = ("https://dev.eliotindex.org/edis/" + agency +  ".txt"); // provide file location
-    fetch(listFileUrl)
-        .then(r => r.text())
-        .then((text) => {
-            const listFile = text.split("\n");
-            delete listFile[listFile.length - 1]; // last one is blank
-
-            getStats(listFile);
-        })
 }
 
 function intoArray(ediFile)
 {
-    // create arrays
-    const stopIds = [];
-    const stopNames = [];
-    const stopLats = [];
-    const stopLons = [];
-    const stopLines = [];
-
     ediFile.pop(); // we might have a bug
     for (let i = 0; i < ediFile.length; i++)
     {
@@ -279,17 +335,205 @@ function intoArray(ediFile)
         stopLons.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
         stopLines.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        stopOrders.push(data);
+    }
+
+    // populate segment lists
+    if (!secondRun)
+    {
+        if (isSegment)
+        {
+            for (let i = 0; i < ediFile.length; i++)
+            {
+                if (stopLines[i] == code)
+                {
+                    segStrings.push(stopOrders[i] + " - " + stopNames[i] + " (" + stopIds[i] + ")");
+                    document.getElementById("startDrop").innerHTML += ("<option value=\"" + stopOrders[i] + "\">" + segStrings[segStrings.length - 1] + "</option>");
+                    document.getElementById("endDrop").innerHTML += ("<option value=\"" + stopOrders[i] + "\">" + segStrings[segStrings.length - 1] + "</option>");
+                }
+            }
+        }
+    }
+
+    getStops(ediFile)
+}
+
+function getStops(ediFile)
+{
+    var segStartOrder = 0;
+    var segEndOrder = 0;
+    if (isSegment)
+    {
+        // convert from list to display
+        startSelect = document.querySelector("#startDrop");
+        segStartOrder = parseInt(startSelect.value) - 1;
+        endSelect = document.querySelector("#endDrop");
+        segEndOrder = parseInt(endSelect.value) - 1;
     }
 
     // list stops on route
     document.getElementById("stops").innerHTML = ("<b>Stop Listing: </b>");
+    var cumCount = 1;
+    var order = 0;
     for (let i = 0; i < ediFile.length; i++)
     {
         if (stopLines[i] == code)
         {
-            document.getElementById("stops").innerHTML += ("<br>" + stopNames[i] + " (" + stopIds[i] + ")"); 
+            if (isSegment)
+            {
+                if (order >= segStartOrder && order <= segEndOrder)
+                {
+                    cumLats.push(stopLats[i]);
+                    cumLons.push(stopLons[i]);
+                    cumulative(i, cumCount);
+                    cumCount++;
+                }
+                order++;
+            }
+            else // not segment, entire line
+            {
+                cumLats.push(stopLats[i]);
+                cumLons.push(stopLons[i]);
+                cumulative(i, cumCount);
+                cumCount++;
+            }
         }
     }
+
+    startStats();
+}
+
+function setEnd()
+{
+    // convert from list to display
+    startSelect = document.querySelector("#startDrop");
+    segStartOrder = parseInt(startSelect.value);
+    document.getElementById("segstart").innerHTML = ("<b>Segment Start: </b>" + segStrings[segStartOrder - 1]);
+    endSelect = document.querySelector("#endDrop");
+    segEndOrder = parseInt(endSelect.value);
+    document.getElementById("segend").innerHTML = ("<b>Segment End: </b>" + segStrings[segEndOrder - 1]);
+    secondRun = true;
+    findIndex();
+}
+
+// rolling edi port
+function cumulative(pos, cumCount)
+{
+    // haversine formula loop
+    // spherical trig cause this is the globe
+    // cumLats.length will increase by 1 each run
+    var dist = 0;
+    for (let i = 1; i < cumLats.length; i++)
+    {
+        var lon1 = toRadians(Math.abs(cumLons[i - 1]));
+        var lon2 = toRadians(Math.abs(cumLons[i]));
+        var lat1 = toRadians(Math.abs(cumLats[i - 1]));
+        var lat2 = toRadians(Math.abs(cumLats[i]));
+        var dlon = lon2 - lon1;
+        var dlat = lat2 - lat1;
+        var a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);      
+        var c = 2 * Math.asin(Math.sqrt(a));
+        var r = 3963;
+
+        dist += c * r;
+    }
+
+    // full line haversine
+    var firstLon = toRadians(cumLons[0]);
+    var lastLon = toRadians(cumLons[cumLons.length - 1]);
+    var firstLat = toRadians(cumLats[0]);
+    var lastLat = toRadians(cumLats[cumLats.length - 1]);
+    var difflon = 0; // placeholder
+    var difflat = 0; // placeholder
+
+    // longitude math
+    if (firstLon >= 0 && lastLon >= 0)
+    {
+        difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon <= 0)
+    {
+        lastLon = Math.abs(lastLon);
+        firstLon = Math.abs(firstLon);
+        difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon >= 0)
+    {
+        difflon = Math.abs(firstLon - lastLon);
+    }
+    else if (firstLon >= 0 && lastLon <= 0)
+    {
+        difflon = Math.abs(lastLon - firstLon);
+    }
+
+    // latitude math
+    if (firstLat >= 0 && lastLat >= 0)
+    {
+        difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat <= 0)
+    {
+        lastLat = Math.abs(lastLat);
+        firstLat = Math.abs(firstLat);
+        difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat >= 0)
+    {
+        difflat = Math.abs(firstLat - lastLat);
+    }
+    else if (firstLat >= 0 && lastLat <= 0)
+    {
+        difflat = Math.abs(lastLat - firstLat);
+    }
+
+    var a1 = Math.pow(Math.sin(difflat / 2), 2) + Math.cos(firstLat) * Math.cos(lastLat) * Math.pow(Math.sin(difflon / 2), 2);      
+    var c1 = 2 * Math.asin(Math.sqrt(a1));
+    var r1 = 3963;
+    var lineDist = c1 * r1;
+
+    // calculate the edi
+    var edi = dist / lineDist;
+    edi = Math.round(edi * 100.0) / 100.0;
+
+    if (edi < 1 || cumCount == 1) // fixes
+    {
+        edi = 1.0;
+    }
+
+    // dist rounded for display
+    dist = Math.round(dist * 100.0) / 100.0;
+
+    // display
+    document.getElementById("stops").innerHTML += ("<br>" + stopNames[pos] + " (" + stopIds[pos] + ") (" + dist + " mi., " + edi + ")");
+    if (isSegment)
+    {
+        document.getElementById("length").innerHTML = ("<b>Length: </b>" + dist + " miles / ");
+        document.getElementById("index").innerHTML = ("<b>EDI: </b>" + edi + " / ");
+    }
+    else
+    {
+        document.getElementById("length").innerHTML = ("<b>Length: </b>");
+        document.getElementById("index").innerHTML = ("<b>EDI: </b>");
+    }
+}
+
+function toRadians(degrees)
+{
+    return degrees * (Math.PI / 180);
+}
+
+function startStats()
+{
+    const listFileUrl = ("https://dev.eliotindex.org/edis/" + agency +  ".txt"); // provide file location
+    fetch(listFileUrl)
+        .then(r => r.text())
+        .then((text) => {
+            const listFile = text.split("\n");
+            delete listFile[listFile.length - 1]; // last one is blank
+
+            getStats(listFile);
+        })
 }
 
 // this is also where data is added to screen
@@ -396,8 +640,8 @@ function getStats(listFile)
             var percentMEdi = Math.round((lineEdis[i] / medianEdi) * 100);
             document.getElementById("route").innerHTML = lineNames[i];
             document.getElementById("branch").innerHTML = ("<b>Branch: </b>" + lineBranches[i]);
-            document.getElementById("length").innerHTML = ("<b>Length: </b>" + lineLengths[i] + " miles (" + percentMLength + "% of median)");
-            document.getElementById("index").innerHTML = ("<b>EDI: </b>" + lineEdis[i] + " (" + percentMEdi + "% of median)");
+            document.getElementById("length").innerHTML += (lineLengths[i] + " miles (" + percentMLength + "% of median)");
+            document.getElementById("index").innerHTML += (lineEdis[i] + " (" + percentMEdi + "% of median)");
         }
     }
 }
