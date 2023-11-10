@@ -300,6 +300,10 @@ public class Stats
       System.out.println("3.50 - 3.99: " + cat35 + " (" + pct35 + "%)");
       System.out.println("4.00 - 9.99: " + cat40 + " (" + pct40 + "%)");
       System.out.println("above 10.00: " + cat100 + " (" + pct100 + "%)");
+
+      System.out.println("25th percentile: " + edis.get((int)(edis.size() * .25)));
+      System.out.println("75th percentile: " + edis.get((int)(edis.size() * .75)));
+      System.out.println("90th percentile: " + edis.get((int)(edis.size() * .9)));
       
       if (!bypass)
       {
