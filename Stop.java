@@ -97,6 +97,16 @@ public class Stop
     agency = a;
   }
 
+  public void setLineEDI(String l)
+  {
+    lineEDI = l;
+  }
+
+  public void setOrder(int o)
+  {
+    order = o;
+  }
+
   public String getAgency()
   {
     return agency;

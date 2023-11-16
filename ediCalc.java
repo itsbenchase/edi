@@ -1038,4 +1038,207 @@ public class ediCalc
     
     return edi; // returns to whatever called it (in the original case, it's the Segment.java)
   }
+
+  // yet another clone, this time for import (things need to be slightly different each time, yay)
+  public static void saveIndex(Stop [] theLine, String lineName, String actualName, String branchName, String agencyChoice)
+  {
+    // haversine formula loop
+    double dist = 0;
+    for (int i = 1; i < theLine.length; i++)
+    {
+      double lon1 = Math.toRadians(Math.abs(theLine[i - 1].getLon()));
+      double lon2 = Math.toRadians(Math.abs(theLine[i].getLon()));
+      double lat1 = Math.toRadians(Math.abs(theLine[i - 1].getLat()));
+      double lat2 = Math.toRadians(Math.abs(theLine[i].getLat()));
+      double dlon = lon2 - lon1;
+      double dlat = lat2 - lat1;
+      double a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);      
+      double c = 2 * Math.asin(Math.sqrt(a));
+      double r = 3963;
+
+      dist += c * r;
+    }
+
+    // full line haversine
+    double firstLon = Math.toRadians(theLine[0].getLon());
+    double lastLon = Math.toRadians(theLine[theLine.length  - 1].getLon());
+    double firstLat = Math.toRadians(theLine[0].getLat());
+    double lastLat = Math.toRadians(theLine[theLine.length - 1].getLat());
+    double difflon = 0; // placeholder
+    double difflat = 0; // placeholder
+
+    // longitude math
+    if (firstLon >= 0 && lastLon >= 0)
+    {
+      difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon <= 0)
+    {
+      lastLon = Math.abs(lastLon);
+      firstLon = Math.abs(firstLon);
+      difflon = lastLon - firstLon;
+    }
+    else if (firstLon <= 0 && lastLon >= 0)
+    {
+      difflon = Math.abs(firstLon - lastLon);
+    }
+    else if (firstLon >= 0 && lastLon <= 0)
+    {
+      difflon = Math.abs(lastLon - firstLon);
+    }
+
+    // latitude math
+    if (firstLat >= 0 && lastLat >= 0)
+    {
+      difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat <= 0)
+    {
+      lastLat = Math.abs(lastLat);
+      firstLat = Math.abs(firstLat);
+      difflat = lastLat - firstLat;
+    }
+    else if (firstLat <= 0 && lastLat >= 0)
+    {
+      difflat = Math.abs(firstLat - lastLat);
+    }
+    else if (firstLat >= 0 && lastLat <= 0)
+    {
+      difflat = Math.abs(lastLat - firstLat);
+    }
+
+    double a1 = Math.pow(Math.sin(difflat / 2), 2) + Math.cos(firstLat) * Math.cos(lastLat) * Math.pow(Math.sin(difflon / 2), 2);      
+    double c1 = 2 * Math.asin(Math.sqrt(a1));
+    double r1 = 3963;
+    double lineDist = c1 * r1;
+
+    // calculate the edi
+    double edi = dist / lineDist;
+    edi = Math.round(edi * 100.0) / 100.0;
+
+    if (edi < 1) // case for the 0.9x
+    {
+      edi = 1.0;
+    }
+
+    dist = Math.round(dist * 100.0) / 100.0;
+
+    ArrayList<String> routeCode = new ArrayList<String>();
+    ArrayList<String> routeDist = new ArrayList<String>();
+    ArrayList<String> routeEdi = new ArrayList<String>();
+    ArrayList<String> routeName = new ArrayList<String>();
+    ArrayList<String> routeBranch = new ArrayList<String>();
+
+    // add to .txt file, gets converted in routeList
+    try
+    {
+      Scanner s = new Scanner(new File("edis/" + agencyChoice + ".txt"));
+      while (s.hasNextLine())
+      {
+        String data = s.nextLine();
+        String code = data.substring(0, data.indexOf(";"));
+        routeCode.add(code);
+        data = data.substring(data.indexOf(";") + 1);
+        String dist2 = data.substring(0, data.indexOf(";"));
+        routeDist.add(dist2);
+        data = data.substring(data.indexOf(";") + 1);
+        String ediA = data.substring(0, data.indexOf(";"));
+        routeEdi.add(ediA);
+        data = data.substring(data.indexOf(";") + 1);
+        String name = data.substring(0, data.indexOf(";"));
+        routeName.add(name);
+        data = data.substring(data.indexOf(";") + 1);
+        String branch = data;
+        routeBranch.add(branch);
+      }
+    }
+    catch (Exception e)
+    {
+      System.out.println("Error, no EDI list file for agency " + agencyChoice + "."); // expected error if first route
+    }
+
+    routeCode.add(lineName);
+    routeDist.add(dist + "");
+    routeEdi.add(edi + "");
+    routeName.add(actualName);
+    routeBranch.add(branchName);
+
+    // add EDI to list.
+    try
+    {
+      File newFile1 = new File("edis/" + agencyChoice + ".txt");
+      FileWriter fileWriter1 = new FileWriter(newFile1);
+
+      fileWriter1.write(routeCode.get(0) + ";" + routeDist.get(0) + ";" + routeEdi.get(0) + ";" + routeName.get(0) + ";" + routeBranch.get(0) + "\n");
+
+      for (int b = 1; b < routeCode.size(); b++)
+      {
+        fileWriter1.append(routeCode.get(b) + ";" + routeDist.get(b) + ";" + routeEdi.get(b) + ";" + routeName.get(b) + ";" + routeBranch.get(b) + "\n");
+      }
+
+      fileWriter1.close();
+
+      // print line just added
+      System.out.println(actualName + " (" + branchName + ")" + " (" + lineName + ", " + dist + " mi., " + edi + ")");
+    }
+    catch (Exception e)
+    {
+      System.out.println("Error.");
+    }
+
+    // loads in EDI file to add route to list, different array
+    ArrayList<Stop> stops2 = new ArrayList<Stop>();
+    for (int i = 0; i < theLine.length; i++)
+    {
+      stops2.add(theLine[i]);
+      stops2.get(stops2.size() - 1).setLineEDI(lineName);
+      stops2.get(stops2.size() - 1).setOrder(i + 1);
+    }
+
+    try
+    {
+      Scanner s2 = new Scanner(new File("files/" + agencyChoice + "-edi.txt"));
+      while (s2.hasNextLine())
+      {
+        String data = s2.nextLine();
+        String id = data.substring(0, data.indexOf(";"));
+        data = data.substring(data.indexOf(";") + 1);
+        String name = data.substring(0, data.indexOf(";"));
+        data = data.substring(data.indexOf(";") + 1);
+        double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
+        data = data.substring(data.indexOf(";") + 1);
+        double lon = Double.parseDouble(data.substring(0, data.indexOf(";")));
+        data = data.substring(data.indexOf(";") + 1); // lines
+        String line = data.substring(0, data.indexOf(";"));
+        data = data.substring(data.indexOf(";") + 1);
+        int order = Integer.parseInt(data);
+
+        stops2.add(new Stop(id, name, lat, lon, line, order));
+      }
+    }
+    catch (Exception e)
+    {
+      System.out.println("Error.");
+    }
+
+    // adds list to -edi file, allows it to be read by calculator
+    try
+    {
+      File newFile1 = new File("files/" + agencyChoice + "-edi.txt");
+      FileWriter fileWriter1 = new FileWriter(newFile1);
+
+      fileWriter1.write(stops2.get(0).getID() + ";" + stops2.get(0).getName() + ";" + stops2.get(0).getLat() + ";" + stops2.get(0).getLon() + ";" + stops2.get(0).getLineEDI() + ";" + stops2.get(0).getOrder() + "\n");
+
+      for (int i = 1; i < stops2.size(); i++)
+      {
+        fileWriter1.append(stops2.get(i).getID() + ";" + stops2.get(i).getName() + ";" + stops2.get(i).getLat() + ";" + stops2.get(i).getLon() + ";" + stops2.get(i).getLineEDI() + ";" + stops2.get(i).getOrder() + "\n");
+      }
+
+      fileWriter1.close();
+    }
+    catch (Exception e)
+    {
+      System.out.println("Error.");
+    }
+  }
 }

@@ -76,14 +76,17 @@ W;12.25;1.14;W: Union Station - Jefferson County Government Center;Main
 104L;19.05;1.08;104L: Wagon Road / Denver Airport Limited;Main
 105;11.78;1.39;105: Havana Street;Main
 112;7.23;1.07;112: West 112th Avenue;Main
+116X;22.95;1.55;116X: South Simms Express;Main
 120-E;8.61;1.3;120: 120th Avenue;E: to Eastlake - 124th
 120-W;6.2;1.26;120: 120th Avenue;W: to Wagon Rd
 120L;13.08;1.53;120L: 120th Avenue Limited;Main
+120X;11.16;1.03;120X: Wagon Road / Thornton Express;Main
 121;15.22;1.82;121: Peoria Street;Main
 130;7.99;2.1;130: Yale / Buckley;Main
 133;10.62;2.79;133: Hampden / Tower;Main
 135;9.48;1.14;135: Smoky Hill Road;Main
 139;9.29;1.47;139: Quincy Avenue;Main
+145X;13.96;1.13;145X: Brighton / Denver Airport;Main
 153;20.86;1.8;153: Chambers Road;Main
 169;19.02;1.48;169: Buckley Road;Main
 169L;20.26;1.22;169L: Buckley / Tower DIA Limited;Main
@@ -100,3 +103,27 @@ W;12.25;1.14;W: Union Station - Jefferson County Government Center;Main
 324;9.24;1.81;324: Main Street;Main
 326;5.45;2.24;326: Westside Crosstown;Main
 327;4.8;1.96;327: Eastside Crosstown;Main
+402L;13.84;1.68;402L: Highlands Ranch Parkway;Main
+483;20.02;2.54;483: Parker Road - Lincoln Ave;Main
+520;7.37;2.38;520: Brighton;Main
+BOLT;17.31;1.11;BOLT: Boulder / Longmont;Main
+Bound;3.29;1.25;Bound: 30th Street;Main
+CV;31.29;1.08;CV: Pine Junction / Conifer / Denver;Main
+DASH-louisville;13.6;1.34;DASH: Boulder / Lafayette via Louisville;to Louisville
+DASH-manhattan;3.98;1.17;DASH: Boulder / Lafayette via Louisville;to Manhattan
+EV;25.93;1.32;EV: Evergreen / Denver;Main
+FF1;24.66;1.05;FF1: Denver - Boulder Station;Main
+FF2;24.19;1.03;FF2: Denver - Boulder Station Express;Main
+FF3;11.77;1.04;FF3: Denver - Broomfield;Main
+FF5;33.02;1.12;FF5: Boulder - Anschutz;Main
+GS;26.63;1.21;GS: Golden / Boulder;Main
+JUMP-bvsd;4.24;1.02;JUMP: Boulder / Lafayette via Arapahoe;to BVSD
+JUMP-erie;12.97;1.08;JUMP: Boulder / Lafayette via Araphoe;to Erie Community Center
+JUMP-lafayette;12.78;1.26;JUMP: Boulder / Lafayette via Araphoe;to Lafayette
+LD1;32.49;1.04;LD1: Longmont / Denver;Main
+LD3;19.44;1.06;LD3: Longmont / Denver;Main
+NB1;18.0;1.05;NB1: Eldora / Nederland / Boulder;Main
+NB2;14.7;1.06;NB2: Eldora / Nederland / Boulder;Main
+P;24.78;1.07;P: Parker / Denver;Main
+RX;19.49;1.03;RX: Brighton / Denver Express;Main
+SKIP;7.2;1.09;SKIP: Broadway;Main
