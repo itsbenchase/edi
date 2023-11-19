@@ -1,36 +1,39 @@
-25840;2nd Ave & 16th St;39.003469;-77.040487
-25850;2nd Ave & @ 1400;38.996788;-77.032958
-25818;2nd Ave & Ballard St;38.999116;-77.035659
-25846;2nd Ave & Ballard St;38.999311;-77.036001
 25814;2nd Ave & Colesville Rd;38.994989;-77.030608
-25852;2nd Ave & Colesville Rd;38.995132;-77.031166
 25816;2nd Ave & Fenwick Ln;38.996975;-77.032928
-25828;2nd Ave & Glen Ross Rd;39.005864;-77.042816
-25836;2nd Ave & Glen Ross Rd;39.006021;-77.04302
+25817;2nd Ave & Spring St;38.997575;-77.033972
+25818;2nd Ave & Ballard St;38.999116;-77.035659
+25820;2nd Ave & Noyes Dr;39.000676;-77.037344
+25822;2nd Ave & Wilson Pl;39.001786;-77.038519
 25824;2nd Ave & Grace Church Rd;39.003986;-77.040892
 25826;2nd Ave & Hanover St;39.004711;-77.041641
-25838;2nd Ave & Hanover St;39.004881;-77.041983
-25832;2nd Ave & Linden Ln;39.008766;-77.043813
-25820;2nd Ave & Noyes Dr;39.000676;-77.037344
-25844;2nd Ave & Noyes Dr;39.000831;-77.037727
+25828;2nd Ave & Glen Ross Rd;39.005864;-77.042816
 25830;2nd Ave & Rookwood Rd;39.007305;-77.043297
+25832;2nd Ave & Linden Ln;39.008766;-77.043813
 25834;2nd Ave & Rookwood Rd;39.007543;-77.043602
-25848;2nd Ave & Spring St;38.997604;-77.034198
-25822;2nd Ave & Wilson Pl;39.001786;-77.038519
+25836;2nd Ave & Glen Ross Rd;39.006021;-77.04302
+25838;2nd Ave & Hanover St;39.004881;-77.041983
+25840;2nd Ave & 16th St;39.003469;-77.040487
 25842;2nd Ave & Wilson Pl;39.00162;-77.038534
+25844;2nd Ave & Noyes Dr;39.000831;-77.037727
+25846;2nd Ave & Ballard St;38.999311;-77.036001
+25848;2nd Ave & Spring St;38.997604;-77.034198
+25850;2nd Ave & @1400;38.996788;-77.032958
+25852;2nd Ave & Colesville Rd;38.995132;-77.031166
+14791;2nd Ave & Cameron St;38.995875;-77.031591
 27698;11th Ave & Carroll Ave;38.996677;-76.991651
-27704;11th Ave & Carroll Ave;38.996797;-76.991683
 27700;11th Ave & Quebec Terr;39.000408;-76.985107
 27702;11th Ave & Ruatan St;39.000389;-76.985176
+27704;11th Ave & Carroll Ave;38.996797;-76.991683
 29990;13th St & Kennett St;38.987357;-77.027701
-27710;16th St & @ 8600 (Suburban Tower Apts);38.999042;-77.039606
-27722;16th St & @ 8600 (Suburban Tower Apts);38.999241;-77.039852
-27726;16th St & East West Hwy;38.994191;-77.03643
-27712;16th St & Lyttonsville Rd;39.001774;-77.039971
-27720;16th St & Lyttonsville Rd;39.002034;-77.040169
 27708;16th St & Spring St;38.998142;-77.03878
+27710;16th St & @8600 (suburban Tower Apts);38.999042;-77.039606
+27712;16th St & Lyttonsville Rd;39.001774;-77.039971
+27720;16th St & Lyttonsville Rd;39.002043;-77.040342
+27722;16th St & @8600 (suburban Tower Apts);38.999224;-77.040048
 27724;16th St & Spring St;38.996004;-77.03636
+27726;16th St & East West Hwy;38.994191;-77.03643
 17160;16th St & Spring St;38.996019;-77.0362
+26956;Adventist Healthcare & Maple Ave;38.985133;-76.998063
 10027;Airpark Rd & Antares Dr;39.160527;-77.144828
 20020;Airpark Rd & Cessna Ave;39.170414;-77.159958
 20014;Airpark Rd & Muncaster Mill Rd;39.148931;-77.146369
@@ -55,8 +58,8 @@
 20044;Apple Ridge Rd & Shadow Oak Dr;39.185814;-77.202415
 20048;Apple Ridge Rd & Shadow Oak Dr;39.186006;-77.202393
 28914;Apple Ridge Rd & Shallow Point Rd;39.187222;-77.199287
-30152;April Lane Northbound;39.045231;-76.981196
-30133;April Lane Southbound;39.045097;-76.981265
+30152;April Lane Northbound &;39.045231;-76.981196
+30133;April Lane Southbound &;39.045097;-76.981265
 20060;Arcola Ave & Channing Dr;39.047229;-77.040684
 20090;Arcola Ave & Channing Dr;39.047328;-77.04078
 20072;Arcola Ave & Hoyt St;39.037571;-77.026772
@@ -123,9 +126,9 @@
 28142;Aston Manor Dr & Parkford Manor Dr;39.077473;-76.938194
 20192;Avenel Rd & Hampshire West Ct;39.007878;-76.980592
 20190;Avenel Rd & Stateside Dr;39.010231;-76.980218
-17145;Avery Rd & @ 14701 (Avery Trtmnt Ctr);39.097374;-77.123978
-20194;Azalea Dr & @ 747;39.095715;-77.175049
-20196;Azalea Dr & @ 748;39.095534;-77.175248
+17145;Avery Rd & @14701 (avery Trtmnt Ctr);39.097374;-77.123978
+20194;Azalea Dr & @747;39.095715;-77.175049
+20196;Azalea Dr & @748;39.095534;-77.175248
 20220;Baltimore Rd & Avery Rd;39.084324;-77.127448
 20212;Baltimore Rd & Broadwood Dr;39.083406;-77.120238
 20218;Baltimore Rd & Broadwood Dr;39.083699;-77.119961
@@ -144,9 +147,10 @@
 20228;Baltimore Rd & Taylor Ave;39.084657;-77.137624
 20206;Baltimore Rd & Woodburn Rd;39.084109;-77.133164
 20224;Baltimore Rd & Woodburn Rd;39.084175;-77.133103
-20240;Battery Ln & @ 4890;38.992512;-77.098572
-20242;Battery Ln & @ 4890;38.992651;-77.098516
-20244;Battery Ln & @ 4977;38.992402;-77.101103
+20240;Battery Ln & @4890;38.992512;-77.098572
+20242;Battery Ln & @4890;38.992651;-77.098516
+20244;Battery Ln & @4977;38.992402;-77.101103
+20238;Battery Ln & @4998;38.992374;-77.09996
 17634;Battery Ln & Battery Lane Park;38.99228;-77.100672
 20236;Battery Ln & Keystone Ave;38.992148;-77.102096
 20246;Battery Ln & Keystone Ave;38.991718;-77.102683
@@ -237,8 +241,8 @@
 14395;Bickerstaff Way & Holdcroft Ln;39.1134;-77.212479
 14984;Blackwell Rd & Fallsgrove Dr;39.098972;-77.189919
 17093;Blackwell Rd & Woodhill Rd;39.100453;-77.190483
-29744;Blair Mill Rd & @ 1220;38.990108;-77.029915
-20320;Blair Mill Rd & @ 1401;38.990202;-77.031363
+29744;Blair Mill Rd & @1220;38.990108;-77.029915
+20320;Blair Mill Rd & @1401;38.990202;-77.031363
 20316;Blair Mill Rd & East West Hwy;38.989979;-77.029739
 20312;Blair Mill Rd & Eastern Ave;38.989984;-77.033138
 20314;Blair Mill Rd & Eastern Dr;38.990093;-77.030846
@@ -248,6 +252,8 @@
 20322;Boiling Brook Pkwy & Parklawn Dr;39.048124;-77.100789
 20324;Boiling Brook Pkwy & Rockinghorse Rd;39.047237;-77.098381
 20326;Boiling Brook Pkwy & Rockinghorse Rd;39.047569;-77.098022
+20332;Bonifant Rd & Alderton Rd;39.09342;-77.0359
+20364;Bonifant Rd & Alderton Rd;39.09367;-77.035347
 20334;Bonifant Rd & Carona Dr;39.094257;-77.027161
 20362;Bonifant Rd & Carona Dr;39.094458;-77.027238
 20330;Bonifant Rd & Layhill Rd;39.090614;-77.044326
@@ -277,15 +283,16 @@
 20398;Bowie Mill Rd & Willow Hill Ln;39.135353;-77.121208
 20370;Bowie Mill Rd & Willow Knoll Dr;39.138981;-77.119409
 20396;Bowie Mill Rd & Willow Knoll Dr;39.139027;-77.119606
-20436;Bradley Blvd & @ 6115;38.994816;-77.124001
-20498;Bradley Blvd & @ 6115;38.995006;-77.124159
-20416;Bradley Blvd & @ 7320;39.008244;-77.150215
-20518;Bradley Blvd & @ 7327;39.008236;-77.149803
-20414;Bradley Blvd & @ 7501;39.010068;-77.153569
-20520;Bradley Blvd & @ 7501;39.010181;-77.153325
-20412;Bradley Blvd & @ 7601;39.011632;-77.155425
-20522;Bradley Blvd & @ 7601;39.011795;-77.15543
-20523;Bradley Blvd & @ 7701;39.012573;-77.156926
+20436;Bradley Blvd & @6115;38.994816;-77.124001
+20498;Bradley Blvd & @6115;38.995006;-77.124159
+20422;Bradley Blvd & @6912;39.005546;-77.141804
+20416;Bradley Blvd & @7320;39.008244;-77.150215
+20518;Bradley Blvd & @7327;39.008236;-77.149803
+20414;Bradley Blvd & @7501;39.010068;-77.153569
+20520;Bradley Blvd & @7501;39.010181;-77.153325
+20412;Bradley Blvd & @7601;39.011632;-77.155425
+20522;Bradley Blvd & @7601;39.011795;-77.15543
+20523;Bradley Blvd & @7701;39.012573;-77.156926
 20442;Bradley Blvd & Aberdeen Rd;38.991217;-77.117681
 20490;Bradley Blvd & Aberdeen Rd;38.991266;-77.117601
 20406;Bradley Blvd & Aldershot Dr;39.008629;-77.171219
@@ -324,7 +331,6 @@
 20448;Bradley Blvd & Old Chester Rd;38.984352;-77.114979
 20484;Bradley Blvd & Old Chester Rd;38.984245;-77.114761
 20458;Bradley Blvd & Pembroke Rd;38.978149;-77.109489
-20474;Bradley Blvd & Pembroke Rd;38.978233;-77.109337
 20440;Bradley Blvd & Rayburn Rd;38.993149;-77.120728
 20494;Bradley Blvd & Rayburn Rd;38.99329;-77.120369
 20418;Bradley Blvd & Redwood Ave;39.00692;-77.148355
@@ -332,6 +338,7 @@
 20400;Bradley Blvd & River Rd;39.002502;-77.180428
 20438;Bradley Blvd & Selvyn Rd;38.993721;-77.122415
 20410;Bradley Blvd & Seven Locks Rd;39.011993;-77.159519
+20524;Bradley Blvd & Seven Locks Rd;39.012218;-77.159369
 20434;Bradley Blvd & Valley Rd;38.995776;-77.126507
 20500;Bradley Blvd & Valley Rd;38.995861;-77.126587
 20446;Bradley Blvd & Wilson Ln;38.986015;-77.115372
@@ -352,7 +359,7 @@
 20548;Bradmoor Dr & Roosevelt St;38.994385;-77.119368
 16061;Brahms Ave & Brahms Ct;39.071892;-76.950325
 16062;Brahms Ave & Brahms Terr;39.071743;-76.953293
-30129;Briggs Chaney Park & Ride;39.07801;-76.942113
+30129;Briggs Chaney Park & Ride &;39.07801;-76.942113
 16053;Briggs Chaney Rd & Alpenhorn Way;39.068157;-76.937257
 20570;Briggs Chaney Rd & Avonshire Ln;39.083996;-76.950437
 20576;Briggs Chaney Rd & Avonshire Ln;39.084132;-76.950097
@@ -379,6 +386,7 @@
 20582;Briggs Chaney Rd & Nees Ln;39.087281;-76.960616
 20568;Briggs Chaney Rd & Old Columbia Pk;39.084702;-76.951995
 20578;Briggs Chaney Rd & Old Columbia Pk;39.084702;-76.951775
+28136;Briggs Chaney Rd & Outlet Dr;39.081846;-76.947058
 20558;Briggs Chaney Rd & Peach Orchard Rd;39.095202;-76.969304
 20588;Briggs Chaney Rd & Peach Orchard Rd;39.095095;-76.969005
 28138;Briggs Chaney Rd & Robey Rd;39.079291;-76.945119
@@ -394,6 +402,7 @@
 20608;Broad Green Dr & Bedfordshire Ave;39.039628;-77.203872
 20600;Broad St & 61st St;38.940552;-77.119217
 20602;Broad St & 63rd St;38.942059;-77.120056
+20604;Broad St & Maryland Ave;38.944228;-77.121084
 14609;Broadbirch Dr & Bournefield Way;39.055853;-76.962209
 14610;Broadbirch Dr & Bournefield Way;39.055691;-76.962333
 30185;Broadbirch Dr & Tech Rd;39.055869;-76.966156
@@ -424,21 +433,21 @@
 20638;Brookville Rd & Lyttonsville Pl;39.000231;-77.05483
 20640;Brookville Rd & Lyttonsville Pl;39.000336;-77.054968
 17533;Brookville Rd & Lyttonsville Pl;39.000735;-77.054365
-20646;Broschart Rd & @ 14901;39.099972;-77.201141
-17551;Broschart Rd & @ 15010;39.103199;-77.199913
-17554;Broschart Rd & @ 15010;39.103569;-77.200477
+20646;Broschart Rd & @14901;39.099972;-77.201141
+17551;Broschart Rd & @15010;39.103199;-77.199913
+17554;Broschart Rd & @15010;39.103569;-77.200477
 29468;Broschart Rd & Blackwell Rd;39.100967;-77.20092
 17146;Broschart Rd & Blackwell Rd;39.101597;-77.200272
 20644;Broschart Rd & Medical Center Dr;39.098988;-77.201653
 20652;Broschart Rd & Medical Center Dr;39.099144;-77.201872
-20660;Brunett Ave & Forest Glen Rd;39.017088;-77.021639
+20660;Brunett Ave & Forest Glen Rd;39.016171;-77.021679
 20658;Brunett Ave & Grayson Ave;39.015446;-77.021145
 20662;Brunett Ave & Guilford St;39.015849;-77.021574
 20656;Brunett Ave & Lorain Ave;39.012646;-77.021713
 20664;Brunett Ave & Lorain Ave;39.012257;-77.021736
 20654;Brunett Ave & Lycoming St;39.010898;-77.021681
 20666;Brunett Ave & Lycoming St;39.010303;-77.021858
-23588;Brunswick Ave & @ 10000 (Victory Forest Apts);39.019952;-77.057398
+23588;Brunswick Ave & @10000 (victory Forest Apts);39.019952;-77.057398
 20690;Bulls Run Pkwy & Beck Ct;39.012734;-77.123428
 20682;Bulls Run Pkwy & Melvern Dr;39.01038;-77.125114
 20694;Bulls Run Pkwy & Melvern Dr;39.010731;-77.125069
@@ -450,16 +459,18 @@
 20696;Bulls Run Pkwy & Wilmett Rd;39.008783;-77.126392
 20702;Burlington Ave & Rr Bridge;38.987309;-77.026009
 20704;Burlington Ave & Selim Rd;38.987772;-77.024465
-30125;Burnt Mills Northbound;39.031339;-77.00444
-30126;Burnt Mills Southbound;39.031582;-77.004601
+30125;Burnt Mills Northbound &;39.031339;-77.00444
+30126;Burnt Mills Southbound &;39.031582;-77.004601
 20706;Burris Rd & Broadwood Dr;39.076565;-77.123848
-30128;Burtonsville Park & Ride;39.114601;-76.930802
+30128;Burtonsville Park & Ride &;39.114601;-76.930802
 20714;Cabin John Pkwy & Edmonston Dr;39.07262;-77.15097
 20708;Cabin John Pkwy & Lynfield Dr;39.074991;-77.151413
 20712;Cabin John Pkwy & Lynfield Dr;39.074861;-77.151411
 20710;Cabin John Pkwy & Monroe St;39.075511;-77.152757
 17501;Cadbury Ave & Ansin Cir Dr;39.059517;-77.160217
 17502;Cadbury Ave & Ansin Cir Dr;39.0597;-77.160252
+30229;Cadbury Ave & Ansin Circle (2) Ave;39.059943;-77.159145
+30228;Cadbury Ave & Ansin Circle (2) Dr;39.059814;-77.158908
 28254;Cameron St & Georgia Ave;38.997774;-77.029268
 29746;Cameron St & Georgia Ave;38.996801;-77.030387
 16099;Cannon Rd & Autumn Dr;39.070109;-77.000287
@@ -472,9 +483,10 @@
 16098;Cannon Rd & Kara Ln;39.070275;-77.001508
 17000;Cannon Rd & Venetian Rd;39.069984;-76.999001
 17001;Cannon Rd & Venetian Rd;39.070095;-76.999037
-28002;Capitol View Ave & @ 9708;39.01546;-77.05606
-20718;Capitol View Ave & @ 10225;39.023229;-77.064946
-20738;Capitol View Ave & @ 10225;39.023304;-77.065163
+28002;Capitol View Ave & @9708;39.01546;-77.05606
+20718;Capitol View Ave & @10225;39.023229;-77.064946
+20738;Capitol View Ave & @10225;39.023304;-77.065163
+20726;Capitol View Ave & Beechbank Rd;39.016129;-77.057907
 20728;Capitol View Ave & Beechbank Rd;39.016133;-77.057762
 20736;Capitol View Ave & Drumm Ave;39.023301;-77.062443
 20732;Capitol View Ave & Grant Ave;39.020644;-77.060829
@@ -495,7 +507,7 @@
 20750;Carroll Ave & Ethan Allen Ave;38.978273;-77.005749
 20796;Carroll Ave & Ethan Allen Ave;38.978291;-77.005989
 20760;Carroll Ave & Flower Ave;38.985002;-76.998024
-20786;Carroll Ave & Flower Ave;38.985069;-76.998161
+20786;Carroll Ave & Flower Ave;38.985133;-76.998063
 17193;Carroll Ave & Garland Ave;38.986231;-76.996305
 17194;Carroll Ave & Garland Ave;38.986247;-76.996177
 16012;Carroll Ave & Glenside Dr;38.987981;-76.994421
@@ -515,7 +527,7 @@
 20774;Carroll Ave & Piney Branch Rd;38.999415;-76.990822
 20794;Carroll Ave & Sherman Ave;38.979893;-77.004616
 20758;Carroll Ave & Sligo Creek Pkwy;38.983783;-76.999954
-20776;Carroll Ave & Takoma Academy Drwy;38.992289;-76.993062
+20776;Carroll Ave & Takoma Academy Drwy;38.992547;-76.993047
 20746;Carroll Ave & Tulip Ave;38.97517;-77.01004
 20802;Carroll Ave & Tulip Ave;38.975258;-77.010201
 17195;Carroll Ave & Wildwood Ave;38.989674;-76.99353
@@ -528,7 +540,7 @@
 20822;Cashell Rd & Continental Dr;39.13447;-77.08592
 20810;Cashell Rd & Macduff Ave;39.131787;-77.083695
 20824;Cashell Rd & Macduff Ave;39.131951;-77.084007
-30130;Castle Blvd;39.085218;-76.94054
+30130;Castle Blvd &;39.085218;-76.94054
 20840;Cedar Ln & Beach Dr;39.01277;-77.09065
 20836;Cedar Ln & Chanute Dr;39.008831;-77.092419
 20852;Cedar Ln & Clearbrook Ln;39.022556;-77.084167
@@ -551,7 +563,7 @@
 20854;Cedar Ln & Summit Ave;39.022949;-77.081457
 20882;Cedar St & Pershing Dr;38.998047;-77.022842
 20884;Cedar St & Pershing Dr;38.997896;-77.022873
-20918;Centerway Rd & @ 9100/9178;39.169243;-77.188721
+20918;Centerway Rd & @9100/9178;39.169243;-77.188721
 20922;Centerway Rd & Blue Heron Ln;39.169373;-77.183105
 20942;Centerway Rd & Broadwater Dr;39.169552;-77.193398
 20910;Centerway Rd & Brooke Grove Ct;39.170658;-77.19709
@@ -577,11 +589,12 @@
 20914;Centerway Rd & Whetstone Dr;39.169377;-77.193259
 17529;Central Park Cir & @ Championship Stadium;39.151245;-77.310272
 17511;Central Park Cir & Central Park Cir;39.151245;-77.303246
-15016;Century Blvd & @ 19847-d;39.181549;-77.266075
-15008;Century Blvd & @ 20201;39.187177;-77.260573
-15010;Century Blvd & @ 20201;39.187167;-77.260427
-20954;Century Blvd & @ 20250 North Drwy;39.188815;-77.262092
-20952;Century Blvd & @ 20251 North Drwy;39.188568;-77.26162
+17528;Central Park Cir & Central Park Cir;39.151812;-77.303259
+15016;Century Blvd & @19847-D;39.181549;-77.266075
+15008;Century Blvd & @20201;39.187177;-77.260573
+15010;Century Blvd & @20201;39.187167;-77.260427
+20954;Century Blvd & @20250 North Drwy;39.188815;-77.262092
+20952;Century Blvd & @20251 North Drwy;39.188568;-77.26162
 14673;Century Blvd & Aircraft Dr;39.184399;-77.260712
 20950;Century Blvd & Century Xxii Office Complex;39.18615;-77.259597
 20956;Century Blvd & Century Xxii Office Complex;39.186455;-77.260098
@@ -600,8 +613,8 @@
 20972;Chennault Way & Rickenbacker Dr;39.172922;-77.156952
 30205;Cherry Hill Dr & Cherry Hill Ct;39.0426;-76.949812
 30188;Cherry Hill Rd & Cherry Hill Ct;39.042326;-76.949867
-30186;Cherry Hill Rd & FDA Blvd;39.046823;-76.952198
-30207;Cherry Hill Rd & FDA Blvd;39.046883;-76.951891
+30186;Cherry Hill Rd & Fda Blvd;39.046823;-76.952198
+30207;Cherry Hill Rd & Fda Blvd;39.046883;-76.951891
 14764;Cherry Hill Rd & Gracefield Rd;39.050182;-76.952675
 30208;Cherry Hill Rd & Gracefield Rd;39.050332;-76.952509
 30204;Cherry Hill Rd & Powder Mill Rd;39.040701;-76.948464
@@ -629,6 +642,7 @@
 17516;Cinnamon Dr & Sage Way;39.162209;-77.265068
 17515;Cinnamon Dr & Turmeric Ct;39.162762;-77.267197
 17575;Citadel Ave & Old Georgetown Rd;39.049538;-77.109528
+30223;Clara Barton Pkwy & Carderock Springs;38.973752;-77.195159
 17541;Claridge Rd & Claridge Ct;39.051368;-77.066351
 17545;Claridge Rd & Moline Rd;39.05019;-77.067509
 17540;Claridge Rd & Paul Dr;39.049019;-77.068663
@@ -636,6 +650,7 @@
 17180;Clarks Crossing Dr & Clarksburg Square Rd;39.245844;-77.271259
 17176;Clarks Crossing Dr & Clarksmeade Dr;39.248004;-77.270272
 17177;Clarks Crossing Dr & Clarksmeade Dr;39.24757;-77.270447
+14927;Clarks Crossing Dr & Piedmont Trail Rd;39.242905;-77.268158
 17179;Clarks Crossing Dr & Sugar View Dr;39.243366;-77.269211
 14926;Clarks Crossing Dr & Sugar View Drive;39.243463;-77.269139
 17178;Clarksburg Rd & Gateway Center Dr;39.23475;-77.282893
@@ -643,8 +658,8 @@
 30052;Clarksburg Rd & Spire St;39.241447;-77.280508
 30053;Clarksburg Rd & Spire St;39.242075;-77.280385
 30014;Clay St & Valleywood Dr;39.057122;-77.065367
-21044;Clopper Rd & @ 716;39.14479;-77.226144
-21050;Clopper Rd & @ 716;39.144921;-77.226147
+21044;Clopper Rd & @716;39.14479;-77.226144
+21050;Clopper Rd & @716;39.144921;-77.226147
 21028;Clopper Rd & Allspice Dr;39.1553;-77.26075
 21066;Clopper Rd & Allspice Dr;39.155441;-77.260811
 21074;Clopper Rd & Bayberry Dr;39.158157;-77.273034
@@ -673,8 +688,8 @@
 21022;Clopper Rd & Metz Dr;39.157695;-77.270988
 21072;Clopper Rd & Metz Dr;39.157848;-77.270927
 21038;Clopper Rd & Pheasant Run Dr;39.14742;-77.23259
-28776;Clopper Rd & Schaffer Rd;39.163609;-77.284317
-29514;Clopper Rd & Schaffer Rd;39.163601;-77.284935
+28776;Clopper Rd & Schaeffer Rd;39.163609;-77.284317
+29514;Clopper Rd & Schaeffer Rd;39.163601;-77.284935
 21034;Clopper Rd & Stoneridge Dr;39.149143;-77.241013
 21060;Clopper Rd & Stoneridge Dr;39.149255;-77.241087
 21058;Clopper Rd & Sullnich Wy;39.148323;-77.237198
@@ -692,8 +707,9 @@
 21104;Colesville Rd & Dale Dr;39.005069;-77.022862
 21146;Colesville Rd & Dale Dr;39.005023;-77.023215
 21094;Colesville Rd & Fenton St;38.99746;-77.027111
+21156;Colesville Rd & Fenton St;38.997409;-77.027364
 21108;Colesville Rd & Franklin Ave;39.008511;-77.018539
-15572;Colesville Rd & Georgia Ave;38.995723;-77.028375
+15572;Colesville Rd & Georgia Ave;38.995705;-77.028477
 21112;Colesville Rd & Indian Spring Dr;39.012265;-77.016709
 21138;Colesville Rd & Indian Spring Dr;39.012348;-77.017036
 21116;Colesville Rd & Lanark Way;39.018803;-77.013901
@@ -717,8 +733,8 @@
 21132;Colesville Rd & University Blvd;39.020723;-77.012628
 16027;Colesville Rd & University Blvd;39.020863;-77.01207
 21134;Colesville Rd & University W Blvd;39.019534;-77.01374
-21166;College Pkwy & @ 846;39.097038;-77.166679
-21184;College Pkwy & @ 846;39.096947;-77.166982
+21166;College Pkwy & @846;39.097038;-77.166679
+21184;College Pkwy & @846;39.096947;-77.166982
 21176;College Pkwy & Frederick Rd;39.103279;-77.15641
 21174;College Pkwy & Hungerford Dr;39.103154;-77.156223
 21164;College Pkwy & Nelson St;39.095513;-77.167791
@@ -729,8 +745,8 @@
 21178;College Pkwy & Rutgers St;39.102363;-77.15821
 21170;College Pkwy & Yale Pl;39.101651;-77.160514
 21180;College Pkwy & Yale Pl;39.101621;-77.160969
-21194;Columbia Pike & @ 10711;39.031306;-77.004485
-21216;Columbia Pike & @ 10750;39.031342;-77.004837
+21194;Columbia Pike & @10711;39.031306;-77.004485
+21216;Columbia Pike & @10750;39.031342;-77.004837
 21198;Columbia Pike & Burnt Mills Ave;39.036391;-76.999891
 21212;Columbia Pike & Burnt Mills Ave;39.036444;-77.000215
 21196;Columbia Pike & Hillwood Dr;39.032669;-77.00322
@@ -743,10 +759,10 @@
 21208;Columbia Pike & Prelude Dr;39.039633;-76.997729
 21218;Congressional Ln & Jefferson St;39.061008;-77.130371
 21220;Congressional Ln & Rollins Ave;39.058691;-77.130411
-21250;Connecticut Ave & @ 8101;38.99241;-77.076996
-21424;Connecticut Ave & @ 8101;38.992593;-77.077312
-21294;Connecticut Ave & @ 11400;39.041996;-77.07589
-21380;Connecticut Ave & @ 11400;39.041996;-77.076233
+21250;Connecticut Ave & @8101;38.99241;-77.076996
+21424;Connecticut Ave & @8101;38.992593;-77.077312
+21294;Connecticut Ave & @11400;39.041996;-77.07589
+21380;Connecticut Ave & @11400;39.041996;-77.076233
 21298;Connecticut Ave & Adams Dr;39.047771;-77.075523
 21376;Connecticut Ave & Adams Dr;39.046898;-77.076057
 21326;Connecticut Ave & Aspen Hill Rd;39.079338;-77.080513
@@ -762,6 +778,7 @@
 21242;Connecticut Ave & Blackthorn St;38.986923;-77.077042
 21432;Connecticut Ave & Blackthorn St;38.98688;-77.077245
 21302;Connecticut Ave & Brightview St;39.053482;-77.074215
+21372;Connecticut Ave & Brightview St;39.053897;-77.074475
 21304;Connecticut Ave & Carey St;39.054612;-77.073958
 21370;Connecticut Ave & Carey St;39.054508;-77.074322
 21252;Connecticut Ave & Chevy Chase Lake Dr;38.994236;-77.076994
@@ -816,7 +833,7 @@
 21450;Connecticut Ave & Lenox St;38.971357;-77.077267
 21254;Connecticut Ave & Manor Rd;38.995916;-77.077045
 21420;Connecticut Ave & Manor Rd;38.997023;-77.077307
-21256;Connecticut Ave & Montrose Pkwy;39.001385;-77.076913
+21256;Connecticut Ave & Montrose Dr;39.001385;-77.076913
 21226;Connecticut Ave & Newlands St;38.973552;-77.07704
 21328;Connecticut Ave & Northgate Sc;39.081829;-77.079559
 21448;Connecticut Ave & Oxford St;38.974033;-77.077271
@@ -862,8 +879,8 @@
 21458;Contour Rd & Tunstall Dr;39.154377;-77.196693
 21464;Coral Sea Ave & Ardennes Ave;39.0736;-77.120504
 21466;Coral Sea Ave & Okinawa Ave;39.074195;-77.12209
-21488;Crabbs Branch Way & @ 15700;39.112213;-77.156372
-21474;Crabbs Branch Way & @ 15757;39.112647;-77.156417
+21488;Crabbs Branch Way & @15700;39.112213;-77.156372
+21474;Crabbs Branch Way & @15757;39.112647;-77.156417
 21468;Crabbs Branch Way & Calhoun Pl;39.107846;-77.152065
 21478;Crabbs Branch Way & Indian Hills Dr;39.11631;-77.156868
 21484;Crabbs Branch Way & Indian Hills Dr;39.116234;-77.157051
@@ -876,8 +893,8 @@
 21472;Crabbs Branch Way & Standish Pl;39.110897;-77.154953
 21490;Crabbs Branch Way & Standish Pl;39.110748;-77.155046
 21494;Crabbs Branch Way & Standish Pl;39.108372;-77.152336
-20632;Cresthaven Dr & @ 1001;39.01952;-76.992371
-21496;Cresthaven Dr & @ 1023;39.019558;-76.990067
+20632;Cresthaven Dr & @1001;39.01952;-76.992371
+21496;Cresthaven Dr & @1023;39.019558;-76.990067
 21500;Cresthaven Dr & Balmoral Dr;39.023645;-76.988163
 21504;Cresthaven Dr & Cresthaven Es;39.026876;-76.986885
 21512;Cresthaven Dr & Cresthaven Es;39.027891;-76.986693
@@ -910,24 +927,25 @@
 21624;Dallas Ave & Renfrew Rd;39.023215;-77.022115
 21618;Dallas Ave & Stirling Rd;39.01962;-77.023025
 21628;Dallas Ave & Stirling Rd;39.019983;-77.023054
-21650;Darnestown Rd & @ 10500;39.101494;-77.21769
+21650;Darnestown Rd & @10500;39.101494;-77.21769
 21674;Darnestown Rd & Alderwood Dr;39.106673;-77.233502
 21636;Darnestown Rd & Ambiance Dr;39.113795;-77.243316
+29772;Darnestown Rd & Ancient Oak Dr;39.113526;-77.268346
 17287;Darnestown Rd & Ancient Oak Dr;39.113121;-77.269453
 21670;Darnestown Rd & Argosy Dr;39.103399;-77.223589
 29983;Darnestown Rd & Berryville Rd;39.115925;-77.312675
 29987;Darnestown Rd & Berryville Rd;39.116106;-77.312628
+30076;Darnestown Rd & Black Rock Rd;39.118898;-77.317528
+30077;Darnestown Rd & Black Rock Rd;39.118856;-77.317158
 17288;Darnestown Rd & Blackberry Dr;39.116532;-77.248754
 29786;Darnestown Rd & Briar Rock Dr;39.11816;-77.258668
 21640;Darnestown Rd & Cherry Grove Dr;39.109889;-77.238211
 21642;Darnestown Rd & Dufief Dr;39.106281;-77.233147
 21676;Darnestown Rd & Edison Park Dr;39.109797;-77.23766
-21678;Darnestown Rd & Glen Way;39.112483;-77.240723
 14461;Darnestown Rd & Haddonfield Ln;39.109978;-77.279599
 14462;Darnestown Rd & Haddonfield Ln;39.110002;-77.279798
-29782;Darnestown Rd & Jones La;39.11346;-77.268124
-29772;Darnestown Rd & Jones Ln;39.113526;-77.268346
 21680;Darnestown Rd & Kent Oaks Way;39.113963;-77.243009
+21678;Darnestown Rd & Main St;39.112483;-77.240723
 21648;Darnestown Rd & Muddy Branch Rd;39.102363;-77.220199
 21668;Darnestown Rd & Muddy Branch Rd;39.103047;-77.221482
 21684;Darnestown Rd & Orchard Dr;39.117168;-77.250099
@@ -944,12 +962,13 @@
 27802;Darnestown Rd & Shady Grove Rd;39.092846;-77.195954
 29984;Darnestown Rd & Spring Meadows Dr;39.10953;-77.30222
 29986;Darnestown Rd & Spring Meadows Dr;39.109588;-77.301435
+21656;Darnestown Rd & Travilah Rd;39.097034;-77.207565
 21662;Darnestown Rd & Travilah Rd;39.097073;-77.206833
 30060;Darnestown Rd & Travilah Rd;39.09687;-77.206882
 21644;Darnestown Rd & Treworthy Rd;39.103321;-77.22622
 21672;Darnestown Rd & Treworthy Rd;39.103499;-77.226054
 21634;Darnestown Rd & Tschiffely Square Rd;39.115863;-77.246906
-21682;Darnestown Rd & Tschiffely Square Rd;39.115791;-77.246075
+21682;Darnestown Rd & Tschiffely Square Rd;39.116056;-77.246637
 29774;Darnestown Rd & Turkey Foot Rd;39.103915;-77.286437
 29780;Darnestown Rd & Turkey Foot Rd;39.103863;-77.286354
 21654;Darnestown Rd & Yearling Dr;39.099071;-77.211483
@@ -966,11 +985,11 @@
 29576;Decoverly Dr & Diamondback Dr;39.10703;-77.203215
 29560;Decoverly Dr & Great Seneca Hwy;39.106372;-77.206741
 29578;Decoverly Dr & Great Seneca Hwy;39.106535;-77.206167
-21726;Democracy Blvd & @ 7789;39.023052;-77.155975
-21742;Democracy Blvd & @ 7789;39.023323;-77.156129
-25008;Democracy Blvd & @ 10130 (Postal Academy);39.021296;-77.187857
-21728;Democracy Blvd & Bells Mill (E) Rd;39.02301;-77.153679
-21740;Democracy Blvd & Bells Mill (E) Rd;39.023294;-77.154175
+21726;Democracy Blvd & @7789;39.023052;-77.155975
+21742;Democracy Blvd & @7789;39.023323;-77.156129
+25008;Democracy Blvd & @10130 (postal Academy);39.021296;-77.187857
+21728;Democracy Blvd & Bells Mill (e) Rd;39.02301;-77.153679
+21740;Democracy Blvd & Bells Mill (e) Rd;39.023294;-77.154175
 21722;Democracy Blvd & Democracy Ln;39.02306;-77.164024
 21744;Democracy Blvd & Democracy Ln;39.023265;-77.163986
 21734;Democracy Blvd & Fernwood Rd;39.02218;-77.133917
@@ -991,6 +1010,7 @@
 21786;Dewey Rd & Dahill Rd;39.048434;-77.088586
 21778;Dewey Rd & Fernhill Rd;39.045508;-77.087287
 21788;Dewey Rd & Fernhill Rd;39.045601;-77.087448
+21776;Dewey Rd & Garrett Park Rd;39.043334;-77.0855
 21790;Dewey Rd & Garrett Park Rd;39.043195;-77.085585
 21782;Dewey Rd & Mahan Rd;39.050346;-77.088737
 21784;Dewey Rd & Mahan Rd;39.050507;-77.088997
@@ -1031,17 +1051,18 @@
 17053;E Diamond Ave & North Summit Ave;39.142222;-77.192664
 21822;E Diamond Ave & Park Ave;39.142036;-77.195411
 21810;E Diamond Ave & Summit Ave;39.142105;-77.192628
+21820;E Diamond Ave & Summit Ave;39.142147;-77.190565
 21814;E Diamond Ave And & Girard St;39.140186;-77.183678
-17273;E Franklin Ave & @ 300;39.012398;-77.001889
 22448;E Franklin Ave & Evergreen St;39.01055;-77.006848
 22458;E Franklin Ave & Evergreen St;39.01062;-77.006865
 22452;E Franklin Ave & Garwood St;39.011574;-77.003677
 22454;E Franklin Ave & Garwood St;39.011806;-77.003509
+17273;E Franklin Ave & Merwood Ln;39.012398;-77.001889
 22456;E Franklin Ave & Seminole Rd;39.010877;-77.005561
 22450;E Franklin Ave & Seminole St;39.010826;-77.005447
-23208;E Gude Dr & @ 600;39.1059;-77.144903
-23206;E Gude Dr & @ 700;39.103931;-77.142807
-23192;E Gude Dr & @ 711;39.103317;-77.142634
+23208;E Gude Dr & @600;39.1059;-77.144903
+23206;E Gude Dr & @700;39.103931;-77.142807
+23192;E Gude Dr & @711;39.103317;-77.142634
 23189;E Gude Dr & Calhoun Dr;39.106381;-77.148621
 23210;E Gude Dr & Calhoun Dr;39.10659;-77.149582
 23188;E Gude Dr & Crabbs Branch Way;39.106285;-77.151367
@@ -1077,7 +1098,7 @@
 24088;E Middle Ln & Monroe St;39.085019;-77.149423
 24090;E Middle Ln & Monroe St;39.085236;-77.149208
 24086;E Middle Ln & Washington St;39.084965;-77.152135
-17033;E Randolph Rd & @ 601;39.075339;-76.996816
+17033;E Randolph Rd & @601;39.075339;-76.996816
 28550;E Randolph Rd & Appleby Dr;39.071896;-76.988415
 28554;E Randolph Rd & Bea Kay Dr;39.074599;-76.992036
 28514;E Randolph Rd & Billington Rd;39.066292;-76.983137
@@ -1126,10 +1147,10 @@
 27074;E Wayne Ave & Manchester Rd;38.999583;-77.009992
 27076;E Wayne Ave & Manchester Rd;38.999739;-77.009404
 27086;E Wayne Ave & Sligo Creek Pkwy;38.999712;-77.010425
-29748;East West Hwy & @ 1237;38.990991;-77.029717
-29750;East West Hwy & @ 1317;38.99242;-77.031047
-21922;East West Hwy & @ 1703;38.99622;-77.040799
-21906;East West Hwy & @ 1704 (Chevy Chase Crest);38.995244;-77.038398
+29748;East West Hwy & @1237;38.990991;-77.029717
+29750;East West Hwy & @1317;38.99242;-77.031047
+21922;East West Hwy & @1703;38.99622;-77.040799
+21906;East West Hwy & @1704 (chevy Chase Crest);38.995244;-77.038398
 21892;East West Hwy & Beach Dr;38.992986;-77.062852
 21888;East West Hwy & Brookville Rd;38.988987;-77.070939
 21908;East West Hwy & Carey Ln;38.994574;-77.037235
@@ -1144,6 +1165,7 @@
 21898;East West Hwy & Ellingson Dr;38.992415;-77.055648
 21926;East West Hwy & Ellingson Dr;38.992622;-77.055379
 21912;East West Hwy & Georgia Ave;38.988117;-77.027344
+21914;East West Hwy & Georgia Ave;38.988377;-77.02742
 21934;East West Hwy & Glengalen Ln;38.991333;-77.068886
 21900;East West Hwy & Grubb Rd;38.993515;-77.052279
 14739;East West Hwy & Grubb Rd;38.994006;-77.051777
@@ -1162,7 +1184,7 @@
 21858;Eastern Ave & Holly Ave;38.977523;-77.017416
 21852;Eastern Ave & Portal Dr;38.990944;-77.034894
 29916;Edgemoor Ln & Woodmont Ave;38.984714;-77.097509
-17256;Edison Park Dr & @ 100;39.113322;-77.236397
+17256;Edison Park Dr & @100;39.113322;-77.236397
 17262;Edison Park Dr & Parking Lot Dr;39.114506;-77.234565
 21958;Edmonston Dr & Rockville Pike;39.074612;-77.135551
 17284;Eggert Dr & Capri Pl;38.977069;-77.181562
@@ -1170,16 +1192,17 @@
 29424;Eggert Dr & Macarthur Blvd;38.976553;-77.182528
 29428;Eggert Dr & Persimmon Tree Rd;38.982151;-77.173515
 29430;Eggert Dr & Persimmon Tree Rd;38.982226;-77.173572
-21974;Eldwick Way & @ 9609;39.038944;-77.199004
-21984;Eldwick Way & @ 9609;39.039016;-77.198959
+29426;Eggert Dr & Tammy Ct;38.978229;-77.180241
+21974;Eldwick Way & @9609;39.038944;-77.199004
+21984;Eldwick Way & @9609;39.039016;-77.198959
 21972;Eldwick Way & Broad Green Dr;39.039859;-77.202293
 21986;Eldwick Way & Broad Green Dr;39.039948;-77.202217
 21978;Eldwick Way & Falls Rd;39.037925;-77.19374
 21980;Eldwick Way & Falls Rd;39.038077;-77.194088
 21976;Eldwick Way & Fox Hollow Rd;39.038417;-77.196363
 21982;Eldwick Way & Fox Hollow Rd;39.038522;-77.196378
-22020;Emory Grove Rd & @ 8707;39.157032;-77.179184
-21998;Emory Grove Rd & @ 8710;39.156878;-77.179213
+22020;Emory Grove Rd & @8707;39.157032;-77.179184
+21998;Emory Grove Rd & @8710;39.156878;-77.179213
 21996;Emory Grove Rd & Capella Dr;39.158133;-77.180906
 22022;Emory Grove Rd & Capella Dr;39.158257;-77.18087
 22008;Emory Grove Rd & Chorlee Ct;39.149288;-77.168434
@@ -1215,13 +1238,14 @@
 22026;Ewing Dr & Johnson Ave;39.004941;-77.123299
 22034;Ewing Dr & Johnson Ave;39.004445;-77.123386
 22030;Ewing Dr & Wilmett Rd;39.007721;-77.123434
-22040;Executive Blvd & @ 6006;39.048653;-77.121735
-22050;Executive Blvd & @ 6011;39.048888;-77.122056
+22040;Executive Blvd & @6006;39.048653;-77.121735
+22050;Executive Blvd & @6011;39.048888;-77.122056
 22038;Executive Blvd & Jefferson St;39.048514;-77.12481
+22052;Executive Blvd & Jefferson St;39.048795;-77.124106
 22044;Executive Blvd & Nicholson Ln;39.045288;-77.116943
 22046;Executive Blvd & Nicholson Ln;39.045419;-77.116651
+22042;Executive Blvd & Old Georgetown Rd;39.048625;-77.120389
 22048;Executive Blvd & Old Georgetown Rd;39.048927;-77.120354
-16005;FDA - White Oak & Mahan Circle;39.034945;-76.983283
 16050;Fairland Rd & Big Horn Dr;39.065307;-76.939826
 16051;Fairland Rd & Big Horn Dr;39.06516;-76.939491
 14862;Fairland Rd & Brahms Ave;39.070839;-76.953522
@@ -1241,7 +1265,7 @@
 14872;Fairland Rd & Serpentine Way;39.076371;-76.970802
 14865;Fairland Rd & Westwind Dr;39.077705;-76.961456
 14866;Fairland Rd & Westwind Dr;39.077831;-76.961487
-25034;Falls Rd & @ 11315 (Pcc);39.04076;-77.191826
+25034;Falls Rd & @11315 (pcc);39.04076;-77.191826
 22080;Falls Rd & Atwell Rd;39.057452;-77.178199
 22106;Falls Rd & Atwell Rd;39.057198;-77.178596
 22062;Falls Rd & Bullis School;39.02933;-77.201573
@@ -1283,7 +1307,7 @@
 22090;Falls Rd & Wooton Pkwy;39.070065;-77.169357
 22096;Falls Rd & Wooton Pkwy;39.069778;-77.170387
 14985;Fallsgrove Dr & Rock Regional Trans Center;39.096897;-77.191551
-17181;Father Hurley Blvd & @ 21000;39.190178;-77.273827
+17181;Father Hurley Blvd & @21000;39.190178;-77.273827
 22146;Father Hurley Blvd & Beaconfield Dr;39.189554;-77.273502
 22142;Father Hurley Blvd & Beaconfield Terr;39.189426;-77.273201
 22136;Father Hurley Blvd & Briarcliff Terr;39.182234;-77.274534
@@ -1297,7 +1321,8 @@
 22152;Father Hurley Blvd & Sweetgum Cir;39.182411;-77.27478
 22140;Father Hurley Blvd & Trimfield Ln;39.186581;-77.273552
 29040;Father Hurley Blvd & Waters Landing Dr;39.191433;-77.271996
-30153;Federal Drug Administration FDA;39.035406;-76.984671
+16005;Fda-White Oak & Mahan Circle;39.034921;-76.983431
+30153;Federal Drug Administration Fda &;39.035406;-76.984671
 22168;Fenton St & Bonifant St;38.994221;-77.024022
 22178;Fenton St & Bonifant St;38.994651;-77.024245
 28256;Fenton St & Cameron St;38.998237;-77.028483
@@ -1320,8 +1345,8 @@
 22166;Fenton St & Thayer Ave;38.992877;-77.024011
 17552;Fenton St & Thayer Ave;38.993187;-77.024167
 22170;Fenton St & Wayne Ave;38.995226;-77.024256
-30121;Fenton St Northbound;38.997169;-77.027297
-30122;Fenton St Southbound;38.997915;-77.026976
+30121;Fenton St Northbound &;38.997169;-77.027297
+30122;Fenton St Southbound &;38.997915;-77.026976
 17214;Fenwick Ln & 1st Ave;38.997227;-77.031853
 17213;Fenwick Ln And & 1st Ave;38.99723;-77.032088
 22206;Fernwood Rd & Democracy Blvd;39.023974;-77.135457
@@ -1344,7 +1369,7 @@
 22216;Fernwood Rd & Winnepeg Rd;39.020759;-77.13468
 22230;Ferrara Ave & Ferrara Dr;39.052666;-77.077469
 22228;Ferrara Ave & Veirs Mill Rd;39.0527;-77.07711
-23284;Ferrara Dr & @ 3950 (Holiday Park Sr Ctr);39.051369;-77.077835
+23284;Ferrara Dr & @3950 (holiday Park Sr Ctr);39.051369;-77.077835
 22232;Ferrara Dr & Charles Rd;39.051762;-77.084259
 22240;Ferrara Dr & Charles Rd;39.052108;-77.084001
 22236;Ferrara Dr & Ferrara Ave;39.052437;-77.078011
@@ -1361,7 +1386,7 @@
 17631;Fisher Ave & Fyffe Rd;39.145002;-77.412377
 17113;Fisher Ave & Hersperger Ln;39.133207;-77.397913
 29796;Fisher Ave & Luhn St;39.139945;-77.40691
-17630;Fisher Ave & Milford Mill Rd;39.14473;-77.410708
+17630;Fisher Ave & Milford Mill Rd;39.144522;-77.410742
 30068;Fisher Ave & Norris Rd;39.145584;-77.414737
 29794;Fisher Ave & Spates Hill Rd;39.134469;-77.402358
 29800;Fisher Ave & Tom Fox Ave;39.134781;-77.403282
@@ -1369,7 +1394,10 @@
 22270;Fleet St & Maryland Ave;39.080978;-77.150939
 22272;Fleet St & Maryland Ave;39.081048;-77.150659
 22292;Flower Ave & Arliss St;38.999619;-77.003869
+22274;Flower Ave & Carroll Ave;38.98606;-76.99937
+22276;Flower Ave & Carroll Ave;38.986771;-76.999931
 22332;Flower Ave & Carroll Ave;38.986036;-76.999526
+22330;Flower Ave & Division St;38.987072;-77.000244
 22288;Flower Ave & Domer Ave;38.99668;-77.003149
 22318;Flower Ave & Domer Ave;38.996566;-77.003301
 22304;Flower Ave & Franklin Ave;39.0102;-77.008129
@@ -1415,24 +1443,25 @@
 22348;Flower Hill Way & Whispering Oaks Way;39.157184;-77.166841
 22350;Flower Hill Way & Woodfield Rd;39.155864;-77.16518
 22356;Flower Hill Way & Woodfield Rd;39.156018;-77.165017
-17212;Forest Glen Rd & @ 1500;39.015199;-77.035584
+26954;Flowerave&adventisthealthcare;38.985851;-77.001242
+17212;Forest Glen Rd & @1500;39.015199;-77.035584
 22382;Forest Glen Rd & Beattie Dr;39.017163;-77.030725
 22390;Forest Glen Rd & Brunett Ave;39.017197;-77.022017
 22388;Forest Glen Rd & Dallas Ave;39.017586;-77.024063
 22378;Forest Glen Rd & Dameron Dr;39.015862;-77.036949
-22402;Forest Glen Rd & Dameron Dr;39.016033;-77.036552
+22402;Forest Glen Rd & Dameron Dr;39.016063;-77.036586
 22376;Forest Glen Rd & Forest Grove Rd;39.015763;-77.039854
 22404;Forest Glen Rd & Forest Grove Rd;39.015849;-77.040068
 22374;Forest Glen Rd & Georgia Ave;39.015557;-77.042181
 22406;Forest Glen Rd & Georgia Ave;39.015793;-77.041854
-22396;Forest Glen Rd & Godwin Dr;39.018402;-77.0289
+22396;Forest Glen Rd & Godwin Dr;39.018423;-77.029041
 22386;Forest Glen Rd & Portland Rd;39.017921;-77.025848
-22394;Forest Glen Rd & Portland Rd;39.018028;-77.025799
+22394;Forest Glen Rd & Portland Rd;39.018286;-77.027228
 22384;Forest Glen Rd & Reddick Dr;39.018331;-77.028435
-22392;Forest Glen Rd & Renfrew Rd;39.017759;-77.024375
+22392;Forest Glen Rd & Renfrew Rd;39.017759;-77.024389
 22380;Forest Glen Rd & Sligo Creek;39.016029;-77.03363
-22400;Forest Glen Rd & Sligo Creek;39.016186;-77.033172
-22398;Forest Glen Rd & Tenbrook Dr;39.016872;-77.031292
+22400;Forest Glen Rd & Sligo Creek;39.016133;-77.0346
+22398;Forest Glen Rd & Tenbrook Dr;39.016598;-77.031747
 15272;Forest Glen Station & Bay A;39.015768;-77.045546
 15276;Forest Glen Station & Bay C;39.015794;-77.045004
 22416;Forest Grove Dr & Belvedere Blvd;39.019428;-77.038953
@@ -1449,8 +1478,8 @@
 22435;Forsythe Ave & Woodstock Ave;39.011461;-77.058838
 17539;Fortune Ter & Park Place Ave;39.062359;-77.159103
 17538;Fortune Terr & Park Potomac Ave;39.06227;-77.159223
-30123;Four Corners Northbound;39.018655;-77.014048
-30124;Four Corners Southbound;39.021157;-77.01231
+30123;Four Corners Northbound &;39.018655;-77.014048
+30124;Four Corners Southbound &;39.021157;-77.01231
 22442;Franklin Ave & Caroline Ave;39.009301;-77.012824
 22464;Franklin Ave & Caroline Ave;39.009423;-77.012497
 22470;Franklin Ave & Colesville Rd;39.00863;-77.017769
@@ -1462,7 +1491,7 @@
 22462;Franklin Ave & Wire Ave;39.009885;-77.01072
 22438;Franklin Ave & Worth Ave;39.008513;-77.016532
 22468;Franklin Ave & Worth Ave;39.008599;-77.016571
-30166;Frederick Ave & @ 631 Ave;39.15468;-77.214446
+30166;Frederick Ave & @631 Ave;39.15468;-77.214446
 30160;Frederick Ave & Christopher Ave;39.155375;-77.215805
 30165;Frederick Ave & Christopher Ave;39.156236;-77.216356
 22684;Frederick Ave & Douglas Ave;39.095005;-77.147575
@@ -1471,15 +1500,16 @@
 22686;Frederick Ave & Lenmore Ave;39.094799;-77.149246
 22676;Frederick Ave & Moore Dr;39.094859;-77.146643
 22682;Frederick Ave & Moore Dr;39.094933;-77.145897
-22664;Frederick Rd & @ 15;39.109699;-77.160392
-30161;Frederick Rd & @ 607;39.154232;-77.214412
-22480;Frederick Rd & @ 15501;39.109298;-77.159822
-22540;Frederick Rd & @ 20010;39.184123;-77.238959
-22610;Frederick Rd & @ 20010;39.184007;-77.239218
+22664;Frederick Rd & @15;39.109699;-77.160392
+30161;Frederick Rd & @607;39.154232;-77.214412
+22480;Frederick Rd & @15501;39.109298;-77.159822
+22540;Frederick Rd & @20010;39.184123;-77.238959
+22610;Frederick Rd & @20010;39.184007;-77.239218
 22542;Frederick Rd & Appledowre Way;39.185316;-77.239439
 22608;Frederick Rd & Appledowre Way;39.185158;-77.239677
 22614;Frederick Rd & Archdale Rd;39.177333;-77.238707
 10023;Frederick Rd & Canterfield Way;39.219812;-77.257305
+28748;Frederick Rd & Clarksburg Square Rd;39.238453;-77.278893
 22476;Frederick Rd & College Pkwy;39.103748;-77.155991
 22668;Frederick Rd & College Pkwy;39.10355;-77.156209
 28856;Frederick Rd & Collins Dr;39.193657;-77.243489
@@ -1487,6 +1517,7 @@
 22602;Frederick Rd & Germantown Rd;39.191694;-77.242571
 28008;Frederick Rd & Germantown Rd;39.192688;-77.242683
 22598;Frederick Rd & Greenbrook Dr;39.216293;-77.253544
+14940;Frederick Rd & Greenbrook Dr;39.215106;-77.251242
 22478;Frederick Rd & Gude Dr;39.107064;-77.158562
 22538;Frederick Rd & Gunners Branch Rd;39.178677;-77.238297
 22616;Frederick Rd & Gunners Branch Rd;39.175643;-77.238201
@@ -1520,6 +1551,7 @@
 22594;Frederick Rd & Running Brook Dr;39.2253;-77.262878
 14941;Frederick Rd & Running Brook Dr;39.225231;-77.262512
 22534;Frederick Rd & Scenery Dr;39.175331;-77.237869
+22488;Frederick Rd & Shady Grove Rd;39.121807;-77.17617
 22490;Frederick Rd & Shady Grove Rd;39.123037;-77.177994
 22658;Frederick Rd & Shady Grove Rd;39.122133;-77.177273
 29056;Frederick Rd & Shakespeare Blvd;39.197599;-77.244784
@@ -1527,7 +1559,7 @@
 22560;Frederick Rd & Shawnee Ln;39.230019;-77.268387
 22592;Frederick Rd & Shawnee Ln;39.230146;-77.268367
 27780;Frederick Rd & Stardrift Dr;39.206434;-77.246552
-28748;Frederick Rd & Stringtown Rd;39.238453;-77.278893
+28778;Frederick Rd & Stardrift Dr;39.206969;-77.24647
 22666;Frederick Rd & W Gude Dr;39.106428;-77.158333
 22554;Frederick Rd & W Old Baltimore Rd;39.216309;-77.253484
 22662;Frederick Rd & Watkins Pond Blvd;39.111968;-77.161627
@@ -1550,6 +1582,7 @@
 22740;Gainsborough Rd & Bells Mill Rd;39.030798;-77.172915
 22722;Gainsborough Rd & Candlelight Ln;39.036048;-77.174096
 22750;Gainsborough Rd & Democracy Blvd;39.022701;-77.167892
+22724;Gainsborough Rd & Fox Run;39.039665;-77.172523
 22734;Gainsborough Rd & Fox Run;39.040046;-77.172652
 22728;Gainsborough Rd & Georgetowne Dr;39.044041;-77.171379
 22730;Gainsborough Rd & Georgetowne Dr;39.043972;-77.171669
@@ -1565,10 +1598,10 @@
 22716;Gainsborough Rd & Tyler Terr;39.028835;-77.17023
 22744;Gainsborough Rd & Windsor View Dr;39.027657;-77.16925
 22714;Gainsborough Rd & Winsor View Dr;39.027421;-77.168972
-27796;Gaither Dr & @ 15800;39.116173;-77.190903
+27796;Gaither Dr & @15800;39.116173;-77.190903
 27794;Gaither Dr & Gaither Rd;39.117184;-77.192028
-22752;Gaither Rd & @ 2097;39.116717;-77.181638
-22754;Gaither Rd & @ 2098;39.116605;-77.181676
+22752;Gaither Rd & @2097;39.116717;-77.181638
+22754;Gaither Rd & @2098;39.116605;-77.181676
 27788;Gaither Rd & Gaither Ct;39.117616;-77.191496
 27786;Gaither Rd & Industrial Dr;39.117622;-77.189323
 27790;Gaither Rd & Industrial Dr;39.117432;-77.189919
@@ -1586,16 +1619,16 @@
 28148;Gateshead Manor Way & Briggs Chaney Park & Ride;39.077687;-76.942489
 28146;Gateshead Manor Way & Parkford Manor Dr;39.079049;-76.939803
 29136;Gateshead Manor Way & Parkford Manor Dr;39.078866;-76.940299
-14839;Gateway Center Dr & @ 22516;39.228021;-77.279219
-14835;Gateway Center Dr & @ 22517;39.228124;-77.279091
-14838;Gateway Center Dr & @ 22530;39.229641;-77.280621
-14837;Gateway Center Dr & @ 22600;39.231983;-77.280655
-14836;Gateway Center Dr & @ 22601;39.231801;-77.280455
+14839;Gateway Center Dr & @22516;39.228021;-77.279219
+14835;Gateway Center Dr & @22517;39.228124;-77.279091
+14838;Gateway Center Dr & @22530;39.229641;-77.280621
+14837;Gateway Center Dr & @22600;39.231983;-77.280655
+14836;Gateway Center Dr & @22601;39.231801;-77.280455
 14834;Gateway Center Dr & Shawnee Ln;39.226597;-77.277176
 14840;Gateway Center Dr & Shawnee Ln;39.226526;-77.277334
 17248;Gateway Center Dr & Stringtown Rd;39.234219;-77.281166
 17247;Gateway Center Dr & Stringtown Rd;39.234508;-77.280882
-17512;Georgia Ave & @ 19109;39.170253;-77.055869
+17512;Georgia Ave & @19109;39.170253;-77.055869
 22794;Georgia Ave & Batchellors Forest Rd;39.123654;-77.072941
 22804;Georgia Ave & Cherry Valley Dr;39.138939;-77.068321
 22830;Georgia Ave & Cherry Valley Dr;39.138789;-77.068693
@@ -1613,8 +1646,7 @@
 29154;Georgia Ave & Hewitt Ave;39.077465;-77.070435
 22816;Georgia Ave & Hillcrest Ave;39.154389;-77.066757
 22840;Georgia Ave & Hillcroft Dr;39.123528;-77.073482
-22828;Georgia Ave & Hines Rd;39.142282;-77.067749
-17475;Georgia Ave & Icc Park & Ride Lot;39.11686;-77.076074
+22828;Georgia Ave & Hines Rd;39.141056;-77.068031
 29144;Georgia Ave & Janet Rd;39.069679;-77.062206
 29170;Georgia Ave & Janet Rd;39.069443;-77.062393
 28294;Georgia Ave & Judson Rd;39.060271;-77.051252
@@ -1628,13 +1660,13 @@
 29158;Georgia Ave & Olandwood Ct;39.155781;-77.066383
 22800;Georgia Ave & Old Baltimore Rd;39.135601;-77.069321
 22802;Georgia Ave & Old Baltimore Rd;39.137417;-77.06871
-22832;Georgia Ave & Old Baltimore Rd;39.136673;-77.069366
-22820;Georgia Ave & Olney-laytonsville Rd;39.152762;-77.066963
-28922;Georgia Ave & Olney-sandy Spring Rd;39.152442;-77.066678
+22832;Georgia Ave & Old Baltimore Rd;39.136672;-77.06937
+22820;Georgia Ave & Olney-Laytonsville Rd;39.152762;-77.066963
+28922;Georgia Ave & Olney-Sandy Spring Rd;39.152467;-77.06674
 14441;Georgia Ave & Owens Rd;39.165394;-77.060384
-29450;Georgia Ave & Prince Philip (N) Dr;39.158921;-77.064397
+29450;Georgia Ave & Prince Philip (n) Dr;39.158921;-77.064397
 22806;Georgia Ave & Prince Philip Dr;39.143046;-77.067259
-22805;Georgia Ave & Prince Phillip (S) Dr;39.142097;-77.067352
+22805;Georgia Ave & Prince Phillip (s) Dr;39.142097;-77.067352
 22810;Georgia Ave & Queen Mary Dr;39.148162;-77.066743
 22824;Georgia Ave & Queen Mary Dr;39.148559;-77.06704
 22790;Georgia Ave & Randolph Rd;39.058914;-77.049868
@@ -1649,6 +1681,7 @@
 22834;Georgia Ave & Station 40 Dr;39.134361;-77.070061
 29156;Georgia Ave & Station 40 Dr;39.133679;-77.069892
 22818;Georgia Ave & Tidewater Ct;39.156269;-77.066391
+22862;Georgia Ave & Veirs Mill Rd;39.037148;-77.050381
 14719;Georgia Ave & Veirs Mill Rd;39.034848;-77.049537
 29152;Georgia Ave & Verona Dr;39.075187;-77.067697
 29162;Georgia Ave & Verona Dr;39.074924;-77.067763
@@ -1678,7 +1711,7 @@
 22906;Germantown Rd & Wisteria Dr;39.176865;-77.270132
 15182;Germantown Transit Center & Bay B;39.183024;-77.261032
 15012;Germantown Transit Center & Bay F;39.183559;-77.261997
-17229;Girard St & @ 220;39.141384;-77.183067
+17229;Girard St & @220;39.141384;-77.183067
 17228;Girard St & E Diamond Ave;39.140707;-77.183095
 22942;Girard St & Fallbrook St;39.144697;-77.183932
 22918;Girard St & Federal Way;39.142913;-77.18253
@@ -1704,10 +1737,9 @@
 22957;Glen Rd & Bedfordshire Ave;39.047012;-77.203003
 28968;Glen Rd & Broad Green Ct;39.047099;-77.197081
 28966;Glen Rd & Broad Green Dr;39.047034;-77.197105
-22950;Glen Rd & Falls Rd;39.046476;-77.192808
 22952;Glen Rd & Split Tree Rd;39.046852;-77.193871
 17162;Glen Rd & Split Tree Rd;39.046636;-77.193411
-29180;Glenmont Station & Bay A;39.062168;-77.052199
+29180;Glenmont Station & Bay A;39.062289;-77.052311
 29184;Glenmont Station & Bay B;39.062294;-77.052357
 29182;Glenmont Station & Bay C;39.062422;-77.052514
 29190;Glenmont Station & Bay F;39.061839;-77.052557
@@ -1737,7 +1769,6 @@
 22994;Good Hope Rd & Windmill Ln;39.098923;-76.984261
 22998;Good Hope Rd & Windmill Ln;39.099335;-76.984146
 30015;Goodhill Rd & Dalewood Dr;39.05679;-77.069486
-30024;Gorman Dr & W Old Baltimore Rd;39.21473;-77.265839
 23028;Goshen Rd & Bramble Bush Dr;39.180893;-77.188812
 23039;Goshen Rd & Centerway Rd;39.170494;-77.190354
 23022;Goshen Rd & Farmingham Dr;39.173757;-77.18932
@@ -1748,8 +1779,8 @@
 23034;Goshen Rd & Stewartown Rd;39.177204;-77.189573
 23026;Goshen Rd & Trams Way;39.177289;-77.189445
 23024;Goshen Rd & Turtle Dove Terr;39.175812;-77.189369
-17650;Gosnell Farm Dr & Clarksburg Rd;39.2301;-77.288351
-17651;Gosnell Farm Dr & Clarksburg Rd;39.230118;-77.288119
+17650;Gosnell Farm Dr & Clarksburg Rd;39.228665;-77.289261
+17651;Gosnell Farm Dr & Clarksburg Rd;39.228939;-77.289316
 28050;Grand Pre Rd & Bel Pre Rd;39.092755;-77.076234
 28044;Grand Pre Rd & Connecticut Ave;39.087739;-77.074767
 28046;Grand Pre Rd & Connecticut Ave;39.088963;-77.075493
@@ -1789,7 +1820,7 @@
 23048;Great Seneca Hwy & Longdraft Rd;39.133586;-77.245739
 23080;Great Seneca Hwy & Longdraft Rd;39.13344;-77.245845
 28012;Great Seneca Hwy & Main St;39.125916;-77.234654
-28080;Great Seneca Hwy & Mateny (S) Rd;39.146399;-77.274974
+28080;Great Seneca Hwy & Mateny (s) Rd;39.146399;-77.274974
 23072;Great Seneca Hwy & Mateny Rd;39.164096;-77.273894
 28074;Great Seneca Hwy & Mateny Rd;39.146492;-77.274803
 28076;Great Seneca Hwy & Mateny Rd;39.164266;-77.2734
@@ -1823,7 +1854,7 @@
 23110;Greentree Rd & Rolston Rd;39.001297;-77.118279
 23138;Grosvenor Ln & Beth Health Center;39.022637;-77.116109
 23124;Grosvenor Ln & Broad St;39.022511;-77.116081
-23126;Grosvenor Ln & Dickens Ave;39.02257;-77.113775
+23126;Grosvenor Ln & Dickens Ave;39.022572;-77.11355
 23136;Grosvenor Ln & Dickens Ave;39.022693;-77.113249
 23128;Grosvenor Ln & Fleming Ave;39.022601;-77.111151
 23134;Grosvenor Ln & Fleming Ave;39.022716;-77.111487
@@ -1833,13 +1864,14 @@
 23132;Grosvenor Ln & Laureate Way;39.022721;-77.107895
 23120;Grosvenor Ln & Southport Dr;39.022409;-77.122007
 23142;Grosvenor Ln & Southport Dr;39.022495;-77.121688
-23146;Grosvenor Pl & @ 10201;39.024113;-77.106422
-23148;Grosvenor Pl & @ 10301;39.025836;-77.107678
-23150;Grosvenor Pl & @ 10401;39.027549;-77.107312
-23152;Grosvenor Pl & @ 10401;39.027518;-77.107472
+23146;Grosvenor Pl & @10201;39.024113;-77.106422
+23156;Grosvenor Pl & @10201;39.024143;-77.106611
+23148;Grosvenor Pl & @10301;39.025836;-77.107678
+23152;Grosvenor Pl & @10401;39.027518;-77.107472
 23154;Grosvenor Pl & Englishman Dr;39.02576;-77.107822
 23144;Grosvenor Pl & Grosvenor Ln;39.022864;-77.105232
 23158;Grosvenor Pl & Grosvenor Ln;39.022736;-77.105256
+23150;Grosvenor Pl & Grove Ridge Way;39.027549;-77.107312
 23164;Grosvenor Station & Bay G;39.028663;-77.103047
 27730;Grosvenor Station & Bay J;39.028273;-77.103076
 15298;Grosvenor Station & Bay J;39.028384;-77.10292
@@ -1864,10 +1896,10 @@
 30018;Hathaway Dr & Valleywood Dr;39.062985;-77.064206
 14446;Heritage Hills Dr & Alpenglow Ln;39.168895;-77.060424
 14445;Heritage Hills Dr & Quail Hollow Terr;39.168898;-77.063245
-29208;Hewitt Ave & @ 2949;39.080138;-77.062025
-29200;Hewitt Ave & @ 2954;39.080033;-77.062081
-29198;Hewitt Ave & @ 3212;39.079671;-77.064805
-29210;Hewitt Ave & @ 3212;39.079758;-77.065002
+29208;Hewitt Ave & @2949;39.080138;-77.062025
+29200;Hewitt Ave & @2954;39.080033;-77.062081
+29198;Hewitt Ave & @3212;39.079671;-77.064805
+29210;Hewitt Ave & @3212;39.079758;-77.065002
 29202;Hewitt Ave & Bluff Point Ln;39.080671;-77.059002
 29206;Hewitt Ave & Bluff Point Ln;39.081017;-77.058488
 29213;Hewitt Ave & Georgia Ave;39.078376;-77.06965
@@ -1908,11 +1940,6 @@
 29490;Hopkins Rd & Lark Song Dr;39.168766;-77.284882
 29494;Hopkins Rd & Steeple Rd;39.16941;-77.289133
 29528;Hopkins Rd & Steeple Rd;39.169209;-77.288864
-26952;Hospital Cut Thru Rd & Flower Ave;38.985506;-77.000936
-26954;Hospital Cut Thru Rd & Flower Ave;38.985851;-77.001242
-26950;Hospital Cut Thru Rd & Maple Ave;38.986194;-77.003334
-26956;Hospital Cut Thru Rd & Maple Ave;38.98629;-77.00338
-14449;Hospital Cut Thru Rd & Prince Philip Dr;39.153072;-77.055168
 23300;Houston Ave & Brighton Ave;38.989735;-77.004776
 17223;Houston Ave & Brighton Ave;38.98984;-77.00475
 23304;Houston Ave & Flower Ave;38.991047;-77.002075
@@ -1923,6 +1950,7 @@
 23322;Howard Ave & Connecticut Ave;39.02845;-77.075589
 23314;Howard Ave & Fawcett St;39.027531;-77.073586
 23320;Howard Ave & Fawcett St;39.027677;-77.073713
+23327;Hungerford Dr & @700;39.093258;-77.153435
 23324;Hungerford Dr & Frederick Ave;39.094032;-77.153175
 23326;Hungerford Dr & Frederick Ave;39.094303;-77.153354
 22472;Hungerford Dr & Mannakee St;39.097126;-77.153226
@@ -1950,9 +1978,10 @@
 17029;Hurley Ave & Sherbrooke Way;39.082312;-77.183283
 17030;Hurley Ave & Wooton Pwky;39.081492;-77.184239
 23344;Hurley Ave & Wootton Pkwy;39.081233;-77.184441
+17475;Icc Park & Ride Lot & Georgia Ave;39.11686;-77.076074
 23362;Imperial Dr & Woodman Ave;39.023342;-77.035431
-17143;Industrial Pkwy & @ 2131 (Mva);39.054234;-76.969488
-17144;Industrial Pkwy & @ 2131 (Mva);39.054481;-76.96948
+17143;Industrial Pkwy & @2131 (mva);39.054234;-76.969488
+17144;Industrial Pkwy & @2131 (mva);39.054481;-76.96948
 29932;Industrial Pkwy & Old Columbia Pk;39.055333;-76.970323
 29934;Industrial Pkwy & Old Columbia Pk;39.05527;-76.970541
 23376;Inwood Ave & Alberti Dr;39.034927;-77.036148
@@ -1986,12 +2015,13 @@
 17547;Judson Rd & Parker Ave;39.04884;-77.05941
 16097;Kara Ln & Autumn Dr;39.071312;-77.001663
 17032;Kara Ln & Autumn Dr;39.071608;-77.0017
-20099;Kemp Mill Knoll Dvwy & University Blvd;39.037148;-77.028193
-20101;Kemp Mill Knoll Dvwy & University Blvd;39.037211;-77.028089
-28084;Kemp Mill Rd & @ 12439;39.061081;-77.025895
-28086;Kemp Mill Rd & @ 12439;39.062126;-77.026715
+20099;Kemp Mill Knoll Dvwy & University W Blvd;39.037148;-77.028193
+20101;Kemp Mill Knoll Dvwy & University W Blvd;39.037176;-77.02832
+28084;Kemp Mill Rd & @12439;39.061081;-77.025895
+28086;Kemp Mill Rd & @12439;39.062126;-77.026715
 29226;Kemp Mill Rd & Arcola Ave;39.046506;-77.031376
 29240;Kemp Mill Rd & Clintwood Pl;39.048568;-77.025427
+29232;Kemp Mill Rd & Grays Ln;39.05127;-77.024673
 29238;Kemp Mill Rd & Grays Ln;39.051605;-77.024803
 29234;Kemp Mill Rd & Kemp Mill Forest Dr;39.055725;-77.023403
 29236;Kemp Mill Rd & Kemp Mill Forest Dr;39.055687;-77.023579
@@ -2019,6 +2049,7 @@
 23454;Kensington Pkwy & Kent St;39.023247;-77.071898
 23462;Kensington Pkwy & Kent St;39.023491;-77.071923
 23450;Kensington Pkwy & Littledale Rd;39.019495;-77.074366
+23458;Kensington Pkwy & Montgomery Ave;39.026001;-77.072166
 23446;Kensington Pkwy & Saul Rd;39.01492;-77.076483
 23470;Kensington Pkwy & Saul Rd;39.015436;-77.07668
 23452;Kensington Pkwy & Washington St;39.021797;-77.072693
@@ -2034,13 +2065,15 @@
 28108;Kentlands Blvd & Booth St;39.124004;-77.239952
 28374;Kentlands Blvd & Booth St;39.123793;-77.240137
 29570;Kentlands Blvd & Great Seneca Hwy;39.123162;-77.23352
+28370;Kentlands Blvd & Main St;39.123408;-77.237828
 28376;Kentlands Blvd & Main St;39.123091;-77.236768
 28379;Kentlands Blvd & Market Square Ent;39.122931;-77.233456
 28106;Kentlands Blvd & Market St;39.1233;-77.236277
+28378;Kentlands Blvd & Market St;39.123;-77.235496
 28372;Kentlands Blvd & Tschiffely Square Rd;39.12505;-77.242821
-29564;Key West Ave & @ 9513;39.105455;-77.199029
-29566;Key West Ave & @ 9513;39.105595;-77.199554
-17476;Key West Ave & @ 9714;39.104513;-77.203652
+29564;Key West Ave & @9513;39.105455;-77.199029
+29566;Key West Ave & @9513;39.105595;-77.199554
+17476;Key West Ave & @9714;39.104513;-77.203652
 28806;Key West Ave & Medical Center Dr;39.105221;-77.195919
 23500;Key West Ave & Shady Grove Rd;39.104384;-77.192901
 23502;Key West Ave & Shady Grove Rd;39.104584;-77.192792
@@ -2074,8 +2107,8 @@
 23582;Layhill Rd & Briggs Rd;39.068635;-77.046217
 23550;Layhill Rd & Deckman Ln;39.079621;-77.046622
 23574;Layhill Rd & Deckman Ln;39.078778;-77.046691
-23568;Layhill Rd & East Gate Dr;39.085219;-77.045986
-23556;Layhill Rd & Eastgate Dr;39.085684;-77.045507
+23556;Layhill Rd & E Gate Dr;39.085684;-77.045507
+23568;Layhill Rd & E Gate Dr;39.085219;-77.045986
 23540;Layhill Rd & Glenallan Ave;39.063661;-77.049665
 23584;Layhill Rd & Glenallan Ave;39.06403;-77.049828
 29976;Layhill Rd & Greenery Ln;39.061294;-77.050686
@@ -2126,8 +2159,8 @@
 23648;Linden Ave & Linden Ct;39.013077;-77.107434
 23652;Linden Ave & Linden Ct;39.013252;-77.107277
 23650;Linden Ave & Pooks Hill Rd;39.01414;-77.106092
-17151;Linden Ln & @ 2418;39.009599;-77.051496
-17152;Linden Ln & @ 2418;39.009743;-77.052
+17151;Linden Ln & @2418;39.009599;-77.051496
+17152;Linden Ln & @2418;39.009743;-77.052
 29699;Linden Ln & Brookville Rd;39.009047;-77.044612
 14420;Linden Ln & Steven Sitter Ave;39.009796;-77.054403
 14421;Linden Ln & Steven Sitter Ave;39.009935;-77.054767
@@ -2158,15 +2191,14 @@
 23700;Lockridge Dr & Cavalier Dr;39.029285;-77.013596
 23698;Lockridge Dr & Glenwild Rd;39.031548;-77.011678
 23696;Lockridge Dr & Lombardy Rd;39.029969;-77.012665
-28532;Lockwood Dr & @ 11209;39.041003;-76.987884
-29678;Lockwood Dr & @ 11431;39.041167;-76.985604
+29678;Lockwood Dr & @11431;39.041167;-76.985604
 29718;Lockwood Dr & December Dr;39.041546;-76.981408
 29460;Lockwood Dr & Heather Hollow Cir;39.041503;-76.983373
 29716;Lockwood Dr & Heather Hollow Cir;39.041348;-76.98361
 29458;Lockwood Dr & July Dr;39.041641;-76.981483
-29462;Lockwood Dr & July Dr;39.041328;-76.985809
 28734;Lockwood Dr & New Hampshire Ave;39.040385;-76.989446
 15316;Lockwood Dr & New Hampshire Ave;39.040297;-76.989168
+29462;Lockwood Dr & White Oak Park Apts;39.041328;-76.985809
 23704;Lofstrand Ln & Southlawn Dr;39.09391;-77.140747
 23702;Lofstrand Ln & Southlawn Ln;39.093678;-77.140442
 23710;Longmead Crossing Dr & Argyle Club Ln;39.096671;-77.046288
@@ -2198,6 +2230,8 @@
 23796;Macarthur Blvd & 81st St;38.974565;-77.165986
 27752;Macarthur Blvd & Anchorage Dr;38.977562;-77.194603
 27754;Macarthur Blvd & Anchorage Dr;38.977563;-77.194282
+23766;Macarthur Blvd & Cabin John Bridge;38.972622;-77.150365
+23784;Macarthur Blvd & Cabin John Pwky;38.97274;-77.150528
 27748;Macarthur Blvd & Clara Barton Pkwy;38.978512;-77.206413
 27758;Macarthur Blvd & Clara Barton Pkwy;38.9786;-77.20615
 28788;Macarthur Blvd & Dalecarlia Entrance;38.938625;-77.112035
@@ -2227,20 +2261,21 @@
 25318;Main St & Main St;39.288396;-77.205245
 28318;Main St & Woodfield Rd;39.288017;-77.202572
 29752;Main St & Woodfield Rd;39.288049;-77.203177
-23818;Manchester Rd & @ 8904;39.002078;-77.010999
-23824;Manchester Rd & @ 8904;39.002064;-77.011108
+23818;Manchester Rd & @8904;39.002078;-77.010999
+23824;Manchester Rd & @8904;39.002064;-77.011108
 23812;Manchester Rd & Bradford Rd;38.998351;-77.00679
+23830;Manchester Rd & Bradford Rd;38.998316;-77.007369
 23816;Manchester Rd & Manchester Pl;39.001146;-77.010052
 23826;Manchester Rd & Manchester Pl;39.001099;-77.010136
 24824;Manchester Rd & Parkside Plaza;39.004774;-77.013163
 24822;Manchester Rd & Parkside Plaza Parking Lot;39.004868;-77.013141
-23830;Manchester Rd & Reading Rd;38.998287;-77.006851
 23820;Manchester Rd & Schuyler Rd;39.003862;-77.011488
 23822;Manchester Rd & Schuyler Rd;39.003742;-77.011566
 23814;Manchester Rd & Wayne Ave;38.999249;-77.009327
-23828;Manchester Rd & Wayne Ave;38.999059;-77.009132
-17071;Mannakee St & Campus (E) Dr;39.09611;-77.156881
+23828;Manchester Rd & Wayne Ave;38.998922;-77.009238
+17071;Mannakee St & Campus (e) Dr;39.09611;-77.156881
 23832;Mannakee St & Campus Dr;39.096045;-77.156587
+23838;Mannakee St & Campus Dr;39.095999;-77.157392
 23834;Mannakee St & Hungerford Dr;39.09638;-77.154467
 23836;Mannakee St & Hungerford Dr;39.096428;-77.154938
 23844;Maple Ave & Austin Pl;38.978779;-77.011991
@@ -2255,14 +2290,15 @@
 23864;Maple Ave & Old Philadelphia Ave;38.980918;-77.010631
 17553;Maple Ave & Philadelphia Ave;38.980858;-77.010389
 23850;Maple Ave & Sherman Ave;38.982887;-77.007101
-23860;Maple Ave & Sherman Ave;38.982944;-77.00724
+23860;Maple Ave & Sherman Ave;38.982877;-77.007302
 23854;Maple Ave & Sligo Creek Pkwy;38.985219;-77.00365
 23842;Maple Ave & Tulip Ave;38.976738;-77.013485
 23868;Maple Ave & Tulip Ave;38.977047;-77.013382
 28206;Marianna Dr & Bauer Dr;39.086066;-77.087728
 27852;Marianna Dr & Parkland Dr;39.085847;-77.086994
 27746;Marinelli Rd & Executive Blvd;39.046227;-77.116158
-17186;Maryland Ave & @ 33;39.086034;-77.15107
+17492;Marinelli Rd & Rockville Pike;39.047554;-77.111877
+17186;Maryland Ave & @33;39.086034;-77.15107
 23874;Maryland Ave & Broad St;38.944849;-77.121009
 23892;Maryland Ave & Great Falls Rd;39.076239;-77.162283
 23880;Maryland Ave & Monument St;39.077535;-77.158985
@@ -2273,8 +2309,8 @@
 23872;Maryland Ave & Silverwood Ave;38.945343;-77.120468
 23884;Maryland Ave & Washington St;39.08053;-77.152525
 23886;Maryland Ave & Washington St;39.080401;-77.153082
-23914;Massachusetts Ave & @ 5600;38.959161;-77.112037
-23944;Massachusetts Ave & @ 5601;38.959361;-77.111991
+23914;Massachusetts Ave & @5600;38.959161;-77.112037
+23944;Massachusetts Ave & @5601;38.959361;-77.111991
 23900;Massachusetts Ave & Ardmore Ct;38.965923;-77.124573
 23958;Massachusetts Ave & Ardmore Ct;38.965881;-77.12426
 23966;Massachusetts Ave & Avalon Dr;38.969145;-77.129924
@@ -2308,8 +2344,8 @@
 23954;Massachusetts Ave & Sangamore Rd;38.963492;-77.121057
 23942;Massachusetts Ave & Westbard Ave;38.958558;-77.110228
 30099;Mateny Hill Rd & Summit Ridge;39.170982;-77.271524
-17088;Mateny Rd & @ 18003;39.147383;-77.271414
-17089;Mateny Rd & @ 18003;39.147476;-77.27172
+17088;Mateny Rd & @18003;39.147383;-77.271414
+17089;Mateny Rd & @18003;39.147476;-77.27172
 29888;Mateny Rd & Barleycorn Way;39.148025;-77.270428
 29866;Mateny Rd & Cinnamon Dr;39.162368;-77.269841
 29890;Mateny Rd & Clopper Mill Shopping Center;39.146927;-77.273017
@@ -2330,20 +2366,20 @@
 29880;Mateny Rd & Stone Hollow Dr;39.158822;-77.266942
 29860;Mateny Rd & Sutherby Ln;39.157638;-77.266229
 29862;Mateny Rd & Terragon Way;39.159093;-77.266915
-29854;Mateny Rd & Wheatridge (S) Dr;39.147692;-77.270636
+29854;Mateny Rd & Wheatridge (s) Dr;39.147692;-77.270636
 29856;Mateny Rd & Wheatridge Dr;39.14983;-77.268616
 23988;Mc Govern Dr & Devere Dr;39.021709;-76.986801
 23990;Meadowbrook Ln & East West Hwy;38.993066;-77.060209
 23992;Meadowbrook Ln & East West Hwy;38.99307;-77.060354
-23996;Medical Center Dr & @ 9603 (Jhu Med Center);39.103576;-77.196598
-29476;Medical Center Dr & @ 9630;39.103209;-77.196157
-23998;Medical Center Dr & @ 9701;39.101457;-77.1956
-29474;Medical Center Dr & @ 9701;39.101509;-77.195351
-29472;Medical Center Dr & @ 9708;39.099174;-77.195084
-24000;Medical Center Dr & @ 9711;39.099122;-77.195367
-14547;Medical Center Dr & @ 9800;39.096368;-77.197727
-17581;Medical Center Dr & @ 9800;39.096712;-77.197516
-14546;Medical Center Dr & @ 9900;39.097294;-77.200562
+23996;Medical Center Dr & @9603 (jhu Med Center);39.103576;-77.196598
+29476;Medical Center Dr & @9630;39.103209;-77.196157
+23998;Medical Center Dr & @9701;39.101457;-77.1956
+29474;Medical Center Dr & @9701;39.101509;-77.195351
+29472;Medical Center Dr & @9708;39.099174;-77.195084
+24000;Medical Center Dr & @9711;39.099122;-77.195367
+14547;Medical Center Dr & @9800;39.096368;-77.197727
+17581;Medical Center Dr & @9800;39.096712;-77.197516
+14546;Medical Center Dr & @9900;39.097294;-77.200562
 23994;Medical Center Dr & Broschart Dr;39.098717;-77.203034
 24002;Medical Center Dr & Broschart Dr;39.098909;-77.202753
 28808;Medical Center Dr & Key West Ave;39.105011;-77.196678
@@ -2361,7 +2397,7 @@
 17543;Medway St & Judson Rd;39.049669;-77.060369
 17542;Medway St & Lytle St;39.050502;-77.062773
 30012;Medway St & Valleywood Dr;39.053557;-77.067066
-24022;Merrimac Dr & Lockney Ave;38.992454;-76.992139
+24022;Merrimac Dr & Lockney Ave;38.992609;-76.992308
 24020;Merrimac Dr & University Blvd;38.992502;-76.991727
 24030;Metropolitan Ave & Edgewood Rd;39.024593;-77.068543
 24032;Metropolitan Ave & Edgewood Rd;39.024502;-77.068352
@@ -2370,8 +2406,8 @@
 24038;Metropolitan Ave & Plyers Mill Rd;39.02925;-77.074036
 24026;Metropolitan Ave & St Paul St;39.027848;-77.072437
 24036;Metropolitan Ave & St Paul St;39.027485;-77.071716
-24040;Metropolitan Ct & Grove Rd;39.149602;-77.227088
 30112;Metropolitan Ct & Metropolitan Grove Rd;39.147681;-77.226799
+24040;Metropolitan Grove Marc & Metropolitan Ct;39.149602;-77.227088
 24042;Metropolitan Grove Rd & Clopper Rd;39.146252;-77.227823
 24052;Michigan Ave & Maine Ave;39.001041;-77.049431
 24058;Michigan Ave & Maine Ave;39.001141;-77.049453
@@ -2406,9 +2442,9 @@
 24124;Middlebrook Rd & Ridgecrest Dr;39.175453;-77.25723
 24114;Middlebrook Rd & Waring Station Rd;39.175283;-77.254368
 24122;Middlebrook Rd & Waring Station Rd;39.175475;-77.253998
-24126;Middlebrook Rd & White Saddle (W) Dr;39.175141;-77.25956
-16007;Milestone Center Dr & @ 12410;39.201384;-77.262062
-16006;Milestone Center Dr & @ 12450;39.202842;-77.265592
+24126;Middlebrook Rd & White Saddle (w) Dr;39.175141;-77.25956
+16007;Milestone Center Dr & @12410;39.201384;-77.262062
+16006;Milestone Center Dr & @12450;39.202842;-77.265592
 17114;Milestone Center Dr & Milestone Center Ct;39.20237;-77.260406
 16008;Milestone Center Dr & Observation Dr;39.203689;-77.259842
 24140;Monroe St & Argyle St;39.077737;-77.151634
@@ -2424,12 +2460,13 @@
 24156;Monroe St & Mt Vernon Pl;39.07917;-77.15097
 23316;Montgomery Ave & Kensington Pkwy;39.02643;-77.072285
 23318;Montgomery Ave & Kensington Pkwy;39.026426;-77.072145
+14449;Montgomery General Hospital & Prince Philip Dr;39.153072;-77.055168
 24164;Montgomery Ln & East Ln;38.983372;-77.095245
-17620;Montgomery Mall Transit Center & Bay A;39.026023;-77.143056
+17620;Montgomery Mall Transit Center & Bay A;39.02589;-77.142811
 17621;Montgomery Mall Transit Center & Bay B;39.026081;-77.142959
 17626;Montgomery Mall Transit Center & Bay D;39.02586;-77.142648
 17624;Montgomery Mall Transit Center & Bay E;39.025917;-77.142788
-24266;Montgomery Village Ave & @ 18310;39.157371;-77.205651
+24266;Montgomery Village Ave & @18310;39.157371;-77.205651
 24240;Montgomery Village Ave & Apple Ridge Rd;39.187027;-77.198372
 24230;Montgomery Village Ave & Arrowhead Rd;39.187702;-77.197373
 24232;Montgomery Village Ave & Aspenwood Ln;39.189167;-77.195252
@@ -2444,7 +2481,6 @@
 24252;Montgomery Village Ave & Clubhouse Rd;39.174851;-77.203706
 24224;Montgomery Village Ave & Duffer Way;39.183113;-77.198844
 24244;Montgomery Village Ave & Duffer Way;39.183568;-77.199085
-24200;Montgomery Village Ave & Frederick Ave;39.152298;-77.212097
 24270;Montgomery Village Ave & Frederick Ave;39.152238;-77.212928
 24222;Montgomery Village Ave & Greenside Terr;39.181034;-77.199928
 24246;Montgomery Village Ave & Greenside Terr;39.180969;-77.200333
@@ -2461,10 +2497,10 @@
 24248;Montgomery Village Ave & Stewartown Rd;39.179413;-77.201256
 24208;Montgomery Village Ave & Walkers Choice Rd;39.165591;-77.204583
 24260;Montgomery Village Ave & Walkers Choice Rd;39.165563;-77.20493
-24264;Montgomery Village Ave & Walkers Choice Rd;39.162236;-77.202147
+24264;Montgomery Village Ave & Walkers Choice Rd;39.162227;-77.202483
 24212;Montgomery Village Ave & Whetstone Dr;39.17054;-77.203964
 24234;Montgomery Village Ave & Wightman Rd;39.190485;-77.192363
-24280;Montrose Ave & @ 10636;39.0312;-77.09333
+24280;Montrose Ave & @10636;39.0312;-77.09333
 24278;Montrose Ave & Kenilworth Ave;39.030311;-77.094613
 24282;Montrose Ave & Kenilworth Ave;39.03048;-77.094504
 24274;Montrose Ave & Tuckerman Ln;39.026764;-77.100342
@@ -2472,7 +2508,8 @@
 24276;Montrose Ave & Weymouth St;39.028584;-77.096146
 24284;Montrose Ave & Weymouth St;39.028744;-77.096123
 17265;Montrose Park And Ride &;39.053217;-77.117058
-24310;Montrose Rd & @ 6015;39.052916;-77.121916
+24306;Montrose Pkwy & Towne Rd;39.053151;-77.117916
+24310;Montrose Rd & @6015;39.052916;-77.121916
 24296;Montrose Rd & Bargate Ct;39.053211;-77.132103
 24308;Montrose Rd & Chase Crossing Cir;39.052993;-77.120313
 24320;Montrose Rd & Farm Haven Dr;39.054531;-77.142967
@@ -2525,8 +2562,8 @@
 24370;Muddy Branch Rd & West Side Dr;39.129516;-77.207502
 24380;Muddy Branch Rd & West Side Dr;39.129488;-77.20801
 24382;Muddy Branch Rd & West Side Dr;39.127764;-77.209661
-28274;Muncaster Mill Rd & @ 7412 (Flower Hill Church);39.152341;-77.151509
-17101;Muncaster Mill Rd & @ 7503 (Covenant Life Church);39.152399;-77.151256
+28274;Muncaster Mill Rd & @7412 (flower Hill Church);39.152341;-77.151509
+17101;Muncaster Mill Rd & @7503 (covenant Life Church);39.152399;-77.151256
 29292;Muncaster Mill Rd & Applewood Ln;39.141594;-77.138008
 24418;Muncaster Mill Rd & Emory St;39.158253;-77.159332
 29286;Muncaster Mill Rd & Heatherford Ct;39.140892;-77.137165
@@ -2539,7 +2576,7 @@
 24402;Muncaster Mill Rd & Miller Fall Rd;39.150906;-77.149529
 24412;Muncaster Mill Rd & Miller Fall Rd;39.151713;-77.150329
 24408;Muncaster Mill Rd & Muncaster Rd;39.145964;-77.144406
-23810;Muncaster Mill Rd & Needwood Rd;39.130548;-77.118399
+23810;Muncaster Mill Rd & Needwood Rd;39.129996;-77.118866
 27990;Muncaster Mill Rd & Norbeck Rd;39.109856;-77.08168
 29288;Muncaster Mill Rd & Olde Mill Run;39.139801;-77.133644
 29290;Muncaster Mill Rd & Olde Mill Run;39.140022;-77.13392
@@ -2554,8 +2591,8 @@
 27970;Muncaster Mill Rd & Windsor Manor Ln;39.111462;-77.086027
 27972;Muncaster Mill Rd & Windsor Manor Ln;39.11168;-77.086127
 24396;Muncaster Mill Rd & Woodfield Rd;39.158352;-77.159791
-22508;N Frederick Ave & Brooks Ave;39.143162;-77.200485
-22640;N Frederick Ave & Brooks Ave;39.143188;-77.200851
+22508;N Frederick Ave & Brookes Ave;39.143162;-77.200485
+22640;N Frederick Ave & Brookes Ave;39.143188;-77.200851
 22510;N Frederick Ave & Chestnut St;39.144354;-77.201901
 22516;N Frederick Ave & Lakeforest Blvd;39.149735;-77.208349
 22518;N Frederick Ave & Lakeforest Blvd;39.150818;-77.209641
@@ -2606,8 +2643,8 @@
 24446;Nelson St & Beall Ave;39.088711;-77.17279
 24436;Nelson St & Crocus Dr;39.093586;-77.172615
 24442;Nelson St & Crocus Dr;39.093986;-77.172029
-27734;New Hampshire Ave & @ 8229;38.994571;-76.985623
-24496;New Hampshire Ave & @ 8230;38.994736;-76.985832
+27734;New Hampshire Ave & @8229;38.994571;-76.985623
+24496;New Hampshire Ave & @8230;38.994736;-76.985832
 24458;New Hampshire Ave & Adelphi Rd;39.011094;-76.978895
 28720;New Hampshire Ave & Blick Dr;39.06099;-76.998399
 28676;New Hampshire Ave & Bregman Rd;39.071335;-77.003075
@@ -2637,10 +2674,11 @@
 28992;New Hampshire Ave & Larch Ave;38.977897;-76.99183
 29014;New Hampshire Ave & Larch Ave;38.977856;-76.991463
 28990;New Hampshire Ave & Linden Ave;38.978825;-76.991005
+29016;New Hampshire Ave & Linden Ave;38.978928;-76.990646
 24478;New Hampshire Ave & Lockwood Dr;39.040535;-76.990829
 24479;New Hampshire Ave & Lockwood Dr;39.039102;-76.990037
 24480;New Hampshire Ave & Lockwood Dr;39.039033;-76.990508
-28732;New Hampshire Ave & Lockwood Dr;39.040409;-76.990981
+28732;New Hampshire Ave & Lockwood Dr;39.040374;-76.991155
 24460;New Hampshire Ave & Madre St;39.013683;-76.97818
 16023;New Hampshire Ave & Mahan Rd;39.034023;-76.986397
 24452;New Hampshire Ave & Merrimac Dr;38.992627;-76.986629
@@ -2654,14 +2692,14 @@
 24462;New Hampshire Ave & Oakview Dr;39.015083;-76.977753
 24492;New Hampshire Ave & Oakview Dr;39.015574;-76.977944
 24468;New Hampshire Ave & Overlook Dr;39.024433;-76.979268
-24486;New Hampshire Ave & Overlook Dr;39.024628;-76.979625
+24486;New Hampshire Ave & Overlook Dr;39.024565;-76.979798
 24466;New Hampshire Ave & Powder Mill Rd;39.022004;-76.977095
 14753;New Hampshire Ave & Powder Mill Rd;39.021836;-76.977437
 28730;New Hampshire Ave & Quaint Acres Dr;39.047844;-76.992891
 24454;New Hampshire Ave & Quebec St;38.996135;-76.984779
 24494;New Hampshire Ave & Quebec St;38.996625;-76.984846
 28918;New Hampshire Ave & Ruppert Rd;39.032178;-76.98502
-24482;New Hampshire Ave & Schindler Rd;39.03361;-76.98631
+24482;New Hampshire Ave & Schindler Rd;39.035578;-76.988661
 28674;New Hampshire Ave & Shaw Ave;39.068697;-77.002637
 28714;New Hampshire Ave & Shaw Ave;39.068989;-77.003136
 28988;New Hampshire Ave & Sligo Creek Pkwy;38.981293;-76.989269
@@ -2726,15 +2764,15 @@
 24582;Norbeck Rd & Hannans Way;39.106621;-77.084534
 24562;Norbeck Rd & Marlin St;39.096716;-77.107825
 24580;Norbeck Rd & Muncaster Mill Rd;39.108746;-77.08084
-24564;Norbeck Rd & Nadine Dr;39.097805;-77.104859
+24564;Norbeck Rd & Nadine Dr;39.09776;-77.104939
 30041;Norbeck Rd & Norbeck Blvd;39.112396;-77.070461
 30042;Norbeck Rd & Norbeck Blvd;39.112608;-77.069938
-29308;Norbeck Rd & Norbeck Park & Ride;39.111052;-77.074721
 24592;Norbeck Rd & Rocking Spring Dr;39.098107;-77.10453
 24576;Norbeck Rd & Rosecroft Rd;39.10855;-77.080734
 24568;Norbeck Rd & Westbury Rd;39.101051;-77.093796
 24588;Norbeck Rd & Westbury Rd;39.101054;-77.094331
-24612;Northampton Dr & @ 863;39.007255;-76.982296
+14845;North Bethesda Station & Marinelli Rd;39.047531;-77.111946
+24612;Northampton Dr & @863;39.007255;-76.982296
 24608;Northampton Dr & Avenel Rd;39.006828;-76.980895
 24610;Northampton Dr & Avenel Rd;39.006969;-76.980717
 24604;Northampton Dr & Beacon Rd;39.007832;-76.984558
@@ -2746,8 +2784,8 @@
 17023;Oak Leaf Dr & Crescendo Way;39.041905;-77.002022
 17020;Oak Leaf Dr & Sonata Way;39.041874;-76.996635
 17021;Oak Leaf Dr & Symphony Woods Rd;39.043068;-76.997749
-30135;Oak Leaf Northbound;39.036744;-76.995667
-30127;Oak Leaf Southbound;39.037714;-76.994797
+30135;Oak Leaf Northbound &;39.036744;-76.995667
+30127;Oak Leaf Southbound &;39.037714;-76.994797
 14424;Oakmont Ave & Atlas Dr;39.13006;-77.174711
 10031;Oakmont Ave & Citation Dr;39.13163;-77.17514
 14430;Oakmont Ave & Citation Dr;39.131928;-77.17508
@@ -2756,8 +2794,8 @@
 14429;Oakmont Ave & Helgeman Ct;39.129734;-77.174475
 24632;Oakview Dr & Braddock Rd;39.015736;-76.981155
 24634;Oakview Dr & Cottrell Terr;39.015499;-76.983643
-17285;Observation Dr & @ 20457 (Seneca Meadows Corp Ctr);39.19632;-77.255241
-17286;Observation Dr & @ 20457 (Seneca Meadows Corp Ctr);39.196312;-77.254903
+17285;Observation Dr & @20457 (seneca Meadows Corp Ctr);39.19632;-77.255241
+17286;Observation Dr & @20457 (seneca Meadows Corp Ctr);39.196312;-77.254903
 28940;Observation Dr & Autumn Rose Way;39.203884;-77.257156
 28846;Observation Dr & Boland Farm Rd;39.193562;-77.248797
 28854;Observation Dr & Boland Farm Rd;39.193668;-77.248634
@@ -2783,8 +2821,8 @@
 24650;Odendhal Ave & Russell Ave;39.150145;-77.204793
 29332;Old Baltimore Rd & Brooke Grove Rd;39.157837;-77.04892
 29326;Old Baltimore Rd & Dumfries Cir;39.151245;-77.050194
-29322;Old Baltimore Rd & Olney-sandy Spring Rd;39.146854;-77.050011
-29344;Old Baltimore Rd & Olney-sandy Spring Rd;39.147194;-77.049818
+29322;Old Baltimore Rd & Olney-Sandy Spring Rd;39.146854;-77.050011
+29344;Old Baltimore Rd & Olney-Sandy Spring Rd;39.147194;-77.049818
 29336;Old Baltimore Rd & Pond Ridge Dr;39.155221;-77.049977
 29340;Old Baltimore Rd & Shotley Bridge Pl;39.151489;-77.050674
 29334;Old Baltimore Rd & Spartan Rd;39.157784;-77.049049
@@ -2797,6 +2835,7 @@
 24664;Old Georgetown Rd & Battery Ln;38.990681;-77.103855
 24722;Old Georgetown Rd & Battery Ln;38.990023;-77.10317
 28900;Old Georgetown Rd & Bells Mill Rd;39.02421;-77.12463
+24706;Old Georgetown Rd & Cedarwood Dr;39.038025;-77.12334
 14793;Old Georgetown Rd & Center Dr;39.003509;-77.110082
 24654;Old Georgetown Rd & Commerce Ln;38.986031;-77.09623
 24660;Old Georgetown Rd & Cordell Ave;38.988159;-77.099747
@@ -2813,10 +2852,12 @@
 24670;Old Georgetown Rd & Huntington Pkwy;38.992897;-77.107323
 24716;Old Georgetown Rd & Huntington Pkwy;38.993185;-77.107982
 24676;Old Georgetown Rd & Lincoln St;38.997953;-77.10906
+24668;Old Georgetown Rd & Maple Ridge Rd;38.991982;-77.106033
 24718;Old Georgetown Rd & Maple Ridge Rd;38.992;-77.106411
 24674;Old Georgetown Rd & Mckinley St;38.996391;-77.108833
 14817;Old Georgetown Rd & Mckinley St;38.997265;-77.109307
 24692;Old Georgetown Rd & Nicholson Ln;39.04438;-77.120537
+24666;Old Georgetown Rd & North Brook Ln;38.991211;-77.104782
 24720;Old Georgetown Rd & North Brook Ln;38.991261;-77.105225
 24704;Old Georgetown Rd & Poindexter Ln;39.040294;-77.122391
 24688;Old Georgetown Rd & Roseland Dr;39.04126;-77.121788
@@ -2829,8 +2870,8 @@
 24656;Old Georgetown Rd & Woodmont Ave;38.986519;-77.097023
 14798;Old Georgetown Rd & Wyngate Dr;39.012588;-77.116728
 14812;Old Georgetown Rd & Wyngate Dr;39.011577;-77.116294
-30075;Old Vic Blvd & @ 17301;39.141284;-77.046073
-24734;Olney Laytonsville Rd & @ 3570;39.15565;-77.070576
+30075;Old Vic Blvd & @17301;39.141284;-77.046073
+24734;Olney Laytonsville Rd & @3570;39.15565;-77.070576
 14438;Olney Laytonsville Rd & Bowie Mill Rd;39.161236;-77.079924
 14452;Olney Laytonsville Rd & Bowie Mill Rd;39.161324;-77.07962
 24732;Olney Laytonsville Rd & Briars Rd;39.162682;-77.081482
@@ -2841,16 +2882,16 @@
 24740;Olney Laytonsville Rd & Homeland Dr;39.15507;-77.069601
 14439;Olney Laytonsville Rd & Queen Elizabeth Dr;39.159647;-77.077696
 14451;Olney Laytonsville Rd & Queen Elizabeth Dr;39.159487;-77.076765
-14436;Olney Mill Rd & @ 18723;39.164439;-77.087479
+14436;Olney Mill Rd & @18723;39.164439;-77.087479
 14454;Olney Mill Rd & Breezeway Cir;39.164377;-77.086905
-14437;Olney Mill Rd & Olney-laytonsville Rd;39.164841;-77.084526
-14453;Olney Mill Rd & Olney-laytonsville Rd;39.165114;-77.084364
+14437;Olney Mill Rd & Olney-Laytonsville Rd;39.164841;-77.084526
+14453;Olney Mill Rd & Olney-Laytonsville Rd;39.165114;-77.084364
 14455;Olney Mill Rd & Ripley Manor Terr;39.163883;-77.094658
 14435;Olney Mill Rd & Winding Stone Dr;39.163551;-77.094678
 14500;Olney Sandy Spring Rd & Old Baltimore Rd;39.146535;-77.050955
-24782;Olney Sandy Spring Rd & Spartan Rd;39.15048;-77.061086
+24782;Olney Sandy Spring Rd & Spartan Rd;39.1503;-77.061133
 28906;Olney Sandy Spring Rd & Spartan Rd;39.150401;-77.06033
-28904;Olney Sandy Spring Rd & Village Center Dr;39.152132;-77.064728
+28904;Olney Sandy Spring Rd & Village Center Dr;39.152006;-77.064797
 24788;Olney Sandy Spring Rd & Village Mart Dr;39.152022;-77.064068
 29478;Omega Dr & Key West Ave;39.106759;-77.195873
 29568;Omega Dr & Key West Ave;39.106308;-77.195992
@@ -2884,13 +2925,15 @@
 28204;Parkland Dr & Heathfield Dr;39.085678;-77.086754
 27864;Parkland Dr & Independence St;39.073011;-77.0872
 28194;Parkland Dr & Independence St;39.072609;-77.08696
+30226;Parkland Dr & Jupiter St;39.074525;-77.086592
+30227;Parkland Dr & Jupiter St;39.074596;-77.086903
 27862;Parkland Dr & Keating St;39.07764;-77.087019
 28196;Parkland Dr & Keating St;39.077314;-77.0868
 27856;Parkland Dr & Renn St;39.081081;-77.087173
 28200;Parkland Dr & Renn St;39.080974;-77.087049
 28186;Parkland Dr & Veirs Mill Rd;39.061877;-77.09146
-28626;Parklawn Dr & @ 12221;39.058044;-77.110306
-28428;Parklawn Dr & @ 12224;39.057897;-77.110399
+28626;Parklawn Dr & @12221;39.058044;-77.110306
+28428;Parklawn Dr & @12224;39.057897;-77.110399
 24544;Parklawn Dr & Boiling Brook Pkwy;39.048716;-77.101883
 24546;Parklawn Dr & Boiling Brook Pkwy;39.048443;-77.102013
 28432;Parklawn Dr & Braxfield Ct;39.055908;-77.107567
@@ -2907,14 +2950,14 @@
 28624;Parklawn Dr & Wilkins Ave;39.056744;-77.109047
 28628;Parklawn Dr & Wilkins Ave;39.060629;-77.111515
 25006;Pennsylvania Ave & Lanier Dr;39.001697;-77.047032
-24848;Perry Pkwy & @ 200;39.141968;-77.209526
-24832;Perry Pkwy & @ 201;39.141537;-77.209335
-24846;Perry Pkwy & @ 202;39.143207;-77.210555
-24834;Perry Pkwy & @ 205;39.142371;-77.209442
-24836;Perry Pkwy & @ 211;39.143611;-77.211301
-28812;Perry Pkwy & @ 220;39.143818;-77.212509
-24838;Perry Pkwy & @ 584;39.14866;-77.212617
-24844;Perry Pkwy & @ 620;39.148553;-77.213387
+24848;Perry Pkwy & @200;39.141968;-77.209526
+24832;Perry Pkwy & @201;39.141537;-77.209335
+24846;Perry Pkwy & @202;39.143207;-77.210555
+24834;Perry Pkwy & @205;39.142371;-77.209442
+24836;Perry Pkwy & @211;39.143611;-77.211301
+28812;Perry Pkwy & @220;39.143818;-77.212509
+24838;Perry Pkwy & @584;39.14866;-77.212617
+24844;Perry Pkwy & @620;39.148553;-77.213387
 24840;Perry Pkwy & Frederick Ave;39.149263;-77.209963
 24842;Perry Pkwy & Frederick Rd;39.149551;-77.209949
 29416;Persimmon Tree Rd & Caraway St;38.977435;-77.170043
@@ -2938,19 +2981,22 @@
 15354;Philadelphia Ave & Park Ave;38.979404;-77.008987
 24852;Philadelphia Ave & Takoma Ave;38.985198;-77.019291
 24864;Philadelphia Ave & Takoma Ave;38.985096;-77.018959
-24870;Piccard Dr & @ 1335;39.103984;-77.178299
-24880;Piccard Dr & @ 1350;39.104323;-77.178696
+24870;Piccard Dr & @1335;39.103984;-77.178299
+24880;Piccard Dr & @1350;39.104323;-77.178696
 24872;Piccard Dr & Curie Ct;39.106251;-77.179861
 24878;Piccard Dr & Curie Ct;39.106434;-77.180107
-24868;Piccard Dr & Gude Dr;39.102367;-77.177277
-24882;Piccard Dr & Gude Dr;39.102371;-77.177505
 24874;Piccard Dr & Redland Blvd;39.108078;-77.18119
 24876;Piccard Dr & Redland Blvd;39.108321;-77.181645
+24868;Piccard Dr & W Gude Dr;39.102367;-77.177277
+24882;Piccard Dr & W Gude Dr;39.102371;-77.177505
+24958;Piney Branch Rd & @7336;38.980625;-77.016778
+24884;Piney Branch Rd & @7401;38.98099;-77.016356
 24906;Piney Branch Rd & Arliss St;38.998363;-77.000946
 10055;Piney Branch Rd & Arliss St;38.998545;-77.000799
 24910;Piney Branch Rd & Barron St;38.998948;-76.997534
 24932;Piney Branch Rd & Barron St;38.999306;-76.997056
 24916;Piney Branch Rd & Carroll Ave;39.000027;-76.990311
+24924;Piney Branch Rd & Carroll Ave;39.001213;-76.988426
 24926;Piney Branch Rd & Carroll Ave;38.999996;-76.990959
 24944;Piney Branch Rd & Dale Dr;38.99387;-77.008971
 24904;Piney Branch Rd & Flower Ave;38.998241;-77.002983
@@ -2960,11 +3006,12 @@
 24936;Piney Branch Rd & Greenwood Ave;38.998424;-77.002807
 24914;Piney Branch Rd & Kodiak Dr;38.999634;-76.992279
 24928;Piney Branch Rd & Kodiak Dr;38.999859;-76.992377
-24902;Piney Branch Rd & Manchester Rd;38.997219;-77.004807
+24902;Piney Branch Rd & Manchester Rd;38.998316;-77.007369
 24940;Piney Branch Rd & Manchester Rd;38.99721;-77.005031
 24894;Piney Branch Rd & Mississippi Ave;38.988782;-77.011724
 24950;Piney Branch Rd & Mississippi Ave;38.989327;-77.01151
 24918;Piney Branch Rd & New Hampshire Ave;39.001141;-76.987281
+24920;Piney Branch Rd & New Hampshire Ave;39.001166;-76.98638
 24922;Piney Branch Rd & New Hampshire Ave;39.001345;-76.986315
 24900;Piney Branch Rd & Park Crest Dr;38.994327;-77.008294
 24942;Piney Branch Rd & Park Crest Dr;38.994402;-77.008412
@@ -3010,7 +3057,7 @@
 17217;Plyers Mill Rd & Pennydog Ln;39.029749;-77.049078
 24964;Plyers Mill Rd & St Paul St;39.029814;-77.070843
 24982;Plyers Mill Rd & St Paul St;39.029896;-77.070343
-25064;Pooks Hill Rd & @ 5225 (Lapromenade);39.017216;-77.107109
+25064;Pooks Hill Rd & @5225 (lapromenade);39.017216;-77.107109
 24994;Pooks Hill Rd & Bethesda Marriott;39.015767;-77.102615
 24998;Pooks Hill Rd & Bethesda Marriott;39.01578;-77.102913
 24992;Pooks Hill Rd & Dudley Ln;39.01454;-77.104605
@@ -3034,11 +3081,12 @@
 25022;Postoak Rd & Smoketree Rd;39.052478;-77.165143
 25012;Postoak Rd & Wilkesboro Ln;39.052246;-77.174806
 25030;Postoak Rd & Wilkesboro Ln;39.052418;-77.174644
-30201;Powder Mill Rd & @ 3215;39.033184;-76.950601
+30201;Powder Mill Rd & @3215;39.033184;-76.950601
 30202;Powder Mill Rd & Boxer Rd;39.034912;-76.949252
 30213;Powder Mill Rd & Cherry Hill Rd;39.039167;-76.948053
 30190;Powder Mill Rd & Cherry Mill Dr;39.037024;-76.948428
 30203;Powder Mill Rd & Collier Rd;39.03685;-76.948247
+30222;Powder Mill Rd & Glenmore Dr;39.026278;-76.965409
 30192;Powder Mill Rd & Hillhaven;39.033197;-76.950838
 30195;Powder Mill Rd & Kinloch Rd;39.025431;-76.968487
 30198;Powder Mill Rd & Kinloch Rd;39.025079;-76.968973
@@ -3060,10 +3108,10 @@
 28234;Prince Philip Dr & Lindenwood Dr;39.158645;-77.061637
 25038;Prince Philip Dr & Megans Way;39.142263;-77.065987
 25058;Prince Philip Dr & Megans Way;39.142342;-77.065889
-25040;Prince Philip Dr & Menden Farm Dr;39.140155;-77.064269
+25040;Prince Philip Dr & Menden Farm Dr;39.140268;-77.06359
 25056;Prince Philip Dr & Menden Farm Dr;39.140289;-77.064079
+14489;Prince Philip Dr & Olney-Sandy Spring Rd;39.150864;-77.057266
 15450;Prince Philip Dr & Olney-Sandy Spring Rd;39.150821;-77.057519
-14489;Prince Philip Dr & Olney-sandy Spring Rd;39.150864;-77.057266
 14447;Prince Philip Dr & Spartan Rd;39.156352;-77.058866
 14448;Prince Philip Dr & Spartan Rd;39.156044;-77.058311
 25042;Prince Philip Dr & St Theresa Dr;39.141938;-77.06152
@@ -3087,8 +3135,8 @@
 25092;Quail Valley Blvd & Strawberry Knoll Rd;39.161659;-77.184898
 25078;Quail Valley Blvd & Swan Dr;39.167521;-77.184174
 25080;Quail Valley Blvd & Swan Dr;39.167798;-77.18396
-25100;Quebec Ter & @ 1019;39.00029;-76.98796
-25102;Quebec Ter & @ 1020;39.000378;-76.988029
+25100;Quebec Ter & @1019;39.00029;-76.98796
+25102;Quebec Ter & @1020;39.000378;-76.988029
 25098;Quebec Terr & Ruatan St;38.99924;-76.988972
 25104;Quebec Terr & Ruatan St;38.999035;-76.98952
 17507;Queen Elizabeth Dr & Dutchess Dr;39.159141;-77.077796
@@ -3118,6 +3166,7 @@
 25168;Quince Orchard Rd & Cheyenne Rd;39.125055;-77.246877
 28890;Quince Orchard Rd & Darnestown Rd;39.118534;-77.251831
 10014;Quince Orchard Rd & Darnestown Rd;39.116046;-77.253263
+25148;Quince Orchard Rd & Dosh Dr;39.130516;-77.226585
 25158;Quince Orchard Rd & Dosh Dr;39.130455;-77.226951
 25152;Quince Orchard Rd & Firstfield Rd;39.14604;-77.219576
 25154;Quince Orchard Rd & Firstfield Rd;39.146973;-77.219228
@@ -3141,8 +3190,8 @@
 16031;Railroad St & Hickory Rd;39.138514;-77.179496
 10030;Railroad St & Ridge St;39.135026;-77.174938
 10033;Railroad St & Ridge St;39.134977;-77.175183
-28487;Randolph Rd & @ 500;39.066489;-77.019434
-28570;Randolph Rd & @ 531;39.06675;-77.019615
+28487;Randolph Rd & @500;39.066489;-77.019434
+28570;Randolph Rd & @531;39.06675;-77.019615
 28448;Randolph Rd & Bennion Rd;39.055069;-77.083969
 28462;Randolph Rd & Bluhill Rd;39.058979;-77.065285
 28594;Randolph Rd & Bluhill Rd;39.059187;-77.065409
@@ -3165,10 +3214,8 @@
 28480;Randolph Rd & Garden Gate Rd;39.063881;-77.039442
 28614;Randolph Rd & Gaynor Rd;39.054017;-77.094651
 28472;Randolph Rd & Georgia Ave;39.058149;-77.049003
-14569;Randolph Rd & Georgia Ave;39.058376;-77.049591
 28476;Randolph Rd & Glenallan Ave;39.060646;-77.044434
 28580;Randolph Rd & Glenallan Ave;39.06041;-77.045471
-28474;Randolph Rd & Glenmont Cir;39.059177;-77.047318
 28582;Randolph Rd & Glenmont Cir;39.059344;-77.047597
 28458;Randolph Rd & Goodhill Rd;39.057998;-77.071432
 28598;Randolph Rd & Goodhill Rd;39.058646;-77.070924
@@ -3245,16 +3292,16 @@
 25190;Redland Rd & Yellowstone Way;39.11911;-77.161293
 25232;Redland Rd & Yellowstone Way;39.119253;-77.161398
 25240;Reedie Dr & Fern St;39.039018;-77.04941
-25284;Research Blvd & @ 1450;39.092079;-77.178772
-25242;Research Blvd & @ 1455;39.092159;-77.178597
-25244;Research Blvd & @ 1601;39.094637;-77.180135
-25282;Research Blvd & @ 1650;39.09479;-77.180457
-25280;Research Blvd & @ 1700;39.096886;-77.18147
-25246;Research Blvd & @ 1801;39.097496;-77.181181
-25250;Research Blvd & @ 2275;39.101254;-77.18251
-25276;Research Blvd & @ 2275;39.101201;-77.182758
-25252;Research Blvd & @ 2277;39.10263;-77.183815
-25274;Research Blvd & @ 2277;39.102394;-77.183807
+25284;Research Blvd & @1450;39.092079;-77.178772
+25242;Research Blvd & @1455;39.092159;-77.178597
+25244;Research Blvd & @1601;39.094637;-77.180135
+25282;Research Blvd & @1650;39.09479;-77.180457
+25280;Research Blvd & @1700;39.096886;-77.18147
+25246;Research Blvd & @1801;39.097496;-77.181181
+25250;Research Blvd & @2275;39.101254;-77.18251
+25276;Research Blvd & @2275;39.101201;-77.182758
+25252;Research Blvd & @2277;39.10263;-77.183815
+25274;Research Blvd & @2277;39.102394;-77.183807
 25261;Research Blvd & Extended Stay;39.10643;-77.193717
 25248;Research Blvd & Gude Dr;39.099006;-77.181243
 25278;Research Blvd & Gude Dr;39.099704;-77.18184
@@ -3311,6 +3358,7 @@
 25324;Ridge Rd & Bethesda Church Rd;39.284942;-77.209928
 25302;Ridge Rd & Bloom Dr;39.266515;-77.21798
 25336;Ridge Rd & Bloom Dr;39.26692;-77.218065
+17163;Ridge Rd & Brink Rd;39.21096;-77.239297
 25316;Ridge Rd & Damascus Blvd;39.287727;-77.206947
 25322;Ridge Rd & Damascus Blvd;39.28725;-77.207848
 25310;Ridge Rd & Damascus Manor Rd;39.279881;-77.21178
@@ -3319,8 +3367,11 @@
 30067;Ridge Rd & Davis Mill Rd;39.241447;-77.235179
 28888;Ridge Rd & Frederick Rd;39.204634;-77.247201
 29050;Ridge Rd & Frederick Rd;39.20426;-77.247128
+30224;Ridge Rd & Kakae Dr;39.256972;-77.225562
+30225;Ridge Rd & Kakae Dr;39.256596;-77.226009
 30058;Ridge Rd & Kings Valley Rd;39.253059;-77.22967
 30059;Ridge Rd & Kings Valley Rd;39.253329;-77.229723
+29994;Ridge Rd & Little Seneca Pkwy;39.230481;-77.236686
 29996;Ridge Rd & Little Seneca Pkwy;39.231522;-77.237256
 25300;Ridge Rd & Oak Dr;39.265209;-77.218262
 25306;Ridge Rd & Oak Dr;39.275301;-77.214489
@@ -3334,7 +3385,6 @@
 29662;Ridge Rd & Sweepstakes Rd;39.262326;-77.221093
 25304;Ridge Rd & Tralee Terr;39.270362;-77.216775
 25334;Ridge Rd & Tralee Terr;39.27039;-77.216896
-29994;Ridge Rd & Wacomer Dr;39.230481;-77.236686
 25344;Ridgefield Rd & River Rd;38.966174;-77.106558
 23730;Rio Blvd & Mahogany Dr;39.116107;-77.202572
 29390;Rippling Brook Dr & Bel Pre Rd;39.090138;-77.053717
@@ -3346,6 +3396,8 @@
 25470;River Rd & Belle Terre Way;39.008186;-77.193481
 25362;River Rd & Bradley Blvd;39.002106;-77.181221
 25462;River Rd & Bradley Blvd;39.002441;-77.181599
+25388;River Rd & Braeburn Pkwy;38.980386;-77.133847
+25434;River Rd & Braeburn Pkwy;38.980652;-77.133705
 25420;River Rd & Brookside Rd;38.966412;-77.10571
 25374;River Rd & Burdette Rd;38.990123;-77.152316
 25448;River Rd & Burdette Rd;38.99018;-77.152182
@@ -3371,6 +3423,7 @@
 25394;River Rd & Goldsboro Rd;38.973494;-77.122538
 25428;River Rd & Goldsboro Rd;38.973758;-77.122624
 25408;River Rd & Greystone St;38.962604;-77.100507
+25413;River Rd & Greystone St;38.962387;-77.099815
 25348;River Rd & Hall Rd;39.015937;-77.205809
 25476;River Rd & Hall Rd;39.016073;-77.205768
 25360;River Rd & Harrington Dr;39.003462;-77.184284
@@ -3404,23 +3457,24 @@
 25384;River Rd & Wilson Ln;38.984175;-77.138422
 25438;River Rd & Wilson Ln;38.983318;-77.137138
 25392;River Rd & Winston Dr;38.975694;-77.126333
-28409;Rock Spring Dr & @ 6550;39.026897;-77.134835
-28414;Rock Spring Dr & @ 6700;39.027099;-77.134953
+28409;Rock Spring Dr & @6550;39.026897;-77.134835
+28414;Rock Spring Dr & @6700;39.027099;-77.134953
 28408;Rock Spring Dr & Fernwood Rd;39.025605;-77.136419
 25482;Rock Spring Dr & Old Georgetown Rd;39.026535;-77.12812
 25484;Rock Spring Dr & Old Georgetown Rd;39.026852;-77.127853
 25480;Rock Spring Dr & Rockledge Dr;39.026615;-77.131165
-28410;Rock Spring Dr & Rockledge Dr;39.027004;-77.132735
+28410;Rock Spring Dr & Rockledge Dr;39.027094;-77.133548
 28412;Rock Spring Dr & Rockledge Dr;39.027234;-77.132706
-15362;Rockledge Dr & @ 6600;39.029121;-77.132378
-28800;Rockledge Dr & @ 6901;39.027744;-77.138874
+15362;Rockledge Dr & @6600;39.029121;-77.132378
+28800;Rockledge Dr & @6901;39.027744;-77.138874
 15358;Rockledge Dr & Democracy Blvd;39.024697;-77.132766
 15360;Rockledge Dr & Democracy Blvd;39.024841;-77.132492
+25488;Rockledge Dr & Fernwood Rd;39.026651;-77.138917
 17236;Rockledge Dr & Rock Spring Dr;39.026629;-77.132636
 25492;Rockledge Dr & Rockledge Center;39.030077;-77.13576
 25494;Rockledge Dr & Rockledge Dr;39.029649;-77.133062
 25490;Rockledge Dr & Westlake Terr;39.029668;-77.138107
-17233;Rockville Pike & @ 1001;39.072296;-77.133545
+17233;Rockville Pike & @1001;39.072296;-77.133545
 25636;Rockville Pike & Alta Vista Rd;39.013015;-77.098722
 25514;Rockville Pike & Bellevue Dr;39.012882;-77.098442
 25534;Rockville Pike & Beth Med Prk Dr;39.039224;-77.108893
@@ -3460,6 +3514,7 @@
 25612;Rockville Pike & Nicholson Ln;39.04499;-77.111913
 25644;Rockville Pike & North Dr;39.005429;-77.097611
 25506;Rockville Pike & North Wood Dr;39.004088;-77.097203
+25608;Rockville Pike & Old Georgetown Rd;39.050889;-77.115389
 29738;Rockville Pike & Pike Center;39.05738;-77.119987
 25516;Rockville Pike & Pooks Hill Rd;39.014763;-77.099458
 25634;Rockville Pike & Pooks Hill Rd;39.014375;-77.099506
@@ -3516,8 +3571,8 @@
 25722;Russell Ave & Brooks Ave;39.144129;-77.196897
 25704;Russell Ave & Christopher Ave;39.158377;-77.214207
 25710;Russell Ave & Christopher Ave;39.158497;-77.214851
-25690;Russell Ave & Diamond Ave;39.142404;-77.196416
-25724;Russell Ave & Diamond Ave;39.142058;-77.196519
+25690;Russell Ave & E Diamond Ave;39.142404;-77.196416
+25724;Russell Ave & E Diamond Ave;39.142058;-77.196519
 25712;Russell Ave & Lakforest Ave;39.151086;-77.206825
 25718;Russell Ave & Maryland Ave;39.146896;-77.198529
 25702;Russell Ave & Odendhal Ave;39.151031;-77.204826
@@ -3534,7 +3589,6 @@
 22498;S Frederick Ave & Central Ave;39.130145;-77.186913
 22500;S Frederick Ave & Deer Park Dr;39.132622;-77.189064
 22502;S Frederick Ave & Deer Park Dr;39.133634;-77.189958
-22648;S Frederick Ave & Deer Park Rd;39.132286;-77.189178
 22504;S Frederick Ave & Education Blvd;39.135853;-77.191902
 22646;S Frederick Ave & Education Blvd;39.135603;-77.19196
 28366;S Frederick Ave & Fulks Corner Ave;39.140251;-77.196811
@@ -3546,6 +3600,7 @@
 22506;S Frederick Ave & Summit Ave;39.138523;-77.194664
 22644;S Frederick Ave & Summit Ave;39.137337;-77.193695
 22650;S Frederick Ave & Virginia Dr;39.130938;-77.187841
+22648;S Frederick Ave & W Deer Park Rd;39.132286;-77.189178
 26170;S Stonestreet Ave & Croydon Ave;39.083884;-77.144074
 26198;S Stonestreet Ave & Croydon Ave;39.083798;-77.144088
 26930;S Washington St & Court House Sq;39.08382;-77.152809
@@ -3628,17 +3683,16 @@
 25856;Seminary Rd & Gwyndale Dr;39.012707;-77.052289
 25870;Seminary Rd & Gwyndale Dr;39.012859;-77.052193
 25868;Seminary Rd & Hale St;39.01125;-77.049928
-25860;Seminary Rd & Monroe St;39.010466;-77.047843
 25866;Seminary Rd & Warren St;39.010735;-77.048546
 17294;Seminary Rd & Warren St;39.010629;-77.048604
 17188;Seneca Crossing Dr & Settlers Cir;39.206131;-77.238602
 17189;Seneca Crossing Dr & Settlers Cir;39.206095;-77.238501
 17051;Seneca Crossing Dr & Tall Cedar Way;39.204222;-77.240612
 17187;Seneca Crossing Dr & Tall Forest Dr;39.204319;-77.23996
-15160;Seneca Meadows Pkwy & @ 20425;39.191472;-77.25837
-15162;Seneca Meadows Pkwy & @ 20425;39.191511;-77.258669
-14537;Seneca Meadows Pkwy & @ 20501;39.194926;-77.259534
-14540;Seneca Meadows Pkwy & @ 20501;39.19478;-77.259691
+15160;Seneca Meadows Pkwy & @20425;39.191472;-77.25837
+15162;Seneca Meadows Pkwy & @20425;39.191511;-77.258669
+14537;Seneca Meadows Pkwy & @20501;39.194926;-77.259534
+14540;Seneca Meadows Pkwy & @20501;39.19478;-77.259691
 14536;Seneca Meadows Pkwy & Germantown Rd;39.189818;-77.253751
 14541;Seneca Meadows Pkwy & Germantown Rd;39.189649;-77.253817
 14538;Seneca Meadows Pkwy & Observation Dr;39.197212;-77.257546
@@ -3689,10 +3743,10 @@
 25906;Seven Locks Rd & Twin Oaks Dr;39.064297;-77.160804
 25910;Seven Locks Rd & Twin Oaks Dr;39.063545;-77.160976
 25908;Seven Locks Rd & Wooton Pkwy;39.066537;-77.161572
-14980;Shady Grove Rd & @ 14200;39.092208;-77.206457
-14981;Shady Grove Rd & @ 14200;39.092027;-77.206628
-25964;Shady Grove Rd & @ 16331;39.124809;-77.175133
-25986;Shady Grove Rd & @ 16331;39.124999;-77.175424
+14980;Shady Grove Rd & @14200;39.092208;-77.206457
+14981;Shady Grove Rd & @14200;39.092027;-77.206628
+25964;Shady Grove Rd & @16331;39.124809;-77.175133
+25986;Shady Grove Rd & @16331;39.124999;-77.175424
 25970;Shady Grove Rd & Briardale Rd;39.133816;-77.157889
 25980;Shady Grove Rd & Briardale Rd;39.133884;-77.158287
 14556;Shady Grove Rd & Calabash Ln;39.087529;-77.211277
@@ -3707,13 +3761,13 @@
 25968;Shady Grove Rd & Crabbs Branch Way;39.128572;-77.167748
 25982;Shady Grove Rd & Crabbs Branch Way;39.128998;-77.167313
 21661;Shady Grove Rd & Darnestown Rd;39.093729;-77.196024
-17092;Shady Grove Rd & Darnestown Rd;39.094525;-77.196103
 25978;Shady Grove Rd & Epsilon Dr;39.138117;-77.153843
 25988;Shady Grove Rd & Frederick Ave;39.12211;-77.178486
 25958;Shady Grove Rd & Gaither Rd;39.117214;-77.183487
 25992;Shady Grove Rd & Gaither Rd;39.117652;-77.183669
 14542;Shady Grove Rd & Gudelsky Wy;39.092733;-77.196865
 14558;Shady Grove Rd & Gudelsky Wy;39.091341;-77.197568
+17092;Shady Grove Rd & Medical Center Way;39.094525;-77.196103
 25974;Shady Grove Rd & Mill Run Dr;39.144941;-77.149979
 25976;Shady Grove Rd & Mill Run Dr;39.14534;-77.1502
 25966;Shady Grove Rd & Oakmont Ave;39.127002;-77.172936
@@ -3732,10 +3786,14 @@
 14548;Shady Grove Rd & Willow Tree Dr;39.09031;-77.202376
 14557;Shady Grove Rd & Willow Tree Dr;39.090104;-77.202459
 25962;Shady Grove Rd & Zetts Ave;39.121283;-77.178741
+26000;Shady Grove Station & Bay A - East;39.120933;-77.162903
 14776;Shady Grove Station & Bay A - West;39.119559;-77.164734
+26002;Shady Grove Station & Bay B - East;39.120861;-77.163069
+26014;Shady Grove Station & Bay B - West;39.119687;-77.164833
 14601;Shady Grove Station & Bay C - East;39.120751;-77.163278
 26012;Shady Grove Station & Bay C - West;39.119838;-77.16497
 26006;Shady Grove Station & Bay D - East;39.120659;-77.163467
+26008;Shady Grove Station & Bay E - East;39.120564;-77.163666
 28842;Shakespeare Blvd & Amber Ridge Dr;39.197259;-77.249553
 28844;Shakespeare Blvd & Eton Manor Dr;39.197782;-77.24672
 28834;Shakespeare Blvd & Frederick Rd;39.198327;-77.245726
@@ -3748,15 +3806,15 @@
 17609;Silver Spring Station & Bay 106;38.99373;-77.030286
 17607;Silver Spring Station & Bay 107;38.993733;-77.030279
 17604;Silver Spring Station & Bay 108;38.993604;-77.030154
-17480;Silver Spring Station & Bay 110;38.993781;-77.030076
+17480;Silver Spring Station & Bay 110;38.993655;-77.030928
 17481;Silver Spring Station & Bay 111;38.993619;-77.029923
 17605;Silver Spring Station & Bay 112;38.993419;-77.029749
 17484;Silver Spring Station & Bay 222;38.994185;-77.029703
 17485;Silver Spring Station & Bay 225;38.994095;-77.029692
 17486;Silver Spring Station & Bay 226;38.993786;-77.030091
 17487;Silver Spring Station & Bay 227;38.99404;-77.029473
+30120;Silver Spring Station & Bay 229;38.994041;-77.030027
 17490;Silver Spring Station & Bay 232;38.993599;-77.029553
-30120;Silver Spring Transit Center & Bay 229;38.994041;-77.030027
 26036;Singleton Dr & Bulls Run Pkwy;39.01442;-77.123428
 26034;Singleton Dr & Kingford Rd;39.01474;-77.120415
 26032;Singleton Dr & Kingsford Rd;39.014645;-77.120633
@@ -3776,7 +3834,7 @@
 26060;Sligo Ave & Schrider St;38.991264;-77.014113
 26054;Sligo Ave & Valley St;38.991312;-77.011971
 26058;Sligo Ave & Valley St;38.991415;-77.01239
-26070;Sligo Creek Pkwy & Colesville Rd;39.007931;-77.0205
+26070;Sligo Creek Pkwy & Colesville Rd;39.00799;-77.020427
 26072;Sligo Creek Pkwy & Colesville Rd;39.007873;-77.020598
 26074;Sligo Creek Pkwy & Colesville Rd;39.0073;-77.019524
 26088;Snouffer School Rd & Alliston Hollow Way;39.175869;-77.178783
@@ -3805,12 +3863,13 @@
 17628;Snowden Farm Pkwy & Clarksburg Sq Rd;39.247451;-77.268487
 30171;Snowden Farm Pkwy & Elm Forest Ct;39.229282;-77.251694
 30141;Snowden Farm Pkwy & Emerald Green Dr;39.22309;-77.244229
+30057;Snowden Farm Pkwy & Foreman Blvd;39.231609;-77.257452
 30073;Snowden Farm Pkwy & Foreman Blvd;39.231833;-77.258342
 30074;Snowden Farm Pkwy & Foreman Blvd;39.231758;-77.258847
-17568;Snowden Farm Pkwy & Grand Elm (E) St;39.236019;-77.26049
-17569;Snowden Farm Pkwy & Grand Elm (E) St;39.236159;-77.26088
-17290;Snowden Farm Pkwy & Grand Elm (W) St;39.244451;-77.264197
-17291;Snowden Farm Pkwy & Grand Elm (W) St;39.24442;-77.263789
+17568;Snowden Farm Pkwy & Grand Elm (e) St;39.236019;-77.26049
+17569;Snowden Farm Pkwy & Grand Elm (e) St;39.236159;-77.26088
+17290;Snowden Farm Pkwy & Grand Elm (w) St;39.244451;-77.264197
+17291;Snowden Farm Pkwy & Grand Elm (w) St;39.24442;-77.263789
 30146;Snowden Farm Pkwy & Honey Hill Ln;39.223997;-77.245276
 30142;Snowden Farm Pkwy & New Cut Rd;39.227977;-77.249978
 30172;Snowden Farm Pkwy & Newcut Rd;39.22813;-77.249863
@@ -3819,12 +3878,12 @@
 30145;Snowden Farm Pkwy & Sweetspire Dr;39.222118;-77.243394
 30173;Snowden Farm Pkwy & Sweetspire Dr;39.227411;-77.248785
 17565;Snowden Farm Pkwy & Sycamore Farm Dr;39.230853;-77.254538
-28974;Somerville Dr & @ 15910;39.117808;-77.166695
+28974;Somerville Dr & @15910;39.117808;-77.166695
 26110;Somerville Dr & Redland Rd;39.117687;-77.165474
 26112;Somerville Dr & Redland Rd;39.117331;-77.165183
-26126;Southampton Dr & @ 201;39.00438;-76.982031
-26120;Southampton Dr & @ 306;39.005024;-76.98214
-26128;Southampton Dr & @ 377;39.005159;-76.981865
+26126;Southampton Dr & @201;39.00438;-76.982031
+26120;Southampton Dr & @306;39.005024;-76.98214
+26128;Southampton Dr & @377;39.005159;-76.981865
 26122;Southampton Dr & Ames Rd;39.00383;-76.982414
 26124;Southampton Dr & Ames Rd;39.003632;-76.982079
 26118;Southampton Dr & Beacon Rd;39.006041;-76.984154
@@ -3835,6 +3894,7 @@
 26146;Spencer Rd & Peggy Ln;38.99677;-77.051529
 26148;Spring St & Ellsworth Dr;38.999157;-77.024834
 26150;Spring St & Ellsworth Dr;38.999006;-77.024568
+29028;Spring St & Second Ave;38.997299;-77.035111
 26166;Stedwick Rd & Dunbridge Way;39.174317;-77.212968
 26162;Stedwick Rd & Frenchton Pl;39.173286;-77.216543
 26154;Stedwick Rd & Mills Choice Rd;39.17036;-77.20738
@@ -3859,6 +3919,7 @@
 29454;Stewart Ln & April Ln;39.045491;-76.981809
 29722;Stewart Ln & April Ln;39.045708;-76.981972
 29452;Stewart Ln & July Dr;39.045226;-76.984144
+29456;Stewart Ln & Lockwood Dr;39.044861;-76.98092
 29724;Stewart Ln & Lockwood Dr;39.045376;-76.9842
 29720;Stewart Ln & November Cir;39.044899;-76.980766
 28526;Stewart Ln & Old Columbia Pk;39.046051;-76.98632
@@ -3898,6 +3959,8 @@
 26266;Strawberry Knoll Rd & Quail Valley Blvd;39.166833;-77.180977
 26262;Strawberry Knoll Rd & Sedley Terr;39.169029;-77.179459
 26264;Strawberry Knoll Rd & Sedley Terr;39.169062;-77.179586
+17289;Stringtown Rd & Clarks Crossing Dr;39.241853;-77.268935
+17292;Stringtown Rd & Clarks Crossing Dr;39.242447;-77.268235
 17190;Stringtown Rd & Gateway Center Dr;39.234805;-77.280913
 17191;Stringtown Rd & Gateway Center Dr;39.235665;-77.280379
 17627;Stringtown Rd & N Frederick Rd;39.237294;-77.278451
@@ -3938,10 +4001,10 @@
 26328;Takoma Station & Bay G;38.975441;-77.016968
 26330;Takoma Station & Bay H;38.975629;-77.017007
 26332;Takoma Station & Bay J;38.975781;-77.016978
-26690;Takoma-langley Transit Center & Bay A;38.989889;-76.98849
-17588;Takoma-langley Transit Center & Bay E;38.991062;-76.987856
-17587;Takoma-langley Transit Center & Bay F;38.990746;-76.98773
-24502;Takoma-langley Transit Center & Bay G;38.989831;-76.987733
+26690;Takoma-Langley Transit Center & Bay A;38.989889;-76.98849
+17588;Takoma-Langley Transit Center & Bay E;38.990009;-76.988401
+17587;Takoma-Langley Transit Center & Bay F;38.989765;-76.98809
+24502;Takoma-Langley Transit Center & Bay G;38.989831;-76.987733
 17011;Tamarack Rd & Boardmore Rd;39.066863;-76.987709
 15396;Tamarack Rd & Canyon Rd;39.07553;-76.983158
 15386;Tamarack Rd & Collingwood Ln;39.070412;-76.981018
@@ -3963,10 +4026,11 @@
 29924;Tech Rd & Industrial Pkwy;39.053734;-76.968191
 29926;Tech Rd & Industrial Pkwy;39.053833;-76.967865
 29920;Tech Rd & Prosperity Dr;39.057079;-76.96785
+29930;Tech Rd & Prosperity Dr;39.057469;-76.967938
 15474;Tech Rd & Prosperity Dr;39.056727;-76.967214
 28528;Tech Rd & Tech Rd Park & Ride;39.058613;-76.968911
-30131;Tech Rd Northbound;39.058135;-76.967771
-30132;Tech Rd Southbound;39.058486;-76.968079
+30131;Tech Rd Northbound &;39.058135;-76.967771
+30132;Tech Rd Southbound &;39.058486;-76.968079
 26340;Tenbrook Dr & Dennis Ave;39.023419;-77.029067
 26364;Tenbrook Dr & Dennis Ave;39.023895;-77.028999
 26342;Tenbrook Dr & Dryden St;39.025414;-77.028297
@@ -3986,16 +4050,18 @@
 26348;Tenbrook Dr & Whitehall St;39.0294;-77.027443
 26356;Tenbrook Dr & Whitehall St;39.029177;-77.027632
 26370;Terrace Dr & Grubb Rd;38.996819;-77.058152
-26378;Thayer Ave & @ 200;38.993275;-77.017196
-26390;Thayer Ave & @ 555;38.993668;-77.016014
-26392;Thayer Ave & @ 575;38.993384;-77.017167
-26380;Thayer Ave & @ 631;38.993553;-77.015495
+26378;Thayer Ave & @200;38.993275;-77.017196
+26390;Thayer Ave & @555;38.993668;-77.016014
+26392;Thayer Ave & @575;38.993384;-77.017167
+26380;Thayer Ave & @631;38.993553;-77.015495
 26386;Thayer Ave & Dale Dr;38.994331;-77.009281
 26372;Thayer Ave & Fenton St;38.993018;-77.023834
 26398;Thayer Ave & Fenton St;38.993144;-77.023643
 26374;Thayer Ave & Grove St;38.993068;-77.021809
 26396;Thayer Ave & Grove St;38.993179;-77.021824
 26384;Thayer Ave & Hartford Ave;38.993762;-77.011681
+26376;Thayer Ave & Houston St;38.993138;-77.020215
+26394;Thayer Ave & Houston St;38.993216;-77.020444
 26382;Thayer Ave & Nolte Ave;38.993561;-77.013298
 26388;Thayer Ave & Nolte Ave;38.993658;-77.013407
 26400;Three Oaks Dr & Sligo Creek Pkwy;39.004906;-77.014305
@@ -4005,18 +4071,19 @@
 30004;Tivoli Lake Blvd & Windy Meadow Ln;39.075763;-77.030502
 30005;Tivoli Lake Blvd & Windy Meadow Ln;39.07613;-77.030591
 17642;Tobytown Dr & Pennyfield Lock Ln;39.061866;-77.285498
-17148;Tower Oaks Blvd & @ 2000;39.065266;-77.154465
-17149;Tower Oaks Blvd & @ 2000;39.065746;-77.154404
-14412;Tower Oaks Blvd & @ 2600;39.062228;-77.155179
-14409;Tower Oaks Blvd & @ 3203;39.056931;-77.15049
+17148;Tower Oaks Blvd & @2000;39.065266;-77.154465
+17149;Tower Oaks Blvd & @2000;39.065746;-77.154404
+14412;Tower Oaks Blvd & @2600;39.062228;-77.155179
+14409;Tower Oaks Blvd & @3203;39.056931;-77.15049
 14410;Tower Oaks Blvd & North Farm Ln;39.056547;-77.149828
 14414;Tower Oaks Blvd & Tower Oaks Dr;39.068732;-77.15416
 14408;Tower Oaks Blvd & Tower Oaks Ramp;39.05875;-77.152718
 14411;Tower Oaks Blvd & Twin Oaks Ramp;39.05851;-77.151932
-17252;Travilah Rd & @ 13700;39.080414;-77.244759
-17253;Travilah Rd & @ 13713;39.080469;-77.245338
+17252;Travilah Rd & @13700;39.080414;-77.244759
+17253;Travilah Rd & @13713;39.080469;-77.245338
 30083;Travilah Rd & Bissel Ln;39.063877;-77.274425
 30084;Travilah Rd & Bissel Ln;39.063652;-77.274489
+17649;Travilah Rd & Darnestown Rd;39.096087;-77.207917
 17643;Travilah Rd & Dufief Dr;39.081295;-77.248753
 17644;Travilah Rd & Dufief Mill Rd;39.081358;-77.24869
 17647;Travilah Rd & Glen Rd;39.068472;-77.263155
@@ -4064,8 +4131,8 @@
 29546;Tschiffely Square Rd & Thaxton St;39.123336;-77.244747
 29836;Tschiffely Square Rd & Thurgood St;39.121117;-77.243988
 29838;Tschiffely Square Rd & Tschiffely Square Rd;39.122353;-77.243867
-26444;Tuckerman Ln & @ 7400 (Cabin John Regional Park);39.036602;-77.151272
-26500;Tuckerman Ln & @ 7400 (Cabin John Regional Park);39.036656;-77.151055
+26444;Tuckerman Ln & @7400 (cabin John Regional Park);39.036602;-77.151272
+26500;Tuckerman Ln & @7400 (cabin John Regional Park);39.036656;-77.151055
 26442;Tuckerman Ln & Angus Pl;39.04008;-77.157577
 26502;Tuckerman Ln & Angus Pl;39.039864;-77.156975
 26450;Tuckerman Ln & Arroyo Dr;39.036732;-77.134582
@@ -4141,6 +4208,8 @@
 26572;Twinbrook Pkwy & Pier Dr;39.068184;-77.114273
 26544;Twinbrook Pkwy & Pineberg Ave;39.078415;-77.112396
 26562;Twinbrook Pkwy & Pineberg Ave;39.078369;-77.112549
+26550;Twinbrook Pkwy & Shetland St;39.083675;-77.116226
+26556;Twinbrook Pkwy & Shetland St;39.083463;-77.116084
 26570;Twinbrook Pkwy & Twinbrook Park;39.07045;-77.114066
 26538;Twinbrook Pkwy & Veirs Mill Rd;39.072177;-77.112944
 26568;Twinbrook Pkwy & Veirs Mill Rd;39.072955;-77.11254
@@ -4148,6 +4217,7 @@
 28424;Twinbrook Station & Bay B - East;39.062153;-77.119949
 26588;Twinbrook Station & Bay B - West;39.061803;-77.120886
 26580;Twinbrook Station & Bay C - East;39.062016;-77.119797
+15408;Twinbrook Station & Bay C - West;39.061731;-77.121037
 26582;Twinbrook Station & Bay E - East;39.061779;-77.119475
 26682;University E Blvd & Bayfield St;38.996033;-76.993332
 26696;University E Blvd & Bayfield St;38.996437;-76.993156
@@ -4156,39 +4226,42 @@
 26728;University E Blvd & Colesville Rd;39.019913;-77.011848
 26664;University E Blvd & Dearborn Ave;39.010689;-77.001457
 26684;University E Blvd & Forston St;38.994915;-76.993019
+26660;University E Blvd & Franklin Ave;39.012228;-77.002875
 26662;University E Blvd & Franklin Ave;39.011927;-77.002662
 26672;University E Blvd & Glenville Rd;39.00485;-76.997139
+26658;University E Blvd & Indian Spring Dr;39.013546;-77.003895
 26676;University E Blvd & Langley Dr;39.001663;-76.995781
 26650;University E Blvd & Lexington Dr;39.01899;-77.011182
 26726;University E Blvd & Lexington Dr;39.019482;-77.010483
 26712;University E Blvd & Melbourne Ave;39.010051;-76.999989
-26686;University E Blvd & Merrimac Dr;38.992896;-76.991718
+26686;University E Blvd & Merrimac Dr;38.992653;-76.991673
+26691;University E Blvd & Merrimac Dr;38.992699;-76.991192
 26692;University E Blvd & Navahoe Dr;38.993347;-76.991898
 26674;University E Blvd & Patton Dr;39.00267;-76.996025
 26704;University E Blvd & Patton Dr;39.00247;-76.995577
 26678;University E Blvd & Piney Branch Rd;38.998947;-76.995201
 26700;University E Blvd & Piney Branch Rd;39.000173;-76.99536
-16022;University E Blvd & Piney Branch Rd;38.999069;-76.994911
+16022;University E Blvd & Piney Branch Rd;38.99872;-76.994554
 26668;University E Blvd & Schuyler Rd;39.00822;-76.998641
 26710;University E Blvd & Schuyler Rd;39.007992;-76.99819
 26680;University E Blvd & Seek Ln;38.997463;-76.994041
-26698;University E Blvd & Seek Ln;38.997005;-76.993379
+26698;University E Blvd & Seek Ln;38.997746;-76.993829
 26706;University E Blvd & September Ln;39.005168;-76.996919
 26652;University E Blvd & St Lawrence Dr;39.018738;-77.008513
 26724;University E Blvd & St Lawrence Dr;39.018619;-77.007679
 26670;University E Blvd & Wayne Ave;39.006236;-76.997753
 26654;University E Blvd & Williamsburg Dr;39.017342;-77.006779
 26722;University E Blvd & Williamsburg Dr;39.017726;-77.006699
-26636;University W Blvd & @ 728;39.03108;-77.022255
-20100;University W Blvd & @ 1135 (Arcola Towers);39.039045;-77.030487
-26776;University W Blvd & @ 3333;39.035484;-77.066734
+26636;University W Blvd & @728;39.03108;-77.022255
+20100;University W Blvd & @1135 (arcola Towers);39.039045;-77.030487
+26776;University W Blvd & @3333;39.035484;-77.066734
 26746;University W Blvd & Arcola Ave;39.034159;-77.023967
 26644;University W Blvd & Brunett Ave;39.02315;-77.017118
 26734;University W Blvd & Brunett Ave;39.023106;-77.016629
 26744;University W Blvd & Caddington Ave;39.033325;-77.02342
 26648;University W Blvd & Colesville Rd;39.019868;-77.013563
 26784;University W Blvd & Connecticut Ave;39.032037;-77.074669
-26616;University W Blvd & Dayton St;39.03894;-77.041773
+26616;University W Blvd & Dayton St;39.038832;-77.041888
 26594;University W Blvd & Decatur Ave;39.034172;-77.071548
 26780;University W Blvd & Decatur Ave;39.034284;-77.071906
 26640;University W Blvd & Dennis Ave;39.026695;-77.020508
@@ -4219,8 +4292,9 @@
 26756;University W Blvd & Nicholas Dr;39.036819;-77.038629
 26638;University W Blvd & Orange Dr;39.030116;-77.0215
 26742;University W Blvd & Orange Dr;39.031142;-77.021909
+26752;University W Blvd & Pebble Run Dr;39.036307;-77.035321
 26782;University W Blvd & Perry Ave;39.033112;-77.073586
-26614;University W Blvd & Reedie Dr;39.040004;-77.043261
+26614;University W Blvd & Reedie Dr;39.039905;-77.043342
 26762;University W Blvd & Reedie Dr;39.039895;-77.042696
 26642;University W Blvd & Royalton Dr;39.024498;-77.018991
 26736;University W Blvd & Royalton Rd;39.024465;-77.018401
@@ -4228,7 +4302,9 @@
 26750;University W Blvd & Sligo Creek Pkwy;39.036667;-77.030209
 26598;University W Blvd & St Paul St;39.035159;-77.06786
 26730;University W Blvd & Sutherland Rd;39.020843;-77.013342
-26612;University W Blvd & Westchester Dr;39.040582;-77.044715
+26770;University W Blvd & Valleyview Ave;39.037662;-77.059995
+26608;University W Blvd & Veirs Mill Rd;39.039603;-77.055929
+26612;University W Blvd & Westchester Dr;39.040438;-77.04475
 26764;University W Blvd & Westchester Dr;39.040535;-77.044029
 30021;Valleywood Dr & Clay St;39.057006;-77.065238
 30013;Valleywood Dr & Henderson Ave;39.05512;-77.065009
@@ -4258,16 +4334,17 @@
 26834;Veirs Mill Rd & Newport Mill Rd;39.044885;-77.064923
 26836;Veirs Mill Rd & Norris Dr;39.044056;-77.063332
 26820;Veirs Mill Rd & Okinawa Ave;39.076443;-77.121475
-26832;Veirs Mill Rd & Pendelton Dr;39.046845;-77.067732
 26812;Veirs Mill Rd & Pendleton Dr;39.0468;-77.067241
+26832;Veirs Mill Rd & Pendleton Dr;39.046845;-77.067732
 27880;Veirs Mill Rd & Randolph Rd;39.056271;-77.083061
 28060;Veirs Mill Rd & Randolph Rd;39.056497;-77.082853
+27884;Veirs Mill Rd & Sampson Rd;39.053783;-77.078453
 26838;Veirs Mill Rd & Schoolhouse Cir;39.042721;-77.06082
 28066;Veirs Mill Rd & Turkey Branch Pkwy;39.060306;-77.089546
 26822;Veirs Mill Rd & Twinbrook Pkwy;39.073246;-77.111586
-26802;Veirs Mill Rd & University Blvd;39.040345;-77.055777
-26842;Veirs Mill Rd & University Blvd;39.040336;-77.056328
-26844;Veirs Mill Rd & University Blvd;39.03968;-77.05513
+26802;Veirs Mill Rd & University W Blvd;39.040345;-77.055777
+26842;Veirs Mill Rd & University W Blvd;39.040336;-77.056328
+26844;Veirs Mill Rd & University W Blvd;39.03968;-77.05513
 26848;Victory Ln & Bunnell Dr;39.04896;-77.176313
 26858;Victory Ln & Bunnell Dr;39.049095;-77.176247
 26852;Victory Ln & Gainsborough Rd;39.044739;-77.171181
@@ -4334,12 +4411,14 @@
 24174;W Montgomery Ave & Wall St;39.084498;-77.160759
 24182;W Montgomery Ave & Washington St;39.084232;-77.153389
 24176;W Montgomery Ave & Williams St;39.084187;-77.159027
+87277;W Old Baltimore & Frederick Rd;39.215271;-77.25909
 30025;W Old Baltimore Rd & Fernberry Ln;39.214848;-77.265943
-30035;W Old Baltimore Rd & Manor Crest Ln;39.2152;-77.261278
+30024;W Old Baltimore Rd & Gorman Dr;39.21473;-77.265839
 30034;W Old Baltimore Rd & Manor Crest Ln;39.215371;-77.261085
+30035;W Old Baltimore Rd & Manor Crest Ln;39.2152;-77.261278
 29828;W Willard Rd & Wooton Ave;39.145311;-77.418659
-26882;Walkers Choice Rd & @ 18620;39.16187;-77.204541
-26878;Walkers Choice Rd & @ 18710;39.164395;-77.205041
+26882;Walkers Choice Rd & @18620;39.16187;-77.204541
+26878;Walkers Choice Rd & @18710;39.164395;-77.205041
 26874;Walkers Choice Rd & Lake Landing Rd;39.164326;-77.20488
 26870;Walkers Choice Rd & Montgomery Village Ave;39.161884;-77.204175
 26876;Walkers Choice Rd & Montgomery Village Ave;39.165217;-77.205021
@@ -4347,7 +4426,7 @@
 14573;Walkers Choice Rd & Office Park Dr;39.161568;-77.20295
 26872;Walkers Choice Rd & Walkers House Rd;39.163235;-77.204346
 26880;Walkers Choice Rd & Walkers House Rd;39.163;-77.204527
-15112;Wanegarden Dr & @ 13906;39.182938;-77.28946
+15112;Wanegarden Dr & @13906;39.182938;-77.28946
 26894;Wanegarden Dr & Lake Park Dr;39.182498;-77.289711
 15110;Wanegarden Dr & Lake Seneca Es;39.183884;-77.28418
 15114;Wanegarden Dr & Lake Seneca Es;39.183678;-77.284615
@@ -4389,10 +4468,10 @@
 26970;Washington Grove Ln & Shady Spring Dr;39.149064;-77.166886
 26962;Washington Grove Ln & Towncrest Dr;39.143902;-77.173363
 26982;Washington Grove Ln & Towncrest Dr;39.14393;-77.173516
-26988;Washingtonian Blvd & @ 9801;39.114063;-77.196434
-26994;Washingtonian Blvd & @ 9801;39.113824;-77.196401
-27810;Washingtonian Blvd & @ 9811;39.115471;-77.198239
-27812;Washingtonian Blvd & @ 9811;39.115037;-77.198293
+26988;Washingtonian Blvd & @9801;39.114063;-77.196434
+26994;Washingtonian Blvd & @9801;39.113824;-77.196401
+27810;Washingtonian Blvd & @9811;39.115471;-77.198239
+27812;Washingtonian Blvd & @9811;39.115037;-77.198293
 17591;Washingtonian Blvd & Fields Rd;39.112259;-77.192703
 29574;Washingtonian Blvd & Grand Corner Blvd;39.11768;-77.203527
 29714;Washingtonian Blvd & Grand Corner Blvd;39.11758;-77.203308
@@ -4460,8 +4539,8 @@
 27056;Watkins Mill Rd & Travis Ave;39.161738;-77.214476
 17226;Watkins Mill Rd & Travis Ln;39.160389;-77.215249
 17227;Watkins Mill Rd & Travis Ln;39.160252;-77.215058
-27090;Wayne Ave & @ 313;38.999679;-77.014894
-27061;Wayne Ave & @ 824;38.996285;-77.022877
+27090;Wayne Ave & @313;38.999679;-77.014894
+27061;Wayne Ave & @824;38.996285;-77.022877
 27062;Wayne Ave & Cedar St;38.997264;-77.021632
 27098;Wayne Ave & Cedar St;38.997342;-77.021786
 27068;Wayne Ave & Dale Dr;38.999267;-77.017722
@@ -4472,7 +4551,7 @@
 27100;Wayne Ave & Fenton St;38.99599;-77.023618
 16080;Wayne Ave & Georgia Ave;38.994785;-77.025742
 27070;Wayne Ave & Mansfield Rd;38.999836;-77.013
-27088;Wayne Ave & Mansfield Rd;38.999985;-77.012962
+27088;Wayne Ave & Mansfield Rd;38.999972;-77.012998
 27064;Wayne Ave & Springvale Rd;38.998301;-77.020537
 27096;Wayne Ave & Springvale Rd;38.998367;-77.020704
 28300;Weller Rd & Bluhill Rd;39.06474;-77.0659
@@ -4489,8 +4568,8 @@
 28304;Weller Rd & Holdridge Rd;39.065693;-77.062408
 28302;Weller Rd & Valleywood Dr;39.064957;-77.064896
 28310;Weller Rd & Valleywood Dr;39.065174;-77.064468
-27120;Westbard Ave & @ 5400;38.963717;-77.106718
-27114;Westbard Ave & @ 5401;38.964042;-77.106667
+27120;Westbard Ave & @5400;38.963717;-77.106718
+27114;Westbard Ave & @5401;38.964042;-77.106667
 27110;Westbard Ave & Crown St;38.960023;-77.107876
 27124;Westbard Ave & Crown St;38.960176;-77.107942
 27108;Westbard Ave & Massachusetts Ave;38.958671;-77.109111
@@ -4523,27 +4602,28 @@
 27166;Westlake Dr & Lakeview Dr;39.026405;-77.147839
 27168;Westlake Dr & Lakeview Dr;39.026679;-77.147885
 27174;Westlake Ter & Montgomery Mall;39.026728;-77.145986
+28406;Westlake Ter & Motor City Dr;39.02663;-77.144514
 27180;Westmoreland Cir & Dalecarlia Pkwy;38.948452;-77.100812
+27178;Westmoreland Cir & Massachusetts Ave;38.949393;-77.100828
 27179;Westmoreland Cir & Western Ave;38.949139;-77.10041
 24426;Westwind Dr & Nist;39.136168;-77.214478
-15422;Wheation Station Bay F;39.038104;-77.051429
 27182;Wheaton Plz Ring Rd Rd & Ring Rd;39.037028;-77.052607
-30181;Wheaton Station;39.037396;-77.051335
+15422;Wheaton Station & Bay F;39.038104;-77.051429
 28218;Wheaton Station & Bay G;39.037999;-77.051671
 29740;Wheaton Station & Bay H;39.037647;-77.051064
 15416;Wheaton Station & Bay J;39.037904;-77.050977
 27184;Wheaton Station & Bay K;39.037982;-77.05119
 27188;Wheaton Station & Bay L;39.037671;-77.051512
 27190;Wheaton Station & Bay M;39.037495;-77.05146
-14832;Whelan Ln & @ 22880 (MC Correctional Facility);39.237946;-77.29232
-14845;White Flint Station & Marinelli Rd;39.047531;-77.111946
-30136;White Oak Northbound;39.040543;-76.988596
-30134;White Oak Southbound;39.040683;-76.988641
+30181;Wheaton Station & Bay N;39.037396;-77.051335
+14832;Whelan Ln & @22880 (mc Correctional Facility);39.237946;-77.29232
+30136;White Oak Northbound &;39.040543;-76.988596
+30134;White Oak Southbound &;39.040683;-76.988641
 29789;Whites Ferry Rd & Morrow Rd;39.124148;-77.365564
 29792;Whites Ferry Rd & Morrow Rd;39.123997;-77.365967
 29790;Whites Ferry Rd & Sugarland Dr;39.128366;-77.347058
 29793;Whites Ferry Rd & Sugarland Dr;39.128265;-77.347206
-27728;Whitley Park Ter & @ 5450;39.01536;-77.110095
+27728;Whitley Park Ter & @5450;39.01536;-77.110095
 27196;Whittier Blvd & Highboro Dr;38.975976;-77.125592
 27222;Whittier Blvd & Highboro Dr;38.976423;-77.12538
 27208;Whittier Blvd & Kirby Rd;38.98727;-77.127516
@@ -4560,7 +4640,7 @@
 27220;Whittier Blvd & Shady Oak Ln;38.977608;-77.124741
 14431;Wickham Dr & Bowie Mill Rd;39.155253;-77.095074
 14459;Wickham Dr & Bowie Mill Rd;39.155036;-77.095084
-14432;Wickham Rd & @ 18312;39.15616;-77.094259
+14432;Wickham Rd & @18312;39.15616;-77.094259
 14433;Wickham Rd & Broom Dr;39.158085;-77.094185
 14457;Wickham Rd & Broom Dr;39.158161;-77.094361
 14434;Wickham Rd & Olney Mill Rd;39.160182;-77.095542
@@ -4580,9 +4660,11 @@
 27254;Willard Ave & River Rd;38.960645;-77.09681
 27240;Willard Ave & Shoemaker Farm Ln;38.962416;-77.091397
 27250;Willard Ave & Shoemaker Farm Ln;38.962521;-77.091375
+27244;Willard Ave & The Hills Plaza;38.961746;-77.08782
 27256;Wilmett Rd & Ewing Dr;39.008015;-77.123772
 27282;Wilson Ln & Aberdeen Rd;38.989882;-77.121666
 27290;Wilson Ln & Aberdeen Rd;38.986347;-77.113892
+27324;Wilson Ln & Aberdeen Rd;38.986565;-77.11351
 27332;Wilson Ln & Aberdeen Rd;38.989858;-77.120993
 27270;Wilson Ln & Algonquin Ave;38.985045;-77.135649
 27344;Wilson Ln & Algonquin Ave;38.985367;-77.135521
@@ -4654,9 +4736,9 @@
 27406;Wisconsin Ave & South Park Ave;38.963952;-77.087417
 27374;Wisconsin Ave & Stanford St;38.97834;-77.091121
 27390;Wisconsin Ave & Stanford St;38.978216;-77.09139
-27463;Wisteria Dr & @ 13083;39.177769;-77.271347
-27770;Wisteria Dr & @ 17941;39.180336;-77.275068
-27421;Wisteria Dr & @ 19741;39.180265;-77.275224
+27463;Wisteria Dr & @13083;39.177769;-77.271347
+27770;Wisteria Dr & @17941;39.180336;-77.275068
+27421;Wisteria Dr & @19741;39.180265;-77.275224
 27436;Wisteria Dr & Bent Willow Cir;39.165257;-77.259232
 27434;Wisteria Dr & Bent Willow Dr;39.166442;-77.2594
 27444;Wisteria Dr & Caledonia Ct;39.16217;-77.251119
@@ -4684,6 +4766,7 @@
 27464;Wisteria Dr & Waldorf Dr;39.18214;-77.277092
 27462;Wisteria Dr & Walter Johnson Dr;39.176361;-77.269017
 27424;Wisteria Dr & Walter Johnson Rd;39.175858;-77.268448
+27410;Wisteria Dr & Wanegarden Dr;39.181496;-77.289543
 27474;Wisteria Dr & Wanegarden Dr;39.181857;-77.289785
 27442;Wisteria Dr & Waring Station Rd;39.161914;-77.251327
 14559;Wisteria Dr & Waters Dr;39.178708;-77.273293
@@ -4691,23 +4774,23 @@
 27412;Wisteria Dr & Webster Ct;39.180176;-77.287506
 27472;Wisteria Dr & Webster Ct;39.18;-77.286827
 27454;Wisteria Dr & Willow Spring Dr;39.168126;-77.259931
-27466;Wisteria Dr & Winterspoon (E) Ln;39.182068;-77.278639
-27416;Wisteria Dr & Wintersspoon (W) Ln;39.181214;-77.280759
-17041;Wolf Dr & @ 13301;39.072951;-77.001837
+27466;Wisteria Dr & Winterspoon (e) Ln;39.182068;-77.278639
+27416;Wisteria Dr & Wintersspoon (w) Ln;39.181214;-77.280759
+17041;Wolf Dr & @13301;39.072951;-77.001837
 16095;Wolf Dr & Kara Ln;39.072716;-77.001501
-14575;Woodfield Rd & @ 21038;39.201603;-77.15921
-14574;Woodfield Rd & @ 21105;39.201728;-77.159203
-27515;Woodfield Rd & @ 23716;39.245537;-77.189186
-27559;Woodfield Rd & @ 23716;39.245159;-77.188877
-27533;Woodfield Rd & @ 25370;39.280229;-77.202942
-27541;Woodfield Rd & @ 25730;39.280243;-77.203087
+14575;Woodfield Rd & @21038;39.201603;-77.15921
+14574;Woodfield Rd & @21105;39.201728;-77.159203
+27515;Woodfield Rd & @23716;39.245537;-77.189186
+27559;Woodfield Rd & @23716;39.245159;-77.188877
+27533;Woodfield Rd & @25370;39.280229;-77.202942
+27541;Woodfield Rd & @25730;39.280243;-77.203087
 27478;Woodfield Rd & Airpark Rd;39.169956;-77.153656
 27486;Woodfield Rd & Barcellona Dr;39.1802;-77.150276
 27540;Woodfield Rd & Bethesda Church Rd;39.283905;-77.201973
 27530;Woodfield Rd & Biscayne Ln;39.274706;-77.204159
 27544;Woodfield Rd & Biscayne Ln;39.274787;-77.204298
-27590;Woodfield Rd & Brenish (N) Dr;39.17775;-77.15097
-27592;Woodfield Rd & Brenish (S) Dr;39.174999;-77.151452
+27590;Woodfield Rd & Brenish (n) Dr;39.17775;-77.15097
+27592;Woodfield Rd & Brenish (s) Dr;39.174999;-77.151452
 27482;Woodfield Rd & Brenish Dr;39.175029;-77.151265
 27502;Woodfield Rd & Brink Rd;39.208691;-77.169319
 27572;Woodfield Rd & Brink Rd;39.208847;-77.169632
@@ -4776,8 +4859,8 @@
 29816;Wootton Ave & Hoskinson Rd;39.142688;-77.41193
 29818;Wootton Ave & Hughes Rd;39.142354;-77.410589
 29824;Wootton Ave & Norris Rd;39.14365;-77.415558
-14415;Wootton Pkwy & @ 1101;39.067611;-77.156541
-27618;Wootton Pkwy & @ 2100;39.076351;-77.182023
+14415;Wootton Pkwy & @1101;39.067611;-77.156541
+27618;Wootton Pkwy & @2100;39.076351;-77.182023
 27658;Wootton Pkwy & Dundee Rd;39.086823;-77.188817
 14403;Wootton Pkwy & Edmonston Dr;39.072887;-77.138428
 14404;Wootton Pkwy & Edmonston Dr;39.071527;-77.139333
