@@ -45,6 +45,34 @@ public class ediCalc
     System.out.println("Enjoy!");
 
     System.out.println("");
+
+    // check request list
+    ArrayList<String> requests = new ArrayList<String>();
+    try
+    {
+      Scanner s = new Scanner(new File("requests.txt"));
+      while (s.hasNextLine())
+      {
+        String data = s.nextLine();
+        requests.add(data);
+      }
+    }
+    catch (Exception e)
+    {
+      System.out.println("Error - no requests (odd, you always have some).");
+    }
+
+    System.out.print("Requests: " + requests.size() + ". View? ");
+    String requestChoice = a.nextLine();
+
+    if (requestChoice.equalsIgnoreCase("yes"))
+    {
+      for (int i = 0; i < requests.size(); i++)
+      {
+        System.out.println(requests.get(i));
+      }
+    }
+
     agency();
   }
 
