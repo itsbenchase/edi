@@ -62,7 +62,7 @@ public class ediCalc
       System.out.println("Error - no requests (odd, you always have some).");
     }
 
-    System.out.print("Requests: " + requests.size() + ". View? ");
+    /* System.out.print("Requests: " + requests.size() + ". View? ");
     String requestChoice = a.nextLine();
 
     if (requestChoice.equalsIgnoreCase("yes"))
@@ -71,7 +71,7 @@ public class ediCalc
       {
         System.out.println(requests.get(i));
       }
-    }
+    } */
 
     agency();
   }
