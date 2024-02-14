@@ -1,0 +1,480 @@
+BUS540;Pi Beta Phi (on Russell St);40.424541;-86.919075;21A;1
+BUS805;Russell St & 2nd St (NE Corner);40.426444;-86.919076;21A;2
+BUS810;Russell St & 4th St (SE Corner);40.428196;-86.919122;21A;3
+BUS800;Russell St & 6th St (SE Corner);40.430238;-86.919107;21A;4
+BUS105;Northwestern Ave & Evergreen St (SE Corner);40.432242;-86.914828;21A;5
+BUS891;Paramount Dr & Pacific Dr;40.470824;-86.945503;21A;6
+BUS894;Lark Apts (at mailboxes);40.4722;-86.9459;21A;7
+BUS271;Purdue Memorial Union (PMU) on MD Blvd;40.424124;-86.91186;15;1
+BUS389;Beering Hall on University St (@Shelter);40.425903;-86.916614;15;2
+BUS490SE;N University St & 5th St at PUSH;40.429171;-86.916609;15;3
+BUS413;Ford Hall on Stadium Ave (North Side);40.431521;-86.920323;15;4
+BUS509SE;Jischke Dr & Tower Dr (SE Corner);40.432884;-86.92143;15;5
+BUS472N;Tower Dr & Hilltop Dr (NE Corner);40.433277;-86.923199;15;6
+BUS562N;Theta Chi on Tower Dr;40.433244;-86.926147;15;7
+BUS554E;Alpha Chi on David Ross Rd;40.434318;-86.925679;15;8
+BUS553;Circle Pines on David Ross Rd (NW Corner);40.435339;-86.924952;15;9
+BUS260;Krannert Grad School;40.423931;-86.911286;10;1
+BUS184;Grissom Hall on Grant St (at Shelter);40.426518;-86.910307;10;2
+BUS295;Wang Hall on Northwestern (at Crosswalk);40.429345;-86.911751;10;3
+BUS530;Northwestern Ave & Stadium Ave (McDonalds);40.431117;-86.913622;10;4
+BUS105;Northwestern Ave & Evergreen St (SE Corner);40.432242;-86.914828;10;5
+BUS284;Northwestern Ave & Meridian St (SE Corner);40.434;-86.915138;10;6
+BUS203;Northwestern Ave & Northridge Dr (SE Corner);40.436737;-86.915429;10;7
+BUS901;Northwestern Ave & Hillcrest Rd (SE Corner);40.440343;-86.918101;10;8
+BUS632;Northwestern Ave & Garden St (SE Corner);40.442652;-86.919269;10;9
+BUS126;Northwestern Ave & Elm Dr (SE Corner);40.44462;-86.920471;10;10
+BUS375SE;Lindberg Rd & Northwestern (Southeast);40.445914;-86.92105;10;11
+BUS102NE;Carlisle Rd & Lindberg Rd (North of);40.446097;-86.91917;10;12
+BUS623SE;Carlisle Rd & Windsor Dr (SE Corner);40.44786;-86.919464;10;13
+BUS624E;Carlisle Rd & Sycamore Ln (SE Corner);40.450319;-86.919401;10;14
+BUS101NE;Mayfair Village Apts on Sycamore Ln;40.452123;-86.921663;10;15
+BUS104N;Anthrop Dr & Yeager Rd (NE Corner);40.452026;-86.924452;10;16
+5101;Yeager Rd & Kent Ave (SE Corner);40.455419;-86.924472;10;17
+BUS626SE;Yeager Rd & Montgomery St (SE Corner);40.458587;-86.92449;10;18
+BUS218SE;Yeager Rd & Cumberland Ave (SE Corner);40.460409;-86.924464;10;19
+BUS119;Country Villa Apts on Yeager (SE Corner);40.461922;-86.924485;10;20
+BUS118;Yeager Rd & Roxboro St (SE Corner);40.464899;-86.9245;10;21
+BUS957;Mcclure Ave @ Kurz Tech Center;40.465173;-86.926934;10;22
+BUS956;Win Hentschel Blvd & MED Institute;40.465335;-86.929928;10;23
+BUS955;Kent Ave @ Purdue Research Center;40.466498;-86.931754;10;24
+BUS944N;West View Apts on Kalberer Rd (North);40.467868;-86.934742;10;25
+BUS115N;Kalberer Rd & Morehouse Rd (NE Corner);40.467824;-86.938576;10;26
+BUS114E;Trailside Flats on Morehouse (East);40.469177;-86.938706;10;27
+BUS113NE;Morehouse Rd & Ellison Dr (East Side);40.4708;-86.938847;10;28
+BUS631E;Morehouse Rd & Abnaki Dr (East);40.474448;-86.938886;10;29
+BUS112SE;Morehouse Rd & Mason Dixon Dr (SE Corner);40.47773;-86.938702;10;30
+BUS627;Mason Dixon Dr & Vicksburg Ln (SW Corner);40.477735;-86.936259;10;31
+BUS110SE;Mason Dixon Dr & Shining Armor (SE Corner);40.47924;-86.934531;10;32
+BUS628;Mason Dixon Dr & Roundtable Dr (SE Corner);40.480833;-86.934554;10;33
+BUS157;Roundtable Dr & Shining Armor Ln (SW Corner);40.480845;-86.931177;10;34
+BUS002;3rd St & Ferry St (NW Corner);40.420219;-86.894331;9;1
+BUS265;South St & 4th St (SW Corner);40.417262;-86.893175;9;2
+BUS329;South St & 5th St (SW Corner);40.417277;-86.891884;9;3
+BUS351;Tippecanoe Co Public Library on South St;40.417265;-86.889434;9;4
+BUS659;South St & 10th St (West of);40.417287;-86.886183;9;5
+BUS661;South St & McGrath Ave (West of);40.417313;-86.883714;9;6
+BUS206;South St & 14th St (SW Corner);40.417314;-86.881859;9;7
+BUS962;South St & Douglas St (SW Corner);40.41731;-86.875528;9;8
+BUS967;South St & Thompson St (SW Corner);40.417388;-86.871385;9;9
+BUS694SW;South St & 26th St (SW Corner);40.417443;-86.867532;9;10
+BUS695SW;South St & 29th St (SW Corner);40.417471;-86.86418;9;11
+BUS696SW;South St & Earl Ave (SW Corner);40.41751;-86.860822;9;12
+BUS699SW;South St & Sagamore Pkwy (SW Corner);40.417502;-86.858217;9;13
+BUS221W;Sagamore Pkwy S at alorica (west side);40.413971;-86.8582;9;14
+BUS219W;Sagamore Pkwy S & National Dr (NW Corner);40.40651;-86.857827;9;15
+BUS298;McCarty Ln & Sagamore Pkwy S (East of);40.402724;-86.85667;9;16
+BUS120;McCarty Ln & Industrial Dr (SW Corner);40.40284;-86.851605;9;17
+BUS994;McCarty Ln & Kepner Dr (SW Corner);40.402861;-86.844709;9;18
+BUS995;McCarty Ln & Landmark Dr (South of);40.402948;-86.841302;9;19
+BUS895;McCarty Ln & Emerald Pines Ct (SW Corner);40.402935;-86.836707;9;20
+BUS996;McCarty Ln & Burberry Dr;40.402963;-86.834513;9;21
+BUS997;Mezzanine Dr & McCarty Ln (NW of);40.403727;-86.832201;9;22
+BUS601;Arnett Clinic at 925 Mezzanine Dr;40.405959;-86.832613;9;23
+BUS615;Mezzanine Dr & Park East Blvd (SW Corner);40.406973;-86.829088;9;24
+1507;Lafayette VA Clinic;40.405455;-86.828217;9;25
+BUS625;Park East Blvd & Retail Dr (SW Corner);40.40433;-86.82796;9;26
+BUS982W;IU Health Arnett Hospital;40.401044;-86.804833;9;27
+BUS199;Rutherford Dr;40.447607;-86.962127;8;1
+BUS268;Redpoint (@Snowdrop Dr);40.454317;-86.961897;8;2
+BUS464;Family Express on Klondike Rd;40.458023;-86.961967;8;3
+BUS204;West Ridge Flats on Klondike Rd;40.460137;-86.961991;8;4
+BUS317;Klondike Schools (SE Corner Center Drive);40.464537;-86.961969;8;5
+BUS342;Klondike Rd & US 52 (SE Corner);40.467206;-86.962005;8;6
+BUS197;Sagamore Pkwy & Bethel Dr (West of);40.467332;-86.956453;8;7
+BUS283;Sagamore Pkwy W & Hunter Rd (SW Corner);40.467401;-86.9495;8;8
+BUS180;Sagamore Pkwy & Paramount Dr;40.467406;-86.94749;8;9
+BUS390;Sagamore Pkwy W & Morehouse Rd (SW Corner);40.466944;-86.940204;8;10
+BUS250;Sagamore Pkwy W & Geddes Way (South of);40.464408;-86.936531;8;11
+5146;Sagamore Pkwy W and Sachem Blvd (SW corner);40.462219;-86.934847;8;12
+BUS137;Quality Inn on Cumberland Ave (NE Corner);40.459544;-86.935009;8;13
+BUS403;Walmart West Lafayette (at Shelter);40.457475;-86.934142;8;14
+BUS215;CityBus Center;40.420711;-86.894808;7;1
+BUS549S;Fowler Apartments on Ferry St;40.420002;-86.892429;7;2
+BUS534S;Ferry St & 6th St (SW Corner);40.420012;-86.890841;7;3
+BUS532SW;Ferry St & 8th St (SW Corner);40.420021;-86.88853;7;4
+BUS794S;Ferry St & 10th St (Southwest of);40.419996;-86.88599;7;5
+BUS796S;Ferry St & Erie St (SW Corner);40.419977;-86.88401;7;6
+BUS797S;Ferry St & Perrin Ave (SW Corner);40.41998;-86.881913;7;7
+BUS798SW;Ferry St & Asher St (SW Corner);40.419268;-86.879086;7;8
+BUS280S;Ferry St & 19th St (SW Corner);40.418836;-86.876066;7;9
+BUS548SW;Ferry St & 21st St (SW Corner);40.418874;-86.873575;7;10
+BUS545S;Ferry St & 23rd St (East of);40.418925;-86.871172;7;11
+BUS244;Ferry St & 26th St (SW Corner);40.418977;-86.868226;7;12
+BUS116S;Ferry St & 28th St (SW Corner);40.419001;-86.865298;7;13
+BUS128;Ferry St & 31st St (SW Corner);40.41905;-86.861687;7;14
+BUS459SE;Earl Ave & Cason St (SE Corner);40.420409;-86.860471;7;15
+BUS507E;Portledge Commons Apts on Earl Ave;40.421752;-86.860458;7;16
+BUS196E;Earl Ave & Union St (East side South of);40.424392;-86.860525;7;17
+BUS971;RRX on Union St (SW Corner);40.424785;-86.855534;7;18
+BUS552SW;Union St & 36th St (SW Corner);40.424808;-86.850958;7;19
+BUS813W;36th St & Coleman Ct (NW Corner @ Bench);40.42243;-86.850988;7;20
+BUS405;36th & South St (Laf Animal);40.41815;-86.850062;7;21
+BUS475;South St & 36th St (Southeast of);40.417403;-86.849308;7;22
+BUS384;South St & Executive Dr (SE Corner);40.417439;-86.843714;7;23
+BUS816;South St & Creasy Ln (Southeast of);40.417576;-86.836644;7;24
+BUS969;Commerce Dr & Fairington Ave (East of);40.415793;-86.831327;7;25
+BUS970;Commerce Dr & Park East (SW Corner);40.415787;-86.829111;7;26
+BUS808;Commerce Dr & Marketplace Dr (SW Corner);40.415241;-86.826879;7;27
+BUS503;Walmart (East Lafayette);40.413902;-86.826515;7;28
+BUS151;Progress DR & South St (SE Corner);40.417458;-86.824861;7;29
+BUS277S;SR 26 & Frontage Rd (South Side of SR26);40.417366;-86.816722;7;30
+BUS372;Meijer Ct & Meijer Dr (SW Corner);40.416746;-86.814296;7;31
+BUS257;Meijer Store East (at Shelter);40.41539;-86.8138;7;32
+BUS215;CityBus Center;40.420711;-86.894808;6B;1
+BUS265;South St & 4th St (SW Corner);40.417262;-86.893175;6B;2
+BUS329;South St & 5th St (SW Corner);40.417277;-86.891884;6B;3
+BUS351;Tippecanoe Co Public Library on South St;40.417265;-86.889434;6B;4
+BUS698;Historical Museum on 9th St (West side);40.416797;-86.886797;6B;5
+BUS683;9th St & Hitt St (NW Corner);40.413437;-86.886683;6B;6
+1259;S 9th St and Kossuth St (NW corner);40.410112;-86.886562;6B;7
+1267;S 9th St & Central St (NW corner);40.406408;-86.88642;6B;8
+1275;S 9th St & King St (NW corner);40.404585;-86.886347;6B;9
+1281;S 9th St & Logan St (SE corner);40.402539;-86.885713;6B;10
+1370;S 14th St & Logan St (SW corner);40.402581;-86.881531;6B;11
+BUS327SW;Logan Ave & El Prado Ave (SW Corner);40.402586;-86.879514;6B;12
+BUS986S;Logan Ave & 18th St (SW Corner);40.402577;-86.876865;6B;13
+BUS815;18th St & JR Hiatt (NW Corner);40.397617;-86.876622;6B;14
+BUS187NW;Teal Rd & 18th St (West of);40.395631;-86.876776;6B;15
+BUS494;Fairgrounds on Teal Rd (NE Corner;40.395486;-86.881218;6B;16
+BUS515;Teal Rd & Crestview Ct (NE Corner);40.395466;-86.883257;6B;17
+BUS316;9th St & Rosemont St (NW Corner);40.394789;-86.886072;6B;18
+BUS693;9th St & Sarasota Dr (SW Corner);40.393121;-86.88605;6B;19
+BUS679;Bishop Woods on 9th St (West Side);40.389713;-86.885955;6B;20
+BUS537;Beck Ln & 9th St (Southeast of);40.387925;-86.885515;6B;21
+BUS215;CityBus Center;40.420711;-86.894808;6A;1
+BUS287;2nd St & Columbia St (NW Corner);40.418309;-86.895538;6A;2
+BUS172W;2nd St & Alabama St (NE Corner);40.416496;-86.89557;6A;3
+BUS150;Alabama St & 4th St (SW Corner);40.41637;-86.893211;6A;4
+BUS194;Fountain St & 4th St (NW Corner);40.412823;-86.893106;6A;5
+BUS240;4th St & Fairmont St (NW Corner);40.408744;-86.893084;6A;6
+BUS399;4th St & Owen St (NW Corner);40.405259;-86.893048;6A;7
+BUS264W;4th St & Montefiore St (NW Corner);40.401812;-86.893098;6A;8
+BUS665;4th St & Williams Ridge/Saw Mill Rd;40.398076;-86.894561;6A;9
+BUS261;4th St & Teal Rd (North of);40.396167;-86.895664;6A;10
+BUS653NE;Old US 231S & Windy Hill Dr (NE Corner);40.394473;-86.900137;6A;11
+BUS254;Elston Rd & Old US231 (West of);40.392584;-86.903815;6A;12
+BUS270;Elston Rd & Beck Ln (West of);40.393036;-86.909339;6A;13
+BUS655;Elston Point Apts on Elston Rd (NE Corner);40.393304;-86.912473;6A;14
+BUS159;Old Romney Rd & US52 / SR25 (NW Corner);40.389182;-86.912944;6A;15
+BUS212;Romney Meadows Apts (at Shelter);40.387019;-86.912194;6A;16
+BUS211;Twyckenham Blvd & Old Romney (NW Corner);40.384943;-86.911437;6A;17
+BUS658;CR 10 W & Twyckenham Blvd (SW Corner);40.38463;-86.906809;6A;18
+BUS764;Twyckenham Blvd & Old US 231S (East of);40.384636;-86.904202;6A;19
+BUS703S;Twyckenham & Poland Hill (Southwest of);40.383391;-86.896151;6A;20
+BUS704S;Quarry Dr & Twyckenham (SW Corner);40.3835;-86.892426;6A;21
+BUS340S;Twyckenham Blvd & 9th St (SW Corner);40.381843;-86.885783;6A;22
+BUS866;Twyckenham & 18th St (SW Corner);40.381587;-86.876566;6A;23
+BUS869;18th St & Normandy Dr (NW Corner);40.378214;-86.876233;6A;24
+BUS871;18th St & Ortman Ln (NW Corner);40.375111;-86.876154;6A;25
+BUS873;18th St & Bridgewater Circle (West Side);40.37098;-86.876132;6A;26
+BUS874;Valley Lakes Center on Vet Mem Pkwy S;40.367103;-86.87418;6A;27
+BUS875SW;Vet Mem Pkwy S & Regal Valley Dr;40.367103;-86.871341;6A;28
+BUS876;Foxfire Apts on Veterans Mem Pkwy S;40.367103;-86.868192;6A;29
+BUS877;Promenade Pkwy & Veterans Memorial Pkwy S;40.366733;-86.862837;6A;30
+BUS892;Pink Walrus Yogurt;40.366158;-86.861817;6A;31
+BUS893;Walmart (South Lafayette) (West of Entr);40.365249;-86.860616;6A;32
+BUS271;Purdue Memorial Union (PMU) on MD Blvd;40.424124;-86.91186;5;1
+BUS540;Pi Beta Phi (on Russell St);40.424541;-86.919075;5;2
+BUS805;Russell St & 2nd St (NE Corner);40.426444;-86.919076;5;3
+BUS810;Russell St & 4th St (SE Corner);40.428196;-86.919122;5;4
+BUS800;Russell St & 6th St (SE Corner);40.430238;-86.919107;5;5
+BUS190;Armstrong Hall on Stadium Ave (@ Shelter);40.43128;-86.915301;5;6
+BUS557;Physics Building;40.430362;-86.913149;5;7
+BUS538;Electrical Engineering (at Shelter);40.428627;-86.911277;5;8
+BUS950;Vine St & Wiggins St (SW Corner);40.426621;-86.908275;5;9
+BUS951;Wiggins St & Salisbury St (SW Corner);40.426558;-86.906066;5;10
+BUS602E;River Rd & Robinson St (NE corner);40.428378;-86.900634;5;11
+BUS460;Launch Apts (South Drive);40.430559;-86.899728;5;12
+BUS065;Launch Apts (North Drive);40.43199;-86.899091;5;13
+BUS600N;Happy Hollow Rd & Catherwood Dr (NE Corner);40.437101;-86.899303;5;14
+BUS123E;Nobb Hill Apts on Happy Hollow Rd (East);40.439615;-86.899217;5;15
+BUS597E;Happy Hollow Rd & Pathway Ln (SE Corner);40.446427;-86.899252;5;16
+BUS361SE;Happy Hollow Rd & Chippewa St (East Side);40.449891;-86.90086;5;17
+BUS595E;Happy Hollow Apts on Happy Hollow (East);40.451482;-86.902184;5;18
+BUS335;Soldiers Home Rd & Sharon Rd (NE Corner);40.454417;-86.902967;5;19
+BUS926;Soldiers Home Rd & Myrtle Dr (NW of);40.456509;-86.902931;5;20
+BUS613;Soldiers Home Rd & Hartman Ct (SE Corner);40.45955;-86.901461;5;21
+BUS936NE;Soldiers Home & Overlook Dr (NE Corner);40.460876;-86.900989;5;22
+BUS614;Soldiers Home Rd & Indian Rock Dr (S of);40.464187;-86.899669;5;23
+BUS616;Heritage Health Care (South Drive);40.466702;-86.89944;5;24
+BUS824;Soldiers Home Rd & Prophet Dr (S of);40.464266;-86.899888;5;25
+BUS215;CityBus Center;40.420711;-86.894808;4B;1
+BUS287NE;Columbia St & 2nd St (NE Corner);40.418268;-86.895332;4B;2
+BUS156;Wabash Landing on State St (at shelter);40.421014;-86.901421;4B;3
+BUS271;Purdue Memorial Union (PMU) on MD Blvd;40.424124;-86.91186;4B;4
+BUS547;Mitch Daniels Blv & Russell St (NE Corner);40.424234;-86.918942;4B;5
+BUS898;First Street Towers on Mitch Daniels Blvd;40.424317;-86.923096;4B;6
+BUS566;Purdue West on Mitch Daniels Blvd;40.424334;-86.929485;4B;7
+BUS504;Purdue West on McCormick Rd;40.427222;-86.930559;4B;8
+BUS251E;McCormick Rd & Stadium Ave (NE Corner);40.430131;-86.931639;4B;9
+BUS906E;Schwartz Tennis Cntr on McCormick Rd;40.436504;-86.936006;4B;10
+BUS393;SW Blackbird Farms Apt Buildings (E);40.442945;-86.942428;4B;11
+BUS236;McCormick Rd & Lindberg Rd (SE Corner);40.444768;-86.9435;4B;12
+BUS551;University Pl (at clubhouse);40.44735;-86.936948;4B;13
+BUS308;Village West Apts on Lindberg (at Shelter);40.44609;-86.940118;4B;14
+BUS300;Station 21 on Lindberg (@ Shelter);40.446097;-86.943515;4B;15
+BUS225;Connection Point Church;40.456454;-86.948642;4B;16
+BUS223;Lodge Apts on Cumberland Ave (@Shelter);40.459215;-86.939929;4B;17
+BUS403;Walmart West Lafayette (at Shelter);40.457475;-86.934142;4B;18
+BUS215;CityBus Center;40.420711;-86.894808;4A;1
+BUS265;South St & 4th St (SW Corner);40.417262;-86.893175;4A;2
+BUS329;South St & 5th St (SW Corner);40.417277;-86.891884;4A;3
+BUS351;Tippecanoe Co Public Library on South St;40.417265;-86.889434;4A;4
+BUS659;South St & 10th St (West of);40.417287;-86.886183;4A;5
+BUS661;South St & McGrath Ave (West of);40.417313;-86.883714;4A;6
+BUS206;South St & 14th St (SW Corner);40.417314;-86.881859;4A;7
+BUS939;South St & 16th St (SW Corner);40.417283;-86.878841;4A;8
+BUS391NW;Alabama St & Main St (NW Corner);40.416541;-86.877817;4A;9
+BUS444SW;Main St & Jackson St (SW Corner);40.41541;-86.876504;4A;10
+BUS482NW;Main St & Scott St (NW);40.41387;-86.874831;4A;11
+BUS947;Main St & Congress St (North of);40.411478;-86.872179;4A;12
+BUS216W;Main St & 24th St (West Side North of);40.409591;-86.87003;4A;13
+BUS663SE;Main St & S 25th St (SE Corner);40.407634;-86.867443;4A;14
+BUS664SE;Main St & S 28th St (SE Corner);40.405926;-86.865058;4A;15
+BUS531SW;Main St & Earl Ave (SW Corner);40.404968;-86.863717;4A;16
+BUS525;Main St & McCarty Ln (West Side);40.402702;-86.860563;4A;17
+BUS667;Lafayette Marketplace;40.4001;-86.8525;4A;18
+BUS141;SR 38/25 @ Shoe Carnival;40.396992;-86.852573;4A;19
+BUS948;Professional Ct & SR 38/25 (SW Corner);40.395101;-86.849922;4A;20
+BUS421SW;SR 38/25 & Kingsway Dr (SW Corner);40.39429;-86.848799;4A;21
+BUS672;Wendy's at Tippecanoe Mall (South Side);40.39329;-86.84865;4A;22
+BUS673;Dicks at Tippecanoe Mall;40.392557;-86.849441;4A;23
+BUS373;Tippecanoe Mall Entrance E;40.39168;-86.84966;4A;24
+BUS215;CityBus Center;40.420711;-86.894808;3;1
+BUS265;South St & 4th St (SW Corner);40.417262;-86.893175;3;2
+BUS329;South St & 5th St (SW Corner);40.417277;-86.891884;3;3
+BUS351;Tippecanoe Co Public Library on South St;40.417265;-86.889434;3;4
+BUS659;South St & 10th St (West of);40.417287;-86.886183;3;5
+BUS661;South St & McGrath Ave (West of);40.417313;-86.883714;3;6
+BUS206;South St & 14th St (SW Corner);40.417314;-86.881859;3;7
+BUS939;South St & 16th St (SW Corner);40.417283;-86.878841;3;8
+BUS391NW;Alabama St & Main St (NW Corner);40.416541;-86.877817;3;9
+BUS723;18th St & Center St (North of);40.414688;-86.877208;3;10
+BUS940;18th St & Larue St (South of);40.413216;-86.877175;3;11
+BUS724;18th St & Congress St (NW Corner);40.411472;-86.877183;3;12
+BUS725W;18th St & Adams St (NW Corner);40.408255;-86.876903;3;13
+BUS256S;State St & 18th (SE Corner);40.406144;-86.876705;3;14
+BUS726S;State St & 20th St (SW Corner);40.404728;-86.874446;3;15
+BUS727;State St & 22nd St (SW Corner);40.403033;-86.871919;3;16
+BUS378SW;Earl Ave & State St (SW Corner);40.401588;-86.869728;3;17
+BUS414;26th St & Gregory Ave (NW Corner);40.399156;-86.867093;3;18
+BUS311;Rural King on 26th St (at Shelter);40.396759;-86.86692;3;19
+BUS331;Teal Rd & 22nd St (East of);40.395513;-86.870401;3;20
+BUS963;18th St & Meadow Dr (South of);40.39441;-86.876543;3;21
+BUS469S;Georgetown Apts on Shoshone Dr;40.393376;-86.875047;3;22
+BUS409;Osage Dr & Shoshone Dr (SW Corner);40.393386;-86.872178;3;23
+BUS729;Iroquois Trl & Osage Dr (NW Corner);40.392032;-86.872321;3;24
+BUS428S;Iroquois Trl& Summerfield Dr (SW Corner);40.391847;-86.87129;3;25
+BUS730;Summerfield Dr & Hiawatha Ln (NW Corner);40.389653;-86.871167;3;26
+BUS416;Beck Ln & Summerfield Dr (NW Corner);40.388211;-86.87114;3;27
+BUS344;Beck Ln and Cayuga Trail (NE Corner);40.388169;-86.87512;3;28
+BUS155;Edgelea Elementary School on 18th St;40.387389;-86.876394;3;29
+BUS807W;18th St & Manitou Dr (NW Corner);40.385474;-86.876338;3;30
+BUS865;18th St & Eastway St (NW Corner);40.383615;-86.876287;3;31
+BUS354;Brady Ln & 18th St (East of);40.381665;-86.875543;3;32
+BUS707S;Brady Ln & Pipers Glen Dr (SW Corner);40.381673;-86.87249;3;33
+BUS449S;Brady Ln & Commanche Trl (SE Corner);40.381703;-86.868954;3;34
+BUS181;RRX on Brady Ln (SW Corner);40.381701;-86.866886;3;35
+BUS708;Brady Ln & Winter St (SW Corner);40.381722;-86.8651;3;36
+BUS301S;Pheasant Run Apts on Brady Ln (South);40.381781;-86.860865;3;37
+BUS710S;Village Pantry on Brady Ln (South);40.381793;-86.858888;3;38
+BUS712;Brady Ln & Reagan Dr (SW Corner);40.381815;-86.855686;3;39
+BUS711S;Brady Ln & Imperial Pkwy (SW Corner);40.38188;-86.849136;3;40
+BUS966;Griffin Hall on Creasy Ln;40.38352;-86.843006;3;41
+BUS142S;Ivy Tech on Creasy Ln (at Shelter);40.385448;-86.841398;3;42
+BUS941SE;Creasy Ln & Bonlou (SE Corner);40.387033;-86.840105;3;43
+BUS499;SR 38/25 & Creasy Ln (West of);40.389442;-86.839644;3;44
+BUS717;Guaranteed Transmission on SR 38/25;40.391429;-86.843658;3;45
+BUS376;Acorn Acres on SR 38/25;40.392881;-86.846413;3;46
+BUS672;Wendy's at Tippecanoe Mall (South Side);40.39329;-86.84865;3;47
+BUS673;Dicks at Tippecanoe Mall;40.392557;-86.849441;3;48
+BUS373;Tippecanoe Mall Entrance E;40.39168;-86.84966;3;49
+BUS215;CityBus Center;40.420711;-86.894808;2B;1
+BUS549S;Fowler Apartments on Ferry St;40.420002;-86.892429;2B;2
+BUS534S;Ferry St & 6th St (SW Corner);40.420012;-86.890841;2B;3
+BUS410SE;Brown St & 6th St (SE Corner);40.421726;-86.890629;2B;4
+BUS745;6th St & Cincinnati St (SE Corner);40.422628;-86.890628;2B;5
+BUS746;Tippecanoe Co. Health Dept. on 6th St;40.423334;-86.890629;2B;6
+BUS328;6th St & Union St (SE Corner);40.424635;-86.890666;2B;7
+BUS818;Union St & 8th St (SW Corner);40.424666;-86.888442;2B;8
+BUS844;Union St & 9th St (East of);40.424669;-86.886683;2B;9
+BUS821;Union St & 12th St (SW Corner);40.424682;-86.884209;2B;10
+BUS401;Union St & 14th St (SW Corner);40.424705;-86.882309;2B;11
+BUS822;Union St & 15th St (East of);40.42469;-86.880658;2B;12
+BUS441;Union St & 18th St (SW Corner);40.424685;-86.877434;2B;13
+BUS454;Stonecrest Apartments (at Shelter);40.424698;-86.87624;2B;14
+BUS848;21st St & Union St (Northeast of);40.425107;-86.872824;2B;15
+BUS825;21st St & Cobblestone Ct (SE Corner);40.426321;-86.872803;2B;16
+BUS325SE;21st St & Elmwood Ave (SE Corner);40.428594;-86.872905;2B;17
+BUS132;Elmwood Ave & Rainbow Dr (SW Corner);40.429233;-86.871725;2B;18
+BUS207;Wayne Terrace & Elmwood Ave (SW Corner);40.430566;-86.869053;2B;19
+BUS938;Elmwood Ave & 27th St (Southeast of);40.431912;-86.866304;2B;20
+BUS827;Elmwood Ave & 27th St (SE Corner);40.433234;-86.865243;2B;21
+BUS276;Vinton St & Elmwood Ave (SE Corner);40.434223;-86.863664;2B;22
+BUS829;Prairie Ln & Elmwood Ave (SE Corner);40.436178;-86.862116;2B;23
+BUS209;Elmwood Ave & Underwood St (SE Corner);40.43779;-86.862129;2B;24
+BUS009;The Cottages on Lindberg on Catalina Dr;40.450075;-86.941842;35;1
+BUS010;The Cottages on Lindberg on Mida Dr;40.449176;-86.941583;35;2
+BUS312;Station 21 Clubhouse;40.448048;-86.944417;35;3
+BUS567;Ford Hall on Stadium Ave;40.431386;-86.919999;35;4
+BUS557;Physics Building;40.430362;-86.913149;35;5
+BUS271;Purdue Memorial Union (PMU) on MD Blvd;40.424124;-86.91186;35;6
+BUS064;University Hall;40.4255;-86.914926;28;1
+BUS063;Stone Hall on Oval Dr;40.424251;-86.914949;28;2
+BUS584SE;1st St & Jischke Dr (East Corner);40.425177;-86.921882;28;3
+BUS282NE;MacArthur Dr & 1st St (NE Shelter);40.425558;-86.925678;28;4
+BUS470N;Hillenbrand Hall on 3rd St;40.427461;-86.926431;28;5
+BUS491W;McCutcheon Hall on McCutcheon;40.425564;-86.929035;28;6
+BUS566;Purdue West on Mitch Daniels Blvd;40.424334;-86.929485;28;7
+5417;Airport Rd & Harrison St (SE corner);40.421817;-86.930667;28;8
+BUS415;Purdue Airport Main Terminal;40.416524;-86.931223;28;9
+BUS146;Aviation Technology Bldg;40.416569;-86.929891;28;10
+BUS268E;Redpoint (on Cumberland Ave);40.453042;-86.958841;24;1
+BUS199;Rutherford Dr;40.447607;-86.962127;24;2
+BUS903;Klondike Rd & Rosewood Dr (NW Corner);40.443965;-86.961947;24;3
+BUS572;Klondike Rd & Georgeton Rd (NW Corner);40.44167;-86.962028;24;4
+BUS175;Klondike Rd & E Pine Ave;40.439885;-86.962048;24;5
+BUS902;Klondike Rd & Blueberry Ln (NW Corner);40.438505;-86.962016;24;6
+BUS176;Klondike Rd & SR 26;40.437258;-86.961965;24;7
+BUS173;SR 26 & Scarlett Dr (SW Corner);40.434184;-86.955558;24;8
+BUS168;Entomology Field Operations Building EFOB;40.429932;-86.948088;24;9
+BUS419;Mitch Daniels Blvd & Trailway Blvd (SW of);40.424129;-86.936679;24;10
+BUS566S;Purdue West on Mitch Daniels Blvd (South);40.424202;-86.929359;24;11
+BUS011;Aspire Apts at Discovery Park;40.4242;-86.925359;24;12
+BUS345;Lilly Hall on Mitch Daniels Blvd (shelter);40.424093;-86.917244;24;13
+BUS260;Krannert Grad School;40.423931;-86.911286;24;14
+BUS127;Tippecanoe County Community Corrections;40.456775;-86.876203;23;1
+BUS121;MAIL Inc;40.45141;-86.87723;23;2
+BUS145;Duncan & 9th St (West of);40.44697;-86.87958;23;3
+BUS122;McAllister Park;40.44019;-86.88508;23;4
+BUS160;Tick Tock Tavern;40.436664;-86.886507;23;5
+BUS152;River Walk Apartments on 9th St;40.435445;-86.8865;23;6
+BUS960;ZF Industries on 9th St;40.431393;-86.887204;23;7
+BUS987NW;9th St & Roberts St (NW Corner);40.429815;-86.887149;23;8
+BUS292NW;9th St & Hartford St (NW Corner);40.427752;-86.887086;23;9
+BUS380NW;Salem St & 9th St (NW Corner);40.425795;-86.887023;23;10
+BUS367;9th St & Union St (NW Corner @ Shelter);40.424802;-86.886986;23;11
+BUS783NW;9th St & Cincinnati St (NW Corner);40.422861;-86.886934;23;12
+BUS266;9th St & Ferry St (NW Corner);40.42007;-86.886897;23;13
+BUS243N;Columbia St & 7th St (NE Corner);40.418292;-86.888474;23;14
+BUS674;Columbia St & 6th St (NE Corner);40.41828;-86.89051;23;15
+BUS675;Columbia St & 5th St (NE Corner);40.41827;-86.89154;23;16
+BUS287NE;Columbia St & 2nd St (NE Corner);40.418268;-86.895332;23;17
+BUS156;Wabash Landing on State St (at shelter);40.421014;-86.901421;23;18
+BUS489;Wood St & River Rd (NW Corner);40.420205;-86.90565;23;19
+BUS186;River Rd & Williams St (NW Corner);40.418944;-86.90619;23;20
+BUS522;Williams St & Salisbury St (NE Corner);40.418477;-86.907737;23;21
+BUS290;Williams St & Grant St (NE Corner);40.418553;-86.91008;23;22
+BUS294;Grant Street Station Apts (@ Shelter);40.419584;-86.910194;23;23
+BUS321;Grant St & Wood St (SE Corner);40.422025;-86.910271;23;24
+BUS154;Young Hall on Grant St (East);40.423144;-86.910264;23;25
+BUS271;Purdue Memorial Union (PMU) on MD Blvd;40.424124;-86.91186;23;26
+BUS547;Mitch Daniels Blv & Russell St (NE Corner);40.424234;-86.918942;23;27
+BUS898;First Street Towers on Mitch Daniels Blvd;40.424317;-86.923096;23;28
+BUS491E;McCutcheon Hall on McCutcheon (@Shelter);40.425522;-86.928873;23;29
+BUS215;CityBus Center;40.420711;-86.894808;2A;1
+BUS549S;Fowler Apartments on Ferry St;40.420002;-86.892429;2A;2
+BUS534S;Ferry St & 6th St (SW Corner);40.420012;-86.890841;2A;3
+BUS532SW;Ferry St & 8th St (SW Corner);40.420021;-86.88853;2A;4
+BUS255;9th St & Ferry St (NE Corner);40.420262;-86.88675;2A;5
+BUS220SE;Brown St & 9th St (SE Corner);40.421732;-86.886787;2A;6
+BUS783SE;9th St & Cincinnati St (SE Corner);40.422775;-86.886793;2A;7
+BUS430;9th St & Union St (SE Corner);40.424623;-86.886871;2A;8
+BUS853;Salem St & 9th St (SE Corner);40.42558;-86.886886;2A;9
+BUS292SE;9th St & Hartford St (SE Corner);40.427619;-86.886944;2A;10
+BUS789SW;Hartford St & 12th St (SW Corner);40.427658;-86.884342;2A;11
+BUS546W;Hartford St & 14th St (at Shelter);40.427681;-86.882416;2A;12
+BUS847;Tippecanoe St & 14th (East of);40.42642;-86.88135;2A;13
+BUS488;Tippecanoe St & 17th St (SW Corner);40.426423;-86.879189;2A;14
+BUS451;Riggs Community Health Clinic (@ Shelter);40.428553;-86.878922;2A;15
+BUS849;17th St & Howell St (SE Corner);40.430051;-86.878944;2A;16
+BUS452;17th St & Greenbush St (SE Corner);40.431944;-86.878946;2A;17
+BUS330SW;Greenbush St & 18th St (SW Corner);40.432033;-86.877705;2A;18
+BUS850;Wabash Center on 20th St (at Shelter);40.432693;-86.874373;2A;19
+BUS851;20th St & Meharry St (SE Corner);40.433833;-86.874466;2A;20
+BUS852;20th St & Perrine St (SE Corner);40.435801;-86.874485;2A;21
+BUS274;Underwood St & 20th St (SE Corner);40.437714;-86.874494;2A;22
+BUS937;Underwood St & 22nd St (SW Corner);40.437727;-86.871381;2A;23
+BUS353;Underwood St & 24th St (NE Corner);40.437993;-86.869625;2A;24
+BUS854;24th St & Albany St (SE Corner);40.439786;-86.869642;2A;25
+BUS246;24th St & Schuyler Ave (South of);40.441819;-86.869635;2A;26
+BUS215;CityBus Center;40.420711;-86.894808;1B;1
+BUS564;4th St & Wall St (SE Corner);40.423778;-86.893044;1B;2
+BUS519W;Fannon & Salem St (NW Corner);40.42585;-86.891551;1B;3
+BUS359;E Fowler Ave & Littleton St (NW Corner);40.426663;-86.903828;1B;4
+BUS949;W Fowler Ave & Vine St (NW Corner);40.427654;-86.908238;1B;5
+BUS295;Wang Hall on Northwestern (at Crosswalk);40.429345;-86.911751;1B;6
+BUS530;Northwestern Ave & Stadium Ave (McDonalds);40.431117;-86.913622;1B;7
+BUS105;Northwestern Ave & Evergreen St (SE Corner);40.432242;-86.914828;1B;8
+BUS530S;Dodge St & Garfield St (SW Corner);40.433229;-86.912958;1B;9
+BUS622;Dodge St & Grant St (SW Corner);40.433183;-86.910508;1B;10
+BUS635;Stadium Ave & Vine St (SW Corner);40.430779;-86.908255;1B;11
+BUS061;Stadium Ave & Salisbury St (SW Corner);40.430746;-86.905845;1B;12
+BUS636SE;Salisbury St & Dehart St (SE Corner);40.4326;-86.905699;1B;13
+BUS333SE;Salisbury St & Robinson St (SE Corner);40.434932;-86.905752;1B;14
+BUS493;Salisbury St & Leslie Ave (NE Corner);40.437283;-86.906178;1B;15
+BUS637SE;Salisbury St & Rockland Dr (SE Corner);40.438935;-86.907444;1B;16
+BUS337NE;Salisbury St & Grant St (NE Corner);40.441836;-86.910783;1B;17
+BUS924E;Salisbury St & Riley Ln (East side);40.443404;-86.91284;1B;18
+BUS365SE;Salisbury St & Lindberg Rd (Southeast of);40.445537;-86.91398;1B;19
+BUS633SE;Salisbury St & Sycamore Ln (SE Corner);40.44808;-86.915671;1B;20
+BUS484;Salisbury St & Park Ridge Dr (SE Corner);40.450819;-86.915679;1B;21
+BUS610;Salisbury St & Kent Ave (north of);40.455428;-86.915589;1B;22
+BUS427;Westminster Village N & Salisbury (East);40.458611;-86.915573;1B;23
+BUS418;Cumberland Ave & Salisbury St (West of);40.460496;-86.916281;1B;24
+BUS594;Cumberland Pointe on Cumberland Ave (North);40.460557;-86.918859;1B;25
+BUS541;Cumberland Ave & Browning St (NE Corner);40.460708;-86.921175;1B;26
+BUS218NE;Cumberland Ave & Yeager Rd (East of);40.460755;-86.924131;1B;27
+BUS455N;Salem Courthouse Apts (at Shelter);40.460743;-86.92679;1B;28
+BUS511NE;Cumberland Ave & Kent Ave (West of);40.460704;-86.929845;1B;29
+BUS137;Quality Inn on Cumberland Ave (NE Corner);40.459544;-86.935009;1B;30
+BUS403;Walmart West Lafayette (at Shelter);40.457475;-86.934142;1B;31
+BUS215;CityBus Center;40.420711;-86.894808;1A;1
+BUS744;Brown St & 5th St (SW Corner);40.421806;-86.892012;1A;2
+BUS410SW;Brown St & 6th St (SW Corner);40.421828;-86.890795;1A;3
+BUS745;6th St & Cincinnati St (SE Corner);40.422628;-86.890628;1A;4
+BUS746;Tippecanoe Co. Health Dept. on 6th St;40.423334;-86.890629;1A;5
+BUS328;6th St & Union St (SE Corner);40.424635;-86.890666;1A;6
+BUS853;Salem St & 9th St (SE Corner);40.42558;-86.886886;1A;7
+BUS292SE;9th St & Hartford St (SE Corner);40.427619;-86.886944;1A;8
+BUS987SE;9th St & Roberts St (SE Corner);40.429682;-86.886999;1A;9
+BUS512;Greenbush St & 9th St (SE Corner);40.43206;-86.887066;1A;10
+BUS921;Linnwood Park at Greenbush St;40.432046;-86.880608;1A;11
+BUS330SW;Greenbush St & 18th St (SW Corner);40.432033;-86.877705;1A;12
+BUS230S;Greenbush Crossing Apartments;40.432045;-86.873718;1A;13
+BUS245SW;Market Square (WEST) on Greenbush St;40.432046;-86.870901;1A;14
+BUS245SE;Market Square (EAST) on Greenbush St;40.432073;-86.869138;1A;15
+BUS278SW;Greenbush St & Elmwood Ave (SW Corner);40.43207;-86.866879;1A;16
+BUS453;Greenbush St & 28th St (East of);40.432066;-86.863282;1A;17
+BUS231S;Greenbush St & Sagamore Pkwy N (SW Corner);40.432084;-86.859863;1A;18
+BUS753;RRX on Greenbush St (SW Corner);40.432073;-86.856885;1A;19
+BUS526SW;Greenbush St & Chauncey Court (SW Corner);40.432063;-86.847826;1A;20
+BUS513;Greenbush St & Shenandoah Dr (SW Corner);40.4321;-86.845051;1A;21
+BUS050;Munger Trl on Shenandoah Dr (West Side);40.428971;-86.844955;1A;22
+BUS757NW;Shenandoah Dr & Navarre Dr (NW Corner);40.426659;-86.847272;1A;23
+BUS485;Shenandoah Dr & Union St (NW Corner);40.425154;-86.847215;1A;24
+BUS920NW;Shenandoah Dr & Claremont Ln (NW Corner);40.423147;-86.847186;1A;25
+BUS759W;Shenandoah Dr & Driftwood Dr (SW Corner);40.421454;-86.8465;1A;26
+BUS820;Rome Dr & Shenandoah Dr (SE Corner);40.420526;-86.845731;1A;27
+BUS760;Rome Dr & Executive Dr (SE Corner);40.420518;-86.843567;1A;28
+BUS468;Rome Dr & Creasy Ln (SW Corner);40.420794;-86.839143;1A;29
+BUS192;Creasy Ln & South St (West Side North of);40.417871;-86.839167;1A;30
+BUS771;Starbucks Coffee on Creasy Ln;40.414896;-86.839022;1A;31
+BUS763W;Creasy Ln & Fortune Dr (Southwest of);40.411137;-86.838907;1A;32
+BUS775SW;Stinger St & Harper Dr (SW Corner);40.40628;-86.838117;1A;33
+BUS200S;Harper Dr & Julia Ln (SW Corner);40.406356;-86.834434;1A;34
+BUS765NW;Julia Ln & Sickle Ct (NW Corner);40.404807;-86.835359;1A;35
+BUS766W;Sickle Ct & McCarty Ln (NW Corner);40.403155;-86.834336;1A;36
+BUS774N;McCarty Ln & Emerald Pines Ct (NE Corner);40.403042;-86.836568;1A;37
+BUS768;Creasy Ln & Burberry Dr (NW Corner);40.400886;-86.838607;1A;38
+BUS769NW;Creasy Ln & Amelia Ave (NW Corner);40.398339;-86.838554;1A;39
+BUS770NW;Creasy Ct & Creasy Ln (NW Corner);40.396386;-86.838511;1A;40
+BUS915;Creasy Ln & St. Francis Way (NW);40.392549;-86.838465;1A;41
+BUS499N;Creasy Ln & SR 38/25 (North of);40.3894;-86.838636;1A;42
+BUS499;SR 38/25 & Creasy Ln (West of);40.389442;-86.839644;1A;43
+BUS717;Guaranteed Transmission on SR 38/25;40.391429;-86.843658;1A;44
+BUS376;Acorn Acres on SR 38/25;40.392881;-86.846413;1A;45
+BUS672;Wendy's at Tippecanoe Mall (South Side);40.39329;-86.84865;1A;46
+BUS673;Dicks at Tippecanoe Mall;40.392557;-86.849441;1A;47
+BUS373;Tippecanoe Mall Entrance E;40.39168;-86.84966;1A;48
