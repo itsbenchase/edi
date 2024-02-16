@@ -1,3 +1,5 @@
+Dempster;14.14;1.3;Pulse Dempster;Main
+Milwaukee;6.65;1.0;Pulse Milwaukee Line;Main
 208;24.27;1.34;208: Golf Rd;Main
 209;6.74;1.17;209: Busse Hwy;Main
 210;13.55;1.46;210: Lincoln Ave;Main
@@ -93,12 +95,54 @@
 540;7.1;1.2;540: Farnsworth Ave;Main
 543;7.4;1.25;543: Dundee - Carpentersville;Main
 543-D;2.63;1.13;543: Dundee - Carpentersville;D: to Blackhawk
+546;2.92;1.71;546: Orange - Walnut;Main
+546-C;3.39;1.61;546: Orange - Walnut;C: via Elgin Community College
+547;2.94;1.36;547: Wing Park;Main
+547-L;2.71;1.45;547: Wing Park;L: via Kimball and Douglas
+547-R;4.04;1.53;547: Wing Park;R: to Fletcher
+548;2.96;1.39;548: Highland;Main
 549;6.93;2.27;549: South Randall;Main
 549-C;9.0;2.95;549: South Randall;C: via Bowes
+550;16.43;1.14;550: Elgin Transportation Center - Crystal Lake;Main
+552;6.55;1.46;552: North State - Spring Hill Mall;Main
+554;19.49;1.52;554: Elgin - Woodfield;Main
+559;11.44;1.26;559: Illinois Route 59;Main
+559-mall;5.2;1.37;559: Illinois Route 59;to Fox Valley Mall
+561;6.22;1.55;561: Castlecrest via McAree;Main
+562;7.64;1.88;562: Gurnee via Sunset;Main
+563;5.68;1.22;563: Great Lakes Naval Station;Main
+564;7.13;1.91;564: Jackson / 14th;Main
+565;12.86;1.37;565: Grand Ave;Main
+566;6.83;1.28;566: McAree - Keller;Main
+568;7.16;1.92;568: Belvidere;Main
+569;8.19;1.12;569: Lewis;Main
+570;13.17;1.47;570: Fox Lake - CLC;Main
+571;8.12;1.19;571: Zion;Main
+572;9.75;1.04;572: Washington;Main
+573;8.08;1.52;573: Green Bay Road;Main
+574;15.08;1.78;574: CLC - Hawthorn Mall;Main
 603;24.01;1.08;603: Elgin TC - Rosemont;Main
+604;11.69;1.71;604: Wheeling - Schaumburg;Main
+605;25.6;1.01;605: I-90/Randall Rd. Station - Rosemont Express;Main
+606;12.27;1.24;606: Rosemont - Schaumburg Limited;Main
+607;15.76;1.01;607: I-90/Randall Rd. Station - Schaumburg Express;Main
+626;19.79;1.43;626: Skokie - Buffalo Grove Limited;Main
+697;3.67;1.12;697: Northwest Transportation Center - Harper College;Main
+714;11.42;1.87;714: College of DuPage - Naperville - Wheaton Connector;Main
 711;17.99;2.31;711: Wheaton - Addison;Main
 715;27.86;1.72;715: Central DuPage;Main
+722;12.68;1.76;722: Ogden Avenue;Main
+755;35.15;1.02;755: Plainfield - IMD - West Loop Express;Main
+801;16.0;1.48;801: Elgin - Geneva;Main
+802-geneva;10.3;1.26;802: Aurora - Geneva via Lake;to Geneva Metra
+802-kane;13.89;1.4;802: Aurora - Geneva via Lake;to Kane County Judicial Center
+803;4.95;1.89;803: Carpentersville Local;Main
+806;20.98;1.65;806: Crystal Lake - Fox Lake;Main
 807;16.45;1.87;807: Woodstock - McHenry;Main
 808;25.44;1.31;808: Crystal Lake - Harvard;Main
+832;19.0;1.42;832: Joliet - Orland Park;Main
+834;29.08;1.35;834: Joliet - Downers Grove;Main
+850;39.73;1.11;850: North Bolingbrook - East Loop Express;Main
+855;37.17;1.04;855: Plainfield - East Loop Express;Main
+890;25.44;1.2;890: Chicago Heights - UPS Hodgkins Limited;Main
 905;2.22;1.59;905: Schaumburg Trolley;Main
-Pulse;6.65;1.0;Pulse Milwaukee Line;Main
