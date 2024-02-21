@@ -50,13 +50,6 @@
 			<width>4.0</width> 
 		</LineStyle> 
 	</Style>
-		<LineString> 
-			<coordinates>
-			-77.163666,39.120564,0
-			-77.261032,39.183024,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
 	<Placemark> 
 		<name>81: Rockville - White Flint</name>
 		<styleUrl>#1.5</styleUrl>
