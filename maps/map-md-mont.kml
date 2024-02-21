@@ -50,10 +50,6 @@
 			<width>4.0</width> 
 		</LineStyle> 
 	</Style>
-	<Placemark> 
-		<name>100: Shady Grove - Germantown Transit Ctr</name>
-		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.0</description>
 		<LineString> 
 			<coordinates>
 			-77.163666,39.120564,0
