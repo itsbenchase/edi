@@ -49,10 +49,10 @@ public class StatsList
       fileWriter1.append("<h1>Statistics</h1> \n");
 
       // listing with links at top
-      fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#global>Entire Database</a></ul> \n");
+      fileWriter1.append("<ul class=bullet style=background-color:#1f1f1f><a href=#global>Entire Database</a></ul> \n");
       for (int i = 0; i < agencies.size(); i++)
       {
-        fileWriter1.append("<ul class=bullet style=background-color:#d9ffde><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a> (" + agencies.get(i) + ")</ul> \n");
+        fileWriter1.append("<ul class=bullet style=background-color:#1f1f1f><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a> (" + agencies.get(i) + ")</ul> \n");
       }
 
       fileWriter1.append("<h3 id=global>Enitre Database</h3> \n");

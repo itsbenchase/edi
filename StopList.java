@@ -87,7 +87,7 @@ public class StopList
 
         for (int j = 0; j < stopID.size(); j++)
         {
-          fileWriter1.append("<tr><td style=color:red>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
+          fileWriter1.append("<tr><td style=color:#1aab2d>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
           agencyStops++;
           stopCounter++;
         }
@@ -122,7 +122,7 @@ public class StopList
 
       for (int a = 0; a < agencies.size(); a++)
       {
-        fileWriter2.append("<ul class=bullet style=background-color:#d9ffde><a href=stops/" + agencies.get(a) + ".html>" + fullAgencies.get(a) + "</a> (" + agencies.get(a) + ")</ul> \n");
+        fileWriter2.append("<ul class=bullet style=background-color:#1f1f1f><a href=stops/" + agencies.get(a) + ".html>" + fullAgencies.get(a) + "</a> (" + agencies.get(a) + ")</ul> \n");
       }
 
       fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");

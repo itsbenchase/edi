@@ -1,6 +1,6 @@
 html
 {
-    background-color: #d9ffde;
+    background-color: #1f1f1f;
 }
 
 @font-face {
@@ -18,12 +18,16 @@ select
 {
     font-family: sourcesans;
     font-size: 16pt;
+    color: #ffffff;
+    background-color: #373737;
 }
 
 option
 {
     font-family: sourcesans;
     font-size: 16pt;
+    color: #ffffff;
+    background-color: #373737;
 }
 
 button
@@ -50,6 +54,7 @@ p
 {
     font-family: sourcesans;
     font-size: 16pt;
+    color: #ffffff;
 }
 
 table
@@ -62,6 +67,7 @@ th, td
 {
     padding-left: 10px;
     padding-right: 10px;
+    color: #ffffff;
 }
 
 a:link
@@ -85,7 +91,7 @@ ul
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #bcf5c4;
+    background-color: #2c2929;
 }
   
 li 
@@ -100,6 +106,7 @@ li
     float: none;
     font-family: sourcesans;
     font-size: 16pt;
+    color: #ffffff;
 }
   
 li a 
@@ -112,5 +119,5 @@ li a
 
 .active
 {
-    background-color: #ace8b4;
+    background-color: #373737;
 }
