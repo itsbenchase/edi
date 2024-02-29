@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly annotationProcessor('org.projectlombok:lombok:1.18.30')
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+application {
+    mainClass = 'org.eliotindex.Application'
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": application.mainClass
+    }
+}
