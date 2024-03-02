@@ -16,6 +16,7 @@ class Update {
 		Generators.routeList();
 		Generators.fullMap();
 		Generators.agencyMap();
+		//Generators.stopMap();
 		Generators.statsList();
 		Stats.generate();
 

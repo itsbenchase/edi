@@ -12,6 +12,7 @@ import java.nio.file.Paths;
 import java.util.*;
 
 public class Generators {
+	@SuppressWarnings("SpellCheckingInspection")
 	private static Document getAgencyMap(String agency) {
 		ArrayList<Stop> stops = Util.getAgencyRouteStops(agency);
 		if (stops.isEmpty()) return null;
@@ -19,16 +20,17 @@ public class Generators {
 		ArrayList<Route> routes = Util.getAgencyEdis(agency);
 		Document document = new Document().withName(agency + " routes");
 
-		Map.of(
-				"1.0", "ff10c283",
-				"1.5", "ff195c03",
-				"2.0", "ffa0ad10",
-				"2.5", "ffad4902",
-				"3.0", "ffbf1d7e",
-				"3.5", "ff6e0cb0",
-				"4.0", "ff190177",
-				"10.0", "ff000000"
-		).forEach((id, color) -> document.createAndAddStyle()
+		LinkedHashMap<String, String> styles = new LinkedHashMap<>();
+		styles.put("1.0", "ff10c283");
+		styles.put("1.5", "ff195c03");
+		styles.put("2.0", "ffa0ad10");
+		styles.put("2.5", "ffad4902");
+		styles.put("3.0", "ffbf1d7e");
+		styles.put("3.5", "ff6e0cb0");
+		styles.put("4.0", "ff190177");
+		styles.put("10.0", "ff000000");
+
+		styles.forEach((id, color) -> document.createAndAddStyle()
 				.withId(id)
 				.createAndSetLineStyle()
 				.withColor(color)
@@ -719,46 +721,26 @@ public class Generators {
 		}
 	}
 
+	@SuppressWarnings("unused")
 	static void stopMap() {
 		ArrayList<String> agencies = Util.getAgencyIds();
 
 		for (String agency : agencies) {
 			ArrayList<Stop> load = Util.getAgencyStops(agency);
-			ArrayList<String> maps = new ArrayList<>();
 
-			maps.add("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
-			maps.add("<kml xmlns=\"http://www.opengis.net/kml/2.2\">");
-			maps.add("<Document> \n\t<name>" + agency + " stops</name>");
-			maps.add("\t<Style id=\"stop\"> \n\t\t<IconStyle> \n\t\t\t<scale>0.5</scale> \n\t\t\t<Icon> \n\t\t\t\t<href>icon.png</href> \n\t\t\t</Icon> \n\t\t</IconStyle> \n\t</Style>");
-			maps.add("\t<Placemark> \n\t\t<styleUrl>#stop</styleUrl>");
-			maps.add("\t\t<description>Name: " + load.get(0).getName() + "<br/>ID: " + load.get(0).getId() + "</description>");
-			maps.add("\t\t<Point> \n\t\t\t<coordinates>");
-			maps.add("\t\t\t" + load.get(0).getLon() + "," + load.get(0).getLat() + ",0");
+			Kml kml = new Kml();
+			Document document = kml.createAndSetDocument().withName(agency + " stops");
 
-			for (int i = 1; i < load.size(); i++) {
-				maps.add("\t\t\t</coordinates> \n\t\t</Point> \n\t</Placemark>");
-				maps.add("\t<Placemark> \n\t\t<styleUrl>#stop</styleUrl>");
-				maps.add("\t\t<description>Name: " + load.get(i).getName() + "<br/>ID: " + load.get(i).getId() + "</description>");
-				maps.add("\t\t<Point> \n\t\t\t<coordinates>");
-				maps.add("\t\t\t" + load.get(i).getLon() + "," + load.get(i).getLat() + ",0");
+			Style style = document.createAndAddStyle().withId("stop");
+			style.createAndSetIconStyle().withScale(0.5);
+
+			for (Stop stop : load) {
+				Placemark placemark = document.createAndAddPlacemark().withStyleUrl("#stop")
+						.withDescription("Name: " + stop.getName() + "<br/>ID: " + stop.getId());
+				placemark.createAndSetPoint().addToCoordinates(stop.getLon(), stop.getLat(), 0);
 			}
 
-			maps.add("\t\t\t</coordinates> \n\t\t</Point> \n\t</Placemark> \n</Document> \n</kml>");
-
-			try {
-				File newFile1 = new File("public/maps/stops/map-" + agency + ".kml");
-				FileWriter fileWriter1 = new FileWriter(newFile1);
-
-				fileWriter1.write(maps.get(0) + "\n");
-
-				for (int i = 1; i < maps.size(); i++) {
-					fileWriter1.append(maps.get(i)).append("\n");
-				}
-
-				fileWriter1.close();
-			} catch (Exception e) {
-				System.out.println("Error.");
-			}
+			writeKmlFile(document, "public/maps/stops/map-" + agency + ".kml");
 		}
 	}
 }

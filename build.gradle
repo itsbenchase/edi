@@ -1,7 +1,15 @@
-plugins {
-    id 'java'
-    id 'application'
+buildscript {
+    repositories {
+        gradlePluginPortal()
+    }
+    dependencies {
+        classpath 'com.github.johnrengelman:shadow:8.1.1'
+    }
 }
+
+apply plugin: 'com.github.johnrengelman.shadow'
+apply plugin: 'java'
+apply plugin: 'application'
 
 repositories {
     mavenCentral()
@@ -24,7 +32,7 @@ application {
 
 jar {
     manifest {
-        attributes "Main-Class": application.mainClass
+        attributes 'Main-Class': application.mainClass
     }
 }
 

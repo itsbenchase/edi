@@ -18,14 +18,16 @@ public class Application {
 		String choice = s.nextLine();
 
 		switch (choice.toLowerCase()) {
-			case "calc" -> Calculator.run();
-			case "search" -> StopSearch.run();
-			case "update" -> Update.update();
 			case "add" -> AddStop.add();
+			case "calc" -> Calculator.run();
 			case "codetoname" -> CodeToName.run();
-			case "stopmap" -> Generators.stopMap();
 			case "hasindex" -> HasIndex.run();
 			case "importindex" -> ImportIndex.run();
+			case "request" -> Request.run();
+			case "search" -> StopSearch.run();
+			case "segment" -> Segment.run();
+			case "stopinfo" -> StopInfo.run();
+			case "update" -> Update.update();
 		}
 	}
 }
