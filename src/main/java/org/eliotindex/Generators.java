@@ -1,109 +1,94 @@
 package org.eliotindex;
 
+import de.micromata.opengis.kml.v_2_2_0.*;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Scanner;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.*;
 
 public class Generators {
+	private static Document getAgencyMap(String agency) {
+		ArrayList<Stop> stops = Util.getAgencyRouteStops(agency);
+		if (stops.isEmpty()) return null;
+
+		ArrayList<Route> routes = Util.getAgencyEdis(agency);
+		Document document = new Document().withName(agency + " routes");
+
+		Map.of(
+				"1.0", "ff10c283",
+				"1.5", "ff195c03",
+				"2.0", "ffa0ad10",
+				"2.5", "ffad4902",
+				"3.0", "ffbf1d7e",
+				"3.5", "ff6e0cb0",
+				"4.0", "ff190177",
+				"10.0", "ff000000"
+		).forEach((id, color) -> document.createAndAddStyle()
+				.withId(id)
+				.createAndSetLineStyle()
+				.withColor(color)
+				.withWidth(4.0));
+
+		for (Route route : routes) {
+			double style = 10.0;
+
+			if (route.getEdi() <= 10.0) {
+				style = Math.min(Math.floor(route.getEdi() * 2) / 2, 4.0);
+			}
+
+			String description = "Branch: " + route.getBranch() + "<br/>" +
+					"Agency: " + agency + "<br/>" +
+					"EDI: " + route.getEdi();
+
+			List<Coordinate> coordinates = new ArrayList<>();
+			for (Stop stop : stops) {
+				if (stop.getLine().equals(route.getLineCode())) {
+					coordinates.add(new Coordinate(stop.getLon(), stop.getLat()));
+				}
+			}
+			Placemark placemark = new Placemark()
+					.withName(route.getLineName())
+					.withStyleUrl("#" + style)
+					.withDescription(description);
+			placemark.createAndSetLineString().withCoordinates(coordinates);
+
+
+			document.addToFeature(placemark);
+		}
+
+		return document;
+	}
+
+	private static void writeKmlFile(Feature feature, String filePath) {
+		try {
+			Kml kml = new Kml().withFeature(feature);
+			kml.marshal(new File(filePath));
+
+			Path path = Paths.get(filePath);
+			String content = new String(Files.readAllBytes(path));
+			content = content.replaceAll("kml:", "");
+			Files.write(path, content.getBytes());
+		} catch (IOException e) {
+			System.out.println("Error writing map.");
+		}
+	}
+
 	/**
 	 * Creates individual agency maps
 	 */
 	static void agencyMap() {
 		ArrayList<String> agencies = Util.getAgencyIds();
 
-		for (int a = 0; a < agencies.size(); a++) {
-			ArrayList<Stop> load = Util.getAgencyRouteStops(agencies.get(a));
-			ArrayList<Route> routes = Util.getAgencyEdis(agencies.get(a));
-			ArrayList<String> maps = Util.mapInit(agencies.get(a) + " routes");
+		for (String agency : agencies) {
+			Document document = getAgencyMap(agency);
+			if (document == null) continue;
 
-			for (Route route : routes) {
-				if (load.get(0).getLine().equals(route.getLineCode())) {
-					maps.add("\t<Placemark> \n\t\t<name>" + route.getLineName() + "</name>");
-
-					// yeah yeah i gotta do this twice
-					if (route.getEdi() >= 1.0 && route.getEdi() < 1.5) {
-						maps.add("\t\t<styleUrl>#1.0</styleUrl>");
-					} else if (route.getEdi() >= 1.5 && route.getEdi() < 2.0) {
-						maps.add("\t\t<styleUrl>#1.5</styleUrl>");
-					} else if (route.getEdi() >= 2.0 && route.getEdi() < 2.5) {
-						maps.add("\t\t<styleUrl>#2.0</styleUrl>");
-					} else if (route.getEdi() >= 2.5 && route.getEdi() < 3.0) {
-						maps.add("\t\t<styleUrl>#2.5</styleUrl>");
-					} else if (route.getEdi() >= 3.0 && route.getEdi() < 3.5) {
-						maps.add("\t\t<styleUrl>#3.0</styleUrl>");
-					} else if (route.getEdi() >= 3.5 && route.getEdi() < 4.0) {
-						maps.add("\t\t<styleUrl>#3.5</styleUrl>");
-					} else if (route.getEdi() >= 4.0 && route.getEdi() < 10.0) {
-						maps.add("\t\t<styleUrl>#4.0</styleUrl>");
-					} else // (routes.get(j).getEdi() >= 10.0)
-					{
-						maps.add("\t\t<styleUrl>#10.0</styleUrl>");
-					}
-
-					maps.add("\t\t<description>Branch: " + route.getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + route.getEdi() + "</description>");
-				}
-			}
-
-			maps.add("\t\t<LineString> \n\t\t\t<coordinates>");
-			maps.add("\t\t\t" + load.get(0).getLon() + "," + load.get(0).getLat() + ",0");
-			for (int i = 1; i < load.size(); i++) {
-				if (load.get(i).getLine().equals(load.get(i - 1).getLine())) {
-					maps.add("\t\t\t" + load.get(i).getLon() + "," + load.get(i).getLat() + ",0");
-				} else {
-					maps.add("\t\t\t</coordinates> \n\t\t</LineString> \n\t</Placemark>");
-
-					for (Route route : routes) {
-						if (load.get(i).getLine().equals(route.getLineCode())) {
-							maps.add("\t<Placemark> \n\t\t<name>" + route.getLineName() + "</name>");
-
-							if (route.getEdi() >= 1.0 && route.getEdi() < 1.5) {
-								maps.add("\t\t<styleUrl>#1.0</styleUrl>");
-							} else if (route.getEdi() >= 1.5 && route.getEdi() < 2.0) {
-								maps.add("\t\t<styleUrl>#1.5</styleUrl>");
-							} else if (route.getEdi() >= 2.0 && route.getEdi() < 2.5) {
-								maps.add("\t\t<styleUrl>#2.0</styleUrl>");
-							} else if (route.getEdi() >= 2.5 && route.getEdi() < 3.0) {
-								maps.add("\t\t<styleUrl>#2.5</styleUrl>");
-							} else if (route.getEdi() >= 3.0 && route.getEdi() < 3.5) {
-								maps.add("\t\t<styleUrl>#3.0</styleUrl>");
-							} else if (route.getEdi() >= 3.5 && route.getEdi() < 4.0) {
-								maps.add("\t\t<styleUrl>#3.5</styleUrl>");
-							} else if (route.getEdi() >= 4.0 && route.getEdi() < 10.0) {
-								maps.add("\t\t<styleUrl>#4.0</styleUrl>");
-							} else // (routes.get(j).getEdi() >= 10.0)
-							{
-								maps.add("\t\t<styleUrl>#10.0</styleUrl>");
-							}
-
-							maps.add("\t\t<description>Branch: " + route.getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + route.getEdi() + "</description>");
-						}
-					}
-					maps.add("\t\t<LineString> \n\t\t\t<coordinates>");
-					maps.add("\t\t\t" + load.get(i).getLon() + "," + load.get(i).getLat() + ",0");
-				}
-			}
-			maps.add("\t\t\t</coordinates> \n\t\t</LineString> \n\t</Placemark> \n</Document> \n</kml>");
-
-			try {
-				File newFile1 = new File("maps/map-" + agencies.get(a) + ".kml");
-				FileWriter fileWriter1 = new FileWriter(newFile1);
-
-				fileWriter1.write(maps.get(0) + "\n");
-
-				for (int i = 1; i < maps.size(); i++) {
-					fileWriter1.append(maps.get(i)).append("\n");
-				}
-
-				fileWriter1.close();
-			} catch (Exception e) {
-				System.out.println("Error.");
-			}
-
-			System.out.println("Agency Maps: " + (a + 1) + " / " + agencies.size());
+			writeKmlFile(document, "public/maps/map-" + agency + ".kml");
 		}
 	}
 
@@ -112,101 +97,15 @@ public class Generators {
 	 */
 	static void fullMap() {
 		ArrayList<String> agencies = Util.getAgencyIds();
-		ArrayList<String> maps = Util.mapInit("Eliot Deviation Index Routes");
+		Folder folder = new Folder().withName("Eliot Deviation Index Routes");
 
-		for (int a = 0; a < agencies.size(); a++) {
-			ArrayList<Stop> load = Util.getAgencyRouteStops(agencies.get(a));
-			ArrayList<Route> routes = Util.getAgencyEdis(agencies.get(a));
-
-			maps.add("\t<Document> \n\t\t<name>" + agencies.get(a) + " routes</name>");
-			// colors for groups of EDI values
-			for (Route stop : routes) {
-				if (load.get(0).getLine().equals(stop.getLineCode())) {
-					maps.add("\t\t<Placemark> \n\t\t\t<name>" + stop.getLineName() + "</name>");
-
-					// yeah yeah i gotta do this twice
-					if (stop.getEdi() >= 1.0 && stop.getEdi() < 1.5) {
-						maps.add("\t\t\t<styleUrl>#1.0</styleUrl>");
-					} else if (stop.getEdi() >= 1.5 && stop.getEdi() < 2.0) {
-						maps.add("\t\t\t<styleUrl>#1.5</styleUrl>");
-					} else if (stop.getEdi() >= 2.0 && stop.getEdi() < 2.5) {
-						maps.add("\t\t\t<styleUrl>#2.0</styleUrl>");
-					} else if (stop.getEdi() >= 2.5 && stop.getEdi() < 3.0) {
-						maps.add("\t\t\t<styleUrl>#2.5</styleUrl>");
-					} else if (stop.getEdi() >= 3.0 && stop.getEdi() < 3.5) {
-						maps.add("\t\t\t<styleUrl>#3.0</styleUrl>");
-					} else if (stop.getEdi() >= 3.5 && stop.getEdi() < 4.0) {
-						maps.add("\t\t\t<styleUrl>#3.5</styleUrl>");
-					} else if (stop.getEdi() >= 4.0 && stop.getEdi() < 10.0) {
-						maps.add("\t\t<styleUrl>#4.0</styleUrl>");
-					} else // (routes.get(j).getEdi() >= 10.0)
-					{
-						maps.add("\t\t<styleUrl>#10.0</styleUrl>");
-					}
-
-					maps.add("\t\t\t<description>Branch: " + stop.getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + stop.getEdi() + "</description>");
-				}
-			}
-
-			maps.add("\t\t\t<LineString> \n\t\t\t\t<coordinates>");
-			maps.add("\t\t\t\t" + load.get(0).getLon() + "," + load.get(0).getLat() + ",0 ");
-			for (int i = 1; i < load.size(); i++) {
-				if (load.get(i).getLine().equals(load.get(i - 1).getLine())) {
-					maps.set(maps.size() - 1, maps.get(maps.size() - 1) + load.get(i).getLon() + "," + load.get(i).getLat() + ",0 ");
-				} else {
-					maps.add("\t\t\t\t</coordinates> \n\t\t\t</LineString> \n\t\t</Placemark>");
-
-					for (Route route : routes) {
-						if (load.get(i).getLine().equals(route.getLineCode())) {
-							maps.add("\t\t<Placemark> \n\t\t\t<name>" + route.getLineName() + "</name>");
-
-							if (route.getEdi() >= 1.0 && route.getEdi() < 1.5) {
-								maps.add("\t\t\t<styleUrl>#1.0</styleUrl>");
-							} else if (route.getEdi() >= 1.5 && route.getEdi() < 2.0) {
-								maps.add("\t\t\t<styleUrl>#1.5</styleUrl>");
-							} else if (route.getEdi() >= 2.0 && route.getEdi() < 2.5) {
-								maps.add("\t\t\t<styleUrl>#2.0</styleUrl>");
-							} else if (route.getEdi() >= 2.5 && route.getEdi() < 3.0) {
-								maps.add("\t\t\t<styleUrl>#2.5</styleUrl>");
-							} else if (route.getEdi() >= 3.0 && route.getEdi() < 3.5) {
-								maps.add("\t\t\t<styleUrl>#3.0</styleUrl>");
-							} else if (route.getEdi() >= 3.5 && route.getEdi() < 4.0) {
-								maps.add("\t\t\t<styleUrl>#3.5</styleUrl>");
-							} else if (route.getEdi() >= 4.0 && route.getEdi() < 10.0) {
-								maps.add("\t\t<styleUrl>#4.0</styleUrl>");
-							} else // (routes.get(j).getEdi() >= 10.0)
-							{
-								maps.add("\t\t<styleUrl>#10.0</styleUrl>");
-							}
-
-							maps.add("\t\t\t<description>Branch: " + route.getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + route.getEdi() + "</description>");
-						}
-					}
-					maps.add("\t\t\t<LineString> \n\t\t\t\t<coordinates>");
-					maps.add("\t\t\t" + load.get(i).getLon() + "," + load.get(i).getLat() + ",0 ");
-				}
-			}
-			maps.add("\t\t\t\t</coordinates> \n\t\t\t</LineString> \n\t\t</Placemark> \n\t</Document>");
-
-			System.out.println("Full Map: " + (a + 1) + " / " + agencies.size());
+		for (String agency : agencies) {
+			Document document = getAgencyMap(agency);
+			if (document == null) continue;
+			folder.addToFeature(document);
 		}
 
-		maps.add("</Folder></kml>");
-
-		try {
-			File newFile1 = new File("maps/map-all.kml");
-			FileWriter fileWriter1 = new FileWriter(newFile1);
-
-			fileWriter1.write(maps.get(0) + "\n");
-
-			for (int i = 1; i < maps.size(); i++) {
-				fileWriter1.append(maps.get(i)).append("\n");
-			}
-
-			fileWriter1.close();
-		} catch (Exception e) {
-			System.out.println("Error.");
-		}
+		writeKmlFile(folder, "public/maps/map-all.kml");
 	}
 
 	/**
@@ -218,7 +117,7 @@ public class Generators {
 
 		// creates page
 		try {
-			File newFile1 = new File("routes.html");
+			File newFile1 = new File("public/routes.html");
 			FileWriter fileWriter1 = new FileWriter(newFile1);
 
 			fileWriter1.write("<title>Route Listing - Eliot Deviation Index</title> \n");
@@ -276,15 +175,21 @@ public class Generators {
 					// System.out.println("Error, no EDI file (" + agencies.get(i) + ")"); // expected error if no routes in database.
 				}
 
-				fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n");
+				fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length (Miles)</th><th>Line Length (Kilometers)</th><th>Eliot Deviation Index</th></tr> \n");
 
 				// route table created
 				for (int j = 0; j < routeCode.size(); j++) {
-					if (routeOfficial.get(j).equals("y")) {
-						fileWriter1.append("<tr><td style=color:#1aab2d>").append(routeCode.get(j)).append("</td><td>").append(routeDist.get(j)).append(" mi.</td><td>").append(routeEdi.get(j)).append("</td></tr> \n");
-					} else {
-						fileWriter1.append("<tr><td style=color:#0097a7>").append(routeCode.get(j)).append("</td><td>").append(routeDist.get(j)).append(" mi.</td><td>").append(routeEdi.get(j)).append("</td></tr> \n");
-					}
+					fileWriter1.append("<tr><td style=color:")
+							.append(routeOfficial.get(j).equals("y") ? "#1aab2d" : "#0097a7")
+							.append(">")
+							.append(routeCode.get(j))
+							.append("</td><td>")
+							.append(routeDist.get(j))
+							.append(" mi.</td><td>")
+							.append(Double.toString(Math.round(Double.parseDouble(routeDist.get(j)) * 1.60934 * 100.0) / 100.0))
+							.append(" km.</td><td>")
+							.append(routeEdi.get(j))
+							.append("</td></tr> \n");
 				}
 
 				fileWriter1.append("</table> \n");
@@ -321,10 +226,18 @@ public class Generators {
 						}
 
 						fileWriter1.append("<p><b>").append(agencySet).append(" Set</b></p>\n");
-						fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n");
+						fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length (Miles)</th><th>Line Length (Kilometers)</th><th>Eliot Deviation Index</th></tr> \n");
 
 						for (int k = currentSize; k < routeCode.size(); k++) {
-							fileWriter1.append("<tr><td style=color:#0097a7>").append(routeCode.get(k)).append("</td><td>").append(routeDist.get(k)).append(" mi.</td><td>").append(routeEdi.get(k)).append("</td></tr> \n");
+							fileWriter1.append("<tr><td style=color:#0097a7>")
+									.append(routeCode.get(k))
+									.append("</td><td>")
+									.append(routeDist.get(k))
+									.append(" mi.</td><td>")
+									.append(Double.toString(Math.round(Double.parseDouble(routeDist.get(k)) * 1.60934 * 100.0) / 100.0))
+									.append(" km.</td><td>")
+									.append(routeEdi.get(k))
+									.append("</td></tr> \n");
 						}
 
 						fileWriter1.append("</table> \n");
@@ -367,7 +280,7 @@ public class Generators {
 		}
 
 		try {
-			File newFile1 = new File("stats.html");
+			File newFile1 = new File("public/stats.html");
 			FileWriter fileWriter1 = new FileWriter(newFile1);
 
 			fileWriter1.write("<title>Statistics - Eliot Deviation Index</title> \n");
@@ -513,8 +426,6 @@ public class Generators {
 
 			lengths.clear();
 			edis.clear();
-
-			System.out.println("Stats List: Global");
 
 			// loop through all the agencies
 			for (int a = 0; a < agencies.size(); a++) {
@@ -701,8 +612,6 @@ public class Generators {
 				} catch (Exception e) {
 					// don't do a damn thing
 				}
-
-				System.out.println("Stats List: " + (a + 1) + " / " + agencies.size());
 			}
 			fileWriter1.close();
 		} catch (Exception e) {
@@ -723,7 +632,7 @@ public class Generators {
 			// creates each agency page
 			try {
 				int agencyStops = 0; // agency stop counter
-				File newFile1 = new File("stops/" + agencies.get(i) + ".html");
+				File newFile1 = new File("public/stops/" + agencies.get(i) + ".html");
 				FileWriter fileWriter1 = new FileWriter(newFile1);
 
 				fileWriter1.write("<title>" + fullAgencies.get(i) + " Stops - Eliot Deviation Index</title> \n");
@@ -784,7 +693,7 @@ public class Generators {
 
 		// main stops home page
 		try {
-			File newFile2 = new File("stops.html");
+			File newFile2 = new File("public/stops.html");
 			FileWriter fileWriter2 = new FileWriter(newFile2);
 			fileWriter2.write("<title>Stop Listing - Eliot Deviation Index</title> \n");
 			fileWriter2.append("<link rel=stylesheet href=style.css> \n");
@@ -837,7 +746,7 @@ public class Generators {
 			maps.add("\t\t\t</coordinates> \n\t\t</Point> \n\t</Placemark> \n</Document> \n</kml>");
 
 			try {
-				File newFile1 = new File("maps/stops/map-" + agency + ".kml");
+				File newFile1 = new File("public/maps/stops/map-" + agency + ".kml");
 				FileWriter fileWriter1 = new FileWriter(newFile1);
 
 				fileWriter1.write(maps.get(0) + "\n");

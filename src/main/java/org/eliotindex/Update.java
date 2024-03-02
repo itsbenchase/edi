@@ -22,7 +22,7 @@ class Update {
 		// update home page with date
 		ArrayList<String> homepage = new ArrayList<>();
 		try {
-			Scanner s = new Scanner(new File("index.html"));
+			Scanner s = new Scanner(new File("public/index.html"));
 			while (s.hasNextLine()) {
 				homepage.add(s.nextLine());
 			}
@@ -37,7 +37,7 @@ class Update {
 		homepage.set(homepage.size() - 1, "<p><b>Last Updated: </b> " + currentTime + "</p>");
 
 		try {
-			File newFile1 = new File("index.html");
+			File newFile1 = new File("public/index.html");
 			FileWriter fileWriter1 = new FileWriter(newFile1);
 
 			fileWriter1.write(homepage.get(0) + "\n");

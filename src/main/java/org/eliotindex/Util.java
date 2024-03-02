@@ -101,23 +101,4 @@ abstract class Util {
 
 		return stops;
 	}
-
-	@SuppressWarnings("SpellCheckingInspection")
-	static ArrayList<String> mapInit(String title) {
-		ArrayList<String> maps = new ArrayList<>();
-
-		maps.add("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
-		maps.add("<kml xmlns=\"http://www.opengis.net/kml/2.2\">");
-		maps.add("<Document> \n\t<name>" + title + "</name>");
-		maps.add("\t<Style id=\"1.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff10c283</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"1.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff195c03</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"2.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ffa0ad10</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"2.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ffad4902</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"3.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ffbf1d7e</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"3.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff6e0cb0</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"4.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff190177</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-		maps.add("\t<Style id=\"10.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff000000</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-
-		return maps;
-	}
 }
