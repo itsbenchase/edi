@@ -1,0 +1,194 @@
+<title>Documentation - Eliot Deviation Index</title> 
+<link rel=stylesheet href=style.css> 
+<ul><li><a href=index.html>Home</a></li>
+<li><a href=stops.html>Stop Listing</a></li> 
+<li><a href=routes.html>Route Listing</a></li>
+<li><a href=detailed.html>Route Detail</a></li>
+<li><a href=stats.html>Statistics</a></li>
+<li><a href=calculator.html>Calculator</a></li></ul> 
+<h1>Documentation</h1>
+
+<h3 id="AddStop">AddStop.java</h3>
+<p>Adds stop into permanent database<br>
+Requires entry of agency code, stop ID, name, latitude, longitude coordinates<br>
+Looped for infinite entry of stops</p>
+
+<h3 id="AgencyMap">AgencyMap.java</h3>
+<p>Generates agency maps<br>
+Maps planned to go public in Spring 2024<br>
+Loops through indiviudal agencies, outputs KML files (maps/map-agency.kml)</p>
+
+<h3 id="Calculator">Calculator.java</h3>
+<p>The main calculator behind this whole project.<br>
+The most hodgepodge hackjob of a program.<br>
+<br>
+<b>agency()</b><br>
+Asks for agency to search / input<br>
+Checks against list of current agencies to check if valid<br>
+Loops if invalid agency is entered<br>
+If valid, passes to edi()<br>
+<br>
+<b>edi()</b><br>
+Bulk of the calculator<br>
+<br>
+<u>Asks for line choice</u><br>
+If searching for existing line, will pull up that line<br>
+There are special cases below<br>
+Line choice -00, exits calculator<br>
+Line choice set, pulls line from old set, applicable agencies only, and asks for set name<br>
+<br>
+<u>Line choice custom</u><br>
+Enter new line into database<br>
+Loads stop listing from agency (stops/agency.txt)<br>
+Two separate ArrayLists, stops2 for EDI file, custom for ending display, stops2 has more data<br>
+Asks for line code, name, and branch name, if applicable, Main if not<br>
+Loop to ask for stop IDs along route<br>
+<br>
+<u>Special stop IDs:</u><br>
+Stop ID -1, custom stop, asks for code, name, latitude, longitude<br>
+Stop ID -2, removes previous stop<br>
+Stop ID -3, adds stop from other agency, asks for agency code, stop ID<br>
+Stop ID -0, ends line<br>
+Stop ID segment, adds segment of existing line, reverse to add in reverse (see below for further documenation)<br>
+<br>
+Passes each stop added to rollingEDI() (see further documenation below)<br>
+Prompt to save custom line, if yes, stops2 saves to agency EDI file (files/agency-edi.txt) and EDI list file (edis/agency.txt)<br>
+Prompt to export custom line, if yes, displays all stop IDs in order, along with agency and route codes<br>
+<br>
+<u>Line choice segment</u><br>
+Calculates EDI for segment of existing line<br>
+Loads in EDI file (files/agency-edi.txt)<br>
+Prompts for line code, starting stop, ending stop numbers (not codes)<br>
+Invalid if segment length is 0<br>
+<br>
+<u>Line choice reverse</u><br>
+Reverses line of segment (see above documenation)<br>
+Does the exact same thing and then reverses line<br>
+<br>
+<u>Other line choice</u><br>
+Checks if valid line code<br>
+Prints details of that line<br>
+<br>
+All searches go through rollingEDI() (see documenation below)<br>
+Haversine formula loop for whole line<br>
+There's a hackjob for old bug of EDI less than 1<br>
+Displays distance in miles, EDI, and average stop spacing in miles<br>
+<br>
+<b>rollingEDI()</b><br>
+The comment is correct, this was created at 1 in the morning as one of Ben's crazy ideas<br>
+Calculates distance and EDI cumulatively along line as being entered<br>
+Also shown as part of full line display<br>
+Runs line up to certain amount of stops through haversine formula<br>
+<br>
+<b>calcIndex()</b><br>
+Clone of rollingEDI() to only return EDI value<br>
+<br>
+<b>saveIndex()</b><br>
+Clone to directly calculate index value for ImportIndex.java (see documenation below)<br>
+Adds new line to EDI file (files/agency-edi.txt) and EDI list file (edis/agency.txt)</p>
+
+<h3 id="FullMap">FullMap.java</h3>
+<p>Same as AgencyMap.java (see documenation above) but creates map of all agencies<br>
+Loops through each agency to produce one file (maps/map-all.kml)</p>
+
+<h3 id="HasIndex">HasIndex.java</h3>
+<p>Searches database for routes with certain EDI value<br>
+Asks for value<br>
+value range, asks for low and high ends, searches for all within that range</p>
+
+<h3 id="ImportIndex">ImportIndex.java</h3>
+<p>Internal use program<br>
+Takes file exported from outside GTFS reader and imports all files into EDI<br>
+Pushes to Calculator.saveIndex()<br>
+Asks for agency code and import code</p>
+
+<h3 id="PopulationData">PopulationData.java</h3>
+<p>Largely for internal use, no plans to make public as of March 2024<br>
+Connects EDI data to US Census to find population served<br>
+Only supports agencies within the US<br>
+Constructor for data pushed from StopInfo.java (see documenation below)<br>
+Choice between population served by stop or line<br>
+Checks if valid agency within the US (zz- used internally for other purposes)<br>
+Asks for agency and radius between 0.125 and 1.0 miles<br>
+<br>
+<u>Choice stop</u><br>
+Loads in agency stop file (stops/agency.txt)<br>
+Asks for stop<br>
+<br>
+<u>Choice line</u><br>
+Loads in EDI file (files/agency-edi.txt)<br>
+Asks for line<br>
+Can also search for segment of line<br>
+<br>
+Finds all points within selected radius of all stops on line chosen, or single stop<br>
+Finds points in increments of 0.125 miles and 45 degrees<br>
+Runs all coordinates through US Census geocoder to find state, county, tract, block<br>
+Checks for duplicates<br>
+Adds all population totals by block<br>
+Looped for infinite searches</p>
+
+<h3 id="RouteList">RouteList.java</h3>
+<p>Generates route listing page (routes.html)<br>
+Completely automatic<br>
+Loops through each agency EDI list file (edis/agency.txt)<br>
+Finds agencies with sets of old routes (sets/agency.txt and edis/sets/agency-set.txt)<br>
+Counts total number of routes<br>
+Format for display on the website<br>
+Displays route count in command line, both by agency and total</p>
+
+<h3 id="Segment">Segment.java</h3>
+<p>Gets EDI of all segments from particular stop on route<br>
+Too niche for web adaptation as of March 2024<br>
+Asks for agency, line, and starting stop<br>
+Same segment algorithm as Calculator.java<br>
+Looped for infinite searches</p>
+
+<h3 id="Stats">Stats.java</h3>
+<p>Creates command line stats interface for each agency, as well as database as a whole<br>
+Constructor to bypass prompts when Update.java is run<br>
+Prompts for agency code, code global will search entire database<br>
+Sets are included in global search<br>
+Gets data from EDI list file (edis/agency.txt)<br>
+Lists mean and median length and EDI<br>
+Lists total amount of routes and distance<br>
+Lists 25th, 75th, and 90th percentile EDIs<br>
+Lists spread of EDIs in range categories</p>
+
+<h3 id="StatsList">StatsList.java</h3>
+<p>Website adaptation of Stats.java (see documenation above)<br>
+EDI miles, spreads, and percentiles are not listed</p>
+
+<h3 id="Stop">Stop.java</h3>
+<p>Class for Stop objects, used in EDI as well as other projects<br>
+Variables for ID, name, code, coordinates, order on line<br>
+Shouldn't really be messed with</p>
+
+<h3 id="StopInfo">StopInfo.java</h3>
+<p>Provides infomation about a stop, name, code, location<br>
+Not planned for public release as of March 2024<br>
+Asks for agency code<br>
+Loads stop file (stops/agency.txt)<br>
+Pushes stop to PopulationData.java (see documenation above)</p>
+
+<h3 id="StopList">StopList.java</h3>
+<p>Generates stop listing pages on website (stops.html and stops/agency.html)<br>
+Automatically loops through all agencies<br>
+Loads stop files (stops/agency.txt)<br>
+Counts total number of stops<br>
+Format for display on the website<br>
+Displays stop count in command line, both by agency and total</p>
+
+<h3 id="StopSearch">StopSearch.java</h3>
+<p>Searches database for stop containing string<br>
+No plans to make website adaptation as of March 2024<br>
+Can search global database or specific agency<br>
+Asks for agency code<br>
+Displays all matches, along with agency and stop codes<br>
+Looped for infinite searches</p>
+
+<h3 id="Update">Update.java</h3>
+<p>Runs most update files to update website listings<br>
+RouteList, FullMap, AgencyMap, StatsList all to update website<br>
+Stats with global search for ending display of current database stats<br>
+StopList not ran anymore due to less frequent updates<br>
+Prints out local time and time zone of computer running program, added to website homepage (index.html)</p>

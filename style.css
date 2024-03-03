@@ -12,6 +12,8 @@ input[type="text"]
 {
     font-family: sourcesans;
     font-size: 16pt;
+    color: #ffffff;
+    background-color: #373737;
 }
 
 select
