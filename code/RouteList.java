@@ -44,7 +44,8 @@ public class RouteList
       fileWriter1.append("<li><a href=routes.html class=active>Route Listing</a></li> \n");
       fileWriter1.append("<li><a href=detailed.html>Route Detail</a></li> \n");
       fileWriter1.append("<li><a href=stats.html>Statistics</a></li> \n");
-      fileWriter1.append("<li><a href=calculator.html>Calculator</a></li></ul> \n");
+      fileWriter1.append("<li><a href=calculator.html>Calculator</a></li> \n");
+      fileWriter1.append("<li><a href=resources.html>Resources</a></li></ul> \n");
       fileWriter1.append("<h1>Route Listing</h1> \n");
 
       // listing with links at top
