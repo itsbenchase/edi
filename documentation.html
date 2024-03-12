@@ -117,15 +117,24 @@ Loads in agency stop file (stops/agency.txt)<br>
 Asks for stop<br>
 <br>
 <u>Choice line</u><br>
+Loads in EDI values (edis/agency.txt)<br>
 Loads in EDI file (files/agency-edi.txt)<br>
 Asks for line<br>
 Can also search for segment of line<br>
 <br>
+<u>Choice bulk</u><br>
+Loads in EDI values (edis/agency.txt)<br>
+Loads in EDI file (files/agency-edi.txt)<br>
+Loops through all lines in agency<br>
+<br>
 Finds all points within selected radius of all stops on line chosen, or single stop<br>
+<br>
+<b>population()</b><br>
 Finds points in increments of 0.125 miles and 45 degrees<br>
 Runs all coordinates through US Census geocoder to find state, county, tract, block<br>
 Checks for duplicates<br>
 Adds all population totals by block<br>
+Finds population served per mile<br>
 Looped for infinite searches</p>
 
 <h3 id="RouteList">RouteList.java</h3>

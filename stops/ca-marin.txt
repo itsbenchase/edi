@@ -1,17 +1,18 @@
 40414;2nd St & Grand Ave;37.970295;-122.519966
 40429;3rd St & Grand Ave;37.971031;-122.519012
-40426;4th St & C St;37.973362;-122.530535
-40425;4th St & C St;37.973509;-122.530932
-40428;4th St & Court St;37.972973;-122.527
+40428;4th St & Court St;37.972973;-122.527001
 40427;4th St & Court St;37.97312;-122.527396
+40425;4th St & C St;37.973509;-122.530932
+40426;4th St & C St;37.973362;-122.530535
 40423;4th St & E St;37.973572;-122.533046
 40424;4th St & E St;37.973725;-122.533439
 40420;4th St & Greenfield Ave;37.974867;-122.544204
 40419;4th St & Greenfield Ave;37.975151;-122.544324
-40422;4th St & Ida St;37.974083;-122.538222
 40421;4th St & Ida St;37.974178;-122.538091
+40422;4th St & Ida St;37.974083;-122.538222
 40416;4th St & Ross Valley Dr;37.976134;-122.550183
 40418;4th St & Santa Margarita Ave;37.976341;-122.549862
+41363;5 Bon Air Rd;37.943752;-122.539776
 41320;33 San Clemente Dr;37.922466;-122.510498
 41334;600 Larkspur Landing Circle;37.947529;-122.511452
 41355;630 S Eliseo Dr;37.945118;-122.53019
@@ -26,42 +27,41 @@
 40818;8185 Sir Francis Drake Blvd;38.019611;-122.729813
 40584;Adrian Way & La Brea Way;38.013306;-122.514198
 40588;Adrian Way & Rosal Way;38.012482;-122.515984
-41021;Adrian Way & Vendola Dr;38.013447;-122.510361
 42012;Alameda Del Prado & Alameda De La Loma;38.064953;-122.539505
-40749;Alameda Del Prado & Calle Arboleda;38.062885;-122.535622
 40748;Alameda Del Prado & Calle Arboleda;38.062904;-122.535774
-40765;Alameda del Prado & Hwy 101 SB;38.049271;-122.533127
-40764;Alameda Del Prado & Los Robles Rd;38.059498;-122.53212
-40763;Alameda Del Prado & Los Robles Rd;38.05957;-122.532234
-40761;Alameda Del Prado & Posada Del Sol;38.061008;-122.533684
-40762;Alameda Del Prado & Posada Del Sol;38.061058;-122.533554
+40749;Alameda Del Prado & Calle Arboleda;38.062885;-122.535622
+40763;Alameda Del Prado & Los Robles Rd;38.059532;-122.532324
+40764;Alameda Del Prado & Los Robles Rd;38.059565;-122.532169
+40761;Alameda Del Prado & Posada Del Sol;38.061101;-122.533928
+40762;Alameda Del Prado & Posada Del Sol;38.060795;-122.533267
 40766;Alameda Del Prado At Nave Dr;38.048328;-122.533318
-40152;Almonte Blvd & Miller Ave;37.887566;-122.524734
+40765;Alameda del Prado & Hwy 101 SB;38.049689;-122.532911
 40151;Almonte Blvd & Miller Ave;37.887197;-122.524822
-40154;Almonte Blvd & Rosemont Ave;37.883864;-122.524643
+40152;Almonte Blvd & Miller Ave;37.887566;-122.524734
 40153;Almonte Blvd & Rosemont Ave;37.883981;-122.524779
+40154;Almonte Blvd & Rosemont Ave;37.883864;-122.524643
 40265;Antilles Way & Martinique Av;37.912491;-122.478134
 40823;Audubon Canyon Ranch;37.930042;-122.682999
 40103;Bay St & Bridgeway;37.857136;-122.480469
 40198;Beach Rd & Juanita Ln;37.874721;-122.459679
 40197;Beach Rd & San Rafael Av;37.87307;-122.463295
-40803;Bear Valley Visitor Center;38.041032;-122.799998
+40803;Bear Valley Visitor Center;38.041031;-122.799998
 40467;Bellam Blvd & Francisco Blvd E;37.960659;-122.50441
 40466;Bellam Blvd & Lisbon St;37.96121;-122.503542
 42130;Belvedere Dr & Redwood Hwy Frontage Rd;37.897804;-122.514313
+41073;Bon Air Rd & MHMC Emergency Entrance Rd;37.948795;-122.536288
 41071;Bon Air Rd & Magnolia Ave;37.943371;-122.53981
-41073;Bon Air Rd & MHMC Emergency Entrance Rd;37.948796;-122.536288
 41351;Bon Air Rd & Schultz Memorial Dr;37.948982;-122.536263
 40100;Bridgeway & Caledonia Av;37.858565;-122.483241
 41042;Bridgeway & Coloma St;37.868438;-122.50233
-40094;Bridgeway & Easterby St;37.861795;-122.493869
 40095;Bridgeway & Easterby St;37.861978;-122.49361
+40094;Bridgeway & Easterby St;37.861795;-122.493869
 40090;Bridgeway & Ebbtide St;37.870314;-122.503727
 40091;Bridgeway & Gate 5 Rd;37.871113;-122.503827
 40096;Bridgeway & Napa St;37.861075;-122.489305
 40097;Bridgeway & Napa St;37.861524;-122.489819
-40093;Bridgeway & Nevada St;37.865288;-122.499358
 40092;Bridgeway & Nevada St;37.865472;-122.499217
+40093;Bridgeway & Nevada St;37.865288;-122.499358
 40098;Bridgeway & Pine St;37.859164;-122.485062
 40099;Bridgeway & Turney St;37.859704;-122.485967
 42103;Bridgeway & W Harbor Dr;37.866898;-122.501091
@@ -74,20 +74,20 @@
 40456;Canal St & Sonoma St;37.967022;-122.503113
 40783;Castro St & Montezuma Rd;38.015057;-122.690041
 40784;Castro St (W) & Sir Francis Drake Blvd;38.01413;-122.695572
-40589;Civic Center Dr & Mcinnis Pkwy (Civic Center SMART);38.00129;-122.536488
-40587;Civic Center Dr & Mcinnis Pkwy (Civic Center SMART);38.001427;-122.536423
+40589;Civic Center Dr & Mcinnis Pkwy (Civic Center SMART);38.001291;-122.536488
+40587;Civic Center Dr & Mcinnis Pkwy (Civic Center SMART);38.001427;-122.536422
 40586;Civic Center Dr & N San Pedro Rd;37.997112;-122.528999
 40585;Civic Center Dr & N San Pedro Rd;37.997349;-122.528732
-42020;College Ave & Kent Ave;37.950897;-122.549591
 42009;College Ave & Kent Ave;37.951672;-122.549774
+42020;College Ave & Kent Ave;37.950897;-122.549591
+40335;College Of Marin Sir Francis Drake Blvd & Maple;37.956626;-122.548727
 40334;College of Marin - Sir Francis Drake Blvd & Elm Av;37.956234;-122.548515
 40330;College of Marin College Av & Sir Francis Drake;37.954727;-122.548241
 40349;College of Marin College Ave & Sir Francis Drake;37.954258;-122.54863
-40335;College Of Marin Sir Francis Drake Blvd & Maple;37.956626;-122.548727
-40698;DeLong Ave & Reichert Ave;38.10549;-122.566457
 40699;DeLong Ave & Reichert Ave;38.105602;-122.566001
-40700;Diablo Av & George St;38.104019;-122.572235
-40701;Diablo Av & George St;38.103683;-122.572525
+40698;DeLong Ave & Reichert Ave;38.10549;-122.566457
+40701;Diablo Av & George St;38.10379;-122.572239
+40700;Diablo Av & George St;38.104248;-122.572015
 40327;Doherty Dr & Hall Middle School;37.938225;-122.531624
 40310;Doherty Dr & Larkspur Plaza Dr;37.938232;-122.533646
 40309;Doherty Dr & Larkspur Plaza Dr;37.938156;-122.532867
@@ -97,75 +97,84 @@
 40119;Drake Av & Donahue St;37.873631;-122.512413
 40125;Drake Av & Donahue St;37.871292;-122.509193
 41005;Drake Av & Pacheco St;37.870689;-122.513466
+40135;E Blithedale Ave & Alta Vista Ave;37.903578;-122.536343
+41038;E Blithedale Ave & Camino Alto;37.900585;-122.528886
+40137;E Blithedale Ave & East Dr;37.903834;-122.538591
+40138;E Blithedale Ave & Elm Ave;37.903723;-122.537024
+40136;E Blithedale Ave & Hilarita Ave;37.901718;-122.532623
+40141;E Blithedale Ave & Hill St;37.905269;-122.544169
 40130;E Blithedale Ave & Kipling Dr;37.903475;-122.519193
 40131;E Blithedale Ave & Lomita Dr;37.900954;-122.526499
+40133;E Blithedale Ave & Mesa Ave;37.901848;-122.532641
 40139;E Blithedale Ave & Mountain View Ave;37.905205;-122.543828
+40134;E Blithedale Ave & Nelson Ave;37.900676;-122.529928
 40132;E Blithedale Ave & Roque Moraes Dr;37.900242;-122.527622
 40129;E Blithedale Ave & Tower Dr;37.903697;-122.519149
+40140;E Blithedale Ave & Walnut Ave;37.90374;-122.539534
 40471;E Sir Francis Drake Blvd & Larkspur Landing;37.94603;-122.510811
 42114;Enfrente Rd & Salvatore Dr;38.067197;-122.538732
 40451;Francisco Blvd E & Bay St;37.96656;-122.516441
-40568;Freitas Pkwy & Del Presidio Blvd;38.007298;-122.544075
 40569;Freitas Pkwy & Northgate Dr;38.008361;-122.545453
 40409;Grand Av & Acacia Way;37.979481;-122.515656
 40412;Grand Av & Belle Av;37.975269;-122.518585
 40413;Grand Av & Belle Av;37.974697;-122.518234
-40410;Grand Av & Jewell St;37.977005;-122.516891
 40411;Grand Av & Jewell St;37.977028;-122.516747
-40404;Grand Av & Linden Ln;37.982319;-122.520737
+40410;Grand Av & Jewell St;37.977005;-122.516891
 40405;Grand Av & Linden Ln;37.982498;-122.520859
-40406;Grand Av & Mountain View Av;37.981186;-122.516907
+40404;Grand Av & Linden Ln;37.982319;-122.520737
 40407;Grand Av & Mountain View Av;37.981342;-122.516937
-40691;Grant Av & Fifth St;38.108795;-122.576073
+40406;Grand Av & Mountain View Av;37.981186;-122.516907
 40690;Grant Av & Fifth St;38.108608;-122.575706
-40693;Grant Av & Second St;38.108074;-122.572586
+40691;Grant Av & Fifth St;38.108795;-122.576073
 40692;Grant Av & Second St;38.107944;-122.572495
-40770;Hamilton Main Gate Nave Dr & Hamilton Main Gate;38.056206;-122.530174
+40693;Grant Av & Second St;38.108074;-122.572586
 41318;Hamilton Main Gate Rd & Martin Dr;38.056274;-122.529083
+41365;Hamilton Pkwy & Aberdeen Rd;38.059595;-122.526429
+41364;Hamilton Pkwy & Aberdeen Rd;38.059521;-122.526088
 41315;Hamilton Pkwy & Chapel Hill Rd;38.058834;-122.522148
 41316;Hamilton Pkwy & Sunny Cove Dr;38.058914;-122.52121
 41314;Hamilton Pkwy At Marin Airporter;38.061626;-122.530746
 41317;Hamilton Theatre Parking Lot;38.056629;-122.519379
 41326;Health & Human Services;38.020657;-122.536041
-40773;Hwy 101 @ Alameda Del Prado Bus Pad;38.049111;-122.532356
 42011;Hwy 101 @ Alameda Del Prado Bus Pad;38.048515;-122.531705
+40773;Hwy 101 @ Alameda Del Prado Bus Pad;38.049111;-122.532356
 41099;Hwy 101 @ DeLong Ave Bus Pad;38.104446;-122.562602
 41098;Hwy 101 @ DeLong Ave Bus Pad;38.10444;-122.561367
 40746;Hwy 101 @ Ignacio Blvd Bus Pad;38.066802;-122.536991
 40606;Hwy 101 @ Lucas Valley Rd Bus Pad;38.020528;-122.53982
-40268;Hwy 101 @ Lucky Dr Bus Pad;37.938685;-122.516101
 40267;Hwy 101 @ Lucky Dr Bus Pad;37.937926;-122.517021
+40268;Hwy 101 @ Lucky Dr Bus Pad;37.938685;-122.516101
 40582;Hwy 101 @ N San Pedro Rd Bus Pad;37.995542;-122.532673
 40581;Hwy 101 @ N San Pedro Rd Bus Pad;37.995296;-122.533456
 40296;Hwy 101 @ Paradise Dr Bus Pad;37.925287;-122.513809
 40779;Hwy 101 @ Rowland Blvd Bus Pad;38.09129;-122.560844
 40780;Hwy 101 @ Rowland Blvd Bus Pad;38.093472;-122.557999
-40188;Hwy 101 @ Seminary Dr Bus Pad;37.888662;-122.516364
 40187;Hwy 101 @ Seminary Dr Bus Pad;37.889494;-122.517111
+40188;Hwy 101 @ Seminary Dr Bus Pad;37.888662;-122.516364
 40607;Hwy 101 @ Smith Ranch Rd Bus Pad;38.02008;-122.539141
 40295;Hwy 101 @ Tamalpais Dr Bus Pad;37.926504;-122.515248
 42027;Hwy 101 @ Terra Linda Bus Pad NB;38.005901;-122.540374
 42112;Hwy 101 @ Terra Linda Bus Pad SB;38.00794;-122.542233
-40170;Hwy 101 @ Tiburon Wye Bus Pad;37.901957;-122.515412
 40164;Hwy 101 @ Tiburon Wye Bus Pad;37.903698;-122.516051
-40744;Ignacio Blvd & Alameda Del Prado;38.066078;-122.541466
+40170;Hwy 101 @ Tiburon Wye Bus Pad;37.901957;-122.515412
 40743;Ignacio Blvd & Alameda Del Prado;38.065868;-122.541313
-40734;Ignacio Blvd & Country Club Dr;38.068764;-122.55809
+40744;Ignacio Blvd & Alameda Del Prado;38.066078;-122.541466
 40733;Ignacio Blvd & Country Club Dr;38.068596;-122.558212
+40734;Ignacio Blvd & Country Club Dr;38.068764;-122.55809
 40740;Ignacio Blvd & Entrada Dr;38.068268;-122.545853
 40739;Ignacio Blvd & Entrada Dr;38.068066;-122.545692
-40736;Ignacio Blvd & Fairway Dr;38.069065;-122.553322
 40735;Ignacio Blvd & Fairway Dr;38.068993;-122.553223
+40736;Ignacio Blvd & Fairway Dr;38.069065;-122.553322
 40727;Ignacio Blvd & Indian Hills Dr;38.076298;-122.573456
-40738;Ignacio Blvd & Palmer Dr;38.068928;-122.549797
 40737;Ignacio Blvd & Palmer Dr;38.068832;-122.549561
+40738;Ignacio Blvd & Palmer Dr;38.068928;-122.549797
 40732;Ignacio Blvd & San Jose Blvd;38.071705;-122.564049
 40731;Ignacio Blvd & San Jose Blvd;38.071337;-122.564045
 40726;Ignacio Blvd & Sunset Pkwy;38.074959;-122.568398
 40730;Ignacio Blvd & Turner Dr;38.073357;-122.565399
 40729;Ignacio Blvd & Turner Dr;38.073181;-122.565376
 40724;Ignacio Blvd & Ulloa Dr;38.07423;-122.566772
-40742;Ignacio Blvd At Pacheco Plaza;38.066486;-122.54285
+40742;Ignacio Blvd At Pacheco Plaza;38.066485;-122.54285
 40728;Indian Valley College;38.075802;-122.577187
 40800;Inverness Store;38.096519;-122.851524
 41095;Irene St & Francisco Blvd E;37.956725;-122.500344
@@ -173,51 +182,50 @@
 40446;Kerner Blvd & Canal St;37.967892;-122.499451
 40445;Kerner Blvd & Canal St;37.96788;-122.49971
 40458;Kerner Blvd & Fairfax St;37.964436;-122.501518
-40463;Kerner Blvd & Larkspur St;37.962776;-122.502007
 40460;Kerner Blvd & Larkspur St;37.962448;-122.50219
+40463;Kerner Blvd & Larkspur St;37.962776;-122.502007
 40465;Kerner Blvd btwn 3140 & 3160;37.958751;-122.501191
 40590;La Pasada Way & N San Pedro Rd;38.011005;-122.517761
 41333;Larkspur Landing Cir & Lincoln Village Cir;37.946812;-122.506561
 40528;Las Gallinas Av & Cedar Hill Dr;38.025276;-122.548393
-40646;Las Gallinas Av & Ellen Dr;38.026943;-122.547318
 40647;Las Gallinas Av & Ellen Dr;38.026684;-122.54731
-40644;Las Gallinas Av & Elvia Ct;38.029091;-122.545921
+40646;Las Gallinas Av & Ellen Dr;38.026943;-122.547318
 40645;Las Gallinas Av & Elvia Ct;38.028706;-122.545929
-40536;Las Gallinas Av & Holly Dr;38.0103;-122.548973
-40535;Las Gallinas Av & Las Colindas Rd;38.013096;-122.54921
+40644;Las Gallinas Av & Elvia Ct;38.029091;-122.545921
+40536;Las Gallinas Av & Holly Dr;38.010301;-122.548973
 40534;Las Gallinas Av & Las Colindas Rd;38.013268;-122.549515
+40535;Las Gallinas Av & Las Colindas Rd;38.013096;-122.54921
 40530;Las Gallinas Av & Maple Hill Dr;38.022488;-122.55014
 40648;Las Gallinas Av & Miller Creek Rd;38.032425;-122.544685
 40533;Las Gallinas Av & Montevideo Way;38.019073;-122.551247
-40577;Las Gallinas Av & Nova Albion Way;38.008133;-122.548752
 40537;Las Gallinas Av & Oleander Dr;38.011395;-122.548645
 40532;Las Gallinas Av & Park Ridge Av;38.01902;-122.551689
 40529;Las Gallinas Av & Santiago Way;38.024994;-122.54821
 40531;Las Gallinas Av & Skyview Terrace;38.022205;-122.54995
-40562;Las Gallinas Ave & Northgate Dr;38.006699;-122.545814
+40562;Las Gallinas Ave & Northgate Dr;38.006699;-122.545813
 40563;Las Gallinas Ave & Northgate Dr;38.006889;-122.546242
 40565;Las Gallinas Ave & Northgate Mall;38.004673;-122.541786
 40556;Las Gallinas Ave & Nova Albion Way;38.008488;-122.54921
 40564;Las Gallinas Ave at Northgate Mall;38.005165;-122.541908
-40392;Lincoln Ave & Grand Ave;37.98373;-122.524635
 40393;Lincoln Ave & Grand Ave;37.98407;-122.524712
-40394;Lincoln Ave & Linden Ln;37.980564;-122.522621
+40392;Lincoln Ave & Grand Ave;37.983522;-122.524583
 40395;Lincoln Ave & Linden Ln;37.981155;-122.522812
-40398;Lincoln Ave & Mission Ave;37.97419;-122.523514
+40394;Lincoln Ave & Linden Ln;37.980564;-122.522621
 40399;Lincoln Ave & Mission Ave;37.974483;-122.523285
-40396;Lincoln Ave & Paloma Ave;37.978031;-122.522209
+40398;Lincoln Ave & Mission Ave;37.97419;-122.523514
 40397;Lincoln Ave & Paloma Ave;37.978073;-122.522049
+40396;Lincoln Ave & Paloma Ave;37.978031;-122.522209
 40390;Lincoln Ave & Wilson Ct;37.986759;-122.526596
 40391;Lincoln Ave & Wilson Ct;37.986877;-122.526527
-40573;Los Ranchitos Rd & Circle Rd;37.994781;-122.541023
 40574;Los Ranchitos Rd & Circle Rd;37.994881;-122.540924
-40571;Los Ranchitos Rd & Golden Hinde Blvd;37.998405;-122.54171
+40573;Los Ranchitos Rd & Circle Rd;37.994781;-122.541023
 40572;Los Ranchitos Rd & Golden Hinde Blvd;37.998249;-122.541519
+40571;Los Ranchitos Rd & Golden Hinde Blvd;37.998405;-122.54171
 40566;Los Ranchitos Rd & Northgate Dr;38.00135;-122.542656
 40567;Los Ranchitos Rd & Northgate Dr;38.001068;-122.542358
 40575;Los Ranchitos Rd & Ranch Rd;37.992405;-122.536407
 40576;Los Ranchitos Rd & Ranch Rd;37.992523;-122.536598
-40314;Lucky Dr & Riviera Circle;37.937347;-122.521645
+40314;Lucky Dr & Riviera Circle;37.937655;-122.521141
 40313;Lucky Dr & Riviera Circle;37.937267;-122.521591
 40282;Madera Blvd & Mohawk Av;37.926239;-122.518585
 40274;Madera Blvd & Monona Dr;37.928059;-122.518608
@@ -225,10 +233,10 @@
 40306;Magnolia Av & Madrone Av;37.932655;-122.535934
 40305;Magnolia Av & Madrone Av;37.932579;-122.536064
 40307;Magnolia Av & Park Way;37.929089;-122.53344
-40304;Magnolia Av & Ward St;37.936222;-122.53508
 40303;Magnolia Av & Ward St;37.935921;-122.535309
-40302;Magnolia Ave & Bon Air Rd;37.943386;-122.54071
+40304;Magnolia Av & Ward St;37.936222;-122.53508
 40301;Magnolia Ave & Bon Air Rd;37.943031;-122.540535
+40302;Magnolia Ave & Bon Air Rd;37.943386;-122.54071
 40300;Magnolia Ave & Dartmouth Dr;37.945011;-122.542938
 40225;Magnolia Ave & Frances Ave;37.94696;-122.546364
 40297;Magnolia Ave & Frances Ave;37.946831;-122.546364
@@ -241,19 +249,20 @@
 40552;Manuel T Freitas Pkwy & Las Pavadas Av;38.011837;-122.555412
 40546;Manuel T Freitas Pkwy & Montecillo Rd;38.011745;-122.561073
 40162;Manzanita Park & Ride Lot;37.879744;-122.516699
-40113;Marin City Hub;37.8723;-122.511571
 44113;Marin City Hub;37.871956;-122.511301
-40605;Marin Civic Center-Judge Haley Dr & Civic Ctr Dr;37.998161;-122.531097
+40113;Marin City Hub;37.872299;-122.511571
 41330;Marin Civic Center-Judge Haley Dr & Civic Ctr Dr;37.998219;-122.531242
+40605;Marin Civic Center-Judge Haley Dr & Civic Ctr Dr;37.998161;-122.531097
 41072;Marin Health Medical Center-250 Bon Air Rd;37.94696;-122.537308
 42113;Marinwood Bus Pad Hwy 101 @ Miller Creek Rd;38.034155;-122.537432
 42032;Marinwood Bus Pad Hwy 101 @ Saint Vincent's Dr;38.033658;-122.536729
 40449;Medway Rd & Francisco Blvd E;37.9631;-122.510101
 40455;Medway Rd & Mill St;37.964584;-122.508949
 40580;Merrydale Rd & N San Pedro Rd;37.994591;-122.534233
+40157;Mill Valley Depot-Miller Ave & Sunnyside Ave;37.905523;-122.547359
 40142;Mill Valley Depot-Sunnyside Ave & Miller Ave;37.905671;-122.547396
-40150;Miller Ave & Camino Alto;37.893722;-122.531458
 40149;Miller Ave & Camino Alto;37.892826;-122.530473
+40150;Miller Ave & Camino Alto;37.893722;-122.531458
 40146;Miller Ave & Locust Ave;37.898592;-122.538039
 40145;Miller Ave & Montford Ave;37.897521;-122.537163
 40144;Miller Ave & Park Ave;37.901627;-122.541506
@@ -261,8 +270,8 @@
 40148;Miller Ave & Reed St;37.895538;-122.534453
 40143;Miller Ave & Una Way;37.901415;-122.541745
 40638;Miller Creek Rd & Las Gallinas Av;38.032578;-122.544014
+40640;Miller Creek Rd & Marinwood Av;38.033329;-122.540511
 40641;Miller Creek Rd & Marinwood Av;38.033512;-122.540741
-40640;Miller Creek Rd & Marinwood Av;38.033245;-122.54052
 41159;Mission Av & Mary St;37.972534;-122.516876
 41158;Mission Av & Mary St;37.972668;-122.516739
 41350;Montecillo Rd At Kaiser Hospital Lot A;38.003909;-122.553239
@@ -275,32 +284,33 @@
 40594;N San Pedro Rd & Meadow Dr;38.005878;-122.519203
 40595;N San Pedro Rd & Meadow Dr;38.006218;-122.51886
 40598;N San Pedro Rd & Meriam Dr;38.001831;-122.522476
-40578;N San Pedro Rd & Merrydale Rd;37.993748;-122.533798
 40579;N San Pedro Rd & Merrydale Rd;37.993404;-122.534599
-40600;N San Pedro Rd & Roosevelt Av;38.000038;-122.524368
+40578;N San Pedro Rd & Merrydale Rd;37.993748;-122.533798
 40601;N San Pedro Rd & Roosevelt Av;37.999584;-122.524689
-40596;N San Pedro Rd & Schmidt Ln;38.004326;-122.520599
+40600;N San Pedro Rd & Roosevelt Av;37.999451;-122.525038
 40597;N San Pedro Rd & Schmidt Ln;38.004623;-122.520065
+40596;N San Pedro Rd & Schmidt Ln;38.004326;-122.520599
 40599;N San Pedro Rd & Woodoaks Dr;38.002151;-122.521965
-40771;Nave Dr & Bolling Dr;38.050663;-122.530914
 40772;Nave Dr & Bolling Dr;38.051685;-122.530594
+40771;Nave Dr & Bolling Dr;38.050663;-122.530914
+40770;Nave Dr & Hamilton Main Gate Rd;38.056206;-122.530174
 40774;Nave Dr & Hamilton Pkwy;38.061897;-122.532921
-40767;Nave Dr & Roblar Dr;38.064449;-122.534775
 40768;Nave Dr & Roblar Dr;38.064445;-122.534424
-40558;Nova Albion Way & Arias St;38.006721;-122.550018
+40767;Nave Dr & Roblar Dr;38.064449;-122.534775
 40561;Nova Albion Way & Arias St;38.007034;-122.549606
+40558;Nova Albion Way & Arias St;38.006721;-122.550018
 41039;Nova Albion Way & Montecillo Rd;38.004139;-122.552353
-40560;Nova Albion Way & Montecillo Rd;38.004108;-122.5522
+40560;Nova Albion Way & Montecillo Rd;38.004108;-122.552201
+40675;Novato Blvd & Eucalyptus Av;38.114139;-122.603192
 40676;Novato Blvd & Eucalyptus Av;38.114868;-122.604073
-40675;Novato Blvd & Eucalyptus Av;38.114239;-122.60334
-40684;Novato Blvd & Grant Av;38.108662;-122.58429
-40683;Novato Blvd & Grant Av;38.108364;-122.5839
-40682;Novato Blvd & Mcclay Rd;38.110126;-122.587547
-40681;Novato Blvd & Mcclay Rd;38.110035;-122.587616
+40683;Novato Blvd & Grant Av;38.108364;-122.583901
+40684;Novato Blvd & Grant Av;38.108709;-122.584209
+40681;Novato Blvd & Mcclay Rd;38.110015;-122.587678
+40682;Novato Blvd & Mcclay Rd;38.110233;-122.587624
+40677;Novato Blvd & Oliva Dr;38.112047;-122.597412
 40678;Novato Blvd & Oliva Dr;38.112167;-122.597328
-40677;Novato Blvd & Oliva Dr;38.112118;-122.59758
 40687;Novato Blvd & Seventh St;38.106853;-122.580208
-40680;Novato Blvd & Wilson Ct;38.111908;-122.59153
+40680;Novato Blvd & Wilson Ct;38.111977;-122.591483
 40679;Novato Blvd & Wilson Ct;38.112076;-122.593193
 42147;Novato San Marin SMART Station;38.120578;-122.566266
 41026;Olive Av & Kenwood Ct;38.110092;-122.563393
@@ -314,20 +324,20 @@
 40797;Panoramic Hwy & Muir Woods Rd;37.89307;-122.556999
 40785;Panoramic Hwy & Pan Toll Ranger Station;37.904465;-122.603859
 40786;Panoramic Hwy & Pan Toll Ranger Station;37.904499;-122.603996
-40791;Panoramic Hwy & Park Av;37.903872;-122.569739
 40792;Panoramic Hwy & Park Av;37.904621;-122.570275
+40791;Panoramic Hwy & Park Av;37.903872;-122.569739
 40793;Panoramic Hwy & Ridge Av;37.901028;-122.567703
 40794;Panoramic Hwy & Ridge Av;37.901028;-122.567284
 40798;Panoramic Hwy & Sequoia Valley Rd;37.8936;-122.556999
 40285;Paradise Dr & El Camino Dr;37.919384;-122.505089
-40289;Paradise Dr & Golden Hinde Passage;37.920429;-122.497993
 40290;Paradise Dr & Golden Hinde Passage;37.920532;-122.498085
+40289;Paradise Dr & Golden Hinde Passage;37.920429;-122.497993
 40284;Paradise Dr & Harbor Dr;37.920216;-122.508881
 40283;Paradise Dr & Madera Del Presidio Av;37.919998;-122.508621
-40287;Paradise Dr & Prince Royal Dr;37.919159;-122.502518
 40288;Paradise Dr & Prince Royal Dr;37.919216;-122.502953
-41189;Paradise Dr & Ranch Rd;37.918461;-122.483917
+40287;Paradise Dr & Prince Royal Dr;37.919159;-122.502518
 41190;Paradise Dr & Ranch Rd;37.918549;-122.483841
+41189;Paradise Dr & Ranch Rd;37.918461;-122.483917
 40293;Paradise Dr & Robin Dr;37.919933;-122.489059
 40294;Paradise Dr & Robin Dr;37.920071;-122.489052
 40286;Paradise Dr & Seawolf Passage;37.919453;-122.505249
@@ -338,14 +348,16 @@
 40807;Pt Reyes Downtown-Shoreline Hwy & 3rd St;38.067871;-122.805611
 40489;Red Hill Ave & Sequoia Dr;37.976394;-122.554189
 40490;Red Hill Ave & Sequoia Dr;37.976644;-122.554633
-40276;Redwood Av & Montecito Dr;37.926449;-122.529625
 40275;Redwood Av & Montecito Dr;37.926357;-122.52951
+40276;Redwood Av & Montecito Dr;37.926449;-122.529625
 41046;Redwood Blvd & Escallonia Dr;38.115982;-122.567413
-40696;Redwood Blvd & Grant Ave;38.106438;-122.570629
 40697;Redwood Blvd & Grant Ave;38.106571;-122.570611
+40696;Redwood Blvd & Grant Ave;38.106438;-122.570629
 40694;Redwood Blvd & Olive Ave;38.11118;-122.569038
 40695;Redwood Blvd & Olive Ave;38.111408;-122.568545
 41047;Redwood Blvd & Rush Creek Place;38.116036;-122.567046
+40312;Redwood High & Doherty Dr;37.938121;-122.527944
+40311;Redwood High & Doherty Dr;37.937999;-122.527866
 42146;Redwood High School;37.937679;-122.523384
 40184;Redwood Hwy Frontage Rd & De Silva Island Dr;37.88913;-122.516205
 40186;Redwood Hwy Frontage Rd & Hwy 101 SB Ramps;37.889305;-122.517433
@@ -354,11 +366,11 @@
 40342;Ross Sir Francis Drake Blvd & Lagunitas Rd;37.962734;-122.555855
 40341;Ross Sir Francis Drake Blvd & Lagunitas Rd;37.962399;-122.555741
 41311;Rowland Blvd  & Rowland Way;38.093521;-122.556961
-41043;Rowland Blvd & Redwood Blvd;38.090131;-122.562029
 40777;Rowland Blvd & Redwood Blvd;38.091129;-122.561022
+41043;Rowland Blvd & Redwood Blvd;38.090131;-122.562029
 41310;Rowland Blvd & Rowland Way;38.093723;-122.557098
 40778;Rowland Blvd & S Novato Blvd;38.088138;-122.56467
-41306;Rowland Blvd At Vintage Oaks Entrance;38.089954;-122.551918
+41306;Rowland Blvd At Vintage Oaks Entrance;38.089153;-122.551222
 41354;S Eliseo Dr & Via Belardo;37.945072;-122.528717
 41356;S Eliseo Dr At Hamilton Park;37.943821;-122.53566
 40706;S Novato Blvd & Arthur St;38.091793;-122.567604
@@ -367,45 +379,46 @@
 40703;S Novato Blvd & Diablo Av;38.102558;-122.572731
 40704;S Novato Blvd & Joan Av;38.099461;-122.571083
 40705;S Novato Blvd & Lauren Av;38.097057;-122.569542
-40712;S Novato Blvd & Midway Blvd;38.081168;-122.558504
 40713;S Novato Blvd & Midway Blvd;38.081745;-122.558529
-40716;S Novato Blvd & Redwood Blvd;38.077404;-122.552372
+40712;S Novato Blvd & Midway Blvd;38.081168;-122.558504
 40717;S Novato Blvd & Redwood Blvd;38.077581;-122.55157
-40708;S Novato Blvd & Rowland Blvd;38.087698;-122.56506
+40716;S Novato Blvd & Redwood Blvd;38.077404;-122.552372
 40709;S Novato Blvd & Rowland Blvd;38.089012;-122.565758
+40708;S Novato Blvd & Rowland Blvd;38.087698;-122.56506
 40714;S Novato Blvd & Stone Dr;38.078166;-122.557053
 40715;S Novato Blvd & Stone Dr;38.078463;-122.557042
 40710;S Novato Blvd & Sunset Pkwy;38.085407;-122.56208
 40711;S Novato Blvd & Sunset Pkwy;38.085561;-122.562087
 40484;San Anselmo Hub;37.976546;-122.562841
-40668;San Carlos Way & Clemente Ct;38.118427;-122.596863
-40666;San Carlos Way & Corona Ct;38.118732;-122.594482
-40664;San Carlos Way & San Luis Ct;38.119953;-122.591232
-41002;San Carlos Way & San Luis Way;38.119324;-122.592934
-40662;San Carlos Way & San Marin Dr;38.12352;-122.591576
 42008;San Clemente Parking  Lot;37.919956;-122.499901
-42000;San Geronimo Valley Dr & Creamery Rd;38.0144;-122.667946
+42000;San Geronimo Valley Dr & Creamery Rd;38.014401;-122.667946
 40816;San Geronimo Valley Dr & Creamery Rd;38.014347;-122.668182
+41048;San Marin Dr & East Campus Dr;38.120674;-122.569168
+40655;San Marin Dr & Redwood Blvd;38.118885;-122.56749
 40656;San Marin Dr & Redwood Blvd;38.118454;-122.567421
-40670;San Marin Dr & San Andreas Dr;38.12191;-122.602013
 40669;San Marin Dr & San Andreas Dr;38.122116;-122.602119
-40672;San Marin Dr & San Ramon Way;38.121635;-122.60405
+40670;San Marin Dr & San Andreas Dr;38.12191;-122.602013
 40671;San Marin Dr & San Ramon Way;38.121792;-122.604507
+40672;San Marin Dr & San Ramon Way;38.121635;-122.60405
 41049;San Marin Dr & Santolina Dr;38.120571;-122.569687
+40659;San Marin Dr & Sereno Way;38.124477;-122.587715
 40660;San Marin Dr & Sereno Way;38.124256;-122.587769
+40657;San Marin Dr & Simmons Ln;38.121693;-122.584953
 40658;San Marin Dr & Simmons Ln;38.121441;-122.58448
 41075;San Marin Dr & Somerset Dr;38.12075;-122.578644
+41074;San Marin Dr & West Campus Dr;38.121344;-122.575511
+40673;San Marin High School;38.118743;-122.609418
 40674;San Marin High School;38.118809;-122.609055
-40673;San Marin High School;38.118832;-122.609337
-40430;San Rafael Transit Center;37.971081;-122.523102
-44005;San Rafael Transit Center;37.971249;-122.522417
-44006;San Rafael Transit Center;37.971132;-122.52285
 44001;San Rafael Transit Center;37.971094;-122.522601
+44006;San Rafael Transit Center;37.971131;-122.522849
+44005;San Rafael Transit Center;37.971249;-122.522416
+40430;San Rafael Transit Center;37.971081;-122.523102
 44002;San Rafael Transit Center;37.97087;-122.522385
+44003;San Rafael Transit Center;37.971194;-122.522698
 40689;Seventh St & Grant Av;38.108772;-122.578407
 40688;Seventh St & Grant Av;38.108902;-122.578255
-41172;Seventh St & Novato Blvd;38.107159;-122.578484
 40686;Seventh St & Novato Blvd;38.106449;-122.57872
+41172;Seventh St & Novato Blvd;38.107159;-122.578484
 40128;Shoreline Hwy & Almonte Blvd;37.881969;-122.525368
 40165;Shoreline Hwy & Laurel Way;37.87896;-122.532593
 40166;Shoreline Hwy & Laurel Way;37.879124;-122.532867
@@ -415,20 +428,20 @@
 40167;Shoreline Hwy & Ross Dr;37.878979;-122.529488
 40806;Shoreline Hwy & Sir Francis Drake Blvd;38.044006;-122.789749
 41332;Shoreline Pkwy @ Target;37.953232;-122.490639
-40514;Sir Francis Drake Blvd & Alhambra Circle;37.999081;-122.600449
 40515;Sir Francis Drake Blvd & Alhambra Circle;37.999207;-122.60041
+40514;Sir Francis Drake Blvd & Alhambra Circle;37.999081;-122.600449
 40336;Sir Francis Drake Blvd & Ash Av;37.954296;-122.546021
 40337;Sir Francis Drake Blvd & Ash Ave;37.954319;-122.545692
 40478;Sir Francis Drake Blvd & Aspen Ct;37.984692;-122.572815
 40802;Sir Francis Drake Blvd & Balboa Av;38.062881;-122.820015
 40801;Sir Francis Drake Blvd & Balboa Av;38.063099;-122.820641
-41360;Sir Francis Drake Blvd & Bank St;37.975494;-122.561607
 41361;Sir Francis Drake Blvd & Bank St;37.975231;-122.561897
+41360;Sir Francis Drake Blvd & Bank St;37.975494;-122.561607
 40486;Sir Francis Drake Blvd & Barber Av;37.972816;-122.561523
 40487;Sir Francis Drake Blvd & Bolinas Av;37.96936;-122.560661
 40488;Sir Francis Drake Blvd & Bolinas Rd;37.969749;-122.560486
-40319;Sir Francis Drake Blvd & Bon Air Rd;37.95071;-122.533859
 40318;Sir Francis Drake Blvd & Bon Air Rd;37.950314;-122.533501
+40319;Sir Francis Drake Blvd & Bon Air Rd;37.95071;-122.533859
 40475;Sir Francis Drake Blvd & Broadmoor Ave;37.985966;-122.575172
 40524;Sir Francis Drake Blvd & Broadway;37.989788;-122.591644
 40473;Sir Francis Drake Blvd & Butterfield Rd;37.986843;-122.578461
@@ -437,7 +450,7 @@
 40321;Sir Francis Drake Blvd & El Portal Dr;37.948906;-122.528458
 40324;Sir Francis Drake Blvd & Eliseo Dr;37.945427;-122.520111
 40325;Sir Francis Drake Blvd & Eliseo Dr;37.945808;-122.520439
-40513;Sir Francis Drake Blvd & Glen Dr;38.00037;-122.603714
+40513;Sir Francis Drake Blvd & Glen Dr;38.000371;-122.603713
 40526;Sir Francis Drake Blvd & Kent Ave;37.986561;-122.580917
 40322;Sir Francis Drake Blvd & La Cuesta Dr;37.947281;-122.524826
 40323;Sir Francis Drake Blvd & La Cuesta Dr;37.947831;-122.525668
@@ -467,66 +480,66 @@
 40811;Sir Francis Drake Blvd & W Cintura Av;38.011963;-122.70211
 40810;Sir Francis Drake Blvd & W Cintura Av;38.012344;-122.701393
 40527;Sir Francis Drake Blvd & Willow Ave;37.986713;-122.582748
-40316;Sir Francis Drake Blvd & Wolfe Grade;37.952747;-122.538094
 40317;Sir Francis Drake Blvd & Wolfe Grade;37.953217;-122.538895
-40516;Sir Francis Drake Blvd At Drake Manor Apts;37.99704;-122.599068
+40316;Sir Francis Drake Blvd & Wolfe Grade;37.952747;-122.538094
 40517;Sir Francis Drake Blvd At Drake Manor Apts;37.997185;-122.599068
+40516;Sir Francis Drake Blvd At Drake Manor Apts;37.99704;-122.599068
 40332;Sir Francis Drake Blvd Opposite 1111 Sir Francis;37.959251;-122.55246
 40474;Sir Francis Drake HS-Sir Francis Drake & Ash Ave;37.985386;-122.574287
+41329;Smith Ranch Rd At Cinemark;38.019822;-122.533377
 41327;Smith Ranch Rd At Cinemark;38.019527;-122.532745
-41329;Smith Ranch Rd At Cinemark;38.019764;-122.532829
 41328;Smith Ranch Rd At Contempo Marin;38.018431;-122.528271
-40719;Sunset Pkwy & Cambridge St;38.084148;-122.563057
 40718;Sunset Pkwy & Cambridge St;38.084274;-122.563026
+40719;Sunset Pkwy & Cambridge St;38.084148;-122.563057
 40721;Sunset Pkwy & Denlyn St;38.08215;-122.563988
 40720;Sunset Pkwy & Denlyn St;38.082222;-122.564049
 40725;Sunset Pkwy & Merrit Dr;38.07584;-122.568192
-40723;Sunset Pkwy & Midway Blvd;38.080456;-122.565926
 40722;Sunset Pkwy & Midway Blvd;38.080528;-122.566048
+40723;Sunset Pkwy & Midway Blvd;38.080456;-122.565926
 40155;Tam Junction-Shoreline Hwy & Almonte Blvd;37.881521;-122.524677
-40156;Tam Junction-Shoreline Hwy & Almonte Blvd;37.881612;-122.524565
+40156;Tam Junction-Shoreline Hwy & Almonte Blvd;37.881633;-122.524561
 42108;Tamal Vista Blvd & Council Crest Dr;37.930038;-122.518028
-40270;Tamal Vista Blvd & Fifer Av;37.937805;-122.518639
+40270;Tamal Vista Blvd & Fifer Av;37.937808;-122.518714
 40269;Tamal Vista Blvd & Fifer Av;37.93782;-122.518784
-40272;Tamal Vista Blvd & Sandpiper Circle;37.934109;-122.518295
 40271;Tamal Vista Blvd & Sandpiper Circle;37.934067;-122.51841
+40272;Tamal Vista Blvd & Sandpiper Circle;37.934109;-122.518295
 40281;Tamalpais Dr & Casa Buena Dr;37.92503;-122.518509
-40278;Tamalpais Dr & Eastman Av;37.925507;-122.523781
 40277;Tamalpais Dr & Eastman Av;37.925297;-122.523697
+40278;Tamalpais Dr & Eastman Av;37.925507;-122.523781
 40280;Tamalpais Dr & Madera Blvd;37.925266;-122.518959
 40279;Tamalpais Dr & Meadowsweet Dr;37.925198;-122.521736
 40570;Terra Linda High School;37.999966;-122.552696
-40212;Tiburon Blvd & Avenida Miraflores;37.892582;-122.482834
+40212;Tiburon Blvd & Avenida Miraflores;37.892675;-122.483052
 40173;Tiburon Blvd & Bay Vista Dr;37.89925;-122.504532
+40200;Tiburon Blvd & Beach Rd;37.875079;-122.458844
 40199;Tiburon Blvd & Beach Rd;37.875637;-122.459412
-40200;Tiburon Blvd & Beach Rd;37.875107;-122.458969
-40219;Tiburon Blvd & Blackfield Dr;37.898872;-122.501976
+40219;Tiburon Blvd & Blackfield Dr;37.898876;-122.501813
 40217;Tiburon Blvd & Cecilia Way;37.897766;-122.498741
-40218;Tiburon Blvd & Cecilia Way;37.896988;-122.498482
-40208;Tiburon Blvd & Gilmartin Dr;37.886272;-122.474319
+40218;Tiburon Blvd & Cecilia Way;37.896681;-122.498266
+40208;Tiburon Blvd & Gilmartin Dr;37.886501;-122.474651
 40209;Tiburon Blvd & Gilmartin Dr;37.886097;-122.474419
-40220;Tiburon Blvd & Greenwood Beach Rd;37.897614;-122.489014
-40223;Tiburon Blvd & Greenwood Cove Rd;37.898518;-122.501144
+40220;Tiburon Blvd & Greenwood Beach Rd;37.897529;-122.489113
+40223;Tiburon Blvd & Greenwood Cove Rd;37.898407;-122.500538
 40172;Tiburon Blvd & Hwy 101 NB-Off Ramp;37.902489;-122.513786
 40171;Tiburon Blvd & Hwy 101 SB-Off Ramp;37.902813;-122.514786
-40215;Tiburon Blvd & Jefferson Dr;37.897655;-122.489182
+40215;Tiburon Blvd & Jefferson Dr;37.897626;-122.489308
+40204;Tiburon Blvd & Lyford Dr;37.879939;-122.464613
 40203;Tiburon Blvd & Lyford Dr;37.880646;-122.465065
-40204;Tiburon Blvd & Lyford Dr;37.880093;-122.464722
-40202;Tiburon Blvd & Mar West St;37.877022;-122.461998
-40224;Tiburon Blvd & Mar West St;37.877048;-122.462273
-40176;Tiburon Blvd & N Knoll Rd;37.902248;-122.511078
-40175;Tiburon Blvd & N Knoll Rd;37.90197;-122.511063
-40205;Tiburon Blvd & Neds Way;37.881863;-122.467155
-40206;Tiburon Blvd & Neds Way;37.881721;-122.467133
-40213;Tiburon Blvd & Pine Terrace;37.892578;-122.483345
-40216;Tiburon Blvd & Reed Ranch Rd;37.896053;-122.491829
+40202;Tiburon Blvd & Mar West St;37.877013;-122.461812
+40224;Tiburon Blvd & Mar West St;37.877074;-122.462362
+40175;Tiburon Blvd & N Knoll Rd;37.901916;-122.510921
+40176;Tiburon Blvd & N Knoll Rd;37.902204;-122.510907
+40206;Tiburon Blvd & Neds Way;37.881870;-122.467564
+40205;Tiburon Blvd & Neds Way;37.881962;-122.467334
+40213;Tiburon Blvd & Pine Terrace;37.892817;-122.484041
+40216;Tiburon Blvd & Reed Ranch Rd;37.896151;-122.491706
 40210;Tiburon Blvd & Rock Hill Dr;37.889191;-122.477814
-40211;Tiburon Blvd & Rock Hill Dr;37.888641;-122.477547
-40207;Tiburon Blvd & San Rafael Av;37.884228;-122.472115
-42054;Tiburon Blvd & San Rafael Av;37.884018;-122.472076
-40214;Tiburon Blvd & Stewart Dr;37.894749;-122.48642
-40264;Tiburon Blvd & Stewart Dr;37.894676;-122.486542
-40177;Tiburon Blvd & Strawberry Dr;37.898983;-122.504494
+40211;Tiburon Blvd & Rock Hill Dr;37.888443;-122.477412
+42054;Tiburon Blvd & San Rafael Av;37.883952;-122.472039
+40207;Tiburon Blvd & San Rafael Av;37.884222;-122.472059
+40214;Tiburon Blvd & Stewart Dr;37.894649;-122.486316
+40264;Tiburon Blvd & Stewart Dr;37.894235;-122.486132
+40177;Tiburon Blvd & Strawberry Dr;37.898905;-122.504146
 40201;Tiburon Tiburon Blvd & Main St;37.873861;-122.456139
 41160;Union St & Fourth St;37.970993;-122.516357
 41157;Union St & Mission Av;37.97208;-122.515572
