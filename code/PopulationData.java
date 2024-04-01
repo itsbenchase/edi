@@ -301,7 +301,7 @@ public class PopulationData
                     }
 
                     System.out.println("Line " + (i + 1) + " / " + codes.size());
-                    population(true);
+                    population(true, (i + 1));
                 }
 
                 for (int i = 0; i < agencyDisplay.size(); i++)
@@ -315,14 +315,14 @@ public class PopulationData
             // if not a bulk run
             if (!firstChoice.equalsIgnoreCase("bulk"))
             {
-                population(false);
+                population(false, 0);
                 codes.clear();
                 lengths.clear();
             }
         }
     }
 
-    public static void population(boolean whole)
+    public static void population(boolean whole, int progress)
     {
         // 16 nearby points
         // 1 deg lat = 364080 feet = ~68.95454 miles
@@ -415,7 +415,14 @@ public class PopulationData
             if (!geoid.contains(geoidGen))
             {
                 totalPop += Integer.parseInt(population);
-                System.out.println("Blocks Processed: " + (i + 1) + " / " + latitudes.size());
+                if (whole) // display route on if bulk
+                {
+                    System.out.println("Route " + progress + " - Blocks Processed: " + (i + 1) + " / " + latitudes.size());
+                }
+                else
+                {
+                    System.out.println("Blocks Processed: " + (i + 1) + " / " + latitudes.size());
+                }
             }
             geoid.add(geoidGen);
         }
