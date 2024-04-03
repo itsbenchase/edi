@@ -3,26 +3,56 @@ B1;6.61;1.19;B1: Bay Ridge - Manhattan Beach;Main
 B2;2.4;1.29;B2: Kings Hwy Station - Kings Plaza;Main
 B3;5.3;1.1;B3: Bensonhurst - Bergen Beach;Main
 B4;8.84;1.4;B4: Bay Ridge - Sheepshead Bay;Main
+B6;9.72;1.26;B6: Bath Beach - East New York;Main
+B7;6.68;1.14;B7: Midwood - Bedford-Stuyvesant;Main
 B8;9.64;1.37;B8: Dyker Heights - East Flatbush;Main
+B9;7.74;1.21;B9: Bay Ridge - Kings Plaza;Main
+B11;5.8;1.4;B11: Sunset Park - Midwood;Main
 B12;4.06;1.14;B12: Lefferts Gardens - East New York;Main
 B13;7.7;1.83;B13: Spring Creek - Wyckoff Hospital;Main
 B14;4.89;1.35;B14: Spring Creek - Crown Heights;Main
+B15;9.25;1.39;B15: Bedford Stuyvesant - JFK Airport;Main
 B16;7.39;1.42;B16: Fort Hamilton Pkwy / 13 & 14 Avs;Main
+B17;4.26;1.29;B17: Canarsie - Crown Heights;Main
+B20;6.93;2.02;B20: Ridgewood - Spring Creek;Main
 B24;6.13;4.26;B24: Greenpoint / Kingsland Avs;Main
 B25;5.66;1.1;B25: Downtown Brooklyn & DUMBO - Broadway Junction;Main
 B26;5.67;1.34;B26: Downtown Brooklyn - Ridgewood;Main
 B31;2.75;1.1;B31: Gerritsen Beach - Kings Hwy Station;Main
 B32;3.46;1.26;B32: Williamsburg - Long Island City;Main
+B35;6.42;1.13;B35: Brownsville - Sunset Park;Main
+B36;4.62;1.26;B36: Sheepshead Bay - Coney Island;Main
 B37;5.93;1.03;B37: Downtown Brooklyn - Bay Ridge;Main
+B38-seneca;5.74;1.27;B38: Ridgewood - Downtown Brooklyn;to Seneca / Cornelia
+B38-starr;5.51;1.33;B38: Ridgewood - Downtown Brooklyn;to Starr / Metropolitan
 B39;1.76;1.0;B39: Williamsburg Bridge Plaza / Brooklyn Lower East;Main
 B41-bergen;7.59;1.12;B41: Flatbush Av;to E 70 / Veterans
 B41-kings;7.2;1.03;B41: Flatbush Av;to Kings Plaza
 B42;1.28;1.01;B42: Rockaway Pkwy;Main
 B43;6.52;1.23;B43: Greenpoint - Lefferts Gardens;Main
+B44;8.8;1.1;B44: Sheepshead Bay - Williamsburg;Main
 B45;4.29;1.11;B45: Downtown Brooklyn - Crown Heights;Main
+B46;7.82;1.09;B46: Kings Plaza - Williamsburg;Main
 B47;7.28;1.17;B47: Kings Plaza - Bedford-Stuyvesant;Main
 B48;5.79;1.21;B48: Lefferts Gardens - Greenpoint;Main
+B49;8.4;1.18;B49: Manhattan Beach - Bedford-Stuyvesant;Main
+B52;5.02;1.18;B52: Downtown Brooklyn - Ridgewood;Main
+B54;4.16;1.03;B54: Downtown Brooklyn - Ridgewood;Main
+B57;7.78;1.19;B57: Gowanus - Maspeth;Main
+B60;7.88;1.45;B60: Williamsburg - Canarsie;Main
+B61;5.33;2.32;B61: Park Slope - Downtown Brooklyn;Main
+B62;7.14;1.47;B62: Downtown Brooklyn - Long Island City;Main
+B63;7.31;1.24;B63: Bay Ridge - Cobble Hill;Main
+B64;6.37;1.26;B64: Bay Ridge - Coney Island;Main
+B65;4.22;1.16;B65: Downtown Brooklyn - Crown Heights;Main
+B67;6.33;1.32;B67: Brooklyn Navy Yard - Kensington;Main
+B68;7.47;1.29;B68: Coney Island - Windsor Terrace;Main
 B69;5.91;1.38;B69: 7 & Vanderbilt Avs;Main
+B70;4.77;1.44;B70: Dyker Heights - Sunset Park;Main
+B74;1.54;1.27;B74: Sea Gate - Stillwell Av;Main
+B82;10.05;1.42;B82: Coney Island - Spring Creek Towers;Main
+B83;4.69;2.1;B83: Spring Creek - Broadway Junction;Main
+B84;1.91;1.48;B84: Spring Creek - New Lots;Main
 Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
 Bx7;5.82;1.1;Bx7: Riverdale - Washington Heights;Main
 Bx9;6.15;1.24;Bx9: Riverdale - West Farms Sq;Main
@@ -73,11 +103,16 @@ M116;2.65;1.37;M116: West Side - East Harlem;Main
 M125;3.12;1.37;M125: Manhattanville - The Hub via 125 St / Willis Av;Main
 New Haven;69.81;1.04;New Haven Line;Main
 Q23;6.52;1.5;Q23: 108 St;Main
+Q24;7.88;1.1;Q24: Broadway Junction - Jamaica;Main
 Q33;2.32;1.28;Q33: 82 / 83 Sts;Main
 Q35;8.19;1.23;Q35: Rockaway Park - Brooklyn College;Main
 Q38;7.1;24.34;Q38: Eliot Av - Penelope Av;Main
 Q47;5.69;1.27;Q47: LaGuardia Marine Air Terminal - Glendale;Main
 Q49;2.44;1.52;Q49: 35 Av;Main
+Q54;9.41;1.06;Q54: Williamsburg - Jamaica;Main
+Q55;4.14;1.02;Q55: Ridgewood - Richmond Hill;Main
+Q56;6.51;1.03;Q56: Broadway Junction - Jamaica;Main
+Q58;7.81;1.35;Q58: Ridgewood - Flushing;Main
 Q69;5.01;1.58;Q69: 21 St - Ditmars Blvd;Main
 Q100;5.19;1.32;Q100: Rikers Island Limited;Main
 Q102;6.09;3.6;Q102: 31 St - Roosevelt Island;Main
