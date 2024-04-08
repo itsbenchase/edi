@@ -54,16 +54,50 @@ B82;10.05;1.42;B82: Coney Island - Spring Creek Towers;Main
 B83;4.69;2.1;B83: Spring Creek - Broadway Junction;Main
 B84;1.91;1.48;B84: Spring Creek - New Lots;Main
 Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
+Bx2;6.98;1.39;Bx2: Kingsbridge Heights - Mott Haven;Main
+Bx3;4.16;1.34;Bx3: Riverdale - George Washington Bridge;Main
+Bx4;4.32;1.03;Bx4: Westchester Sq - The Hub;Main
+Bx4A;3.16;1.15;Bx4A: Westchester Sq - Gladstone Sq;Main
+Bx5;5.37;1.36;Bx5: Pelham Bay - Gladstone Sq;Main
+Bx5-mall;6.56;1.5;Bx5: Pelham Bay - Gladstone Sq;to Bay Plaza Mall
+Bx5-turnbull;2.04;1.08;Bx5: Pelham Bay - Gladstone Sq;to Turnbull / Pugsley
+Bx6;4.59;1.1;Bx6: Hunts Point - Riverside Dr;Main
 Bx7;5.82;1.1;Bx7: Riverdale - Washington Heights;Main
+Bx8;7.99;1.34;Bx8: Williamsbridge - Locust Point;Main
 Bx9;6.15;1.24;Bx9: Riverdale - West Farms Sq;Main
 Bx10;6.85;2.41;Bx10: Riverdale - Norwood;Main
+Bx11;4.58;1.12;Bx11: George Washington Bridge - Parkchester;Main
+Bx12;4.53;1.04;Bx12: Pelham Bay - Inwood;Main
+Bx12-SBS;7.01;1.43;Bx12: Pelham Bay - Inwood;Select Bus Service
+Bx13;2.71;1.36;Bx13: George Washington Bridge - Bronx Terminal Market;Main
 Bx15;3.45;1.02;Bx15: Fordham Plaza - The Hub via 3 Av;Main
 Bx16;6.75;2.02;Bx16: Pelham - Norwood via E 233 / Nereid Av;Main
+Bx17;5.1;1.25;Bx17: Fordham Plaza - Port Morris;Main
 Bx18A;1.65;2.07;Bx18: Morris Heights / High Bridge;A: Undercliff Loop
 Bx18B;1.54;1.83;Bx18: Morris Heights / High Bridge;B: Sedgwick Loop
+Bx19;6.71;1.46;Bx19: NY Botanical Garden - Riverbank Park;Main
 Bx20;3.28;1.73;Bx20: Riverdale - Inwood;Main
+Bx21;6.45;1.33;Bx21: Westchester Sq - Mott Haven;Main
 Bx22;6.16;1.23;Bx22: Bedford Park - Castle Hill;Main
 Bx24;3.99;3.06;Bx24: Country Club - Hutchinson Metro Center;Main
+Bx25;6.02;1.73;Bx25: Co-op City Bay Plaza - Bedford Park;Main
+Bx26;5.09;1.38;Bx26: Co-op City Section 5 - Bedford Park;Main
+Bx27;3.38;1.3;Bx27: Clasons Pt - Gladstone Sq;Main
+Bx28;8.07;2.14;Bx28: Co-op City Section 5 - Fordham Center;Main
+Bx29;3.61;1.47;Bx29: City Island - Pelham Bay;Main
+Bx30;6.06;2.56;Bx30: Co-op City Section 5 - Pelham Parkway;Main
+Bx31;5.65;1.26;Bx31: Woodlawn - Westchester Sq;Main
+Bx32;4.9;1.2;Bx32: Kingsbridge VA Hospital - Mott Haven;Main
+Bx33;2.81;1.25;Bx33: Port Morris - Harlem;Main
+Bx34;3.78;1.2;Bx34: Woodlawn - Fordham Center;Main
+Bx35;3.76;1.24;Bx35: George Washington Bridge-West Farms Road;Main
+Bx36;6.04;1.23;Bx36: Soundview - George Washington Bridge;Main
+Bx38;5.29;1.81;Bx38: Co-op City Bay Plaza - Norwood;Main
+Bx39;7.33;1.11;Bx39: Wakefield - Clasons Pt;Main
+Bx40;7.87;1.14;Bx40: Throgs Neck - River Park Towers;Main
+Bx41;5.27;1.05;Bx41: Williamsbridge - The Hub;Main
+Bx42;7.98;1.43;Bx42: Throgs Neck - River Park Towers;Main
+Bx46;1.88;1.28;Bx46: Prospect Av - Westchester Av / Hunts Point Market;Main
 BxM1;13.41;1.1;BxM1: Riverdale - East Midtown;Main
 BxM4;13.02;1.03;BxM4: Woodlawn - Midtown;Main
 hrl-l;2.33;3.47;Hudson Rail Link L;Main
@@ -113,6 +147,7 @@ Q54;9.41;1.06;Q54: Williamsburg - Jamaica;Main
 Q55;4.14;1.02;Q55: Ridgewood - Richmond Hill;Main
 Q56;6.51;1.03;Q56: Broadway Junction - Jamaica;Main
 Q58;7.81;1.35;Q58: Ridgewood - Flushing;Main
+Q59;6.83;1.28;Q59: Williamsburg - Rego Park;Main
 Q69;5.01;1.58;Q69: 21 St - Ditmars Blvd;Main
 Q100;5.19;1.32;Q100: Rikers Island Limited;Main
 Q102;6.09;3.6;Q102: 31 St - Roosevelt Island;Main
