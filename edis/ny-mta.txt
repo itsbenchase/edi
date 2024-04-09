@@ -107,21 +107,27 @@ M1;8.22;1.07;M1: Fifth / Madison Avs;Main
 M2;9.07;1.11;M2: Fifth / Madison Avs / AC Powell Blvd;Main
 M3;9.94;1.09;M3: Fifth / Madison / St Nicholas Avs;Main
 M4;9.73;1.12;M4: Fifth / Madison Avs / Broadway;Main
+M5;8.08;1.09;M5: George Washington Bridge - 31 St & 6 Av;Main
 M7;7.73;1.17;M7: Columbus / Amsterdam / 6 & 7 Avs;Main
 M8;2.11;1.08;M8: West Village - East Village;Main
 M9;4.34;1.41;M9: Bellevue Hospital Center / Battery Park City;Main
 M10;5.17;1.02;M10: Central Park W / Frederick Douglass Blvd;Main
 M11;4.27;1.0;M11: Riverbank Park & Harlem - West Village;Main
 M12;3.3;1.41;M12: Midtown West - West Village;Main
+M14A;3.4;1.53;M14A: Lower East Side - Abingdon Sq;Main
+M14D;3.04;1.26;M14D: Lower East Side - Chelsea Piers;Main
+M15;8.48;1.04;M15: East Harlem - South Ferry;Main
 M20;5.76;1.15;M20: Lincoln Center - South Ferry;Main
 M21;2.33;1.21;M21: Lower East Side - West Village;Main
 M22;2.42;1.23;M22: Lower East Side - Battery Park City;Main
 M23;2.28;1.1;M23: Chelsea Piers - East Side;Main
 M31;3.79;1.46;M31: 57 St / York Av;Main
+M34;1.91;1.0;M34: East Side - Javits Center;Main
+M34A;2.62;1.49;M34A: Waterside - Port Authority Terminal;Main
 M35;2.34;1.68;M35: Randall's / Ward's Islands;Main
 M42;1.95;1.01;M42: 42 St Crosstown;Main
 M50;2.23;1.16;M50: 49 / 50 Sts Crosstown;Main
-M55;4.18;1.07;M55: W 44 St  - South Ferry;Main
+M55;4.18;1.07;M55: W 44 St - South Ferry;Main
 M57;1.35;1.59;M57: East Side - West Side;Main
 M60;8.08;1.4;M60: West Side - LaGuardia Airport;Main
 M66;1.8;1.0;M66: East Side - Lincoln Center;Main
@@ -131,17 +137,51 @@ M86;2.25;1.31;M86: Yorkville - West Side;Main
 M96;1.66;1.01;M96: East Side - West Side;Main
 M98;6.96;1.07;M98: Washington Heights - Upper East Side LTD;Main
 M100;5.69;1.2;M100: Amsterdam Av / Broadway / 125 St;Main
+M101;10.31;1.12;M101: East Village - Fort George;Main
+M102;7.78;1.12;M102: Harlem - East Village;Main
+M103;7.57;1.02;M103: East Harlem - City Hall;Main
 M104;5.34;1.2;M104: West Harlem - Times Square;Main
 M106;2.3;1.24;M106: East Harlem - West Side;Main
 M116;2.65;1.37;M116: West Side - East Harlem;Main
 M125;3.12;1.37;M125: Manhattanville - The Hub via 125 St / Willis Av;Main
 New Haven;69.81;1.04;New Haven Line;Main
+Q1-bellerose;4.32;1.11;Q1: Queens Village / Bellerose - Jamaica;to Bellerose
+Q1-queens-village;4.23;1.31;Q1: Queens Village / Bellerose - Jamaica;to Queens Village
+Q2;4.26;1.2;Q2: Queens Village - Jamaica;Main
+Q3;10.14;2.89;Q3: Jamaica - JFK Airport;Main
+Q4;4.62;1.14;Q4: Cambria Heights - Jamaica;Main
+Q5-green-acres;6.74;1.32;Q5: Rosedale or Green Acres Mall - Jamaica;to Green Acres Mall
+Q5-rosedale;5.69;1.3;Q5: Rosedale or Green Acres Mall - Jamaica;to Rosedale
+Q12;5.15;1.06;Q12: Little Neck - Flushing;Main
+Q13;5.4;1.8;Q13: Fort Totten - Flushing;Main
+Q15;3.76;1.33;Q15: Flushing - Beechhurst;Main
+Q15A;4.07;1.44;Q15A: Flushing - Beechhurst / Whitestone;Main
+Q16;4.64;1.44;Q16: Fort Totten - Flushing;Main
+Q16-U;4.37;1.36;Q16: Fort Totten - Flushing;U: via Utopia Blvd
+Q17;6.75;1.57;Q17: Flushing - Jamaica;Main
+Q20A;8.49;1.39;Q20A: College Point - Jamaica;Main
+Q20B;8.86;1.45;Q20B: College Point - Jamaica;Main
 Q23;6.52;1.5;Q23: 108 St;Main
 Q24;7.88;1.1;Q24: Broadway Junction - Jamaica;Main
+Q26;3.04;1.07;Q26: Fresh Meadows - Flushing (Part-time);Main
+Q27;9.21;1.42;Q27: Cambria Heights - Flushing;Main
+Q28;4.51;1.5;Q28: Bayside - Flushing;Main
+Q30-little-neck;7.48;1.22;Q30: Little Neck or Queensborough College - Jamaica;to Little Neck
+Q30-queensborough;5.87;1.29;Q30: Little Neck or Queensborough College - Jamaica;to Queensborough College
+Q31;8.16;1.62;Q31: Bayside - Jamaica;Main
+Q32;7.19;1.32;Q32: Jackson Heights - Penn Station;Main
 Q33;2.32;1.28;Q33: 82 / 83 Sts;Main
 Q35;8.19;1.23;Q35: Rockaway Park - Brooklyn College;Main
+Q36-floral-park;5.7;1.19;Q36: Floral Park or Little Neck - Jamaica;to Floral Park
+Q36-little-neck;9.26;1.74;Q36: Floral Park or Little Neck - Jamaica;to Little Neck
 Q38;7.1;24.34;Q38: Eliot Av - Penelope Av;Main
+Q42;2.23;1.54;Q42: Addeslieigh Park - Jamaica;Main
+Q43;6.61;1.07;Q43: Floral Park - Jamaica;Main
+Q44;12.82;1.22;Q44: Bronx Zoo - Jamaica;Main
+Q46-260;7.32;1.15;Q46: Glen Oaks - Kew Gardens;to 260 St / Little Neck Pkwy
+Q46-lij;7.69;1.08;Q46: Glen Oaks - Kew Gardens;to LIJ Medical Center
 Q47;5.69;1.27;Q47: LaGuardia Marine Air Terminal - Glendale;Main
+Q48;3.09;1.53;Q48: Flushing - LaGuardia Airport;Main
 Q49;2.44;1.52;Q49: 35 Av;Main
 Q54;9.41;1.06;Q54: Williamsburg - Jamaica;Main
 Q55;4.14;1.02;Q55: Ridgewood - Richmond Hill;Main
@@ -149,17 +189,83 @@ Q56;6.51;1.03;Q56: Broadway Junction - Jamaica;Main
 Q58;7.81;1.35;Q58: Ridgewood - Flushing;Main
 Q59;6.83;1.28;Q59: Williamsburg - Rego Park;Main
 Q69;5.01;1.58;Q69: 21 St - Ditmars Blvd;Main
+Q76;9.78;1.76;Q76: College Point - Jamaica;Main
+Q77;6.24;1.76;Q77: Laurelton - Jamaica;Main
+Q83;4.6;1.18;Q83: Cambria Heights - Jamaica;Main
+Q84;5.23;1.29;Q84: Laurelton - Jamaica;Main
+Q85-green-acres;7.13;1.4;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Green Acres Mall
+Q85-rosedale;6.16;1.39;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Rosedale
+Q88;8.77;1.24;Q88: Elmhurst - Queens Village;Main
 Q100;5.19;1.32;Q100: Rikers Island Limited;Main
 Q102;6.09;3.6;Q102: 31 St - Roosevelt Island;Main
 Q104;2.85;1.55;Q104: Broadway / 48th St;Main
+Q110;4.17;1.08;Q110: Floral Park - Jamaica;Main
 QM24;11.51;1.83;QM24: Glendale - Midtown;Main
 S Franklin;1.36;1.0;Franklin Av Shuttle;Main
 S Rockaway;2.67;1.23;Rockaway Park Shuttle;Main
+S40;8.12;1.32;S40: St. George - Amazon;Main
 S42;2.5;2.63;S42: St Marks Pl / Bay St;Main
+S44;9.41;1.38;S44: St. George - Staten Island Mall;Main
+S46;8.47;1.23;S46: St. George - West Shore Plaza;Main
+S48;6.74;1.31;S48: St. George - Mariners Harbor;Main
+S51;7.4;1.55;S51: St. George - Grant City;Main
+S52;8.05;1.98;S52: St. George - Staten Island Univ. Hospital;Main
+S53;8.47;1.54;S53: Port Richmond - Bay Ridge;Main
+S54;10.62;1.4;S54: West New Brighton - Eltingville;Main
 S55;9.08;2.29;S55: Annadale Rd / Richmond Av;Main
+S56;7.87;1.86;S56: Huguenot - Staten Island Mall;Main
 S57;9.21;1.71;S57: Rockland / Brielle / Bradley Avs;Main
+S59-eltingville;8.48;1.14;S59: Port Richmond - Tottenville;to Eltingville
+S59-tottenville;14.76;1.35;S59: Port Richmond - Tottenville;to Tottenville
+S61;8.79;1.29;S61: St. George - Staten Island Mall;Main
 S62;8.19;1.07;S62: Victory Blvd;Main
+S66;7.4;2.43;S66: St. George - Port Richmond;Main
 S74;15.8;1.38;S74: Richmond / Arthur Kill Rds;Main
+S76;8.95;1.35;S76: St. George - Oakwood;Main
+S78;17.8;1.55;S78: St. George - Bricktown Mall;Main
+S79;13.75;1.84;S79: Staten Island Mall - Bay Ridge;Main
+S81;7.31;1.55;S81: St. George - Grant City LTD;Main
+S84;15.13;1.33;S84: St. George - Bricktown Mall LTD;Main
+S86;8.77;1.32;S86: St. George - Oakwood LTD;Main
 S89;10.97;1.12;S89: Richmond Av / Bayonne;Main
+S90;7.75;1.28;S90: St. George - Amazon;Main
+S91;8.7;1.28;S91: St. George - Staten Island Mall LTD;Main
 S92;8.1;1.05;S92: Victory Blvd;Main
+S93;7.44;1.13;S93: College of Staten Island - Bay Ridge LTD;Main
+S94;8.77;1.28;S94: St. George - Staten Island Mall LTD;Main
+S96;8.65;1.26;S96: St. George - West Shore Plaza LTD;Main
+S98;6.62;1.28;S98: St. George - Mariners Harbor LTD;Main
+SIM1;19.3;1.32;SIM1: Eltingville - Lower Manhattan Express;Main
+SIM1C;22.04;1.26;SIM1C: Eltingville - Manhattan Express;Main
+SIM2;27.68;1.41;SIM2: Tottenville - Lower Manhattan Express;Main
+SIM3;20.32;1.67;SIM3: Pt. Richmond - Midtown Manhattan Express;Main
+SIM3C;19.93;1.64;SIM3C: Pt. Richmond - Manhattan Express;Main
+SIM4;19.59;1.38;SIM4: Eltingville - Lower Manhattan Express;Main
+SIM4C;26.3;1.37;SIM4C: Huguenot - Manhattan Express;Main
+SIM4X;17.6;1.39;SIM4X: S.I. Mall - Lower Manhattan Express;Main
+SIM5;18.35;1.35;SIM5: Eltingville - Lower Manhattan Express;Main
+SIM6;22.72;1.31;SIM6: Eltingville - Midtown Manhattan Express;Main
+SIM7;19.93;1.3;SIM7: Eltingville - Greenwich Village Express;Main
+SIM8;25.1;1.31;SIM8: Huguenot - Midtown Manhattan Express;Main
+SIM8X;21.2;1.34;SIM8X: S.I. Mall - Midtown Manhattan Express;Main
+SIM9;18.27;1.12;SIM9: Eltingville - Greenwich Village Express;Main
+SIM10;23.47;1.34;SIM10: Eltingville - Midtown Manhattan Express;Main
+SIM11;17.91;1.16;SIM11: New Dorp - Midtown Manhattan Express;Main
+SIM15;18.59;1.43;SIM15: Eltingville - Lower Manhattan Express;Main
 SIM22;23.7;1.26;SIM22: Eltingville - Midtown via Richmond Av;Main
+SIM23;26.03;1.33;SIM23: Annadale - Midtown Manhattan Express;Main
+SIM24;23.64;1.17;SIM24: Prince's Bay - Midtown Manhattan Express;Main
+SIM25;27.81;1.2;SIM25: Tottenville - Midtown Manhattan Express;Main
+SIM26;28.06;1.26;SIM26: Tottenville - Midtown Manhattan Express;Main
+SIM30-rosebank;23.07;1.95;SIM30: Sunnyside - Midtown Manhattan Express;to Rosebank
+SIM30-sunnyside;22.43;1.83;SIM30: Sunnyside - Midtown Manhattan Express;to Sunnyside
+SIM31;22.31;1.28;SIM31: Eltingville - Midtown Manhattan Express;Main
+SIM32;16.15;1.19;SIM32: Travis - Lower Manhattan Express;Main
+SIM33;19.27;1.73;SIM33: Mariners Harbor - Manhattan Express;Main
+SIM33C;21.82;1.65;SIM33C: Mariners Harbor - Greenwich Village Express;Main
+SIM34;18.61;1.77;SIM34: Mariners Harbor - Lower Manhattan Express;Main
+SIM35;15.63;1.84;SIM35: Port Richmond - Lower Manhattan Express;Main
+X63;21.36;1.53;X63: Rosedale - Midtown Manhattan Express;Main
+X64;19.22;1.42;X64: Cambria Heights - Midtown Manhattan Express;Main
+X68-23;19.27;1.33;X68: Floral Park - Midtown Manhattan Express;to 23 St / 1 Av
+X68-57;16.95;1.21;X68: Floral Park - Midtown Manhattan Express;to 57 St / 3 Av

@@ -1,5 +1,6 @@
 <title>Resources - Eliot Deviation Index</title> 
 <link rel=stylesheet href=style.css>
+<body onload="getAgencies()">
 <ul><li><a href=index.html>Home</a></li>
 <li><a href=stops.html>Stop Listing</a></li> 
 <li><a href=routes.html>Route Listing</a></li>
@@ -11,13 +12,44 @@
 
 <p>Here are a number of other resources that are relevant to the Eliot Deviation Index.</p>
 
-<h3>Mapping Data</h3>
-<p>As of February 2023, KML data is provided for all lines stored in the database <a href=maps/map-all.kml>here</a>. Individual agency maps should be available for download soon, stay tuned!</p>
+<p><a href="#map">Mapping Data</a><br>
+<a href="#code">Source Code</a><br>
+<a href="#reports">Advocacy Reports</a></p>
 
-<h3>Source Code</h3>
+<h3 id="map">Mapping Data</h3>
+<p>As of February 2023, KML data is provided for all lines stored in the database <a href=maps/map-all.kml>here</a>. Individual agency maps are available below. A 404 should be expected for agencies with no routes in the database.</p>
+
+<p id="agencies"></p>
+
+<script>
+function getAgencies()
+{
+  const agencyFileUrl = ("https://dev.eliotindex.org/agencies.txt");
+  const agencyCodes = [];
+  const agencyNames = [];
+
+  fetch(agencyFileUrl)
+    .then(r => r.text())
+    .then((text) => {
+      const agencyFile = text.split("\n");
+      agencyFile.pop();
+
+      for (let i = 0; i < agencyFile.length; i++)
+      {
+        var data = agencyFile[i];
+        agencyCodes.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        agencyNames.push(data);
+        document.getElementById("agencies").innerHTML += ("<a href=maps/map-" + agencyCodes[i] + ".kml>" + agencyNames[i] + "</a> (" + agencyCodes[i] + ")<br>");
+      }
+    })
+}
+</script>
+
+<h3 id="code">Source Code</h3>
 <p>Did you know that the Eliot Deviation Index is 100% open-source? The source code is <a href="https://github.com/itsbenchase/edi">available on GitHub</a>. Documentation for all of the code in the repository is available <a href=documentation.html>here</a> as of March 2024.</p>
 
-<h3>Advocacy Reports</h3>
+<h3 id="reports">Advocacy Reports</h3>
 <p>The Eliot Deviation Index has been used for transit advocacy, and the team has worked on bringing reports using the extensive data we've collected over the years. Full reports can be found below</p>
 
 <p><a href=reports/wi-metro-2024.pdf>Metro Transit, Madison (wi-metro) Redesign</a> - March 2024</p>
