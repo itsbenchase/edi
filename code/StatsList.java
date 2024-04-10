@@ -41,6 +41,7 @@ public class StatsList
 
       fileWriter1.write("<title>Statistics - Eliot Deviation Index</title> \n");
       fileWriter1.append("<link rel=stylesheet href=style.css> \n");
+      fileWriter1.append("<body onload=getAgencies()> \n");
       fileWriter1.append("<ul><li><a href=index.html>Home</a></li>");
       fileWriter1.append("<li><a href=stops.html>Stop Listing</a></li> \n");
       fileWriter1.append("<li><a href=routes.html>Route Listing</a></li> \n");
@@ -51,12 +52,8 @@ public class StatsList
       fileWriter1.append("<h1>Statistics</h1> \n");
 
       // listing with links at top
-      fileWriter1.append("<ul class=bullet style=background-color:#1f1f1f><a href=#global>Entire Database</a></ul> \n");
-      for (int i = 0; i < agencies.size(); i++)
-      {
-        fileWriter1.append("<ul class=bullet style=background-color:#1f1f1f><a href=#" + agencies.get(i) + ">" + fullAgencies.get(i) + "</a> (" + agencies.get(i) + ")</ul> \n");
-      }
-
+      fileWriter1.append("<p id=agencies><a href=#global>Entire Database</a><br></p> \n");
+      fileWriter1.append("<script src=list.js></script>");
       fileWriter1.append("<h3 id=global>Enitre Database</h3> \n");
       
       ArrayList<Double> lengths = new ArrayList<Double>(); // stores all lengths

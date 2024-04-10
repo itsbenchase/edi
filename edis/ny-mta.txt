@@ -53,6 +53,9 @@ B74;1.54;1.27;B74: Sea Gate - Stillwell Av;Main
 B82;10.05;1.42;B82: Coney Island - Spring Creek Towers;Main
 B83;4.69;2.1;B83: Spring Creek - Broadway Junction;Main
 B84;1.91;1.48;B84: Spring Creek - New Lots;Main
+B100;4.02;1.84;B100: Mill Basin - Midwood;Main
+B103;10.57;1.75;B103: Canarsie - Downtown Brooklyn Ltd;Main
+B103-nostrand;4.55;1.43;B103: Canarsie - Downtown Brooklyn Ltd;to Flatbush Av / Nostrand Av
 Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
 Bx2;6.98;1.39;Bx2: Kingsbridge Heights - Mott Haven;Main
 Bx3;4.16;1.34;Bx3: Riverdale - George Washington Bridge;Main
@@ -152,6 +155,13 @@ Q3;10.14;2.89;Q3: Jamaica - JFK Airport;Main
 Q4;4.62;1.14;Q4: Cambria Heights - Jamaica;Main
 Q5-green-acres;6.74;1.32;Q5: Rosedale or Green Acres Mall - Jamaica;to Green Acres Mall
 Q5-rosedale;5.69;1.3;Q5: Rosedale or Green Acres Mall - Jamaica;to Rosedale
+Q6;4.97;1.22;Q6: Jamaica - Sutphin Blvd - JFK Cargo Area;Main
+Q7;6.23;1.44;Q7: East NY - Rockaway Blvd - JFK Cargo Area;Main
+Q8;7.28;1.29;Q8: Gateway Mall / East NY - Jamaica;Main
+Q9;2.86;1.25;Q9: South Ozone Park - Jamaica;Main
+Q10;5.28;1.47;Q10: Kew Gardens - JFK Airport;Main
+Q11-96;6.62;1.09;Q11: Elmhurst / Queens Ctr - Old Howard Bch;to 96 St / 165 Av
+Q11-104;6.45;1.05;Q11: Elmhurst / Queens Ctr - Old Howard Bch;to 104 St / 165 Av
 Q12;5.15;1.06;Q12: Little Neck - Flushing;Main
 Q13;5.4;1.8;Q13: Fort Totten - Flushing;Main
 Q15;3.76;1.33;Q15: Flushing - Beechhurst;Main
@@ -159,18 +169,26 @@ Q15A;4.07;1.44;Q15A: Flushing - Beechhurst / Whitestone;Main
 Q16;4.64;1.44;Q16: Fort Totten - Flushing;Main
 Q16-U;4.37;1.36;Q16: Fort Totten - Flushing;U: via Utopia Blvd
 Q17;6.75;1.57;Q17: Flushing - Jamaica;Main
+Q18;5.21;1.34;Q18: Astoria - Maspeth;Main
+Q19;6.08;1.09;Q19: Astoria - Flushing;Main
 Q20A;8.49;1.39;Q20A: College Point - Jamaica;Main
 Q20B;8.86;1.45;Q20B: College Point - Jamaica;Main
+Q21;6.73;1.13;Q21: Elmhurst / Queens Ctr - Howard Beach;Main
+Q22-116;5.41;1.14;Q22: Roxbury - Rockaway Pk - Far Rockaway;to Beach 116 St
+Q22-169;7.88;1.09;Q22: Roxbury - Rockaway Pk - Far Rockaway;to Beach 169 St
 Q23;6.52;1.5;Q23: 108 St;Main
 Q24;7.88;1.1;Q24: Broadway Junction - Jamaica;Main
-Q26;3.04;1.07;Q26: Fresh Meadows - Flushing (Part-time);Main
+Q25;7.93;1.16;Q25: Jamaica - Flushing - College Point;Main
+Q26;3.04;1.07;Q26: Fresh Meadows - Flushing;Main
 Q27;9.21;1.42;Q27: Cambria Heights - Flushing;Main
 Q28;4.51;1.5;Q28: Bayside - Flushing;Main
+Q29;3.57;1.12;Q29: Jackson Heights - Glendale;Main
 Q30-little-neck;7.48;1.22;Q30: Little Neck or Queensborough College - Jamaica;to Little Neck
 Q30-queensborough;5.87;1.29;Q30: Little Neck or Queensborough College - Jamaica;to Queensborough College
 Q31;8.16;1.62;Q31: Bayside - Jamaica;Main
 Q32;7.19;1.32;Q32: Jackson Heights - Penn Station;Main
 Q33;2.32;1.28;Q33: 82 / 83 Sts;Main
+Q34;6.66;1.24;Q34: Jamaica - Flushing - Whitestone;Main
 Q35;8.19;1.23;Q35: Rockaway Park - Brooklyn College;Main
 Q36-floral-park;5.7;1.19;Q36: Floral Park or Little Neck - Jamaica;to Floral Park
 Q36-little-neck;9.26;1.74;Q36: Floral Park or Little Neck - Jamaica;to Little Neck

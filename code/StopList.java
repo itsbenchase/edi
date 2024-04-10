@@ -113,6 +113,7 @@ public class StopList
       FileWriter fileWriter2 = new FileWriter(newFile2);
       fileWriter2.write("<title>Stop Listing - Eliot Deviation Index</title> \n");
       fileWriter2.append("<link rel=stylesheet href=style.css> \n");
+      fileWriter2.append("<body onload=getAgencies2()> \n");
       fileWriter2.append("<ul><li><a href=index.html>Home</a></li>");
       fileWriter2.append("<li><a href=stops.html class=active>Stop Listing</a></li> \n");
       fileWriter2.append("<li><a href=routes.html>Route Listing</a></li> \n");
@@ -121,12 +122,9 @@ public class StopList
       fileWriter2.append("<li><a href=calculator.html>Calculator</a></li> \n");
       fileWriter2.append("<li><a href=resources.html>Resources</a></li></ul> \n");
       fileWriter2.append("<h1>Stop Listing</h1> \n");
-      fileWriter2.append("<p> \n");
 
-      for (int a = 0; a < agencies.size(); a++)
-      {
-        fileWriter2.append("<ul class=bullet style=background-color:#1f1f1f><a href=stops/" + agencies.get(a) + ".html>" + fullAgencies.get(a) + "</a> (" + agencies.get(a) + ")</ul> \n");
-      }
+      fileWriter2.append("<p id=agencies><a href=#global>Entire Database</a><br></p> \n");
+      fileWriter2.append("<script src=list.js></script>");
 
       fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
       fileWriter2.flush();

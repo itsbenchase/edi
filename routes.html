@@ -1,5 +1,6 @@
 <title>Route Listing - Eliot Deviation Index</title> 
 <link rel=stylesheet href=style.css> 
+<body onload=getAgencies()> 
 <ul><li><a href=index.html>Home</a></li><li><a href=stops.html>Stop Listing</a></li> 
 <li><a href=routes.html class=active>Route Listing</a></li> 
 <li><a href=detailed.html>Route Detail</a></li> 
@@ -7,168 +8,8 @@
 <li><a href=calculator.html>Calculator</a></li> 
 <li><a href=resources.html>Resources</a></li></ul> 
 <h1>Route Listing</h1> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-ac>Alameda-Contra Costa Transit District</a> (ca-ac)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ak-apm>Anchorage People Mover</a> (ak-apm)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-avta>Antelope Valley Transit Authority</a> (ca-avta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#va-art>Arlington Transit</a> (va-art)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-bart>Bay Area Rapid Transit</a> (ca-bart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-bct>Beach Cities Transit</a> (ca-bct)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-beeline>Bee-Line Bus System</a> (ny-beeline)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-barta>Berks Area Regional Transportation Authority</a> (pa-barta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-brta>Berkshire Regional Transit Authority</a> (ma-brta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-bbb>Big Blue Bus</a> (ca-bbb)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-brampton>Brampton Transit</a> (on-brampton)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-bat>Brockton Area Transit Authority</a> (ma-bat)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-burbank>Burbank Bus</a> (ca-burbank)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-burlington>Burlington Transit</a> (on-burlington)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-ctran>C-Tran</a> (wa-ctran)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ab-calgary>Calgary Transit</a> (ab-calgary)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-cata>Cape Ann Transit Authority</a> (ma-cata)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-ccrta>Cape Cod Regional Transit Authority</a> (ma-ccrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-cat>Capital Area Transit, Harrisburg</a> (pa-cat)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mi-cata>Capital Area Transportion Authority, Lansing</a> (mi-cata)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-cdta>Capital District Transportation Authority, Albany</a> (ny-cdta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#tx-cap>Capital Metropolitan Transportation Authority</a> (tx-cap)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-cccta>Central Costa County Transit Authority</a> (ca-cccta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-centro>Central New York Regional Transportation Authority</a> (ny-centro)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#oh-cota>Central Ohio Transit Authority</a> (oh-cota)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#il-cumtd>Champaign-Urbana Mass Transit District</a> (il-cumtd)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#nc-cats>Charlotte Area Transit System</a> (nc-cats)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#il-cta>Chicago Transit Authority</a> (il-cta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-commerce>Commerce Municipal Bus Lines</a> (ca-commerce)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-community>Community Transit</a> (wa-community)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#or-corvallis>Corvallis Transit System</a> (or-corvallis)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-ct>CTtransit</a> (ct-ct)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-culver>Culver CityBus</a> (ca-culver)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#tx-dart>Dallas Area Rapid Transit</a> (tx-dart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#va-dash>DASH Alexandria</a> (va-dash)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#il-dekalb>DeKalb Public Transit</a> (il-dekalb)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#de-dart>Delaware Authority for Regional Transit</a> (de-dart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mi-ddot>Detroit Department of Transportation</a> (mi-ddot)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-drt>Durham Region Transit</a> (on-drt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-dutchess>Dutchess County Public Transit</a> (ny-dutchess)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-eccta>Eastern Costa County Transit Authority</a> (ca-eccta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-etran>Elk Grove Transit</a> (ca-etran)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-emta>Erie Metropolitan Transit Authority</a> (pa-emta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-everett>Everett Transit</a> (wa-everett)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#va-fairfax>Fairfax Connector</a> (va-fairfax)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-fast>Fairfield and Suisun Transit</a> (ca-fast)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-foothill>Foothill Transit</a> (ca-foothill)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-frta>Franklin Regional Transit Authority</a> (ma-frta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-fax>Fresno Area Express</a> (ca-fax)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-glendale>Glendale Beeline</a> (ca-glendale)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-go>GO Transit</a> (on-go)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-ggt>Golden Gate Transit</a> (ca-ggt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-grt>Grand River Transit</a> (on-grt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-gatra>Greater Attleboro-Taunton Regional Transit Authority</a> (ma-gatra)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-gbt>Greater Bridgeport Transit</a> (ct-gbt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#oh-rta>Greater Cleveland Regional Transit Authority</a> (oh-rta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#in-citybus>Greater Lafayette Public Transportation Corporation</a> (in-citybus)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#me-gpm>Greater Portland Metro</a> (me-gpm)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#vt-gmt>Green Mountain Transit</a> (vt-gmt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-gtrans>GTrans, Gardena</a> (ca-gtrans)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-hsr>Hamilton Street Railway</a> (on-hsr)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#va-hrt>Hampton Roads Transit</a> (va-hrt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#fl-hart>Hillsborough Area Regional Transit</a> (fl-hart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-hart>Housatonic Area Regional Transit</a> (ct-hart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#in-indygo>IndyGo</a> (in-indygo)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-intercity>Intercity Transit</a> (wa-intercity)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#in-interurban>Interurban Trolley</a> (in-interurban)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-island>Island Transit</a> (wa-island)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-king>King County Metro</a> (wa-king)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-kitsap>Kitsap Transit</a> (wa-kitsap)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#or-ltd>Lane Transit District</a> (or-ltd)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-lanta>Lehigh and Northampton Transportation Authority</a> (pa-lanta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-lavta>Livermore-Amador Valley Transit Authority</a> (ca-lavta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-lbt>Long Beach Transit</a> (ca-lbt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-ladot>Los Angeles Department of Transportation</a> (ca-ladot)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-lacmta>Los Angeles Metro</a> (ca-lacmta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#va-loudoun>Loudoun County Transit</a> (va-loudoun)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-lrta>Lowell Regional Transit Authority</a> (ma-lrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#fl-lynx>Lynx, Orlando</a> (fl-lynx)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-marin>Marin County Transit District</a> (ca-marin)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#md-mta>Maryland Transit Administration</a> (md-mta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-mbta>Massachusetts Bay Transportation Authority</a> (ma-mbta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-meva>Merrimack Valley Transit</a> (ma-meva)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#il-metra>Metra</a> (il-metra)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wi-metro>Metro Transit, Madison</a> (wi-metro)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mo-metro>Metro Transit, St. Louis</a> (mo-metro)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mn-metro>Metro Transit, Twin Cities</a> (mn-metro)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-mwrta>MetroWest Regional Transit Authority</a> (ma-mwrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ga-marta>Metropolitan Atlanta Rapid Transit Authority</a> (ga-marta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-mta>Metropolitan Transportation Authority</a> (ny-mta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wi-mcts>Milwaukee County Transit System</a> (wi-mcts)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mn-mvta>Minnesota Valley Transit Authority</a> (mn-mvta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-mart>Montachusett Regional Transit Authority</a> (ma-mart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-montebello>Montebello Bus Lines</a> (ca-montebello)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#md-mont>Montgomery County Ride On</a> (md-mont)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-mcta>Monroe County Transit Authority</a> (pa-mcta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-nrta>Nantucket Regional Transit Authority</a> (ma-nrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-nvta>Napa Valley Transportation Authority</a> (ca-nvta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-nice>Nassau Inter-County Express</a> (ny-nice)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#nj-njt>New Jersey Transit</a> (nj-njt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-nfta>Niagara Frontier Transportation Authority</a> (ny-nfta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-norwalk>Norwalk Transit, California</a> (ca-norwalk)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-norwalk>Norwalk Transit, Connecticut</a> (ct-norwalk)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-octa>Orange County Transportation Authority</a> (ca-octa)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-omni>OmniTrans</a> (ca-omni)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#il-pace>Pace Suburban Bus</a> (il-pace)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-pvpta>Palos Verdes Peninsula Transit</a> (ca-pvpta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-pierce>Pierce Transit</a> (wa-pierce)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-pvta>Pioneer Valley Transit Authority</a> (ma-pvta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-prt>Pittsburgh Regional Transit</a> (pa-prt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-part>Pottstown Area Rapid Transit</a> (pa-part)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#md-pg>Prince George's County TheBus</a> (md-pg)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-part>Putnam Area Rapid Transit</a> (ny-part)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-rabbit>Rabbit Transit</a> (pa-rabbit)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-rrta>Red Rose Transit Authority</a> (pa-rrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#md-rta>Regional Transportation Agency of Central Maryland</a> (md-rta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#co-rtd>Regional Transportation District</a> (co-rtd)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#qc-rtc>Réseau de transport de la Capitale</a> (qc-rtc)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ri-ripta>Rhode Island Public Transit Authority</a> (ri-ripta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-rvt>River Valley Transit</a> (ct-rvt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-rgrta>Rochester-Genesee Regional Transportation Authority</a> (ny-rgrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-roseville>Roseville Transit</a> (ca-roseville)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-sacrt>Sacramento Regional Transit District</a> (ca-sacrt)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-mts>San Diego Metropolitan Transit System</a> (ca-mts)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-muni>San Francisco Municipal Transit Agency</a> (ca-muni)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-samtrans>San Mateo County Transit District</a> (ca-samtrans)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-sts>Schuylkill Transit System</a> (pa-sts)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#qc-stm>Société de transport de Montréal</a> (qc-stm)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-sound>Sound Transit</a> (wa-sound)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-seat>South East Area Transit District</a> (ct-seat)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#in-nictd>South Shore Line</a> (in-nictd)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-septa>Southeastern Pennsylvania Transportation Authority</a> (pa-septa)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-srta>Southeastern Regional Transit Authority</a> (ma-srta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#oh-go>Southwest Ohio Regional Transit Authority</a> (oh-go)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mi-smart>Suburban Mobility Authority for Regional Transportation</a> (mi-smart)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-sct>Suffolk County Transit</a> (ny-sct)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#az-suntran>SunTran, Tucson</a> (az-suntran)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#hi-thebus>TheBus, Honolulu</a> (hi-thebus)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mi-rapid>The Rapid, Grand Rapids</a> (mi-rapid)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-thunderbay>Thunder Bay Transit</a> (on-thunderbay)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#nj-tiger>Tiger Transit</a> (nj-tiger)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#on-ttc>Toronto Transit Commission</a> (on-ttc)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ky-tank>Transit Authority of Northern Kentucky</a> (ky-tank)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-orange>Transit Orange</a> (ny-orange)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#bc-translink>TransLink</a> (bc-translink)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#uk-tfl>Transport for London</a> (uk-tfl)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ny-tor>Transport of Rockland</a> (ny-tor)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#fr-tan>Transports de l'Agglomération Nantaise</a> (fr-tan)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#or-trimet>TriMet</a> (or-trimet)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-unitrans>Unitrans</a> (ca-unitrans)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#pa-uppermerion>Upper Merion Township</a> (pa-uppermerion)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ut-uta>Utah Transit Authority</a> (ut-uta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#az-valley>Valley Metro</a> (az-valley)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-vta>Vineyard Transit Authority</a> (ma-vta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#dc-wmata>Washington Metropolitan Area Transit Authority</a> (dc-wmata)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#wa-wta>Whatcom Transportation Authority</a> (wa-wta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ct-wrtd>Windham Regional Transit District</a> (ct-wrtd)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#mb-winnipeg>Winnipeg Transit</a> (mb-winnipeg)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ma-wrta>Worcester Regional Transit Authority</a> (ma-wrta)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#ca-yolo>Yolo County Transportation District</a> (ca-yolo)</ul> 
-<ul class=bullet style=background-color:#1f1f1f><a href=#az-ycat>Yuma County Area Transit</a> (az-ycat)</ul> 
-<h3 id=ca-ac>Alameda-Contra Costa Transit District (ca-ac)</h3> 
+<p id=agencies><a href=#global>Entire Database</a><br></p> 
+<script src=list.js></script><h3 id=ca-ac>Alameda-Contra Costa Transit District (ca-ac)</h3> 
 <table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> 
 <tr><td style=color:#2ecc71>1T</td><td>9.21 mi.</td><td>1.09</td></tr> 
 </table> 
@@ -1733,6 +1574,9 @@
 <tr><td style=color:#2ecc71>B82</td><td>10.05 mi.</td><td>1.42</td></tr> 
 <tr><td style=color:#2ecc71>B83</td><td>4.69 mi.</td><td>2.1</td></tr> 
 <tr><td style=color:#2ecc71>B84</td><td>1.91 mi.</td><td>1.48</td></tr> 
+<tr><td style=color:#2ecc71>B100</td><td>4.02 mi.</td><td>1.84</td></tr> 
+<tr><td style=color:#2ecc71>B103</td><td>10.57 mi.</td><td>1.75</td></tr> 
+<tr><td style=color:#2ecc71>B103-nostrand</td><td>4.55 mi.</td><td>1.43</td></tr> 
 <tr><td style=color:#2ecc71>Bx1</td><td>7.08 mi.</td><td>1.41</td></tr> 
 <tr><td style=color:#2ecc71>Bx2</td><td>6.98 mi.</td><td>1.39</td></tr> 
 <tr><td style=color:#2ecc71>Bx3</td><td>4.16 mi.</td><td>1.34</td></tr> 
@@ -1832,6 +1676,13 @@
 <tr><td style=color:#2ecc71>Q4</td><td>4.62 mi.</td><td>1.14</td></tr> 
 <tr><td style=color:#2ecc71>Q5-green-acres</td><td>6.74 mi.</td><td>1.32</td></tr> 
 <tr><td style=color:#2ecc71>Q5-rosedale</td><td>5.69 mi.</td><td>1.3</td></tr> 
+<tr><td style=color:#2ecc71>Q6</td><td>4.97 mi.</td><td>1.22</td></tr> 
+<tr><td style=color:#2ecc71>Q7</td><td>6.23 mi.</td><td>1.44</td></tr> 
+<tr><td style=color:#2ecc71>Q8</td><td>7.28 mi.</td><td>1.29</td></tr> 
+<tr><td style=color:#2ecc71>Q9</td><td>2.86 mi.</td><td>1.25</td></tr> 
+<tr><td style=color:#2ecc71>Q10</td><td>5.28 mi.</td><td>1.47</td></tr> 
+<tr><td style=color:#2ecc71>Q11-96</td><td>6.62 mi.</td><td>1.09</td></tr> 
+<tr><td style=color:#2ecc71>Q11-104</td><td>6.45 mi.</td><td>1.05</td></tr> 
 <tr><td style=color:#2ecc71>Q12</td><td>5.15 mi.</td><td>1.06</td></tr> 
 <tr><td style=color:#2ecc71>Q13</td><td>5.4 mi.</td><td>1.8</td></tr> 
 <tr><td style=color:#2ecc71>Q15</td><td>3.76 mi.</td><td>1.33</td></tr> 
@@ -1839,18 +1690,26 @@
 <tr><td style=color:#2ecc71>Q16</td><td>4.64 mi.</td><td>1.44</td></tr> 
 <tr><td style=color:#2ecc71>Q16-U</td><td>4.37 mi.</td><td>1.36</td></tr> 
 <tr><td style=color:#2ecc71>Q17</td><td>6.75 mi.</td><td>1.57</td></tr> 
+<tr><td style=color:#2ecc71>Q18</td><td>5.21 mi.</td><td>1.34</td></tr> 
+<tr><td style=color:#2ecc71>Q19</td><td>6.08 mi.</td><td>1.09</td></tr> 
 <tr><td style=color:#2ecc71>Q20A</td><td>8.49 mi.</td><td>1.39</td></tr> 
 <tr><td style=color:#2ecc71>Q20B</td><td>8.86 mi.</td><td>1.45</td></tr> 
+<tr><td style=color:#2ecc71>Q21</td><td>6.73 mi.</td><td>1.13</td></tr> 
+<tr><td style=color:#2ecc71>Q22-116</td><td>5.41 mi.</td><td>1.14</td></tr> 
+<tr><td style=color:#2ecc71>Q22-169</td><td>7.88 mi.</td><td>1.09</td></tr> 
 <tr><td style=color:#2ecc71>Q23</td><td>6.52 mi.</td><td>1.5</td></tr> 
 <tr><td style=color:#2ecc71>Q24</td><td>7.88 mi.</td><td>1.1</td></tr> 
+<tr><td style=color:#2ecc71>Q25</td><td>7.93 mi.</td><td>1.16</td></tr> 
 <tr><td style=color:#2ecc71>Q26</td><td>3.04 mi.</td><td>1.07</td></tr> 
 <tr><td style=color:#2ecc71>Q27</td><td>9.21 mi.</td><td>1.42</td></tr> 
 <tr><td style=color:#2ecc71>Q28</td><td>4.51 mi.</td><td>1.5</td></tr> 
+<tr><td style=color:#2ecc71>Q29</td><td>3.57 mi.</td><td>1.12</td></tr> 
 <tr><td style=color:#2ecc71>Q30-little-neck</td><td>7.48 mi.</td><td>1.22</td></tr> 
 <tr><td style=color:#2ecc71>Q30-queensborough</td><td>5.87 mi.</td><td>1.29</td></tr> 
 <tr><td style=color:#2ecc71>Q31</td><td>8.16 mi.</td><td>1.62</td></tr> 
 <tr><td style=color:#2ecc71>Q32</td><td>7.19 mi.</td><td>1.32</td></tr> 
 <tr><td style=color:#2ecc71>Q33</td><td>2.32 mi.</td><td>1.28</td></tr> 
+<tr><td style=color:#2ecc71>Q34</td><td>6.66 mi.</td><td>1.24</td></tr> 
 <tr><td style=color:#2ecc71>Q35</td><td>8.19 mi.</td><td>1.23</td></tr> 
 <tr><td style=color:#2ecc71>Q36-floral-park</td><td>5.7 mi.</td><td>1.19</td></tr> 
 <tr><td style=color:#2ecc71>Q36-little-neck</td><td>9.26 mi.</td><td>1.74</td></tr> 
@@ -3588,4 +3447,4 @@
 <tr><td style=color:#2ecc71>10</td><td>57.71 mi.</td><td>1.04</td></tr> 
 <tr><td style=color:#2ecc71>95</td><td>25.49 mi.</td><td>1.35</td></tr> 
 </table> 
-<p><b>Route Count: </b> 2934</p>
+<p><b>Route Count: </b> 2952</p>
