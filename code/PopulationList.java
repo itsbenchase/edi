@@ -25,10 +25,9 @@ public class PopulationList
       while (s.hasNextLine())
       {
         String data = s.nextLine();
-        String code = data.substring(0, data.indexOf(";"));
-        agencies.add(code);
+        agencies.add(data.substring(0, data.indexOf(";")));
         data = data.substring(data.indexOf(";") + 1);
-        fullAgencies.add(data.substring(data.indexOf(";") + 1));
+        fullAgencies.add(data.substring(0, data.indexOf(";")));
         data = data.substring(data.indexOf(";") + 1);
         densityBoolean.add(Boolean.parseBoolean(data));
       }
@@ -97,11 +96,13 @@ public class PopulationList
             data = data.substring(data.indexOf(";") + 1);
             String edi = data.substring(0, data.indexOf(";"));
             routeEdi.add(edi);
+            data = data.substring(data.indexOf(";") + 1); // skip name
+            data = data.substring(data.indexOf(";") + 1); // skip branch
             data = data.substring(data.indexOf(";") + 1);
             String pop = data.substring(0, data.indexOf(";"));
             routePop.add(pop);
             data = data.substring(data.indexOf(";") + 1);
-            String dense = data.substring(0, data.indexOf(";"));
+            String dense = data;
             routeDensity.add(dense);
             routeCount++;
             agencyCount++;
