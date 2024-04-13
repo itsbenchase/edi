@@ -25169,7 +25169,7 @@
 	<Document> 
 		<name>ma-srta routes</name>
 		<Placemark> 
-			<name>New Bedford 21: North End Shuttle</name>
+			<name>221: North End Shuttle</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.25</description>
 			<LineString> 
@@ -25179,7 +25179,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 11: Fairhaven</name>
+			<name>211: Fairhaven</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: Inbound<br/>Agency: ma-srta<br/>EDI: 1.89</description>
 			<LineString> 
@@ -25189,7 +25189,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 11: Fairhaven</name>
+			<name>211: Fairhaven</name>
 			<styleUrl>#2.5</styleUrl>
 			<description>Branch: Outbound<br/>Agency: ma-srta<br/>EDI: 2.77</description>
 			<LineString> 
@@ -25199,7 +25199,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 10: Dartmouth Mall</name>
+			<name>210: Dartmouth Mall</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: Inbound<br/>Agency: ma-srta<br/>EDI: 1.79</description>
 			<LineString> 
@@ -25209,7 +25209,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 10: Dartmouth Mall</name>
+			<name>210: Dartmouth Mall</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Outbound<br/>Agency: ma-srta<br/>EDI: 1.43</description>
 			<LineString> 
@@ -25219,7 +25219,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 6: Shawmut</name>
+			<name>206: Shawmut</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: Outbound<br/>Agency: ma-srta<br/>EDI: 1.56</description>
 			<LineString> 
@@ -25229,7 +25229,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 9: Intercity</name>
+			<name>9: Intercity</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.23</description>
 			<LineString> 
@@ -25239,7 +25239,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 8: Mt. Pleasant</name>
+			<name>208: Mt. Pleasant</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.13</description>
 			<LineString> 
@@ -25249,7 +25249,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 6: Shawmut</name>
+			<name>206: Shawmut</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: Inbound<br/>Agency: ma-srta<br/>EDI: 1.96</description>
 			<LineString> 
@@ -25259,7 +25259,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 5: South Central</name>
+			<name>205: South Central</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.25</description>
 			<LineString> 
@@ -25269,7 +25269,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 4: Ashley Blvd</name>
+			<name>204: Ashley Blvd</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: NB: New Bedford Business Park<br/>Agency: ma-srta<br/>EDI: 1.42</description>
 			<LineString> 
@@ -25279,7 +25279,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 4: Ashley Blvd</name>
+			<name>204: Ashley Blvd</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.21</description>
 			<LineString> 
@@ -25289,7 +25289,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 3: Dartmouth St</name>
+			<name>203: Dartmouth St</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.77</description>
 			<LineString> 
@@ -25299,7 +25299,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 2: Lund's Corner</name>
+			<name>202: Lund's Corner</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: B: via Belleville Ave<br/>Agency: ma-srta<br/>EDI: 1.35</description>
 			<LineString> 
@@ -25309,7 +25309,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 2: Lund's Corner</name>
+			<name>202: Lund's Corner</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.24</description>
 			<LineString> 
@@ -25319,7 +25319,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>New Bedford 1: Fort Rodman</name>
+			<name>201: Fort Rodman</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.2</description>
 			<LineString> 
@@ -25329,7 +25329,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 14: Swansea Mall</name>
+			<name>114: Swansea Mall</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.21</description>
 			<LineString> 
@@ -25339,7 +25339,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 10: Rodman St</name>
+			<name>110: Rodman St</name>
 			<styleUrl>#3.5</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 3.59</description>
 			<LineString> 
@@ -25349,7 +25349,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 9: Bedford St</name>
+			<name>109: Bedford St</name>
 			<styleUrl>#2.5</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 2.71</description>
 			<LineString> 
@@ -25359,7 +25359,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 8: BCC / Durfee HS</name>
+			<name>108: BCC / Durfee HS</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.28</description>
 			<LineString> 
@@ -25369,7 +25369,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 7: Bay St</name>
+			<name>107: Bay St</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.63</description>
 			<LineString> 
@@ -25379,7 +25379,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 6: Pleasant St</name>
+			<name>106: Pleasant St</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.47</description>
 			<LineString> 
@@ -25389,7 +25389,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 5: Stafford Rd</name>
+			<name>105: Stafford Rd</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: A: via Atlantis Charter School<br/>Agency: ma-srta<br/>EDI: 1.48</description>
 			<LineString> 
@@ -25399,7 +25399,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 5: Stafford Rd</name>
+			<name>105: Stafford Rd</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: T: via Tiverton Casino<br/>Agency: ma-srta<br/>EDI: 1.32</description>
 			<LineString> 
@@ -25409,7 +25409,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 5: Stafford Rd</name>
+			<name>105: Stafford Rd</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.3</description>
 			<LineString> 
@@ -25419,7 +25419,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 4: Robeson St</name>
+			<name>104: Robeson St</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.33</description>
 			<LineString> 
@@ -25429,7 +25429,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 3: Laurel St</name>
+			<name>103: Laurel St</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.26</description>
 			<LineString> 
@@ -25439,7 +25439,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 2: North Main</name>
+			<name>102: North Main</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: SS: via Stop &amp; Shop<br/>Agency: ma-srta<br/>EDI: 1.65</description>
 			<LineString> 
@@ -25449,7 +25449,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 2: North Main</name>
+			<name>102: North Main</name>
 			<styleUrl>#1.5</styleUrl>
 			<description>Branch: C: via Commerce Dr<br/>Agency: ma-srta<br/>EDI: 1.65</description>
 			<LineString> 
@@ -25459,7 +25459,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 2: North Main</name>
+			<name>102: North Main</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.37</description>
 			<LineString> 
@@ -25469,7 +25469,7 @@
 			</LineString> 
 		</Placemark>
 		<Placemark> 
-			<name>Fall River 1: South Main</name>
+			<name>101: South Main</name>
 			<styleUrl>#1.0</styleUrl>
 			<description>Branch: Main<br/>Agency: ma-srta<br/>EDI: 1.12</description>
 			<LineString> 

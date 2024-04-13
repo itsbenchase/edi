@@ -14,7 +14,8 @@
 
 <p><a href="#map">Mapping Data</a><br>
 <a href="#code">Source Code</a><br>
-<a href="#reports">Advocacy Reports</a></p>
+<a href="#reports">Advocacy Reports</a><br>
+<a href="#population">Population Data</a></p>
 
 <h3 id="map">Mapping Data</h3>
 <p>As of February 2023, KML data is provided for all lines stored in the database <a href=maps/map-all.kml>here</a>. Individual agency maps are available below. A 404 should be expected for agencies with no routes in the database.</p>
@@ -39,7 +40,7 @@ function getAgencies()
         var data = agencyFile[i];
         agencyCodes.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
-        agencyNames.push(data);
+        agencyNames.push(data.substring(0, data.indexOf(";")));
         document.getElementById("agencies").innerHTML += ("<a href=maps/map-" + agencyCodes[i] + ".kml>" + agencyNames[i] + "</a> (" + agencyCodes[i] + ")<br>");
       }
     })
@@ -53,3 +54,6 @@ function getAgencies()
 <p>The Eliot Deviation Index has been used for transit advocacy, and the team has worked on bringing reports using the extensive data we've collected over the years. Full reports can be found below</p>
 
 <p><a href=reports/wi-metro-2024.pdf>Metro Transit, Madison (wi-metro) Redesign</a> - March 2024</p>
+
+<h3 id="population">Population Data</h3>
+<p>Despite not being an official part of the Eliot Deviation Index project, population and density data is available for selected agencies within the United States as of April 2024. That data can be found <a href="population.html">here</a>.</p>

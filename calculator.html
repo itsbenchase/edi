@@ -77,7 +77,7 @@ function getAgencies()
                 var data = agencyFile[i];
                 agencies.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
-                fullAgencies.push(data);
+                fullAgencies.push(data.substring(0, data.indexOf(";")));
                 agencyLines.push(fullAgencies[i] + " (" + agencies[i] + ")");
                 document.getElementById("agencyDrop").innerHTML += ("<option value=" + agencies[i] + ">" + agencyLines[i] + "</option>");
             }
