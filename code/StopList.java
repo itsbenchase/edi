@@ -23,7 +23,7 @@ public class StopList
         String code = data.substring(0, data.indexOf(";"));
         agencies.add(code);
         data = data.substring(data.indexOf(";") + 1);
-        fullAgencies.add(data.substring(data.indexOf(";") + 1));
+        fullAgencies.add(data.substring(0, data.indexOf(";")));
       }
     }
     catch (FileNotFoundException e)
@@ -122,10 +122,8 @@ public class StopList
       fileWriter2.append("<li><a href=calculator.html>Calculator</a></li> \n");
       fileWriter2.append("<li><a href=resources.html>Resources</a></li></ul> \n");
       fileWriter2.append("<h1>Stop Listing</h1> \n");
-
-      fileWriter2.append("<p id=agencies><a href=#global>Entire Database</a><br></p> \n");
+      fileWriter2.append("<p id=agencies></p> \n");
       fileWriter2.append("<script src=list.js></script>");
-
       fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
       fileWriter2.flush();
       fileWriter2.close();

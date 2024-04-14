@@ -26,7 +26,7 @@ public class StatsList
         String code = data.substring(0, data.indexOf(";"));
         agencies.add(code);
         data = data.substring(data.indexOf(";") + 1);
-        fullAgencies.add(data.substring(data.indexOf(";") + 1));
+        fullAgencies.add(data.substring(0, data.indexOf(";")));
       }
     }
     catch (Exception e)
