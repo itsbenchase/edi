@@ -123,7 +123,7 @@ public class StopList
       fileWriter2.append("<li><a href=resources.html>Resources</a></li></ul> \n");
       fileWriter2.append("<h1>Stop Listing</h1> \n");
 
-      fileWriter2.append("<p id=agencies><a href=#global>Entire Database</a><br></p> \n");
+      fileWriter2.append("<p id=agencies></p> \n");
       fileWriter2.append("<script src=list.js></script>");
 
       fileWriter2.append("<p><b>Total Stops: </b>" + stopCounter + "</p>");
