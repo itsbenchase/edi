@@ -16,14 +16,6 @@ input[type="text"]
     background-color: #373737;
 }
 
-textarea
-{
-    font-family: sourcesans;
-    font-size: 16pt;
-    color: #ffffff;
-    background-color: #373737;
-}
-
 select
 {
     font-family: sourcesans;

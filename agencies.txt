@@ -1,161 +1,161 @@
-ca-ac;Alameda-Contra Costa Transit District;false
-ak-apm;Anchorage People Mover;false
-ca-avta;Antelope Valley Transit Authority;false
-va-art;Arlington Transit;true
-ca-bart;Bay Area Rapid Transit;true
-ca-bct;Beach Cities Transit;true
-ny-beeline;Bee-Line Bus System;false
-pa-barta;Berks Area Regional Transportation Authority;false
-ma-brta;Berkshire Regional Transit Authority;true
-ca-bbb;Big Blue Bus;true
-on-brampton;Brampton Transit;false
-ma-bat;Brockton Area Transit Authority;false
-ca-burbank;Burbank Bus;false
-on-burlington;Burlington Transit;false
-wa-ctran;C-Tran;false
-ab-calgary;Calgary Transit;false
-ma-cata;Cape Ann Transit Authority;false
-ma-ccrta;Cape Cod Regional Transit Authority;false
-pa-cat;Capital Area Transit, Harrisburg;false
-mi-cata;Capital Area Transportion Authority, Lansing;false
-ny-cdta;Capital District Transportation Authority, Albany;false
-tx-cap;Capital Metropolitan Transportation Authority;false
-ca-cccta;Central Costa County Transit Authority;false
-ny-centro;Central New York Regional Transportation Authority;false
-oh-cota;Central Ohio Transit Authority;false
-il-cumtd;Champaign-Urbana Mass Transit District;false
-nc-cats;Charlotte Area Transit System;false
-il-cta;Chicago Transit Authority;false
-ca-commerce;Commerce Municipal Bus Lines;false
-wa-community;Community Transit;false
-or-corvallis;Corvallis Transit System;true
-ct-ct;CTtransit;false
-ca-culver;Culver CityBus;false
-tx-dart;Dallas Area Rapid Transit;false
-va-dash;DASH Alexandria;true
-il-dekalb;DeKalb Public Transit;false
-de-dart;Delaware Authority for Regional Transit;false
-mi-ddot;Detroit Department of Transportation;false
-on-drt;Durham Region Transit;false
-ny-dutchess;Dutchess County Public Transit;false
-ca-eccta;Eastern Costa County Transit Authority;false
-ca-etran;Elk Grove Transit;false
-pa-emta;Erie Metropolitan Transit Authority;false
-wa-everett;Everett Transit;true
-va-fairfax;Fairfax Connector;false
-ca-fast;Fairfield and Suisun Transit;false
-ca-foothill;Foothill Transit;false
-ma-frta;Franklin Regional Transit Authority;true
-ca-fax;Fresno Area Express;false
-ca-glendale;Glendale Beeline;false
-on-go;GO Transit;false
-ca-ggt;Golden Gate Transit;false
-on-grt;Grand River Transit;false
-ma-gatra;Greater Attleboro-Taunton Regional Transit Authority;true
-ct-gbt;Greater Bridgeport Transit;true
-oh-rta;Greater Cleveland Regional Transit Authority;false
-in-citybus;Greater Lafayette Public Transportation Corporation;true
-me-gpm;Greater Portland Metro;true
-vt-gmt;Green Mountain Transit;false
-ca-gtrans;GTrans, Gardena;false
-on-hsr;Hamilton Street Railway;false
-va-hrt;Hampton Roads Transit;false
-fl-hart;Hillsborough Area Regional Transit;false
-ct-hart;Housatonic Area Regional Transit;false
-in-indygo;IndyGo;false
-wa-intercity;Intercity Transit;false
-in-interurban;Interurban Trolley;false
-wa-island;Island Transit;false
-wa-king;King County Metro;false
-wa-kitsap;Kitsap Transit;false
-or-ltd;Lane Transit District;false
-pa-lanta;Lehigh and Northampton Transportation Authority;false
-ca-lavta;Livermore-Amador Valley Transit Authority;false
-ca-lbt;Long Beach Transit;false
-ca-ladot;Los Angeles Department of Transportation;false
-ca-lacmta;Los Angeles Metro;false
-va-loudoun;Loudoun County Transit;false
-ma-lrta;Lowell Regional Transit Authority;false
-fl-lynx;Lynx, Orlando;false
-ca-marin;Marin County Transit District;false
-md-mta;Maryland Transit Administration;false
-ma-mbta;Massachusetts Bay Transportation Authority;false
-ma-meva;Merrimack Valley Transit;false
-il-metra;Metra;false
-wi-metro;Metro Transit, Madison;false
-mo-metro;Metro Transit, St. Louis;false
-mn-metro;Metro Transit, Twin Cities;false
-ma-mwrta;MetroWest Regional Transit Authority;false
-ga-marta;Metropolitan Atlanta Rapid Transit Authority;false
-ny-mta;Metropolitan Transportation Authority;false
-wi-mcts;Milwaukee County Transit System;false
-mn-mvta;Minnesota Valley Transit Authority;false
-ma-mart;Montachusett Regional Transit Authority;true
-ca-montebello;Montebello Bus Lines;false
-md-mont;Montgomery County Ride On;false
-pa-mcta;Monroe County Transit Authority;true
-ma-nrta;Nantucket Regional Transit Authority;true
-ca-nvta;Napa Valley Transportation Authority;false
-ny-nice;Nassau Inter-County Express;false
-nj-njt;New Jersey Transit;false
-ny-nfta;Niagara Frontier Transportation Authority;false
-ca-norwalk;Norwalk Transit, California;false
-ct-norwalk;Norwalk Transit, Connecticut;true
-ca-octa;Orange County Transportation Authority;false
-ca-omni;OmniTrans;false
-il-pace;Pace Suburban Bus;false
-ca-pvpta;Palos Verdes Peninsula Transit;true
-wa-pierce;Pierce Transit;false
-ma-pvta;Pioneer Valley Transit Authority;false
-pa-prt;Pittsburgh Regional Transit;false
-pa-part;Pottstown Area Rapid Transit;true
-md-pg;Prince George's County TheBus;true
-ny-part;Putnam Area Rapid Transit;false
-pa-rabbit;Rabbit Transit;false
-pa-rrta;Red Rose Transit Authority;false
-md-rta;Regional Transportation Agency of Central Maryland;false
-co-rtd;Regional Transportation District;false
-qc-rtc;Réseau de transport de la Capitale;false
-ri-ripta;Rhode Island Public Transit Authority;false
-ct-rvt;River Valley Transit;true
-ny-rgrta;Rochester-Genesee Regional Transportation Authority;false
-ca-roseville;Roseville Transit;false
-ca-sacrt;Sacramento Regional Transit District;false
-ca-mts;San Diego Metropolitan Transit System;false
-ca-muni;San Francisco Municipal Transit Agency;false
-ca-samtrans;San Mateo County Transit District;false
-pa-sts;Schuylkill Transit System;true
-qc-stm;Société de transport de Montréal;false
-wa-sound;Sound Transit;false
-ct-seat;South East Area Transit District;true
-in-nictd;South Shore Line;false
-pa-septa;Southeastern Pennsylvania Transportation Authority;false
-ma-srta;Southeastern Regional Transit Authority;true
-oh-go;Southwest Ohio Regional Transit Authority;false
-mi-smart;Suburban Mobility Authority for Regional Transportation;false
-ny-sct;Suffolk County Transit;false
-az-suntran;SunTran, Tucson;false
-hi-thebus;TheBus, Honolulu;false
-mi-rapid;The Rapid, Grand Rapids;false
-on-thunderbay;Thunder Bay Transit;false
-nj-tiger;Tiger Transit;false
-on-ttc;Toronto Transit Commission;false
-ky-tank;Transit Authority of Northern Kentucky;false
-ny-orange;Transit Orange;true
-bc-translink;TransLink;false
-uk-tfl;Transport for London;false
-ny-tor;Transport of Rockland;false
-fr-tan;Transports de l'Agglomération Nantaise;false
-or-trimet;TriMet;false
-ca-unitrans;Unitrans;false
-pa-uppermerion;Upper Merion Township;true
-ut-uta;Utah Transit Authority;false
-az-valley;Valley Metro;false
-ma-vta;Vineyard Transit Authority;true
-dc-wmata;Washington Metropolitan Area Transit Authority;false
-wa-wta;Whatcom Transportation Authority;false
-ct-wrtd;Windham Regional Transit District;true
-mb-winnipeg;Winnipeg Transit;false
-ma-wrta;Worcester Regional Transit Authority;true
-ca-yolo;Yolo County Transportation District;false
-az-ycat;Yuma County Area Transit;false
+ca-ac;Alameda-Contra Costa Transit District
+ak-apm;Anchorage People Mover
+ca-avta;Antelope Valley Transit Authority
+va-art;Arlington Transit
+ca-bart;Bay Area Rapid Transit
+ca-bct;Beach Cities Transit
+ny-beeline;Bee-Line Bus System
+pa-barta;Berks Area Regional Transportation Authority
+ma-brta;Berkshire Regional Transit Authority
+ca-bbb;Big Blue Bus
+on-brampton;Brampton Transit
+ma-bat;Brockton Area Transit Authority
+ca-burbank;Burbank Bus
+on-burlington;Burlington Transit
+wa-ctran;C-Tran
+ab-calgary;Calgary Transit
+ma-cata;Cape Ann Transit Authority
+ma-ccrta;Cape Cod Regional Transit Authority
+pa-cat;Capital Area Transit, Harrisburg
+mi-cata;Capital Area Transportion Authority, Lansing
+ny-cdta;Capital District Transportation Authority, Albany
+tx-cap;Capital Metropolitan Transportation Authority
+ca-cccta;Central Costa County Transit Authority
+ny-centro;Central New York Regional Transportation Authority
+oh-cota;Central Ohio Transit Authority
+il-cumtd;Champaign-Urbana Mass Transit District
+nc-cats;Charlotte Area Transit System
+il-cta;Chicago Transit Authority
+ca-commerce;Commerce Municipal Bus Lines
+wa-community;Community Transit
+or-corvallis;Corvallis Transit System
+ct-ct;CTtransit
+ca-culver;Culver CityBus
+tx-dart;Dallas Area Rapid Transit
+va-dash;DASH Alexandria
+il-dekalb;DeKalb Public Transit
+de-dart;Delaware Authority for Regional Transit
+mi-ddot;Detroit Department of Transportation
+on-drt;Durham Region Transit
+ny-dutchess;Dutchess County Public Transit
+ca-eccta;Eastern Costa County Transit Authority
+ca-etran;Elk Grove Transit
+pa-emta;Erie Metropolitan Transit Authority
+wa-everett;Everett Transit
+va-fairfax;Fairfax Connector
+ca-fast;Fairfield and Suisun Transit
+ca-foothill;Foothill Transit
+ma-frta;Franklin Regional Transit Authority
+ca-fax;Fresno Area Express
+ca-glendale;Glendale Beeline
+on-go;GO Transit
+ca-ggt;Golden Gate Transit
+on-grt;Grand River Transit
+ma-gatra;Greater Attleboro-Taunton Regional Transit Authority
+ct-gbt;Greater Bridgeport Transit
+oh-rta;Greater Cleveland Regional Transit Authority
+in-citybus;Greater Lafayette Public Transportation Corporation
+me-gpm;Greater Portland Metro
+vt-gmt;Green Mountain Transit
+ca-gtrans;GTrans, Gardena
+on-hsr;Hamilton Street Railway
+va-hrt;Hampton Roads Transit
+fl-hart;Hillsborough Area Regional Transit
+ct-hart;Housatonic Area Regional Transit
+in-indygo;IndyGo
+wa-intercity;Intercity Transit
+in-interurban;Interurban Trolley
+wa-island;Island Transit
+wa-king;King County Metro
+wa-kitsap;Kitsap Transit
+or-ltd;Lane Transit District
+pa-lanta;Lehigh and Northampton Transportation Authority
+ca-lavta;Livermore-Amador Valley Transit Authority
+ca-lbt;Long Beach Transit
+ca-ladot;Los Angeles Department of Transportation
+ca-lacmta;Los Angeles Metro
+va-loudoun;Loudoun County Transit
+ma-lrta;Lowell Regional Transit Authority
+fl-lynx;Lynx, Orlando
+ca-marin;Marin County Transit District
+md-mta;Maryland Transit Administration
+ma-mbta;Massachusetts Bay Transportation Authority
+ma-meva;Merrimack Valley Transit
+il-metra;Metra
+wi-metro;Metro Transit, Madison
+mo-metro;Metro Transit, St. Louis
+mn-metro;Metro Transit, Twin Cities
+ma-mwrta;MetroWest Regional Transit Authority
+ga-marta;Metropolitan Atlanta Rapid Transit Authority
+ny-mta;Metropolitan Transportation Authority
+wi-mcts;Milwaukee County Transit System
+mn-mvta;Minnesota Valley Transit Authority
+ma-mart;Montachusett Regional Transit Authority
+ca-montebello;Montebello Bus Lines
+md-mont;Montgomery County Ride On
+pa-mcta;Monroe County Transit Authority
+ma-nrta;Nantucket Regional Transit Authority
+ca-nvta;Napa Valley Transportation Authority
+ny-nice;Nassau Inter-County Express
+nj-njt;New Jersey Transit
+ny-nfta;Niagara Frontier Transportation Authority
+ca-norwalk;Norwalk Transit, California
+ct-norwalk;Norwalk Transit, Connecticut
+ca-octa;Orange County Transportation Authority
+ca-omni;OmniTrans
+il-pace;Pace Suburban Bus
+ca-pvpta;Palos Verdes Peninsula Transit
+wa-pierce;Pierce Transit
+ma-pvta;Pioneer Valley Transit Authority
+pa-prt;Pittsburgh Regional Transit
+pa-part;Pottstown Area Rapid Transit
+md-pg;Prince George's County TheBus
+ny-part;Putnam Area Rapid Transit
+pa-rabbit;Rabbit Transit
+pa-rrta;Red Rose Transit Authority
+md-rta;Regional Transportation Agency of Central Maryland
+co-rtd;Regional Transportation District
+qc-rtc;Réseau de transport de la Capitale
+ri-ripta;Rhode Island Public Transit Authority
+ct-rvt;River Valley Transit
+ny-rgrta;Rochester-Genesee Regional Transportation Authority
+ca-roseville;Roseville Transit
+ca-sacrt;Sacramento Regional Transit District
+ca-mts;San Diego Metropolitan Transit System
+ca-muni;San Francisco Municipal Transit Agency
+ca-samtrans;San Mateo County Transit District
+pa-sts;Schuylkill Transit System
+qc-stm;Société de transport de Montréal
+wa-sound;Sound Transit
+ct-seat;South East Area Transit District
+in-nictd;South Shore Line
+pa-septa;Southeastern Pennsylvania Transportation Authority
+ma-srta;Southeastern Regional Transit Authority
+oh-go;Southwest Ohio Regional Transit Authority
+mi-smart;Suburban Mobility Authority for Regional Transportation
+ny-sct;Suffolk County Transit
+az-suntran;SunTran, Tucson
+hi-thebus;TheBus, Honolulu
+mi-rapid;The Rapid, Grand Rapids
+on-thunderbay;Thunder Bay Transit
+nj-tiger;Tiger Transit
+on-ttc;Toronto Transit Commission
+ky-tank;Transit Authority of Northern Kentucky
+ny-orange;Transit Orange
+bc-translink;TransLink
+uk-tfl;Transport for London
+ny-tor;Transport of Rockland
+fr-tan;Transports de l'Agglomération Nantaise
+or-trimet;TriMet
+ca-unitrans;Unitrans
+pa-uppermerion;Upper Merion Township
+ut-uta;Utah Transit Authority
+az-valley;Valley Metro
+ma-vta;Vineyard Transit Authority
+dc-wmata;Washington Metropolitan Area Transit Authority
+wa-wta;Whatcom Transportation Authority
+ct-wrtd;Windham Regional Transit District
+mb-winnipeg;Winnipeg Transit
+ma-wrta;Worcester Regional Transit Authority
+ca-yolo;Yolo County Transportation District
+az-ycat;Yuma County Area Transit

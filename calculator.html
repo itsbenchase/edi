@@ -26,11 +26,8 @@
 
 <p>Stop ID:
     <input id=stop-added type=text placeholder="e.g. 5322"></input>
-    <button id="sumbit" type="button" onclick="oneStopButton()">Add One</button>
-    <br><br>Or bulk import:<br>
-    <textarea id=stop-added-bulk placeholder="e.g. 5322" rows="10"></textarea>
-    <br>
-    <button id="sumbit" type="button" onclick="findIndexBulk()">Add All</button>
+    <button id="sumbit" type="button" onclick="findIndex()">Add</button>
+    <button id="remove" type="button" onclick="removeLast()">Remove</button>
     <button id="exportbtn" type="button" onclick="exportGen()">Export</button>
 </p>
 
@@ -66,33 +63,6 @@ const lineIds = [];
 const lineLats = [];
 const lineLons = [];
 
-var stopAddKey = document.getElementById("stop-added");
-stopAddKey.addEventListener("keydown", function (e) {
-    if (e.key === 'Enter') {
-
-        oneStopButton(e);
-    }
-});
-
-function oneStopButton()
-{
-    var stopAdded = document.getElementById("stop-added").value;
-    for (let i = 0; i < stopIds.length; i++)
-    {
-        if (stopIds[i] == stopAdded)
-        {
-            document.getElementById("last").innerHTML = ("<b>Last Added:</b> " + stopNames[i]);
-            document.getElementById("stops").innerHTML += ("<br>" + stopNames[i]);
-            lineStops.push(stopNames[i]);
-            lineIds.push(stopIds[i]);
-            lineLats.push(stopLats[i]);
-            lineLons.push(stopLons[i]);
-        }
-    }
-
-    findIndex();
-}
-
 function getAgencies()
 {
     const agencyFileUrl = ("https://dev.eliotindex.org/agencies.txt"); // provide file location
@@ -107,7 +77,7 @@ function getAgencies()
                 var data = agencyFile[i];
                 agencies.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
-                fullAgencies.push(data.substring(0, data.indexOf(";")));
+                fullAgencies.push(data);
                 agencyLines.push(fullAgencies[i] + " (" + agencies[i] + ")");
                 document.getElementById("agencyDrop").innerHTML += ("<option value=" + agencies[i] + ">" + agencyLines[i] + "</option>");
             }
@@ -154,33 +124,25 @@ function getStops()
         })
 }
 
-function findIndexBulk()
-{
-    var importIds = document.getElementById('stop-added-bulk').value.split('\n');
-    for (let i = 0; i < importIds.length; i++)
-    {
-        for (let j = 0; j < stopIds.length; j++)
-        {
-            if (stopIds[j] == importIds[i])
-            {
-                document.getElementById("last").innerHTML = ("<b>Last Added:</b> " + stopNames[j]);
-                document.getElementById("stops").innerHTML += ("<br>" + stopNames[j]);
-                lineStops.push(stopNames[j]);
-                lineIds.push(stopIds[j]);
-                lineLats.push(stopLats[j]);
-                lineLons.push(stopLons[j]);
-            }
-        }
-    }
-
-    findIndex();
-}
-
 function findIndex()
 {
     // add route code to page
     code = document.getElementById("code-assign").value
     document.getElementById("code").innerHTML = ("<b>Code:</b> " + code);
+
+    var stopAdded = document.getElementById("stop-added").value;
+    for (let i = 0; i < stopIds.length; i++)
+    {
+        if (stopIds[i] == stopAdded)
+        {
+            document.getElementById("last").innerHTML = ("<b>Last Added:</b> " + stopNames[i]);
+            document.getElementById("stops").innerHTML += ("<br>" + stopNames[i]);
+            lineStops.push(stopNames[i]);
+            lineIds.push(stopIds[i]);
+            lineLats.push(stopLats[i]);
+            lineLons.push(stopLons[i]);
+        }
+    }
 
     // haversine formula loop
     // spherical trig cause this is the globe
@@ -285,6 +247,23 @@ function exportGen()
 function toRadians(degrees)
 {
     return degrees * (Math.PI / 180);
+}
+
+function removeLast()
+{
+    // remove from arrays
+    lineStops.pop();
+    lineLats.pop();
+    lineLons.pop();
+
+    // remove from stop list
+    document.getElementById("stops").innerHTML = "<b>Stop Listing:</b>";
+    for (let i = 0; i < lineStops.length; i++)
+    {
+        document.getElementById("stops").innerHTML += ("<br>" + lineStops[i]);
+    }
+
+    findIndex();
 }
 
 </script>

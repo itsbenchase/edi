@@ -13,7 +13,6 @@ public class Update
   {
     //StopList a = new StopList();
     RouteList b = new RouteList();
-    //PopulationList h = new PopulationList();
     FullMap c = new FullMap();
     AgencyMap d = new AgencyMap();
     StatsList f = new StatsList();
@@ -21,7 +20,6 @@ public class Update
 
     //a.main(args);
     b.main(args);
-    //h.main(args);
     c.main(args);
     d.main(args);
     f.main(args);

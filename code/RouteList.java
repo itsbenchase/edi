@@ -23,7 +23,7 @@ public class RouteList
         String code = data.substring(0, data.indexOf(";"));
         agencies.add(code);
         data = data.substring(data.indexOf(";") + 1);
-        fullAgencies.add(data.substring(0, data.indexOf(";")));
+        fullAgencies.add(data);
       }
     }
     catch (FileNotFoundException e)
@@ -50,7 +50,7 @@ public class RouteList
       fileWriter1.append("<h1>Route Listing</h1> \n");
 
       // listing with links at top
-      fileWriter1.append("<p id=agencies></p> \n");
+      fileWriter1.append("<p id=agencies><a href=#global>Entire Database</a><br></p> \n");
       fileWriter1.append("<script src=list.js></script>");
       
       int routeCount = 0;

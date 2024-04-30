@@ -20,12 +20,7 @@ public class PopulationData
     static ArrayList<String> geoid = new ArrayList<String>();
     static ArrayList<Double> lengths = new ArrayList<Double>();
     static ArrayList<String> codes = new ArrayList<String>();
-
-    // only used in bulk
     static ArrayList<String> agencyDisplay = new ArrayList<String>();
-    static ArrayList<String> displayCodes = new ArrayList<String>();
-    static ArrayList<Integer> displayPop = new ArrayList<Integer>();
-    static ArrayList<Double> displayPerMi = new ArrayList<Double>();
 
     static String stateCode = "0";
     static String countyCode = "0";
@@ -314,24 +309,6 @@ public class PopulationData
                     System.out.println(agencyDisplay.get(i));
                 }
 
-                // store internally
-                try
-                {
-                    File agencyTxt = new File(agencyChoice + ".txt");
-                    FileWriter agencyWriter = new FileWriter(agencyTxt);
-
-                    agencyWriter.write("code;population;permile \n");
-
-                    for (int i = 0; i < displayCodes.size(); i++)
-                    {
-                        agencyWriter.append(displayCodes.get(i) + ";" + displayPop.get(i) + ";" + displayPerMi.get(i) + "\n");
-                    }
-
-                    agencyWriter.close();
-                }
-                    catch (Exception e)
-                    { System.out.println("Error."); }   
-
                 firstChoice = "-00";
             }
 
@@ -470,9 +447,6 @@ public class PopulationData
         if (whole)
         {
             agencyDisplay.add(lineChoice + ": " + totalPop + " (" + radius + " mi.), " + popPerMi + " / mi");
-            displayCodes.add(lineChoice);
-            displayPop.add(totalPop);
-            displayPerMi.add(popPerMi);
         }
         else
         {

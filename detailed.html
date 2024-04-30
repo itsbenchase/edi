@@ -34,7 +34,6 @@
 <p id="segend"></p>
 <p id="length"><b>Length: </b>Not Available</p>
 <p id="index"><b>EDI: </b>Not Available</p>
-<p id="density"></p>
 <p id="stops"></p>
 
 <script>
@@ -48,7 +47,6 @@ var index = "Not Available";
 var rand = false;
 var isSegment = false;
 var secondRun = false;
-var density = "none";
 
 var segLength = 0.00;
 var segIndex = 0.00;
@@ -56,7 +54,6 @@ var segIndex = 0.00;
 const agencies = [];
 const fullAgencies = [];
 const agencyLines = [];
-const densityFlags = [];
 
 // cumulative
 const cumLats = [];
@@ -101,7 +98,6 @@ function clearAll()
     document.getElementById("index").innerHTML = ("<b>EDI: </b>Not Available");
     document.getElementById("segstart").innerHTML = ("");
     document.getElementById("segend").innerHTML = ("");
-    document.getElementById("density").innerHTML = ("");
     document.getElementById("startDrop2").innerHTML = ("");
     document.getElementById("endDrop2").innerHTML = ("");
     document.getElementById("stops").innerHTML = ("");
@@ -121,13 +117,36 @@ function getAgencies()
                 var data = agencyFile[i];
                 agencies.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
-                fullAgencies.push(data.substring(0, data.indexOf(";")));
+                fullAgencies.push(data);
                 agencyLines.push(fullAgencies[i] + " (" + agencies[i] + ")");
-                data = data.substr(data.indexOf(";") + 1);
-                densityFlags.push(data);
                 document.getElementById("agencyDrop").innerHTML += ("<option value=" + agencies[i] + ">" + agencyLines[i] + "</option>");
             }
         })
+}
+
+function getRoutes()
+{
+    // create arrays
+    const lineCodes = [];
+    const lineLengths = [];
+    const lineEdis = [];
+    const lineNames = [];
+    const lineBranches = [];
+
+    listFile.pop(); // this fixed a bug
+    for (let i = 0; i < listFile.length; i++)
+    {
+        var data = listFile[i];
+        lineCodes.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineLengths.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineEdis.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineNames.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineBranches.push(data);
+    }
 }
 
 function getOption()
@@ -140,7 +159,6 @@ function getOption()
         if (agencies[i] == agency)
         {
             document.getElementById("agency").innerHTML = ("<b>Agency: </b>" + fullAgencies[i] + " (" + agencies[i] + ")");
-            density = densityFlags[i];
         }
     }
 
@@ -159,8 +177,6 @@ function getOption()
             const lineEdis = [];
             const lineNames = [];
             const lineBranches = [];
-            const linePopulations = [];
-            const lineDensities = [];
             const fullLineOption = [];
 
             for (let i = 0; i < routeFile.length; i++)
@@ -174,18 +190,7 @@ function getOption()
                 data = data.substr(data.indexOf(";") + 1);
                 lineNames.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
-                if (density === "true")
-                {
-                    lineBranches.push(data.substring(0, data.indexOf(";")));
-                    data = data.substr(data.indexOf(";") + 1);
-                    linePopulations.push(data.substring(0, data.indexOf(";")));
-                    data = data.substr(data.indexOf(";") + 1);
-                    lineDensities.push(data);
-                }
-                else
-                {
-                    lineBranches.push(data);
-                }
+                lineBranches.push(data);
                 fullLineOption.push(lineNames[i] + " (" + lineBranches[i] + ") - " + lineCodes[i]);
                 document.getElementById("routeDrop").innerHTML += ("<option value=\"" + lineCodes[i] + "\">" + fullLineOption[i] + "</option>");
             }
@@ -293,7 +298,7 @@ function findIndex()
                 var data = agencyFile[i];
                 agencies.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
-                fullAgencies.push(data.substring(0, data.indexOf(";")));
+                fullAgencies.push(data);
             }
             
             for (let i = 0; i < agencies.length; i++)
@@ -541,8 +546,6 @@ function getStats(listFile)
     const lineEdis = [];
     const lineNames = [];
     const lineBranches = [];
-    const linePopulations = [];
-    const lineDensities = [];
 
     listFile.pop(); // this fixed a bug
     for (let i = 0; i < listFile.length; i++)
@@ -556,18 +559,7 @@ function getStats(listFile)
         data = data.substr(data.indexOf(";") + 1);
         lineNames.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
-        if (density === "true")
-        {
-            lineBranches.push(data.substring(0, data.indexOf(";")));
-            data = data.substr(data.indexOf(";") + 1);
-            linePopulations.push(data.substring(0, data.indexOf(";")));
-            data = data.substr(data.indexOf(";") + 1);
-            lineDensities.push(data);
-        }
-        else
-        {
-            lineBranches.push(data);
-        }
+        lineBranches.push(data);
     }
 
     // find averages
@@ -651,10 +643,6 @@ function getStats(listFile)
             document.getElementById("branch").innerHTML = ("<b>Branch: </b>" + lineBranches[i]);
             document.getElementById("length").innerHTML += (lineLengths[i] + " miles (" + percentMLength + "% of median)");
             document.getElementById("index").innerHTML += (lineEdis[i] + " (" + percentMEdi + "% of median)");
-            if (density === "true")
-            {
-                document.getElementById("density").innerHTML = ("<b>Density: </b>" + lineDensities[i] + " / mi");
-            }
         }
     }
 }

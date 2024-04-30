@@ -10,8 +10,6 @@ public class FullMap
   public static void main(String [] args)
   {
     ArrayList<String> agencies = new ArrayList<String>();
-    ArrayList<String> densityFlags = new ArrayList<String>();
-
     try
     {
       Scanner s = new Scanner(new File("../agencies.txt"));
@@ -19,9 +17,6 @@ public class FullMap
       {
         String data = s.nextLine();
         agencies.add(data.substring(0, data.indexOf(";")));
-        data = data.substring(data.indexOf(";") + 1);
-        data = data.substring(data.indexOf(";") + 1);
-        densityFlags.add(data);
       }
     }
     catch (Exception e)
@@ -83,15 +78,7 @@ public class FullMap
           data = data.substring(data.indexOf(";") + 1);
           String name = data.substring(0, data.indexOf(";"));
           data = data.substring(data.indexOf(";") + 1);
-          String branch = "no data"; // temp for scope
-          if (densityFlags.get(a).equals("true"))
-          {
-            branch = data.substring(0, data.indexOf(";"));
-          }
-          else
-          {
-            branch = data;
-          }
+          String branch = data;
 
           name = name.replace("&", "&amp;");
           branch = branch.replace("&", "&amp;");
