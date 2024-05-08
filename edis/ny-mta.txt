@@ -214,7 +214,14 @@ Q55;4.14;1.02;Q55: Ridgewood - Richmond Hill;Main
 Q56;6.51;1.03;Q56: Broadway Junction - Jamaica;Main
 Q58;7.81;1.35;Q58: Ridgewood - Flushing;Main
 Q59;6.83;1.28;Q59: Williamsburg - Rego Park;Main
+Q60;10.51;1.05;Q60: Queens Blvd. - East Midtown;Main
+Q64;2.54;1.18;Q64: Forest Hills - Pomonok;Main
+Q65;8.66;1.33;Q65: Jamaica - Flushing - College Point;Main
+Q66;6.9;1.2;Q66: Flushing - Long Island City;Main
+Q67;6.36;1.97;Q67: Middle Village - Long Island City;Main
 Q69;5.01;1.58;Q69: 21 St - Ditmars Blvd;Main
+Q70;2.83;1.38;Q70: LaGuardia Link;Main
+Q72;3.58;1.26;Q72: LaGuardia Airport - Rego Park;Main
 Q76;9.78;1.76;Q76: College Point - Jamaica;Main
 Q77;6.24;1.76;Q77: Laurelton - Jamaica;Main
 Q83;4.6;1.18;Q83: Cambria Heights - Jamaica;Main
@@ -223,9 +230,15 @@ Q85-green-acres;7.13;1.4;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to
 Q85-rosedale;6.16;1.39;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Rosedale
 Q88;8.77;1.24;Q88: Elmhurst - Queens Village;Main
 Q100;5.19;1.32;Q100: Rikers Island Limited;Main
+Q101;5.1;1.37;Q101: Astoria - East Midtown;Main
 Q102;6.09;3.6;Q102: 31 St - Roosevelt Island;Main
+Q103;3.34;1.3;Q103: Astoria - Hunters Point;Main
 Q104;2.85;1.55;Q104: Broadway / 48th St;Main
 Q110;4.17;1.08;Q110: Floral Park - Jamaica;Main
+Q111;6.33;1.17;Q111: Jamaica - Rosedale;Main
+Q112;3.9;1.41;Q112: Jamaica - Ozone Park;Main
+Q113;9.91;1.21;Q113: Jamaica - Far Rockaway Limited;Main
+Q114;10.96;1.34;Q114: Jamaica - Far Rockaway Limited;Main
 QM24;11.51;1.83;QM24: Glendale - Midtown;Main
 S Franklin;1.36;1.0;Franklin Av Shuttle;Main
 S Rockaway;2.67;1.23;Rockaway Park Shuttle;Main
