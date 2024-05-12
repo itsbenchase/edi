@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-ggt routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>154: Novato - San Francisco</name>
+		<name>154</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">154</SimpleData>
+<SimpleData name="LineName">154: Novato - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">28.92</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -92,9 +101,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>580: Del Norte BART - San Rafael</name>
+		<name>580</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">580</SimpleData>
+<SimpleData name="LineName">580: Del Norte BART - San Rafael</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.11</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522698,37.971194,0
@@ -114,9 +130,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>172: Santa Rosa - San Francisco</name>
+		<name>172</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">172</SimpleData>
+<SimpleData name="LineName">172: Santa Rosa - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">56.09</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -154,9 +177,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>154: Novato - San Francisco</name>
+		<name>154</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">154</SimpleData>
+<SimpleData name="LineName">154: Novato - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">28.92</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -195,9 +225,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>150: San Rafael - San Francisco</name>
+		<name>150</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">150</SimpleData>
+<SimpleData name="LineName">150: San Rafael - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.65</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.396066,37.790097,0
@@ -233,9 +270,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>132: San Anselmo - San Francisco</name>
+		<name>132</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">132</SimpleData>
+<SimpleData name="LineName">132: San Anselmo - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.08</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -275,9 +319,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>130: San Rafael - San Francisco</name>
+		<name>130</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">130</SimpleData>
+<SimpleData name="LineName">130: San Rafael - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.27</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.396066,37.790097,0
@@ -320,9 +371,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>114: Mill Valley - San Francisco</name>
+		<name>114</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">114</SimpleData>
+<SimpleData name="LineName">114: Mill Valley - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.81</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.397032,37.781909,0
@@ -365,9 +423,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101: Santa Rosa - San Francisco</name>
+		<name>101</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-ggt<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-ggt</SimpleData>
+<SimpleData name="LineCode">101</SimpleData>
+<SimpleData name="LineName">101: Santa Rosa - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">56.47</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.396066,37.790097,0

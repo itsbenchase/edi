@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ma-gatra routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Wareham - New Bedford Connection</name>
+		<name>wareham-new-bedford</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">wareham-new-bedford</SimpleData>
+<SimpleData name="LineName">Wareham - New Bedford Connection</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.59</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927938,41.635806,0
@@ -67,9 +76,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Wareham - Plymouth Connection</name>
+		<name>wareham-plymouth</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">wareham-plymouth</SimpleData>
+<SimpleData name="LineName">Wareham - Plymouth Connection</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">25.99</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.711317,41.949015,0
@@ -84,9 +100,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Manomet / Cedarville Deviated Link</name>
+		<name>manomet-cedarville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">manomet-cedarville</SimpleData>
+<SimpleData name="LineName">Manomet / Cedarville Deviated Link</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.03</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.55726,41.91559,0
@@ -97,9 +120,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Mayflower Link</name>
+		<name>mayflower</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.97</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">mayflower</SimpleData>
+<SimpleData name="LineName">Mayflower Link</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.75</SimpleData>
+<SimpleData name="LineEDI">1.97</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.668122,41.96005,0
@@ -119,9 +149,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Link 4: Cranberry Plaza to West Wareham</name>
+		<name>link-4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">link-4</SimpleData>
+<SimpleData name="LineName">Link 4: Cranberry Plaza to West Wareham</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.54</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.599239,41.750999,0
@@ -138,9 +175,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Link 2: Cranberry Plaza to Buzzards Bay</name>
+		<name>link-2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.83</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">link-2</SimpleData>
+<SimpleData name="LineName">Link 2: Cranberry Plaza to Buzzards Bay</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.75</SimpleData>
+<SimpleData name="LineEDI">1.83</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.639956,41.786944,0
@@ -151,9 +195,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Link 1: Wareham / Onset / Wareham</name>
+		<name>link-1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.97</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">link-1</SimpleData>
+<SimpleData name="LineName">Link 1: Wareham / Onset / Wareham</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.27</SimpleData>
+<SimpleData name="LineEDI">1.97</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.734974,41.750553,0
@@ -168,9 +219,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SAIL: Marshfield / Duxbury / Kingston</name>
+		<name>sail</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">sail</SimpleData>
+<SimpleData name="LineName">SAIL: Marshfield / Duxbury / Kingston</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.64</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.715185,41.969055,0
@@ -193,9 +251,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Medway T Shuttle</name>
+		<name>medway</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">medway</SimpleData>
+<SimpleData name="LineName">Medway T Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.55</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.406549,42.145958,0
@@ -205,9 +270,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Middleborough - Taunton Connection</name>
+		<name>middleborough-taunton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">middleborough-taunton</SimpleData>
+<SimpleData name="LineName">Middleborough - Taunton Connection</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.63</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.864762,41.908706,0
@@ -221,9 +293,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Downtown Middleborough Shuttle</name>
+		<name>middleborough-shuttle</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">middleborough-shuttle</SimpleData>
+<SimpleData name="LineName">Downtown Middleborough Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.2</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.899684,41.878258,0
@@ -237,9 +316,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Taunton / Norton / Attleboro</name>
+		<name>18</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Taunton / Norton / Attleboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.25</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.28519,41.941473,0
@@ -263,9 +349,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: Seekonk / Attleboro</name>
+		<name>16</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: Seekonk / Attleboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.63</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.28519,41.941473,0
@@ -279,9 +372,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Sturdy Hospital / La Salette</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Sturdy Hospital / La Salette</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.68</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.28519,41.941473,0
@@ -293,9 +393,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: North Attleboro / Plainville</name>
+		<name>14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: North Attleboro / Plainville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.86</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.28519,41.941473,0
@@ -313,9 +420,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Attleboro / South Attleboro</name>
+		<name>12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Attleboro / South Attleboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.1</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.28519,41.941473,0
@@ -333,9 +447,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: South Attleboro Connector</name>
+		<name>11</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: South Attleboro Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.87</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.352759,41.899014,0
@@ -353,9 +474,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Attleboro / North Attleboro</name>
+		<name>10</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 2.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Attleboro / North Attleboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.82</SimpleData>
+<SimpleData name="LineEDI">2.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.28519,41.941473,0
@@ -375,9 +503,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: County St / Target</name>
+		<name>8</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: County St / Target</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.2</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.10096,41.90106,0
@@ -395,9 +530,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: School St / Route 44</name>
+		<name>7</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: School St / Route 44</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.34</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.10096,41.90106,0
@@ -413,9 +555,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Whittenton</name>
+		<name>6</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 2.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Whittenton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.19</SimpleData>
+<SimpleData name="LineEDI">2.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.10096,41.90106,0
@@ -431,9 +580,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Walmart / E. Taunton / Target</name>
+		<name>5</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Walmart / E. Taunton / Target</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.05</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.033165,41.903635,0
@@ -445,9 +601,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Broadway / Market Basket</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-gatra<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-gatra</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Broadway / Market Basket</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.92</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.10096,41.90106,0

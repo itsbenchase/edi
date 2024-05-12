@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>pa-emta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>23: Belle Valley</name>
+		<name>23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Belle Valley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.73</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -103,9 +112,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Tacoma</name>
+		<name>22</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 2.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Tacoma</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.17</SimpleData>
+<SimpleData name="LineEDI">2.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -145,9 +161,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Lawrence Park</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Lawrence Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.85</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.084412,42.125802,0
@@ -183,9 +206,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20B: Lincoln Park N Ride</name>
+		<name>20B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">20B</SimpleData>
+<SimpleData name="LineName">20B: Lincoln Park N Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.88</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.080023,42.139665,0
@@ -196,9 +226,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20A: Downtown Loop</name>
+		<name>20A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">20A</SimpleData>
+<SimpleData name="LineName">20A: Downtown Loop</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.38</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.090146,42.136999,0
@@ -209,9 +246,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: North East</name>
+		<name>16</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: North East</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.07</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -297,9 +341,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: E 38th St</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: E 38th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.6</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.983263,42.11992,0
@@ -350,9 +401,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Edinboro</name>
+		<name>14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Edinboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.56</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -410,9 +468,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Albion</name>
+		<name>12</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Albion</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">33.11</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0
@@ -516,9 +581,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Harborcreek</name>
+		<name>11</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 2.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Harborcreek</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.69</SimpleData>
+<SimpleData name="LineEDI">2.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.084412,42.125802,0
@@ -563,9 +635,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Liberty St</name>
+		<name>4</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Liberty St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.45</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -620,9 +699,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Peach St</name>
+		<name>3-peach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Peach St<br/>Agency: pa-emta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">3-peach</SimpleData>
+<SimpleData name="LineName">3: Peach St</SimpleData>
+<SimpleData name="LineBranch">via Peach St</SimpleData>
+<SimpleData name="LineLength">8.82</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -676,9 +762,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Peach St</name>
+		<name>3-cherry</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Cherry St<br/>Agency: pa-emta<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">3-cherry</SimpleData>
+<SimpleData name="LineName">3: Peach St</SimpleData>
+<SimpleData name="LineBranch">via Cherry St</SimpleData>
+<SimpleData name="LineLength">11.16</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.084708,42.137272,0
@@ -730,9 +823,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Glenwood</name>
+		<name>1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-emta<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-emta</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Glenwood</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.69</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-80.082858,42.128218,0

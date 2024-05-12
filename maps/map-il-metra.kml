@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>il-metra routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Union Pacific West</name>
+		<name>UP-W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">UP-W</SimpleData>
+<SimpleData name="LineName">Union Pacific West</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">43.06</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -79,9 +88,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Union Pacific Northwest</name>
+		<name>UP-NW-mchenry</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: McHenry<br/>Agency: il-metra<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">UP-NW-mchenry</SimpleData>
+<SimpleData name="LineName">Union Pacific Northwest</SimpleData>
+<SimpleData name="LineBranch">McHenry</SimpleData>
+<SimpleData name="LineLength">49.55</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -107,9 +123,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Union Pacific Northwest</name>
+		<name>UP-NW-harvard</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Harvard<br/>Agency: il-metra<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">UP-NW-harvard</SimpleData>
+<SimpleData name="LineName">Union Pacific Northwest</SimpleData>
+<SimpleData name="LineBranch">Harvard</SimpleData>
+<SimpleData name="LineLength">62.69</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -137,9 +160,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Union Pacific North</name>
+		<name>UP-N</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">UP-N</SimpleData>
+<SimpleData name="LineName">Union Pacific North</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">51.42</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.640556,41.882222,0
@@ -172,9 +202,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Southwest Service</name>
+		<name>SWS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">SWS</SimpleData>
+<SimpleData name="LineName">Southwest Service</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">37.34</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -194,9 +231,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Rock Island</name>
+		<name>RI-joliet</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Joliet<br/>Agency: il-metra<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">RI-joliet</SimpleData>
+<SimpleData name="LineName">Rock Island</SimpleData>
+<SimpleData name="LineBranch">Joliet</SimpleData>
+<SimpleData name="LineLength">39.75</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.632222,41.876389,0
@@ -217,9 +261,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Rock Island</name>
+		<name>RI-blue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Blue Island<br/>Agency: il-metra<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">RI-blue</SimpleData>
+<SimpleData name="LineName">Rock Island</SimpleData>
+<SimpleData name="LineBranch">Blue Island</SimpleData>
+<SimpleData name="LineLength">16.15</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.632222,41.876389,0
@@ -241,9 +292,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Rock Island</name>
+		<name>RI-all</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: All Stops<br/>Agency: il-metra<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">RI-all</SimpleData>
+<SimpleData name="LineName">Rock Island</SimpleData>
+<SimpleData name="LineBranch">All Stops</SimpleData>
+<SimpleData name="LineLength">40.27</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.632222,41.876389,0
@@ -274,9 +332,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>North Central Service</name>
+		<name>NCS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">NCS</SimpleData>
+<SimpleData name="LineName">North Central Service</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">51.76</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -301,9 +366,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Milwaukee District West</name>
+		<name>MD-W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">MD-W</SimpleData>
+<SimpleData name="LineName">Milwaukee District West</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">38.25</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -332,9 +404,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Milwaukee District North</name>
+		<name>MD-N</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">MD-N</SimpleData>
+<SimpleData name="LineName">Milwaukee District North</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">47.86</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -363,9 +442,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Metra Electric</name>
+		<name>ME-UP</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: University Park<br/>Agency: il-metra<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">ME-UP</SimpleData>
+<SimpleData name="LineName">Metra Electric</SimpleData>
+<SimpleData name="LineBranch">University Park</SimpleData>
+<SimpleData name="LineLength">30.89</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0
@@ -405,9 +491,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Metra Electric</name>
+		<name>ME-SC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: South Chicago<br/>Agency: il-metra<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">ME-SC</SimpleData>
+<SimpleData name="LineName">Metra Electric</SimpleData>
+<SimpleData name="LineBranch">South Chicago</SimpleData>
+<SimpleData name="LineLength">12.56</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0
@@ -432,9 +525,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Metra Electric</name>
+		<name>ME-BI</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Blue Island<br/>Agency: il-metra<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">ME-BI</SimpleData>
+<SimpleData name="LineName">Metra Electric</SimpleData>
+<SimpleData name="LineBranch">Blue Island</SimpleData>
+<SimpleData name="LineLength">18.43</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.623056,41.884167,0
@@ -469,9 +569,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Heritage Corridor</name>
+		<name>HC</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">HC</SimpleData>
+<SimpleData name="LineName">Heritage Corridor</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">35.17</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0
@@ -487,7 +594,14 @@
 	<Placemark> 
 		<name>BNSF</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-metra<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-metra</SimpleData>
+<SimpleData name="LineCode">BNSF</SimpleData>
+<SimpleData name="LineName">BNSF</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">36.43</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.638889,41.878889,0

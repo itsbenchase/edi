@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>va-dash routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>King St Trolley: King St - Market Square</name>
+		<name>KST</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">KST</SimpleData>
+<SimpleData name="LineName">King St Trolley: King St - Market Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.02</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.042595,38.804695,0
@@ -70,9 +79,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104: Braddock - Pentagon</name>
+		<name>104</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">104</SimpleData>
+<SimpleData name="LineName">104: Braddock - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.94</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054941,38.868187,0
@@ -108,9 +124,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>103: Braddock - Pentagon</name>
+		<name>103</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">103</SimpleData>
+<SimpleData name="LineName">103: Braddock - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.81</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054941,38.868187,0
@@ -144,9 +167,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: Mark Center - King St</name>
+		<name>102</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.86</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">102</SimpleData>
+<SimpleData name="LineName">102: Mark Center - King St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.57</SimpleData>
+<SimpleData name="LineEDI">1.86</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.060281,38.806367,0
@@ -181,9 +211,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Mark Center - Shirlington - Potomac Yard</name>
+		<name>36B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: B: via Van Dorn<br/>Agency: va-dash<br/>EDI: 1.95</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">36B</SimpleData>
+<SimpleData name="LineName">36: Mark Center - Shirlington - Potomac Yard</SimpleData>
+<SimpleData name="LineBranch">B: via Van Dorn</SimpleData>
+<SimpleData name="LineLength">7.13</SimpleData>
+<SimpleData name="LineEDI">1.95</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.050545,38.83989,0
@@ -233,9 +270,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Mark Center - Shirlington - Potomac Yard</name>
+		<name>36A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: A: via Menokin<br/>Agency: va-dash<br/>EDI: 1.89</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">36A</SimpleData>
+<SimpleData name="LineName">36: Mark Center - Shirlington - Potomac Yard</SimpleData>
+<SimpleData name="LineBranch">A: via Menokin</SimpleData>
+<SimpleData name="LineLength">6.92</SimpleData>
+<SimpleData name="LineEDI">1.89</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.050545,38.83989,0
@@ -288,9 +332,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Van Dorn - Pentagon</name>
+		<name>35</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Van Dorn - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.2</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.053847,38.869018,0
@@ -343,9 +394,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Lee Center - Potomac Yard</name>
+		<name>34</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 2.97</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: Lee Center - Potomac Yard</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.24</SimpleData>
+<SimpleData name="LineEDI">2.97</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.05397,38.813393,0
@@ -377,9 +435,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: King St - Mt Vernon Av - Potomac Yard</name>
+		<name>33</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: King St - Mt Vernon Av - Potomac Yard</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.38</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.050018,38.835243,0
@@ -409,9 +474,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Landmark - Van Dorn - King St</name>
+		<name>32</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Landmark - Van Dorn - King St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.41</SimpleData>
+<SimpleData name="LineEDI">1.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.061611,38.805859,0
@@ -450,9 +522,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: NVCC - King St - Braddock Rd</name>
+		<name>31</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: NVCC - King St - Braddock Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.56</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.053864,38.813545,0
@@ -510,9 +589,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Van Dorn - King St - Braddock</name>
+		<name>30</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-dash<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-dash</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Van Dorn - King St - Braddock</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.8</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.053864,38.813545,0

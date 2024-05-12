@@ -54,7 +54,7 @@ public class StatsList
       // listing with links at top
       fileWriter1.append("<p id=agencies><a href=#global>Entire Database</a><br></p> \n");
       fileWriter1.append("<script src=list.js></script>");
-      fileWriter1.append("<h3 id=global>Enitre Database</h3> \n");
+      fileWriter1.append("<h3 id=global>Entire Database</h3> \n");
       
       ArrayList<Double> lengths = new ArrayList<Double>(); // stores all lengths
       ArrayList<Double> edis = new ArrayList<Double>();

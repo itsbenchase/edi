@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-marin routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>245: San Rafael (Downtown - Smith Ranch Road)</name>
+		<name>245</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 2.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">245</SimpleData>
+<SimpleData name="LineName">245: San Rafael (Downtown - Smith Ranch Road)</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.88</SimpleData>
+<SimpleData name="LineEDI">2.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522601,37.971094,0
@@ -75,9 +84,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>233: San Rafael (Downtown - Santa Venetia)</name>
+		<name>233</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">233</SimpleData>
+<SimpleData name="LineName">233: San Rafael (Downtown - Santa Venetia)</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.99</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522849,37.971131,0
@@ -107,9 +123,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>228: Downtown San Rafael - Fairfax Manor</name>
+		<name>228</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 2.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">228</SimpleData>
+<SimpleData name="LineName">228: Downtown San Rafael - Fairfax Manor</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.93</SimpleData>
+<SimpleData name="LineEDI">2.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522698,37.971194,0
@@ -152,9 +175,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>219: Tiburon - Strawberry</name>
+		<name>219</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">219</SimpleData>
+<SimpleData name="LineName">219: Tiburon - Strawberry</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.13</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.456139,37.873861,0
@@ -178,9 +208,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71: Novato - Marin City</name>
+		<name>71</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">71</SimpleData>
+<SimpleData name="LineName">71: Novato - Marin City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.63</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.511571,37.872299,0
@@ -204,9 +241,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68: Downtown San Rafael - Inverness</name>
+		<name>68</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">68</SimpleData>
+<SimpleData name="LineName">68: Downtown San Rafael - Inverness</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.7</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522849,37.971131,0
@@ -247,9 +291,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61: Sausalito - Bolinas</name>
+		<name>61</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">61</SimpleData>
+<SimpleData name="LineName">61: Sausalito - Bolinas</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.11</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.686546,37.909275,0
@@ -285,9 +336,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Downtown San Rafael - Novato</name>
+		<name>57</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Downtown San Rafael - Novato</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.25</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522601,37.971094,0
@@ -363,9 +421,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49: Downtown San Rafael - Novato San Marin</name>
+		<name>49</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">49</SimpleData>
+<SimpleData name="LineName">49: Downtown San Rafael - Novato San Marin</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.8</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.522601,37.971094,0
@@ -415,9 +480,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Canal - Marin City</name>
+		<name>36</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Canal - Marin City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.27</SimpleData>
+<SimpleData name="LineEDI">1.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.511571,37.872299,0
@@ -438,9 +510,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Canal - Northgate</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Canal - Northgate</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.47</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.502007,37.962776,0
@@ -468,9 +547,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: Downtown San Rafael - E. Corte Madera</name>
+		<name>29</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 2.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: Downtown San Rafael - E. Corte Madera</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.54</SimpleData>
+<SimpleData name="LineEDI">2.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.499901,37.919956,0
@@ -501,9 +587,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: Canal – Fairfax Manor</name>
+		<name>23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Canal – Fairfax Manor</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.18</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.604134,38.000221,0
@@ -542,9 +635,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Downtown San Rafael - Marin City</name>
+		<name>22</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Downtown San Rafael - Marin City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.81</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.511571,37.8723,0
@@ -586,9 +686,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Downtown San Rafael - Sausalito</name>
+		<name>17</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-marin<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-marin</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: Downtown San Rafael - Sausalito</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.72</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.480469,37.857136,0

@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>wa-king routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>249: Overdale - S Kirkland - Bellevue</name>
+		<name>249</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 2.98</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">249</SimpleData>
+<SimpleData name="LineName">249: Overdale - S Kirkland - Bellevue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.72</SimpleData>
+<SimpleData name="LineEDI">2.98</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.131401,47.645981,0
@@ -131,9 +140,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Kinnear - Seattle Center - Downtown Seattle</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Kinnear - Seattle Center - Downtown Seattle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.16</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.370277,47.645111,0
@@ -167,9 +183,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Arbor Heights - Westwood Village - Gatewood - Alaska Jct</name>
+		<name>22</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Arbor Heights - Westwood Village - Gatewood - Alaska Jct</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.53</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.380615,47.504662,0
@@ -218,9 +241,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>345: Shoreline - Haller Lake - Northgate</name>
+		<name>345</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">345</SimpleData>
+<SimpleData name="LineName">345: Shoreline - Haller Lake - Northgate</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.73</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.328026,47.702309,0
@@ -255,9 +285,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>331: Kenmore - Lake Forest Park - Aurora Village - Shoreline</name>
+		<name>331</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">331</SimpleData>
+<SimpleData name="LineName">331: Kenmore - Lake Forest Park - Aurora Village - Shoreline</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.92</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.353134,47.744144,0
@@ -305,9 +342,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Magnolia - Seattle Center - Downtown Seattle</name>
+		<name>24</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Magnolia - Seattle Center - Downtown Seattle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.34</SimpleData>
+<SimpleData name="LineEDI">1.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.328957,47.593342,0
@@ -373,9 +417,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Alki - Alaska Jct - SODO - Othello</name>
+		<name>50-sodo</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to SODO<br/>Agency: wa-king<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">50-sodo</SimpleData>
+<SimpleData name="LineName">50: Alki - Alaska Jct - SODO - Othello</SimpleData>
+<SimpleData name="LineBranch">to SODO</SimpleData>
+<SimpleData name="LineLength">6.53</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.410797,47.578995,0
@@ -413,9 +464,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Alki - Alaska Jct - SODO - Othello</name>
+		<name>50-othello</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Othello Station<br/>Agency: wa-king<br/>EDI: 2.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">50-othello</SimpleData>
+<SimpleData name="LineName">50: Alki - Alaska Jct - SODO - Othello</SimpleData>
+<SimpleData name="LineBranch">to Othello Station</SimpleData>
+<SimpleData name="LineLength">13.75</SimpleData>
+<SimpleData name="LineEDI">2.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.410797,47.578995,0
@@ -486,9 +544,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F Line: Burien TC - SeaTac - Tukwila - Renton TC - The Landing</name>
+		<name>F</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">F</SimpleData>
+<SimpleData name="LineName">F Line: Burien TC - SeaTac - Tukwila - Renton TC - The Landing</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.15</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.337318,47.46941,0
@@ -527,9 +592,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E Line: Aurora Village TC - Bitter Lake - West Green Lake</name>
+		<name>E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">E</SimpleData>
+<SimpleData name="LineName">E Line: Aurora Village TC - Bitter Lake - West Green Lake</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.13</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.327316,47.592129,0
@@ -572,9 +644,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D Line: Crown Hill - Ballard - Interbay - Uptown</name>
+		<name>D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">D</SimpleData>
+<SimpleData name="LineName">D Line: Crown Hill - Ballard - Interbay - Uptown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.31</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.329941,47.601658,0
@@ -609,9 +688,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C Line: South Lake Union - Alaska Jct - Westwood Village</name>
+		<name>C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">C</SimpleData>
+<SimpleData name="LineName">C Line: South Lake Union - Alaska Jct - Westwood Village</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.89</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.334106,47.626034,0
@@ -642,9 +728,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B Line: Redmond - Overlake - Crossroads - Bellevue</name>
+		<name>B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">B</SimpleData>
+<SimpleData name="LineName">B Line: Redmond - Overlake - Crossroads - Bellevue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.9</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.195358,47.615505,0
@@ -676,9 +769,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A Line: Tukwila International Blvd - Federal Way TC</name>
+		<name>A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-king<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-king</SimpleData>
+<SimpleData name="LineCode">A</SimpleData>
+<SimpleData name="LineName">A Line: Tukwila International Blvd - Federal Way TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.67</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.288452,47.464207,0

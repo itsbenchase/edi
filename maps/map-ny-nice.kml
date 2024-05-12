@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ny-nice routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>n72: Hempstead - Farmingdale</name>
+		<name>n72</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n72</SimpleData>
+<SimpleData name="LineName">n72: Hempstead - Farmingdale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.93</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -109,9 +118,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n71: Hempstead - Sunrise Mall / Amityville</name>
+		<name>n71</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n71</SimpleData>
+<SimpleData name="LineName">n71: Hempstead - Sunrise Mall / Amityville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.09</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -181,9 +197,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n70: Hempstead - Farmington State College</name>
+		<name>n70</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n70</SimpleData>
+<SimpleData name="LineName">n70: Hempstead - Farmington State College</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.23</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -243,9 +266,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n55: Hempstead - Amityville via Broadway</name>
+		<name>n55</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n55</SimpleData>
+<SimpleData name="LineName">n55: Hempstead - Amityville via Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.43</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.62456,40.711126,0
@@ -316,9 +346,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n54: Hempstead - Amityville via Washington</name>
+		<name>n54</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n54</SimpleData>
+<SimpleData name="LineName">n54: Hempstead - Amityville via Washington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.56</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.62456,40.711126,0
@@ -386,9 +423,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n49: Hempstead - Hicksville via Newman</name>
+		<name>n49</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n49</SimpleData>
+<SimpleData name="LineName">n49: Hempstead - Hicksville via Newman</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.67</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -441,9 +485,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n48: Hempstead - Hicksville via Carman</name>
+		<name>n48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n48</SimpleData>
+<SimpleData name="LineName">n48: Hempstead - Hicksville via Carman</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.68</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -498,9 +549,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n40/41: Mineola - Freeport</name>
+		<name>n40/41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n40/41</SimpleData>
+<SimpleData name="LineName">n40/41: Mineola - Freeport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.02</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.580514,40.657676,0
@@ -541,9 +599,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n43: Garden City - Freeport</name>
+		<name>n43</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n43</SimpleData>
+<SimpleData name="LineName">n43: Garden City - Freeport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.74</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.610629,40.735097,0
@@ -591,9 +656,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n35: Baldwin - Westbury</name>
+		<name>n35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n35</SimpleData>
+<SimpleData name="LineName">n35: Baldwin - Westbury</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.64</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.586012,40.76211,0
@@ -659,9 +731,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n33: Far Rockaway - Long Beach</name>
+		<name>n33</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n33</SimpleData>
+<SimpleData name="LineName">n33: Far Rockaway - Long Beach</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.58</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.753647,40.603998,0
@@ -702,9 +781,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n32: Hempstead - Far Rockaway via Broadway</name>
+		<name>n32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n32</SimpleData>
+<SimpleData name="LineName">n32: Hempstead - Far Rockaway via Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.15</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624369,40.7115,0
@@ -773,9 +859,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n31: Hempstead - Far Rockaway via W Broadway</name>
+		<name>n31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n31</SimpleData>
+<SimpleData name="LineName">n31: Hempstead - Far Rockaway via W Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.52</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624369,40.7115,0
@@ -851,9 +944,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n26: Jamaica - Great Neck</name>
+		<name>n26</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n26</SimpleData>
+<SimpleData name="LineName">n26: Jamaica - Great Neck</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.57</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.726357,40.787478,0
@@ -905,9 +1005,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n25: Lynbrook - Great Neck</name>
+		<name>n25</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n25</SimpleData>
+<SimpleData name="LineName">n25: Lynbrook - Great Neck</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.34</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.726357,40.787478,0
@@ -984,9 +1091,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n24: Jamaica - Garden City / Hicksville</name>
+		<name>n24</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n24</SimpleData>
+<SimpleData name="LineName">n24: Jamaica - Garden City / Hicksville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.01</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.527419,40.767538,0
@@ -1064,9 +1178,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n23: Mineola - Manorhaven</name>
+		<name>n23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n23</SimpleData>
+<SimpleData name="LineName">n23: Mineola - Manorhaven</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.8</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.64189,40.73992,0
@@ -1127,9 +1248,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n22: Jamaica - Mineola / Hicksville</name>
+		<name>n22</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n22</SimpleData>
+<SimpleData name="LineName">n22: Jamaica - Mineola / Hicksville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.63</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.527524,40.768036,0
@@ -1213,9 +1341,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n21: Great Neck - Glen Cove</name>
+		<name>n21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n21</SimpleData>
+<SimpleData name="LineName">n21: Great Neck - Glen Cove</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.03</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.632057,40.863135,0
@@ -1275,9 +1410,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n20H: Great Neck - Hicksville</name>
+		<name>n20h</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n20h</SimpleData>
+<SimpleData name="LineName">n20H: Great Neck - Hicksville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.8</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.527619,40.76852,0
@@ -1319,9 +1461,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n20G: Great Neck - Flushing</name>
+		<name>n20g</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n20g</SimpleData>
+<SimpleData name="LineName">n20G: Great Neck - Flushing</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.27</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.829537,40.759791,0
@@ -1364,9 +1513,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n80: Hicksville - Massapequa</name>
+		<name>n80</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n80</SimpleData>
+<SimpleData name="LineName">n80: Hicksville - Massapequa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.42</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.527241,40.766785,0
@@ -1419,9 +1575,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n79: Hicksville - South Huntington</name>
+		<name>n79</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n79</SimpleData>
+<SimpleData name="LineName">n79: Hicksville - South Huntington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.23</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.527241,40.766785,0
@@ -1475,9 +1638,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n78: Hicksville - Plainview</name>
+		<name>n78</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n78</SimpleData>
+<SimpleData name="LineName">n78: Hicksville - Plainview</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.81</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.527241,40.766785,0
@@ -1510,9 +1680,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n19: Freeport - Massapequa</name>
+		<name>n19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n19</SimpleData>
+<SimpleData name="LineName">n19: Freeport - Massapequa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.94</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.580514,40.657676,0
@@ -1563,9 +1740,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n16: Garden City - Rockville Centre</name>
+		<name>n16</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n16</SimpleData>
+<SimpleData name="LineName">n16: Garden City - Rockville Centre</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.64</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.645986,40.658229,0
@@ -1621,9 +1805,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n15: Mineola / Garden City - Long Beach</name>
+		<name>n15-M</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Mineola<br/>Agency: ny-nice<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n15-M</SimpleData>
+<SimpleData name="LineName">n15: Mineola / Garden City - Long Beach</SimpleData>
+<SimpleData name="LineBranch">to Mineola</SimpleData>
+<SimpleData name="LineLength">12.63</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.665527,40.589482,0
@@ -1688,9 +1879,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n15: Mineola / Garden City - Long Beach</name>
+		<name>n15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n15</SimpleData>
+<SimpleData name="LineName">n15: Mineola / Garden City - Long Beach</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.3</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.665527,40.589482,0
@@ -1756,9 +1954,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n6: Jamaica - Hempstead</name>
+		<name>n6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n6</SimpleData>
+<SimpleData name="LineName">n6: Jamaica - Hempstead</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.8</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624229,40.711196,0
@@ -1806,9 +2011,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n4: Jamaica - Freeport</name>
+		<name>n4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n4</SimpleData>
+<SimpleData name="LineName">n4: Jamaica - Freeport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.88</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.581052,40.657575,0
@@ -1863,9 +2075,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n1: Jamaica / Elmont - Hewlett</name>
+		<name>n1-jamaica</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Jamaica<br/>Agency: ny-nice<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n1-jamaica</SimpleData>
+<SimpleData name="LineName">n1: Jamaica / Elmont - Hewlett</SimpleData>
+<SimpleData name="LineBranch">to Jamaica</SimpleData>
+<SimpleData name="LineLength">13.05</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.689811,40.647133,0
@@ -1935,9 +2154,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n1: Jamaica / Elmont - Hewlett</name>
+		<name>n1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Elmont<br/>Agency: ny-nice<br/>EDI: 1.83</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n1</SimpleData>
+<SimpleData name="LineName">n1: Jamaica / Elmont - Hewlett</SimpleData>
+<SimpleData name="LineBranch">to Elmont</SimpleData>
+<SimpleData name="LineLength">7.89</SimpleData>
+<SimpleData name="LineEDI">1.83</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.689811,40.647133,0
@@ -1988,9 +2214,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n27: Hempstead - Glen Cove</name>
+		<name>n27</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n27</SimpleData>
+<SimpleData name="LineName">n27: Hempstead - Glen Cove</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.9</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.624697,40.711419,0
@@ -2066,9 +2299,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>n58: Great Neck - Kings Point</name>
+		<name>n58</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-nice<br/>EDI: 2.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-nice</SimpleData>
+<SimpleData name="LineCode">n58</SimpleData>
+<SimpleData name="LineName">n58: Great Neck - Kings Point</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.87</SimpleData>
+<SimpleData name="LineEDI">2.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.726357,40.787478,0

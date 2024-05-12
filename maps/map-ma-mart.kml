@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ma-mart routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Intercity / MWCC</name>
+		<name>mwcc</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 2.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">mwcc</SimpleData>
+<SimpleData name="LineName">Intercity / MWCC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.39</SimpleData>
+<SimpleData name="LineEDI">2.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0
@@ -70,9 +79,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Winchendon Link</name>
+		<name>winchendon</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">winchendon</SimpleData>
+<SimpleData name="LineName">Winchendon Link</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.85</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.99658,42.574548,0
@@ -86,9 +102,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Athol Link</name>
+		<name>athol-link</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">athol-link</SimpleData>
+<SimpleData name="LineName">Athol Link</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.82</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.262091,42.581765,0
@@ -108,9 +131,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Clinton Worcester Commuter</name>
+		<name>clinton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">clinton</SimpleData>
+<SimpleData name="LineName">Clinton Worcester Commuter</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.05</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.798352,42.267328,0
@@ -124,9 +154,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Wachusett Commuter Shuttle</name>
+		<name>wachusett</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">wachusett</SimpleData>
+<SimpleData name="LineName">Wachusett Commuter Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.84</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.985389,42.568168,0
@@ -137,9 +174,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Fitchburg State University Shuttle</name>
+		<name>fsu</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">fsu</SimpleData>
+<SimpleData name="LineName">Fitchburg State University Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.71</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.803324,42.584208,0
@@ -155,9 +199,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Athol / Orange</name>
+		<name>athol-orange</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">athol-orange</SimpleData>
+<SimpleData name="LineName">Athol / Orange</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.88</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.187997,42.578662,0
@@ -174,9 +225,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Intermodal - Great Wolf Lodge</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Intermodal - Great Wolf Lodge</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.72</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0
@@ -192,9 +250,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Monument Sq - Walmart</name>
+		<name>9</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: Monument Sq - Walmart</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.6</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.760145,42.526118,0
@@ -206,9 +271,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Monument Sq - Orchard Hill Park</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Monument Sq - Orchard Hill Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.9</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.765488,42.527756,0
@@ -223,9 +295,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Intermodal - John Fitch - Lunenburg Crossing</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Intermodal - John Fitch - Lunenburg Crossing</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.12</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0
@@ -235,9 +314,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Intermodal - Burbank - Fitchburg High</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Intermodal - Burbank - Fitchburg High</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.17</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0
@@ -248,9 +334,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Intermodal Center - Parkhill Plaza - Central Plaza</name>
+		<name>5</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Intermodal Center - Parkhill Plaza - Central Plaza</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.68</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0
@@ -264,9 +357,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Fitchburg State University</name>
+		<name>4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Fitchburg State University</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.09</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0
@@ -277,9 +377,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Intermodal Center - Monument Square</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-mart<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-mart</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Intermodal Center - Monument Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.38</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.792582,42.58126,0

@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-omni routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>312: Fontana - Muscoy - Cal State</name>
+		<name>312</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 2.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">312</SimpleData>
+<SimpleData name="LineName">312: Fontana - Muscoy - Cal State</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.16</SimpleData>
+<SimpleData name="LineEDI">2.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.436107,34.095326,0
@@ -119,9 +128,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>305: San Bernardino - Waterman - Grand Terrace</name>
+		<name>305</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">305</SimpleData>
+<SimpleData name="LineName">305: San Bernardino - Waterman - Grand Terrace</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.07</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.295607,34.1001,0
@@ -154,9 +170,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88: Chino Hills - Ramona Ave - Montclair</name>
+		<name>88</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">88</SimpleData>
+<SimpleData name="LineName">88: Chino Hills - Ramona Ave - Montclair</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.16</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.729863,34.002316,0
@@ -198,9 +221,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Chaffey College - Ontario - Eastvale</name>
+		<name>87</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">87</SimpleData>
+<SimpleData name="LineName">87: Chaffey College - Ontario - Eastvale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.05</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.569172,34.148313,0
@@ -265,9 +295,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Chino - Montclair - Chaffey College</name>
+		<name>85</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">85</SimpleData>
+<SimpleData name="LineName">85: Chino - Montclair - Chaffey College</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.44</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.568973,34.148315,0
@@ -349,9 +386,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>84: Chino - Mountain Ave - Montclair</name>
+		<name>84</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">84</SimpleData>
+<SimpleData name="LineName">84: Chino - Mountain Ave - Montclair</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.19</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.695298,34.094173,0
@@ -388,9 +432,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83: Chino - Euclid Ave - Upland</name>
+		<name>83</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">83</SimpleData>
+<SimpleData name="LineName">83: Chino - Euclid Ave - Upland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.51</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.691703,34.012438,0
@@ -433,9 +484,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>82: Rancho Cucamonga - Fontana - Sierra Lakes</name>
+		<name>82</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 4.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">82</SimpleData>
+<SimpleData name="LineName">82: Rancho Cucamonga - Fontana - Sierra Lakes</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.89</SimpleData>
+<SimpleData name="LineEDI">4.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.464202,34.150557,0
@@ -519,9 +577,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>81: Ontario - Haven Ave - Chaffey College</name>
+		<name>81</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">81</SimpleData>
+<SimpleData name="LineName">81: Ontario - Haven Ave - Chaffey College</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.9</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.579346,34.039934,0
@@ -559,9 +624,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67: Chaffey College - Baseline - Fontana</name>
+		<name>67</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">67</SimpleData>
+<SimpleData name="LineName">67: Chaffey College - Baseline - Fontana</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.55</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.568775,34.148316,0
@@ -612,9 +684,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Fontana - Foothill Blvd - Montclair</name>
+		<name>66</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">66</SimpleData>
+<SimpleData name="LineName">66: Fontana - Foothill Blvd - Montclair</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.22</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.436787,34.095496,0
@@ -674,9 +753,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61: Fontana - Ontario - Pomona</name>
+		<name>61</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">61</SimpleData>
+<SimpleData name="LineName">61: Fontana - Ontario - Pomona</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.74</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.436793,34.095641,0
@@ -758,9 +844,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: North Rialto - Riverside Ave - ARMC</name>
+		<name>22</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: North Rialto - Riverside Ave - ARMC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.38</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.427272,34.167898,0
@@ -810,9 +903,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Fontana - Colton - Yucaipa</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Fontana - Colton - Yucaipa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.78</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.057301,34.034755,0
@@ -912,9 +1012,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Fontana - San Bernardino - Redlands</name>
+		<name>15</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Fontana - San Bernardino - Redlands</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.52</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.18455,34.059595,0
@@ -1010,9 +1117,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Fontana - Foothill - San Bernadino</name>
+		<name>14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Fontana - Foothill - San Bernadino</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.46</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.4365,34.095318,0
@@ -1054,9 +1168,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Fontana - Baseline - San Bernadino</name>
+		<name>10</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Fontana - Baseline - San Bernadino</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.91</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.295292,34.099928,0
@@ -1111,9 +1232,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: San Bernadino - Mentone</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: San Bernadino - Mentone</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.47</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.100201,34.039704,0
@@ -1171,9 +1299,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: San Bernardino - Sierra Way</name>
+		<name>6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.89</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: San Bernardino - Sierra Way</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.96</SimpleData>
+<SimpleData name="LineEDI">1.89</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.326215,34.179726,0
@@ -1222,9 +1357,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Lorna Linda - San Bernardino</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Lorna Linda - San Bernardino</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.34</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.252343,34.050056,0
@@ -1294,9 +1436,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Colton - Highland - San Bernardino</name>
+		<name>1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Colton - Highland - San Bernardino</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.16</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.22763,34.146648,0
@@ -1354,9 +1503,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>sbX Green Line</name>
+		<name>sbX</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-omni<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-omni</SimpleData>
+<SimpleData name="LineCode">sbX</SimpleData>
+<SimpleData name="LineName">sbX Green Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.95</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.252357,34.048685,0

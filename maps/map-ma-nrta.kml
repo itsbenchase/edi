@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ma-nrta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Jetties Beach Route</name>
+		<name>jetties-beach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">jetties-beach</SimpleData>
+<SimpleData name="LineName">Jetties Beach Route</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">0.98</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09861,41.28543,0
@@ -67,9 +76,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Madaket Route</name>
+		<name>madaket</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">madaket</SimpleData>
+<SimpleData name="LineName">Madaket Route</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.34</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09861,41.28543,0
@@ -99,9 +115,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Surfside Beach Route</name>
+		<name>surfside-beach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">surfside-beach</SimpleData>
+<SimpleData name="LineName">Surfside Beach Route</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.11</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -123,9 +146,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Airport Route</name>
+		<name>airport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-nrta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">airport</SimpleData>
+<SimpleData name="LineName">Airport Route</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.74</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -148,9 +178,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Sconset Route</name>
+		<name>sconset-polpis</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Polpis Road<br/>Agency: ma-nrta<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">sconset-polpis</SimpleData>
+<SimpleData name="LineName">Sconset Route</SimpleData>
+<SimpleData name="LineBranch">via Polpis Road</SimpleData>
+<SimpleData name="LineLength">10.07</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -189,9 +226,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Sconset Route</name>
+		<name>sconset-old-south</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Old South Road<br/>Agency: ma-nrta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">sconset-old-south</SimpleData>
+<SimpleData name="LineName">Sconset Route</SimpleData>
+<SimpleData name="LineBranch">via Old South Road</SimpleData>
+<SimpleData name="LineLength">8.1</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0
@@ -229,9 +273,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Sconset Route</name>
+		<name>sconset-milestone</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Milestone Road<br/>Agency: ma-nrta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-nrta</SimpleData>
+<SimpleData name="LineCode">sconset-milestone</SimpleData>
+<SimpleData name="LineName">Sconset Route</SimpleData>
+<SimpleData name="LineBranch">via Milestone Road</SimpleData>
+<SimpleData name="LineLength">7.45</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.09756,41.28315,0

@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>dc-wmata routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>A32: Minnesota Ave - Anacostia</name>
+		<name>A32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">A32</SimpleData>
+<SimpleData name="LineName">A32: Minnesota Ave - Anacostia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.71</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.982325,38.869666,0
@@ -81,9 +90,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A31: Minnesota Ave - Anacostia</name>
+		<name>A31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">A31</SimpleData>
+<SimpleData name="LineName">A31: Minnesota Ave - Anacostia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.08</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.982325,38.869666,0
@@ -110,9 +126,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>X2: Benning Rd - H St</name>
+		<name>X2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">X2</SimpleData>
+<SimpleData name="LineName">X2: Benning Rd - H St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.82</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.036018,38.900127,0
@@ -143,9 +166,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70: Georgia Ave - 7th St</name>
+		<name>70</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">70</SimpleData>
+<SimpleData name="LineName">70: Georgia Ave - 7th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.29</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.023828,38.892773,0
@@ -202,9 +232,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10B: Hunting Point - Ballston</name>
+		<name>10B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">10B</SimpleData>
+<SimpleData name="LineName">10B: Hunting Point - Ballston</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.44</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.049531,38.792779,0
@@ -279,9 +316,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7A: Landmark - North Fairlington</name>
+		<name>7A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">7A</SimpleData>
+<SimpleData name="LineName">7A: Landmark - North Fairlington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.73</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.128227,38.800041,0
@@ -331,9 +375,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4B: Pershing Dr - Arlington Blvd</name>
+		<name>4B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">4B</SimpleData>
+<SimpleData name="LineName">4B: Pershing Dr - Arlington Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.0</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.152631,38.870645,0
@@ -377,9 +428,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3Y: Langston Blvd - McPherson Sq</name>
+		<name>3Y</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">3Y</SimpleData>
+<SimpleData name="LineName">3Y: Langston Blvd - McPherson Sq</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.96</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.156713,38.886298,0
@@ -433,9 +491,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18P: Burke Centre</name>
+		<name>18P</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">18P</SimpleData>
+<SimpleData name="LineName">18P: Burke Centre</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.6</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.325188,38.794426,0
@@ -488,9 +553,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18J: Orange Hunt</name>
+		<name>18J</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">18J</SimpleData>
+<SimpleData name="LineName">18J: Orange Hunt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.81</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.263219,38.775979,0
@@ -535,9 +607,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18G: Orange Hunt</name>
+		<name>18G</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">18G</SimpleData>
+<SimpleData name="LineName">18G: Orange Hunt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.48</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.266312,38.752351,0
@@ -584,9 +663,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7M: Mark Center - Pentagon</name>
+		<name>7M</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">7M</SimpleData>
+<SimpleData name="LineName">7M: Mark Center - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.48</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054016,38.868937,0
@@ -596,9 +682,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16Y: Columbia Pike - Farragut Sq</name>
+		<name>16Y</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">16Y</SimpleData>
+<SimpleData name="LineName">16Y: Columbia Pike - Farragut Sq</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.73</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.108372,38.856335,0
@@ -630,9 +723,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16E: Columbia Pike</name>
+		<name>16E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">16E</SimpleData>
+<SimpleData name="LineName">16E: Columbia Pike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.79</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.14108,38.85256,0
@@ -681,9 +781,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16C: Columbia Pike</name>
+		<name>16C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">16C</SimpleData>
+<SimpleData name="LineName">16C: Columbia Pike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.26</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.14108,38.85256,0
@@ -713,9 +820,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16A: Columbia Pike</name>
+		<name>16A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">16A</SimpleData>
+<SimpleData name="LineName">16A: Columbia Pike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.07</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.219314,38.825707,0
@@ -772,9 +886,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3F: Langston Blvd - McPherson Sq</name>
+		<name>3F</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">3F</SimpleData>
+<SimpleData name="LineName">3F: Langston Blvd - McPherson Sq</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.37</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.156713,38.886298,0
@@ -792,9 +913,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1C: Fair Oaks - Fairfax Blvd</name>
+		<name>1C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">1C</SimpleData>
+<SimpleData name="LineName">1C: Fair Oaks - Fairfax Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.28</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.360493,38.863785,0
@@ -848,9 +976,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1B: Wilson Blvd - Vienna</name>
+		<name>1B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">1B</SimpleData>
+<SimpleData name="LineName">1B: Wilson Blvd - Vienna</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.9</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.23003,38.882147,0
@@ -903,9 +1038,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1A: Wilson Blvd - Vienna</name>
+		<name>1A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">1A</SimpleData>
+<SimpleData name="LineName">1A: Wilson Blvd - Vienna</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.41</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.270989,38.87729,0
@@ -970,9 +1112,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10A: Alexandria - Pentagon</name>
+		<name>10A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">10A</SimpleData>
+<SimpleData name="LineName">10A: Alexandria - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.62</SimpleData>
+<SimpleData name="LineEDI">1.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.075058,38.795238,0
@@ -1035,9 +1184,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W4: Deanwood - Alabama Ave</name>
+		<name>W4</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W4</SimpleData>
+<SimpleData name="LineName">W4: Deanwood - Alabama Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.99</SimpleData>
+<SimpleData name="LineEDI">2.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.995749,38.861969,0
@@ -1112,9 +1268,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Z7: Laurel - Burtonsville Express</name>
+		<name>Z7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Z7</SimpleData>
+<SimpleData name="LineName">Z7: Laurel - Burtonsville Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.03</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029837,38.99382,0
@@ -1172,9 +1335,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Z8: Silver Spring - Fairland</name>
+		<name>Z8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Z8</SimpleData>
+<SimpleData name="LineName">Z8: Silver Spring - Fairland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.83</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030024,38.993984,0
@@ -1248,9 +1418,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Z6: Silver Spring - Fairland</name>
+		<name>Z6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Z6</SimpleData>
+<SimpleData name="LineName">Z6: Silver Spring - Fairland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.33</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030118,38.994065,0
@@ -1332,9 +1509,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Z2: Colesville - Ashton</name>
+		<name>Z2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Z2</SimpleData>
+<SimpleData name="LineName">Z2: Colesville - Ashton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.54</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030118,38.994065,0
@@ -1426,9 +1610,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W14: Bock Rd</name>
+		<name>W14-ft-washington</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Fort Washington<br/>Agency: dc-wmata<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W14-ft-washington</SimpleData>
+<SimpleData name="LineName">W14: Bock Rd</SimpleData>
+<SimpleData name="LineBranch">to Fort Washington</SimpleData>
+<SimpleData name="LineLength">13.15</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.975187,38.841163,0
@@ -1502,9 +1693,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W14: Bock Rd</name>
+		<name>W14-friendly</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Friendly<br/>Agency: dc-wmata<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W14-friendly</SimpleData>
+<SimpleData name="LineName">W14: Bock Rd</SimpleData>
+<SimpleData name="LineBranch">to Friendly</SimpleData>
+<SimpleData name="LineLength">9.09</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.975187,38.841163,0
@@ -1551,9 +1749,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>V12: District Heights - Suitland</name>
+		<name>V12</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">V12</SimpleData>
+<SimpleData name="LineName">V12: District Heights - Suitland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.94</SimpleData>
+<SimpleData name="LineEDI">2.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.931946,38.844492,0
@@ -1612,9 +1817,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S2: 16th St</name>
+		<name>S2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">S2</SimpleData>
+<SimpleData name="LineName">S2: 16th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.0</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.026124,38.892778,0
@@ -1678,9 +1890,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R12: Kenilworth Ave</name>
+		<name>R12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">R12</SimpleData>
+<SimpleData name="LineName">R12: Kenilworth Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.94</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.910305,39.011436,0
@@ -1741,9 +1960,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q6: Veirs Mill Rd</name>
+		<name>Q6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Q6</SimpleData>
+<SimpleData name="LineName">Q6: Veirs Mill Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.37</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.050886,39.037699,0
@@ -1801,9 +2027,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q4: Veirs Mill Rd</name>
+		<name>Q4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Q4</SimpleData>
+<SimpleData name="LineName">Q4: Veirs Mill Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.74</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030592,38.993736,0
@@ -1863,9 +2096,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Q2: Veirs Mill Rd</name>
+		<name>Q2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Q2</SimpleData>
+<SimpleData name="LineName">Q2: Veirs Mill Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.85</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030592,38.993736,0
@@ -1943,9 +2183,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P18: Oxon Hill - Fort Washington</name>
+		<name>P18</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">P18</SimpleData>
+<SimpleData name="LineName">P18: Oxon Hill - Fort Washington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.4</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.975304,38.840954,0
@@ -1995,9 +2242,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NH1: National Harbor - Southern Ave</name>
+		<name>NH1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">NH1</SimpleData>
+<SimpleData name="LineName">NH1: National Harbor - Southern Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.79</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.975535,38.840535,0
@@ -2039,9 +2293,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N6: Massachusetts Ave</name>
+		<name>N6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">N6</SimpleData>
+<SimpleData name="LineName">N6: Massachusetts Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.55</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.084915,38.961628,0
@@ -2099,9 +2360,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N4: Massachusetts Ave</name>
+		<name>N4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">N4</SimpleData>
+<SimpleData name="LineName">N4: Massachusetts Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.01</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.039312,38.901196,0
@@ -2145,9 +2413,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N2: Massachusetts Ave</name>
+		<name>N2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">N2</SimpleData>
+<SimpleData name="LineName">N2: Massachusetts Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.88</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.039312,38.901196,0
@@ -2194,9 +2469,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M4: Nebraska Ave</name>
+		<name>M4</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">M4</SimpleData>
+<SimpleData name="LineName">M4: Nebraska Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.24</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111113,38.935813,0
@@ -2260,9 +2542,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J12: Marlboro Pike</name>
+		<name>J12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">J12</SimpleData>
+<SimpleData name="LineName">J12: Marlboro Pike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.44</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.895796,38.886362,0
@@ -2307,9 +2596,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J2: Bethesda - Silver Spring</name>
+		<name>J2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">J2</SimpleData>
+<SimpleData name="LineName">J2: Bethesda - Silver Spring</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.46</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030411,38.993568,0
@@ -2366,9 +2662,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J1: Bethesda - Silver Spring</name>
+		<name>J1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">J1</SimpleData>
+<SimpleData name="LineName">J1: Bethesda - Silver Spring</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.05</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030411,38.993568,0
@@ -2431,9 +2734,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H12: Marlow Heights - Temple Hills</name>
+		<name>H12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">H12</SimpleData>
+<SimpleData name="LineName">H12: Marlow Heights - Temple Hills</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.6</SimpleData>
+<SimpleData name="LineEDI">1.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.957634,38.809208,0
@@ -2480,9 +2790,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G14: Greenbelt Rd - Good Luck Rd</name>
+		<name>G14</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">G14</SimpleData>
+<SimpleData name="LineName">G14: Greenbelt Rd - Good Luck Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.3</SimpleData>
+<SimpleData name="LineEDI">2.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872536,38.948404,0
@@ -2554,9 +2871,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G12: Greenbelt - New Carrollton</name>
+		<name>G12</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">G12</SimpleData>
+<SimpleData name="LineName">G12: Greenbelt - New Carrollton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.36</SimpleData>
+<SimpleData name="LineEDI">2.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872536,38.948404,0
@@ -2628,9 +2952,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G8: Rhode Island Ave</name>
+		<name>G8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">G8</SimpleData>
+<SimpleData name="LineName">G8: Rhode Island Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.58</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.038603,38.901518,0
@@ -2681,9 +3012,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F4: New Carrollton - Silver Spring</name>
+		<name>F4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F4</SimpleData>
+<SimpleData name="LineName">F4: New Carrollton - Silver Spring</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.71</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030136,38.993612,0
@@ -2757,9 +3095,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D8: Hospital Center</name>
+		<name>D8</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">D8</SimpleData>
+<SimpleData name="LineName">D8: Hospital Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.78</SimpleData>
+<SimpleData name="LineEDI">2.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.008051,38.896903,0
@@ -2805,9 +3150,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C26: Central Ave</name>
+		<name>C26</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C26</SimpleData>
+<SimpleData name="LineName">C26: Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.09</SimpleData>
+<SimpleData name="LineEDI">2.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.845999,38.899728,0
@@ -2899,9 +3251,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C22: Central Ave</name>
+		<name>C22</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C22</SimpleData>
+<SimpleData name="LineName">C22: Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.29</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.895796,38.886362,0
@@ -2976,9 +3335,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C21: Central Ave</name>
+		<name>C21</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C21</SimpleData>
+<SimpleData name="LineName">C21: Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.23</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.895796,38.886362,0
@@ -3054,9 +3420,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C14: Hillcrest Heights</name>
+		<name>C14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C14</SimpleData>
+<SimpleData name="LineName">C14: Hillcrest Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.75</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.956623,38.850403,0
@@ -3091,9 +3464,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C12: Hillcrest Heights</name>
+		<name>C12</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C12</SimpleData>
+<SimpleData name="LineName">C12: Hillcrest Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.46</SimpleData>
+<SimpleData name="LineEDI">2.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.956623,38.850403,0
@@ -3141,9 +3521,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C8: College Park - North Bethesda</name>
+		<name>C8</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C8</SimpleData>
+<SimpleData name="LineName">C8: College Park - North Bethesda</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.71</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.10955,39.049625,0
@@ -3228,9 +3615,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C4: Greenbelt - Twinbrook</name>
+		<name>C4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C4</SimpleData>
+<SimpleData name="LineName">C4: Greenbelt - Twinbrook</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.31</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.955999,38.965439,0
@@ -3311,9 +3705,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C2: Greenbelt - Twinbrook</name>
+		<name>C2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C2</SimpleData>
+<SimpleData name="LineName">C2: Greenbelt - Twinbrook</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.52</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.910425,39.011266,0
@@ -3375,9 +3776,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B24: Bowie - Belair</name>
+		<name>B24</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">B24</SimpleData>
+<SimpleData name="LineName">B24: Bowie - Belair</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.56</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872912,38.948148,0
@@ -3447,9 +3855,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B22: Bowie State University</name>
+		<name>B22</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">B22</SimpleData>
+<SimpleData name="LineName">B22: Bowie State University</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.83</SimpleData>
+<SimpleData name="LineEDI">2.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.871939,38.94755,0
@@ -3493,9 +3908,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B21: Bowie State University</name>
+		<name>B21</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">B21</SimpleData>
+<SimpleData name="LineName">B21: Bowie State University</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.81</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.871939,38.94755,0
@@ -3522,9 +3944,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B2: Blandensburg Rd - Anacostia</name>
+		<name>B2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">B2</SimpleData>
+<SimpleData name="LineName">B2: Blandensburg Rd - Anacostia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.62</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.996141,38.862163,0
@@ -3583,9 +4012,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A2: Anacostia - Washington Highlands</name>
+		<name>A2</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">A2</SimpleData>
+<SimpleData name="LineName">A2: Anacostia - Washington Highlands</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.66</SimpleData>
+<SimpleData name="LineEDI">2.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.976061,38.840456,0
@@ -3629,9 +4065,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89M: Laurel</name>
+		<name>89M</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">89M</SimpleData>
+<SimpleData name="LineName">89M: Laurel</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.72</SimpleData>
+<SimpleData name="LineEDI">2.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.909881,39.011881,0
@@ -3680,9 +4123,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>86: College Park</name>
+		<name>86</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">86</SimpleData>
+<SimpleData name="LineName">86: College Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.97</SimpleData>
+<SimpleData name="LineEDI">1.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.996232,38.919827,0
@@ -3768,9 +4218,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83: College Park</name>
+		<name>83</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">83</SimpleData>
+<SimpleData name="LineName">83: College Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.93</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.996232,38.919827,0
@@ -3840,9 +4297,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Pennsylvania Ave</name>
+		<name>36</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Pennsylvania Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.0</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.047536,38.895909,0
@@ -3893,9 +4357,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Pennsylvania Ave</name>
+		<name>32</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Pennsylvania Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.16</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.047536,38.895909,0
@@ -3949,9 +4420,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28F: Skyline City</name>
+		<name>28F</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">28F</SimpleData>
+<SimpleData name="LineName">28F: Skyline City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.84</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.053842,38.869059,0
@@ -3966,9 +4444,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28A: Leesburg Pike</name>
+		<name>28A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">28A</SimpleData>
+<SimpleData name="LineName">28A: Leesburg Pike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.23</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.222304,38.920039,0
@@ -4052,9 +4537,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25B: Carlin Springs Rd</name>
+		<name>25B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">25B</SimpleData>
+<SimpleData name="LineName">25B: Carlin Springs Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.43</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111671,38.88194,0
@@ -4099,9 +4591,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23T: McLean - Crystal City</name>
+		<name>23T</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">23T</SimpleData>
+<SimpleData name="LineName">23T: McLean - Crystal City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.16</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.225011,38.914784,0
@@ -4169,9 +4668,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23B: McLean - Crystal City</name>
+		<name>23B</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">23B</SimpleData>
+<SimpleData name="LineName">23B: McLean - Crystal City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.29</SimpleData>
+<SimpleData name="LineEDI">2.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.110786,38.882179,0
@@ -4224,9 +4730,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23A: McLean - Crystal City</name>
+		<name>23A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">23A</SimpleData>
+<SimpleData name="LineName">23A: McLean - Crystal City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.89</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.225011,38.914784,0
@@ -4317,9 +4830,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2B: Fair Oaks - Jermantown</name>
+		<name>2B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">2B</SimpleData>
+<SimpleData name="LineName">2B: Fair Oaks - Jermantown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.05</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.229827,38.88221,0
@@ -4371,9 +4891,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2A: Washingtom Blvd - Dunn Loring</name>
+		<name>2A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">2A</SimpleData>
+<SimpleData name="LineName">2A: Washingtom Blvd - Dunn Loring</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.2</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111648,38.881746,0
@@ -4427,9 +4954,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17M: Kings Park - North Smithfield</name>
+		<name>17M</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">17M</SimpleData>
+<SimpleData name="LineName">17M: Kings Park - North Smithfield</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.42</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.0541,38.868519,0
@@ -4482,9 +5016,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17K: Kings Park Express</name>
+		<name>17K</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">17K</SimpleData>
+<SimpleData name="LineName">17K: Kings Park Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.21</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054036,38.868574,0
@@ -4544,9 +5085,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17G: Kings Park Express</name>
+		<name>17G</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">17G</SimpleData>
+<SimpleData name="LineName">17G: Kings Park Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.86</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054036,38.868574,0
@@ -4593,9 +5141,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17B: Kings Park - North Smithfield</name>
+		<name>17B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">17B</SimpleData>
+<SimpleData name="LineName">17B: Kings Park - North Smithfield</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.54</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.0541,38.868519,0
@@ -4676,9 +5231,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Orange Line</name>
+		<name>Orange</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Orange</SimpleData>
+<SimpleData name="LineName">Orange Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.98</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.272459,38.877578,0
@@ -4711,9 +5273,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Line</name>
+		<name>Blue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Blue</SimpleData>
+<SimpleData name="LineName">Blue Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.38</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.167991,38.766505,0
@@ -4748,9 +5317,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green Line</name>
+		<name>Green</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Green</SimpleData>
+<SimpleData name="LineName">Green Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.12</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.911817,38.826718,0
@@ -4778,9 +5354,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Yellow Line</name>
+		<name>Yellow</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Yellow</SimpleData>
+<SimpleData name="LineName">Yellow Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.76</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.0753,38.79383,0
@@ -4809,9 +5392,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red Line</name>
+		<name>Red</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 4.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Red</SimpleData>
+<SimpleData name="LineName">Red Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">30.89</SimpleData>
+<SimpleData name="LineEDI">4.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.164669,39.119927,0
@@ -4845,9 +5435,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Silver Line</name>
+		<name>Silver</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">Silver</SimpleData>
+<SimpleData name="LineName">Silver Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">40.19</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.491537,39.005283,0
@@ -4888,9 +5485,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C29: Central Ave</name>
+		<name>C29</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C29</SimpleData>
+<SimpleData name="LineName">C29: Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.23</SimpleData>
+<SimpleData name="LineEDI">2.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.895796,38.886362,0
@@ -5028,9 +5632,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>U7: Deanwood - Minnesota Ave</name>
+		<name>U7</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">U7</SimpleData>
+<SimpleData name="LineName">U7: Deanwood - Minnesota Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.38</SimpleData>
+<SimpleData name="LineEDI">2.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.935082,38.907928,0
@@ -5075,9 +5686,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22F: Barcroft - South Fairlington</name>
+		<name>22F</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.92</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">22F</SimpleData>
+<SimpleData name="LineName">22F: Barcroft - South Fairlington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.48</SimpleData>
+<SimpleData name="LineEDI">1.92</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.116794,38.842536,0
@@ -5119,9 +5737,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22A: Barcroft - South Fairlington</name>
+		<name>22A</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 3.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">22A</SimpleData>
+<SimpleData name="LineName">22A: Barcroft - South Fairlington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.68</SimpleData>
+<SimpleData name="LineEDI">3.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.110886,38.882099,0
@@ -5181,9 +5806,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F8: Langley Park - Cheverly</name>
+		<name>F8</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F8</SimpleData>
+<SimpleData name="LineName">F8: Langley Park - Cheverly</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.67</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.988215,38.989673,0
@@ -5267,9 +5899,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F2: Chillum Rd</name>
+		<name>F2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.7</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F2</SimpleData>
+<SimpleData name="LineName">F2: Chillum Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.58</SimpleData>
+<SimpleData name="LineEDI">1.7</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.01723,38.975712,0
@@ -5357,9 +5996,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>T14: Rhode Island Ave - New Carrollton</name>
+		<name>T14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">T14</SimpleData>
+<SimpleData name="LineName">T14: Rhode Island Ave - New Carrollton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.52</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872286,38.948597,0
@@ -5427,9 +6073,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F6: New Carrollton - Fort Totten</name>
+		<name>F6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.94</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F6</SimpleData>
+<SimpleData name="LineName">F6: New Carrollton - Fort Totten</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.41</SimpleData>
+<SimpleData name="LineEDI">1.94</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.000884,38.952289,0
@@ -5516,9 +6169,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Fort Totten - Petworth</name>
+		<name>60</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: Fort Totten - Petworth</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.44</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.002593,38.952198,0
@@ -5544,9 +6204,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W1: Shipley Terr - Fort Drum</name>
+		<name>W1</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W1</SimpleData>
+<SimpleData name="LineName">W1: Shipley Terr - Fort Drum</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.23</SimpleData>
+<SimpleData name="LineEDI">2.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.975945,38.840566,0
@@ -5596,9 +6263,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S41: Rhode Island Ave - Carver Terr</name>
+		<name>S41</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">S41</SimpleData>
+<SimpleData name="LineName">S41: Rhode Island Ave - Carver Terr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.05</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.99609,38.92017,0
@@ -5623,9 +6297,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W45: Mt. Pleasant - Tenleytown</name>
+		<name>W45</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.92</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W45</SimpleData>
+<SimpleData name="LineName">W45: Mt. Pleasant - Tenleytown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.51</SimpleData>
+<SimpleData name="LineEDI">1.92</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.036346,38.939937,0
@@ -5661,9 +6342,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S35: Fort Dupount Shuttle</name>
+		<name>S35-n</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Northbound<br/>Agency: dc-wmata<br/>EDI: 6.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">S35-n</SimpleData>
+<SimpleData name="LineName">S35: Fort Dupount Shuttle</SimpleData>
+<SimpleData name="LineBranch">Northbound</SimpleData>
+<SimpleData name="LineLength">3.94</SimpleData>
+<SimpleData name="LineEDI">6.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.961447,38.877293,0
@@ -5696,9 +6384,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>S35: Fort Dupount Shuttle</name>
+		<name>S35-s</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Southbound<br/>Agency: dc-wmata<br/>EDI: 9.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">S35-s</SimpleData>
+<SimpleData name="LineName">S35: Fort Dupount Shuttle</SimpleData>
+<SimpleData name="LineBranch">Southbound</SimpleData>
+<SimpleData name="LineLength">4.17</SimpleData>
+<SimpleData name="LineEDI">9.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.953226,38.883694,0
@@ -5732,9 +6427,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D33: 16th St - Tenleytown</name>
+		<name>D33</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">D33</SimpleData>
+<SimpleData name="LineName">D33: 16th St - Tenleytown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.08</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.073988,38.95198,0
@@ -5769,9 +6471,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D31: 16th St - Tenleytown</name>
+		<name>D31</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">D31</SimpleData>
+<SimpleData name="LineName">D31: 16th St - Tenleytown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.69</SimpleData>
+<SimpleData name="LineEDI">1.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.073988,38.95198,0
@@ -5807,9 +6516,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D51: Congress Heights - Georgetown</name>
+		<name>D51</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">D51</SimpleData>
+<SimpleData name="LineName">D51: Congress Heights - Georgetown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.79</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.988355,38.845169,0
@@ -5849,9 +6565,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26A: Annandale - East Falls Church</name>
+		<name>26A</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">26A</SimpleData>
+<SimpleData name="LineName">26A: Annandale - East Falls Church</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.39</SimpleData>
+<SimpleData name="LineEDI">2.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.236363,38.834943,0
@@ -5923,9 +6646,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A12: Martin Luther King Jr Hwy</name>
+		<name>A12</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 3.7</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">A12</SimpleData>
+<SimpleData name="LineName">A12: Martin Luther King Jr Hwy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.82</SimpleData>
+<SimpleData name="LineEDI">3.7</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.913362,38.888991,0
@@ -6009,9 +6739,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>K12: Forestville</name>
+		<name>K12</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 5.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">K12</SimpleData>
+<SimpleData name="LineName">K12: Forestville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.58</SimpleData>
+<SimpleData name="LineEDI">5.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.912365,38.826904,0
@@ -6063,9 +6800,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P12: Eastover - Addison Rd</name>
+		<name>P12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">P12</SimpleData>
+<SimpleData name="LineName">P12: Eastover - Addison Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.66</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.001635,38.818481,0
@@ -6154,9 +6898,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F14: Sheriff Rd - Capitol Heights</name>
+		<name>F14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F14</SimpleData>
+<SimpleData name="LineName">F14: Sheriff Rd - Capitol Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.45</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.956056,38.851075,0
@@ -6251,9 +7002,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F13: Cheverly - Washington Business Park</name>
+		<name>F13</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F13</SimpleData>
+<SimpleData name="LineName">F13: Cheverly - Washington Business Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.17</SimpleData>
+<SimpleData name="LineEDI">2.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.915974,38.915727,0
@@ -6330,9 +7088,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F12: Ardwick Industrial Park Shuttle</name>
+		<name>F12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.86</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">F12</SimpleData>
+<SimpleData name="LineName">F12: Ardwick Industrial Park Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.72</SimpleData>
+<SimpleData name="LineEDI">1.86</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.915974,38.915727,0
@@ -6376,9 +7141,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H8: Park Rd - Brookland</name>
+		<name>H8</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">H8</SimpleData>
+<SimpleData name="LineName">H8: Park Rd - Brookland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.24</SimpleData>
+<SimpleData name="LineEDI">2.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.038696,38.931875,0
@@ -6422,9 +7194,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P6: Anacostia - Eckington</name>
+		<name>P6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.86</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">P6</SimpleData>
+<SimpleData name="LineName">P6: Anacostia - Eckington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.5</SimpleData>
+<SimpleData name="LineEDI">1.86</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.996041,38.92029,0
@@ -6475,9 +7254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H6: Brookland - Fort Lincoln</name>
+		<name>H6</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">H6</SimpleData>
+<SimpleData name="LineName">H6: Brookland - Fort Lincoln</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.01</SimpleData>
+<SimpleData name="LineEDI">2.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.956314,38.921827,0
@@ -6523,9 +7309,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>T2: River Rd</name>
+		<name>T2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">T2</SimpleData>
+<SimpleData name="LineName">T2: River Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.04</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.085206,38.961376,0
@@ -6597,9 +7390,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>V14: District Heights - Seat Pleasant</name>
+		<name>V14</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">V14</SimpleData>
+<SimpleData name="LineName">V14: District Heights - Seat Pleasant</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.51</SimpleData>
+<SimpleData name="LineEDI">2.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.935408,38.907676,0
@@ -6678,9 +7478,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A33: Minnesota Ave - Anacostia</name>
+		<name>A33</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 2.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">A33</SimpleData>
+<SimpleData name="LineName">A33: Minnesota Ave - Anacostia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.89</SimpleData>
+<SimpleData name="LineEDI">2.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.982325,38.869666,0
@@ -6699,9 +7506,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W3: United Medical Center - Anacostia</name>
+		<name>W3</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 8.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W3</SimpleData>
+<SimpleData name="LineName">W3: United Medical Center - Anacostia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.54</SimpleData>
+<SimpleData name="LineEDI">8.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.999623,38.84518,0
@@ -6792,9 +7606,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W2: United Medical Center - Anacostia</name>
+		<name>W2</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 7.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">W2</SimpleData>
+<SimpleData name="LineName">W2: United Medical Center - Anacostia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.77</SimpleData>
+<SimpleData name="LineEDI">7.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.999623,38.84518,0
@@ -6884,9 +7705,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>U6: Marshall Heights</name>
+		<name>U6</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 4.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">U6</SimpleData>
+<SimpleData name="LineName">U6: Marshall Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.75</SimpleData>
+<SimpleData name="LineEDI">4.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.947155,38.898277,0
@@ -6933,9 +7761,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>U5: Marshall Heights</name>
+		<name>U5</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 4.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">U5</SimpleData>
+<SimpleData name="LineName">U5: Marshall Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.62</SimpleData>
+<SimpleData name="LineEDI">4.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.947155,38.898277,0
@@ -6982,9 +7817,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D14: Oxon Hill - Suitland</name>
+		<name>D14</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 7.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">D14</SimpleData>
+<SimpleData name="LineName">D14: Oxon Hill - Suitland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.61</SimpleData>
+<SimpleData name="LineEDI">7.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.932292,38.844785,0
@@ -7089,9 +7931,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D12: Southern Ave - Suitland</name>
+		<name>D12</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: dc-wmata<br/>EDI: 4.9</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">D12</SimpleData>
+<SimpleData name="LineName">D12: Southern Ave - Suitland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.61</SimpleData>
+<SimpleData name="LineEDI">4.9</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.976014,38.840132,0

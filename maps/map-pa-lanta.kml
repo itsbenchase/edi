@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>pa-lanta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>322: Allentown TC - Amazon / Breinigsville</name>
+		<name>322</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">322</SimpleData>
+<SimpleData name="LineName">322: Allentown TC - Amazon / Breinigsville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.07</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.619026,40.557441,0
@@ -108,9 +117,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>605: Commerce Center Blvd - Bethlehem TC</name>
+		<name>605</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">605</SimpleData>
+<SimpleData name="LineName">605: Commerce Center Blvd - Bethlehem TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.25</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.309755,40.611814,0
@@ -140,9 +156,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>603: 17th St - Crosstown</name>
+		<name>603</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">603</SimpleData>
+<SimpleData name="LineName">603: 17th St - Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.47</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.480688,40.579445,0
@@ -187,9 +210,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>441: Hanover Ave - Harrison Morton MS</name>
+		<name>441</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">441</SimpleData>
+<SimpleData name="LineName">441: Hanover Ave - Harrison Morton MS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.47</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.461017,40.608242,0
@@ -210,9 +240,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>440: Pennsylvania St - Harrison Morton MS</name>
+		<name>440</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">440</SimpleData>
+<SimpleData name="LineName">440: Pennsylvania St - Harrison Morton MS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.85</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.461017,40.608242,0
@@ -234,9 +271,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>431: Gilmore &amp; Susquehanna - South Mountain MS</name>
+		<name>431</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">431</SimpleData>
+<SimpleData name="LineName">431: Gilmore &amp; Susquehanna - South Mountain MS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.16</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.438859,40.592611,0
@@ -254,9 +298,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>423: Allentown ATC - South Mountain MS</name>
+		<name>423</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 3.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">423</SimpleData>
+<SimpleData name="LineName">423: Allentown ATC - South Mountain MS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.05</SimpleData>
+<SimpleData name="LineEDI">3.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.460811,40.574952,0
@@ -297,9 +348,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>422: 4th &amp; Gordon - Allen HS</name>
+		<name>422</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">422</SimpleData>
+<SimpleData name="LineName">422: 4th &amp; Gordon - Allen HS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.11</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.492733,40.597434,0
@@ -323,9 +381,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>403: Emaus Ave - Allen HS</name>
+		<name>403</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 2.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">403</SimpleData>
+<SimpleData name="LineName">403: Emaus Ave - Allen HS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.27</SimpleData>
+<SimpleData name="LineEDI">2.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.460811,40.574952,0
@@ -358,9 +423,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>402: Tilghman Street - Allen HS</name>
+		<name>402</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">402</SimpleData>
+<SimpleData name="LineName">402: Tilghman Street - Allen HS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.71</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.460656,40.616198,0
@@ -385,9 +457,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>413: Dixon &amp; South 5th - Dieruff HS</name>
+		<name>413</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">413</SimpleData>
+<SimpleData name="LineName">413: Dixon &amp; South 5th - Dieruff HS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.4</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.467098,40.580857,0
@@ -419,9 +498,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>410: Emaus Ave - Dieruff HS</name>
+		<name>410</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">410</SimpleData>
+<SimpleData name="LineName">410: Emaus Ave - Dieruff HS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.04</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.460289,40.575056,0
@@ -451,9 +537,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>327: Fountain Hill to Bethlehem Square</name>
+		<name>327</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.93</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">327</SimpleData>
+<SimpleData name="LineName">327: Fountain Hill to Bethlehem Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.05</SimpleData>
+<SimpleData name="LineEDI">1.93</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.391861,40.609516,0
@@ -510,9 +603,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>325: Lehigh Valley Mall - Palmerton via LCCC</name>
+		<name>325</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">325</SimpleData>
+<SimpleData name="LineName">325: Lehigh Valley Mall - Palmerton via LCCC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.98</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.478783,40.631269,0
@@ -600,9 +700,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324: Allentown - Lehigh Valley Airport</name>
+		<name>324</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">324</SimpleData>
+<SimpleData name="LineName">324: Allentown - Lehigh Valley Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.25</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.47158,40.604598,0
@@ -641,9 +748,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>323: Penn State LV - Bethlehem Southside</name>
+		<name>323</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">323</SimpleData>
+<SimpleData name="LineName">323: Penn State LV - Bethlehem Southside</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.13</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.369005,40.610655,0
@@ -665,9 +779,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>319: Lehigh Valley Mall - Bethlehem Sq via Airport</name>
+		<name>319</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">319</SimpleData>
+<SimpleData name="LineName">319: Lehigh Valley Mall - Bethlehem Sq via Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.1</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.478325,40.631321,0
@@ -716,9 +837,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>312: Bethlehem - Nazareth Plaza</name>
+		<name>312-ncc</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to NCC<br/>Agency: pa-lanta<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">312-ncc</SimpleData>
+<SimpleData name="LineName">312: Bethlehem - Nazareth Plaza</SimpleData>
+<SimpleData name="LineBranch">to NCC</SimpleData>
+<SimpleData name="LineLength">8.39</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.380569,40.623114,0
@@ -766,9 +894,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>312: Bethlehem - Nazareth Plaza</name>
+		<name>312-nazareth</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Nazareth<br/>Agency: pa-lanta<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">312-nazareth</SimpleData>
+<SimpleData name="LineName">312: Bethlehem - Nazareth Plaza</SimpleData>
+<SimpleData name="LineBranch">to Nazareth</SimpleData>
+<SimpleData name="LineLength">15.67</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.380569,40.623114,0
@@ -833,9 +968,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>220: Bethlehem - Easton</name>
+		<name>220</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">220</SimpleData>
+<SimpleData name="LineName">220: Bethlehem - Easton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.34</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -921,9 +1063,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>218: Fogelsville - Allentown TC</name>
+		<name>218</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">218</SimpleData>
+<SimpleData name="LineName">218: Fogelsville - Allentown TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.59</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.471036,40.604901,0
@@ -984,9 +1133,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>217: Slatebelt</name>
+		<name>217-wind-gap</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Wind Gap Plaza<br/>Agency: pa-lanta<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">217-wind-gap</SimpleData>
+<SimpleData name="LineName">217: Slatebelt</SimpleData>
+<SimpleData name="LineBranch">to Wind Gap Plaza</SimpleData>
+<SimpleData name="LineLength">7.42</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.299934,40.839532,0
@@ -1015,9 +1171,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>217: Slatebelt</name>
+		<name>217-northampton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Northampton Crossing<br/>Agency: pa-lanta<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">217-northampton</SimpleData>
+<SimpleData name="LineName">217: Slatebelt</SimpleData>
+<SimpleData name="LineBranch">to Northampton Crossing</SimpleData>
+<SimpleData name="LineLength">19.2</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.282111,40.715209,0
@@ -1075,9 +1238,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>216: Easton - Nazareth Plaza</name>
+		<name>216-northampton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Northampton Crossing<br/>Agency: pa-lanta<br/>EDI: 1.98</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">216-northampton</SimpleData>
+<SimpleData name="LineName">216: Easton - Nazareth Plaza</SimpleData>
+<SimpleData name="LineBranch">to Northampton Crossing</SimpleData>
+<SimpleData name="LineLength">8.07</SimpleData>
+<SimpleData name="LineEDI">1.98</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1134,9 +1304,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>216: Easton - Nazareth Plaza</name>
+		<name>216-nazareth</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Nazareth Plaza<br/>Agency: pa-lanta<br/>EDI: 1.73</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">216-nazareth</SimpleData>
+<SimpleData name="LineName">216: Easton - Nazareth Plaza</SimpleData>
+<SimpleData name="LineBranch">to Nazareth Plaza</SimpleData>
+<SimpleData name="LineLength">13.03</SimpleData>
+<SimpleData name="LineEDI">1.73</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1210,9 +1387,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215: Majestic Bethlehem Center - LV Airport via BTC</name>
+		<name>215</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">215</SimpleData>
+<SimpleData name="LineName">215: Majestic Bethlehem Center - LV Airport via BTC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.16</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.451632,40.638964,0
@@ -1271,9 +1455,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>214: Easton Intermodal Transit Center - Chrin Commerce Centre</name>
+		<name>214</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">214</SimpleData>
+<SimpleData name="LineName">214: Easton Intermodal Transit Center - Chrin Commerce Centre</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.47</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1306,9 +1497,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211: Lehigh Parkway - Allentown TC - Whitehall</name>
+		<name>211</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.97</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">211</SimpleData>
+<SimpleData name="LineName">211: Lehigh Parkway - Allentown TC - Whitehall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.02</SimpleData>
+<SimpleData name="LineEDI">1.97</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.480688,40.579445,0
@@ -1375,9 +1573,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210: South Mall - Lehigh Valley Mall via Allentown TC</name>
+		<name>210</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">210</SimpleData>
+<SimpleData name="LineName">210: South Mall - Lehigh Valley Mall via Allentown TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.69</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.491467,40.555157,0
@@ -1425,9 +1630,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>209: LCCC - Allentown TC - Cumberland Gardens</name>
+		<name>209</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">209</SimpleData>
+<SimpleData name="LineName">209: LCCC - Allentown TC - Cumberland Gardens</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.2</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.44286,40.592475,0
@@ -1511,9 +1723,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108: Fountain Hill - Bethlehem Square</name>
+		<name>108</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">108</SimpleData>
+<SimpleData name="LineName">108: Fountain Hill - Bethlehem Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.2</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.394712,40.606468,0
@@ -1571,9 +1790,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>107: Village West - Hanover Ave</name>
+		<name>107</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">107</SimpleData>
+<SimpleData name="LineName">107: Village West - Hanover Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.1</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.524726,40.596959,0
@@ -1645,9 +1871,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>106: Easton - Northampton Crossings &amp; Palmer</name>
+		<name>106</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 2.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">106</SimpleData>
+<SimpleData name="LineName">106: Easton - Northampton Crossings &amp; Palmer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.97</SimpleData>
+<SimpleData name="LineEDI">2.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.209638,40.688964,0
@@ -1697,9 +1930,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: Hellertown - LV Airport via BTC</name>
+		<name>105</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">105</SimpleData>
+<SimpleData name="LineName">105: Hellertown - LV Airport via BTC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.98</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.340591,40.562966,0
@@ -1762,9 +2002,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104: Emmaus - Allentown TC</name>
+		<name>104</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 2.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">104</SimpleData>
+<SimpleData name="LineName">104: Emmaus - Allentown TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.87</SimpleData>
+<SimpleData name="LineEDI">2.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.527058,40.567355,0
@@ -1820,9 +2067,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>103: South Bethlehem - Allentown - Northampton</name>
+		<name>103</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.95</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">103</SimpleData>
+<SimpleData name="LineName">103: South Bethlehem - Allentown - Northampton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.22</SimpleData>
+<SimpleData name="LineEDI">1.95</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.352234,40.614909,0
@@ -1944,9 +2198,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: Lehigh Valley Hospital Cedar Crest - Allentown - Bethlehem</name>
+		<name>102</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">102</SimpleData>
+<SimpleData name="LineName">102: Lehigh Valley Hospital Cedar Crest - Allentown - Bethlehem</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.12</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.357938,40.613948,0
@@ -2029,9 +2290,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Line: Easton - Bethlehem - Allentown - Trexlertown</name>
+		<name>Blue Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">Blue Line</SimpleData>
+<SimpleData name="LineName">Blue Line: Easton - Bethlehem - Allentown - Trexlertown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.09</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.594043,40.550566,0
@@ -2141,9 +2409,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green Line: S Bethlehem - Allentown - Whitehall</name>
+		<name>Green Line</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: pa-lanta<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">pa-lanta</SimpleData>
+<SimpleData name="LineCode">Green Line</SimpleData>
+<SimpleData name="LineName">Green Line: S Bethlehem - Allentown - Whitehall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.07</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.495111,40.644582,0

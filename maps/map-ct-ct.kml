@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ct-ct routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>52: Blue Hills Ave</name>
+		<name>52-R</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: R: Rockwell Corner<br/>Agency: ct-ct<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">52-R</SimpleData>
+<SimpleData name="LineName">52: Blue Hills Ave</SimpleData>
+<SimpleData name="LineBranch">R: Rockwell Corner</SimpleData>
+<SimpleData name="LineLength">4.74</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -100,9 +109,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Blue Hills Ave</name>
+		<name>52-W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: W: Wedgewood<br/>Agency: ct-ct<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">52-W</SimpleData>
+<SimpleData name="LineName">52: Blue Hills Ave</SimpleData>
+<SimpleData name="LineBranch">W: Wedgewood</SimpleData>
+<SimpleData name="LineLength">5.71</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -156,9 +172,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>282: East Grand Ave</name>
+		<name>282</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.94</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">282</SimpleData>
+<SimpleData name="LineName">282: East Grand Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.86</SimpleData>
+<SimpleData name="LineEDI">1.94</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.878155,41.320321,0
@@ -174,9 +197,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>345: NCC Flyer</name>
+		<name>345</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">345</SimpleData>
+<SimpleData name="LineName">345: NCC Flyer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.39</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.541371,41.047976,0
@@ -190,9 +220,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>927: Torrington Express</name>
+		<name>927</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">927</SimpleData>
+<SimpleData name="LineName">927: Torrington Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.96</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673034,41.765839,0
@@ -224,9 +261,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>926: Winsted Express</name>
+		<name>926</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">926</SimpleData>
+<SimpleData name="LineName">926: Winsted Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.5</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673034,41.765839,0
@@ -259,9 +303,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>901: Avon - Canton Express</name>
+		<name>901</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">901</SimpleData>
+<SimpleData name="LineName">901: Avon - Canton Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.3</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673034,41.765839,0
@@ -289,9 +340,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Blue Hills Ave - Cottage Grove Rd</name>
+		<name>50-C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Copaco<br/>Agency: ct-ct<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">50-C</SimpleData>
+<SimpleData name="LineName">50: Blue Hills Ave - Cottage Grove Rd</SimpleData>
+<SimpleData name="LineBranch">C: Copaco</SimpleData>
+<SimpleData name="LineLength">5.26</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -341,9 +399,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Blue Hills Ave - Cottage Grove Rd</name>
+		<name>50-B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Bloomfield Center<br/>Agency: ct-ct<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">50-B</SimpleData>
+<SimpleData name="LineName">50: Blue Hills Ave - Cottage Grove Rd</SimpleData>
+<SimpleData name="LineBranch">B: Bloomfield Center</SimpleData>
+<SimpleData name="LineLength">7.16</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -408,9 +473,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Blue Hills Ave - Cottage Grove Rd</name>
+		<name>50-A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: A: CIGNA / MetLife<br/>Agency: ct-ct<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">50-A</SimpleData>
+<SimpleData name="LineName">50: Blue Hills Ave - Cottage Grove Rd</SimpleData>
+<SimpleData name="LineBranch">A: CIGNA / MetLife</SimpleData>
+<SimpleData name="LineLength">7.42</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -472,9 +544,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Franklin Ave</name>
+		<name>47-B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Berlin Turnpike<br/>Agency: ct-ct<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">47-B</SimpleData>
+<SimpleData name="LineName">47: Franklin Ave</SimpleData>
+<SimpleData name="LineBranch">B: Berlin Turnpike</SimpleData>
+<SimpleData name="LineLength">8.65</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -541,9 +620,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Franklin Ave</name>
+		<name>47-R</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: R: Rose Hill<br/>Agency: ct-ct<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">47-R</SimpleData>
+<SimpleData name="LineName">47: Franklin Ave</SimpleData>
+<SimpleData name="LineBranch">R: Rose Hill</SimpleData>
+<SimpleData name="LineLength">9.46</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -628,9 +714,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Franklin Ave</name>
+		<name>47</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">47</SimpleData>
+<SimpleData name="LineName">47: Franklin Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.83</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -664,9 +757,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Franklin Ave</name>
+		<name>47-W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: W: Wethersfield Shopping Ctr<br/>Agency: ct-ct<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">47-W</SimpleData>
+<SimpleData name="LineName">47: Franklin Ave</SimpleData>
+<SimpleData name="LineBranch">W: Wethersfield Shopping Ctr</SimpleData>
+<SimpleData name="LineLength">6.13</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -723,9 +823,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46: Vine St</name>
+		<name>46</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">46</SimpleData>
+<SimpleData name="LineName">46: Vine St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.58</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -763,9 +870,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Berlin Turnpike Flyer</name>
+		<name>45</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Berlin Turnpike Flyer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.21</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.681399,41.769084,0
@@ -781,9 +895,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44: Garden St</name>
+		<name>44</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">44</SimpleData>
+<SimpleData name="LineName">44: Garden St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.41</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -813,9 +934,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Campfield Ave</name>
+		<name>43</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">43</SimpleData>
+<SimpleData name="LineName">43: Campfield Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.33</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673946,41.764276,0
@@ -855,9 +983,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: New Britain / Hartford</name>
+		<name>41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: New Britain / Hartford</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.94</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -946,9 +1081,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Barbour St</name>
+		<name>42</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">42</SimpleData>
+<SimpleData name="LineName">42: Barbour St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.64</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -979,9 +1121,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: North Main St</name>
+		<name>40</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: North Main St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.7</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673325,41.765634,0
@@ -1023,9 +1172,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Weston St</name>
+		<name>38-C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: CTtransit<br/>Agency: ct-ct<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">38-C</SimpleData>
+<SimpleData name="LineName">38: Weston St</SimpleData>
+<SimpleData name="LineBranch">C: CTtransit</SimpleData>
+<SimpleData name="LineLength">1.87</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.676086,41.766442,0
@@ -1041,9 +1197,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Weston St</name>
+		<name>38</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: Weston St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.24</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.676086,41.766442,0
@@ -1066,9 +1229,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: New Britain Ave</name>
+		<name>39</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">39</SimpleData>
+<SimpleData name="LineName">39: New Britain Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.03</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1120,9 +1290,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: New Britain Ave</name>
+		<name>37</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">37</SimpleData>
+<SimpleData name="LineName">37: New Britain Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.39</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1160,9 +1337,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Windsor - Day Hill Rd</name>
+		<name>36-X</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: X: via I-91<br/>Agency: ct-ct<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">36-X</SimpleData>
+<SimpleData name="LineName">36: Windsor - Day Hill Rd</SimpleData>
+<SimpleData name="LineBranch">X: via I-91</SimpleData>
+<SimpleData name="LineLength">14.12</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1195,9 +1379,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Windsor - Day Hill Rd</name>
+		<name>36</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Windsor - Day Hill Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.97</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1290,9 +1481,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Kennedy Rd</name>
+		<name>34-X</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: X: via I-91<br/>Agency: ct-ct<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">34-X</SimpleData>
+<SimpleData name="LineName">34: Kennedy Rd</SimpleData>
+<SimpleData name="LineBranch">X: via I-91</SimpleData>
+<SimpleData name="LineLength">15.05</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1325,9 +1523,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Kennedy Rd</name>
+		<name>34-A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Halfway House Rd<br/>Agency: ct-ct<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">34-A</SimpleData>
+<SimpleData name="LineName">34: Kennedy Rd</SimpleData>
+<SimpleData name="LineBranch">A: Halfway House Rd</SimpleData>
+<SimpleData name="LineLength">12.8</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1408,9 +1613,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Kennedy Rd</name>
+		<name>34</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: Kennedy Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.24</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1501,9 +1713,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Windsor Avenue</name>
+		<name>32-M</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: M: via Matianuck Ave<br/>Agency: ct-ct<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">32-M</SimpleData>
+<SimpleData name="LineName">32: Windsor Avenue</SimpleData>
+<SimpleData name="LineBranch">M: via Matianuck Ave</SimpleData>
+<SimpleData name="LineLength">6.81</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1564,9 +1783,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Windsor Avenue</name>
+		<name>32-B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Bloomfield Ave<br/>Agency: ct-ct<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">32-B</SimpleData>
+<SimpleData name="LineName">32: Windsor Avenue</SimpleData>
+<SimpleData name="LineBranch">B: Bloomfield Ave</SimpleData>
+<SimpleData name="LineLength">7.89</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1636,9 +1862,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Windsor Avenue</name>
+		<name>32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Windsor Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.52</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.672223,41.765633,0
@@ -1711,9 +1944,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Park St - Park Rd</name>
+		<name>33-W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: W: Westfarms<br/>Agency: ct-ct<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">33-W</SimpleData>
+<SimpleData name="LineName">33: Park St - Park Rd</SimpleData>
+<SimpleData name="LineBranch">W: Westfarms</SimpleData>
+<SimpleData name="LineLength">6.86</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1767,9 +2007,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Park St - Park Rd</name>
+		<name>33</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Park St - Park Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.51</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1802,9 +2049,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Park St - New Park Ave</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Park St - New Park Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.58</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673605,41.765357,0
@@ -1838,9 +2092,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Bradley Flyer</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Bradley Flyer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.87</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.681399,41.769084,0
@@ -1860,9 +2121,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Windsor - Bradley Int'l - Windsor Locks</name>
+		<name>24</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.73</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Windsor - Bradley Int'l - Windsor Locks</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.98</SimpleData>
+<SimpleData name="LineEDI">2.73</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.643272,41.85188,0
@@ -1925,9 +2193,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>928: Southington - Cheshire - Waterbury Express</name>
+		<name>928</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">928</SimpleData>
+<SimpleData name="LineName">928: Southington - Cheshire - Waterbury Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">28.02</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.04307,41.554015,0
@@ -1951,9 +2226,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>161: St. Francis Hosptial / Hartford Hospital</name>
+		<name>161</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">161</SimpleData>
+<SimpleData name="LineName">161: St. Francis Hosptial / Hartford Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.53</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.698263,41.775663,0
@@ -1979,9 +2261,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>153: Flatbush / Copaco</name>
+		<name>153</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">153</SimpleData>
+<SimpleData name="LineName">153: Flatbush / Copaco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.63</SimpleData>
+<SimpleData name="LineEDI">2.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.720261,41.739746,0
@@ -2049,9 +2338,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>923: Bristol Express</name>
+		<name>923</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">923</SimpleData>
+<SimpleData name="LineName">923: Bristol Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.97</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -2069,9 +2365,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>543: West St</name>
+		<name>543</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 3.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">543</SimpleData>
+<SimpleData name="LineName">543: West St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.17</SimpleData>
+<SimpleData name="LineEDI">3.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.946382,41.674632,0
@@ -2088,9 +2391,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>541: Bristol Local</name>
+		<name>541-C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: C: via Senior Center<br/>Agency: ct-ct<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">541-C</SimpleData>
+<SimpleData name="LineName">541: Bristol Local</SimpleData>
+<SimpleData name="LineBranch">C: via Senior Center</SimpleData>
+<SimpleData name="LineLength">6.57</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.946249,41.674722,0
@@ -2123,9 +2433,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>541: Bristol Local</name>
+		<name>541-B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: B: via Birchwood Manor<br/>Agency: ct-ct<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">541-B</SimpleData>
+<SimpleData name="LineName">541: Bristol Local</SimpleData>
+<SimpleData name="LineBranch">B: via Birchwood Manor</SimpleData>
+<SimpleData name="LineLength">6.98</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.946249,41.674722,0
@@ -2155,9 +2472,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>502: Black Rock Ave</name>
+		<name>502</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">502</SimpleData>
+<SimpleData name="LineName">502: Black Rock Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.45</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.781537,41.66853,0
@@ -2208,9 +2532,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>471: Rubber Ave - Millville</name>
+		<name>471</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">471</SimpleData>
+<SimpleData name="LineName">471: Rubber Ave - Millville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.96</SimpleData>
+<SimpleData name="LineEDI">2.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.055917,41.489249,0
@@ -2232,9 +2563,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324: Fairfield Ave</name>
+		<name>324-S</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: S: Sound Beach Ave<br/>Agency: ct-ct<br/>EDI: 3.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">324-S</SimpleData>
+<SimpleData name="LineName">324: Fairfield Ave</SimpleData>
+<SimpleData name="LineBranch">S: Sound Beach Ave</SimpleData>
+<SimpleData name="LineLength">5.9</SimpleData>
+<SimpleData name="LineEDI">3.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.53966,41.05313,0
@@ -2290,9 +2628,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324: Fairfield Ave</name>
+		<name>324-in</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Inbound<br/>Agency: ct-ct<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">324-in</SimpleData>
+<SimpleData name="LineName">324: Fairfield Ave</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">2.27</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.551188,41.028709,0
@@ -2318,9 +2663,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324: Fairfield Ave</name>
+		<name>324-out</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Outbound<br/>Agency: ct-ct<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">324-out</SimpleData>
+<SimpleData name="LineName">324: Fairfield Ave</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">2.47</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.53966,41.05313,0
@@ -2353,7 +2705,14 @@
 	<Placemark> 
 		<name>Shore Line East</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">Shore Line East</SimpleData>
+<SimpleData name="LineName">Shore Line East</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">44.68</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.926195,41.29733,0
@@ -2371,7 +2730,14 @@
 	<Placemark> 
 		<name>Hartford Line</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">Hartford Line</SimpleData>
+<SimpleData name="LineName">Hartford Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">59.03</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.926195,41.29733,0
@@ -2387,9 +2753,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69: Capitol Ave</name>
+		<name>69-F</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Fenn Rd<br/>Agency: ct-ct<br/>EDI: 1.99</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">69-F</SimpleData>
+<SimpleData name="LineName">69: Capitol Ave</SimpleData>
+<SimpleData name="LineBranch">via Fenn Rd</SimpleData>
+<SimpleData name="LineLength">13.11</SimpleData>
+<SimpleData name="LineEDI">1.99</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.674129,41.763642,0
@@ -2467,9 +2840,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69: Capitol Ave</name>
+		<name>69</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">69</SimpleData>
+<SimpleData name="LineName">69: Capitol Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.96</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.674129,41.763642,0
@@ -2545,9 +2925,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>261: Boston Post Rd</name>
+		<name>261</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">261</SimpleData>
+<SimpleData name="LineName">261: Boston Post Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.94</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2621,9 +3008,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>271: Kimberly Ave</name>
+		<name>271-R</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: R: Bayshore via Jones Hill Rd<br/>Agency: ct-ct<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">271-R</SimpleData>
+<SimpleData name="LineName">271: Kimberly Ave</SimpleData>
+<SimpleData name="LineBranch">R: Bayshore via Jones Hill Rd</SimpleData>
+<SimpleData name="LineLength">6.45</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2686,9 +3080,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>271: Kimberly Ave</name>
+		<name>271-S</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: S: Savin Rock<br/>Agency: ct-ct<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">271-S</SimpleData>
+<SimpleData name="LineName">271: Kimberly Ave</SimpleData>
+<SimpleData name="LineBranch">S: Savin Rock</SimpleData>
+<SimpleData name="LineLength">4.71</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2739,9 +3140,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>271: Kimberly Ave</name>
+		<name>271-M</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: M: Milford - CT Post Mall<br/>Agency: ct-ct<br/>EDI: 2.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">271-M</SimpleData>
+<SimpleData name="LineName">271: Kimberly Ave</SimpleData>
+<SimpleData name="LineBranch">M: Milford - CT Post Mall</SimpleData>
+<SimpleData name="LineLength">15.38</SimpleData>
+<SimpleData name="LineEDI">2.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.927011,41.306697,0
@@ -2855,9 +3263,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>144: Wethersfield / Westfarms</name>
+		<name>144</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 2.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">144</SimpleData>
+<SimpleData name="LineName">144: Wethersfield / Westfarms</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.53</SimpleData>
+<SimpleData name="LineEDI">2.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.76145,41.724921,0
@@ -2914,9 +3329,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>128: Hartford / Westfarms - New Britain</name>
+		<name>128</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">128</SimpleData>
+<SimpleData name="LineName">128: Hartford / Westfarms - New Britain</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.74</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -2967,9 +3389,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>121: MCC / Hartford / UConn Health</name>
+		<name>121</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">121</SimpleData>
+<SimpleData name="LineName">121: MCC / Hartford / UConn Health</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.45</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.563377,41.761183,0
@@ -3018,9 +3447,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: Hartford / New Britain / Bristol</name>
+		<name>102</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">102</SimpleData>
+<SimpleData name="LineName">102: Hartford / New Britain / Bristol</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.77</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -3069,9 +3505,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101: Hartford / New Britain</name>
+		<name>101</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">101</SimpleData>
+<SimpleData name="LineName">101: Hartford / New Britain</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.4</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.673435,41.765179,0
@@ -3091,9 +3534,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>255: New Haven / Ansonia / Seymour</name>
+		<name>255</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.89</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">255</SimpleData>
+<SimpleData name="LineName">255: New Haven / Ansonia / Seymour</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.27</SimpleData>
+<SimpleData name="LineEDI">1.89</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.92665,41.306527,0
@@ -3216,9 +3666,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201: Madison</name>
+		<name>201</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-ct<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">201</SimpleData>
+<SimpleData name="LineName">201: Madison</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.62</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.92708,41.30415,0

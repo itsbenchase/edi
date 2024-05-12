@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ny-beeline routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>BxM4C: Westchester - Manhattan</name>
+		<name>BxM4C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">BxM4C</SimpleData>
+<SimpleData name="LineName">BxM4C: Westchester - Manhattan</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.28</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.781011,41.035792,0
@@ -90,9 +99,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Dobbs Ferry - Scarsdale - New Rochelle</name>
+		<name>66</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">66</SimpleData>
+<SimpleData name="LineName">66: Dobbs Ferry - Scarsdale - New Rochelle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.28</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.873939,41.02229,0
@@ -165,9 +181,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Scarsdale - White Plains</name>
+		<name>63</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">63</SimpleData>
+<SimpleData name="LineName">63: Scarsdale - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.86</SimpleData>
+<SimpleData name="LineEDI">2.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.808243,40.989375,0
@@ -221,9 +244,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62: Bronx - New Rochelle - White Plains</name>
+		<name>62</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">62</SimpleData>
+<SimpleData name="LineName">62: Bronx - New Rochelle - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.31</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.773514,41.033861,0
@@ -281,9 +311,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61: Bronx - New Rochelle - White Plains</name>
+		<name>61</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">61</SimpleData>
+<SimpleData name="LineName">61: Bronx - New Rochelle - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.26</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.889768,40.860776,0
@@ -379,9 +416,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Bronx - New Rochelle - White Plains</name>
+		<name>60</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: Bronx - New Rochelle - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.08</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.889768,40.860776,0
@@ -474,9 +518,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Bronx - Mount Vernon - Yonkers</name>
+		<name>55</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.73</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Bronx - Mount Vernon - Yonkers</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.38</SimpleData>
+<SimpleData name="LineEDI">1.73</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.831303,40.887832,0
@@ -517,9 +568,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Mount Vernon - Chester Heights</name>
+		<name>53</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">53</SimpleData>
+<SimpleData name="LineName">53: Mount Vernon - Chester Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.91</SimpleData>
+<SimpleData name="LineEDI">2.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.832742,40.912441,0
@@ -551,9 +609,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Bronx - Mount Vernon - Bronxville</name>
+		<name>52</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">52</SimpleData>
+<SimpleData name="LineName">52: Bronx - Mount Vernon - Bronxville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.39</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.832329,40.882035,0
@@ -586,9 +651,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45Q: Top of the Ridge - New Rochelle</name>
+		<name>45Q</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">45Q</SimpleData>
+<SimpleData name="LineName">45Q: Top of the Ridge - New Rochelle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.62</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.78758,40.977594,0
@@ -632,9 +704,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Eastchester - New Rochelle - Pelham Bay</name>
+		<name>45</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Eastchester - New Rochelle - Pelham Bay</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.18</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.826816,40.852883,0
@@ -692,9 +771,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Bronx - Mount Vernon - New Rochelle</name>
+		<name>42</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">42</SimpleData>
+<SimpleData name="LineName">42: Bronx - Mount Vernon - New Rochelle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.98</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.784063,40.912416,0
@@ -740,9 +826,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Mount Vernon - White Plains - Westchester Medical Ctr</name>
+		<name>43</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">43</SimpleData>
+<SimpleData name="LineName">43: Mount Vernon - White Plains - Westchester Medical Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.39</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.849858,40.903878,0
@@ -775,9 +868,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Mount Vernon - White Plains - Westchester Medical Ctr</name>
+		<name>41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: Mount Vernon - White Plains - Westchester Medical Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.8</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.849858,40.903878,0
@@ -824,9 +924,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Mount Vernon - White Plains - Westchester Medical Ctr</name>
+		<name>40</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: Mount Vernon - White Plains - Westchester Medical Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.95</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.835512,40.91263,0
@@ -908,9 +1015,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Yonkers - Bronxville - New Rochelle</name>
+		<name>30</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Yonkers - Bronxville - New Rochelle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.69</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.899839,40.934039,0
@@ -987,9 +1101,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Bronx - Yonkers</name>
+		<name>25</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">25</SimpleData>
+<SimpleData name="LineName">25: Bronx - Yonkers</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.23</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.854478,40.898587,0
@@ -1036,9 +1157,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Bronx - White Plains Express</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Bronx - White Plains Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.84</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.89061,40.874,0
@@ -1072,9 +1200,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Bronx - White Plains</name>
+		<name>20</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Bronx - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.91</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.89061,40.874,0
@@ -1146,9 +1281,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Ossining - Mount Kisco - Katonah</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Ossining - Mount Kisco - Katonah</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.07</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.868837,41.157416,0
@@ -1218,9 +1360,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: Peekskill - Jefferson Valley</name>
+		<name>16</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: Peekskill - Jefferson Valley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.85</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.892215,41.291819,0
@@ -1278,9 +1427,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Ossining - Tarrytown - Port Chester</name>
+		<name>13</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: Ossining - Tarrytown - Port Chester</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.66</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.868837,41.157416,0
@@ -1356,9 +1512,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Croton Express</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Croton Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.27</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.882696,41.190353,0
@@ -1398,9 +1561,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Mount St. Vincent - Yonkers - Tuckahoe</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Mount St. Vincent - Yonkers - Tuckahoe</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.3</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.902172,40.913675,0
@@ -1451,9 +1621,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Yonkers - Mount Vernon - New Rochelle</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Yonkers - Mount Vernon - New Rochelle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.8</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.90241,40.93497,0
@@ -1512,9 +1689,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Yonkers - White Plains - Pleasantville</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Yonkers - White Plains - Pleasantville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.1</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.90241,40.93497,0
@@ -1629,9 +1813,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Yonkers - White Plains - Harrison</name>
+		<name>5</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.98</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Yonkers - White Plains - Harrison</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.45</SimpleData>
+<SimpleData name="LineEDI">1.98</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.899767,40.933267,0
@@ -1720,9 +1911,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Bronx - Yonkers</name>
+		<name>4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Bronx - Yonkers</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.2</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.89061,40.874,0
@@ -1757,9 +1955,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Bronx - White Plains</name>
+		<name>3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Bronx - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.12</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -1798,9 +2003,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Bronx - Tudor Woods</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Bronx - Tudor Woods</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.77</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -1850,9 +2062,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77: Taconic Express</name>
+		<name>77</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">77</SimpleData>
+<SimpleData name="LineName">77: Taconic Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">33.04</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.763459,41.034022,0
@@ -1883,9 +2102,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: White Plains - Peekskill Express</name>
+		<name>17</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: White Plains - Peekskill Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.17</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.763459,41.034022,0
@@ -1909,9 +2135,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Peekskill - Yorktown - White Plains</name>
+		<name>15</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Peekskill - Yorktown - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">36.65</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.763459,41.034022,0
@@ -2015,9 +2248,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: White Plains - Ossining - Peekskill</name>
+		<name>14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: White Plains - Ossining - Peekskill</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">34.62</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.763459,41.034022,0
@@ -2145,9 +2385,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: Ardsley - Hartsdale</name>
+		<name>39</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">39</SimpleData>
+<SimpleData name="LineName">39: Ardsley - Hartsdale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.2</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.79584,41.01126,0
@@ -2170,9 +2417,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Orchard Hill - Hartsdale</name>
+		<name>34</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: Orchard Hill - Hartsdale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.66</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.795737,41.011357,0
@@ -2189,9 +2443,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Mount Vernon Local</name>
+		<name>54</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">54</SimpleData>
+<SimpleData name="LineName">54: Mount Vernon Local</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.12</SimpleData>
+<SimpleData name="LineEDI">2.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.826595,40.900321,0
@@ -2214,9 +2475,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26: Bronx - Yonkers - Bronxville</name>
+		<name>26</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">26</SimpleData>
+<SimpleData name="LineName">26: Bronx - Yonkers - Bronxville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.63</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.854478,40.898587,0
@@ -2248,9 +2516,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Bronx and Yonkers - White Plains</name>
+		<name>1X</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: X: to Westchester Medical Ctr<br/>Agency: ny-beeline<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">1X</SimpleData>
+<SimpleData name="LineName">1: Bronx and Yonkers - White Plains</SimpleData>
+<SimpleData name="LineBranch">X: to Westchester Medical Ctr</SimpleData>
+<SimpleData name="LineLength">17.03</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -2291,9 +2566,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Bronx and Yonkers - White Plains</name>
+		<name>1W</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: W: to White Plains<br/>Agency: ny-beeline<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">1W</SimpleData>
+<SimpleData name="LineName">1: Bronx and Yonkers - White Plains</SimpleData>
+<SimpleData name="LineBranch">W: to White Plains</SimpleData>
+<SimpleData name="LineLength">18.32</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -2392,9 +2674,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Bronx and Yonkers - White Plains</name>
+		<name>1T</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: T: to Tarrytown<br/>Agency: ny-beeline<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">1T</SimpleData>
+<SimpleData name="LineName">1: Bronx and Yonkers - White Plains</SimpleData>
+<SimpleData name="LineBranch">T: to Tarrytown</SimpleData>
+<SimpleData name="LineLength">14.24</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -2476,9 +2765,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Bronx and Yonkers - White Plains</name>
+		<name>1C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: to Westchester Medical Ctr<br/>Agency: ny-beeline<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">1C</SimpleData>
+<SimpleData name="LineName">1: Bronx and Yonkers - White Plains</SimpleData>
+<SimpleData name="LineBranch">C: to Westchester Medical Ctr</SimpleData>
+<SimpleData name="LineLength">19.45</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -2584,9 +2880,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Bronx and Yonkers - White Plains</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Bronx and Yonkers - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.22</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897752,40.890104,0
@@ -2633,9 +2936,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27: Skyline Dr - Eastview - White Plains</name>
+		<name>27</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">27</SimpleData>
+<SimpleData name="LineName">27: Skyline Dr - Eastview - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.48</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.763459,41.034022,0
@@ -2665,9 +2975,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Croton Commuter</name>
+		<name>10</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.91</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Croton Commuter</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.04</SimpleData>
+<SimpleData name="LineEDI">1.91</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.882696,41.190353,0
@@ -2704,9 +3021,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78: Getty Sq - Stew Leonard's Dr</name>
+		<name>78</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">78</SimpleData>
+<SimpleData name="LineName">78: Getty Sq - Stew Leonard's Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.4</SimpleData>
+<SimpleData name="LineEDI">2.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.897843,40.933627,0
@@ -2738,9 +3062,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Armonk - Westchester Airport - Purchase - White Plains</name>
+		<name>12</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 2.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Armonk - Westchester Airport - Purchase - White Plains</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.59</SimpleData>
+<SimpleData name="LineEDI">2.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.773514,41.033861,0
@@ -2793,9 +3124,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Secor Rd - Hartsdale</name>
+		<name>38</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-beeline<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-beeline</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: Secor Rd - Hartsdale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.09</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.795737,41.011357,0

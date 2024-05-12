@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>il-cumtd routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>1: Yellow</name>
+		<name>1-hopper</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Hopper<br/>Agency: il-cumtd<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">1-hopper</SimpleData>
+<SimpleData name="LineName">1: Yellow</SimpleData>
+<SimpleData name="LineBranch">Hopper</SimpleData>
+<SimpleData name="LineLength">2.44</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.240565,40.095688,0
@@ -74,9 +83,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Orange</name>
+		<name>6-hopper</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Hopper<br/>Agency: il-cumtd<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">6-hopper</SimpleData>
+<SimpleData name="LineName">6: Orange</SimpleData>
+<SimpleData name="LineBranch">Hopper</SimpleData>
+<SimpleData name="LineLength">3.14</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.240947,40.115935,0
@@ -105,9 +121,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Gold</name>
+		<name>10-hopper</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Hopper<br/>Agency: il-cumtd<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">10-hopper</SimpleData>
+<SimpleData name="LineName">10: Gold</SimpleData>
+<SimpleData name="LineBranch">Hopper</SimpleData>
+<SimpleData name="LineLength">2.84</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.240565,40.095688,0
@@ -130,9 +153,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Link</name>
+		<name>24</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Link</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.09</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.219455,40.11604,0
@@ -161,9 +191,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Illini</name>
+		<name>22</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 2.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Illini</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.57</SimpleData>
+<SimpleData name="LineEDI">2.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.220416,40.09949,0
@@ -206,9 +243,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Navy</name>
+		<name>14-mullikin</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Mullikin<br/>Agency: il-cumtd<br/>EDI: 2.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">14-mullikin</SimpleData>
+<SimpleData name="LineName">14: Navy</SimpleData>
+<SimpleData name="LineBranch">to Mullikin</SimpleData>
+<SimpleData name="LineLength">9.79</SimpleData>
+<SimpleData name="LineEDI">2.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.241104,40.115535,0
@@ -264,9 +308,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Navy</name>
+		<name>14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Navy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.44</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.241104,40.115535,0
@@ -312,9 +363,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Silver</name>
+		<name>13</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 2.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: Silver</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.28</SimpleData>
+<SimpleData name="LineEDI">2.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.220416,40.09949,0
@@ -337,9 +395,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Teal</name>
+		<name>12</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Teal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.14</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.241442,40.115363,0
@@ -368,9 +433,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Ruby</name>
+		<name>11</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.78</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Ruby</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.06</SimpleData>
+<SimpleData name="LineEDI">1.78</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.207296,40.111934,0
@@ -395,9 +467,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Gold</name>
+		<name>10-C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Midday<br/>Agency: il-cumtd<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">10-C</SimpleData>
+<SimpleData name="LineName">10: Gold</SimpleData>
+<SimpleData name="LineBranch">Midday</SimpleData>
+<SimpleData name="LineLength">7.79</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.269225,40.089662,0
@@ -450,9 +529,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Gold</name>
+		<name>10</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Gold</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.68</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.269225,40.089662,0
@@ -523,9 +609,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Bronze</name>
+		<name>8</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 4.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Bronze</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.69</SimpleData>
+<SimpleData name="LineEDI">4.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.207479,40.111898,0
@@ -576,9 +669,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Grey</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Grey</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.32</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.288138,40.131574,0
@@ -664,9 +764,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Orange</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Orange</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.18</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.280013,40.111109,0
@@ -717,9 +824,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Green</name>
+		<name>5-hopper</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Hopper<br/>Agency: il-cumtd<br/>EDI: 1.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">5-hopper</SimpleData>
+<SimpleData name="LineName">5: Green</SimpleData>
+<SimpleData name="LineBranch">Hopper</SimpleData>
+<SimpleData name="LineLength">10.65</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.288138,40.131574,0
@@ -804,9 +918,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Green</name>
+		<name>5</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.89</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Green</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.46</SimpleData>
+<SimpleData name="LineEDI">1.89</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.294277,40.101983,0
@@ -903,9 +1024,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Blue</name>
+		<name>4</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 3.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Blue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.64</SimpleData>
+<SimpleData name="LineEDI">3.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.240947,40.115935,0
@@ -961,9 +1089,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Lavender</name>
+		<name>3</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 2.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Lavender</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.64</SimpleData>
+<SimpleData name="LineEDI">2.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.241104,40.115535,0
@@ -1017,9 +1152,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Red</name>
+		<name>2</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 3.89</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Red</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.93</SimpleData>
+<SimpleData name="LineEDI">3.89</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.207479,40.111898,0
@@ -1112,9 +1254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Yellow</name>
+		<name>1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: il-cumtd<br/>EDI: 1.84</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">il-cumtd</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Yellow</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.79</SimpleData>
+<SimpleData name="LineEDI">1.84</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.255951,40.048065,0

@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-samtrans routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>85: Ormondale School - La Honda / Grandview</name>
+		<name>85</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 3.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">85</SimpleData>
+<SimpleData name="LineName">85: Ormondale School - La Honda / Grandview</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.84</SimpleData>
+<SimpleData name="LineEDI">3.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.217796,37.381312,0
@@ -84,9 +93,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>294: San Mateo Medical Center - Main / Poplar</name>
+		<name>294</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">294</SimpleData>
+<SimpleData name="LineName">294: San Mateo Medical Center - Main / Poplar</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.49</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.430008,37.457039,0
@@ -111,9 +127,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>278: Redwood City Transit Center - Cañada College</name>
+		<name>278-w</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Westbound<br/>Agency: ca-samtrans<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">278-w</SimpleData>
+<SimpleData name="LineName">278: Redwood City Transit Center - Cañada College</SimpleData>
+<SimpleData name="LineBranch">Westbound</SimpleData>
+<SimpleData name="LineLength">4.67</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.265122,37.448957,0
@@ -136,9 +159,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>278: Redwood City Transit Center - Cañada College</name>
+		<name>278-e</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Eastbound<br/>Agency: ca-samtrans<br/>EDI: 2.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">278-e</SimpleData>
+<SimpleData name="LineName">278: Redwood City Transit Center - Cañada College</SimpleData>
+<SimpleData name="LineBranch">Eastbound</SimpleData>
+<SimpleData name="LineLength">6.73</SimpleData>
+<SimpleData name="LineEDI">2.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.265122,37.448957,0
@@ -177,9 +207,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>260: San Carlos Caltrain - Polhemus / De Anza</name>
+		<name>260</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 2.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">260</SimpleData>
+<SimpleData name="LineName">260: San Carlos Caltrain - Polhemus / De Anza</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.94</SimpleData>
+<SimpleData name="LineEDI">2.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.258953,37.506411,0
@@ -200,9 +237,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>250: 5th / El Camino Real - College of San Mateo</name>
+		<name>250</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 3.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">250</SimpleData>
+<SimpleData name="LineName">250: 5th / El Camino Real - College of San Mateo</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.09</SimpleData>
+<SimpleData name="LineEDI">3.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.337045,37.533785,0
@@ -237,9 +281,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120: Brunswick / Templeton - Colma BART</name>
+		<name>120</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 3.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">120</SimpleData>
+<SimpleData name="LineName">120: Brunswick / Templeton - Colma BART</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.73</SimpleData>
+<SimpleData name="LineEDI">3.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.453043,37.707179,0
@@ -276,9 +327,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>142: SFO - Shelter Creek</name>
+		<name>142</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-samtrans<br/>EDI: 2.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-samtrans</SimpleData>
+<SimpleData name="LineCode">142</SimpleData>
+<SimpleData name="LineName">142: SFO - Shelter Creek</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.68</SimpleData>
+<SimpleData name="LineEDI">2.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.400155,37.627261,0

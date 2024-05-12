@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileWriter;
 
 // creates individual agency maps
-// as of feb 2024, agency maps not public
+// rewritten may 2024, agency maps public
 
 public class AgencyMap
 {
@@ -61,6 +61,7 @@ public class AgencyMap
           String data = s.nextLine();
           String line2 = data.substring(0, data.indexOf(";"));
           data = data.substring(data.indexOf(";") + 1);
+          double length = Double.parseDouble(data.substring(0, data.indexOf(";")));
           data = data.substring(data.indexOf(";") + 1);
           double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
           data = data.substring(data.indexOf(";") + 1);
@@ -71,7 +72,7 @@ public class AgencyMap
           name = name.replace("&", "&amp;");
           branch = branch.replace("&", "&amp;");
 
-          routes.add(new Stop(line2, edi, name, branch));
+          routes.add(new Stop(line2, edi, length, name, branch));
         }
       }
       catch (Exception e)
@@ -82,22 +83,30 @@ public class AgencyMap
       maps.add("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
       maps.add("<kml xmlns=\"http://www.opengis.net/kml/2.2\">");
       maps.add("<Document> \n\t<name>" + agencies.get(a) + " routes</name>");
-      // colors for groups of EDI values
-      maps.add("\t<Style id=\"1.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff10c283</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"1.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff195c03</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"2.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ffa0ad10</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"2.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ffad4902</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"3.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ffbf1d7e</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"3.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff6e0cb0</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"4.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff190177</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
-      maps.add("\t<Style id=\"10.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff000000</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t</Style>");
+
+      maps.add("<Schema name=\"RouteData\" id=\"RouteData\">");
+      maps.add("<SimpleField type=\"string\" name=\"Agency\"><displayName>Agency</displayName></SimpleField>");
+      maps.add("<SimpleField type=\"string\" name=\"LineCode\"><displayName>Line Code</displayName></SimpleField>");
+      maps.add("<SimpleField type=\"string\" name=\"LineName\"><displayName>Line Name</displayName></SimpleField>");
+      maps.add("<SimpleField type=\"string\" name=\"LineBranch\"><displayName>Branch</displayName></SimpleField>");
+      maps.add("<SimpleField type=\"double\" name=\"LineLength\"><displayName>Length</displayName></SimpleField>");
+      maps.add("<SimpleField type=\"double\" name=\"LineEDI\"><displayName>EDI</displayName></SimpleField>");
+      maps.add("</Schema>");
+
+      maps.add("\t<Style id=\"1.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff00701e</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+      maps.add("\t<Style id=\"1.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff00a054</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+      maps.add("\t<Style id=\"2.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff00cfa4</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+      maps.add("\t<Style id=\"2.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff00f2ff</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+      maps.add("\t<Style id=\"3.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff00a1ff</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+      maps.add("\t<Style id=\"3.5\"> \n\t\t<LineStyle> \n\t\t\t<color>ff0051ff</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
+      maps.add("\t<Style id=\"4.0\"> \n\t\t<LineStyle> \n\t\t\t<color>ff0000ff</color> \n\t\t\t<width>4.0</width> \n\t\t</LineStyle> \n\t\t</Style>");
 
       for (int j = 0; j < routes.size(); j++)
       {
         if (load.get(0).getLineEDI().equals(routes.get(j).getLineEDI()))
         {
-          maps.add("\t<Placemark> \n\t\t<name>" + routes.get(j).getLineName() + "</name>");
-
+          maps.add("\t<Placemark> \n\t\t<name>" + routes.get(j).getLineEDI() + "</name>");
+          
           // yeah yeah i gotta do this twice
           if (routes.get(j).getEdi() >= 1.0 && routes.get(j).getEdi() < 1.5)
           {
@@ -123,16 +132,19 @@ public class AgencyMap
           {
             maps.add("\t\t<styleUrl>#3.5</styleUrl>");
           }
-          else if (routes.get(j).getEdi() >= 4.0 && routes.get(j).getEdi() < 10.0)
+          else
           {
             maps.add("\t\t<styleUrl>#4.0</styleUrl>");
           }
-          else // (routes.get(j).getEdi() >= 10.0)
-          {
-            maps.add("\t\t<styleUrl>#10.0</styleUrl>");
-          }
 
-          maps.add("\t\t<description>Branch: " + routes.get(j).getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
+          maps.add("<ExtendedData><SchemaData schemaUrl=\"#RouteData\">");
+          maps.add("<SimpleData name=\"Agency\">" + agencies.get(a) + "</SimpleData>");
+          maps.add("<SimpleData name=\"LineCode\">" + routes.get(j).getLineEDI() + "</SimpleData>");
+          maps.add("<SimpleData name=\"LineName\">" + routes.get(j).getLineName() + "</SimpleData>");
+          maps.add("<SimpleData name=\"LineBranch\">" + routes.get(j).getBranch() + "</SimpleData>");
+          maps.add("<SimpleData name=\"LineLength\">" + routes.get(j).getLength() + "</SimpleData>");
+          maps.add("<SimpleData name=\"LineEDI\">" + routes.get(j).getEdi() + "</SimpleData>");
+          maps.add("</SchemaData></ExtendedData>");
         }
       }
 
@@ -152,8 +164,9 @@ public class AgencyMap
           {
             if (load.get(i).getLineEDI().equals(routes.get(j).getLineEDI()))
             {
-              maps.add("\t<Placemark> \n\t\t<name>" + routes.get(j).getLineName() + "</name>");
-
+              maps.add("\t<Placemark> \n\t\t<name>" + routes.get(j).getLineEDI() + "</name>");
+              
+              // yeah yeah i gotta do this twice
               if (routes.get(j).getEdi() >= 1.0 && routes.get(j).getEdi() < 1.5)
               {
                 maps.add("\t\t<styleUrl>#1.0</styleUrl>");
@@ -178,16 +191,19 @@ public class AgencyMap
               {
                 maps.add("\t\t<styleUrl>#3.5</styleUrl>");
               }
-              else if (routes.get(j).getEdi() >= 4.0 && routes.get(j).getEdi() < 10.0)
+              else
               {
                 maps.add("\t\t<styleUrl>#4.0</styleUrl>");
               }
-              else // (routes.get(j).getEdi() >= 10.0)
-              {
-                maps.add("\t\t<styleUrl>#10.0</styleUrl>");
-              }
 
-              maps.add("\t\t<description>Branch: " + routes.get(j).getBranch() + "<br/>Agency: " + agencies.get(a) + "<br/>EDI: " + routes.get(j).getEdi() + "</description>");
+              maps.add("<ExtendedData><SchemaData schemaUrl=\"#RouteData\">");
+              maps.add("<SimpleData name=\"Agency\">" + agencies.get(a) + "</SimpleData>");
+              maps.add("<SimpleData name=\"LineCode\">" + routes.get(j).getLineEDI() + "</SimpleData>");
+              maps.add("<SimpleData name=\"LineName\">" + routes.get(j).getLineName() + "</SimpleData>");
+              maps.add("<SimpleData name=\"LineBranch\">" + routes.get(j).getBranch() + "</SimpleData>");
+              maps.add("<SimpleData name=\"LineLength\">" + routes.get(j).getLength() + "</SimpleData>");
+              maps.add("<SimpleData name=\"LineEDI\">" + routes.get(j).getEdi() + "</SimpleData>");
+              maps.add("</SchemaData></ExtendedData>");
             }
           }
           maps.add("\t\t<LineString> \n\t\t\t<coordinates>");

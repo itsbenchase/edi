@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>md-rta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>505: Columbia / Catonsville</name>
+		<name>505</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">505</SimpleData>
+<SimpleData name="LineName">505: Columbia / Catonsville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.16</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -77,9 +86,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>503: Laurel / Columbia</name>
+		<name>503</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">503</SimpleData>
+<SimpleData name="LineName">503: Laurel / Columbia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.6</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -148,9 +164,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>502: Laurel / Arundel Mills</name>
+		<name>502-sat</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Saturday<br/>Agency: md-rta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">502-sat</SimpleData>
+<SimpleData name="LineName">502: Laurel / Arundel Mills</SimpleData>
+<SimpleData name="LineBranch">Saturday</SimpleData>
+<SimpleData name="LineLength">9.93</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.724395,39.153946,0
@@ -175,9 +198,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>502: Laurel / Arundel Mills</name>
+		<name>502</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">502</SimpleData>
+<SimpleData name="LineName">502: Laurel / Arundel Mills</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.81</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.854853,39.098532,0
@@ -211,9 +241,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501: Colubmia / Arundel Mills</name>
+		<name>501</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">501</SimpleData>
+<SimpleData name="LineName">501: Colubmia / Arundel Mills</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.33</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -238,9 +275,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>409: Elkridge Corners</name>
+		<name>409</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">409</SimpleData>
+<SimpleData name="LineName">409: Elkridge Corners</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.74</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.859126,39.094751,0
@@ -294,9 +338,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>408: Lake Brown / Waterloo</name>
+		<name>408</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 2.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">408</SimpleData>
+<SimpleData name="LineName">408: Lake Brown / Waterloo</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.3</SimpleData>
+<SimpleData name="LineEDI">2.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -341,9 +392,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>407: Owen Brown / Kings Contrivance</name>
+		<name>407</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 3.91</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">407</SimpleData>
+<SimpleData name="LineName">407: Owen Brown / Kings Contrivance</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.32</SimpleData>
+<SimpleData name="LineEDI">3.91</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -400,9 +458,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>406: Colubmia Gateway</name>
+		<name>406</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">406</SimpleData>
+<SimpleData name="LineName">406: Colubmia Gateway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.33</SimpleData>
+<SimpleData name="LineEDI">1.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -426,9 +491,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>405: Ellicott City</name>
+		<name>405</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 2.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">405</SimpleData>
+<SimpleData name="LineName">405: Ellicott City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.9</SimpleData>
+<SimpleData name="LineEDI">2.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -464,9 +536,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>404: Hickory Ridge</name>
+		<name>404</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 2.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">404</SimpleData>
+<SimpleData name="LineName">404: Hickory Ridge</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.98</SimpleData>
+<SimpleData name="LineEDI">2.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -495,9 +574,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>403: Executive Park Drive</name>
+		<name>403</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 2.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">403</SimpleData>
+<SimpleData name="LineName">403: Executive Park Drive</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.79</SimpleData>
+<SimpleData name="LineEDI">2.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -522,9 +608,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>402: Colubmia Crossing / Dobbin Center</name>
+		<name>402</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 2.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">402</SimpleData>
+<SimpleData name="LineName">402: Colubmia Crossing / Dobbin Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.37</SimpleData>
+<SimpleData name="LineEDI">2.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -551,9 +644,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>401: Harper's Choice / Clary's Forest</name>
+		<name>401</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 2.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">401</SimpleData>
+<SimpleData name="LineName">401: Harper's Choice / Clary's Forest</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.81</SimpleData>
+<SimpleData name="LineEDI">2.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.863866,39.214555,0
@@ -581,9 +681,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>302: Greenbelt Metro Station</name>
+		<name>302-sun</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Sunday<br/>Agency: md-rta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">302-sun</SimpleData>
+<SimpleData name="LineName">302: Greenbelt Metro Station</SimpleData>
+<SimpleData name="LineBranch">Sunday</SimpleData>
+<SimpleData name="LineLength">8.83</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.859126,39.094751,0
@@ -619,9 +726,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>302: Greenbelt Metro Station</name>
+		<name>302-sat</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Saturday<br/>Agency: md-rta<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">302-sat</SimpleData>
+<SimpleData name="LineName">302: Greenbelt Metro Station</SimpleData>
+<SimpleData name="LineBranch">Saturday</SimpleData>
+<SimpleData name="LineLength">10.77</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.858553,39.107023,0
@@ -669,9 +783,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>302: Greenbelt Metro Station</name>
+		<name>302</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">302</SimpleData>
+<SimpleData name="LineName">302: Greenbelt Metro Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.75</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.858553,39.107023,0
@@ -724,9 +845,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301: South Laurel</name>
+		<name>301</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-rta<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-rta</SimpleData>
+<SimpleData name="LineCode">301</SimpleData>
+<SimpleData name="LineName">301: South Laurel</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.68</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.837696,39.046229,0

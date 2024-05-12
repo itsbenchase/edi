@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>in-citybus routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>21A: Lark &amp; Alight</name>
+		<name>21A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">21A</SimpleData>
+<SimpleData name="LineName">21A: Lark &amp; Alight</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.88</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.919075,40.424541,0
@@ -67,9 +76,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Tower Acres</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Tower Acres</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.28</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.91186,40.424124,0
@@ -85,9 +101,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Northwestern</name>
+		<name>10</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Northwestern</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.31</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.911286,40.423931,0
@@ -128,9 +151,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Park East</name>
+		<name>9</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: Park East</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.17</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894331,40.420219,0
@@ -164,9 +194,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Klondike</name>
+		<name>8</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 2.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Klondike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.28</SimpleData>
+<SimpleData name="LineEDI">2.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.962127,40.447607,0
@@ -187,9 +224,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: South St</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: South St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.42</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -228,9 +272,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6B: South 9th St</name>
+		<name>6B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">6B</SimpleData>
+<SimpleData name="LineName">6B: South 9th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.5</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -258,9 +309,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6A: South 4th St</name>
+		<name>6A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">6A</SimpleData>
+<SimpleData name="LineName">6A: South 4th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.03</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -299,9 +357,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Happy Hollow</name>
+		<name>5</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Happy Hollow</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.81</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.91186,40.424124,0
@@ -333,9 +398,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4B: Purdue West</name>
+		<name>4B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.84</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">4B</SimpleData>
+<SimpleData name="LineName">4B: Purdue West</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.02</SimpleData>
+<SimpleData name="LineEDI">1.84</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -360,9 +432,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4A: Tippecanoe Mall</name>
+		<name>4A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">4A</SimpleData>
+<SimpleData name="LineName">4A: Tippecanoe Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.55</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -393,9 +472,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Lafayette Square</name>
+		<name>3</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 2.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Lafayette Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.43</SimpleData>
+<SimpleData name="LineEDI">2.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -451,9 +537,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2B: Union</name>
+		<name>2B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">2B</SimpleData>
+<SimpleData name="LineName">2B: Union</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.62</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -484,9 +577,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Lindberg Express</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Lindberg Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.76</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.941842,40.450075,0
@@ -499,9 +599,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: Gold Loop</name>
+		<name>28</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: Gold Loop</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.7</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.914926,40.4255,0
@@ -518,9 +625,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Redpoint</name>
+		<name>24</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Redpoint</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.08</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.958841,40.453042,0
@@ -541,9 +655,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: The Connector</name>
+		<name>23</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: The Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.41</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.876203,40.456775,0
@@ -579,9 +700,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2A: Schuyler</name>
+		<name>2A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">2A</SimpleData>
+<SimpleData name="LineName">2A: Schuyler</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.9</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -614,9 +742,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1B: Salisbury</name>
+		<name>1B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">1B</SimpleData>
+<SimpleData name="LineName">1B: Salisbury</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.72</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0
@@ -654,9 +789,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1A: Market Square</name>
+		<name>1A</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: in-citybus<br/>EDI: 2.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">in-citybus</SimpleData>
+<SimpleData name="LineCode">1A</SimpleData>
+<SimpleData name="LineName">1A: Market Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.77</SimpleData>
+<SimpleData name="LineEDI">2.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-86.894808,40.420711,0

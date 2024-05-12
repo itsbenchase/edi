@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-muni routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>T: Third Street</name>
+		<name>T</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">T</SimpleData>
+<SimpleData name="LineName">T: Third Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.51</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.408068,37.794817,0
@@ -82,9 +91,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N: Judah</name>
+		<name>N</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">N</SimpleData>
+<SimpleData name="LineName">N: Judah</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.41</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.508181,37.760304,0
@@ -123,9 +139,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M: Ocean View</name>
+		<name>M</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">M</SimpleData>
+<SimpleData name="LineName">M: Ocean View</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.82</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.447196,37.720096,0
@@ -158,9 +181,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L: Taraval</name>
+		<name>L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">L</SimpleData>
+<SimpleData name="LineName">L: Taraval</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.29</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.504351,37.736125,0
@@ -208,9 +238,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>K: Ingleside</name>
+		<name>K</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">K</SimpleData>
+<SimpleData name="LineName">K: Ingleside</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.61</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.446222,37.721238,0
@@ -237,9 +274,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J: Church</name>
+		<name>J</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">J</SimpleData>
+<SimpleData name="LineName">J: Church</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.43</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.446222,37.721238,0
@@ -271,9 +315,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F: Market &amp; Wharves</name>
+		<name>F</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">F</SimpleData>
+<SimpleData name="LineName">F: Market &amp; Wharves</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.97</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.434979,37.762576,0
@@ -310,9 +361,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90: San Bruno Owl</name>
+		<name>90</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">90</SimpleData>
+<SimpleData name="LineName">90: San Bruno Owl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.88</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.402442,37.712298,0
@@ -357,9 +415,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67: Bernal Heights</name>
+		<name>67</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">67</SimpleData>
+<SimpleData name="LineName">67: Bernal Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.33</SimpleData>
+<SimpleData name="LineEDI">1.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.418333,37.752321,0
@@ -387,9 +452,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Quintara</name>
+		<name>66</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">66</SimpleData>
+<SimpleData name="LineName">66: Quintara</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.84</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.48611,37.73896,0
@@ -421,9 +493,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Parkmerced</name>
+		<name>57</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Parkmerced</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.93</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -460,9 +539,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Rutland</name>
+		<name>56-out</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Outbound<br/>Agency: ca-muni<br/>EDI: 2.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">56-out</SimpleData>
+<SimpleData name="LineName">56: Rutland</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">2.45</SimpleData>
+<SimpleData name="LineEDI">2.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.405152,37.72057,0
@@ -492,9 +578,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Rutland</name>
+		<name>56-in</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Inbound<br/>Agency: ca-muni<br/>EDI: 3.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">56-in</SimpleData>
+<SimpleData name="LineName">56: Rutland</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">3.09</SimpleData>
+<SimpleData name="LineEDI">3.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.392893,37.709831,0
@@ -531,9 +624,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Dogpatch</name>
+		<name>55</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Dogpatch</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.26</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.388707,37.760536,0
@@ -555,9 +655,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Felton</name>
+		<name>54</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.76</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">54</SimpleData>
+<SimpleData name="LineName">54: Felton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.65</SimpleData>
+<SimpleData name="LineEDI">1.76</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -642,9 +749,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Excelsior</name>
+		<name>52</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">52</SimpleData>
+<SimpleData name="LineName">52: Excelsior</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.0</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.425802,37.719192,0
@@ -685,9 +799,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49: Van Ness / Mission</name>
+		<name>49</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">49</SimpleData>
+<SimpleData name="LineName">49: Van Ness / Mission</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.81</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.45267,37.723629,0
@@ -730,9 +851,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48: Qunitara / 24th Street</name>
+		<name>48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">48</SimpleData>
+<SimpleData name="LineName">48: Qunitara / 24th Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.54</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.50755,37.74544,0
@@ -810,9 +938,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Union / Stockton</name>
+		<name>45</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Union / Stockton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.24</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.447206,37.797428,0
@@ -850,9 +985,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Masonic</name>
+		<name>43</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">43</SimpleData>
+<SimpleData name="LineName">43: Masonic</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.46</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.43295,37.71293,0
@@ -946,9 +1088,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Geary</name>
+		<name>38-48th</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to 48th Ave<br/>Agency: ca-muni<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">38-48th</SimpleData>
+<SimpleData name="LineName">38: Geary</SimpleData>
+<SimpleData name="LineBranch">to 48th Ave</SimpleData>
+<SimpleData name="LineLength">6.69</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.395206,37.789975,0
@@ -1001,9 +1150,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Geary</name>
+		<name>38-va</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to VA Hosptial<br/>Agency: ca-muni<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">38-va</SimpleData>
+<SimpleData name="LineName">38: Geary</SimpleData>
+<SimpleData name="LineBranch">to VA Hosptial</SimpleData>
+<SimpleData name="LineLength">6.24</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.395206,37.789975,0
@@ -1051,9 +1207,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Geary</name>
+		<name>38-33rd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to 33rd Ave<br/>Agency: ca-muni<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">38-33rd</SimpleData>
+<SimpleData name="LineName">38: Geary</SimpleData>
+<SimpleData name="LineBranch">to 33rd Ave</SimpleData>
+<SimpleData name="LineLength">5.79</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.395206,37.789975,0
@@ -1098,9 +1261,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Eureka</name>
+		<name>35</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Eureka</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.01</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.43408,37.733488,0
@@ -1141,9 +1311,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Ashbury / 18th Street</name>
+		<name>33</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Ashbury / 18th Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.12</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.40668,37.751407,0
@@ -1192,9 +1369,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Balboa</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Balboa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.78</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.50998,37.773562,0
@@ -1250,9 +1434,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Stockton</name>
+		<name>30</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Stockton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.94</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.393908,37.777875,0
@@ -1300,9 +1491,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: Sunset</name>
+		<name>29</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: Sunset</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.68</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.38699,37.717502,0
@@ -1395,9 +1593,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: 19th Avenue</name>
+		<name>28</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: 19th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.06</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -1439,9 +1644,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27: Bryant</name>
+		<name>27</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">27</SimpleData>
+<SimpleData name="LineName">27: Bryant</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.06</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.418333,37.752321,0
@@ -1489,9 +1701,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Treasure Island</name>
+		<name>25</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">25</SimpleData>
+<SimpleData name="LineName">25: Treasure Island</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.5</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.371758,37.828276,0
@@ -1505,9 +1724,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Divisadero</name>
+		<name>24</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.86</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Divisadero</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.4</SimpleData>
+<SimpleData name="LineEDI">1.86</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.391522,37.736304,0
@@ -1573,9 +1799,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: Monterey</name>
+		<name>23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Monterey</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.5</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.50493,37.735394,0
@@ -1647,9 +1880,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Fillmore</name>
+		<name>22</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Fillmore</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.26</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.389936,37.771146,0
@@ -1696,9 +1936,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Hayes</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Hayes</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.06</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.465739,37.773318,0
@@ -1725,9 +1972,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Polk</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Polk</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.77</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.367027,37.728795,0
@@ -1803,9 +2057,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44: O'Shuaghnessy</name>
+		<name>44</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">44</SimpleData>
+<SimpleData name="LineName">44: O'Shuaghnessy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.27</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.387862,37.742628,0
@@ -1876,9 +2137,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: 46th Avenue</name>
+		<name>18</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: 46th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.6</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.475063,37.725732,0
@@ -1929,9 +2197,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Bayview Hunters Point Express</name>
+		<name>15</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Bayview Hunters Point Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.28</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.390859,37.73385,0
@@ -1962,9 +2237,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Mission</name>
+		<name>14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Mission</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.54</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.459975,37.706372,0
@@ -2013,9 +2295,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Folsom / Pacific</name>
+		<name>12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Folsom / Pacific</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.76</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.420213,37.748217,0
@@ -2061,9 +2350,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: San Bruno</name>
+		<name>9</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: San Bruno</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.51</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.42388,37.714017,0
@@ -2125,9 +2421,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8BX: Bayshore B Express</name>
+		<name>8BX</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">8BX</SimpleData>
+<SimpleData name="LineName">8BX: Bayshore B Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.48</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.45267,37.723629,0
@@ -2178,9 +2481,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8AX: Bayshore A Express</name>
+		<name>8AX</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">8AX</SimpleData>
+<SimpleData name="LineName">8AX: Bayshore A Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.97</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.413084,37.706296,0
@@ -2211,9 +2521,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Bayshore</name>
+		<name>8</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Bayshore</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.58</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.45267,37.723629,0
@@ -2274,9 +2591,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Haight / Noriega</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Haight / Noriega</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.81</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.507497,37.750981,0
@@ -2332,9 +2656,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Haight / Parnassus</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Haight / Parnassus</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.11</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.470706,37.748878,0
@@ -2387,9 +2718,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Fulton</name>
+		<name>5</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Fulton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.25</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.50998,37.773562,0
@@ -2439,9 +2777,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Sutter</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Sutter</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.25</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.446965,37.787676,0
@@ -2474,9 +2819,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: California</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: California</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.62</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.493112,37.779735,0
@@ -2531,9 +2883,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>714: BART Early Bird</name>
+		<name>714</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">714</SimpleData>
+<SimpleData name="LineName">714: BART Early Bird</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.39</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.469273,37.705764,0
@@ -2548,9 +2907,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Teresita</name>
+		<name>36</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Teresita</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.89</SimpleData>
+<SimpleData name="LineEDI">3.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.420351,37.747994,0
@@ -2625,9 +2991,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58: Lake Merced</name>
+		<name>58</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">58</SimpleData>
+<SimpleData name="LineName">58: Lake Merced</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.11</SimpleData>
+<SimpleData name="LineEDI">3.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.475063,37.725732,0
@@ -2657,9 +3030,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: Coit</name>
+		<name>39</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.83</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">39</SimpleData>
+<SimpleData name="LineName">39: Coit</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.78</SimpleData>
+<SimpleData name="LineEDI">3.83</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.40579,37.80266,0
@@ -2690,9 +3070,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Corbett</name>
+		<name>37</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 3.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">37</SimpleData>
+<SimpleData name="LineName">37: Corbett</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.82</SimpleData>
+<SimpleData name="LineEDI">3.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.445384,37.770152,0
@@ -2749,9 +3136,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91: 3rd Street / 19th Avenue Owl</name>
-		<styleUrl>#10.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-muni<br/>EDI: 14.58</description>
+		<name>91</name>
+		<styleUrl>#4.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-muni</SimpleData>
+<SimpleData name="LineCode">91</SimpleData>
+<SimpleData name="LineName">91: 3rd Street / 19th Avenue Owl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.33</SimpleData>
+<SimpleData name="LineEDI">14.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.465846,37.740893,0

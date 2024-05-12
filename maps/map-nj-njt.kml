@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>nj-njt routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>748: Paterson - Wayne - Willowbrook Mall</name>
+		<name>748-wayne</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Wayne<br/>Agency: nj-njt<br/>EDI: 1.93</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">748-wayne</SimpleData>
+<SimpleData name="LineName">748: Paterson - Wayne - Willowbrook Mall</SimpleData>
+<SimpleData name="LineBranch">to Wayne</SimpleData>
+<SimpleData name="LineLength">13.2</SimpleData>
+<SimpleData name="LineEDI">1.93</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.148053,40.937228,0
@@ -114,9 +123,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>748: Paterson - Wayne - Willowbrook Mall</name>
+		<name>748-pompton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Pompton Lakes<br/>Agency: nj-njt<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">748-pompton</SimpleData>
+<SimpleData name="LineName">748: Paterson - Wayne - Willowbrook Mall</SimpleData>
+<SimpleData name="LineBranch">to Pompton Lakes</SimpleData>
+<SimpleData name="LineLength">9.6</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.172071,40.916747,0
@@ -161,9 +177,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>702: Paterson - Elmwood Park</name>
+		<name>702-dayton</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: via Dayton Ave<br/>Agency: nj-njt<br/>EDI: 4.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">702-dayton</SimpleData>
+<SimpleData name="LineName">702: Paterson - Elmwood Park</SimpleData>
+<SimpleData name="LineBranch">via Dayton Ave</SimpleData>
+<SimpleData name="LineLength">10.72</SimpleData>
+<SimpleData name="LineEDI">4.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.166123,40.901818,0
@@ -231,9 +254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>702: Paterson - Elmwood Park</name>
+		<name>702-wessington</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: via Wessington Ave<br/>Agency: nj-njt<br/>EDI: 4.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">702-wessington</SimpleData>
+<SimpleData name="LineName">702: Paterson - Elmwood Park</SimpleData>
+<SimpleData name="LineBranch">via Wessington Ave</SimpleData>
+<SimpleData name="LineLength">11.37</SimpleData>
+<SimpleData name="LineEDI">4.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.166123,40.901818,0
@@ -305,9 +335,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Newark</name>
+		<name>1-newark</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Newark Penn<br/>Agency: nj-njt<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">1-newark</SimpleData>
+<SimpleData name="LineName">1: Newark</SimpleData>
+<SimpleData name="LineBranch">to Newark Penn</SimpleData>
+<SimpleData name="LineLength">7.15</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.24529,40.737739,0
@@ -369,9 +406,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Newark</name>
+		<name>1-journal</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Journal Square<br/>Agency: nj-njt<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">1-journal</SimpleData>
+<SimpleData name="LineName">1: Newark</SimpleData>
+<SimpleData name="LineBranch">to Journal Square</SimpleData>
+<SimpleData name="LineLength">11.4</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.24529,40.737739,0
@@ -449,9 +493,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Newark</name>
+		<name>1-exchange</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Exchange Place<br/>Agency: nj-njt<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">1-exchange</SimpleData>
+<SimpleData name="LineName">1: Newark</SimpleData>
+<SimpleData name="LineBranch">to Exchange Place</SimpleData>
+<SimpleData name="LineLength">12.34</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.24529,40.737739,0
@@ -530,9 +581,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>819: Piscataway - Plainfield - Metuchen</name>
+		<name>819-metuchen</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Metuchen<br/>Agency: nj-njt<br/>EDI: 2.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">819-metuchen</SimpleData>
+<SimpleData name="LineName">819: Piscataway - Plainfield - Metuchen</SimpleData>
+<SimpleData name="LineBranch">to Metuchen</SimpleData>
+<SimpleData name="LineLength">11.92</SimpleData>
+<SimpleData name="LineEDI">2.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.446271,40.5945,0
@@ -601,9 +659,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>819: Piscataway - Plainfield - Metuchen</name>
+		<name>819-south-plainfield</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to South Plainfield<br/>Agency: nj-njt<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">819-south-plainfield</SimpleData>
+<SimpleData name="LineName">819: Piscataway - Plainfield - Metuchen</SimpleData>
+<SimpleData name="LineBranch">to South Plainfield</SimpleData>
+<SimpleData name="LineLength">7.32</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.418922,40.619809,0
@@ -645,9 +710,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>813: Perth Amboy - Middlesex County College</name>
+		<name>813</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">813</SimpleData>
+<SimpleData name="LineName">813: Perth Amboy - Middlesex County College</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.8</SimpleData>
+<SimpleData name="LineEDI">2.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.367522,40.504498,0
@@ -708,9 +780,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>811: New Brunswick - South River</name>
+		<name>811</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">811</SimpleData>
+<SimpleData name="LineName">811: New Brunswick - South River</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.16</SimpleData>
+<SimpleData name="LineEDI">2.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.381333,40.448018,0
@@ -763,9 +842,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>871: Morristown - Boonton - Wayne</name>
+		<name>871</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">871</SimpleData>
+<SimpleData name="LineName">871: Morristown - Boonton - Wayne</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.47</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.481132,40.799179,0
@@ -839,9 +925,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>409: Trenton - Willingboro - Philadelphia</name>
+		<name>409</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">409</SimpleData>
+<SimpleData name="LineName">409: Trenton - Willingboro - Philadelphia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">46.13</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.753953,40.219428,0
@@ -998,9 +1091,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>River Line</name>
+		<name>river</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">river</SimpleData>
+<SimpleData name="LineName">River Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">32.77</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.755882,40.211928,0
@@ -1027,9 +1127,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NLR: Grove St</name>
+		<name>grove-newark</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">grove-newark</SimpleData>
+<SimpleData name="LineName">NLR: Grove St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.48</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.187931,40.780317,0
@@ -1048,9 +1155,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NLR: Broad St</name>
+		<name>broad-newark</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">broad-newark</SimpleData>
+<SimpleData name="LineName">NLR: Broad St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">0.97</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.163603,40.73481,0
@@ -1062,9 +1176,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>HBLR: Tonelle Ave - Hoboken</name>
+		<name>tonelle-hoboken</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">tonelle-hoboken</SimpleData>
+<SimpleData name="LineName">HBLR: Tonelle Ave - Hoboken</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.99</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.031263,40.78733,0
@@ -1078,9 +1199,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>HBLR: Tonelle Ave - West Side Ave</name>
+		<name>west-tonelle</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">west-tonelle</SimpleData>
+<SimpleData name="LineName">HBLR: Tonelle Ave - West Side Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.12</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.031263,40.78733,0
@@ -1104,9 +1232,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>HBLR: 8th St - Hoboken</name>
+		<name>8th-hoboken</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">8th-hoboken</SimpleData>
+<SimpleData name="LineName">HBLR: 8th St - Hoboken</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.39</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.029192,40.734059,0
@@ -1128,9 +1263,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>508: Atlantic City - Richard Stockton - Hamilton Mall</name>
+		<name>508</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">508</SimpleData>
+<SimpleData name="LineName">508: Atlantic City - Richard Stockton - Hamilton Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.37</SimpleData>
+<SimpleData name="LineEDI">2.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.426682,39.3628,0
@@ -1208,9 +1350,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>452: Camden - 36th Street</name>
+		<name>452</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 7.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">452</SimpleData>
+<SimpleData name="LineName">452: Camden - 36th Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.39</SimpleData>
+<SimpleData name="LineEDI">7.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.078593,39.961557,0
@@ -1269,9 +1418,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>153: Fairview - Fort Lee - New York</name>
+		<name>153</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">153</SimpleData>
+<SimpleData name="LineName">153: Fairview - Fort Lee - New York</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.86</SimpleData>
+<SimpleData name="LineEDI">2.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.990571,40.821687,0
@@ -1306,9 +1462,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Port Jervis Line</name>
+		<name>Port Jervis</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">Port Jervis</SimpleData>
+<SimpleData name="LineName">Port Jervis Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">85.16</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.694622,41.374899,0
@@ -1340,9 +1503,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Jersey City - Journal Sq - Secaucus</name>
+		<name>2</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 4.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Jersey City - Journal Sq - Secaucus</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.29</SimpleData>
+<SimpleData name="LineEDI">4.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.07487,40.761459,0
@@ -1401,9 +1571,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>613: Mercer Mall - Hamilton Sq - Yardville</name>
+		<name>613</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">613</SimpleData>
+<SimpleData name="LineName">613: Mercer Mall - Hamilton Sq - Yardville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.88</SimpleData>
+<SimpleData name="LineEDI">2.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.635013,40.199969,0
@@ -1483,9 +1660,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>160: Elmwood Park - Wallington - New York</name>
+		<name>160</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">160</SimpleData>
+<SimpleData name="LineName">160: Elmwood Park - Wallington - New York</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.26</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.115601,40.899379,0
@@ -1560,9 +1744,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>610: Princeton Seasonal</name>
+		<name>610</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 4.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">610</SimpleData>
+<SimpleData name="LineName">610: Princeton Seasonal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.68</SimpleData>
+<SimpleData name="LineEDI">4.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.655882,40.3611,0
@@ -1583,9 +1774,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>756: Englewood Cliffs - Fort Lee - Paramus</name>
+		<name>756</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">756</SimpleData>
+<SimpleData name="LineName">756: Englewood Cliffs - Fort Lee - Paramus</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.94</SimpleData>
+<SimpleData name="LineEDI">2.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.084382,40.947658,0
@@ -1672,9 +1870,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>891: Heckman</name>
+		<name>891</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 2.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">891</SimpleData>
+<SimpleData name="LineName">891: Heckman</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.18</SimpleData>
+<SimpleData name="LineEDI">2.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.144899,40.674255,0
@@ -1709,9 +1914,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>890: South Main Street</name>
+		<name>890</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.92</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">890</SimpleData>
+<SimpleData name="LineName">890: South Main Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.79</SimpleData>
+<SimpleData name="LineEDI">1.92</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.209163,40.689398,0
@@ -1743,9 +1955,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89: North Bergen - Hoboken</name>
+		<name>89</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">89</SimpleData>
+<SimpleData name="LineName">89: North Bergen - Hoboken</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.43</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.002303,40.808109,0
@@ -1796,9 +2015,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>319: New York - Atlantic City - Wildwood - Cape May</name>
+		<name>319</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">319</SimpleData>
+<SimpleData name="LineName">319: New York - Atlantic City - Wildwood - Cape May</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">146.07</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.822833,38.986509,0
@@ -1849,9 +2075,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>753: New Milford - Paramus</name>
+		<name>753-new-milford</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: to New Milford<br/>Agency: nj-njt<br/>EDI: 4.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">753-new-milford</SimpleData>
+<SimpleData name="LineName">753: New Milford - Paramus</SimpleData>
+<SimpleData name="LineBranch">to New Milford</SimpleData>
+<SimpleData name="LineLength">11.44</SimpleData>
+<SimpleData name="LineEDI">4.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.062152,40.915698,0
@@ -1937,9 +2170,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>753: New Milford - Paramus</name>
+		<name>753-cresskill</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Cresskill<br/>Agency: nj-njt<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">753-cresskill</SimpleData>
+<SimpleData name="LineName">753: New Milford - Paramus</SimpleData>
+<SimpleData name="LineBranch">to Cresskill</SimpleData>
+<SimpleData name="LineLength">12.0</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.062152,40.915698,0
@@ -2031,9 +2271,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>402: Woodbury - Philadelphia</name>
+		<name>402</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">402</SimpleData>
+<SimpleData name="LineName">402: Woodbury - Philadelphia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">42.73</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.516523,39.640228,0
@@ -2162,9 +2409,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>317: Asbury Park - Fort Dix - Philadelphia</name>
+		<name>317</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">317</SimpleData>
+<SimpleData name="LineName">317: Asbury Park - Fort Dix - Philadelphia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">82.23</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-74.014011,40.215838,0
@@ -2320,9 +2574,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>403: Camden - Lindenwold - Turnersville</name>
+		<name>403</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: nj-njt<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">403</SimpleData>
+<SimpleData name="LineName">403: Camden - Lindenwold - Turnersville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.43</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-75.032572,39.727648,0

@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>md-pg routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>37: Camp Springs / Southern Ave</name>
+		<name>37</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 2.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">37</SimpleData>
+<SimpleData name="LineName">37: Camp Springs / Southern Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.54</SimpleData>
+<SimpleData name="LineEDI">2.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.905041,38.801593,0
@@ -108,9 +117,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Clinton / Brandywine</name>
+		<name>36</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Clinton / Brandywine</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.55</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872651,38.671639,0
@@ -131,9 +147,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Southern Ave / National Harbor / Camp Springs</name>
+		<name>35</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 3.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Southern Ave / National Harbor / Camp Springs</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.81</SimpleData>
+<SimpleData name="LineEDI">3.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.975372,38.840658,0
@@ -194,9 +217,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Suitland Metro</name>
+		<name>34</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: Suitland Metro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.06</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.93251,38.84467,0
@@ -214,9 +244,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Southern Ave / Camp Springs</name>
+		<name>33</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 2.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Southern Ave / Camp Springs</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.52</SimpleData>
+<SimpleData name="LineEDI">2.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.905017,38.801803,0
@@ -280,9 +317,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Naylor Rd / Clinton</name>
+		<name>32</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Naylor Rd / Clinton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.97</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.885142,38.766071,0
@@ -346,9 +390,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Branch Ave / Southern Maryland Hospital</name>
+		<name>30</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Branch Ave / Southern Maryland Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.6</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.877158,38.748844,0
@@ -396,9 +447,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26: Largo / Morgan</name>
+		<name>26</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 6.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">26</SimpleData>
+<SimpleData name="LineName">26: Largo / Morgan</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.79</SimpleData>
+<SimpleData name="LineEDI">6.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.846156,38.900272,0
@@ -434,9 +492,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Capitol Heights / Morgan</name>
+		<name>24</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 4.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Capitol Heights / Morgan</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.66</SimpleData>
+<SimpleData name="LineEDI">4.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.867385,38.892975,0
@@ -508,9 +573,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21x: New Carrollton / MVA</name>
+		<name>21x</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">21x</SimpleData>
+<SimpleData name="LineName">21x: New Carrollton / MVA</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.4</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.828657,38.897228,0
@@ -526,9 +598,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: New Carrollton / Upper Marlboro</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: New Carrollton / Upper Marlboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.15</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.749703,38.81477,0
@@ -593,9 +672,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Addison Rd / Upper Marlboro</name>
+		<name>20</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Addison Rd / Upper Marlboro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.5</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.748652,38.816727,0
@@ -649,9 +735,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Langley Park / Addison Rd</name>
+		<name>18</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Langley Park / Addison Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.76</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.89566,38.885672,0
@@ -747,9 +840,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: College Park</name>
+		<name>17</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: College Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.0</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.960057,38.936641,0
@@ -796,9 +896,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: New Carrollton / Greenbelt</name>
+		<name>16</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.94</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: New Carrollton / Greenbelt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.37</SimpleData>
+<SimpleData name="LineEDI">1.94</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872238,38.94866,0
@@ -855,9 +962,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15x: New Carrollton / Greenbelt</name>
+		<name>15x</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">15x</SimpleData>
+<SimpleData name="LineName">15x: New Carrollton / Greenbelt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.26</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.872238,38.94866,0
@@ -870,9 +984,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Greenbelt</name>
+		<name>11</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 1.73</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Greenbelt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.83</SimpleData>
+<SimpleData name="LineEDI">1.73</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.910176,39.011528,0
@@ -908,9 +1029,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: Seat Pleasant</name>
+		<name>23</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-pg<br/>EDI: 3.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-pg</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Seat Pleasant</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.99</SimpleData>
+<SimpleData name="LineEDI">3.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.89566,38.885672,0

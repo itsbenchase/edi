@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>co-rtd routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>FF3: Denver - Broomfield</name>
+		<name>FF3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">FF3</SimpleData>
+<SimpleData name="LineName">FF3: Denver - Broomfield</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.77</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.085189,39.906116,0
@@ -65,9 +74,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FF5: Boulder - Anschutz</name>
+		<name>FF5</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">FF5</SimpleData>
+<SimpleData name="LineName">FF5: Boulder - Anschutz</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">33.02</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276458,40.016794,0
@@ -96,9 +112,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FF2: Denver - Boulder Station Express</name>
+		<name>FF2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">FF2</SimpleData>
+<SimpleData name="LineName">FF2: Denver - Boulder Station Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.19</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276563,40.017105,0
@@ -114,9 +137,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>FF1: Denver - Boulder Station</name>
+		<name>FF1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">FF1</SimpleData>
+<SimpleData name="LineName">FF1: Denver - Boulder Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.66</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276595,40.017238,0
@@ -136,9 +166,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>RX: Brighton / Denver Express</name>
+		<name>RX</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">RX</SimpleData>
+<SimpleData name="LineName">RX: Brighton / Denver Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.49</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.823124,39.984322,0
@@ -155,9 +192,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P: Parker / Denver</name>
+		<name>P</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">P</SimpleData>
+<SimpleData name="LineName">P: Parker / Denver</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.78</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.756483,39.456877,0
@@ -180,9 +224,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB2: Eldora / Nederland / Boulder</name>
+		<name>NB2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">NB2</SimpleData>
+<SimpleData name="LineName">NB2: Eldora / Nederland / Boulder</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.7</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276458,40.016794,0
@@ -209,9 +260,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>NB1: Eldora / Nederland / Boulder</name>
+		<name>NB1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">NB1</SimpleData>
+<SimpleData name="LineName">NB1: Eldora / Nederland / Boulder</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.0</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276458,40.016794,0
@@ -240,9 +298,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>GS: Golden / Boulder</name>
+		<name>GS</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">GS</SimpleData>
+<SimpleData name="LineName">GS: Golden / Boulder</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.63</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.1284,39.719619,0
@@ -288,9 +353,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>EV: Evergreen / Denver</name>
+		<name>EV</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">EV</SimpleData>
+<SimpleData name="LineName">EV: Evergreen / Denver</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">25.93</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.3317,39.638777,0
@@ -311,9 +383,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>LD3: Longmont / Denver</name>
+		<name>LD3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">LD3</SimpleData>
+<SimpleData name="LineName">LD3: Longmont / Denver</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.44</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.086231,39.906569,0
@@ -356,9 +435,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>LD1: Longmont / Denver</name>
+		<name>LD1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">LD1</SimpleData>
+<SimpleData name="LineName">LD1: Longmont / Denver</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">32.49</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.001205,39.754149,0
@@ -404,9 +490,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>CV: Pine Junction / Conifer / Denver</name>
+		<name>CV</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">CV</SimpleData>
+<SimpleData name="LineName">CV: Pine Junction / Conifer / Denver</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">31.29</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.986693,39.741183,0
@@ -421,9 +514,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>BOLT: Boulder / Longmont</name>
+		<name>BOLT</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">BOLT</SimpleData>
+<SimpleData name="LineName">BOLT: Boulder / Longmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.31</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276486,40.016865,0
@@ -464,9 +564,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>145X: Brighton / Denver Airport</name>
+		<name>145X</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">145X</SimpleData>
+<SimpleData name="LineName">145X: Brighton / Denver Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.96</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.823124,39.984322,0
@@ -486,9 +593,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120X: Wagon Road / Thornton Express</name>
+		<name>120X</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">120X</SimpleData>
+<SimpleData name="LineName">120X: Wagon Road / Thornton Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.16</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.994614,39.912483,0
@@ -500,9 +614,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>116X: South Simms Express</name>
+		<name>116X</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">116X</SimpleData>
+<SimpleData name="LineName">116X: South Simms Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.95</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.162837,39.575644,0
@@ -539,9 +660,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>SKIP: Broadway</name>
+		<name>SKIP</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">SKIP</SimpleData>
+<SimpleData name="LineName">SKIP: Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.2</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.282297,40.06284,0
@@ -587,9 +715,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>JUMP: Boulder / Lafayette via Araphoe</name>
+		<name>JUMP-lafayette</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Lafayette<br/>Agency: co-rtd<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">JUMP-lafayette</SimpleData>
+<SimpleData name="LineName">JUMP: Boulder / Lafayette via Araphoe</SimpleData>
+<SimpleData name="LineBranch">to Lafayette</SimpleData>
+<SimpleData name="LineLength">12.78</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276845,40.017263,0
@@ -652,9 +787,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>JUMP: Boulder / Lafayette via Araphoe</name>
+		<name>JUMP-erie</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Erie Community Center<br/>Agency: co-rtd<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">JUMP-erie</SimpleData>
+<SimpleData name="LineName">JUMP: Boulder / Lafayette via Araphoe</SimpleData>
+<SimpleData name="LineBranch">to Erie Community Center</SimpleData>
+<SimpleData name="LineLength">12.97</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276845,40.017263,0
@@ -709,9 +851,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>JUMP: Boulder / Lafayette via Arapahoe</name>
+		<name>JUMP-bvsd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to BVSD<br/>Agency: co-rtd<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">JUMP-bvsd</SimpleData>
+<SimpleData name="LineName">JUMP: Boulder / Lafayette via Arapahoe</SimpleData>
+<SimpleData name="LineBranch">to BVSD</SimpleData>
+<SimpleData name="LineLength">4.24</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276845,40.017263,0
@@ -744,9 +893,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>DASH: Boulder / Lafayette via Louisville</name>
+		<name>DASH-manhattan</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Manhattan<br/>Agency: co-rtd<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">DASH-manhattan</SimpleData>
+<SimpleData name="LineName">DASH: Boulder / Lafayette via Louisville</SimpleData>
+<SimpleData name="LineBranch">to Manhattan</SimpleData>
+<SimpleData name="LineLength">3.98</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.27697,40.01698,0
@@ -770,9 +926,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>DASH: Boulder / Lafayette via Louisville</name>
+		<name>DASH-louisville</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Louisville<br/>Agency: co-rtd<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">DASH-louisville</SimpleData>
+<SimpleData name="LineName">DASH: Boulder / Lafayette via Louisville</SimpleData>
+<SimpleData name="LineBranch">to Louisville</SimpleData>
+<SimpleData name="LineLength">13.6</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.27697,40.01698,0
@@ -833,9 +996,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Bound: 30th Street</name>
+		<name>Bound</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">Bound</SimpleData>
+<SimpleData name="LineName">Bound: 30th Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.29</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.258283,40.035155,0
@@ -863,9 +1033,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>520: Brighton</name>
+		<name>520</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">520</SimpleData>
+<SimpleData name="LineName">520: Brighton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.37</SimpleData>
+<SimpleData name="LineEDI">2.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.823124,39.984322,0
@@ -897,9 +1074,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>483: Parker Road - Lincoln Ave</name>
+		<name>483</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">483</SimpleData>
+<SimpleData name="LineName">483: Parker Road - Lincoln Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.02</SimpleData>
+<SimpleData name="LineEDI">2.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.869653,39.544941,0
@@ -952,9 +1136,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>402L: Highlands Ranch Parkway</name>
+		<name>402L</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">402L</SimpleData>
+<SimpleData name="LineName">402L: Highlands Ranch Parkway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.84</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.025656,39.580822,0
@@ -1005,9 +1196,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>327: Eastside Crosstown</name>
+		<name>327</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">327</SimpleData>
+<SimpleData name="LineName">327: Eastside Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.8</SimpleData>
+<SimpleData name="LineEDI">1.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.103926,40.171248,0
@@ -1037,9 +1235,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>326: Westside Crosstown</name>
+		<name>326</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">326</SimpleData>
+<SimpleData name="LineName">326: Westside Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.45</SimpleData>
+<SimpleData name="LineEDI">2.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.103927,40.171479,0
@@ -1080,9 +1285,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>324: Main Street</name>
+		<name>324</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">324</SimpleData>
+<SimpleData name="LineName">324: Main Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.24</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.163934,40.151804,0
@@ -1131,9 +1343,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>323: Skyline Crosstown</name>
+		<name>323</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.97</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">323</SimpleData>
+<SimpleData name="LineName">323: Skyline Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.99</SimpleData>
+<SimpleData name="LineEDI">1.97</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.134993,40.152076,0
@@ -1180,9 +1399,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>228: Lafayette / Louisville / Broomfield</name>
+		<name>228F</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: F: via 95th St<br/>Agency: co-rtd<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">228F</SimpleData>
+<SimpleData name="LineName">228: Lafayette / Louisville / Broomfield</SimpleData>
+<SimpleData name="LineBranch">F: via 95th St</SimpleData>
+<SimpleData name="LineLength">9.11</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.123462,39.932492,0
@@ -1223,9 +1449,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>228: Lafayette / Louisville / Broomfield</name>
+		<name>228A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: A: via Baseline<br/>Agency: co-rtd<br/>EDI: 1.9</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">228A</SimpleData>
+<SimpleData name="LineName">228: Lafayette / Louisville / Broomfield</SimpleData>
+<SimpleData name="LineBranch">A: via Baseline</SimpleData>
+<SimpleData name="LineLength">9.26</SimpleData>
+<SimpleData name="LineEDI">1.9</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.123462,39.932492,0
@@ -1268,9 +1501,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225: Boulder / Lafayette via Baseline</name>
+		<name>225T</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: T: via Tenino<br/>Agency: co-rtd<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">225T</SimpleData>
+<SimpleData name="LineName">225: Boulder / Lafayette via Baseline</SimpleData>
+<SimpleData name="LineBranch">T: via Tenino</SimpleData>
+<SimpleData name="LineLength">12.07</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276837,40.016598,0
@@ -1326,9 +1566,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225: Boulder / Lafayette via Baseline</name>
+		<name>225D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: via Diamond Cir<br/>Agency: co-rtd<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">225D</SimpleData>
+<SimpleData name="LineName">225: Boulder / Lafayette via Baseline</SimpleData>
+<SimpleData name="LineBranch">D: via Diamond Cir</SimpleData>
+<SimpleData name="LineLength">11.98</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276837,40.016598,0
@@ -1381,9 +1628,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>225: Boulder / Lafayette via Baseline</name>
+		<name>225</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">225</SimpleData>
+<SimpleData name="LineName">225: Boulder / Lafayette via Baseline</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.65</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276837,40.016598,0
@@ -1435,9 +1689,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>208: Iris / Valmont</name>
+		<name>208</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">208</SimpleData>
+<SimpleData name="LineName">208: Iris / Valmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.7</SimpleData>
+<SimpleData name="LineEDI">2.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.277025,40.017132,0
@@ -1477,9 +1738,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>206: Conestoga / Arapahoe / Fairview HS</name>
+		<name>206</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">206</SimpleData>
+<SimpleData name="LineName">206: Conestoga / Arapahoe / Fairview HS</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.71</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.228538,40.014784,0
@@ -1512,9 +1780,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>205: 28th St / Gunbarrel</name>
+		<name>205</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">205</SimpleData>
+<SimpleData name="LineName">205: 28th St / Gunbarrel</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.84</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.276789,40.017049,0
@@ -1555,9 +1830,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>204: Table Mesa / Moorhead / North 19th</name>
+		<name>204</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">204</SimpleData>
+<SimpleData name="LineName">204: Table Mesa / Moorhead / North 19th</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.26</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.282297,40.06284,0
@@ -1611,9 +1893,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>169L: Buckley / Tower DIA Limited</name>
+		<name>169L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">169L</SimpleData>
+<SimpleData name="LineName">169L: Buckley / Tower DIA Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.26</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.795198,39.627187,0
@@ -1678,9 +1967,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>169: Buckley Road</name>
+		<name>169</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">169</SimpleData>
+<SimpleData name="LineName">169: Buckley Road</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.02</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.887987,39.60131,0
@@ -1754,9 +2050,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>153: Chambers Road</name>
+		<name>153</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">153</SimpleData>
+<SimpleData name="LineName">153: Chambers Road</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.86</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.887642,39.600944,0
@@ -1847,9 +2150,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>139: Quincy Avenue</name>
+		<name>139</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">139</SimpleData>
+<SimpleData name="LineName">139: Quincy Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.29</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.846093,39.657624,0
@@ -1896,9 +2206,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>135: Smoky Hill Road</name>
+		<name>135</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">135</SimpleData>
+<SimpleData name="LineName">135: Smoky Hill Road</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.48</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.846093,39.657624,0
@@ -1937,9 +2254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>133: Hampden / Tower</name>
+		<name>133</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">133</SimpleData>
+<SimpleData name="LineName">133: Hampden / Tower</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.62</SimpleData>
+<SimpleData name="LineEDI">2.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.845921,39.657749,0
@@ -1993,9 +2317,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>130: Yale / Buckley</name>
+		<name>130</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">130</SimpleData>
+<SimpleData name="LineName">130: Yale / Buckley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.99</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.845611,39.657886,0
@@ -2040,9 +2371,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>121: Peoria Street</name>
+		<name>121</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">121</SimpleData>
+<SimpleData name="LineName">121: Peoria Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.22</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.846298,39.657911,0
@@ -2123,9 +2461,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120L: 120th Avenue Limited</name>
+		<name>120L</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">120L</SimpleData>
+<SimpleData name="LineName">120L: 120th Avenue Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.08</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.962881,39.922991,0
@@ -2159,9 +2504,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120: 120th Avenue</name>
+		<name>120-W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: W: to Wagon Rd<br/>Agency: co-rtd<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">120-W</SimpleData>
+<SimpleData name="LineName">120: 120th Avenue</SimpleData>
+<SimpleData name="LineBranch">W: to Wagon Rd</SimpleData>
+<SimpleData name="LineLength">6.2</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.086177,39.906799,0
@@ -2185,9 +2537,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120: 120th Avenue</name>
+		<name>120-E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: E: to Eastlake - 124th<br/>Agency: co-rtd<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">120-E</SimpleData>
+<SimpleData name="LineName">120: 120th Avenue</SimpleData>
+<SimpleData name="LineBranch">E: to Eastlake - 124th</SimpleData>
+<SimpleData name="LineLength">8.61</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.086177,39.906799,0
@@ -2219,9 +2578,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>112: West 112th Avenue</name>
+		<name>112</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">112</SimpleData>
+<SimpleData name="LineName">112: West 112th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.23</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.086255,39.906219,0
@@ -2252,9 +2618,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: Havana Street</name>
+		<name>105</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">105</SimpleData>
+<SimpleData name="LineName">105: Havana Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.78</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.914929,39.64873,0
@@ -2309,9 +2682,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104L: Wagon Road / Denver Airport Limited</name>
+		<name>104L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">104L</SimpleData>
+<SimpleData name="LineName">104L: Wagon Road / Denver Airport Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.05</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.994002,39.912258,0
@@ -2334,9 +2714,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>100: Kipling Street</name>
+		<name>100</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">100</SimpleData>
+<SimpleData name="LineName">100: Kipling Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.87</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.129191,39.719622,0
@@ -2412,9 +2799,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>99: South Kipling Street</name>
+		<name>99</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">99</SimpleData>
+<SimpleData name="LineName">99: South Kipling Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.84</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.083058,39.611262,0
@@ -2462,9 +2856,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>93L: N Colorado Blvd Limited</name>
+		<name>93L</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">93L</SimpleData>
+<SimpleData name="LineName">93L: N Colorado Blvd Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.49</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.986388,39.855285,0
@@ -2515,9 +2916,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: 92nd Avenue</name>
+		<name>92</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">92</SimpleData>
+<SimpleData name="LineName">92: 92nd Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.21</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.953082,39.858712,0
@@ -2573,9 +2981,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88L: Thornton / Commerce City Limited</name>
+		<name>88L</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">88L</SimpleData>
+<SimpleData name="LineName">88L: Thornton / Commerce City Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.33</SimpleData>
+<SimpleData name="LineEDI">2.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.942665,39.825727,0
@@ -2612,9 +3027,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88: Central Park / 72nd Ave Station</name>
+		<name>88</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">88</SimpleData>
+<SimpleData name="LineName">88: Central Park / 72nd Ave Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.6</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.891287,39.770005,0
@@ -2660,9 +3082,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83L: Cherry Creek / Parker Rd Limited</name>
+		<name>83L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">83L</SimpleData>
+<SimpleData name="LineName">83L: Cherry Creek / Parker Rd Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.59</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.986746,39.740774,0
@@ -2704,9 +3133,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83D: Cherry Creek / Parker Rd Limited</name>
+		<name>83D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">83D</SimpleData>
+<SimpleData name="LineName">83D: Cherry Creek / Parker Rd Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.98</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.986746,39.740774,0
@@ -2753,9 +3189,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76: Wadsworth Blvd</name>
+		<name>76</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">76</SimpleData>
+<SimpleData name="LineName">76: Wadsworth Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.56</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.083058,39.611262,0
@@ -2851,9 +3294,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73: Quebec Street</name>
+		<name>73</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">73</SimpleData>
+<SimpleData name="LineName">73: Quebec Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.75</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.904545,39.627557,0
@@ -2911,9 +3361,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72: 72nd Avenue</name>
+		<name>72</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">72</SimpleData>
+<SimpleData name="LineName">72: 72nd Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.49</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.142659,39.811858,0
@@ -2981,9 +3438,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Arapahoe Road</name>
+		<name>66</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">66</SimpleData>
+<SimpleData name="LineName">66: Arapahoe Road</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.21</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.018723,39.608916,0
@@ -3034,9 +3498,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65: Monaco Parkway</name>
+		<name>65</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">65</SimpleData>
+<SimpleData name="LineName">65: Monaco Parkway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.81</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.898641,39.632408,0
@@ -3093,9 +3564,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59: West Bowles</name>
+		<name>59</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">59</SimpleData>
+<SimpleData name="LineName">59: West Bowles</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.91</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.14815,39.607505,0
@@ -3140,9 +3618,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: West 52nd Avenue / South Bannock</name>
+		<name>52</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">52</SimpleData>
+<SimpleData name="LineName">52: West 52nd Avenue / South Bannock</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.66</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.139898,39.812596,0
@@ -3235,9 +3720,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Sheridan Blvd</name>
+		<name>51</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Sheridan Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.68</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.999244,39.656478,0
@@ -3330,9 +3822,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49: Denver / Commerce City</name>
+		<name>49</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">49</SimpleData>
+<SimpleData name="LineName">49: Denver / Commerce City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.69</SimpleData>
+<SimpleData name="LineEDI">2.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.942596,39.775904,0
@@ -3384,9 +3883,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48: East 48th Avenue / Commerce City</name>
+		<name>48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">48</SimpleData>
+<SimpleData name="LineName">48: East 48th Avenue / Commerce City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.72</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.928854,39.805452,0
@@ -3424,9 +3930,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46: South Dahlia</name>
+		<name>46</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">46</SimpleData>
+<SimpleData name="LineName">46: South Dahlia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.08</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.948674,39.716429,0
@@ -3491,9 +4004,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Montbello via 51st / GVR</name>
+		<name>45</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.9</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Montbello via 51st / GVR</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.16</SimpleData>
+<SimpleData name="LineEDI">1.9</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.850639,39.766449,0
@@ -3554,9 +4074,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44: 44th Avenue</name>
+		<name>44</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">44</SimpleData>
+<SimpleData name="LineName">44: 44th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.74</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.132744,39.788316,0
@@ -3645,9 +4172,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Martin Luther King Blvd</name>
+		<name>43</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">43</SimpleData>
+<SimpleData name="LineName">43: Martin Luther King Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.86</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.004918,39.7472,0
@@ -3692,9 +4226,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Montbello via Albrook / GVR</name>
+		<name>42</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">42</SimpleData>
+<SimpleData name="LineName">42: Montbello via Albrook / GVR</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.7</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.890882,39.770017,0
@@ -3763,9 +4304,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Colorado Blvd</name>
+		<name>40</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: Colorado Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.55</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.914346,39.648718,0
@@ -3817,9 +4365,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: West 38th Avenue</name>
+		<name>38</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: West 38th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.08</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.133495,39.788102,0
@@ -3914,9 +4469,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Smith Road Industrial</name>
+		<name>37</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">37</SimpleData>
+<SimpleData name="LineName">37: Smith Road Industrial</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.52</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.943743,39.775395,0
@@ -3959,9 +4521,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Fort Logan</name>
+		<name>36</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Fort Logan</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.0</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.016043,39.611306,0
@@ -4007,9 +4576,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Hampden Avenue</name>
+		<name>35</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.91</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Hampden Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.91</SimpleData>
+<SimpleData name="LineEDI">1.91</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.092074,39.613745,0
@@ -4072,9 +4648,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: West 32nd Avenue</name>
+		<name>32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: West 32nd Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.61</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.080746,39.76203,0
@@ -4109,9 +4692,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Federal Blvd</name>
+		<name>31-front</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Front Range Community College<br/>Agency: co-rtd<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">31-front</SimpleData>
+<SimpleData name="LineName">31: Federal Blvd</SimpleData>
+<SimpleData name="LineBranch">to Front Range Community College</SimpleData>
+<SimpleData name="LineLength">16.33</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.020864,39.678723,0
@@ -4186,9 +4776,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Federal Blvd</name>
+		<name>31-melody</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to 106th / Melody<br/>Agency: co-rtd<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">31-melody</SimpleData>
+<SimpleData name="LineName">31: Federal Blvd</SimpleData>
+<SimpleData name="LineBranch">to 106th / Melody</SimpleData>
+<SimpleData name="LineLength">16.29</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.020864,39.678723,0
@@ -4264,9 +4861,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Federal Blvd</name>
+		<name>31-westminster</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Westminster Station<br/>Agency: co-rtd<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">31-westminster</SimpleData>
+<SimpleData name="LineName">31: Federal Blvd</SimpleData>
+<SimpleData name="LineBranch">to Westminster Station</SimpleData>
+<SimpleData name="LineLength">10.52</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.020864,39.678723,0
@@ -4318,9 +4922,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: South Federal Blvd</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: South Federal Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.25</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.083005,39.650534,0
@@ -4380,9 +4991,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: Riverbend</name>
+		<name>29</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: Riverbend</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.59</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.016043,39.611306,0
@@ -4419,9 +5037,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: 28th Avenue</name>
+		<name>28</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: 28th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.17</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.079771,39.754751,0
@@ -4504,9 +5129,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: University Blvd</name>
+		<name>24</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: University Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.28</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.961642,39.561527,0
@@ -4581,9 +5213,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Evans Avenue</name>
+		<name>21-pierson</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Pierson / Jewell<br/>Agency: co-rtd<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">21-pierson</SimpleData>
+<SimpleData name="LineName">21: Evans Avenue</SimpleData>
+<SimpleData name="LineBranch">to Pierson / Jewell</SimpleData>
+<SimpleData name="LineLength">18.81</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.817997,39.70798,0
@@ -4676,9 +5315,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Evans Avenue</name>
+		<name>21-evans</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Evans Station<br/>Agency: co-rtd<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">21-evans</SimpleData>
+<SimpleData name="LineName">21: Evans Avenue</SimpleData>
+<SimpleData name="LineBranch">to Evans Station</SimpleData>
+<SimpleData name="LineLength">11.63</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.817997,39.70798,0
@@ -4737,9 +5383,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: 20th Avenue</name>
+		<name>20-union</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Union Station<br/>Agency: co-rtd<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">20-union</SimpleData>
+<SimpleData name="LineName">20: 20th Avenue</SimpleData>
+<SimpleData name="LineBranch">to Union Station</SimpleData>
+<SimpleData name="LineLength">10.71</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.823047,39.74037,0
@@ -4803,9 +5456,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: 20th Avenue</name>
+		<name>20-nrel</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to NREL<br/>Agency: co-rtd<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">20-nrel</SimpleData>
+<SimpleData name="LineName">20: 20th Avenue</SimpleData>
+<SimpleData name="LineBranch">to NREL</SimpleData>
+<SimpleData name="LineLength">19.88</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.823047,39.74037,0
@@ -4912,9 +5572,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: North Pecos</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: North Pecos</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.23</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.994739,39.888627,0
@@ -4981,9 +5648,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Golden / Colfax</name>
+		<name>17</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: Golden / Colfax</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.47</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.222664,39.757805,0
@@ -5028,9 +5702,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: West Colfax Avenue</name>
+		<name>16</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: West Colfax Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.01</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.120309,39.73749,0
@@ -5071,9 +5752,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15L: East Colfax Limited</name>
+		<name>15L-billings</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Billings<br/>Agency: co-rtd<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">15L-billings</SimpleData>
+<SimpleData name="LineName">15L: East Colfax Limited</SimpleData>
+<SimpleData name="LineBranch">to Billings</SimpleData>
+<SimpleData name="LineLength">11.48</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.024308,39.735734,0
@@ -5111,9 +5799,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15L: East Colfax Limited</name>
+		<name>15L-aurora</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Aurora Metro Center<br/>Agency: co-rtd<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">15L-aurora</SimpleData>
+<SimpleData name="LineName">15L: East Colfax Limited</SimpleData>
+<SimpleData name="LineBranch">to Aurora Metro Center</SimpleData>
+<SimpleData name="LineLength">13.89</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.024308,39.735734,0
@@ -5164,9 +5859,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: East Colfax Avenue</name>
+		<name>15-tower</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Tower<br/>Agency: co-rtd<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">15-tower</SimpleData>
+<SimpleData name="LineName">15: East Colfax Avenue</SimpleData>
+<SimpleData name="LineBranch">to Tower</SimpleData>
+<SimpleData name="LineLength">13.79</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.002008,39.754489,0
@@ -5235,9 +5937,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: East Colfax Avenue</name>
+		<name>15-billings</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Billings<br/>Agency: co-rtd<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">15-billings</SimpleData>
+<SimpleData name="LineName">15: East Colfax Avenue</SimpleData>
+<SimpleData name="LineBranch">to Billings</SimpleData>
+<SimpleData name="LineLength">7.62</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.08606,39.710135,0
@@ -5286,9 +5995,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: West Florida Avenue</name>
+		<name>14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: West Florida Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.62</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.08606,39.710135,0
@@ -5337,9 +6053,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: South Downing</name>
+		<name>12-englewood</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Englewood Station<br/>Agency: co-rtd<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">12-englewood</SimpleData>
+<SimpleData name="LineName">12: South Downing</SimpleData>
+<SimpleData name="LineBranch">to Englewood Station</SimpleData>
+<SimpleData name="LineLength">10.24</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.973378,39.77055,0
@@ -5396,9 +6119,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: South Downing</name>
+		<name>12-colfax</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Colfax<br/>Agency: co-rtd<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">12-colfax</SimpleData>
+<SimpleData name="LineName">12: South Downing</SimpleData>
+<SimpleData name="LineBranch">to Colfax</SimpleData>
+<SimpleData name="LineLength">2.17</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.973378,39.77055,0
@@ -5419,9 +6149,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Mississippi Avenue</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Mississippi Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.88</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.81824,39.707982,0
@@ -5523,9 +6260,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: East 12th Avenue</name>
+		<name>10-clermont</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to 9th / Clermont<br/>Agency: co-rtd<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">10-clermont</SimpleData>
+<SimpleData name="LineName">10: East 12th Avenue</SimpleData>
+<SimpleData name="LineBranch">to 9th / Clermont</SimpleData>
+<SimpleData name="LineLength">4.71</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.002224,39.754666,0
@@ -5559,9 +6303,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: East 12th Avenue</name>
+		<name>10-billings</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Colfax / Billings<br/>Agency: co-rtd<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">10-billings</SimpleData>
+<SimpleData name="LineName">10: East 12th Avenue</SimpleData>
+<SimpleData name="LineBranch">to Colfax / Billings</SimpleData>
+<SimpleData name="LineLength">11.19</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.002224,39.754666,0
@@ -5627,9 +6378,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: West 10th Avenue</name>
+		<name>9</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: West 10th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.3</SimpleData>
+<SimpleData name="LineEDI">1.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.08606,39.710135,0
@@ -5684,9 +6442,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: North Broadway / Huron</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: North Broadway / Huron</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.37</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.986479,39.740811,0
@@ -5755,9 +6520,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: North Washington</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: North Washington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.36</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.973378,39.77055,0
@@ -5806,9 +6578,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: East 6th Avenue</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: East 6th Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.64</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.004918,39.7472,0
@@ -5881,9 +6660,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Morrison Road</name>
+		<name>4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Morrison Road</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.12</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.057201,39.67949,0
@@ -5914,9 +6700,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3L: East Alameda Limited</name>
+		<name>3L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">3L</SimpleData>
+<SimpleData name="LineName">3L: East Alameda Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.51</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.986746,39.740774,0
@@ -5956,9 +6749,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Alameda Avenue</name>
+		<name>3-aurora</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Aurora Metro Center<br/>Agency: co-rtd<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">3-aurora</SimpleData>
+<SimpleData name="LineName">3: Alameda Avenue</SimpleData>
+<SimpleData name="LineBranch">to Aurora Metro Center</SimpleData>
+<SimpleData name="LineLength">19.98</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.128682,39.719619,0
@@ -6062,9 +6862,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Alameda Avenue</name>
+		<name>3-alameda</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Alameda Station<br/>Agency: co-rtd<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">3-alameda</SimpleData>
+<SimpleData name="LineName">3: Alameda Avenue</SimpleData>
+<SimpleData name="LineBranch">to Alameda Station</SimpleData>
+<SimpleData name="LineLength">8.68</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.128682,39.719619,0
@@ -6112,9 +6919,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>0L: South Broadway Limited</name>
+		<name>0L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">0L</SimpleData>
+<SimpleData name="LineName">0L: South Broadway Limited</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.73</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.98708,39.740766,0
@@ -6128,9 +6942,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>0: South Broadway</name>
+		<name>0-highlands</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Highlands Ranch<br/>Agency: co-rtd<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">0-highlands</SimpleData>
+<SimpleData name="LineName">0: South Broadway</SimpleData>
+<SimpleData name="LineBranch">to Highlands Ranch</SimpleData>
+<SimpleData name="LineLength">16.28</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.001835,39.754355,0
@@ -6210,9 +7031,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>0: South Broadway</name>
+		<name>0-englewood</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Englewood Station<br/>Agency: co-rtd<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">0-englewood</SimpleData>
+<SimpleData name="LineName">0: South Broadway</SimpleData>
+<SimpleData name="LineBranch">to Englewood Station</SimpleData>
+<SimpleData name="LineLength">7.83</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.001835,39.754355,0
@@ -6255,9 +7083,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: West 1st Avenue</name>
+		<name>1</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 2.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: West 1st Avenue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.42</SimpleData>
+<SimpleData name="LineEDI">2.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.084986,39.707613,0
@@ -6320,9 +7155,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W: Union Station - Jefferson County Government Center</name>
+		<name>W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">W</SimpleData>
+<SimpleData name="LineName">W: Union Station - Jefferson County Government Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.25</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.201046,39.726318,0
@@ -6344,9 +7186,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R: Lincoln - Peoria</name>
+		<name>R</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">R</SimpleData>
+<SimpleData name="LineName">R: Lincoln - Peoria</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.95</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.82847,39.690358,0
@@ -6360,9 +7209,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>N: Union Station - Eastlake &amp; 124th</name>
+		<name>N</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">N</SimpleData>
+<SimpleData name="LineName">N: Union Station - Eastlake &amp; 124th</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.09</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.00108,39.753269,0
@@ -6376,9 +7232,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L: 30th &amp; Downing - 16th &amp; Stout</name>
+		<name>L</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">L</SimpleData>
+<SimpleData name="LineName">L: 30th &amp; Downing - 16th &amp; Stout</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.43</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.992421,39.744907,0
@@ -6391,9 +7254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H: 18th &amp; California - Florida</name>
+		<name>H</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">H</SimpleData>
+<SimpleData name="LineName">H: 18th &amp; California - Florida</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.02</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-104.828474,39.689534,0
@@ -6416,9 +7286,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G: Union Station - Wheat Ridge Ward</name>
+		<name>G</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">G</SimpleData>
+<SimpleData name="LineName">G: Union Station - Wheat Ridge Ward</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.53</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.132658,39.788077,0
@@ -6433,9 +7310,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E: Union Station - RidgeGate Parkway</name>
+		<name>E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">E</SimpleData>
+<SimpleData name="LineName">E: Union Station - RidgeGate Parkway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.35</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.003351,39.755125,0
@@ -6463,9 +7347,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D: 18th &amp; California - Littleton-Mineral</name>
+		<name>D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">D</SimpleData>
+<SimpleData name="LineName">D: 18th &amp; California - Littleton-Mineral</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.27</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.024812,39.580413,0
@@ -6484,9 +7375,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B: Union Station - Westminster</name>
+		<name>B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">B</SimpleData>
+<SimpleData name="LineName">B: Union Station - Westminster</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.34</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.028733,39.82239,0
@@ -6497,9 +7395,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A: Union Station - Denver Airport</name>
+		<name>A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: co-rtd<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">co-rtd</SimpleData>
+<SimpleData name="LineCode">A</SimpleData>
+<SimpleData name="LineName">A: Union Station - Denver Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.83</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-105.0002,39.753698,0

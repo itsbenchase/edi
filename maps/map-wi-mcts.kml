@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>wi-mcts routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>92: 92nd St</name>
+		<name>92</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">92</SimpleData>
+<SimpleData name="LineName">92: 92nd St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.24</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.02303,42.959373,0
@@ -136,9 +145,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88: Brown Deer Rd</name>
+		<name>88</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">88</SimpleData>
+<SimpleData name="LineName">88: Brown Deer Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.86</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.0638,43.163774,0
@@ -174,9 +190,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>81: Amazon - Oak Creek</name>
+		<name>81</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">81</SimpleData>
+<SimpleData name="LineName">81: Amazon - Oak Creek</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.09</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.928867,42.870752,0
@@ -199,9 +222,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: 6th St</name>
+		<name>80-matc</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to MATC<br/>Agency: wi-mcts<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">80-matc</SimpleData>
+<SimpleData name="LineName">80: 6th St</SimpleData>
+<SimpleData name="LineBranch">to MATC</SimpleData>
+<SimpleData name="LineLength">17.55</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.914767,42.925256,0
@@ -287,9 +317,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: 6th St</name>
+		<name>80-airport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Airport<br/>Agency: wi-mcts<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">80-airport</SimpleData>
+<SimpleData name="LineName">80: 6th St</SimpleData>
+<SimpleData name="LineBranch">to Airport</SimpleData>
+<SimpleData name="LineLength">15.78</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.903749,42.946007,0
@@ -369,9 +406,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76: 76th St</name>
+		<name>76-northway</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Northway<br/>Agency: wi-mcts<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">76-northway</SimpleData>
+<SimpleData name="LineName">76: 76th St</SimpleData>
+<SimpleData name="LineBranch">to Northway</SimpleData>
+<SimpleData name="LineLength">18.59</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.989925,42.942836,0
@@ -473,9 +517,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76: 76th St</name>
+		<name>76</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">76</SimpleData>
+<SimpleData name="LineName">76: 76th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.76</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.00641,42.955118,0
@@ -572,9 +623,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68: Port Washington Rd</name>
+		<name>68</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">68</SimpleData>
+<SimpleData name="LineName">68: Port Washington Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.43</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.897727,43.087318,0
@@ -614,9 +672,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Burleigh St</name>
+		<name>66-humboldt</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Humboldt<br/>Agency: wi-mcts<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">66-humboldt</SimpleData>
+<SimpleData name="LineName">66: Burleigh St</SimpleData>
+<SimpleData name="LineBranch">to Humboldt</SimpleData>
+<SimpleData name="LineLength">8.49</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.045699,43.066943,0
@@ -677,9 +742,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Burleigh St</name>
+		<name>66-uwm</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to UWM<br/>Agency: wi-mcts<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">66-uwm</SimpleData>
+<SimpleData name="LineName">66: Burleigh St</SimpleData>
+<SimpleData name="LineBranch">to UWM</SimpleData>
+<SimpleData name="LineLength">9.87</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.045699,43.066943,0
@@ -750,9 +822,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Silver Spring Dr</name>
+		<name>63</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">63</SimpleData>
+<SimpleData name="LineName">63: Silver Spring Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.43</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.055834,43.118804,0
@@ -799,9 +878,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: 60th St</name>
+		<name>60</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: 60th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.26</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.992225,43.178504,0
@@ -884,9 +970,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58: Villard Ave</name>
+		<name>58</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">58</SimpleData>
+<SimpleData name="LineName">58: Villard Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.93</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.054222,43.117072,0
@@ -932,9 +1025,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Walnut - Appleton</name>
+		<name>57</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Walnut - Appleton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.48</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.055834,43.118804,0
@@ -1002,9 +1102,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Greenfield - S 43rd</name>
+		<name>56</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 2.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">56</SimpleData>
+<SimpleData name="LineName">56: Greenfield - S 43rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.58</SimpleData>
+<SimpleData name="LineEDI">2.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.951752,42.978259,0
@@ -1049,9 +1156,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Layton Ave</name>
+		<name>55-lipton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Lipton<br/>Agency: wi-mcts<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">55-lipton</SimpleData>
+<SimpleData name="LineName">55: Layton Ave</SimpleData>
+<SimpleData name="LineBranch">to Lipton</SimpleData>
+<SimpleData name="LineLength">9.84</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.047264,42.958981,0
@@ -1101,9 +1215,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Layton Ave</name>
+		<name>55-lake</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Lake<br/>Agency: wi-mcts<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">55-lake</SimpleData>
+<SimpleData name="LineName">55: Layton Ave</SimpleData>
+<SimpleData name="LineBranch">to Lake</SimpleData>
+<SimpleData name="LineLength">11.96</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.047264,42.958981,0
@@ -1164,9 +1285,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Layton Ave</name>
+		<name>54</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">54</SimpleData>
+<SimpleData name="LineName">54: Layton Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.02</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.918717,42.981804,0
@@ -1226,9 +1354,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Lincoln Ave</name>
+		<name>53</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">53</SimpleData>
+<SimpleData name="LineName">53: Lincoln Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.09</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.053007,43.002502,0
@@ -1285,9 +1420,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Clement - Pennsylvania</name>
+		<name>52</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">52</SimpleData>
+<SimpleData name="LineName">52: Clement - Pennsylvania</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.76</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.84947,42.933491,0
@@ -1321,9 +1463,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Oklahoma Ave</name>
+		<name>51</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Oklahoma Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.65</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.067074,42.98847,0
@@ -1381,9 +1530,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: 35th St</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: 35th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.69</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.987768,42.959562,0
@@ -1462,9 +1618,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Hopkins - Congress</name>
+		<name>34</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: Hopkins - Congress</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.79</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.027784,43.09987,0
@@ -1519,9 +1682,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Vliet - 84th</name>
+		<name>33</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Vliet - 84th</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.87</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.010578,43.01121,0
@@ -1577,9 +1747,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: State - Highland</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: State - Highland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.81</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.045381,43.067166,0
@@ -1634,9 +1811,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: 108th St</name>
+		<name>28</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: 108th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.04</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.048104,42.937101,0
@@ -1698,9 +1882,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Forest Home - 16th</name>
+		<name>24</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Forest Home - 16th</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.09</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.00295,42.951534,0
@@ -1756,9 +1947,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Center St</name>
+		<name>22</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Center St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.28</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.065064,43.059829,0
@@ -1828,9 +2026,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: North Ave</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: North Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.96</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.045381,43.067166,0
@@ -1901,9 +2106,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: S 20th St</name>
+		<name>20</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: S 20th St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.22</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.950975,42.923972,0
@@ -1952,9 +2164,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: M.L. King / S 13th</name>
+		<name>19-zellman</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Zellman Ct<br/>Agency: wi-mcts<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">19-zellman</SimpleData>
+<SimpleData name="LineName">19: M.L. King / S 13th</SimpleData>
+<SimpleData name="LineBranch">to Zellman Ct</SimpleData>
+<SimpleData name="LineLength">15.61</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.932401,42.925234,0
@@ -2046,9 +2265,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: M.L. King / S 13th</name>
+		<name>19-target</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Target<br/>Agency: wi-mcts<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">19-target</SimpleData>
+<SimpleData name="LineName">19: M.L. King / S 13th</SimpleData>
+<SimpleData name="LineBranch">to Target</SimpleData>
+<SimpleData name="LineLength">19.53</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.917087,42.883121,0
@@ -2156,9 +2382,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: National - Greenfield</name>
+		<name>18-lapham</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Lapham<br/>Agency: wi-mcts<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">18-lapham</SimpleData>
+<SimpleData name="LineName">18: National - Greenfield</SimpleData>
+<SimpleData name="LineBranch">to Lapham</SimpleData>
+<SimpleData name="LineLength">8.39</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.046529,43.01315,0
@@ -2211,9 +2444,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: National - Greenfield</name>
+		<name>18-121st</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to 121st<br/>Agency: wi-mcts<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">18-121st</SimpleData>
+<SimpleData name="LineName">18: National - Greenfield</SimpleData>
+<SimpleData name="LineBranch">to 121st</SimpleData>
+<SimpleData name="LineLength">9.49</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.067096,43.019947,0
@@ -2272,9 +2512,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Holton - Kinnickinnic</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Holton - Kinnickinnic</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.41</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.86544,42.901854,0
@@ -2359,9 +2606,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Humboldt</name>
+		<name>14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Humboldt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.78</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.901341,43.039103,0
@@ -2417,9 +2671,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Teutonia</name>
+		<name>12</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Teutonia</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.1</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.917634,43.035342,0
@@ -2485,9 +2746,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Connect 1: Wisconsin Ave BRT</name>
+		<name>Connect 1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">Connect 1</SimpleData>
+<SimpleData name="LineName">Connect 1: Wisconsin Ave BRT</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.97</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.903405,43.039032,0
@@ -2511,9 +2779,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Sherman - Wisconsin</name>
+		<name>30</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 2.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Sherman - Wisconsin</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.42</SimpleData>
+<SimpleData name="LineEDI">2.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.966625,43.13336,0
@@ -2597,9 +2872,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Hampton Ave</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Hampton Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.75</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.066281,43.104585,0
@@ -2642,9 +2924,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red Line</name>
+		<name>Red</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">Red</SimpleData>
+<SimpleData name="LineName">Red Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.84</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-88.070064,43.087817,0
@@ -2703,9 +2992,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Purple Line</name>
+		<name>Purple</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">Purple</SimpleData>
+<SimpleData name="LineName">Purple Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.23</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.940929,42.904737,0
@@ -2785,9 +3081,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green Line</name>
+		<name>Green</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-mcts<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">Green</SimpleData>
+<SimpleData name="LineName">Green Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.37</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.91447,43.124013,0
@@ -2860,9 +3163,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Line</name>
+		<name>Blue-constance</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Constance<br/>Agency: wi-mcts<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">Blue-constance</SimpleData>
+<SimpleData name="LineName">Blue Line</SimpleData>
+<SimpleData name="LineBranch">to Constance</SimpleData>
+<SimpleData name="LineLength">6.56</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.917315,43.036094,0
@@ -2899,9 +3209,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Line</name>
+		<name>Blue-124th</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to 124th<br/>Agency: wi-mcts<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-mcts</SimpleData>
+<SimpleData name="LineCode">Blue-124th</SimpleData>
+<SimpleData name="LineName">Blue Line</SimpleData>
+<SimpleData name="LineBranch">to 124th</SimpleData>
+<SimpleData name="LineLength">13.75</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-87.917315,43.036094,0

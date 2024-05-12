@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ak-apm routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>92: Eagle River</name>
+		<name>92</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">92</SimpleData>
+<SimpleData name="LineName">92: Eagle River</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.37</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.894746,61.216564,0
@@ -72,9 +81,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91: Huffman</name>
+		<name>91</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">91</SimpleData>
+<SimpleData name="LineName">91: Huffman</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.7</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.871953,61.142763,0
@@ -93,9 +109,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Old Seward - West Anchorage</name>
+		<name>85</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">85</SimpleData>
+<SimpleData name="LineName">85: Old Seward - West Anchorage</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.88</SimpleData>
+<SimpleData name="LineEDI">1.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.887511,61.215198,0
@@ -155,9 +178,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65: Jewel Lake - Airport</name>
+		<name>65</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">65</SimpleData>
+<SimpleData name="LineName">65: Jewel Lake - Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.25</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.871953,61.142763,0
@@ -179,9 +209,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Lake Otis</name>
+		<name>55</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Lake Otis</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.58</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.871953,61.142763,0
@@ -210,9 +247,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Government Hill</name>
+		<name>41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: Government Hill</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.07</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.894746,61.216564,0
@@ -230,9 +274,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Spenard - Airport</name>
+		<name>40</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: Spenard - Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.49</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.887511,61.215198,0
@@ -269,9 +320,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Arctic</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Arctic</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.07</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -313,9 +371,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Northeast</name>
+		<name>31</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Northeast</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.48</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.821187,61.215517,0
@@ -366,9 +431,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Debarr</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Debarr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.01</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -403,9 +475,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Tudor</name>
+		<name>25</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 2.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">25</SimpleData>
+<SimpleData name="LineName">25: Tudor</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.62</SimpleData>
+<SimpleData name="LineEDI">2.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -467,9 +546,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Mountain View</name>
+		<name>20</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Mountain View</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.21</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.896763,61.216553,0
@@ -514,9 +600,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Senior Center</name>
+		<name>11</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Senior Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.55</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.894746,61.216564,0
@@ -541,9 +634,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Northern Lights</name>
+		<name>10</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ak-apm<br/>EDI: 2.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ak-apm</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Northern Lights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.94</SimpleData>
+<SimpleData name="LineEDI">2.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-149.887511,61.215198,0

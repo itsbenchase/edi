@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-lacmta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>761: Sylmar Station - E Line via Van Nuys Bl - Sepulveda Bl</name>
+		<name>761</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">761</SimpleData>
+<SimpleData name="LineName">761: Sylmar Station - E Line via Van Nuys Bl - Sepulveda Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.9</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.45085,34.293471,0
@@ -97,9 +106,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>754: Hollywood - Athens via Vermont Ave</name>
+		<name>754</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">754</SimpleData>
+<SimpleData name="LineName">754: Hollywood - Athens via Vermont Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.16</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.291321,33.924002,0
@@ -129,9 +145,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>690: Sunland - Sylmar</name>
+		<name>690</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">690</SimpleData>
+<SimpleData name="LineName">690: Sunland - Sylmar</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.08</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.301848,34.259538,0
@@ -182,9 +205,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>686: Altadena - Pasadena via Allen Av</name>
+		<name>686</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">686</SimpleData>
+<SimpleData name="LineName">686: Altadena - Pasadena via Allen Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.57</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.148752,34.141582,0
@@ -220,9 +250,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>665: Rose Hill Transit Center - Indiana &amp; Olympic via Eastern Av</name>
+		<name>665</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">665</SimpleData>
+<SimpleData name="LineName">665: Rose Hill Transit Center - Indiana &amp; Olympic via Eastern Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.6</SimpleData>
+<SimpleData name="LineEDI">1.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.198021,34.018148,0
@@ -267,9 +304,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>660: Del Mar Station - Altadena via Fair Oaks Shuttle</name>
+		<name>660</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">660</SimpleData>
+<SimpleData name="LineName">660: Del Mar Station - Altadena via Fair Oaks Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.46</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.14893,34.141335,0
@@ -299,9 +343,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>617: Beverly Dr - Burton Wy - Robertson Bl Shuttle</name>
+		<name>617</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 3.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">617</SimpleData>
+<SimpleData name="LineName">617: Beverly Dr - Burton Wy - Robertson Bl Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.88</SimpleData>
+<SimpleData name="LineEDI">3.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.389833,34.027547,0
@@ -349,9 +400,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>605: LAC+USC Medical Center - Boyle Heights Shuttle</name>
+		<name>605</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">605</SimpleData>
+<SimpleData name="LineName">605: LAC+USC Medical Center - Boyle Heights Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.74</SimpleData>
+<SimpleData name="LineEDI">1.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.206595,34.058748,0
@@ -382,9 +440,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>603: Glendale - Grand Station via Rampart St - Hoover St</name>
+		<name>603</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">603</SimpleData>
+<SimpleData name="LineName">603: Glendale - Grand Station via Rampart St - Hoover St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.51</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.264573,34.033195,0
@@ -453,9 +518,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>601: Warner Center Circulator</name>
+		<name>601</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 2.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">601</SimpleData>
+<SimpleData name="LineName">601: Warner Center Circulator</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.56</SimpleData>
+<SimpleData name="LineEDI">2.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.596471,34.190454,0
@@ -473,9 +545,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>577: El Monte Station - Long Beach VA Medical Center</name>
+		<name>577</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">577</SimpleData>
+<SimpleData name="LineName">577: El Monte Station - Long Beach VA Medical Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.72</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.118006,33.7752,0
@@ -488,9 +567,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>550: Exposition Park/USC – Harbor Gateway via Harbor Transitway</name>
+		<name>550</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">550</SimpleData>
+<SimpleData name="LineName">550: Exposition Park/USC – Harbor Gateway via Harbor Transitway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.6</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.287306,33.869338,0
@@ -511,9 +597,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501: North Hollywood - Pasadena Express</name>
+		<name>501</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">501</SimpleData>
+<SimpleData name="LineName">501: North Hollywood - Pasadena Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.74</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.375295,34.168829,0
@@ -535,9 +628,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>460: Downtown LA - Disneyland via Norwalk C Line Station</name>
+		<name>460</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">460</SimpleData>
+<SimpleData name="LineName">460: Downtown LA - Disneyland via Norwalk C Line Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">37.03</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-117.915914,33.810362,0
@@ -615,9 +715,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>294: Burbank Station - Sylmar Station via San Fernando Rd</name>
+		<name>294</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">294</SimpleData>
+<SimpleData name="LineName">294: Burbank Station - Sylmar Station via San Fernando Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.42</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.312829,34.179294,0
@@ -673,9 +780,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>287: El Monte Station - Arcadia Station via Santa Anita Av</name>
+		<name>287</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">287</SimpleData>
+<SimpleData name="LineName">287: El Monte Station - Arcadia Station via Santa Anita Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.37</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.084382,34.034472,0
@@ -742,9 +856,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>268: Sierra Madre Villa - El Monte via Baldwin Av</name>
+		<name>268</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">268</SimpleData>
+<SimpleData name="LineName">268: Sierra Madre Villa - El Monte via Baldwin Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.29</SimpleData>
+<SimpleData name="LineEDI">1.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.080921,34.148448,0
@@ -788,9 +909,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>267: Pasadena - El Monte Station via Del Mar Bl</name>
+		<name>267</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">267</SimpleData>
+<SimpleData name="LineName">267: Pasadena - El Monte Station via Del Mar Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.18</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.148822,34.149084,0
@@ -850,9 +978,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>266: Sierra Madre Villa - Lakewood Center Mall via Rosemead Bl</name>
+		<name>266</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">266</SimpleData>
+<SimpleData name="LineName">266: Sierra Madre Villa - Lakewood Center Mall via Rosemead Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.64</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.080921,34.148448,0
@@ -939,9 +1074,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>265: Pico Rivera - Lakewood Center Mall via Paramount Bl</name>
+		<name>265</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">265</SimpleData>
+<SimpleData name="LineName">265: Pico Rivera - Lakewood Center Mall via Paramount Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.14</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.142322,33.847548,0
@@ -1009,9 +1151,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>258: Highland Park / South Pasadena - Paramount via Fremont Av</name>
+		<name>258</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">258</SimpleData>
+<SimpleData name="LineName">258: Highland Park / South Pasadena - Paramount via Fremont Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.08</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.160211,33.887137,0
@@ -1100,9 +1249,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>256: Highland Park - Sierra Madre Villa via Ave 64 - Washington Bl</name>
+		<name>256</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.84</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">256</SimpleData>
+<SimpleData name="LineName">256: Highland Park - Sierra Madre Villa via Ave 64 - Washington Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.8</SimpleData>
+<SimpleData name="LineEDI">1.84</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.193355,34.110438,0
@@ -1168,9 +1324,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>244: Chatsworth Station - Ventura Bl via De Soto Av</name>
+		<name>244</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">244</SimpleData>
+<SimpleData name="LineName">244: Chatsworth Station - Ventura Bl via De Soto Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.55</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.588049,34.166665,0
@@ -1206,9 +1369,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>240: Northridge - Universal City via Reseda Bl - Ventura Bl</name>
+		<name>240</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">240</SimpleData>
+<SimpleData name="LineName">240: Northridge - Universal City via Reseda Bl - Ventura Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.51</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.363171,34.139051,0
@@ -1293,9 +1463,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>237: Encino - Granada Hill - North Hollywood via Woodley Av</name>
+		<name>237</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 2.98</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">237</SimpleData>
+<SimpleData name="LineName">237: Encino - Granada Hill - North Hollywood via Woodley Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.74</SimpleData>
+<SimpleData name="LineEDI">2.98</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.5221,34.163972,0
@@ -1400,9 +1577,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>246: San Pedro - Harbor Gateway Transit Center via Avalon Bl</name>
+		<name>246</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">246</SimpleData>
+<SimpleData name="LineName">246: San Pedro - Harbor Gateway Transit Center via Avalon Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.52</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.294531,33.707365,0
@@ -1481,9 +1665,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>720: Santa Monica - Downtown LA via Wilshire Bl</name>
+		<name>720</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">720</SimpleData>
+<SimpleData name="LineName">720: Santa Monica - Downtown LA via Wilshire Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.12</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.490199,34.013884,0
@@ -1520,9 +1711,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>602: Westwood - Pacific Palisades via Sunset Bl</name>
+		<name>602</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">602</SimpleData>
+<SimpleData name="LineName">602: Westwood - Pacific Palisades via Sunset Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.76</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.554291,34.039712,0
@@ -1583,9 +1781,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>489: Downtown LA - Temple City</name>
+		<name>489</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">489</SimpleData>
+<SimpleData name="LineName">489: Downtown LA - Temple City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.57</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.251345,34.063887,0
@@ -1628,9 +1833,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>487: Downtown LA - Sierra Madre Villa Station</name>
+		<name>487</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">487</SimpleData>
+<SimpleData name="LineName">487: Downtown LA - Sierra Madre Villa Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.91</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.251345,34.063887,0
@@ -1687,9 +1899,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>344: Harbor Gateway Transit Center - Palos Verdes via Hawthorne Bl</name>
+		<name>344</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.7</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">344</SimpleData>
+<SimpleData name="LineName">344: Harbor Gateway Transit Center - Palos Verdes via Hawthorne Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.36</SimpleData>
+<SimpleData name="LineEDI">1.7</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.287306,33.869338,0
@@ -1743,9 +1962,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>260: Pasadena - Artesia Station via Fair Oaks Av</name>
+		<name>260</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">260</SimpleData>
+<SimpleData name="LineName">260: Pasadena - Artesia Station via Fair Oaks Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.88</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.222832,33.875981,0
@@ -1847,9 +2073,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>251: Eagle Rock - Long Beach Bl via Eagle Rock Bl</name>
+		<name>251-long-beach</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Eagle Rock - Long Beach Bl<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">251-long-beach</SimpleData>
+<SimpleData name="LineName">251: Eagle Rock - Long Beach Bl via Eagle Rock Bl</SimpleData>
+<SimpleData name="LineBranch">Eagle Rock - Long Beach Bl</SimpleData>
+<SimpleData name="LineLength">19.22</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.20973,33.924444,0
@@ -1951,9 +2184,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>251: Eagle Rock - Long Beach Bl via Eagle Rock Bl</name>
+		<name>251-cypress</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Cypress Park<br/>Agency: ca-lacmta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">251-cypress</SimpleData>
+<SimpleData name="LineName">251: Eagle Rock - Long Beach Bl via Eagle Rock Bl</SimpleData>
+<SimpleData name="LineBranch">to Cypress Park</SimpleData>
+<SimpleData name="LineLength">14.08</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.20973,33.924444,0
@@ -2026,9 +2266,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>251: Eagle Rock - Long Beach Bl via Eagle Rock Bl</name>
+		<name>251-eagle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Eagle Rock<br/>Agency: ca-lacmta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">251-eagle</SimpleData>
+<SimpleData name="LineName">251: Eagle Rock - Long Beach Bl via Eagle Rock Bl</SimpleData>
+<SimpleData name="LineBranch">to Eagle Rock</SimpleData>
+<SimpleData name="LineLength">15.04</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.222972,33.963456,0
@@ -2110,9 +2357,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>234: Mission College - Sylmar - Sherman Oaks via Sepulveda Bl</name>
+		<name>234-sylmar</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Sylmar<br/>Agency: ca-lacmta<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">234-sylmar</SimpleData>
+<SimpleData name="LineName">234: Mission College - Sylmar - Sherman Oaks via Sepulveda Bl</SimpleData>
+<SimpleData name="LineBranch">to Sylmar</SimpleData>
+<SimpleData name="LineLength">10.84</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.466007,34.15429,0
@@ -2166,9 +2420,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>234: Mission College - Sylmar - Sherman Oaks via Sepulveda Bl</name>
+		<name>234-mission</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Mission College<br/>Agency: ca-lacmta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">234-mission</SimpleData>
+<SimpleData name="LineName">234: Mission College - Sylmar - Sherman Oaks via Sepulveda Bl</SimpleData>
+<SimpleData name="LineBranch">to Mission College</SimpleData>
+<SimpleData name="LineLength">15.36</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.466007,34.15429,0
@@ -2239,9 +2500,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>233: Lake View Terrace - Sherman Oaks via Van Nuys Bl</name>
+		<name>233</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">233</SimpleData>
+<SimpleData name="LineName">233: Lake View Terrace - Sherman Oaks via Van Nuys Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.57</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.446816,34.151713,0
@@ -2304,9 +2572,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>224: Sylmar - Universal City via San Fernando Rd &amp; Lankershim Bl</name>
+		<name>224</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">224</SimpleData>
+<SimpleData name="LineName">224: Sylmar - Universal City via San Fernando Rd &amp; Lankershim Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.52</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.446979,34.326157,0
@@ -2382,9 +2657,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>222: Lankershim/Tuxford - Hollywood via Hollywood Way &amp; Cahuenga Bl</name>
+		<name>222</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">222</SimpleData>
+<SimpleData name="LineName">222: Lankershim/Tuxford - Hollywood via Hollywood Way &amp; Cahuenga Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.53</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.387124,34.223183,0
@@ -2454,9 +2736,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>218: Studio City - Cedars Sinai Medical Center via Laurel Canyon Bl</name>
+		<name>218</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">218</SimpleData>
+<SimpleData name="LineName">218: Studio City - Cedars Sinai Medical Center via Laurel Canyon Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.08</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.378767,34.0749,0
@@ -2489,9 +2778,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>232: LAX City Bus Center - Long Beach - via Pacific Coast Hwy</name>
+		<name>232</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">232</SimpleData>
+<SimpleData name="LineName">232: LAX City Bus Center - Long Beach - via Pacific Coast Hwy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.46</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.191185,33.774073,0
@@ -2595,9 +2891,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>230: Sylmar Station - Studio City via Laurel Canyon Bl</name>
+		<name>230</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">230</SimpleData>
+<SimpleData name="LineName">230: Sylmar Station - Studio City via Laurel Canyon Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.93</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.45085,34.293471,0
@@ -2654,9 +2957,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>209: Expo/Crenshaw Station - Crenshaw C Line via Van Ness Av - Arlington Av</name>
+		<name>209</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">209</SimpleData>
+<SimpleData name="LineName">209: Expo/Crenshaw Station - Crenshaw C Line via Van Ness Av - Arlington Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.12</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.326359,33.900902,0
@@ -2709,9 +3019,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>206: Hollywood - Athens via Normandie Av</name>
+		<name>206</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">206</SimpleData>
+<SimpleData name="LineName">206: Hollywood - Athens via Normandie Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.0</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.291093,34.095667,0
@@ -2792,9 +3109,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>205: Willowbrook/Rosa Parks - San Pedro via Wilmington Av - Vermont Av</name>
+		<name>205</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.93</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">205</SimpleData>
+<SimpleData name="LineName">205: Willowbrook/Rosa Parks - San Pedro via Wilmington Av - Vermont Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">25.7</SimpleData>
+<SimpleData name="LineEDI">1.93</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.279702,33.738563,0
@@ -2910,9 +3234,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>204: Hollywood - Athens via Vermont Av</name>
+		<name>204</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">204</SimpleData>
+<SimpleData name="LineName">204: Hollywood - Athens via Vermont Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.35</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.291321,33.924002,0
@@ -2985,9 +3316,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>202: Willowbrook/Rosa Parks Station - Compton - Del Amo Station</name>
+		<name>202</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">202</SimpleData>
+<SimpleData name="LineName">202: Willowbrook/Rosa Parks Station - Compton - Del Amo Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.07</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.237983,33.928104,0
@@ -3030,9 +3368,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>217: Hollywood/Vine Station - La Cienega Station via Fairfax Av</name>
+		<name>217</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">217</SimpleData>
+<SimpleData name="LineName">217: Hollywood/Vine Station - La Cienega Station via Fairfax Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.73</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.370916,34.026183,0
@@ -3089,9 +3434,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>212: Hollywood/Vine Station - Hawthorne/Lennox Station via La Brea Av</name>
+		<name>212</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">212</SimpleData>
+<SimpleData name="LineName">212: Hollywood/Vine Station - Hawthorne/Lennox Station via La Brea Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.85</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.352435,33.932292,0
@@ -3167,9 +3519,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210: Hollywood/Vine Station - South Bay Galleria via Crenshaw Bl</name>
+		<name>210</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">210</SimpleData>
+<SimpleData name="LineName">210: Hollywood/Vine Station - South Bay Galleria via Crenshaw Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.3</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.357224,33.86818,0
@@ -3263,9 +3622,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>207: Hollywood - Athens via Western Av</name>
+		<name>207</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">207</SimpleData>
+<SimpleData name="LineName">207: Hollywood - Athens via Western Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.56</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.326342,33.925363,0
@@ -3337,9 +3703,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>182: Northeast LA - East Hollywood</name>
+		<name>182</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 2.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">182</SimpleData>
+<SimpleData name="LineName">182: Northeast LA - East Hollywood</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.62</SimpleData>
+<SimpleData name="LineEDI">2.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.288682,34.095756,0
@@ -3424,9 +3797,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>236: Sylmar - Encino via Balboa Bl - Rinaldi St</name>
+		<name>236</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">236</SimpleData>
+<SimpleData name="LineName">236: Sylmar - Encino via Balboa Bl - Rinaldi St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.65</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.500935,34.1603,0
@@ -3488,9 +3868,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>235: Sylmar - Encino via Balboa Bl - Glenoaks Bl</name>
+		<name>235</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">235</SimpleData>
+<SimpleData name="LineName">235: Sylmar - Encino via Balboa Bl - Glenoaks Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.16</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.500935,34.1603,0
@@ -3552,9 +3939,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>243: Devonshire St - Woodland Hills via Winnetka Av</name>
+		<name>243</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">243</SimpleData>
+<SimpleData name="LineName">243: Devonshire St - Woodland Hills via Winnetka Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.24</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.571238,34.257394,0
@@ -3596,9 +3990,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>242: Devonshire St - Woodland Hills via Tampa Av</name>
+		<name>242</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">242</SimpleData>
+<SimpleData name="LineName">242: Devonshire St - Woodland Hills via Tampa Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.6</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.566365,34.257145,0
@@ -3633,9 +4034,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>165: West Hills - Burbank via Vanowen St</name>
+		<name>165</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">165</SimpleData>
+<SimpleData name="LineName">165: West Hills - Burbank via Vanowen St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.31</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.642562,34.188003,0
@@ -3727,9 +4135,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>162: Woodland Hills - West Hills - North Hollywood via Sherman Way</name>
+		<name>162-woodland</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Woodland Hills<br/>Agency: ca-lacmta<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">162-woodland</SimpleData>
+<SimpleData name="LineName">162: Woodland Hills - West Hills - North Hollywood via Sherman Way</SimpleData>
+<SimpleData name="LineBranch">to Woodland Hills</SimpleData>
+<SimpleData name="LineLength">19.31</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.623139,34.16683,0
@@ -3814,9 +4229,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>162: Woodland Hills - West Hills - North Hollywood via Sherman Way</name>
+		<name>162-west</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to West Hills<br/>Agency: ca-lacmta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">162-west</SimpleData>
+<SimpleData name="LineName">162: Woodland Hills - West Hills - North Hollywood via Sherman Way</SimpleData>
+<SimpleData name="LineBranch">to West Hills</SimpleData>
+<SimpleData name="LineLength">17.4</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.62956,34.202511,0
@@ -3895,9 +4317,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>127: Harbor Freeway - Compton - Downey via Compton Bl - Broadway</name>
+		<name>127-downey</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Downey<br/>Agency: ca-lacmta<br/>EDI: 1.95</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">127-downey</SimpleData>
+<SimpleData name="LineName">127: Harbor Freeway - Compton - Downey via Compton Bl - Broadway</SimpleData>
+<SimpleData name="LineBranch">to Downey</SimpleData>
+<SimpleData name="LineLength">16.6</SimpleData>
+<SimpleData name="LineEDI">1.95</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.281838,33.927775,0
@@ -3979,9 +4408,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>127: Harbor Freeway - Compton - Downey via Compton Bl - Broadway</name>
+		<name>127-compton</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Compton<br/>Agency: ca-lacmta<br/>EDI: 1.67</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">127-compton</SimpleData>
+<SimpleData name="LineName">127: Harbor Freeway - Compton - Downey via Compton Bl - Broadway</SimpleData>
+<SimpleData name="LineBranch">to Compton</SimpleData>
+<SimpleData name="LineLength">6.58</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.281838,33.927775,0
@@ -4019,9 +4455,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108: Marina Del Rey - Pico Rivera via Slauson Av</name>
+		<name>108-culver-commerce</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Culver City - Commerce<br/>Agency: ca-lacmta<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">108-culver-commerce</SimpleData>
+<SimpleData name="LineName">108: Marina Del Rey - Pico Rivera via Slauson Av</SimpleData>
+<SimpleData name="LineBranch">Culver City - Commerce</SimpleData>
+<SimpleData name="LineLength">15.56</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.399837,33.98496,0
@@ -4089,9 +4532,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108: Marina Del Rey - Pico Rivera via Slauson Av</name>
+		<name>108-culver-pico</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Culver City - Pico Rivera<br/>Agency: ca-lacmta<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">108-culver-pico</SimpleData>
+<SimpleData name="LineName">108: Marina Del Rey - Pico Rivera via Slauson Av</SimpleData>
+<SimpleData name="LineBranch">Culver City - Pico Rivera</SimpleData>
+<SimpleData name="LineLength">18.25</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.399837,33.98496,0
@@ -4185,9 +4635,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108: Marina Del Rey - Pico Rivera via Slauson Av</name>
+		<name>108-del-rey-pico</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Marina Del Ray - Pico Rivera<br/>Agency: ca-lacmta<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">108-del-rey-pico</SimpleData>
+<SimpleData name="LineName">108: Marina Del Rey - Pico Rivera via Slauson Av</SimpleData>
+<SimpleData name="LineBranch">Marina Del Ray - Pico Rivera</SimpleData>
+<SimpleData name="LineLength">22.53</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.458752,33.983899,0
@@ -4299,9 +4756,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108: Marina Del Rey - Pico Rivera via Slauson Av</name>
+		<name>108-del-rey</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Marina Del Ray - Commerce<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">108-del-rey</SimpleData>
+<SimpleData name="LineName">108: Marina Del Rey - Pico Rivera via Slauson Av</SimpleData>
+<SimpleData name="LineBranch">Marina Del Ray - Commerce</SimpleData>
+<SimpleData name="LineLength">19.84</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.458752,33.983899,0
@@ -4387,9 +4851,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>106: Monterey Park - LA Union Station - Montebello via Garvey Av &amp; 1st St</name>
+		<name>106</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 4.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">106</SimpleData>
+<SimpleData name="LineName">106: Monterey Park - LA Union Station - Montebello via Garvey Av &amp; 1st St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.83</SimpleData>
+<SimpleData name="LineEDI">4.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.084382,34.034472,0
@@ -4473,9 +4944,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: West Hollywood - Vernon via La Cienega Bl - Vernon Av</name>
+		<name>105</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">105</SimpleData>
+<SimpleData name="LineName">105: West Hollywood - Vernon via La Cienega Bl - Vernon Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.41</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.227782,34.004063,0
@@ -4555,9 +5033,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: LAX City Bus Center - South Gate via La Tijera - Exposition Bl</name>
+		<name>102</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">102</SimpleData>
+<SimpleData name="LineName">102: LAX City Bus Center - South Gate via La Tijera - Exposition Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.64</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.392545,33.950247,0
@@ -4655,9 +5140,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>180: Hollywood - Glendale - Pasadena via Los Feliz - Colorado</name>
+		<name>180</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">180</SimpleData>
+<SimpleData name="LineName">180: Hollywood - Glendale - Pasadena via Los Feliz - Colorado</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.51</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.325614,34.100218,0
@@ -4736,9 +5228,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>179: Rose Hill Transit Center - Arcadia via Huntington Dr</name>
+		<name>179</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">179</SimpleData>
+<SimpleData name="LineName">179: Rose Hill Transit Center - Arcadia via Huntington Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.42</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.186878,34.086198,0
@@ -4786,9 +5285,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>177: JPL - Pasadena (Caltech)</name>
+		<name>177</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">177</SimpleData>
+<SimpleData name="LineName">177: JPL - Pasadena (Caltech)</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.46</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.127936,34.140749,0
@@ -4814,9 +5320,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>169: Warner Center - Burbank Airport via Valley Circle - Saticoy St</name>
+		<name>169</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 2.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">169</SimpleData>
+<SimpleData name="LineName">169: Warner Center - Burbank Airport via Valley Circle - Saticoy St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">32.61</SimpleData>
+<SimpleData name="LineEDI">2.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.597315,34.191097,0
@@ -4957,9 +5470,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>167: Chatsworth - Studio City via Plummer - Coldwater Canyon</name>
+		<name>167</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">167</SimpleData>
+<SimpleData name="LineName">167: Chatsworth - Studio City via Plummer - Coldwater Canyon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.31</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.598806,34.253716,0
@@ -5064,9 +5584,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>166: Canoga Av - Sun Valley via Nordhoff St - Osborne St</name>
+		<name>166</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">166</SimpleData>
+<SimpleData name="LineName">166: Canoga Av - Sun Valley via Nordhoff St - Osborne St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.49</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.598868,34.236107,0
@@ -5129,9 +5656,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>164: West Hills - Burbank via Victory Bl</name>
+		<name>164</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">164</SimpleData>
+<SimpleData name="LineName">164: West Hills - Burbank via Victory Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.03</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.312829,34.179294,0
@@ -5220,9 +5754,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>161: Thousand Oaks - Agoura Hills - Calabasas - Warner Center</name>
+		<name>161</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">161</SimpleData>
+<SimpleData name="LineName">161: Thousand Oaks - Agoura Hills - Calabasas - Warner Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.32</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.596471,34.190454,0
@@ -5297,9 +5838,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>158: Chatsworth - Sherman Oaks via Devonshire - Woodman</name>
+		<name>158</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">158</SimpleData>
+<SimpleData name="LineName">158: Chatsworth - Sherman Oaks via Devonshire - Woodman</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.99</SimpleData>
+<SimpleData name="LineEDI">1.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.448158,34.151766,0
@@ -5382,9 +5930,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>154: Sepulveda Bl - Burbank via Oxnard St - Burbank Bl</name>
+		<name>154</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">154</SimpleData>
+<SimpleData name="LineName">154: Sepulveda Bl - Burbank via Oxnard St - Burbank Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.06</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.312829,34.179294,0
@@ -5436,9 +5991,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>152: West Hills Medical Center - North Hollywood via Roscoe Bl</name>
+		<name>152</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">152</SimpleData>
+<SimpleData name="LineName">152: West Hills Medical Center - North Hollywood via Roscoe Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.12</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.375295,34.168829,0
@@ -5525,9 +6087,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>150: Chatsworth - Tarzana via Topanga Canyon Bl - Ventura Bl</name>
+		<name>150</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">150</SimpleData>
+<SimpleData name="LineName">150: Chatsworth - Tarzana via Topanga Canyon Bl - Ventura Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.72</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.599048,34.253382,0
@@ -5584,9 +6153,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>134: Downtown Santa Monica Station - Malibu</name>
+		<name>134</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">134</SimpleData>
+<SimpleData name="LineName">134: Downtown Santa Monica Station - Malibu</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.1</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.487949,34.013992,0
@@ -5629,9 +6205,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>128: Compton Station - Cerritos Towne Center via Alondra Bl</name>
+		<name>128</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">128</SimpleData>
+<SimpleData name="LineName">128: Compton Station - Cerritos Towne Center via Alondra Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.05</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.063554,33.867378,0
@@ -5687,9 +6270,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>125: El Segundo - Norwalk Station via Rosecrans Av</name>
+		<name>125</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">125</SimpleData>
+<SimpleData name="LineName">125: El Segundo - Norwalk Station via Rosecrans Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.71</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.395858,33.905843,0
@@ -5778,9 +6368,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>120: Aviation/LAX Station - Whittwood Center via Imperial Hwy</name>
+		<name>120</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">120</SimpleData>
+<SimpleData name="LineName">120: Aviation/LAX Station - Whittwood Center via Imperial Hwy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.66</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.3772,33.92959,0
@@ -5898,9 +6495,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>117: LAX City Bus Center - Downey via Century Bl - Imperial Hwy</name>
+		<name>117</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">117</SimpleData>
+<SimpleData name="LineName">117: LAX City Bus Center - Downey via Century Bl - Imperial Hwy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.81</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.392545,33.950247,0
@@ -5984,9 +6588,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>115: Playa Del Rey - Norwalk via Manchester Av - Firestone Bl</name>
+		<name>115</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">115</SimpleData>
+<SimpleData name="LineName">115: Playa Del Rey - Norwalk via Manchester Av - Firestone Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.77</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.104021,33.913142,0
@@ -6095,9 +6706,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>111: LAX City Bus Center - Norwalk Station via Florence Av</name>
+		<name>111</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">111</SimpleData>
+<SimpleData name="LineName">111: LAX City Bus Center - Norwalk Station via Florence Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.49</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.392545,33.950247,0
@@ -6189,9 +6807,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>110: Playa Vista - Bell Gardens via Jefferson Bl - Gage Av</name>
+		<name>110</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">110</SimpleData>
+<SimpleData name="LineName">110: Playa Vista - Bell Gardens via Jefferson Bl - Gage Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.13</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.428491,33.973515,0
@@ -6286,9 +6911,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>96: Chinatown - Burbank Station via Griffith Park Dr</name>
+		<name>96</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">96</SimpleData>
+<SimpleData name="LineName">96: Chinatown - Burbank Station via Griffith Park Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.13</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.237475,34.058427,0
@@ -6340,9 +6972,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>94: Downtown LA - Glendale - North Hollywood via San Fernando Rd</name>
+		<name>94</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">94</SimpleData>
+<SimpleData name="LineName">94: Downtown LA - Glendale - North Hollywood via San Fernando Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.5</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.264573,34.033195,0
@@ -6425,9 +7064,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: Downtown LA - Sylmar Station via Glendale - Glenoaks Bl</name>
+		<name>92</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">92</SimpleData>
+<SimpleData name="LineName">92: Downtown LA - Sylmar Station via Glendale - Glenoaks Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">25.46</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.257461,34.039693,0
@@ -6554,9 +7200,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90: LA Civic Center - Sunland - North Hollywood via Glendale Av</name>
+		<name>90</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 2.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">90</SimpleData>
+<SimpleData name="LineName">90: LA Civic Center - Sunland - North Hollywood via Glendale Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.9</SimpleData>
+<SimpleData name="LineEDI">2.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.246961,34.051883,0
@@ -6685,9 +7338,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>81: Eagle Rock - Harbor Freeway Station via Figueroa St</name>
+		<name>81</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">81</SimpleData>
+<SimpleData name="LineName">81: Eagle Rock - Harbor Freeway Station via Figueroa St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.24</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.281838,33.927775,0
@@ -6791,9 +7451,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78: Downtown LA - Arcadia via Las Tunas Av &amp; Huntington Dr</name>
+		<name>78</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">78</SimpleData>
+<SimpleData name="LineName">78: Downtown LA - Arcadia via Las Tunas Av &amp; Huntington Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.55</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.264573,34.033195,0
@@ -6880,9 +7547,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76: Downtown LA - El Monte via Valley Bl</name>
+		<name>76</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">76</SimpleData>
+<SimpleData name="LineName">76: Downtown LA - El Monte via Valley Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.34</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.264573,34.033195,0
@@ -6962,9 +7636,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70: Downtown LA - El Monte via Cesar Chavez Av - Garvey Av</name>
+		<name>70</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">70</SimpleData>
+<SimpleData name="LineName">70: Downtown LA - El Monte via Cesar Chavez Av - Garvey Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.93</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.264573,34.033195,0
@@ -7051,9 +7732,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Wilshire Center - Montebello via 8th St - Olympic Bl</name>
+		<name>66-montebello</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Montebello<br/>Agency: ca-lacmta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">66-montebello</SimpleData>
+<SimpleData name="LineName">66: Wilshire Center - Montebello via 8th St - Olympic Bl</SimpleData>
+<SimpleData name="LineBranch">to Montebello</SimpleData>
+<SimpleData name="LineLength">12.49</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.308442,34.063032,0
@@ -7124,9 +7812,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Wilshire Center - Montebello via 8th St - Olympic Bl</name>
+		<name>66-commerce</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Commerce Center<br/>Agency: ca-lacmta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">66-commerce</SimpleData>
+<SimpleData name="LineName">66: Wilshire Center - Montebello via 8th St - Olympic Bl</SimpleData>
+<SimpleData name="LineBranch">to Commerce Center</SimpleData>
+<SimpleData name="LineLength">10.31</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.309234,34.0612,0
@@ -7187,9 +7882,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62: Downtown LA - Hawaiian Gardens via Telegraph Rd</name>
+		<name>62</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">62</SimpleData>
+<SimpleData name="LineName">62: Downtown LA - Hawaiian Gardens via Telegraph Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.85</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.251572,34.052881,0
@@ -7274,9 +7976,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Downtown LA - Artesia Station via Long Beach Bl</name>
+		<name>60</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: Downtown LA - Artesia Station via Long Beach Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.68</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.222832,33.875981,0
@@ -7358,9 +8067,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Downtown LA - Willowbrook / Rosa Parks via Compton Av</name>
+		<name>55</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Downtown LA - Willowbrook / Rosa Parks via Compton Av</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.05</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.246436,34.062108,0
@@ -7426,9 +8142,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Downtown LA - CSU Dominguez Hills</name>
+		<name>53</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">53</SimpleData>
+<SimpleData name="LineName">53: Downtown LA - CSU Dominguez Hills</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.54</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.257175,33.867123,0
@@ -7515,9 +8238,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Westlake / MacArthur Park - CSU Dominguez Hills</name>
+		<name>51</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Westlake / MacArthur Park - CSU Dominguez Hills</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.07</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.257175,33.867123,0
@@ -7608,9 +8338,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Lincoln Heights - Harbor Freeway via Broadway</name>
+		<name>45</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Lincoln Heights - Harbor Freeway via Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.94</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.281838,33.927775,0
@@ -7679,9 +8416,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Downtown LA - South Bay Galleria via ML King Bl / Hawthorne Bl</name>
+		<name>40</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: Downtown LA - South Bay Galleria via ML King Bl / Hawthorne Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.74</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.357224,33.86818,0
@@ -7775,9 +8519,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Downtown LA - Washington/Fairfax via Jefferson Bl</name>
+		<name>38</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: Downtown LA - Washington/Fairfax via Jefferson Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.53</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.263539,34.033969,0
@@ -7822,9 +8573,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Downtown LA - Washington/Fairfax via Washington Bl</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Downtown LA - Washington/Fairfax via Washington Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.39</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.369075,34.035276,0
@@ -7864,9 +8622,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Downtown LA - Santa Monica via Venice Bl</name>
+		<name>33</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Downtown LA - Santa Monica via Venice Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.59</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.49449,34.017546,0
@@ -7951,9 +8716,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Pico Rimpau Transit Center - Downtown LA via Pico Bl</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Pico Rimpau Transit Center - Downtown LA via Pico Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.47</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.337767,34.048107,0
@@ -7995,9 +8767,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: Century City - Downtown LA via Olympic Bl</name>
+		<name>28-san-vicente</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to San Vicente / Carrillo<br/>Agency: ca-lacmta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">28-san-vicente</SimpleData>
+<SimpleData name="LineName">28: Century City - Downtown LA via Olympic Bl</SimpleData>
+<SimpleData name="LineBranch">to San Vicente / Carrillo</SimpleData>
+<SimpleData name="LineLength">8.64</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.232139,34.056828,0
@@ -8046,9 +8825,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: Century City - Downtown LA via Olympic Bl</name>
+		<name>28-century</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Century City<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">28-century</SimpleData>
+<SimpleData name="LineName">28: Century City - Downtown LA via Olympic Bl</SimpleData>
+<SimpleData name="LineBranch">to Century City</SimpleData>
+<SimpleData name="LineLength">12.16</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.232139,34.056828,0
@@ -8109,9 +8895,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48: Downtown LA - Avalon Station</name>
+		<name>48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">48</SimpleData>
+<SimpleData name="LineName">48: Downtown LA - Avalon Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.92</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.248827,34.059965,0
@@ -8176,9 +8969,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Downtown LA - Westwood via Wilshire Bl</name>
+		<name>20</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Downtown LA - Westwood via Wilshire Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.73</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.443378,34.058801,0
@@ -8243,9 +9043,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Wilshire / Western - Montebello via 6th St / Whittier Bl</name>
+		<name>18</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Wilshire / Western - Montebello via 6th St / Whittier Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.17</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.124931,34.00656,0
@@ -8321,9 +9128,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: Downtown LA - West Hollywood via West 3rd St</name>
+		<name>16</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: Downtown LA - West Hollywood via West 3rd St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.73</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.239787,34.039201,0
@@ -8385,9 +9199,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Downtown LA - Washington/Fairfax via Adams Bl</name>
+		<name>37</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">37</SimpleData>
+<SimpleData name="LineName">37: Downtown LA - Washington/Fairfax via Adams Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.77</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.275756,34.028163,0
@@ -8423,9 +9244,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Downtown LA - Cedar-Sinai</name>
+		<name>14</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Downtown LA - Cedar-Sinai</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.5</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.37839,34.074827,0
@@ -8482,9 +9310,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: West Hollywood - Downtown LA</name>
+		<name>10</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: West Hollywood - Downtown LA</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.82</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.383647,34.082049,0
@@ -8553,9 +9388,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Downtown LA - Santa Monica via Santa Monica Bl</name>
+		<name>4</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Downtown LA - Santa Monica via Santa Monica Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.99</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.493528,34.018315,0
@@ -8655,9 +9497,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: USC - Westwood via Sunset Bl</name>
+		<name>2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.78</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: USC - Westwood via Sunset Bl</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.11</SimpleData>
+<SimpleData name="LineEDI">1.78</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.280294,34.011487,0
@@ -8767,9 +9616,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J: El Monte - Harbor Gateway / San Pedro</name>
+		<name>J-950</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: 950: to San Pedro<br/>Agency: ca-lacmta<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">J-950</SimpleData>
+<SimpleData name="LineName">J: El Monte - Harbor Gateway / San Pedro</SimpleData>
+<SimpleData name="LineBranch">950: to San Pedro</SimpleData>
+<SimpleData name="LineLength">35.88</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.288128,33.724933,0
@@ -8810,9 +9666,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J: El Monte - Harbor Gateway / San Pedro</name>
+		<name>J-910</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: 910: to Harbor Gateway<br/>Agency: ca-lacmta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">J-910</SimpleData>
+<SimpleData name="LineName">J: El Monte - Harbor Gateway / San Pedro</SimpleData>
+<SimpleData name="LineBranch">910: to Harbor Gateway</SimpleData>
+<SimpleData name="LineLength">25.34</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.287306,33.869338,0
@@ -8841,9 +9704,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G: Chatsworth - Canoga Park - North Hollywood</name>
+		<name>G</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">G</SimpleData>
+<SimpleData name="LineName">G: Chatsworth - Canoga Park - North Hollywood</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.21</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.59933,34.252067,0
@@ -8867,9 +9737,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>K: Expo/Crenshaw - Westchester/Veterans</name>
+		<name>K</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">K</SimpleData>
+<SimpleData name="LineName">K: Expo/Crenshaw - Westchester/Veterans</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.75</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.374378,33.962031,0
@@ -8883,9 +9760,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E: East Los Angeles - Santa Monica</name>
+		<name>E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">E</SimpleData>
+<SimpleData name="LineName">E: East Los Angeles - Santa Monica</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.54</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.154469,34.033398,0
@@ -8921,9 +9805,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D: Union Station - Wilshire/Western</name>
+		<name>D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">D</SimpleData>
+<SimpleData name="LineName">D: Union Station - Wilshire/Western</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.72</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.234249,34.056197,0
@@ -8938,9 +9829,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C: Norwalk - Redondo Beach</name>
+		<name>C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">C</SimpleData>
+<SimpleData name="LineName">C: Norwalk - Redondo Beach</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.99</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.104717,33.914033,0
@@ -8961,9 +9859,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B: Union Station - North Hollywood</name>
+		<name>B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">B</SimpleData>
+<SimpleData name="LineName">B: Union Station - North Hollywood</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.92</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.376808,34.168504,0
@@ -8984,9 +9889,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A: Azusa - Long Beach</name>
+		<name>A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">A</SimpleData>
+<SimpleData name="LineName">A: Azusa - Long Beach</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">47.05</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.192921,33.768071,0
@@ -9035,9 +9947,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>155: Sherman Oaks - Burbank via Riverside Dr and Olive St</name>
+		<name>155</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 5.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">155</SimpleData>
+<SimpleData name="LineName">155: Sherman Oaks - Burbank via Riverside Dr and Olive St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.86</SimpleData>
+<SimpleData name="LineEDI">5.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.375295,34.168829,0
@@ -9127,9 +10046,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>215: Downtown Inglewood - Redondo Beach TC</name>
+		<name>215</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">215</SimpleData>
+<SimpleData name="LineName">215: Downtown Inglewood - Redondo Beach TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.1</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.350296,33.968274,0
@@ -9165,9 +10091,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211: Downtown Inglewood - Redondo Beach Station</name>
+		<name>211</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-lacmta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-lacmta</SimpleData>
+<SimpleData name="LineCode">211</SimpleData>
+<SimpleData name="LineName">211: Downtown Inglewood - Redondo Beach Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.68</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-118.356871,33.87176,0

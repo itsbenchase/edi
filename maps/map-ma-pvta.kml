@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ma-pvta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>X90: Inner Crosstown</name>
+		<name>X90-south-B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: South B: via Grove St<br/>Agency: ma-pvta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">X90-south-B</SimpleData>
+<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
+<SimpleData name="LineBranch">South B: via Grove St</SimpleData>
+<SimpleData name="LineLength">8.83</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.527422,42.079806,0
@@ -115,9 +124,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>X90: Inner Crosstown</name>
+		<name>X90-south-A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: South A: via Broadway<br/>Agency: ma-pvta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">X90-south-A</SimpleData>
+<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
+<SimpleData name="LineBranch">South A: via Broadway</SimpleData>
+<SimpleData name="LineLength">8.72</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.527422,42.079806,0
@@ -181,9 +197,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>X90: Inner Crosstown</name>
+		<name>X90-north-A</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: North A: via Memorial Dr<br/>Agency: ma-pvta<br/>EDI: 2.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">X90-north-A</SimpleData>
+<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
+<SimpleData name="LineBranch">North A: via Memorial Dr</SimpleData>
+<SimpleData name="LineLength">6.41</SimpleData>
+<SimpleData name="LineEDI">2.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.607355,42.208442,0
@@ -208,9 +231,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>X90: Inner Crosstown</name>
+		<name>X90-north-B</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: North B: via Buckley Blvd<br/>Agency: ma-pvta<br/>EDI: 2.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">X90-north-B</SimpleData>
+<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
+<SimpleData name="LineBranch">North B: via Buckley Blvd</SimpleData>
+<SimpleData name="LineLength">5.65</SimpleData>
+<SimpleData name="LineEDI">2.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.607355,42.208442,0
@@ -243,9 +273,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B23: Holyoke / Westfield via HCC</name>
+		<name>B23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B23</SimpleData>
+<SimpleData name="LineName">B23: Holyoke / Westfield via HCC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.38</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.607465,42.20833,0
@@ -282,9 +319,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P21E: Springfield / Holyoke via 391</name>
+		<name>P21E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">P21E</SimpleData>
+<SimpleData name="LineName">P21E: Springfield / Holyoke via 391</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.33</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595123,42.105925,0
@@ -302,9 +346,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P21: Holyoke / Springfield via Chicopee</name>
+		<name>P21-M</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: M: via Meetinghouse Rd<br/>Agency: ma-pvta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">P21-M</SimpleData>
+<SimpleData name="LineName">P21: Holyoke / Springfield via Chicopee</SimpleData>
+<SimpleData name="LineBranch">M: via Meetinghouse Rd</SimpleData>
+<SimpleData name="LineLength">8.52</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594632,42.106453,0
@@ -365,9 +416,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P21: Holyoke / Springfield via Chicopee</name>
+		<name>P21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">P21</SimpleData>
+<SimpleData name="LineName">P21: Holyoke / Springfield via Chicopee</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.45</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594632,42.106453,0
@@ -426,9 +484,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G73E: Springfield - Northampton via Holyoke Mall</name>
+		<name>G73E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G73E</SimpleData>
+<SimpleData name="LineName">G73E: Springfield - Northampton via Holyoke Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.4</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595123,42.105925,0
@@ -440,9 +505,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P20: Holyoke / Springfield via Riverdale St</name>
+		<name>P20</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">P20</SimpleData>
+<SimpleData name="LineName">P20: Holyoke / Springfield via Riverdale St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.7</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594707,42.10589,0
@@ -502,9 +574,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B17: Eastfield Mall via Worthington - Wilbraham Rd</name>
+		<name>B17</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B17</SimpleData>
+<SimpleData name="LineName">B17: Eastfield Mall via Worthington - Wilbraham Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.72</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595024,42.106625,0
@@ -559,9 +638,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R14: Feeding Hills / Springfield</name>
+		<name>R14-sun</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Rocky's<br/>Agency: ma-pvta<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R14-sun</SimpleData>
+<SimpleData name="LineName">R14: Feeding Hills / Springfield</SimpleData>
+<SimpleData name="LineBranch">to Rocky's</SimpleData>
+<SimpleData name="LineLength">2.84</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594958,42.106822,0
@@ -584,9 +670,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R14: Feeding Hills / Springfield</name>
+		<name>R14-ind</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Agawam Industrial Park<br/>Agency: ma-pvta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R14-ind</SimpleData>
+<SimpleData name="LineName">R14: Feeding Hills / Springfield</SimpleData>
+<SimpleData name="LineBranch">via Agawam Industrial Park</SimpleData>
+<SimpleData name="LineLength">6.53</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594958,42.106822,0
@@ -612,9 +705,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R14: Feeding Hills / Springfield</name>
+		<name>R14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R14</SimpleData>
+<SimpleData name="LineName">R14: Feeding Hills / Springfield</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.66</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594958,42.106822,0
@@ -653,9 +753,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R14: Feeding Hills / Springfield</name>
+		<name>R14-C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: via Country View Estates<br/>Agency: ma-pvta<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R14-C</SimpleData>
+<SimpleData name="LineName">R14: Feeding Hills / Springfield</SimpleData>
+<SimpleData name="LineBranch">C: via Country View Estates</SimpleData>
+<SimpleData name="LineLength">7.35</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594958,42.106822,0
@@ -706,9 +813,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R14: Feeding Hills / Springfield</name>
+		<name>R14-M</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: M: via Maple St<br/>Agency: ma-pvta<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R14-M</SimpleData>
+<SimpleData name="LineName">R14: Feeding Hills / Springfield</SimpleData>
+<SimpleData name="LineBranch">M: via Maple St</SimpleData>
+<SimpleData name="LineLength">7.89</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594958,42.106822,0
@@ -758,9 +872,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B12: Stonybrook Express</name>
+		<name>B12</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B12</SimpleData>
+<SimpleData name="LineName">B12: Stonybrook Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.31</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595024,42.106625,0
@@ -770,9 +891,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>P11: Holyoke Community College Express</name>
+		<name>P11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">P11</SimpleData>
+<SimpleData name="LineName">P11: Holyoke Community College Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.11</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.589052,42.104086,0
@@ -795,9 +923,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R10: Westfield State University / W. Springfield</name>
+		<name>R10-U</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: U: via Union St<br/>Agency: ma-pvta<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R10-U</SimpleData>
+<SimpleData name="LineName">R10: Westfield State University / W. Springfield</SimpleData>
+<SimpleData name="LineBranch">U: via Union St</SimpleData>
+<SimpleData name="LineLength">12.85</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594602,42.106571,0
@@ -856,9 +991,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R10: Westfield State University / W. Springfield</name>
+		<name>R10-S</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: S: via Westfield Shops<br/>Agency: ma-pvta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R10-S</SimpleData>
+<SimpleData name="LineName">R10: Westfield State University / W. Springfield</SimpleData>
+<SimpleData name="LineBranch">S: via Westfield Shops</SimpleData>
+<SimpleData name="LineLength">12.08</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594602,42.106571,0
@@ -919,9 +1061,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>WSU: WSU Shuttle</name>
+		<name>WSU</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">WSU</SimpleData>
+<SimpleData name="LineName">WSU: WSU Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.92</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.749323,42.122776,0
@@ -939,9 +1088,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B7: Eastfield Mall via State St / Boston Rd</name>
+		<name>B7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B7</SimpleData>
+<SimpleData name="LineName">B7: Eastfield Mall via State St / Boston Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.92</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594501,42.106164,0
@@ -992,9 +1148,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B6: Ludlow via Bay St</name>
+		<name>B6-encompass</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Encompass Health<br/>Agency: ma-pvta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B6-encompass</SimpleData>
+<SimpleData name="LineName">B6: Ludlow via Bay St</SimpleData>
+<SimpleData name="LineBranch">to Encompass Health</SimpleData>
+<SimpleData name="LineLength">8.63</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594884,42.105856,0
@@ -1051,9 +1214,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B6: Ludlow via Bay St</name>
+		<name>B6-bigy</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Big Y<br/>Agency: ma-pvta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B6-bigy</SimpleData>
+<SimpleData name="LineName">B6: Ludlow via Bay St</SimpleData>
+<SimpleData name="LineBranch">to Big Y</SimpleData>
+<SimpleData name="LineLength">9.02</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594884,42.105856,0
@@ -1111,9 +1281,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G5: Springfield / Dickinson / Jewish Home / Longmeadow</name>
+		<name>G5-jewish</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Jewish Home<br/>Agency: ma-pvta<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G5-jewish</SimpleData>
+<SimpleData name="LineName">G5: Springfield / Dickinson / Jewish Home / Longmeadow</SimpleData>
+<SimpleData name="LineBranch">to Jewish Home</SimpleData>
+<SimpleData name="LineLength">4.24</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595464,42.10566,0
@@ -1150,9 +1327,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G5: Springfield / Dickinson / Jewish Home / Longmeadow</name>
+		<name>G5-enfield</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Enfield<br/>Agency: ma-pvta<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G5-enfield</SimpleData>
+<SimpleData name="LineName">G5: Springfield / Dickinson / Jewish Home / Longmeadow</SimpleData>
+<SimpleData name="LineBranch">to Enfield</SimpleData>
+<SimpleData name="LineLength">8.91</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595464,42.10566,0
@@ -1208,9 +1392,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B4: Planfield St</name>
+		<name>B4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B4</SimpleData>
+<SimpleData name="LineName">B4: Planfield St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.3</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594804,42.106196,0
@@ -1237,9 +1428,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G3: Springfield Plaza via Liberty / King - Westford</name>
+		<name>G3</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 2.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G3</SimpleData>
+<SimpleData name="LineName">G3: Springfield Plaza via Liberty / King - Westford</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.77</SimpleData>
+<SimpleData name="LineEDI">2.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.549425,42.1085,0
@@ -1294,9 +1492,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G2: E. Springfield via Carew / Belmont - Dwight</name>
+		<name>G2-bigy</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Big Y<br/>Agency: ma-pvta<br/>EDI: 2.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G2-bigy</SimpleData>
+<SimpleData name="LineName">G2: E. Springfield via Carew / Belmont - Dwight</SimpleData>
+<SimpleData name="LineBranch">to Big Y</SimpleData>
+<SimpleData name="LineLength">8.77</SimpleData>
+<SimpleData name="LineEDI">2.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.545242,42.137919,0
@@ -1361,9 +1566,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G2: E. Springfield via Carew / Belmont - Dwight</name>
+		<name>G2-dwight</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Dwight Rd<br/>Agency: ma-pvta<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G2-dwight</SimpleData>
+<SimpleData name="LineName">G2: E. Springfield via Carew / Belmont - Dwight</SimpleData>
+<SimpleData name="LineBranch">via Dwight Rd</SimpleData>
+<SimpleData name="LineLength">9.86</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.545242,42.137919,0
@@ -1431,9 +1643,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G1: Chicopee / Sumner - Allen / Canon Cir</name>
+		<name>G1</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G1</SimpleData>
+<SimpleData name="LineName">G1: Chicopee / Sumner - Allen / Canon Cir</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.11</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.57859,42.17426,0
@@ -1514,9 +1733,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46: South Deerfield / UMass</name>
+		<name>46</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">46</SimpleData>
+<SimpleData name="LineName">46: South Deerfield / UMass</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.64</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.523466,42.387685,0
@@ -1540,9 +1766,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Mt. Holyoke / Hampshire / Amherst / UMass</name>
+		<name>38</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: Mt. Holyoke / Hampshire / Amherst / UMass</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.06</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.574164,42.254224,0
@@ -1573,9 +1806,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Olympia Dr / Atkins Farm</name>
+		<name>36</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Olympia Dr / Atkins Farm</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.4</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.525448,42.395716,0
@@ -1597,9 +1837,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Puffers Pond / Shopper Shuttle</name>
+		<name>33</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.86</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Puffers Pond / Shopper Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.95</SimpleData>
+<SimpleData name="LineEDI">1.86</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.538764,42.365726,0
@@ -1632,9 +1879,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Sunderland / S Amherst</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Sunderland / S Amherst</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.95</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.528889,42.349061,0
@@ -1664,9 +1918,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: North Amherst / Old Belchertown Rd</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: North Amherst / Old Belchertown Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.33</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.476202,42.353468,0
@@ -1691,9 +1952,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R29: Amherst / Holyoke Mall via Rt 116</name>
+		<name>R29</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R29</SimpleData>
+<SimpleData name="LineName">R29: Amherst / Holyoke Mall via Rt 116</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.69</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595464,42.10566,0
@@ -1751,9 +2019,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B48: Northampton / Holyoke via Route 5</name>
+		<name>B48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B48</SimpleData>
+<SimpleData name="LineName">B48: Northampton / Holyoke via Route 5</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.03</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.60763,42.208161,0
@@ -1766,9 +2041,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B43: Northampton / Hadley / Amherst</name>
+		<name>B43</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B43</SimpleData>
+<SimpleData name="LineName">B43: Northampton / Hadley / Amherst</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.3</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.637549,42.319612,0
@@ -1803,9 +2085,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R42: Northampton / Williamsburg / VA Hospital</name>
+		<name>R42</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R42</SimpleData>
+<SimpleData name="LineName">R42: Northampton / Williamsburg / VA Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.9</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.627657,42.313348,0
@@ -1823,9 +2112,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R41: Northampton / Easthampton / HCC / Holyoke Mall</name>
+		<name>R41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">R41</SimpleData>
+<SimpleData name="LineName">R41: Northampton / Easthampton / HCC / Holyoke Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.66</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.64057,42.169257,0
@@ -1847,9 +2143,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39E: Smith / Mount Holyoke Express</name>
+		<name>39E</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">39E</SimpleData>
+<SimpleData name="LineName">39E: Smith / Mount Holyoke Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.02</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.637549,42.319612,0
@@ -1868,9 +2171,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>X92: Mid-City Crosstown</name>
+		<name>X92</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.98</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">X92</SimpleData>
+<SimpleData name="LineName">X92: Mid-City Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.25</SimpleData>
+<SimpleData name="LineEDI">1.98</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.594958,42.106822,0
@@ -1917,9 +2227,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B79: Amherst / Worcester Intercity</name>
+		<name>B79</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">B79</SimpleData>
+<SimpleData name="LineName">B79: Amherst / Worcester Intercity</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">42.26</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.526401,42.387142,0
@@ -1937,9 +2254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Belchertown Center / UMass</name>
+		<name>45</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ma-pvta<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Belchertown Center / UMass</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.27</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.52613,42.393463,0

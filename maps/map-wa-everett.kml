@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>wa-everett routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>29: Mall Station - College Station</name>
+		<name>29</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.95</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: Mall Station - College Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.19</SimpleData>
+<SimpleData name="LineEDI">1.95</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.213638,47.908085,0
@@ -128,9 +137,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Everett Station - Mukilteo</name>
+		<name>18</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Everett Station - Mukilteo</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.16</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.197113,47.973289,0
@@ -171,9 +187,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Mall Station - Seaway TC</name>
+		<name>12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">9: Mall Station - Seaway TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.46</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.213547,47.907703,0
@@ -204,9 +227,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Everett Station - Airport Rd</name>
+		<name>8</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.76</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Everett Station - Airport Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.32</SimpleData>
+<SimpleData name="LineEDI">1.76</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.259171,47.890736,0
@@ -258,9 +288,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Mall Station - College Station</name>
+		<name>7</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Mall Station - College Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.15</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.213638,47.908085,0
@@ -318,9 +355,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Everett Station - Waterfront</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Everett Station - Waterfront</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.59</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.214844,48.000328,0
@@ -339,9 +383,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Everett Station - College Station</name>
+		<name>4</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.92</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Everett Station - College Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.07</SimpleData>
+<SimpleData name="LineEDI">1.92</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.200294,48.005245,0
@@ -369,9 +420,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Everett Station - Seaway TC</name>
+		<name>3</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Everett Station - Seaway TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.76</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.259567,47.930084,0
@@ -415,9 +473,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Mall Station - Mariner P&amp;R</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-everett<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-everett</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Mall Station - Mariner P&amp;R</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.97</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.238518,47.879951,0

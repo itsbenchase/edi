@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>va-loudoun routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>82: Sterling Connector</name>
+		<name>82</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-loudoun</SimpleData>
+<SimpleData name="LineCode">82</SimpleData>
+<SimpleData name="LineName">82: Sterling Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.63</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.404547,38.997255,0
@@ -72,9 +81,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70: Leesburg - Sterling via Leesburg Pike</name>
+		<name>70</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-loudoun</SimpleData>
+<SimpleData name="LineCode">70</SimpleData>
+<SimpleData name="LineName">70: Leesburg - Sterling via Leesburg Pike</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.21</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.389506,39.029187,0
@@ -122,9 +138,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62: Ashburn Connector</name>
+		<name>62</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 2.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-loudoun</SimpleData>
+<SimpleData name="LineCode">62</SimpleData>
+<SimpleData name="LineName">62: Ashburn Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.18</SimpleData>
+<SimpleData name="LineEDI">2.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.474035,39.04427,0
@@ -146,9 +169,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>331: One Loudon</name>
+		<name>331</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-loudoun</SimpleData>
+<SimpleData name="LineCode">331</SimpleData>
+<SimpleData name="LineName">331: One Loudon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.1</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.48959,39.004361,0
@@ -161,9 +191,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>312: Potomac Falls</name>
+		<name>312</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-loudoun</SimpleData>
+<SimpleData name="LineCode">312</SimpleData>
+<SimpleData name="LineName">312: Potomac Falls</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.59</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.424699,39.046445,0
@@ -175,9 +212,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: Sugarland Run Connector</name>
+		<name>80</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-loudoun<br/>EDI: 1.95</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-loudoun</SimpleData>
+<SimpleData name="LineCode">80</SimpleData>
+<SimpleData name="LineName">80: Sugarland Run Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.86</SimpleData>
+<SimpleData name="LineEDI">1.95</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.40819,38.99612,0

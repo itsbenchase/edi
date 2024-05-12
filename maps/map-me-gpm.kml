@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>me-gpm routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>7: Falmouth</name>
+		<name>7-oceanview</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to OceanView<br/>Agency: me-gpm<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">7-oceanview</SimpleData>
+<SimpleData name="LineName">7: Falmouth</SimpleData>
+<SimpleData name="LineBranch">to OceanView</SimpleData>
+<SimpleData name="LineLength">6.92</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -93,9 +102,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Falmouth</name>
+		<name>7-market</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Town Market<br/>Agency: me-gpm<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">7-market</SimpleData>
+<SimpleData name="LineName">7: Falmouth</SimpleData>
+<SimpleData name="LineBranch">to Town Market</SimpleData>
+<SimpleData name="LineLength">7.27</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -135,9 +151,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Maine Mall</name>
+		<name>5-jetport</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Jetport<br/>Agency: me-gpm<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">5-jetport</SimpleData>
+<SimpleData name="LineName">5: Maine Mall</SimpleData>
+<SimpleData name="LineBranch">via Jetport</SimpleData>
+<SimpleData name="LineLength">6.17</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -172,9 +195,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Maine Mall</name>
+		<name>5-hutchins</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Congress / Hutchins<br/>Agency: me-gpm<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">5-hutchins</SimpleData>
+<SimpleData name="LineName">5: Maine Mall</SimpleData>
+<SimpleData name="LineBranch">via Congress / Hutchins</SimpleData>
+<SimpleData name="LineLength">5.6</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -205,9 +235,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Maine Mall</name>
+		<name>5</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Maine Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.0</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -237,9 +274,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Westbrook</name>
+		<name>4-westbrook</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Westbrook Hub<br/>Agency: me-gpm<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">4-westbrook</SimpleData>
+<SimpleData name="LineName">4: Westbrook</SimpleData>
+<SimpleData name="LineBranch">to Westbrook Hub</SimpleData>
+<SimpleData name="LineLength">6.12</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -279,9 +323,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Westbrook</name>
+		<name>4-hamlet</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Hamlet<br/>Agency: me-gpm<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">4-hamlet</SimpleData>
+<SimpleData name="LineName">4: Westbrook</SimpleData>
+<SimpleData name="LineBranch">to Hamlet</SimpleData>
+<SimpleData name="LineLength">7.62</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -325,9 +376,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Westbrook</name>
+		<name>4-bradley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Bradley Dr<br/>Agency: me-gpm<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">4-bradley</SimpleData>
+<SimpleData name="LineName">4: Westbrook</SimpleData>
+<SimpleData name="LineBranch">to Bradley Dr</SimpleData>
+<SimpleData name="LineLength">7.49</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -372,9 +430,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Portland - Westbrook - S Portland</name>
+		<name>3</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Portland - Westbrook - S Portland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.75</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.332598,43.632857,0
@@ -411,9 +476,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Forest Ave</name>
+		<name>2-prides</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Pride's Corner<br/>Agency: me-gpm<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">2-prides</SimpleData>
+<SimpleData name="LineName">2: Forest Ave</SimpleData>
+<SimpleData name="LineBranch">to Pride's Corner</SimpleData>
+<SimpleData name="LineLength">6.56</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -455,9 +527,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Forest Ave</name>
+		<name>2-hannaford</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Hannaford<br/>Agency: me-gpm<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">2-hannaford</SimpleData>
+<SimpleData name="LineName">2: Forest Ave</SimpleData>
+<SimpleData name="LineBranch">to Hannaford</SimpleData>
+<SimpleData name="LineLength">4.64</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0
@@ -492,9 +571,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Congress St</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Congress St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.67</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.290114,43.651296,0
@@ -524,9 +610,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Metro Breeze</name>
+		<name>Breeze</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">Breeze</SimpleData>
+<SimpleData name="LineName">Metro Breeze</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.68</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.290114,43.651296,0
@@ -549,9 +642,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Husky Line</name>
+		<name>Husky</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: me-gpm<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">me-gpm</SimpleData>
+<SimpleData name="LineCode">Husky</SimpleData>
+<SimpleData name="LineName">Husky Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.76</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.259673,43.658464,0

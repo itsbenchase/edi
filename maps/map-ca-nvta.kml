@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-nvta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>29: Napa - BART Express</name>
+		<name>29</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: Napa - BART Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">28.21</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.310556,38.322222,0
@@ -64,9 +73,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Napa - Solano Express</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Napa - Solano Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.45</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0
@@ -77,9 +93,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Napa - Vallejo Connector</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Napa - Vallejo Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.05</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.262389,38.10065,0
@@ -122,9 +145,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Up Valley Connector</name>
+		<name>10</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Up Valley Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">29.4</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.273224,38.27381,0
@@ -175,9 +205,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G: Coombs - South Napa</name>
+		<name>G</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 2.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">G</SimpleData>
+<SimpleData name="LineName">G: Coombs - South Napa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.13</SimpleData>
+<SimpleData name="LineEDI">2.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0
@@ -192,9 +229,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F: Southwest Napa</name>
+		<name>F</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 4.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">F</SimpleData>
+<SimpleData name="LineName">F: Southwest Napa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.02</SimpleData>
+<SimpleData name="LineEDI">4.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0
@@ -216,9 +260,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E: Vintage</name>
+		<name>E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">E</SimpleData>
+<SimpleData name="LineName">E: Vintage</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.19</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0
@@ -248,9 +299,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D: Shelter - Shurtleff</name>
+		<name>D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">D</SimpleData>
+<SimpleData name="LineName">D: Shelter - Shurtleff</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.01</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0
@@ -265,9 +323,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C: Jefferson - Central Napa</name>
+		<name>C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 1.76</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">C</SimpleData>
+<SimpleData name="LineName">C: Jefferson - Central Napa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.51</SimpleData>
+<SimpleData name="LineEDI">1.76</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0
@@ -293,9 +358,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B: Westwood - South Napa</name>
+		<name>B</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-nvta<br/>EDI: 5.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-nvta</SimpleData>
+<SimpleData name="LineCode">B</SimpleData>
+<SimpleData name="LineName">B: Westwood - South Napa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.28</SimpleData>
+<SimpleData name="LineEDI">5.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.28,38.2975,0

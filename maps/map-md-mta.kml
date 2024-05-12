@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>md-mta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>CityLink Gold: Walbrook Junction - Canton</name>
+		<name>Gold-canton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Canton<br/>Agency: md-mta<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">Gold-canton</SimpleData>
+<SimpleData name="LineName">CityLink Gold: Walbrook Junction - Canton</SimpleData>
+<SimpleData name="LineBranch">to Canton</SimpleData>
+<SimpleData name="LineLength">7.64</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.673697,39.308745,0
@@ -107,9 +116,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>CityLink Gold: Walbrook Junction - Canton</name>
+		<name>Gold-berea</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Berea<br/>Agency: md-mta<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">Gold-berea</SimpleData>
+<SimpleData name="LineName">CityLink Gold: Walbrook Junction - Canton</SimpleData>
+<SimpleData name="LineBranch">to Berea</SimpleData>
+<SimpleData name="LineLength">5.08</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.673697,39.308745,0
@@ -146,9 +162,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>CityLink Brown: Overlea - Downtown</name>
+		<name>Brown</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">Brown</SimpleData>
+<SimpleData name="LineName">CityLink Brown: Overlea - Downtown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.73</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.528446,39.356862,0
@@ -209,9 +232,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>CityLink Blue: CMS - Johns Hopkins Bayview</name>
+		<name>Blue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">Blue</SimpleData>
+<SimpleData name="LineName">CityLink Blue: CMS - Johns Hopkins Bayview</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.01</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.549696,39.294126,0
@@ -273,9 +303,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>93: Towson - Hunt Valley</name>
+		<name>93</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">93</SimpleData>
+<SimpleData name="LineName">93: Towson - Hunt Valley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.51</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.596972,39.402176,0
@@ -333,9 +370,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62: CCBC Essex - Turner Station</name>
+		<name>62</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 2.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">62</SimpleData>
+<SimpleData name="LineName">62: CCBC Essex - Turner Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.26</SimpleData>
+<SimpleData name="LineEDI">2.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.482796,39.353654,0
@@ -422,9 +466,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71: Downtown - Patapsco Station</name>
+		<name>71</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 2.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">71</SimpleData>
+<SimpleData name="LineName">71: Downtown - Patapsco Station</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.55</SimpleData>
+<SimpleData name="LineEDI">2.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.630226,39.24181,0
@@ -469,9 +520,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: Glen - Baas &amp; Talmudical</name>
+		<name>92-velvet</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Velvert Valley<br/>Agency: md-mta<br/>EDI: 2.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">92-velvet</SimpleData>
+<SimpleData name="LineName">92: Glen - Baas &amp; Talmudical</SimpleData>
+<SimpleData name="LineBranch">to Velvert Valley</SimpleData>
+<SimpleData name="LineLength">10.6</SimpleData>
+<SimpleData name="LineEDI">2.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -506,9 +564,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: Glen - Baas &amp; Talmudical</name>
+		<name>92-scotts</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: to Scotts Hill<br/>Agency: md-mta<br/>EDI: 2.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">92-scotts</SimpleData>
+<SimpleData name="LineName">92: Glen - Baas &amp; Talmudical</SimpleData>
+<SimpleData name="LineBranch">to Scotts Hill</SimpleData>
+<SimpleData name="LineLength">9.62</SimpleData>
+<SimpleData name="LineEDI">2.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -554,9 +619,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: Glen - Baas &amp; Talmudical</name>
+		<name>92-owings</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: to Owings Mills Center<br/>Agency: md-mta<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">92-owings</SimpleData>
+<SimpleData name="LineName">92: Glen - Baas &amp; Talmudical</SimpleData>
+<SimpleData name="LineBranch">to Owings Mills Center</SimpleData>
+<SimpleData name="LineLength">13.58</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -609,9 +681,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: Glen - Baas &amp; Talmudical</name>
+		<name>92-copper</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: to Copper Ridge<br/>Agency: md-mta<br/>EDI: 3.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">92-copper</SimpleData>
+<SimpleData name="LineName">92: Glen - Baas &amp; Talmudical</SimpleData>
+<SimpleData name="LineBranch">to Copper Ridge</SimpleData>
+<SimpleData name="LineLength">4.1</SimpleData>
+<SimpleData name="LineEDI">3.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.680206,39.360044,0
@@ -642,9 +721,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Gardenville - Tradepoint Atlantic</name>
+		<name>63-bayview</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Johns Hopkins<br/>Agency: md-mta<br/>EDI: 2.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">63-bayview</SimpleData>
+<SimpleData name="LineName">63: Gardenville - Tradepoint Atlantic</SimpleData>
+<SimpleData name="LineBranch">to Johns Hopkins</SimpleData>
+<SimpleData name="LineLength">12.1</SimpleData>
+<SimpleData name="LineEDI">2.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.491371,39.226298,0
@@ -681,9 +767,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Gardenville - Tradepoint Atlantic</name>
+		<name>63-gardenville</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Gardenville<br/>Agency: md-mta<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">63-gardenville</SimpleData>
+<SimpleData name="LineName">63: Gardenville - Tradepoint Atlantic</SimpleData>
+<SimpleData name="LineBranch">to Gardenville</SimpleData>
+<SimpleData name="LineLength">17.84</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.491371,39.226298,0
@@ -749,9 +842,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75: Patapsco Station - Arundel Mills</name>
+		<name>75</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 2.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">75</SimpleData>
+<SimpleData name="LineName">75: Patapsco Station - Arundel Mills</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.88</SimpleData>
+<SimpleData name="LineEDI">2.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.630066,39.242004,0
@@ -801,9 +901,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69: Patapsco Station - Jumpers Hole</name>
+		<name>69</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mta<br/>EDI: 1.93</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mta</SimpleData>
+<SimpleData name="LineCode">69</SimpleData>
+<SimpleData name="LineName">69: Patapsco Station - Jumpers Hole</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.74</SimpleData>
+<SimpleData name="LineEDI">1.93</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.630145,39.241996,0

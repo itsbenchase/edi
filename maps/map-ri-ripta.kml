@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ri-ripta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>75: Dexter / Lincoln Mall</name>
+		<name>75-mall</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Lincoln Mall<br/>Agency: ri-ripta<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">75-mall</SimpleData>
+<SimpleData name="LineName">75: Dexter / Lincoln Mall</SimpleData>
+<SimpleData name="LineBranch">Lincoln Mall</SimpleData>
+<SimpleData name="LineLength">8.88</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.476323,41.937542,0
@@ -106,9 +115,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Eddy / Hope / Benefit</name>
+		<name>1-attleboro</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: South Attleboro<br/>Agency: ri-ripta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">1-attleboro</SimpleData>
+<SimpleData name="LineName">1: Eddy / Hope / Benefit</SimpleData>
+<SimpleData name="LineBranch">South Attleboro</SimpleData>
+<SimpleData name="LineLength">11.39</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.405103,41.767311,0
@@ -178,9 +194,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Eddy / Hope / Benefit</name>
+		<name>1-tf-green</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: TF Green Airport<br/>Agency: ri-ripta<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">1-tf-green</SimpleData>
+<SimpleData name="LineName">1: Eddy / Hope / Benefit</SimpleData>
+<SimpleData name="LineBranch">TF Green Airport</SimpleData>
+<SimpleData name="LineLength">12.06</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.436997,41.725802,0
@@ -248,9 +271,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: RI College / Federal Hill / East Side</name>
+		<name>92</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">92</SimpleData>
+<SimpleData name="LineName">92: RI College / Federal Hill / East Side</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.76</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.460627,41.841629,0
@@ -298,9 +328,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58: Mineral Spring / North Providence</name>
+		<name>58</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">58</SimpleData>
+<SimpleData name="LineName">58: Mineral Spring / North Providence</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.17</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.517031,41.874078,0
@@ -361,9 +398,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Smith St</name>
+		<name>57</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Smith St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.77</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.486611,41.857661,0
@@ -401,9 +445,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Chalkstone Ave</name>
+		<name>56</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">56</SimpleData>
+<SimpleData name="LineName">56: Chalkstone Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.41</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.466228,41.832361,0
@@ -436,9 +487,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Admiral / Providence College</name>
+		<name>55</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Admiral / Providence College</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.86</SimpleData>
+<SimpleData name="LineEDI">2.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.411248,41.825429,0
@@ -481,9 +539,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Lincoln / Woonsocket</name>
+		<name>54</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">54</SimpleData>
+<SimpleData name="LineName">54: Lincoln / Woonsocket</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.39</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.505392,42.007887,0
@@ -538,9 +603,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Charles St / Twin River / CCRI</name>
+		<name>51</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Charles St / Twin River / CCRI</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.74</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.407055,41.811233,0
@@ -581,9 +653,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Douglas Ave / Bryant University</name>
+		<name>50</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">50</SimpleData>
+<SimpleData name="LineName">50: Douglas Ave / Bryant University</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.97</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.411054,41.825567,0
@@ -630,9 +709,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Butler / Elmgrove</name>
+		<name>40</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: Butler / Elmgrove</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.11</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.411248,41.825429,0
@@ -659,9 +745,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Rumford / Newport Ave</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Rumford / Newport Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.48</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.411448,41.825282,0
@@ -713,9 +806,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: East Providence / Seekonk Square</name>
+		<name>34</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: East Providence / Seekonk Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.8</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.322655,41.795429,0
@@ -764,9 +864,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Riverside</name>
+		<name>33</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Riverside</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.19</SimpleData>
+<SimpleData name="LineEDI">1.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.343641,41.759567,0
@@ -827,9 +934,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: E. Providence / Wampanoag / Seekonk Sq.</name>
+		<name>32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: E. Providence / Wampanoag / Seekonk Sq.</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.65</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.322655,41.795429,0
@@ -865,9 +979,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Cranston St</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Cranston St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.69</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.443918,41.795587,0
@@ -891,9 +1012,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Arlington / Oaklawn</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Arlington / Oaklawn</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.6</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -946,9 +1074,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: CCRI / Warwick / Conimicut</name>
+		<name>29</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: CCRI / Warwick / Conimicut</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.08</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.384242,41.721733,0
@@ -996,9 +1131,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: Broadway / Hartford</name>
+		<name>28</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: Broadway / Hartford</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.92</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.500056,41.820704,0
@@ -1035,9 +1177,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27: Broadway / Manton</name>
+		<name>27-woona</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Woonasquatucket Ave<br/>Agency: ri-ripta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">27-woona</SimpleData>
+<SimpleData name="LineName">27: Broadway / Manton</SimpleData>
+<SimpleData name="LineBranch">via Woonasquatucket Ave</SimpleData>
+<SimpleData name="LineLength">5.66</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.41262,41.825568,0
@@ -1084,9 +1233,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27: Broadway / Manton</name>
+		<name>27-waterman</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via George Waterman Rd<br/>Agency: ri-ripta<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">27-waterman</SimpleData>
+<SimpleData name="LineName">27: Broadway / Manton</SimpleData>
+<SimpleData name="LineBranch">via George Waterman Rd</SimpleData>
+<SimpleData name="LineLength">6.08</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.41262,41.825568,0
@@ -1136,9 +1292,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: Arctic / Crompton / Centre of New England</name>
+		<name>23</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Arctic / Crompton / Centre of New England</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.75</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.549526,41.662561,0
@@ -1175,9 +1338,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>88: Simmonsville Village Shuttle</name>
+		<name>88</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">88</SimpleData>
+<SimpleData name="LineName">88: Simmonsville Village Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.04</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.499027,41.787536,0
@@ -1187,9 +1357,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Pontiac Ave</name>
+		<name>22</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Pontiac Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.98</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -1252,9 +1429,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Reservoir / Garden City / CCRI</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Reservoir / Garden City / CCRI</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.45</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -1298,9 +1482,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Elmwood Ave / TF Green Airport</name>
+		<name>20</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Elmwood Ave / TF Green Airport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.16</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.411466,41.824873,0
@@ -1358,9 +1549,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Plainfield / Westminster</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Plainfield / Westminster</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.89</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.51558,41.785283,0
@@ -1409,9 +1607,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Union Ave</name>
+		<name>18</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Union Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.5</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.457319,41.795707,0
@@ -1444,9 +1649,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: West Bay</name>
+		<name>14-newport</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Newport<br/>Agency: ri-ripta<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">14-newport</SimpleData>
+<SimpleData name="LineName">14: West Bay</SimpleData>
+<SimpleData name="LineBranch">Newport</SimpleData>
+<SimpleData name="LineLength">27.99</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.439628,41.738297,0
@@ -1546,9 +1758,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: West Bay</name>
+		<name>14-narragansett</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Narragansett<br/>Agency: ri-ripta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">14-narragansett</SimpleData>
+<SimpleData name="LineName">14: West Bay</SimpleData>
+<SimpleData name="LineBranch">Narragansett</SimpleData>
+<SimpleData name="LineLength">35.38</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.4117,41.826001,0
@@ -1694,9 +1913,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Qx: Quonset Express</name>
+		<name>Qx</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">Qx</SimpleData>
+<SimpleData name="LineName">Qx: Quonset Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.76</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -1733,9 +1959,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10x: North Scituate Park-n-Ride</name>
+		<name>10x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">10x</SimpleData>
+<SimpleData name="LineName">10x: North Scituate Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.96</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -1785,9 +2018,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9x: Pascoag Park-n-Ride</name>
+		<name>9x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">9x</SimpleData>
+<SimpleData name="LineName">9x: Pascoag Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.71</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -1851,9 +2091,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Warwick Ave</name>
+		<name>4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Warwick Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.08</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.379216,41.695293,0
@@ -1929,9 +2176,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Oakland Beach</name>
+		<name>3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Oakland Beach</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.48</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.398111,41.686606,0
@@ -2000,9 +2254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Dyer / Pocasset</name>
+		<name>17</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: Dyer / Pocasset</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.37</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.473986,41.781562,0
@@ -2044,9 +2305,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: Bald Hill / NEIT / Quonset</name>
+		<name>16</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: Bald Hill / NEIT / Quonset</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.56</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.447153,41.60565,0
@@ -2097,9 +2365,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Coventry / Arctic / CCRI</name>
+		<name>13</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: Coventry / Arctic / CCRI</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.37</SimpleData>
+<SimpleData name="LineEDI">1.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.480109,41.712279,0
@@ -2166,9 +2441,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>89: Cranston Walmart</name>
+		<name>89</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">89</SimpleData>
+<SimpleData name="LineName">89: Cranston Walmart</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.12</SimpleData>
+<SimpleData name="LineEDI">2.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.44873,41.801451,0
@@ -2202,9 +2484,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Fairmount / Walnut Hill</name>
+		<name>87-w</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Westbound<br/>Agency: ri-ripta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">87-w</SimpleData>
+<SimpleData name="LineName">87: Fairmount / Walnut Hill</SimpleData>
+<SimpleData name="LineBranch">Westbound</SimpleData>
+<SimpleData name="LineLength">4.74</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.471549,42.015802,0
@@ -2247,9 +2536,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Fairmount / Walnut Hill</name>
+		<name>87-e</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Eastbound<br/>Agency: ri-ripta<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">87-e</SimpleData>
+<SimpleData name="LineName">87: Fairmount / Walnut Hill</SimpleData>
+<SimpleData name="LineBranch">Eastbound</SimpleData>
+<SimpleData name="LineLength">5.69</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.532057,41.996647,0
@@ -2300,9 +2596,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: Armistice Blvd</name>
+		<name>80</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">80</SimpleData>
+<SimpleData name="LineName">80: Armistice Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.74</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.341948,41.874741,0
@@ -2330,9 +2633,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78: Beverage Hill Ave / East Providence</name>
+		<name>78</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">78</SimpleData>
+<SimpleData name="LineName">78: Beverage Hill Ave / East Providence</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.29</SimpleData>
+<SimpleData name="LineEDI">2.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -2387,9 +2697,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76: Central Ave</name>
+		<name>76</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">76</SimpleData>
+<SimpleData name="LineName">76: Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.56</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.345849,41.891536,0
@@ -2419,9 +2736,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75: Dexter / Lincoln Mall</name>
+		<name>75-industrial</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: North Central Industrial Park<br/>Agency: ri-ripta<br/>EDI: 2.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">75-industrial</SimpleData>
+<SimpleData name="LineName">75: Dexter / Lincoln Mall</SimpleData>
+<SimpleData name="LineBranch">North Central Industrial Park</SimpleData>
+<SimpleData name="LineLength">11.26</SimpleData>
+<SimpleData name="LineEDI">2.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.481251,41.923692,0
@@ -2481,9 +2805,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73: Mineral Spring / Twin River / CCRI</name>
+		<name>73</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">73</SimpleData>
+<SimpleData name="LineName">73: Mineral Spring / Twin River / CCRI</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.38</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -2514,9 +2845,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72: Weeden / Central Falls</name>
+		<name>72</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">72</SimpleData>
+<SimpleData name="LineName">72: Weeden / Central Falls</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.15</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.391952,41.878493,0
@@ -2571,9 +2909,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71: Broad St / Pawtucket Ave</name>
+		<name>71</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">71</SimpleData>
+<SimpleData name="LineName">71: Broad St / Pawtucket Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.0</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.40232,41.857002,0
@@ -2610,9 +2955,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65x: Wakefield Park-n-Ride</name>
+		<name>65x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">65x</SimpleData>
+<SimpleData name="LineName">65x: Wakefield Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">30.34</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.483328,41.428201,0
@@ -2641,9 +2993,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R Line: Broad / North Main</name>
+		<name>R</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">R</SimpleData>
+<SimpleData name="LineName">R Line: Broad / North Main</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.83</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.401675,41.786141,0
@@ -2682,9 +3041,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>69: Narragansett / Galilee</name>
+		<name>69</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">69</SimpleData>
+<SimpleData name="LineName">69: Narragansett / Galilee</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.66</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.529311,41.484315,0
@@ -2739,9 +3105,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64: Newport / URI Kingston</name>
+		<name>64</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">64</SimpleData>
+<SimpleData name="LineName">64: Newport / URI Kingston</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.43</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.317681,41.491168,0
@@ -2825,9 +3198,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24L: Newport / Fall River / Providence</name>
+		<name>24l</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">24l</SimpleData>
+<SimpleData name="LineName">24L: Newport / Fall River / Providence</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">32.83</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.317643,41.491792,0
@@ -2840,9 +3220,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61x: Tiverton / East Bay Park-n-Ride</name>
+		<name>61x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">61x</SimpleData>
+<SimpleData name="LineName">61x: Tiverton / East Bay Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.33</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -2905,9 +3292,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Providence / Newport</name>
+		<name>60-e</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via East Main St<br/>Agency: ri-ripta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">60-e</SimpleData>
+<SimpleData name="LineName">60: Providence / Newport</SimpleData>
+<SimpleData name="LineBranch">via East Main St</SimpleData>
+<SimpleData name="LineLength">29.28</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.317616,41.491606,0
@@ -3035,9 +3429,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Providence / Newport</name>
+		<name>60-w</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via West Main St<br/>Agency: ri-ripta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">60-w</SimpleData>
+<SimpleData name="LineName">60: Providence / Newport</SimpleData>
+<SimpleData name="LineBranch">via West Main St</SimpleData>
+<SimpleData name="LineLength">29.53</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.317616,41.491606,0
@@ -3153,9 +3554,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: URI / CCRI Warwick / Providence</name>
+		<name>66</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">66</SimpleData>
+<SimpleData name="LineName">66: URI / CCRI Warwick / Providence</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">29.77</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.412841,41.828623,0
@@ -3193,9 +3601,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301: Westerly / Hope Valley Rural Ride</name>
+		<name>301</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">301</SimpleData>
+<SimpleData name="LineName">301: Westerly / Hope Valley Rural Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.78</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.829808,41.381108,0
@@ -3222,9 +3637,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>95x: Westerly Park-n-Ride</name>
+		<name>95x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">95x</SimpleData>
+<SimpleData name="LineName">95x: Westerly Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">39.66</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.829808,41.381108,0
@@ -3246,9 +3668,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12x: Arctic / 117 Express Park-n-Ride</name>
+		<name>12x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">12x</SimpleData>
+<SimpleData name="LineName">12x: Arctic / 117 Express Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.63</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.412371,41.825959,0
@@ -3279,9 +3708,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59x: N. Smithfield / Lincoln Park-n-Ride</name>
+		<name>59x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">59x</SimpleData>
+<SimpleData name="LineName">59x: N. Smithfield / Lincoln Park-n-Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.43</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.416802,41.823682,0
@@ -3301,9 +3737,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68: CCRI Newport / Memorial Blvd / First Beach</name>
+		<name>68</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">68</SimpleData>
+<SimpleData name="LineName">68: CCRI Newport / Memorial Blvd / First Beach</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.25</SimpleData>
+<SimpleData name="LineEDI">2.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.285354,41.499428,0
@@ -3336,9 +3779,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67: Bellevue / Salve Regina Univ.</name>
+		<name>67</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">67</SimpleData>
+<SimpleData name="LineName">67: Bellevue / Salve Regina Univ.</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.46</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.317681,41.491168,0
@@ -3371,9 +3821,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Broadway / Middletown Shops</name>
+		<name>63</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 2.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">63</SimpleData>
+<SimpleData name="LineName">63: Broadway / Middletown Shops</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.38</SimpleData>
+<SimpleData name="LineEDI">2.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.317594,41.491319,0
@@ -3434,9 +3891,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Prairie / Roger Williams Park Zoo</name>
+		<name>6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ri-ripta<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ri-ripta</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Prairie / Roger Williams Park Zoo</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.48</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.416191,41.794166,0

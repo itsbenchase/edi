@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>wa-ctran routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>190: Marquam Hill Express</name>
+		<name>190</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">190</SimpleData>
+<SimpleData name="LineName">190: Marquam Hill Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.12</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.598955,45.641637,0
@@ -65,9 +74,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>164: Fisher's Landing Express</name>
+		<name>164</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">164</SimpleData>
+<SimpleData name="LineName">164: Fisher's Landing Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.36</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.681811,45.512943,0
@@ -79,9 +95,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: I-5 Express</name>
+		<name>105</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">105</SimpleData>
+<SimpleData name="LineName">105: I-5 Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.89</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.660254,45.7214,0
@@ -98,9 +121,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>92: Camas / Washougal</name>
+		<name>92</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">92</SimpleData>
+<SimpleData name="LineName">92: Camas / Washougal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.44</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.321559,45.573242,0
@@ -136,9 +166,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: Van Mall / Fishers</name>
+		<name>80</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">80</SimpleData>
+<SimpleData name="LineName">80: Van Mall / Fishers</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.73</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.505409,45.594491,0
@@ -184,9 +221,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78: 78th Street</name>
+		<name>78</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">78</SimpleData>
+<SimpleData name="LineName">78: 78th Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.03</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.663864,45.690281,0
@@ -219,9 +263,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74: East Fourth Plain</name>
+		<name>74</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">74</SimpleData>
+<SimpleData name="LineName">74: East Fourth Plain</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.05</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.584719,45.656179,0
@@ -250,9 +301,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72: Orchards</name>
+		<name>72</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">72</SimpleData>
+<SimpleData name="LineName">72: Orchards</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.89</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.584719,45.656179,0
@@ -283,9 +341,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71: Highway 99</name>
+		<name>71</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">71</SimpleData>
+<SimpleData name="LineName">71: Highway 99</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.09</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.663864,45.690281,0
@@ -316,9 +381,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Delta Park Regional</name>
+		<name>60</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: Delta Park Regional</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.98</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.685493,45.596157,0
@@ -332,9 +404,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48: Ridgefield</name>
+		<name>48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">48</SimpleData>
+<SimpleData name="LineName">48: Ridgefield</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.16</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.700055,45.815606,0
@@ -344,9 +423,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Battle Ground / Yacolt</name>
+		<name>47</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">47</SimpleData>
+<SimpleData name="LineName">47: Battle Ground / Yacolt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.57</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.529299,45.781192,0
@@ -357,9 +443,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: SR 14</name>
+		<name>41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: SR 14</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.82</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.670036,45.632668,0
@@ -370,9 +463,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Mill Plain / Fishers</name>
+		<name>37-192nd</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via 192nd Ave<br/>Agency: wa-ctran<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">37-192nd</SimpleData>
+<SimpleData name="LineName">37: Mill Plain / Fishers</SimpleData>
+<SimpleData name="LineBranch">via 192nd Ave</SimpleData>
+<SimpleData name="LineLength">12.37</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.505409,45.594491,0
@@ -419,9 +519,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Mill Plain / Fishers</name>
+		<name>37-164th</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via 164th Ave<br/>Agency: wa-ctran<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">37-164th</SimpleData>
+<SimpleData name="LineName">37: Mill Plain / Fishers</SimpleData>
+<SimpleData name="LineBranch">via 164th Ave</SimpleData>
+<SimpleData name="LineLength">9.8</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.505409,45.594491,0
@@ -461,9 +568,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Evergreen / Andresen</name>
+		<name>32</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Evergreen / Andresen</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.2</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.584719,45.656179,0
@@ -502,9 +616,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Hazel Dell</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Hazel Dell</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.51</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.667999,45.628761,0
@@ -532,9 +653,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Burton</name>
+		<name>30</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Burton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.14</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.670441,45.62851,0
@@ -598,9 +726,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: St Johns</name>
+		<name>25</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">25</SimpleData>
+<SimpleData name="LineName">25: St Johns</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.59</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.663864,45.690281,0
@@ -645,9 +780,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Salmon Creek</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Salmon Creek</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.25</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.640945,45.729022,0
@@ -665,9 +807,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Felida</name>
+		<name>9</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 3.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: Felida</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.63</SimpleData>
+<SimpleData name="LineEDI">3.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.664233,45.693986,0
@@ -705,9 +854,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Battle Ground</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Battle Ground</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.38</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.527062,45.776018,0
@@ -744,9 +900,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Fruit Valley / Grand</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Fruit Valley / Grand</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.52</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.691535,45.650048,0
@@ -776,9 +939,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Lincoln</name>
+		<name>2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Lincoln</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.78</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.663864,45.690281,0
@@ -823,9 +993,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>The Vine</name>
+		<name>Vine</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wa-ctran<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wa-ctran</SimpleData>
+<SimpleData name="LineCode">Vine</SimpleData>
+<SimpleData name="LineName">The Vine</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.51</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.584719,45.656179,0

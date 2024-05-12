@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ca-unitrans routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Z: Amtrak / Cantrill / 5th</name>
+		<name>Z</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">Z</SimpleData>
+<SimpleData name="LineName">Z: Amtrak / Cantrill / 5th</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.91</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.750044,38.54386,0
@@ -80,9 +89,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>W: Cowell / Lillard / Drummond</name>
+		<name>W</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">W</SimpleData>
+<SimpleData name="LineName">W: Cowell / Lillard / Drummond</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.47</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753079,38.539346,0
@@ -102,9 +118,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>V: West Village - All Stops</name>
+		<name>V</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">V</SimpleData>
+<SimpleData name="LineName">V: West Village - All Stops</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.42</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753094,38.539142,0
@@ -117,9 +140,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>U: West Village via MU Terminal</name>
+		<name>U</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">U</SimpleData>
+<SimpleData name="LineName">U: West Village via MU Terminal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.86</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -131,9 +161,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>T: Davis High</name>
+		<name>T</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 7.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">T</SimpleData>
+<SimpleData name="LineName">T: Davis High</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.73</SimpleData>
+<SimpleData name="LineEDI">7.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.750585,38.555965,0
@@ -172,9 +209,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>O: Amtrak / 5th / Alhambra / Target</name>
+		<name>O</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">O</SimpleData>
+<SimpleData name="LineName">O: Amtrak / 5th / Alhambra / Target</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.48</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.750044,38.54386,0
@@ -205,9 +249,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>M: B St / Cowell / Drew</name>
+		<name>M</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">M</SimpleData>
+<SimpleData name="LineName">M: B St / Cowell / Drew</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.93</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -223,9 +274,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L: E 8th / Pole Line / Moore / Loyola</name>
+		<name>L</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">L</SimpleData>
+<SimpleData name="LineName">L: E 8th / Pole Line / Moore / Loyola</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.85</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753685,38.539329,0
@@ -251,9 +309,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>K: Lake / Arlington / Arthur</name>
+		<name>K</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">K</SimpleData>
+<SimpleData name="LineName">K: Lake / Arlington / Arthur</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.57</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -266,9 +331,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J: Anderson / Alvarado / N Sycamore / Silo Terminal</name>
+		<name>J</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">J</SimpleData>
+<SimpleData name="LineName">J: Anderson / Alvarado / N Sycamore / Silo Terminal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.48</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753094,38.539142,0
@@ -287,9 +359,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G: Anderson / Alvarado / N Sycamore / MU Terminal</name>
+		<name>G</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">G</SimpleData>
+<SimpleData name="LineName">G: Anderson / Alvarado / N Sycamore / MU Terminal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.31</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -306,9 +385,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F: Oak / Anderson / F St</name>
+		<name>F</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">F</SimpleData>
+<SimpleData name="LineName">F: Oak / Anderson / F St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.87</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -328,9 +414,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E: Downtown / F St / J St</name>
+		<name>E</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">E</SimpleData>
+<SimpleData name="LineName">E: Downtown / F St / J St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.68</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749574,38.543621,0
@@ -345,9 +438,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D: Lake / Arlington</name>
+		<name>D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">D</SimpleData>
+<SimpleData name="LineName">D: Lake / Arlington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.78</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753685,38.539329,0
@@ -363,9 +463,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C: Sycamore / Wake Forest / Cuarto Dorms</name>
+		<name>C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">C</SimpleData>
+<SimpleData name="LineName">C: Sycamore / Wake Forest / Cuarto Dorms</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.42</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753094,38.539142,0
@@ -379,9 +486,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B: Sycamore / Drake</name>
+		<name>B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">B</SimpleData>
+<SimpleData name="LineName">B: Sycamore / Drake</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.82</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.749755,38.543593,0
@@ -397,9 +511,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A: Amtrak / 5th / Alhambra</name>
+		<name>A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ca-unitrans<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-unitrans</SimpleData>
+<SimpleData name="LineCode">A</SimpleData>
+<SimpleData name="LineName">A: Amtrak / 5th / Alhambra</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.3</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-121.753685,38.539329,0

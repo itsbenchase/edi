@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ny-cdta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>830: Schenectady Shopping Bus</name>
+		<name>830</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 8.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">830</SimpleData>
+<SimpleData name="LineName">830: Schenectady Shopping Bus</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.92</SimpleData>
+<SimpleData name="LineEDI">8.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.91916,42.83213,0
@@ -72,9 +81,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>370: Troy / Schenectady</name>
+		<name>370</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">370</SimpleData>
+<SimpleData name="LineName">370: Troy / Schenectady</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.39</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.934581,42.823695,0
@@ -140,9 +156,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>355: Schenectady Wolf Rd</name>
+		<name>355</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">355</SimpleData>
+<SimpleData name="LineName">355: Schenectady Wolf Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.94</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.948062,42.815198,0
@@ -195,9 +218,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>354: Rotterdam Square Mall - Nott St</name>
+		<name>354</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">354</SimpleData>
+<SimpleData name="LineName">354: Rotterdam Square Mall - Nott St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.74</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.98899,42.80787,0
@@ -229,9 +259,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>353: Scotia - Mt. Pleasant</name>
+		<name>353</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">353</SimpleData>
+<SimpleData name="LineName">353: Scotia - Mt. Pleasant</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.01</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.943953,42.84263,0
@@ -273,9 +310,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>352: McClellan St - Altamont Ave</name>
+		<name>352</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">352</SimpleData>
+<SimpleData name="LineName">352: McClellan St - Altamont Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.04</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.954141,42.782026,0
@@ -314,9 +358,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>351: Van Vranken Ave - Broadway</name>
+		<name>351</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">351</SimpleData>
+<SimpleData name="LineName">351: Van Vranken Ave - Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.51</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.909472,42.823462,0
@@ -371,9 +422,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>289: Griswold Heights - St. Mary's Hospital</name>
+		<name>289-delaware</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: to Delaware Ave<br/>Agency: ny-cdta<br/>EDI: 2.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">289-delaware</SimpleData>
+<SimpleData name="LineName">289: Griswold Heights - St. Mary's Hospital</SimpleData>
+<SimpleData name="LineBranch">to Delaware Ave</SimpleData>
+<SimpleData name="LineLength">4.93</SimpleData>
+<SimpleData name="LineEDI">2.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.673332,42.744714,0
@@ -412,9 +470,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>289: Griswold Heights - St. Mary's Hospital</name>
+		<name>289</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.94</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">289</SimpleData>
+<SimpleData name="LineName">289: Griswold Heights - St. Mary's Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.54</SimpleData>
+<SimpleData name="LineEDI">1.94</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.673332,42.744714,0
@@ -452,9 +517,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>286: Tory / Wyantskill</name>
+		<name>286-rpi</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: to RPI<br/>Agency: ny-cdta<br/>EDI: 3.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">286-rpi</SimpleData>
+<SimpleData name="LineName">286: Tory / Wyantskill</SimpleData>
+<SimpleData name="LineBranch">to RPI</SimpleData>
+<SimpleData name="LineLength">4.43</SimpleData>
+<SimpleData name="LineEDI">3.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.666573,42.711497,0
@@ -484,9 +556,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>286: Tory / Wyantskill</name>
+		<name>286-vanderheyden</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Vanderheyden Hall<br/>Agency: ny-cdta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">286-vanderheyden</SimpleData>
+<SimpleData name="LineName">286: Tory / Wyantskill</SimpleData>
+<SimpleData name="LineBranch">to Vanderheyden Hall</SimpleData>
+<SimpleData name="LineLength">5.78</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.614608,42.690563,0
@@ -526,9 +605,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>233: Albany - Schodack</name>
+		<name>233-amazon</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Amazon<br/>Agency: ny-cdta<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">233-amazon</SimpleData>
+<SimpleData name="LineName">233: Albany - Schodack</SimpleData>
+<SimpleData name="LineBranch">to Amazon</SimpleData>
+<SimpleData name="LineLength">9.89</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.76139,42.65079,0
@@ -576,9 +662,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>233: Albany - Schodack</name>
+		<name>233-park</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Schodack Park and Ride<br/>Agency: ny-cdta<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">233-park</SimpleData>
+<SimpleData name="LineName">233: Albany - Schodack</SimpleData>
+<SimpleData name="LineBranch">to Schodack Park and Ride</SimpleData>
+<SimpleData name="LineLength">9.12</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.76139,42.65079,0
@@ -625,9 +718,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>233: Albany - Schodack</name>
+		<name>233-pearl</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to S Pearl St<br/>Agency: ny-cdta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">233-pearl</SimpleData>
+<SimpleData name="LineName">233: Albany - Schodack</SimpleData>
+<SimpleData name="LineBranch">to S Pearl St</SimpleData>
+<SimpleData name="LineLength">8.74</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.753489,42.648879,0
@@ -667,9 +767,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>224: Albany - Troy via I-90</name>
+		<name>224</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">224</SimpleData>
+<SimpleData name="LineName">224: Albany - Troy via I-90</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.47</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.76139,42.65079,0
@@ -711,9 +818,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>214: Rennsselaer 3rd St</name>
+		<name>214</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">214</SimpleData>
+<SimpleData name="LineName">214: Rennsselaer 3rd St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.56</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.76139,42.65079,0
@@ -760,9 +874,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>190: Fuller Rd - Wolf Rd</name>
+		<name>190</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">190</SimpleData>
+<SimpleData name="LineName">190: Fuller Rd - Wolf Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.18</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.850299,42.687953,0
@@ -798,9 +919,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>182: Troy - Albany via Cohoes and Latham</name>
+		<name>182</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 2.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">182</SimpleData>
+<SimpleData name="LineName">182: Troy - Albany via Cohoes and Latham</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.39</SimpleData>
+<SimpleData name="LineEDI">2.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.751735,42.646205,0
@@ -904,9 +1032,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>125: Clinton Ave - Sand Creek Rd</name>
+		<name>125</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">125</SimpleData>
+<SimpleData name="LineName">125: Clinton Ave - Sand Creek Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.0</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.751735,42.646205,0
@@ -956,9 +1091,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>117: Colonie Crosstown</name>
+		<name>117</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">117</SimpleData>
+<SimpleData name="LineName">117: Colonie Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.52</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.850299,42.687953,0
@@ -989,9 +1131,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>114: Madison Ave - Washington Ave</name>
+		<name>114-rail</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Rensselaer Rail Station<br/>Agency: ny-cdta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">114-rail</SimpleData>
+<SimpleData name="LineName">114: Madison Ave - Washington Ave</SimpleData>
+<SimpleData name="LineBranch">to Rensselaer Rail Station</SimpleData>
+<SimpleData name="LineLength">8.27</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.850299,42.687953,0
@@ -1036,9 +1185,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>114: Madison Ave - Washington Ave</name>
+		<name>114-ualbany</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to UAlbany<br/>Agency: ny-cdta<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">114-ualbany</SimpleData>
+<SimpleData name="LineName">114: Madison Ave - Washington Ave</SimpleData>
+<SimpleData name="LineBranch">to UAlbany</SimpleData>
+<SimpleData name="LineLength">10.04</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.850299,42.687953,0
@@ -1088,9 +1244,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>107: Albany - Glenmont</name>
+		<name>107</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">107</SimpleData>
+<SimpleData name="LineName">107: Albany - Glenmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.53</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.750201,42.65383,0
@@ -1118,9 +1281,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Hoosick St - RPI</name>
+		<name>87</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.92</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">87</SimpleData>
+<SimpleData name="LineName">87: Hoosick St - RPI</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.41</SimpleData>
+<SimpleData name="LineEDI">1.92</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.689615,42.728322,0
@@ -1158,9 +1328,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-cottage-manor</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Cottage to Rensselaer Manor<br/>Agency: ny-cdta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-cottage-manor</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">via Cottage to Rensselaer Manor</SimpleData>
+<SimpleData name="LineLength">8.09</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1218,9 +1395,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-cottage</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Cottage St<br/>Agency: ny-cdta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-cottage</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">via Cottage St</SimpleData>
+<SimpleData name="LineLength">7.21</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1275,9 +1459,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-manor</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Rensselaer Manor<br/>Agency: ny-cdta<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-manor</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">to Rensselaer Manor</SimpleData>
+<SimpleData name="LineLength">8.01</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1335,9 +1526,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-lasalle</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via La Salle Institute<br/>Agency: ny-cdta<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-lasalle</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">via La Salle Institute</SimpleData>
+<SimpleData name="LineLength">7.59</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1394,9 +1592,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-diamond</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Diamond Hill<br/>Agency: ny-cdta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-diamond</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">via Diamond Hill</SimpleData>
+<SimpleData name="LineLength">8.33</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1457,9 +1662,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-all</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: All Stops<br/>Agency: ny-cdta<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-all</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">All Stops</SimpleData>
+<SimpleData name="LineLength">9.55</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1524,9 +1736,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>85: Fifth Ave</name>
+		<name>85-none</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Mill St to Hudson Valley<br/>Agency: ny-cdta<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">85-none</SimpleData>
+<SimpleData name="LineName">85: Fifth Ave</SimpleData>
+<SimpleData name="LineBranch">via Mill St to Hudson Valley</SimpleData>
+<SimpleData name="LineLength">7.12</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.6639,42.78687,0
@@ -1581,9 +1800,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Albany - Troy via Watervilet</name>
+		<name>22</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Albany - Troy via Watervilet</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.05</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.760902,42.648721,0
@@ -1629,9 +1855,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Delaware Ave</name>
+		<name>18</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Delaware Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.23</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.857343,42.63877,0
@@ -1693,9 +1926,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: New Scotland Ave</name>
+		<name>13</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: New Scotland Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.15</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.857343,42.63877,0
@@ -1741,9 +1981,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Washington Ave</name>
+		<name>12</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Washington Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.69</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.850299,42.687953,0
@@ -1776,9 +2023,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: SUNY Shuttle</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: SUNY Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.45</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.822915,42.688238,0
@@ -1801,9 +2055,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Western Ave</name>
+		<name>10</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Western Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.06</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.850299,42.687953,0
@@ -1853,9 +2114,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Central Ave</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ny-cdta<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ny-cdta</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.5</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.81004,42.71445,0

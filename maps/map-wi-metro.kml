@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>wi-metro routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>84: Eagle Heights - Linden / Charter</name>
+		<name>84</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">84</SimpleData>
+<SimpleData name="LineName">84: Eagle Heights - Linden / Charter</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.55</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.407339,43.0752,0
@@ -71,9 +80,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: Memorial Union - Lot 76</name>
+		<name>80-eagle</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Eagle Heights<br/>Agency: wi-metro<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">80-eagle</SimpleData>
+<SimpleData name="LineName">80: Memorial Union - Lot 76</SimpleData>
+<SimpleData name="LineBranch">via Eagle Heights</SimpleData>
+<SimpleData name="LineLength">3.61</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.40002,43.070839,0
@@ -104,9 +120,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>80: Memorial Union - Lot 76</name>
+		<name>80</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">80</SimpleData>
+<SimpleData name="LineName">80: Memorial Union - Lot 76</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.22</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.40002,43.070839,0
@@ -129,9 +152,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75: Epic - Pickney / Main</name>
+		<name>75</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">75</SimpleData>
+<SimpleData name="LineName">75: Epic - Pickney / Main</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.74</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.382303,43.075033,0
@@ -159,9 +189,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65: Research Park - University Bay</name>
+		<name>65</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 2.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">65</SimpleData>
+<SimpleData name="LineName">65: Research Park - University Bay</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.24</SimpleData>
+<SimpleData name="LineEDI">2.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.425311,43.001541,0
@@ -206,9 +243,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Epic - Junction / Watts</name>
+		<name>55</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Epic - Junction / Watts</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.92</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.563863,42.996855,0
@@ -227,9 +271,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: University Bay - Jenifer / Ingersoll</name>
+		<name>38</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: University Bay - Jenifer / Ingersoll</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.31</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.433585,43.074207,0
@@ -263,9 +314,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: University Bay - Johnson / Ingersoll</name>
+		<name>28</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: University Bay - Johnson / Ingersoll</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.24</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.433585,43.074207,0
@@ -302,9 +360,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R: Junction or S Ridge - Main / Carroll</name>
+		<name>R2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: R2: S Ridge - Main / Carroll<br/>Agency: wi-metro<br/>EDI: 1.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">R2</SimpleData>
+<SimpleData name="LineName">R: Junction or S Ridge - Main / Carroll</SimpleData>
+<SimpleData name="LineBranch">R2: S Ridge - Main / Carroll</SimpleData>
+<SimpleData name="LineLength">9.69</SimpleData>
+<SimpleData name="LineEDI">1.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.47198,43.113117,0
@@ -352,9 +417,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>R: Junction or S Ridge - Main / Carroll</name>
+		<name>R1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: R1: Junction - Main / Carroll<br/>Agency: wi-metro<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">R1</SimpleData>
+<SimpleData name="LineName">R: Junction or S Ridge - Main / Carroll</SimpleData>
+<SimpleData name="LineBranch">R1: Junction - Main / Carroll</SimpleData>
+<SimpleData name="LineLength">8.91</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.527329,43.05592,0
@@ -398,9 +470,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>O: South Transfer Point - Brooks / Johnson</name>
+		<name>O</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 2.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">O</SimpleData>
+<SimpleData name="LineName">O: South Transfer Point - Brooks / Johnson</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.59</SimpleData>
+<SimpleData name="LineEDI">2.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.402406,43.072368,0
@@ -432,9 +511,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>L: Femrite / Agricul - Sherman / Delaware</name>
+		<name>L</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.73</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">L</SimpleData>
+<SimpleData name="LineName">L: Femrite / Agricul - Sherman / Delaware</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.19</SimpleData>
+<SimpleData name="LineEDI">1.73</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.296141,43.035499,0
@@ -499,9 +585,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>J: Westfield / Mineral Point - Brooks / Johnson</name>
+		<name>J</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">J</SimpleData>
+<SimpleData name="LineName">J: Westfield / Mineral Point - Brooks / Johnson</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.28</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.507518,43.064036,0
@@ -543,9 +636,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H: Westfield - South Transfer Point</name>
+		<name>H</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">H</SimpleData>
+<SimpleData name="LineName">H: Westfield - South Transfer Point</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.02</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.394824,43.038895,0
@@ -601,9 +701,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>G: South Transfer Point - Independence</name>
+		<name>G</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.76</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">G</SimpleData>
+<SimpleData name="LineName">G: South Transfer Point - Independence</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.36</SimpleData>
+<SimpleData name="LineEDI">1.76</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.394824,43.038895,0
@@ -667,9 +774,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>F: Junction - Capitol Square</name>
+		<name>F</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 2.7</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">F</SimpleData>
+<SimpleData name="LineName">F: Junction - Capitol Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.27</SimpleData>
+<SimpleData name="LineEDI">2.7</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.527329,43.05592,0
@@ -722,9 +836,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>E: McKee - Capitol Square</name>
+		<name>E</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">E</SimpleData>
+<SimpleData name="LineName">E: McKee - Capitol Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.06</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.499232,43.015914,0
@@ -788,9 +909,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D: Watts or McKee - Sprecher or Dane County Airport</name>
+		<name>D2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D2: McKee - Dane County Airport<br/>Agency: wi-metro<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">D2</SimpleData>
+<SimpleData name="LineName">D: Watts or McKee - Sprecher or Dane County Airport</SimpleData>
+<SimpleData name="LineBranch">D2: McKee - Dane County Airport</SimpleData>
+<SimpleData name="LineLength">15.48</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.49901,43.015403,0
@@ -867,9 +995,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>D: Watts or McKee - Sprecher or Dane County Airport</name>
+		<name>D1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D1: Watts - New Sprecher<br/>Agency: wi-metro<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">D1</SimpleData>
+<SimpleData name="LineName">D: Watts or McKee - Sprecher or Dane County Airport</SimpleData>
+<SimpleData name="LineBranch">D1: Watts - New Sprecher</SimpleData>
+<SimpleData name="LineLength">16.94</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.527081,43.055401,0
@@ -961,9 +1096,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C: Highland - Sprecher or Cottontail</name>
+		<name>C2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C2: to Cottontail<br/>Agency: wi-metro<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">C2</SimpleData>
+<SimpleData name="LineName">C: Highland - Sprecher or Cottontail</SimpleData>
+<SimpleData name="LineBranch">C2: to Cottontail</SimpleData>
+<SimpleData name="LineLength">10.59</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.428844,43.077349,0
@@ -1029,9 +1171,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C: Highland - Sprecher or Cottontail</name>
+		<name>C1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C1: to New Sprecher<br/>Agency: wi-metro<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">C1</SimpleData>
+<SimpleData name="LineName">C: Highland - Sprecher or Cottontail</SimpleData>
+<SimpleData name="LineBranch">C1: to New Sprecher</SimpleData>
+<SimpleData name="LineLength">10.23</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.428844,43.077349,0
@@ -1094,9 +1243,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>C: Highland - Sprecher or Cottontail</name>
+		<name>C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Cottage Grove / Dempsey<br/>Agency: wi-metro<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">C</SimpleData>
+<SimpleData name="LineName">C: Highland - Sprecher or Cottontail</SimpleData>
+<SimpleData name="LineBranch">to Cottage Grove / Dempsey</SimpleData>
+<SimpleData name="LineLength">7.74</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.428844,43.077349,0
@@ -1148,9 +1304,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>B: Cahill - Northport</name>
+		<name>B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: wi-metro<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">B</SimpleData>
+<SimpleData name="LineName">B: Cahill - Northport</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.31</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.420341,43.019624,0
@@ -1221,9 +1384,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A: Junction - Sun Prairie or E. Madison Hospital</name>
+		<name>A2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A2: to E. Madison Hospital<br/>Agency: wi-metro<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">A2</SimpleData>
+<SimpleData name="LineName">A: Junction - Sun Prairie or E. Madison Hospital</SimpleData>
+<SimpleData name="LineBranch">A2: to E. Madison Hospital</SimpleData>
+<SimpleData name="LineLength">17.23</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.527329,43.05592,0
@@ -1298,9 +1468,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>A: Junction - Sun Prairie or E. Madison Hospital</name>
+		<name>A1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A1: to Sun Prairie<br/>Agency: wi-metro<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">wi-metro</SimpleData>
+<SimpleData name="LineCode">A1</SimpleData>
+<SimpleData name="LineName">A: Junction - Sun Prairie or E. Madison Hospital</SimpleData>
+<SimpleData name="LineBranch">A1: to Sun Prairie</SimpleData>
+<SimpleData name="LineLength">17.19</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.527329,43.05592,0

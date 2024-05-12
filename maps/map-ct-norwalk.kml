@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ct-norwalk routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Conn Ave Shuttle</name>
+		<name>Conn Ave</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 2.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">Conn Ave</SimpleData>
+<SimpleData name="LineName">Conn Ave Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.85</SimpleData>
+<SimpleData name="LineEDI">2.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.451271,41.101311,0
@@ -74,9 +83,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Main Ave Shuttle</name>
+		<name>Main Ave</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">Main Ave</SimpleData>
+<SimpleData name="LineName">Main Ave Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.88</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.415794,41.082706,0
@@ -103,9 +119,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Norwalk CC / Route 1</name>
+		<name>13</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: Norwalk CC / Route 1</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.19</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.414993,41.118259,0
@@ -127,9 +150,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: South Norwalk / East Norwalk / Norwalk CC</name>
+		<name>11</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 2.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: South Norwalk / East Norwalk / Norwalk CC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.06</SimpleData>
+<SimpleData name="LineEDI">2.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.414993,41.118259,0
@@ -163,9 +193,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Wilson Ave / South Norwalk</name>
+		<name>10</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Wilson Ave / South Norwalk</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.0</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.414993,41.118259,0
@@ -195,9 +232,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: South Norwalk</name>
+		<name>9</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: South Norwalk</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.31</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.414993,41.118259,0
@@ -209,9 +253,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Calf Pasture Beach / East Norwalk</name>
+		<name>7</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Calf Pasture Beach / East Norwalk</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.35</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.414993,41.118259,0
@@ -231,9 +282,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Wilson Center / Route 7</name>
+		<name>4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Wilson Center / Route 7</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.54</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.427643,41.190941,0
@@ -249,9 +307,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: The Curb / Merritt 7</name>
+		<name>3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: The Curb / Merritt 7</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.95</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.42408,41.154732,0
@@ -278,9 +343,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Riverside Cemetery / N. Taylor Ave</name>
+		<name>1-in</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Inbound<br/>Agency: ct-norwalk<br/>EDI: 2.99</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">1-in</SimpleData>
+<SimpleData name="LineName">1: Riverside Cemetery / N. Taylor Ave</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">2.95</SimpleData>
+<SimpleData name="LineEDI">2.99</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.430939,41.125965,0
@@ -295,9 +367,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Riverside Cemetery / N. Taylor Ave</name>
+		<name>1-out</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Outbound<br/>Agency: ct-norwalk<br/>EDI: 2.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">1-out</SimpleData>
+<SimpleData name="LineName">1: Riverside Cemetery / N. Taylor Ave</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">2.59</SimpleData>
+<SimpleData name="LineEDI">2.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.414993,41.118259,0
@@ -310,9 +389,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Merrit 7 Commuter Shuttle</name>
+		<name>Merritt 7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">Merritt 7</SimpleData>
+<SimpleData name="LineName">Merrit 7 Commuter Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.81</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.421165,41.096634,0
@@ -326,9 +412,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10-20 Westport Rd Shuttle</name>
+		<name>10-20 Westport</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-norwalk<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-norwalk</SimpleData>
+<SimpleData name="LineCode">10-20 Westport</SimpleData>
+<SimpleData name="LineName">10-20 Westport Rd Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.44</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.421165,41.096634,0

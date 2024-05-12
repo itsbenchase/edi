@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ct-gbt routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>23: Derby via Rt 110</name>
+		<name>23</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Derby via Rt 110</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.59</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187515,41.181396,0
@@ -122,9 +131,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22X: Corporate Dr</name>
+		<name>22x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">22x</SimpleData>
+<SimpleData name="LineName">22X: Corporate Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.91</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187515,41.181396,0
@@ -155,9 +171,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19X: Monroe Tpke Shop and Shop</name>
+		<name>19x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">19x</SimpleData>
+<SimpleData name="LineName">19X: Monroe Tpke Shop and Shop</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.52</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.18708,41.181568,0
@@ -191,9 +214,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Success Park via North Ave</name>
+		<name>17</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 3.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: Success Park via North Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.54</SimpleData>
+<SimpleData name="LineEDI">3.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187195,41.181244,0
@@ -250,9 +280,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Derby via Huntington Rd</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Derby via Huntington Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.75</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187515,41.181396,0
@@ -327,9 +364,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Success Park via Central Ave</name>
+		<name>13</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 2.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: Success Park via Central Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.31</SimpleData>
+<SimpleData name="LineEDI">2.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187462,41.181553,0
@@ -377,9 +421,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Fairfield Woods</name>
+		<name>10</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Fairfield Woods</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.25</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.133461,41.188435,0
@@ -448,9 +499,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Seaside Park - Hawley Lane</name>
+		<name>9-quarry</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Quarry Road<br/>Agency: ct-gbt<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">9-quarry</SimpleData>
+<SimpleData name="LineName">9: Seaside Park - Hawley Lane</SimpleData>
+<SimpleData name="LineBranch">to Quarry Road</SimpleData>
+<SimpleData name="LineLength">6.66</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.202938,41.160015,0
@@ -500,9 +558,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Seaside Park - Hawley Lane</name>
+		<name>9-hawley</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Hawley Lane<br/>Agency: ct-gbt<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">9-hawley</SimpleData>
+<SimpleData name="LineName">9: Seaside Park - Hawley Lane</SimpleData>
+<SimpleData name="LineBranch">to Hawley Lane</SimpleData>
+<SimpleData name="LineLength">6.91</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.202938,41.160015,0
@@ -552,9 +617,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Westfield Trumbull Mall via Main St</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Westfield Trumbull Mall via Main St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.9</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187271,41.180889,0
@@ -592,9 +664,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Carolton Hospital</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Carolton Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.61</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187347,41.181141,0
@@ -635,9 +714,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Westfield Trumbull Mall via Trumbull Ave</name>
+		<name>6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Westfield Trumbull Mall via Trumbull Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.57</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187149,41.181408,0
@@ -692,9 +778,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Black Rock</name>
+		<name>5-out</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Outbound<br/>Agency: ct-gbt<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">5-out</SimpleData>
+<SimpleData name="LineName">5: Black Rock</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">3.32</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187378,41.180981,0
@@ -722,9 +815,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Black Rock</name>
+		<name>5-in</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Inbound<br/>Agency: ct-gbt<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">5-in</SimpleData>
+<SimpleData name="LineName">5: Black Rock</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">3.49</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.226669,41.157604,0
@@ -757,9 +857,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Westfield Trumbull Mall via Park Ave</name>
+		<name>4</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Westfield Trumbull Mall via Park Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.21</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187195,41.181244,0
@@ -808,9 +915,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Westfield Trumbull Mall via Madison Ave</name>
+		<name>3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Westfield Trumbull Mall via Madison Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.91</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.187233,41.18108,0
@@ -862,9 +976,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: The Dock - Seaside Park</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: The Dock - Seaside Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.79</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.115273,41.203007,0
@@ -906,9 +1027,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Coastal Link</name>
+		<name>coastal</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-gbt<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-gbt</SimpleData>
+<SimpleData name="LineCode">coastal</SimpleData>
+<SimpleData name="LineName">Coastal Link</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">24.4</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-73.034622,41.234528,0

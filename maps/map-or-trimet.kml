@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>or-trimet routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>17: Holgate / Broadway</name>
+		<name>17</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: Holgate / Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.02</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.524025,45.483485,0
@@ -147,9 +156,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Vermont</name>
+		<name>1</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 2.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Vermont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.82</SimpleData>
+<SimpleData name="LineEDI">2.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.677232,45.522894,0
@@ -208,9 +224,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MAX Yellow Line</name>
+		<name>Yellow</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">Yellow</SimpleData>
+<SimpleData name="LineName">MAX Yellow Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.14</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.683593,45.509616,0
@@ -234,9 +257,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MAX Red Line</name>
+		<name>Red</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">Red</SimpleData>
+<SimpleData name="LineName">MAX Red Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.1</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.8012,45.491696,0
@@ -265,9 +295,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MAX Orange Line</name>
+		<name>Orange</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">Orange</SimpleData>
+<SimpleData name="LineName">MAX Orange Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.98</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.635065,45.430734,0
@@ -285,9 +322,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MAX Green Line</name>
+		<name>Green</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.78</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">Green</SimpleData>
+<SimpleData name="LineName">MAX Green Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.54</SimpleData>
+<SimpleData name="LineEDI">1.78</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.683593,45.509616,0
@@ -316,9 +360,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>MAX Blue Line</name>
+		<name>Blue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: or-trimet<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">or-trimet</SimpleData>
+<SimpleData name="LineCode">Blue</SimpleData>
+<SimpleData name="LineName">MAX Blue Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">30.85</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-122.991022,45.522204,0

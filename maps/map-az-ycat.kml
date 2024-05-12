@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>az-ycat routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>Yellow Route 95</name>
+		<name>95</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">95</SimpleData>
+<SimpleData name="LineName">Yellow Route 95</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">25.49</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.616121,32.722779,0
@@ -114,9 +123,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Turquoise Route 10</name>
+		<name>10</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">Turquoise Route 10</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">57.71</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.616121,32.722779,0
@@ -135,9 +151,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Silver Route 9</name>
+		<name>9</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">Silver Route 9</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">29.87</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.495974,32.687339,0
@@ -178,9 +201,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Gold Route 8</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">Gold Route 8</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.86</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.142563,32.673795,0
@@ -218,9 +248,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Purple Route 6A</name>
+		<name>6A</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 2.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">6A</SimpleData>
+<SimpleData name="LineName">Purple Route 6A</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.67</SimpleData>
+<SimpleData name="LineEDI">2.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.766169,32.624257,0
@@ -273,9 +310,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Route 5</name>
+		<name>5</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">Blue Route 5</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.94</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.593997,32.750579,0
@@ -291,9 +335,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Orange Route 2</name>
+		<name>2</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: az-ycat<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">az-ycat</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">Orange Route 2</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.97</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-114.61611,32.722651,0

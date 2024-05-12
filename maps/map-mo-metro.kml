@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>mo-metro routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>174x: Halls Ferry Express</name>
+		<name>174x</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">174x</SimpleData>
+<SimpleData name="LineName">174x: Halls Ferry Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.92</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.275209,38.769798,0
@@ -94,9 +103,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>98: Ballas - North Hanley</name>
+		<name>98</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">98</SimpleData>
+<SimpleData name="LineName">98: Ballas - North Hanley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.34</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.315179,38.71924,0
@@ -126,9 +142,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>97: Delmar</name>
+		<name>97</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">97</SimpleData>
+<SimpleData name="LineName">97: Delmar</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.55</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.339744,38.646068,0
@@ -191,9 +214,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>95: Kingshighway</name>
+		<name>95</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">95</SimpleData>
+<SimpleData name="LineName">95: Kingshighway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.34</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.293892,38.564759,0
@@ -266,9 +296,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>94: Page</name>
+		<name>94</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">94</SimpleData>
+<SimpleData name="LineName">94: Page</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.04</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.440788,38.697583,0
@@ -362,9 +399,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>91: Olive</name>
+		<name>91</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">91</SimpleData>
+<SimpleData name="LineName">91: Olive</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.0</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.295273,38.655616,0
@@ -450,9 +494,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90: Ferguson</name>
+		<name>90</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">90</SimpleData>
+<SimpleData name="LineName">90: Ferguson</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.51</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.293892,38.564759,0
@@ -536,9 +587,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>79: Ferguson</name>
+		<name>79-florissant</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Florissant<br/>Agency: mo-metro<br/>EDI: 1.84</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">79-florissant</SimpleData>
+<SimpleData name="LineName">79: Ferguson</SimpleData>
+<SimpleData name="LineBranch">via Florissant</SimpleData>
+<SimpleData name="LineLength">7.6</SimpleData>
+<SimpleData name="LineEDI">1.84</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.274517,38.76987,0
@@ -580,9 +638,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>79: Ferguson</name>
+		<name>79-dade</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: via Dade<br/>Agency: mo-metro<br/>EDI: 2.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">79-dade</SimpleData>
+<SimpleData name="LineName">79: Ferguson</SimpleData>
+<SimpleData name="LineBranch">via Dade</SimpleData>
+<SimpleData name="LineLength">8.83</SimpleData>
+<SimpleData name="LineEDI">2.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.274517,38.76987,0
@@ -633,9 +698,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78: Bellefontaine</name>
+		<name>78</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 3.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">78</SimpleData>
+<SimpleData name="LineName">78: Bellefontaine</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.25</SimpleData>
+<SimpleData name="LineEDI">3.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.223987,38.727169,0
@@ -702,9 +774,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77: Village Square</name>
+		<name>77</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 3.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">77</SimpleData>
+<SimpleData name="LineName">77: Village Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.65</SimpleData>
+<SimpleData name="LineEDI">3.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.274517,38.76987,0
@@ -765,9 +844,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>76: McDonnell - Waterford</name>
+		<name>76</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 3.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">76</SimpleData>
+<SimpleData name="LineName">76: McDonnell - Waterford</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.83</SimpleData>
+<SimpleData name="LineEDI">3.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.275209,38.769798,0
@@ -832,9 +918,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74: Florissant</name>
+		<name>74</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">74</SimpleData>
+<SimpleData name="LineName">74: Florissant</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.68</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.275209,38.769798,0
@@ -918,9 +1011,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73: Carondelet</name>
+		<name>73</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">73</SimpleData>
+<SimpleData name="LineName">73: Carondelet</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.15</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.202342,38.625451,0
@@ -984,9 +1084,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70: Grand</name>
+		<name>70</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">70</SimpleData>
+<SimpleData name="LineName">70: Grand</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.15</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.220537,38.686096,0
@@ -1046,9 +1153,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64: Lucas - Hunt</name>
+		<name>64</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">64</SimpleData>
+<SimpleData name="LineName">64: Lucas - Hunt</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.0</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.224061,38.727296,0
@@ -1094,9 +1208,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61: Chambers Rd</name>
+		<name>61</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 2.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">61</SimpleData>
+<SimpleData name="LineName">61: Chambers Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.29</SimpleData>
+<SimpleData name="LineEDI">2.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.314949,38.719761,0
@@ -1157,9 +1278,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Shepley - Lilac</name>
+		<name>60</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 2.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: Shepley - Lilac</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.83</SimpleData>
+<SimpleData name="LineEDI">2.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.224061,38.727296,0
@@ -1197,9 +1325,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59: Oakland</name>
+		<name>59</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">59</SimpleData>
+<SimpleData name="LineName">59: Oakland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.69</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.260156,38.636091,0
@@ -1224,9 +1359,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58: Chesterfield Valley</name>
+		<name>58</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">58</SimpleData>
+<SimpleData name="LineName">58: Chesterfield Valley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.49</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.662094,38.676751,0
@@ -1258,9 +1400,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Manchester</name>
+		<name>57</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Manchester</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.78</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.331006,38.614082,0
@@ -1331,9 +1480,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Kirkwood - Webster</name>
+		<name>56</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">56</SimpleData>
+<SimpleData name="LineName">56: Kirkwood - Webster</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.51</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.319427,38.592577,0
@@ -1366,9 +1522,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49: Lindbergh</name>
+		<name>49</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">49</SimpleData>
+<SimpleData name="LineName">49: Lindbergh</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.26</SimpleData>
+<SimpleData name="LineEDI">1.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.314949,38.719761,0
@@ -1466,9 +1629,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Hanley</name>
+		<name>47</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">47</SimpleData>
+<SimpleData name="LineName">47: Hanley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.58</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.314949,38.719761,0
@@ -1508,9 +1678,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Sarah</name>
+		<name>42</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">42</SimpleData>
+<SimpleData name="LineName">42: Sarah</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.98</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.260194,38.636061,0
@@ -1547,9 +1724,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Lee</name>
+		<name>41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: Lee</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.99</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.202768,38.625284,0
@@ -1626,9 +1810,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: N Broadway</name>
+		<name>40</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">40</SimpleData>
+<SimpleData name="LineName">40: N Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.76</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.202768,38.625284,0
@@ -1673,9 +1864,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Rock Road</name>
+		<name>35</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">35</SimpleData>
+<SimpleData name="LineName">35: Rock Road</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.79</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.301639,38.685161,0
@@ -1721,9 +1919,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Midland</name>
+		<name>33</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Midland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.86</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.443982,38.702912,0
@@ -1774,9 +1979,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Dr ML King</name>
+		<name>32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Dr ML King</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.41</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.202977,38.624296,0
@@ -1827,9 +2039,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Chouteau</name>
+		<name>31</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Chouteau</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.14</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.333196,38.622147,0
@@ -1874,9 +2093,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Arsenal</name>
+		<name>30</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Arsenal</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.99</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.319249,38.592769,0
@@ -1938,9 +2164,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Watson Rd</name>
+		<name>21</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Watson Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.34</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.319249,38.592769,0
@@ -1981,9 +2214,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: St. Louis Ave</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: St. Louis Ave</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.9</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.202809,38.62428,0
@@ -2044,9 +2284,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Taylor</name>
+		<name>18</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Taylor</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.85</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.260194,38.636061,0
@@ -2084,9 +2331,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: City Limits</name>
+		<name>16-mo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">16-mo</SimpleData>
+<SimpleData name="LineName">16: City Limits</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.11</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.319249,38.592769,0
@@ -2152,9 +2406,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Union</name>
+		<name>13-mo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">13-mo</SimpleData>
+<SimpleData name="LineName">13: Union</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.34</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.260156,38.636091,0
@@ -2195,9 +2456,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Chippewa</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Chippewa</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.88</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.319249,38.592769,0
@@ -2252,9 +2520,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Gravois - Lindell</name>
+		<name>10</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 2.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Gravois - Lindell</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.42</SimpleData>
+<SimpleData name="LineEDI">2.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.260156,38.636091,0
@@ -2318,9 +2593,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Oakville</name>
+		<name>9-mo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.49</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">9-mo</SimpleData>
+<SimpleData name="LineName">9: Oakville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.58</SimpleData>
+<SimpleData name="LineEDI">1.49</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.304595,38.471177,0
@@ -2368,9 +2650,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Shaw - Cherokee</name>
+		<name>8-mo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">8-mo</SimpleData>
+<SimpleData name="LineName">8: Shaw - Cherokee</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.88</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.260156,38.636091,0
@@ -2424,9 +2713,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Natural Bridge</name>
+		<name>4-mo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">4-mo</SimpleData>
+<SimpleData name="LineName">4: Natural Bridge</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.73</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.314949,38.719761,0
@@ -2497,9 +2793,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Red</name>
+		<name>2-mo</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 2.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">2-mo</SimpleData>
+<SimpleData name="LineName">2: Red</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.2</SimpleData>
+<SimpleData name="LineEDI">2.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.301639,38.685161,0
@@ -2553,9 +2856,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: St. Clair Square</name>
+		<name>16-il</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">16-il</SimpleData>
+<SimpleData name="LineName">16: St. Clair Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.26</SimpleData>
+<SimpleData name="LineEDI">1.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.91984,38.516439,0
@@ -2691,9 +3001,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Belleville - Shiloh - O'Fallon</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Belleville - Shiloh - O'Fallon</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.13</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.974612,38.521699,0
@@ -2757,9 +3074,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Memorial Hospital - Westfield Plaza</name>
+		<name>14</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 3.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Memorial Hospital - Westfield Plaza</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.61</SimpleData>
+<SimpleData name="LineEDI">3.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.054431,38.54775,0
@@ -2817,9 +3141,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Caseyville</name>
+		<name>13-il</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">13-il</SimpleData>
+<SimpleData name="LineName">13: Caseyville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.09</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.987386,38.670639,0
@@ -2860,9 +3191,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: O'Fallon - Fairview Heights</name>
+		<name>12</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.98</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: O'Fallon - Fairview Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">19.6</SimpleData>
+<SimpleData name="LineEDI">1.98</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.048283,38.594699,0
@@ -2984,9 +3322,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Washington Park</name>
+		<name>9-il</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 2.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">9-il</SimpleData>
+<SimpleData name="LineName">9: Washington Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.0</SimpleData>
+<SimpleData name="LineEDI">2.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.137885,38.629466,0
@@ -3049,9 +3394,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Alta Sita</name>
+		<name>8-il</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 2.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">8-il</SimpleData>
+<SimpleData name="LineName">8: Alta Sita</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.63</SimpleData>
+<SimpleData name="LineEDI">2.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.177147,38.563203,0
@@ -3125,9 +3477,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Rosemont</name>
+		<name>6</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Rosemont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.41</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.048283,38.594699,0
@@ -3208,9 +3567,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: 19th &amp; Central</name>
+		<name>4-il</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">4-il</SimpleData>
+<SimpleData name="LineName">4: 19th &amp; Central</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.68</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.159056,38.625015,0
@@ -3243,9 +3609,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>3: Sauget - Water Street</name>
+		<name>3</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.66</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Sauget - Water Street</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.61</SimpleData>
+<SimpleData name="LineEDI">1.66</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.198809,38.547377,0
@@ -3292,9 +3665,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Cahokia Heights</name>
+		<name>2-il</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">2-il</SimpleData>
+<SimpleData name="LineName">2: Cahokia Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.79</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.159056,38.625015,0
@@ -3331,9 +3711,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Gold</name>
+		<name>1-mo</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">1-mo</SimpleData>
+<SimpleData name="LineName">1: Gold</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.71</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.308863,38.646948,0
@@ -3364,9 +3751,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Main St - State St</name>
+		<name>1-il</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">1-il</SimpleData>
+<SimpleData name="LineName">1: Main St - State St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.7</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-89.974612,38.521699,0
@@ -3517,9 +3911,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Blue Line</name>
+		<name>Blue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">Blue</SimpleData>
+<SimpleData name="LineName">Blue Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">21.11</SimpleData>
+<SimpleData name="LineEDI">1.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.319436,38.592869,0
@@ -3551,9 +3952,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Red Line</name>
+		<name>Red</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: mo-metro<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">mo-metro</SimpleData>
+<SimpleData name="LineCode">Red</SimpleData>
+<SimpleData name="LineName">Red Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">34.72</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-90.3646,38.741219,0

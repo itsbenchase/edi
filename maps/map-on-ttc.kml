@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>on-ttc routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>72: Pape</name>
+		<name>72C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Commissioners<br/>Agency: on-ttc<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">72C</SimpleData>
+<SimpleData name="LineName">72: Pape</SimpleData>
+<SimpleData name="LineBranch">C: Commissioners</SimpleData>
+<SimpleData name="LineLength">2.39</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.344974,43.680066,0
@@ -78,9 +87,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72: Pape</name>
+		<name>72B</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: B: Union Station<br/>Agency: on-ttc<br/>EDI: 1.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">72B</SimpleData>
+<SimpleData name="LineName">72: Pape</SimpleData>
+<SimpleData name="LineBranch">B: Union Station</SimpleData>
+<SimpleData name="LineLength">4.64</SimpleData>
+<SimpleData name="LineEDI">1.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.344974,43.680066,0
@@ -118,9 +134,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72: Pape</name>
+		<name>72A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Parliament<br/>Agency: on-ttc<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">72A</SimpleData>
+<SimpleData name="LineName">72: Pape</SimpleData>
+<SimpleData name="LineBranch">A: Parliament</SimpleData>
+<SimpleData name="LineLength">2.79</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.344974,43.680066,0
@@ -148,9 +171,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71: Runnymeade</name>
+		<name>71</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">71</SimpleData>
+<SimpleData name="LineName">71: Runnymeade</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.38</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.494006,43.693949,0
@@ -186,9 +216,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70: O'Connor</name>
+		<name>70A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Eglinton<br/>Agency: on-ttc<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">70A</SimpleData>
+<SimpleData name="LineName">70: O'Connor</SimpleData>
+<SimpleData name="LineBranch">A: Eglinton</SimpleData>
+<SimpleData name="LineLength">3.86</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.322919,43.684079,0
@@ -223,9 +260,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68: Warden</name>
+		<name>68B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Major Mackenzie<br/>Agency: on-ttc<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">68B</SimpleData>
+<SimpleData name="LineName">68: Warden</SimpleData>
+<SimpleData name="LineBranch">B: Major Mackenzie</SimpleData>
+<SimpleData name="LineLength">14.25</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.274961,43.697766,0
@@ -300,9 +344,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>68: Warden</name>
+		<name>68A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">68A</SimpleData>
+<SimpleData name="LineName">68: Warden</SimpleData>
+<SimpleData name="LineBranch">A: Steeles</SimpleData>
+<SimpleData name="LineLength">8.91</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.274961,43.697766,0
@@ -358,9 +409,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67: Pharmacy</name>
+		<name>67B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Eglinton<br/>Agency: on-ttc<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">67B</SimpleData>
+<SimpleData name="LineName">67: Pharmacy</SimpleData>
+<SimpleData name="LineBranch">B: Eglinton</SimpleData>
+<SimpleData name="LineLength">2.74</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.288543,43.694134,0
@@ -387,9 +445,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67: Pharmacy</name>
+		<name>67A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Ellesmere<br/>Agency: on-ttc<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">67A</SimpleData>
+<SimpleData name="LineName">67: Pharmacy</SimpleData>
+<SimpleData name="LineBranch">A: Ellesmere</SimpleData>
+<SimpleData name="LineLength">5.57</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.28801,43.691385,0
@@ -434,9 +499,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>510: Spadina</name>
+		<name>510C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: King<br/>Agency: on-ttc<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">510C</SimpleData>
+<SimpleData name="LineName">510: Spadina</SimpleData>
+<SimpleData name="LineBranch">C: King</SimpleData>
+<SimpleData name="LineLength">1.55</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -453,9 +525,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Prince Edward</name>
+		<name>66B</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: B: Lakeshore<br/>Agency: on-ttc<br/>EDI: 2.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">66B</SimpleData>
+<SimpleData name="LineName">66: Prince Edward</SimpleData>
+<SimpleData name="LineBranch">B: Lakeshore</SimpleData>
+<SimpleData name="LineLength">4.16</SimpleData>
+<SimpleData name="LineEDI">2.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.495025,43.650311,0
@@ -491,9 +570,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Prince Edward</name>
+		<name>66A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: A: Humber Loop<br/>Agency: on-ttc<br/>EDI: 1.88</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">66A</SimpleData>
+<SimpleData name="LineName">66: Prince Edward</SimpleData>
+<SimpleData name="LineBranch">A: Humber Loop</SimpleData>
+<SimpleData name="LineLength">2.92</SimpleData>
+<SimpleData name="LineEDI">1.88</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.495025,43.650311,0
@@ -521,9 +607,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65: Parliament</name>
+		<name>65</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">65</SimpleData>
+<SimpleData name="LineName">65: Parliament</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.16</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.369136,43.673452,0
@@ -549,9 +642,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64: Main</name>
+		<name>64</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">64</SimpleData>
+<SimpleData name="LineName">64: Main</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.24</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.302006,43.688299,0
@@ -568,9 +668,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Ossington</name>
+		<name>63B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: St Clair<br/>Agency: on-ttc<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">63B</SimpleData>
+<SimpleData name="LineName">63: Ossington</SimpleData>
+<SimpleData name="LineBranch">B: St Clair</SimpleData>
+<SimpleData name="LineLength">3.78</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.435844,43.679864,0
@@ -605,9 +712,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Ossington</name>
+		<name>63A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Eglinton West<br/>Agency: on-ttc<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">63A</SimpleData>
+<SimpleData name="LineName">63: Ossington</SimpleData>
+<SimpleData name="LineBranch">A: Eglinton West</SimpleData>
+<SimpleData name="LineLength">5.37</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.436493,43.699447,0
@@ -651,9 +765,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62: Mortimer</name>
+		<name>62</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">62</SimpleData>
+<SimpleData name="LineName">62: Mortimer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.56</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.357849,43.67715,0
@@ -686,9 +807,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61: Avenue Road North</name>
+		<name>61</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">61</SimpleData>
+<SimpleData name="LineName">61: Avenue Road North</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.29</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.424182,43.743614,0
@@ -718,9 +846,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Steeles West</name>
+		<name>60D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: Highway 27<br/>Agency: on-ttc<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">60D</SimpleData>
+<SimpleData name="LineName">60: Steeles West</SimpleData>
+<SimpleData name="LineBranch">D: Highway 27</SimpleData>
+<SimpleData name="LineLength">12.05</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414857,43.780619,0
@@ -783,9 +918,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Steeles West</name>
+		<name>60B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Martin Grove<br/>Agency: on-ttc<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">60B</SimpleData>
+<SimpleData name="LineName">60: Steeles West</SimpleData>
+<SimpleData name="LineBranch">B: Martin Grove</SimpleData>
+<SimpleData name="LineLength">11.11</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414857,43.780619,0
@@ -843,9 +985,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Steeles West</name>
+		<name>60A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Pioneer Village<br/>Agency: on-ttc<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">60A</SimpleData>
+<SimpleData name="LineName">60: Steeles West</SimpleData>
+<SimpleData name="LineBranch">A: Pioneer Village</SimpleData>
+<SimpleData name="LineLength">5.93</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414857,43.780619,0
@@ -880,9 +1029,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59: Maple Leaf</name>
+		<name>59</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">59</SimpleData>
+<SimpleData name="LineName">59: Maple Leaf</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.26</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.532567,43.708091,0
@@ -933,9 +1089,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Midland</name>
+		<name>57</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Midland</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.2</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.300444,43.825065,0
@@ -983,9 +1146,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Leadside</name>
+		<name>56</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">56</SimpleData>
+<SimpleData name="LineName">56: Leadside</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.76</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.398499,43.70476,0
@@ -1023,9 +1193,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Warren Park</name>
+		<name>55</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 2.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Warren Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.25</SimpleData>
+<SimpleData name="LineEDI">2.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.495183,43.659921,0
@@ -1049,9 +1226,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Lawrence East</name>
+		<name>54B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Orton Park<br/>Agency: on-ttc<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">54B</SimpleData>
+<SimpleData name="LineName">54: Lawrence East</SimpleData>
+<SimpleData name="LineBranch">B: Orton Park</SimpleData>
+<SimpleData name="LineLength">12.24</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.399237,43.705532,0
@@ -1125,9 +1309,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Lawrence East</name>
+		<name>54A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Starspray<br/>Agency: on-ttc<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">54A</SimpleData>
+<SimpleData name="LineName">54: Lawrence East</SimpleData>
+<SimpleData name="LineBranch">A: Starspray</SimpleData>
+<SimpleData name="LineLength">16.3</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.399237,43.705532,0
@@ -1221,9 +1412,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Steeles East</name>
+		<name>53B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Markham<br/>Agency: on-ttc<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">53B</SimpleData>
+<SimpleData name="LineName">53: Steeles East</SimpleData>
+<SimpleData name="LineBranch">B: Markham</SimpleData>
+<SimpleData name="LineLength">10.73</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414746,43.78073,0
@@ -1286,9 +1484,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Steeles East</name>
+		<name>53A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Staines<br/>Agency: on-ttc<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">53A</SimpleData>
+<SimpleData name="LineName">53: Steeles East</SimpleData>
+<SimpleData name="LineBranch">A: Staines</SimpleData>
+<SimpleData name="LineLength">12.76</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414746,43.78073,0
@@ -1361,9 +1566,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Lawrence West</name>
+		<name>52G</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: G: Martin Grove<br/>Agency: on-ttc<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">52G</SimpleData>
+<SimpleData name="LineName">52: Lawrence West</SimpleData>
+<SimpleData name="LineBranch">G: Martin Grove</SimpleData>
+<SimpleData name="LineLength">7.23</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.444333,43.715545,0
@@ -1413,9 +1625,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Lawrence West</name>
+		<name>52F</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: F: Royal York<br/>Agency: on-ttc<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">52F</SimpleData>
+<SimpleData name="LineName">52: Lawrence West</SimpleData>
+<SimpleData name="LineBranch">F: Royal York</SimpleData>
+<SimpleData name="LineLength">6.87</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1463,9 +1682,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Lawrence West</name>
+		<name>52D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: McNaughton<br/>Agency: on-ttc<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">52D</SimpleData>
+<SimpleData name="LineName">52: Lawrence West</SimpleData>
+<SimpleData name="LineBranch">D: McNaughton</SimpleData>
+<SimpleData name="LineLength">13.37</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1541,9 +1767,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Lawrence West</name>
+		<name>52B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Westwood<br/>Agency: on-ttc<br/>EDI: 1.22</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">52B</SimpleData>
+<SimpleData name="LineName">52: Lawrence West</SimpleData>
+<SimpleData name="LineBranch">B: Westwood</SimpleData>
+<SimpleData name="LineLength">14.48</SimpleData>
+<SimpleData name="LineEDI">1.22</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1627,9 +1860,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Lawrence West</name>
+		<name>52A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Pearson Airport<br/>Agency: on-ttc<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">52A</SimpleData>
+<SimpleData name="LineName">52: Lawrence West</SimpleData>
+<SimpleData name="LineBranch">A: Pearson Airport</SimpleData>
+<SimpleData name="LineLength">11.1</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.402351,43.725556,0
@@ -1693,9 +1933,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Leslie</name>
+		<name>51</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Leslie</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.06</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.358829,43.809161,0
@@ -1757,9 +2004,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>50: Burnhamthorpe</name>
+		<name>50</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">50</SimpleData>
+<SimpleData name="LineName">50: Burnhamthorpe</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.58</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.580761,43.636821,0
@@ -1786,9 +2040,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49: Bloor West</name>
+		<name>49</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">49</SimpleData>
+<SimpleData name="LineName">49: Bloor West</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.87</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.580248,43.629667,0
@@ -1812,9 +2073,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48: Rathburn</name>
+		<name>48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">48</SimpleData>
+<SimpleData name="LineName">48: Rathburn</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.3</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.511038,43.648282,0
@@ -1853,9 +2121,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Lansdowne</name>
+		<name>47C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: via Orfus<br/>Agency: on-ttc<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">47C</SimpleData>
+<SimpleData name="LineName">47: Lansdowne</SimpleData>
+<SimpleData name="LineBranch">C: via Orfus</SimpleData>
+<SimpleData name="LineLength">7.3</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.437986,43.640726,0
@@ -1912,9 +2187,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Lansdowne</name>
+		<name>47B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: via Bridgeland<br/>Agency: on-ttc<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">47B</SimpleData>
+<SimpleData name="LineName">47: Lansdowne</SimpleData>
+<SimpleData name="LineBranch">B: via Bridgeland</SimpleData>
+<SimpleData name="LineLength">7.33</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.437986,43.640726,0
@@ -1972,9 +2254,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Lansdowne</name>
+		<name>47A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Gunn's Loop via St Clair<br/>Agency: on-ttc<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">47A</SimpleData>
+<SimpleData name="LineName">47: Lansdowne</SimpleData>
+<SimpleData name="LineBranch">A: Gunn's Loop via St Clair</SimpleData>
+<SimpleData name="LineLength">2.56</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.437986,43.640726,0
@@ -2000,9 +2289,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46: Martin Grove</name>
+		<name>46</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">46</SimpleData>
+<SimpleData name="LineName">46: Martin Grove</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.64</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.607838,43.756665,0
@@ -2064,9 +2360,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Kipling</name>
+		<name>45B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Carlingview via Belfield<br/>Agency: on-ttc<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">45B</SimpleData>
+<SimpleData name="LineName">45: Kipling</SimpleData>
+<SimpleData name="LineBranch">B: Carlingview via Belfield</SimpleData>
+<SimpleData name="LineLength">7.37</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.534941,43.638195,0
@@ -2116,9 +2419,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Kipling</name>
+		<name>45A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">45A</SimpleData>
+<SimpleData name="LineName">45: Kipling</SimpleData>
+<SimpleData name="LineBranch">A: Steeles</SimpleData>
+<SimpleData name="LineLength">8.83</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.534941,43.638195,0
@@ -2171,9 +2481,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44: Kipling South</name>
+		<name>44</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">44</SimpleData>
+<SimpleData name="LineName">44: Kipling South</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.38</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.535345,43.637851,0
@@ -2199,9 +2516,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Kennedy</name>
+		<name>43C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Village Green Square<br/>Agency: on-ttc<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">43C</SimpleData>
+<SimpleData name="LineName">43: Kennedy</SimpleData>
+<SimpleData name="LineBranch">C: Village Green Square</SimpleData>
+<SimpleData name="LineLength">3.62</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.263479,43.73266,0
@@ -2227,9 +2551,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Kennedy</name>
+		<name>43B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Scarborough Center<br/>Agency: on-ttc<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">43B</SimpleData>
+<SimpleData name="LineName">43: Kennedy</SimpleData>
+<SimpleData name="LineBranch">B: Scarborough Center</SimpleData>
+<SimpleData name="LineLength">4.13</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.263479,43.73266,0
@@ -2260,9 +2591,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Kennedy</name>
+		<name>43A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">43A</SimpleData>
+<SimpleData name="LineName">43: Kennedy</SimpleData>
+<SimpleData name="LineBranch">A: Steeles</SimpleData>
+<SimpleData name="LineLength">7.28</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.263479,43.73266,0
@@ -2312,9 +2650,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Cummer</name>
+		<name>42C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Victoria Park Av<br/>Agency: on-ttc<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">42C</SimpleData>
+<SimpleData name="LineName">42: Cummer</SimpleData>
+<SimpleData name="LineBranch">C: Victoria Park Av</SimpleData>
+<SimpleData name="LineLength">5.39</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414927,43.780786,0
@@ -2352,9 +2697,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Cummer</name>
+		<name>42A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Middlefield<br/>Agency: on-ttc<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">42A</SimpleData>
+<SimpleData name="LineName">42: Cummer</SimpleData>
+<SimpleData name="LineBranch">A: Middlefield</SimpleData>
+<SimpleData name="LineLength">9.87</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414927,43.780786,0
@@ -2418,9 +2770,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Keele</name>
+		<name>41</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: Keele</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.97</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.508835,43.776839,0
@@ -2487,9 +2846,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Junction-Dundas West</name>
+		<name>40B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Jane and St Clair<br/>Agency: on-ttc<br/>EDI: 1.18</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">40B</SimpleData>
+<SimpleData name="LineName">40: Junction-Dundas West</SimpleData>
+<SimpleData name="LineBranch">B: Jane and St Clair</SimpleData>
+<SimpleData name="LineLength">2.39</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.491124,43.667174,0
@@ -2512,9 +2878,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>40: Junction-Dundas West</name>
+		<name>40A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Kipling<br/>Agency: on-ttc<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">40A</SimpleData>
+<SimpleData name="LineName">40: Junction-Dundas West</SimpleData>
+<SimpleData name="LineBranch">A: Kipling</SimpleData>
+<SimpleData name="LineLength">5.68</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.535511,43.637717,0
@@ -2555,9 +2928,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: Finch East</name>
+		<name>39C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Victoria Park and Gordon Baker<br/>Agency: on-ttc<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">39C</SimpleData>
+<SimpleData name="LineName">39: Finch East</SimpleData>
+<SimpleData name="LineBranch">C: Victoria Park and Gordon Baker</SimpleData>
+<SimpleData name="LineLength">5.67</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.415127,43.78127,0
@@ -2595,9 +2975,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: Finch East</name>
+		<name>39B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Old Finch and Morningview<br/>Agency: on-ttc<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">39B</SimpleData>
+<SimpleData name="LineName">39: Finch East</SimpleData>
+<SimpleData name="LineBranch">B: Old Finch and Morningview</SimpleData>
+<SimpleData name="LineLength">11.28</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.415127,43.78127,0
@@ -2661,9 +3048,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: Finch East</name>
+		<name>39A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Neilson<br/>Agency: on-ttc<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">39A</SimpleData>
+<SimpleData name="LineName">39: Finch East</SimpleData>
+<SimpleData name="LineBranch">A: Neilson</SimpleData>
+<SimpleData name="LineLength">10.0</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.415127,43.78127,0
@@ -2720,9 +3114,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Highland Creek</name>
+		<name>38B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: U of T Scarborough<br/>Agency: on-ttc<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">38B</SimpleData>
+<SimpleData name="LineName">38: Highland Creek</SimpleData>
+<SimpleData name="LineBranch">B: U of T Scarborough</SimpleData>
+<SimpleData name="LineLength">3.94</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.257246,43.774499,0
@@ -2743,9 +3144,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Highland Creek</name>
+		<name>38A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Rouge Hill<br/>Agency: on-ttc<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">38A</SimpleData>
+<SimpleData name="LineName">38: Highland Creek</SimpleData>
+<SimpleData name="LineBranch">A: Rouge Hill</SimpleData>
+<SimpleData name="LineLength">7.33</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.257246,43.774499,0
@@ -2786,9 +3194,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Islington</name>
+		<name>37B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Steeles<br/>Agency: on-ttc<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">37B</SimpleData>
+<SimpleData name="LineName">37: Islington</SimpleData>
+<SimpleData name="LineBranch">B: Steeles</SimpleData>
+<SimpleData name="LineLength">8.77</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.576584,43.764093,0
@@ -2843,9 +3258,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Islington</name>
+		<name>37A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Woodbine &amp; Humberwood<br/>Agency: on-ttc<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">37A</SimpleData>
+<SimpleData name="LineName">37: Islington</SimpleData>
+<SimpleData name="LineBranch">A: Woodbine &amp; Humberwood</SimpleData>
+<SimpleData name="LineLength">9.47</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -2901,9 +3323,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Finch West</name>
+		<name>36F</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: F: Weston Rd &amp; Milvan via Fenmar<br/>Agency: on-ttc<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">36F</SimpleData>
+<SimpleData name="LineName">36: Finch West</SimpleData>
+<SimpleData name="LineBranch">F: Weston Rd &amp; Milvan via Fenmar</SimpleData>
+<SimpleData name="LineLength">4.52</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.564051,43.762579,0
@@ -2933,9 +3362,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Finch West</name>
+		<name>36D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: Weston Rd &amp; Milvan<br/>Agency: on-ttc<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">36D</SimpleData>
+<SimpleData name="LineName">36: Finch West</SimpleData>
+<SimpleData name="LineBranch">D: Weston Rd &amp; Milvan</SimpleData>
+<SimpleData name="LineLength">4.36</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.566035,43.760715,0
@@ -2964,9 +3400,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Finch West</name>
+		<name>36B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Humberwood<br/>Agency: on-ttc<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">36B</SimpleData>
+<SimpleData name="LineName">36: Finch West</SimpleData>
+<SimpleData name="LineBranch">B: Humberwood</SimpleData>
+<SimpleData name="LineLength">11.78</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -3032,9 +3475,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Finch West</name>
+		<name>36A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Finch West<br/>Agency: on-ttc<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">36A</SimpleData>
+<SimpleData name="LineName">36: Finch West</SimpleData>
+<SimpleData name="LineBranch">A: Finch West</SimpleData>
+<SimpleData name="LineLength">7.82</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.621226,43.724472,0
@@ -3079,9 +3529,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Jane</name>
+		<name>35B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Pioneer Village via Hullmar<br/>Agency: on-ttc<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">35B</SimpleData>
+<SimpleData name="LineName">35: Jane</SimpleData>
+<SimpleData name="LineBranch">B: Pioneer Village via Hullmar</SimpleData>
+<SimpleData name="LineLength">10.26</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.50966,43.777064,0
@@ -3150,9 +3607,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>35: Jane</name>
+		<name>35A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Pioneer Village<br/>Agency: on-ttc<br/>EDI: 1.08</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">35A</SimpleData>
+<SimpleData name="LineName">35: Jane</SimpleData>
+<SimpleData name="LineBranch">A: Pioneer Village</SimpleData>
+<SimpleData name="LineLength">9.56</SimpleData>
+<SimpleData name="LineEDI">1.08</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.50966,43.777064,0
@@ -3215,9 +3679,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Eglinton East</name>
+		<name>34C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: C: Flemingdon Park<br/>Agency: on-ttc<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">34C</SimpleData>
+<SimpleData name="LineName">34: Eglinton East</SimpleData>
+<SimpleData name="LineBranch">C: Flemingdon Park</SimpleData>
+<SimpleData name="LineLength">5.71</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.398567,43.705093,0
@@ -3259,9 +3730,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Eglinton East</name>
+		<name>34B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Don Mills &amp; Wynford<br/>Agency: on-ttc<br/>EDI: 1.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">34B</SimpleData>
+<SimpleData name="LineName">34: Eglinton East</SimpleData>
+<SimpleData name="LineBranch">B: Don Mills &amp; Wynford</SimpleData>
+<SimpleData name="LineLength">4.33</SimpleData>
+<SimpleData name="LineEDI">1.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.338338,43.723099,0
@@ -3294,9 +3772,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Eglinton East</name>
+		<name>34A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Kennedy<br/>Agency: on-ttc<br/>EDI: 1.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">34A</SimpleData>
+<SimpleData name="LineName">34: Eglinton East</SimpleData>
+<SimpleData name="LineBranch">A: Kennedy</SimpleData>
+<SimpleData name="LineLength">7.24</SimpleData>
+<SimpleData name="LineEDI">1.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.398613,43.705256,0
@@ -3338,9 +3823,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Forest Hill</name>
+		<name>33</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Forest Hill</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.95</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.425724,43.70525,0
@@ -3362,9 +3854,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Eglinton West</name>
+		<name>32D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: Jane &amp; Emmett<br/>Agency: on-ttc<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">32D</SimpleData>
+<SimpleData name="LineName">32: Eglinton West</SimpleData>
+<SimpleData name="LineBranch">D: Jane &amp; Emmett</SimpleData>
+<SimpleData name="LineLength">3.86</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.503988,43.688587,0
@@ -3396,9 +3895,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Eglinton West</name>
+		<name>32C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Jane &amp; Lawrence via Trethewey<br/>Agency: on-ttc<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">32C</SimpleData>
+<SimpleData name="LineName">32: Eglinton West</SimpleData>
+<SimpleData name="LineBranch">C: Jane &amp; Lawrence via Trethewey</SimpleData>
+<SimpleData name="LineLength">6.02</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.507916,43.701353,0
@@ -3447,9 +3953,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Eglinton West</name>
+		<name>32A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Renforth<br/>Agency: on-ttc<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">32A</SimpleData>
+<SimpleData name="LineName">32: Eglinton West</SimpleData>
+<SimpleData name="LineBranch">A: Renforth</SimpleData>
+<SimpleData name="LineLength">10.62</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.58283,43.65916,0
@@ -3508,9 +4021,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Greenwood</name>
+		<name>31B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Eastern<br/>Agency: on-ttc<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">31B</SimpleData>
+<SimpleData name="LineName">31: Greenwood</SimpleData>
+<SimpleData name="LineBranch">B: Eastern</SimpleData>
+<SimpleData name="LineLength">2.24</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.323101,43.684264,0
@@ -3535,9 +4055,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Greenwood</name>
+		<name>31A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Queen<br/>Agency: on-ttc<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">31A</SimpleData>
+<SimpleData name="LineName">31: Greenwood</SimpleData>
+<SimpleData name="LineBranch">A: Queen</SimpleData>
+<SimpleData name="LineLength">1.71</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.323101,43.684264,0
@@ -3558,9 +4085,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: High Park North</name>
+		<name>30</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: High Park North</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.41</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.482355,43.665824,0
@@ -3576,9 +4110,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: Dufferin</name>
+		<name>29C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Princes Gate<br/>Agency: on-ttc<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">29C</SimpleData>
+<SimpleData name="LineName">29: Dufferin</SimpleData>
+<SimpleData name="LineBranch">C: Princes Gate</SimpleData>
+<SimpleData name="LineLength">8.24</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.45092,43.734475,0
@@ -3636,9 +4177,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: Dufferin</name>
+		<name>29A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: DUfferin Gate<br/>Agency: on-ttc<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">29A</SimpleData>
+<SimpleData name="LineName">29: Dufferin</SimpleData>
+<SimpleData name="LineBranch">A: DUfferin Gate</SimpleData>
+<SimpleData name="LineLength">7.36</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.45092,43.734475,0
@@ -3694,9 +4242,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>28: Bayview South</name>
+		<name>28</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">28</SimpleData>
+<SimpleData name="LineName">28: Bayview South</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.65</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.396868,43.69763,0
@@ -3716,9 +4271,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26: Dupont</name>
+		<name>26</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">26</SimpleData>
+<SimpleData name="LineName">26: Dupont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.69</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.483848,43.649968,0
@@ -3766,9 +4328,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Don Mills</name>
+		<name>25C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Steeles<br/>Agency: on-ttc<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">25C</SimpleData>
+<SimpleData name="LineName">25: Don Mills</SimpleData>
+<SimpleData name="LineBranch">C: Steeles</SimpleData>
+<SimpleData name="LineLength">2.83</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.3455,43.775993,0
@@ -3791,9 +4360,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Don Mills</name>
+		<name>25B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Pape<br/>Agency: on-ttc<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">25B</SimpleData>
+<SimpleData name="LineName">25: Don Mills</SimpleData>
+<SimpleData name="LineBranch">B: Pape</SimpleData>
+<SimpleData name="LineLength">8.18</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.344585,43.680042,0
@@ -3843,9 +4419,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Don Mills</name>
+		<name>25A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Pape via Don Mills<br/>Agency: on-ttc<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">25A</SimpleData>
+<SimpleData name="LineName">25: Don Mills</SimpleData>
+<SimpleData name="LineBranch">A: Pape via Don Mills</SimpleData>
+<SimpleData name="LineLength">11.01</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.344585,43.680042,0
@@ -3910,9 +4493,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Victoria Park</name>
+		<name>24B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Don Mills<br/>Agency: on-ttc<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">24B</SimpleData>
+<SimpleData name="LineName">24: Victoria Park</SimpleData>
+<SimpleData name="LineBranch">B: Don Mills</SimpleData>
+<SimpleData name="LineLength">8.33</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.284747,43.681533,0
@@ -3968,9 +4558,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Victoria Park</name>
+		<name>24A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Steeles<br/>Agency: on-ttc<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">24A</SimpleData>
+<SimpleData name="LineName">24: Victoria Park</SimpleData>
+<SimpleData name="LineBranch">A: Steeles</SimpleData>
+<SimpleData name="LineLength">9.79</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.284747,43.681533,0
@@ -4034,9 +4631,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: Dawes</name>
+		<name>23</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 2.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Dawes</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.3</SimpleData>
+<SimpleData name="LineEDI">2.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.305535,43.704609,0
@@ -4062,9 +4666,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Coxwell</name>
+		<name>22B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Queen<br/>Agency: on-ttc<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">22B</SimpleData>
+<SimpleData name="LineName">22: Coxwell</SimpleData>
+<SimpleData name="LineBranch">B: Queen</SimpleData>
+<SimpleData name="LineLength">1.48</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.323123,43.684135,0
@@ -4083,9 +4694,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Coxwell</name>
+		<name>22A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: A: Victoria Park<br/>Agency: on-ttc<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">22A</SimpleData>
+<SimpleData name="LineName">22: Coxwell</SimpleData>
+<SimpleData name="LineBranch">A: Victoria Park</SimpleData>
+<SimpleData name="LineLength">3.33</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.323123,43.684135,0
@@ -4115,9 +4733,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Brimley</name>
+		<name>21C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: via Scarborough Centre<br/>Agency: on-ttc<br/>EDI: 1.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">21C</SimpleData>
+<SimpleData name="LineName">21: Brimley</SimpleData>
+<SimpleData name="LineBranch">C: via Scarborough Centre</SimpleData>
+<SimpleData name="LineLength">7.8</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.263253,43.732739,0
@@ -4168,9 +4793,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Brimley</name>
+		<name>21B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Steeles Ave E<br/>Agency: on-ttc<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">21B</SimpleData>
+<SimpleData name="LineName">21: Brimley</SimpleData>
+<SimpleData name="LineBranch">B: Steeles Ave E</SimpleData>
+<SimpleData name="LineLength">4.21</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.258185,43.774257,0
@@ -4201,9 +4833,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Brimley</name>
+		<name>21A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Kennedy<br/>Agency: on-ttc<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">21A</SimpleData>
+<SimpleData name="LineName">21: Brimley</SimpleData>
+<SimpleData name="LineBranch">A: Kennedy</SimpleData>
+<SimpleData name="LineLength">3.59</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.263253,43.732739,0
@@ -4231,9 +4870,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Cliffside</name>
+		<name>20</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Cliffside</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.81</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.301482,43.689158,0
@@ -4280,9 +4926,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Bay</name>
+		<name>19</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Bay</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.61</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.401938,43.675511,0
@@ -4316,9 +4969,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Birchmount</name>
+		<name>17C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Steeles and Warden<br/>Agency: on-ttc<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">17C</SimpleData>
+<SimpleData name="LineName">17: Birchmount</SimpleData>
+<SimpleData name="LineBranch">C: Steeles and Warden</SimpleData>
+<SimpleData name="LineLength">8.62</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.325087,43.82097,0
@@ -4371,9 +5031,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Birchmount</name>
+		<name>17B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Steeles via Wintermute<br/>Agency: on-ttc<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">17B</SimpleData>
+<SimpleData name="LineName">17: Birchmount</SimpleData>
+<SimpleData name="LineBranch">B: Steeles via Wintermute</SimpleData>
+<SimpleData name="LineLength">8.2</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.316825,43.820861,0
@@ -4424,9 +5091,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Birchmount</name>
+		<name>17A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Highway 7<br/>Agency: on-ttc<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">17A</SimpleData>
+<SimpleData name="LineName">17: Birchmount</SimpleData>
+<SimpleData name="LineBranch">A: Highway 7</SimpleData>
+<SimpleData name="LineLength">10.97</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.324977,43.856324,0
@@ -4492,9 +5166,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: McCowan</name>
+		<name>16</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: McCowan</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.61</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.257944,43.774322,0
@@ -4537,9 +5218,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Evans</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Evans</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.93</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.557773,43.609847,0
@@ -4580,9 +5268,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Glencairn</name>
+		<name>14</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Glencairn</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.05</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.397014,43.697799,0
@@ -4619,9 +5314,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Avenue Rd</name>
+		<name>13B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Gerrard<br/>Agency: on-ttc<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">13B</SimpleData>
+<SimpleData name="LineName">13: Avenue Rd</SimpleData>
+<SimpleData name="LineBranch">B: Gerrard</SimpleData>
+<SimpleData name="LineLength">3.86</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.399863,43.70565,0
@@ -4653,9 +5355,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Avenue Rd</name>
+		<name>13A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Queen's Park<br/>Agency: on-ttc<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">13A</SimpleData>
+<SimpleData name="LineName">13: Avenue Rd</SimpleData>
+<SimpleData name="LineBranch">A: Queen's Park</SimpleData>
+<SimpleData name="LineLength">3.53</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.399863,43.70565,0
@@ -4685,9 +5394,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Kingston Rd</name>
+		<name>12D</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: D: U of T Scarborough<br/>Agency: on-ttc<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">12D</SimpleData>
+<SimpleData name="LineName">12: Kingston Rd</SimpleData>
+<SimpleData name="LineBranch">D: U of T Scarborough</SimpleData>
+<SimpleData name="LineLength">10.39</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4747,9 +5463,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Kingston Rd</name>
+		<name>12C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: C: St Clair and Barkdene Hills<br/>Agency: on-ttc<br/>EDI: 1.69</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">12C</SimpleData>
+<SimpleData name="LineName">12: Kingston Rd</SimpleData>
+<SimpleData name="LineBranch">C: St Clair and Barkdene Hills</SimpleData>
+<SimpleData name="LineLength">5.46</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4793,9 +5516,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Kingston Rd</name>
+		<name>12B</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: B: Kennedy via Brimley<br/>Agency: on-ttc<br/>EDI: 2.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">12B</SimpleData>
+<SimpleData name="LineName">12: Kingston Rd</SimpleData>
+<SimpleData name="LineBranch">B: Kennedy via Brimley</SimpleData>
+<SimpleData name="LineLength">6.73</SimpleData>
+<SimpleData name="LineEDI">2.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4843,9 +5573,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Kingston Rd</name>
+		<name>12A</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: A: Kennedy via Variety Village<br/>Agency: on-ttc<br/>EDI: 2.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">12A</SimpleData>
+<SimpleData name="LineName">12: Kingston Rd</SimpleData>
+<SimpleData name="LineBranch">A: Kennedy via Variety Village</SimpleData>
+<SimpleData name="LineLength">6.85</SimpleData>
+<SimpleData name="LineEDI">2.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.288637,43.694329,0
@@ -4893,9 +5630,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Bayview</name>
+		<name>11C</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: C: Davisville<br/>Agency: on-ttc<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">11C</SimpleData>
+<SimpleData name="LineName">11: Bayview</SimpleData>
+<SimpleData name="LineBranch">C: Davisville</SimpleData>
+<SimpleData name="LineLength">2.56</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.375956,43.72264,0
@@ -4920,9 +5664,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Bayview</name>
+		<name>11A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Davisville via Sunnybrook<br/>Agency: on-ttc<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">11A</SimpleData>
+<SimpleData name="LineName">11: Bayview</SimpleData>
+<SimpleData name="LineBranch">A: Davisville via Sunnybrook</SimpleData>
+<SimpleData name="LineLength">8.49</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.397336,43.803431,0
@@ -4985,9 +5736,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Van Horne</name>
+		<name>10</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.94</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Van Horne</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.24</SimpleData>
+<SimpleData name="LineEDI">1.94</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.347048,43.776222,0
@@ -5009,9 +5767,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Bellamy</name>
+		<name>9</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: Bellamy</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.57</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.258185,43.774257,0
@@ -5064,9 +5829,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Broadview</name>
+		<name>8</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Broadview</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.52</SimpleData>
+<SimpleData name="LineEDI">1.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.32923,43.695885,0
@@ -5093,9 +5865,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Bathurst</name>
+		<name>7</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Bathurst</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.07</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.411065,43.666061,0
@@ -5160,9 +5939,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Line 4: Sheppard</name>
+		<name>4</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">Line 4: Sheppard</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.33</SimpleData>
+<SimpleData name="LineEDI">1.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.410394,43.761494,0
@@ -5174,9 +5960,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Line 3: Scarborough</name>
+		<name>3</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">Line 3: Scarborough</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.88</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.263885,43.732449,0
@@ -5189,9 +5982,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Line 2: Bloor - Danforth</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">Line 2: Bloor - Danforth</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.02</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.535694,43.637648,0
@@ -5229,9 +6029,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>512: St Clair</name>
+		<name>512</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">512</SimpleData>
+<SimpleData name="LineName">512: St Clair</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.17</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.471837,43.671912,0
@@ -5265,9 +6072,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>511: Bathurst</name>
+		<name>511</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">511</SimpleData>
+<SimpleData name="LineName">511: Bathurst</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.99</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.411286,43.666532,0
@@ -5291,9 +6105,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>510: Spadina</name>
+		<name>510B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Queens Quay<br/>Agency: on-ttc<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">510B</SimpleData>
+<SimpleData name="LineName">510: Spadina</SimpleData>
+<SimpleData name="LineBranch">B: Queens Quay</SimpleData>
+<SimpleData name="LineLength">2.19</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -5314,9 +6135,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>510: Spadina</name>
+		<name>510A</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: A: Union Station<br/>Agency: on-ttc<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">510A</SimpleData>
+<SimpleData name="LineName">510: Spadina</SimpleData>
+<SimpleData name="LineBranch">A: Union Station</SimpleData>
+<SimpleData name="LineLength">3.18</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -5340,9 +6168,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>509: Harbourfront</name>
+		<name>509</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">509</SimpleData>
+<SimpleData name="LineName">509: Harbourfront</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.26</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.41471,43.636511,0
@@ -5361,9 +6196,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>506: Carlton</name>
+		<name>506</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">506</SimpleData>
+<SimpleData name="LineName">506: Carlton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.05</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.458045,43.647681,0
@@ -5428,9 +6270,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>505: Dundas</name>
+		<name>505</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">505</SimpleData>
+<SimpleData name="LineName">505: Dundas</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.59</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.453463,43.656821,0
@@ -5481,9 +6330,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504: King</name>
+		<name>504B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: Dufferin Gate<br/>Agency: on-ttc<br/>EDI: 1.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">504B</SimpleData>
+<SimpleData name="LineName">504: King</SimpleData>
+<SimpleData name="LineBranch">B: Dufferin Gate</SimpleData>
+<SimpleData name="LineLength">5.81</SimpleData>
+<SimpleData name="LineEDI">1.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.425872,43.634401,0
@@ -5527,9 +6383,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>504: King</name>
+		<name>504A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: Dundas West<br/>Agency: on-ttc<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">504A</SimpleData>
+<SimpleData name="LineName">504: King</SimpleData>
+<SimpleData name="LineBranch">A: Dundas West</SimpleData>
+<SimpleData name="LineLength">7.15</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.453027,43.657134,0
@@ -5579,9 +6442,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>503: Kingston Rd</name>
+		<name>503</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.07</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">503</SimpleData>
+<SimpleData name="LineName">503: Kingston Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.8</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.383573,43.648231,0
@@ -5627,9 +6497,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>501: Queen</name>
+		<name>501</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">501</SimpleData>
+<SimpleData name="LineName">501: Queen</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">16.05</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.544124,43.591811,0
@@ -5728,9 +6605,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>310: Spadina</name>
+		<name>310</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">310</SimpleData>
+<SimpleData name="LineName">310: Spadina</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.18</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.403665,43.667221,0
@@ -5754,9 +6638,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>306: Carlton</name>
+		<name>306</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">306</SimpleData>
+<SimpleData name="LineName">306: Carlton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.83</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.453027,43.657134,0
@@ -5818,9 +6709,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>304: King</name>
+		<name>304</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.76</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">304</SimpleData>
+<SimpleData name="LineName">304: King</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.65</SimpleData>
+<SimpleData name="LineEDI">1.76</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.453027,43.657134,0
@@ -5878,9 +6776,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301: Queen</name>
+		<name>301</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 1.06</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">301</SimpleData>
+<SimpleData name="LineName">301: Queen</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">15.09</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.544124,43.591811,0
@@ -5975,9 +6880,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Line 1: Yonge - University</name>
+		<name>1</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: on-ttc<br/>EDI: 4.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">on-ttc</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">Line 1: Yonge - University</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">23.17</SimpleData>
+<SimpleData name="LineEDI">4.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-79.414829,43.780942,0

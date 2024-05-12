@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ct-rvt routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>645: Madison - Middletown</name>
+		<name>645</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">645</SimpleData>
+<SimpleData name="LineName">645: Madison - Middletown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.14</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.595314,41.278617,0
@@ -110,9 +119,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>644: Old Saybrook - Middletown</name>
+		<name>644</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">644</SimpleData>
+<SimpleData name="LineName">644: Old Saybrook - Middletown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.73</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.378111,41.299729,0
@@ -165,9 +181,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>643: Old Saybrook - New London</name>
+		<name>643</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.8</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">643</SimpleData>
+<SimpleData name="LineName">643: Old Saybrook - New London</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">27.55</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.378111,41.299729,0
@@ -242,9 +265,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>642: Old Saybrook - Chester</name>
+		<name>642</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">642</SimpleData>
+<SimpleData name="LineName">642: Old Saybrook - Chester</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.4</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.378111,41.299729,0
@@ -301,9 +331,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>641: Old Saybrook - Madison</name>
+		<name>641-westbrook</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Westbrook Outlets<br/>Agency: ct-rvt<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">641-westbrook</SimpleData>
+<SimpleData name="LineName">641: Old Saybrook - Madison</SimpleData>
+<SimpleData name="LineBranch">via Westbrook Outlets</SimpleData>
+<SimpleData name="LineLength">16.03</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.378111,41.299729,0
@@ -393,9 +430,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>641: Old Saybrook - Madison</name>
+		<name>641-clinton</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Clinton Crossings<br/>Agency: ct-rvt<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">641-clinton</SimpleData>
+<SimpleData name="LineName">641: Old Saybrook - Madison</SimpleData>
+<SimpleData name="LineBranch">via Clinton Crossings</SimpleData>
+<SimpleData name="LineLength">15.82</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.378111,41.299729,0
@@ -491,9 +535,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>590: Meriden - Middletown Flyer</name>
+		<name>590</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">590</SimpleData>
+<SimpleData name="LineName">590: Meriden - Middletown Flyer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.36</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.799841,41.53963,0
@@ -510,9 +561,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>586: Portland / East Hampton</name>
+		<name>586</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">586</SimpleData>
+<SimpleData name="LineName">586: Portland / East Hampton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.95</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.649125,41.561341,0
@@ -542,9 +600,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>585: Westlake Dr</name>
+		<name>585</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.52</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">585</SimpleData>
+<SimpleData name="LineName">585: Westlake Dr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.45</SimpleData>
+<SimpleData name="LineEDI">1.52</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.649125,41.561341,0
@@ -568,9 +633,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>584: Newfield St</name>
+		<name>584</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">584</SimpleData>
+<SimpleData name="LineName">584: Newfield St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.82</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.649125,41.561341,0
@@ -607,9 +679,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>583: Washington St</name>
+		<name>583</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: ct-rvt<br/>EDI: 1.93</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">583</SimpleData>
+<SimpleData name="LineName">583: Washington St</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.39</SimpleData>
+<SimpleData name="LineEDI">1.93</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.649125,41.561341,0
@@ -639,9 +718,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>582: Wesleyan Hills</name>
+		<name>582-in</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Inbound<br/>Agency: ct-rvt<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">582-in</SimpleData>
+<SimpleData name="LineName">582: Wesleyan Hills</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">6.33</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.675593,41.503437,0
@@ -667,9 +753,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>582: Wesleyan Hills</name>
+		<name>582-out</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Outbound<br/>Agency: ct-rvt<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">582-out</SimpleData>
+<SimpleData name="LineName">582: Wesleyan Hills</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">4.86</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.649125,41.561341,0
@@ -695,9 +788,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>581: Saybrook Rd</name>
+		<name>581-in</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Inbound<br/>Agency: ct-rvt<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">581-in</SimpleData>
+<SimpleData name="LineName">581: Saybrook Rd</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">3.58</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.611464,41.528943,0
@@ -719,9 +819,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>581: Saybrook Rd</name>
+		<name>581-out</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Outbound<br/>Agency: ct-rvt<br/>EDI: 1.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-rvt</SimpleData>
+<SimpleData name="LineCode">581-out</SimpleData>
+<SimpleData name="LineName">581: Saybrook Rd</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">5.25</SimpleData>
+<SimpleData name="LineEDI">1.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-72.649125,41.561341,0

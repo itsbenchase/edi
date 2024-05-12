@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>md-mont routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>75: Clarksburg Correctional - Germantown</name>
+		<name>75</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">75</SimpleData>
+<SimpleData name="LineName">75: Clarksburg Correctional - Germantown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.5</SimpleData>
+<SimpleData name="LineEDI">2.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.29232,39.237946,0
@@ -94,9 +103,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>301: Potomac - Rockville</name>
+		<name>301</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">301</SimpleData>
+<SimpleData name="LineName">301: Potomac - Rockville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.19</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.285498,39.061866,0
@@ -151,9 +167,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101: Lakeforest - Medical Center</name>
+		<name>101</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">101</SimpleData>
+<SimpleData name="LineName">101: Lakeforest - Medical Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.41</SimpleData>
+<SimpleData name="LineEDI">1.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.199382,39.153026,0
@@ -173,9 +196,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>96: Grosvenor - Rock Spring - Montgomery Mall</name>
+		<name>96</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">96</SimpleData>
+<SimpleData name="LineName">96: Grosvenor - Rock Spring - Montgomery Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.3</SimpleData>
+<SimpleData name="LineEDI">2.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.103047,39.028663,0
@@ -208,9 +238,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>90: Shady Grove - Damascus</name>
+		<name>90</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">90</SimpleData>
+<SimpleData name="LineName">90: Shady Grove - Damascus</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.0</SimpleData>
+<SimpleData name="LineEDI">3.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.249316,39.197523,0
@@ -296,9 +333,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>78: Shady Grove - Kingsview P &amp; R</name>
+		<name>78</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.57</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">78</SimpleData>
+<SimpleData name="LineName">78: Shady Grove - Kingsview P &amp; R</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.81</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.280583,39.161121,0
@@ -344,9 +388,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>73: Shady Grove - Gateway Center</name>
+		<name>73</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">73</SimpleData>
+<SimpleData name="LineName">73: Shady Grove - Gateway Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.25</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.282893,39.23475,0
@@ -371,9 +422,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>70: Germantown - Bethesda Express</name>
+		<name>70</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.05</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">70</SimpleData>
+<SimpleData name="LineName">70: Germantown - Bethesda Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.9</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.252824,39.197542,0
@@ -398,9 +456,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>60: Shady Grove - Montgomery Village</name>
+		<name>60</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">60</SimpleData>
+<SimpleData name="LineName">60: Shady Grove - Montgomery Village</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.73</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.216543,39.173286,0
@@ -447,9 +512,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>58: Shady Grove - Lakeforest</name>
+		<name>58</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">58</SimpleData>
+<SimpleData name="LineName">58: Shady Grove - Lakeforest</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.1</SimpleData>
+<SimpleData name="LineEDI">3.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.199005,39.152836,0
@@ -505,9 +577,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>54: Rockville - Lakeforest</name>
+		<name>54</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">54</SimpleData>
+<SimpleData name="LineName">54: Rockville - Lakeforest</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.88</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.199005,39.152836,0
@@ -567,9 +646,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>81: Rockville - White Flint</name>
+		<name>81</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.68</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">81</SimpleData>
+<SimpleData name="LineName">81: Rockville - White Flint</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.25</SimpleData>
+<SimpleData name="LineEDI">1.68</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.113201,39.048142,0
@@ -602,9 +688,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>79: Shady Grove - Clarksburg</name>
+		<name>79</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.4</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">79</SimpleData>
+<SimpleData name="LineName">79: Shady Grove - Clarksburg</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.24</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.162903,39.120933,0
@@ -643,9 +736,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74: Shady Grove - Germantown Transit Ctr</name>
+		<name>74</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.82</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">74</SimpleData>
+<SimpleData name="LineName">74: Shady Grove - Germantown Transit Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.35</SimpleData>
+<SimpleData name="LineEDI">1.82</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.163278,39.120751,0
@@ -694,9 +794,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>71: Shady Grove - Kingsview P &amp; R</name>
+		<name>71</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">71</SimpleData>
+<SimpleData name="LineName">71: Shady Grove - Kingsview P &amp; R</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.35</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.163278,39.120751,0
@@ -742,9 +849,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>67: Shady Grove - Traville Transit Ctr</name>
+		<name>67</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">67</SimpleData>
+<SimpleData name="LineName">67: Shady Grove - Traville Transit Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.14</SimpleData>
+<SimpleData name="LineEDI">3.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.202408,39.092743,0
@@ -791,9 +905,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>66: Shady Grove - Traville Transit Ctr</name>
+		<name>66</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.81</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">66</SimpleData>
+<SimpleData name="LineName">66: Shady Grove - Traville Transit Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.95</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.202408,39.092743,0
@@ -831,9 +952,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>65: Shady Grove - Montgomery Village - Express</name>
+		<name>65</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">65</SimpleData>
+<SimpleData name="LineName">65: Shady Grove - Montgomery Village - Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.99</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.163069,39.120861,0
@@ -852,9 +980,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>64: Shady Grove - Montgomery Village</name>
+		<name>64</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.09</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">64</SimpleData>
+<SimpleData name="LineName">64: Shady Grove - Montgomery Village</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.09</SimpleData>
+<SimpleData name="LineEDI">2.09</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.163467,39.120659,0
@@ -911,9 +1046,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>63: Rockville - Shady Grove</name>
+		<name>63</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">63</SimpleData>
+<SimpleData name="LineName">63: Rockville - Shady Grove</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.9</SimpleData>
+<SimpleData name="LineEDI">2.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.146918,39.084619,0
@@ -959,9 +1101,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>61: Shady Grove - Germantown Transit Ctr</name>
+		<name>61</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">61</SimpleData>
+<SimpleData name="LineName">61: Shady Grove - Germantown Transit Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.15</SimpleData>
+<SimpleData name="LineEDI">1.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.163278,39.120751,0
@@ -1021,9 +1170,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>59: Rockville - Montgomery Village</name>
+		<name>59</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">59</SimpleData>
+<SimpleData name="LineName">59: Rockville - Montgomery Village</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">12.06</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.145979,39.085164,0
@@ -1104,9 +1260,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>57: Shady Grove - Lakeforest</name>
+		<name>57</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.6</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">57</SimpleData>
+<SimpleData name="LineName">57: Shady Grove - Lakeforest</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.66</SimpleData>
+<SimpleData name="LineEDI">2.6</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.164734,39.119559,0
@@ -1158,9 +1321,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>56: Rockville - Lakeforest</name>
+		<name>56</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">56</SimpleData>
+<SimpleData name="LineName">56: Rockville - Lakeforest</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.92</SimpleData>
+<SimpleData name="LineEDI">2.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.146918,39.084619,0
@@ -1242,9 +1412,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: Rockville - Germantown Transit Ctr</name>
+		<name>55</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: Rockville - Germantown Transit Ctr</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.62</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.14627,39.084041,0
@@ -1335,9 +1512,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Montgomery General Hospital - Rockville</name>
+		<name>52-hines</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Hines Rd<br/>Agency: md-mont<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">52-hines</SimpleData>
+<SimpleData name="LineName">52: Montgomery General Hospital - Rockville</SimpleData>
+<SimpleData name="LineBranch">via Hines Rd</SimpleData>
+<SimpleData name="LineLength">11.84</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.14595,39.08535,0
@@ -1397,9 +1581,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Montgomery General Hospital - Rockville</name>
+		<name>52-georgia</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: via Georgia Ave<br/>Agency: md-mont<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">52-georgia</SimpleData>
+<SimpleData name="LineName">52: Montgomery General Hospital - Rockville</SimpleData>
+<SimpleData name="LineBranch">via Georgia Ave</SimpleData>
+<SimpleData name="LineLength">9.35</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.14595,39.08535,0
@@ -1445,9 +1636,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Glenmont - Norbeck Park and Ride</name>
+		<name>51</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Glenmont - Norbeck Park and Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.24</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.053091,39.061993,0
@@ -1486,9 +1684,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>49: Rockville - Glenmont</name>
+		<name>49</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">49</SimpleData>
+<SimpleData name="LineName">49: Rockville - Glenmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.16</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.052514,39.062422,0
@@ -1539,9 +1744,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>48: Wheaton - Rockville</name>
+		<name>48</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">48</SimpleData>
+<SimpleData name="LineName">48: Wheaton - Rockville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.57</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.051671,39.037999,0
@@ -1601,9 +1813,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>47: Rockville - Montgomery Mall - Bethesda</name>
+		<name>47</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.53</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">47</SimpleData>
+<SimpleData name="LineName">47: Rockville - Montgomery Mall - Bethesda</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.38</SimpleData>
+<SimpleData name="LineEDI">1.53</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.095367,38.984798,0
@@ -1682,9 +1901,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>46: Montgomery College - Medical Center</name>
+		<name>46</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.17</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">46</SimpleData>
+<SimpleData name="LineName">46: Montgomery College - Medical Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.71</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.157503,39.096565,0
@@ -1744,9 +1970,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Rockville Regional Transit Center - Twinbrook</name>
+		<name>45</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Rockville Regional Transit Center - Twinbrook</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.17</SimpleData>
+<SimpleData name="LineEDI">2.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.119949,39.062153,0
@@ -1808,9 +2041,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>44: Twinbrook - Rockville</name>
+		<name>44</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.86</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">44</SimpleData>
+<SimpleData name="LineName">44: Twinbrook - Rockville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.04</SimpleData>
+<SimpleData name="LineEDI">1.86</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.147073,39.084753,0
@@ -1849,9 +2089,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Shady Grove - Traville Transit Center</name>
+		<name>43</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.84</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">43</SimpleData>
+<SimpleData name="LineName">43: Shady Grove - Traville Transit Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.24</SimpleData>
+<SimpleData name="LineEDI">1.84</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.202408,39.092743,0
@@ -1883,9 +2130,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: North Bethesda - Montgomery Mall</name>
+		<name>42</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.78</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">42</SimpleData>
+<SimpleData name="LineName">42: North Bethesda - Montgomery Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.43</SimpleData>
+<SimpleData name="LineEDI">3.78</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.142648,39.02586,0
@@ -1942,9 +2196,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Aspen Hill - Glenmont</name>
+		<name>41</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: Aspen Hill - Glenmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.93</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.076298,39.091483,0
@@ -1980,9 +2241,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>39: Glemont - Briggs Chaney Park &amp; Ride</name>
+		<name>39</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">39</SimpleData>
+<SimpleData name="LineName">39: Glemont - Briggs Chaney Park &amp; Ride</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.75</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.052357,39.062294,0
@@ -2031,9 +2299,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>38: Wheaton - North Bethesda</name>
+		<name>38</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">38</SimpleData>
+<SimpleData name="LineName">38: Wheaton - North Bethesda</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.81</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111877,39.047554,0
@@ -2079,9 +2354,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>37: Potomac - Wheaton</name>
+		<name>37</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.38</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">37</SimpleData>
+<SimpleData name="LineName">37: Potomac - Wheaton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.17</SimpleData>
+<SimpleData name="LineEDI">1.38</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.202217,39.039948,0
@@ -2156,9 +2438,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Potomac - Bradley Blvd - Bethesda</name>
+		<name>36-hillandale</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Hillandale Rd<br/>Agency: md-mont<br/>EDI: 1.87</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">36-hillandale</SimpleData>
+<SimpleData name="LineName">36: Potomac - Bradley Blvd - Bethesda</SimpleData>
+<SimpleData name="LineBranch">via Hillandale Rd</SimpleData>
+<SimpleData name="LineLength">7.62</SimpleData>
+<SimpleData name="LineEDI">1.87</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.169592,38.99718,0
@@ -2209,9 +2498,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>36: Potomac - Bradley Blvd - Bethesda</name>
+		<name>36</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.51</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">36</SimpleData>
+<SimpleData name="LineName">36: Potomac - Bradley Blvd - Bethesda</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.15</SimpleData>
+<SimpleData name="LineEDI">1.51</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.095451,38.984797,0
@@ -2250,9 +2546,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Aspen Hill - Friendship Heights</name>
+		<name>34-aspen</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Aspen Hill<br/>Agency: md-mont<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">34-aspen</SimpleData>
+<SimpleData name="LineName">34: Aspen Hill - Friendship Heights</SimpleData>
+<SimpleData name="LineBranch">to Aspen Hill</SimpleData>
+<SimpleData name="LineLength">11.83</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.085884,38.961586,0
@@ -2339,9 +2642,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>34: Aspen Hill - Friendship Heights</name>
+		<name>34</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">34</SimpleData>
+<SimpleData name="LineName">34: Aspen Hill - Friendship Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.35</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.085884,38.961586,0
@@ -2401,9 +2711,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>33: Glenmont - Medical Center</name>
+		<name>33</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">33</SimpleData>
+<SimpleData name="LineName">33: Glenmont - Medical Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.27</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.098483,38.999503,0
@@ -2455,9 +2772,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>32: Bethesda - Naval Ship Center and Wodrock</name>
+		<name>32</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">32</SimpleData>
+<SimpleData name="LineName">32: Bethesda - Naval Ship Center and Wodrock</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.82</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.095367,38.984798,0
@@ -2508,9 +2832,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>31: Wheaton - Glenmont</name>
+		<name>31</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.7</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">31</SimpleData>
+<SimpleData name="LineName">31: Wheaton - Glenmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.35</SimpleData>
+<SimpleData name="LineEDI">3.7</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.051064,39.037647,0
@@ -2542,9 +2873,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>30: Bethesda - Medical Center</name>
+		<name>30</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 6.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">30</SimpleData>
+<SimpleData name="LineName">30: Bethesda - Medical Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.2</SimpleData>
+<SimpleData name="LineEDI">6.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.095367,38.984798,0
@@ -2597,9 +2935,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>29: Bethesda - Glen Echo / Friendship Heights</name>
+		<name>29</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 5.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">29</SimpleData>
+<SimpleData name="LineName">29: Bethesda - Glen Echo / Friendship Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.68</SimpleData>
+<SimpleData name="LineEDI">5.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.08545,38.961537,0
@@ -2663,9 +3008,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>27: Hillandale - Tech Rd</name>
+		<name>27</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">27</SimpleData>
+<SimpleData name="LineName">27: Hillandale - Tech Rd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.67</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.9779,39.021931,0
@@ -2695,9 +3047,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>26: Montgomery Mall - Glenmont</name>
+		<name>26</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.55</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">26</SimpleData>
+<SimpleData name="LineName">26: Montgomery Mall - Glenmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.97</SimpleData>
+<SimpleData name="LineEDI">2.55</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.142959,39.026081,0
@@ -2785,9 +3144,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>25: Takoma - Langley Park</name>
+		<name>25</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.62</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">25</SimpleData>
+<SimpleData name="LineName">25: Takoma - Langley Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.96</SimpleData>
+<SimpleData name="LineEDI">1.62</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.016875,38.97618,0
@@ -2817,9 +3183,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>24: Hillandale - Takoma</name>
+		<name>24</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.5</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: Hillandale - Takoma</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.75</SimpleData>
+<SimpleData name="LineEDI">1.5</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.017007,38.975629,0
@@ -2864,9 +3237,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>23: Friendship Heights - Sibley Hospital</name>
+		<name>23</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.85</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">23</SimpleData>
+<SimpleData name="LineName">23: Friendship Heights - Sibley Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.12</SimpleData>
+<SimpleData name="LineEDI">2.85</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.107809,38.935824,0
@@ -2916,9 +3296,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>21: Silver Spring - Briggs Chaney</name>
+		<name>21</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.78</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">21</SimpleData>
+<SimpleData name="LineName">21: Silver Spring - Briggs Chaney</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.67</SimpleData>
+<SimpleData name="LineEDI">1.78</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029923,38.993619,0
@@ -2999,9 +3386,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Shady Grove - Glenmont</name>
+		<name>53</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.83</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">53</SimpleData>
+<SimpleData name="LineName">53: Shady Grove - Glenmont</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">20.36</SimpleData>
+<SimpleData name="LineEDI">2.83</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.163278,39.120751,0
@@ -3075,9 +3469,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>83: Holy Gross - Germantown TC</name>
+		<name>83</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 9.27</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">83</SimpleData>
+<SimpleData name="LineName">83: Holy Gross - Germantown TC</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.74</SimpleData>
+<SimpleData name="LineEDI">9.27</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.242572,39.181519,0
@@ -3136,9 +3537,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>22: Silver Spring - Hillandale</name>
+		<name>22</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">22</SimpleData>
+<SimpleData name="LineName">22: Silver Spring - Hillandale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.93</SimpleData>
+<SimpleData name="LineEDI">2.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029923,38.993619,0
@@ -3191,9 +3599,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Silver Spring - Northwood</name>
+		<name>19-parkside</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: via Parkside Plaza<br/>Agency: md-mont<br/>EDI: 4.0</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">19-parkside</SimpleData>
+<SimpleData name="LineName">19: Silver Spring - Northwood</SimpleData>
+<SimpleData name="LineBranch">via Parkside Plaza</SimpleData>
+<SimpleData name="LineLength">6.59</SimpleData>
+<SimpleData name="LineEDI">4.0</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029703,38.994185,0
@@ -3250,9 +3665,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>19: Silver Spring - Northwood</name>
+		<name>19</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.44</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Silver Spring - Northwood</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.66</SimpleData>
+<SimpleData name="LineEDI">3.44</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029703,38.994185,0
@@ -3302,9 +3724,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>18: Silver Spring - Langley Park</name>
+		<name>18</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">18</SimpleData>
+<SimpleData name="LineName">18: Silver Spring - Langley Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.1</SimpleData>
+<SimpleData name="LineEDI">2.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029692,38.994095,0
@@ -3349,9 +3778,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>17: Silver Spring - Langley Park</name>
+		<name>17</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.61</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">17</SimpleData>
+<SimpleData name="LineName">17: Silver Spring - Langley Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.62</SimpleData>
+<SimpleData name="LineEDI">1.61</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029473,38.99404,0
@@ -3386,9 +3822,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>15: Silver Spring - Langley Park</name>
+		<name>15</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Silver Spring - Langley Park</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.8</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-76.987856,38.991062,0
@@ -3420,9 +3863,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>14: Silver Spring - Takoma</name>
+		<name>14</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">14</SimpleData>
+<SimpleData name="LineName">14: Silver Spring - Takoma</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.23</SimpleData>
+<SimpleData name="LineEDI">3.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.017007,38.975629,0
@@ -3466,9 +3916,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>13: Silver Spring - Takoma</name>
+		<name>13</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">13</SimpleData>
+<SimpleData name="LineName">13: Silver Spring - Takoma</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.68</SimpleData>
+<SimpleData name="LineEDI">3.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.017007,38.975629,0
@@ -3509,9 +3966,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Silver Spring - Hillandale</name>
+		<name>20</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">20</SimpleData>
+<SimpleData name="LineName">20: Silver Spring - Hillandale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.48</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030091,38.993786,0
@@ -3564,9 +4028,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>20: Silver Spring - Hillandale</name>
+		<name>20-hillandale</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: to Cresthaven Dr<br/>Agency: md-mont<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">20-hillandale</SimpleData>
+<SimpleData name="LineName">20: Silver Spring - Hillandale</SimpleData>
+<SimpleData name="LineBranch">to Cresthaven Dr</SimpleData>
+<SimpleData name="LineLength">5.04</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030091,38.993786,0
@@ -3612,9 +4083,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>12: Silver Spring - Takoma</name>
+		<name>12</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 3.04</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">12</SimpleData>
+<SimpleData name="LineName">12: Silver Spring - Takoma</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.28</SimpleData>
+<SimpleData name="LineEDI">3.04</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.017007,38.975629,0
@@ -3653,9 +4131,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>11: Silver Spring - Friendship Heights</name>
+		<name>11</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Silver Spring - Friendship Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.68</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030286,38.99373,0
@@ -3692,9 +4177,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>16: Silver Spring - Takoma</name>
+		<name>16</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 4.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: Silver Spring - Takoma</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.82</SimpleData>
+<SimpleData name="LineEDI">4.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.017007,38.975629,0
@@ -3757,9 +4249,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>98: Germantown TC - Kingsview</name>
+		<name>98-soccerplex</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: via Soccerplex<br/>Agency: md-mont<br/>EDI: 5.16</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">98-soccerplex</SimpleData>
+<SimpleData name="LineName">98: Germantown TC - Kingsview</SimpleData>
+<SimpleData name="LineBranch">via Soccerplex</SimpleData>
+<SimpleData name="LineLength">9.5</SimpleData>
+<SimpleData name="LineEDI">5.16</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.261032,39.183024,0
@@ -3820,9 +4319,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>98: Germantown TC - Kingsview</name>
+		<name>98-gcc</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: via GCC<br/>Agency: md-mont<br/>EDI: 4.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">98-gcc</SimpleData>
+<SimpleData name="LineName">98: Germantown TC - Kingsview</SimpleData>
+<SimpleData name="LineBranch">via GCC</SimpleData>
+<SimpleData name="LineLength">8.4</SimpleData>
+<SimpleData name="LineEDI">4.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.261032,39.183024,0
@@ -3884,9 +4390,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>98: Germantown TC - Kingsview</name>
+		<name>98</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 4.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">98</SimpleData>
+<SimpleData name="LineName">98: Germantown TC - Kingsview</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.01</SimpleData>
+<SimpleData name="LineEDI">4.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.261032,39.183024,0
@@ -3945,9 +4458,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>98: Germantown TC - Kingsview</name>
+		<name>98-clopper</name>
 		<styleUrl>#4.0</styleUrl>
-		<description>Branch: to Clopper Mill<br/>Agency: md-mont<br/>EDI: 6.14</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">98-clopper</SimpleData>
+<SimpleData name="LineName">98: Germantown TC - Kingsview</SimpleData>
+<SimpleData name="LineBranch">to Clopper Mill</SimpleData>
+<SimpleData name="LineLength">9.67</SimpleData>
+<SimpleData name="LineEDI">6.14</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.261032,39.183024,0
@@ -4017,9 +4537,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>10: Twinbrook - Hillandale</name>
+		<name>10</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Twinbrook - Hillandale</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">14.4</SimpleData>
+<SimpleData name="LineEDI">1.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.119797,39.062016,0
@@ -4104,9 +4631,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Silver Spring - Wheaton</name>
+		<name>9</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: Silver Spring - Wheaton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.81</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030076,38.993781,0
@@ -4149,9 +4683,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>8: Silver Spring - Wheaton</name>
+		<name>8</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 2.29</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Silver Spring - Wheaton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.45</SimpleData>
+<SimpleData name="LineEDI">2.29</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030076,38.993781,0
@@ -4209,9 +4750,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>7: Wheaton - Forest Glen</name>
+		<name>7</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.73</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">7</SimpleData>
+<SimpleData name="LineName">7: Wheaton - Forest Glen</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.71</SimpleData>
+<SimpleData name="LineEDI">1.73</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.045004,39.015794,0
@@ -4239,9 +4787,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>6: Parkside - Grosvenor - Montgomery Mall</name>
+		<name>6</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.34</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Parkside - Grosvenor - Montgomery Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.6</SimpleData>
+<SimpleData name="LineEDI">1.34</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.143056,39.026023,0
@@ -4270,9 +4825,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>5: Silver Spring - Twinbrook</name>
+		<name>5</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Silver Spring - Twinbrook</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.55</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029553,38.993599,0
@@ -4341,9 +4903,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>4: Silver Spring - Kensington - Wheaton</name>
+		<name>4</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.72</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Silver Spring - Kensington - Wheaton</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.58</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.029553,38.993599,0
@@ -4390,9 +4959,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Silver Spring - Lyttonsville</name>
+		<name>2-detrick</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Ft Detrick<br/>Agency: md-mont<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">2-detrick</SimpleData>
+<SimpleData name="LineName">2: Silver Spring - Lyttonsville</SimpleData>
+<SimpleData name="LineBranch">via Ft Detrick</SimpleData>
+<SimpleData name="LineLength">2.57</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030279,38.993733,0
@@ -4420,9 +4996,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>2: Silver Spring - Lyttonsville</name>
+		<name>2</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.41</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Silver Spring - Lyttonsville</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.08</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030279,38.993733,0
@@ -4449,9 +5032,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Silver Spring - Friendship Heights</name>
+		<name>1-leland</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: via Leland<br/>Agency: md-mont<br/>EDI: 1.54</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">1-leland</SimpleData>
+<SimpleData name="LineName">1: Silver Spring - Friendship Heights</SimpleData>
+<SimpleData name="LineBranch">via Leland</SimpleData>
+<SimpleData name="LineLength">5.71</SimpleData>
+<SimpleData name="LineEDI">1.54</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.085439,38.96162,0
@@ -4500,9 +5090,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>1: Silver Spring - Friendship Heights</name>
+		<name>1</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.39</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Silver Spring - Friendship Heights</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.15</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.085439,38.96162,0
@@ -4549,7 +5146,14 @@
 	<Placemark> 
 		<name>Flash Blue</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">Flash Blue</SimpleData>
+<SimpleData name="LineName">Flash Blue</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.01</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030027,38.994041,0
@@ -4564,7 +5168,14 @@
 	<Placemark> 
 		<name>Flash Orange</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: md-mont<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">md-mont</SimpleData>
+<SimpleData name="LineCode">Flash Orange</SimpleData>
+<SimpleData name="LineName">Flash Orange</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.06</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.030027,38.994041,0

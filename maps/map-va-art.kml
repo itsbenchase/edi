@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>va-art routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
+		<name>87P</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: P: to Lang / S Glebe<br/>Agency: va-art<br/>EDI: 1.74</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">87P</SimpleData>
+<SimpleData name="LineName">87: Pentagon Metro - Army Navy Drive - Shirlington</SimpleData>
+<SimpleData name="LineBranch">P: to Lang / S Glebe</SimpleData>
+<SimpleData name="LineLength">2.96</SimpleData>
+<SimpleData name="LineEDI">1.74</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054613,38.868434,0
@@ -80,9 +89,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
+		<name>87A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: to 26th / Troy<br/>Agency: va-art<br/>EDI: 1.19</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">87A</SimpleData>
+<SimpleData name="LineName">87: Pentagon Metro - Army Navy Drive - Shirlington</SimpleData>
+<SimpleData name="LineBranch">A: to 26th / Troy</SimpleData>
+<SimpleData name="LineLength">2.11</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054613,38.868434,0
@@ -101,9 +117,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
+		<name>87-weekend</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Weekend<br/>Agency: va-art<br/>EDI: 2.02</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">87-weekend</SimpleData>
+<SimpleData name="LineName">87: Pentagon Metro - Army Navy Drive - Shirlington</SimpleData>
+<SimpleData name="LineBranch">Weekend</SimpleData>
+<SimpleData name="LineLength">4.38</SimpleData>
+<SimpleData name="LineEDI">2.02</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.0598,38.8625,0
@@ -136,9 +159,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>87: Pentagon Metro - Army Navy Drive - Shirlington</name>
+		<name>87-weekday</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Weekday<br/>Agency: va-art<br/>EDI: 1.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">87-weekday</SimpleData>
+<SimpleData name="LineName">87: Pentagon Metro - Army Navy Drive - Shirlington</SimpleData>
+<SimpleData name="LineBranch">Weekday</SimpleData>
+<SimpleData name="LineLength">4.65</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.054613,38.868434,0
@@ -173,9 +203,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>84: Douglas Park - Nauck - Pentagon City</name>
+		<name>84</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.46</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">84</SimpleData>
+<SimpleData name="LineName">84: Douglas Park - Nauck - Pentagon City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.01</SimpleData>
+<SimpleData name="LineEDI">1.46</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.09644,38.853808,0
@@ -193,9 +230,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>77: Shirlington - Lyon Park - Courthouse</name>
+		<name>77</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.31</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">77</SimpleData>
+<SimpleData name="LineName">77: Shirlington - Lyon Park - Courthouse</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.7</SimpleData>
+<SimpleData name="LineEDI">1.31</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.087266,38.839523,0
@@ -235,9 +279,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>75: Shirlington - Ballston - Virginia Square</name>
+		<name>75</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 2.15</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">75</SimpleData>
+<SimpleData name="LineName">75: Shirlington - Ballston - Virginia Square</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.6</SimpleData>
+<SimpleData name="LineEDI">2.15</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.102949,38.882443,0
@@ -281,9 +332,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>74: Arlington Village - Arlington View - Pentagon City</name>
+		<name>74</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.91</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">74</SimpleData>
+<SimpleData name="LineName">74: Arlington Village - Arlington View - Pentagon City</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.81</SimpleData>
+<SimpleData name="LineEDI">1.91</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.087121,38.862047,0
@@ -306,9 +364,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>72: Rock Spring - Ballston - Shirlington</name>
+		<name>72</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.58</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">72</SimpleData>
+<SimpleData name="LineName">72: Rock Spring - Ballston - Shirlington</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.34</SimpleData>
+<SimpleData name="LineEDI">1.58</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.13681,38.91572,0
@@ -356,9 +421,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>55: E Falls Church - Langston Blvd - Rosslyn</name>
+		<name>55</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.1</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">55</SimpleData>
+<SimpleData name="LineName">55: E Falls Church - Langston Blvd - Rosslyn</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.12</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.156706,38.886298,0
@@ -400,9 +472,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Ballston Metro - Old Glebe - E Falls Church</name>
+		<name>53B</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: B: via N Glebe Rd<br/>Agency: va-art<br/>EDI: 2.76</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">53B</SimpleData>
+<SimpleData name="LineName">53: Ballston Metro - Old Glebe - E Falls Church</SimpleData>
+<SimpleData name="LineBranch">B: via N Glebe Rd</SimpleData>
+<SimpleData name="LineLength">6.93</SimpleData>
+<SimpleData name="LineEDI">2.76</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.110594,38.882127,0
@@ -451,9 +530,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>53: Ballston Metro - Old Glebe - E Falls Church</name>
+		<name>53A</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: A: via Old Glebe Rd<br/>Agency: va-art<br/>EDI: 2.75</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">53A</SimpleData>
+<SimpleData name="LineName">53: Ballston Metro - Old Glebe - E Falls Church</SimpleData>
+<SimpleData name="LineBranch">A: via Old Glebe Rd</SimpleData>
+<SimpleData name="LineLength">6.89</SimpleData>
+<SimpleData name="LineEDI">2.75</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.110594,38.882127,0
@@ -502,9 +588,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52: Ballston - Virginia Hospital Center - E Falls Church</name>
+		<name>52</name>
 		<styleUrl>#2.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 2.03</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">52</SimpleData>
+<SimpleData name="LineName">52: Ballston - Virginia Hospital Center - E Falls Church</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.99</SimpleData>
+<SimpleData name="LineEDI">2.03</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.156807,38.886711,0
@@ -544,9 +637,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>51: Ballston - Virginia Hospital Center</name>
+		<name>51</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.11</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">51</SimpleData>
+<SimpleData name="LineName">51: Ballston - Virginia Hospital Center</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.89</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111615,38.881724,0
@@ -562,9 +662,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>45: Coulmbia Pike - DHS / Sequoia - Rosslyn</name>
+		<name>45</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.45</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">45</SimpleData>
+<SimpleData name="LineName">45: Coulmbia Pike - DHS / Sequoia - Rosslyn</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.65</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.07158,38.895511,0
@@ -597,9 +704,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>43: Crystal City - Rosslyn - Courthouse</name>
+		<name>43</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">43</SimpleData>
+<SimpleData name="LineName">43: Crystal City - Rosslyn - Courthouse</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.64</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.049105,38.857872,0
@@ -609,9 +723,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Ballston - Pentagon</name>
+		<name>42-weekend</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Weekend<br/>Agency: va-art<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">42-weekend</SimpleData>
+<SimpleData name="LineName">42: Ballston - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Weekend</SimpleData>
+<SimpleData name="LineLength">4.25</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111682,38.881934,0
@@ -643,9 +764,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>42: Ballston - Pentagon</name>
+		<name>42-weekday</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Weekday<br/>Agency: va-art<br/>EDI: 1.36</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">42-weekday</SimpleData>
+<SimpleData name="LineName">42: Ballston - Pentagon</SimpleData>
+<SimpleData name="LineBranch">Weekday</SimpleData>
+<SimpleData name="LineLength">4.36</SimpleData>
+<SimpleData name="LineEDI">1.36</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.111682,38.881934,0
@@ -677,9 +805,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>41: Columbia Pike - Ballston - Court House</name>
+		<name>41</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 1.64</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">41</SimpleData>
+<SimpleData name="LineName">41: Columbia Pike - Ballston - Court House</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.92</SimpleData>
+<SimpleData name="LineEDI">1.64</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.119226,38.857169,0
@@ -720,9 +855,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>62: Court House Metro - Lorcom Ln - Ballston Metro</name>
+		<name>62</name>
 		<styleUrl>#3.0</styleUrl>
-		<description>Branch: Main<br/>Agency: va-art<br/>EDI: 3.01</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-art</SimpleData>
+<SimpleData name="LineCode">62</SimpleData>
+<SimpleData name="LineName">62: Court House Metro - Lorcom Ln - Ballston Metro</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.56</SimpleData>
+<SimpleData name="LineEDI">3.01</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-77.110594,38.882127,0

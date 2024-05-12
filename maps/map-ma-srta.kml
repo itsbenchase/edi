@@ -2,58 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document> 
 	<name>ma-srta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
 	<Style id="1.0"> 
 		<LineStyle> 
-			<color>ff10c283</color> 
+			<color>ff00701e</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="1.5"> 
 		<LineStyle> 
-			<color>ff195c03</color> 
+			<color>ff00a054</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.0"> 
 		<LineStyle> 
-			<color>ffa0ad10</color> 
+			<color>ff00cfa4</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="2.5"> 
 		<LineStyle> 
-			<color>ffad4902</color> 
+			<color>ff00f2ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.0"> 
 		<LineStyle> 
-			<color>ffbf1d7e</color> 
+			<color>ff00a1ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="3.5"> 
 		<LineStyle> 
-			<color>ff6e0cb0</color> 
+			<color>ff0051ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
+		</Style>
 	<Style id="4.0"> 
 		<LineStyle> 
-			<color>ff190177</color> 
+			<color>ff0000ff</color> 
 			<width>4.0</width> 
 		</LineStyle> 
-	</Style>
-	<Style id="10.0"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>4.0</width> 
-		</LineStyle> 
-	</Style>
+		</Style>
 	<Placemark> 
-		<name>221: North End Shuttle</name>
+		<name>221</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;8999;1551.55<br/>Agency: ma-srta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">221</SimpleData>
+<SimpleData name="LineName">221: North End Shuttle</SimpleData>
+<SimpleData name="LineBranch">Main;8999;1551.55</SimpleData>
+<SimpleData name="LineLength">5.8</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.942289,41.675664,0
@@ -81,9 +90,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211: Fairhaven</name>
+		<name>211-in</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Inbound;8496;1784.87<br/>Agency: ma-srta<br/>EDI: 1.89</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">211-in</SimpleData>
+<SimpleData name="LineName">211: Fairhaven</SimpleData>
+<SimpleData name="LineBranch">Inbound;8496;1784.87</SimpleData>
+<SimpleData name="LineLength">4.76</SimpleData>
+<SimpleData name="LineEDI">1.89</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.879291,41.640227,0
@@ -110,9 +126,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>211: Fairhaven</name>
+		<name>211-out</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Outbound;10190;1461.98<br/>Agency: ma-srta<br/>EDI: 2.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">211-out</SimpleData>
+<SimpleData name="LineName">211: Fairhaven</SimpleData>
+<SimpleData name="LineBranch">Outbound;10190;1461.98</SimpleData>
+<SimpleData name="LineLength">6.97</SimpleData>
+<SimpleData name="LineEDI">2.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -152,9 +175,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210: Dartmouth Mall</name>
+		<name>210-in</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Inbound;13505;1880.92<br/>Agency: ma-srta<br/>EDI: 1.79</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">210-in</SimpleData>
+<SimpleData name="LineName">210: Dartmouth Mall</SimpleData>
+<SimpleData name="LineBranch">Inbound;13505;1880.92</SimpleData>
+<SimpleData name="LineLength">7.18</SimpleData>
+<SimpleData name="LineEDI">1.79</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.987689,41.672621,0
@@ -191,9 +221,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>210: Dartmouth Mall</name>
+		<name>210-out</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Outbound;12849;2230.73<br/>Agency: ma-srta<br/>EDI: 1.43</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">210-out</SimpleData>
+<SimpleData name="LineName">210: Dartmouth Mall</SimpleData>
+<SimpleData name="LineBranch">Outbound;12849;2230.73</SimpleData>
+<SimpleData name="LineLength">5.76</SimpleData>
+<SimpleData name="LineEDI">1.43</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -226,9 +263,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>206: Shawmut</name>
+		<name>206-out</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Outbound;13151;4242.26<br/>Agency: ma-srta<br/>EDI: 1.56</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">206-out</SimpleData>
+<SimpleData name="LineName">206: Shawmut</SimpleData>
+<SimpleData name="LineBranch">Outbound;13151;4242.26</SimpleData>
+<SimpleData name="LineLength">3.1</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -263,9 +307,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>9: Intercity</name>
+		<name>9</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;32212;2098.5<br/>Agency: ma-srta<br/>EDI: 1.23</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">9</SimpleData>
+<SimpleData name="LineName">9: Intercity</SimpleData>
+<SimpleData name="LineBranch">Main;32212;2098.5</SimpleData>
+<SimpleData name="LineLength">15.35</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -350,9 +401,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>208: Mt. Pleasant</name>
+		<name>208</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;13744;4268.32<br/>Agency: ma-srta<br/>EDI: 1.13</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">208</SimpleData>
+<SimpleData name="LineName">208: Mt. Pleasant</SimpleData>
+<SimpleData name="LineBranch">Main;13744;4268.32</SimpleData>
+<SimpleData name="LineLength">3.22</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -385,9 +443,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>206: Shawmut</name>
+		<name>206-in</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Inbound;14415;3705.66<br/>Agency: ma-srta<br/>EDI: 1.96</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">206-in</SimpleData>
+<SimpleData name="LineName">206: Shawmut</SimpleData>
+<SimpleData name="LineBranch">Inbound;14415;3705.66</SimpleData>
+<SimpleData name="LineLength">3.89</SimpleData>
+<SimpleData name="LineEDI">1.96</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.963073,41.646651,0
@@ -427,9 +492,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>205: South Central</name>
+		<name>205</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;3095;3034.31<br/>Agency: ma-srta<br/>EDI: 1.25</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">205</SimpleData>
+<SimpleData name="LineName">205: South Central</SimpleData>
+<SimpleData name="LineBranch">Main;3095;3034.31</SimpleData>
+<SimpleData name="LineLength">1.02</SimpleData>
+<SimpleData name="LineEDI">1.25</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -443,9 +515,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>204: Ashley Blvd</name>
+		<name>204-NB</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: NB: New Bedford Business Park;27774;3145.41<br/>Agency: ma-srta<br/>EDI: 1.42</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">204-NB</SimpleData>
+<SimpleData name="LineName">204: Ashley Blvd</SimpleData>
+<SimpleData name="LineBranch">NB: New Bedford Business Park;27774;3145.41</SimpleData>
+<SimpleData name="LineLength">8.83</SimpleData>
+<SimpleData name="LineEDI">1.42</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -500,9 +579,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>204: Ashley Blvd</name>
+		<name>204</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;25221;4661.92<br/>Agency: ma-srta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">204</SimpleData>
+<SimpleData name="LineName">204: Ashley Blvd</SimpleData>
+<SimpleData name="LineBranch">Main;25221;4661.92</SimpleData>
+<SimpleData name="LineLength">5.41</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -553,9 +639,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>203: Dartmouth St</name>
+		<name>203</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main;16216;3525.22<br/>Agency: ma-srta<br/>EDI: 1.77</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">203</SimpleData>
+<SimpleData name="LineName">203: Dartmouth St</SimpleData>
+<SimpleData name="LineBranch">Main;16216;3525.22</SimpleData>
+<SimpleData name="LineLength">4.6</SimpleData>
+<SimpleData name="LineEDI">1.77</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -597,9 +690,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>202: Lund's Corner</name>
+		<name>202-B</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: B: via Belleville Ave;19180;4399.08<br/>Agency: ma-srta<br/>EDI: 1.35</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">202-B</SimpleData>
+<SimpleData name="LineName">202: Lund's Corner</SimpleData>
+<SimpleData name="LineBranch">B: via Belleville Ave;19180;4399.08</SimpleData>
+<SimpleData name="LineLength">4.36</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -638,9 +738,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>202: Lund's Corner</name>
+		<name>202</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;20662;5139.8<br/>Agency: ma-srta<br/>EDI: 1.24</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">202</SimpleData>
+<SimpleData name="LineName">202: Lund's Corner</SimpleData>
+<SimpleData name="LineBranch">Main;20662;5139.8</SimpleData>
+<SimpleData name="LineLength">4.02</SimpleData>
+<SimpleData name="LineEDI">1.24</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -683,9 +790,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>201: Fort Rodman</name>
+		<name>201</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;16535;4697.44<br/>Agency: ma-srta<br/>EDI: 1.2</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">201</SimpleData>
+<SimpleData name="LineName">201: Fort Rodman</SimpleData>
+<SimpleData name="LineBranch">Main;16535;4697.44</SimpleData>
+<SimpleData name="LineLength">3.52</SimpleData>
+<SimpleData name="LineEDI">1.2</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-70.927546,41.635884,0
@@ -722,9 +836,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>114: Swansea Mall</name>
+		<name>114</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;7155;1142.97<br/>Agency: ma-srta<br/>EDI: 1.21</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">114</SimpleData>
+<SimpleData name="LineName">114: Swansea Mall</SimpleData>
+<SimpleData name="LineBranch">Main;7155;1142.97</SimpleData>
+<SimpleData name="LineLength">6.26</SimpleData>
+<SimpleData name="LineEDI">1.21</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -749,9 +870,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>110: Rodman St</name>
+		<name>110</name>
 		<styleUrl>#3.5</styleUrl>
-		<description>Branch: Main;12535;3845.09<br/>Agency: ma-srta<br/>EDI: 3.59</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">110</SimpleData>
+<SimpleData name="LineName">110: Rodman St</SimpleData>
+<SimpleData name="LineBranch">Main;12535;3845.09</SimpleData>
+<SimpleData name="LineLength">3.26</SimpleData>
+<SimpleData name="LineEDI">3.59</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.137859,41.693909,0
@@ -785,9 +913,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>109: Bedford St</name>
+		<name>109</name>
 		<styleUrl>#2.5</styleUrl>
-		<description>Branch: Main;15267;3996.6<br/>Agency: ma-srta<br/>EDI: 2.71</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">109</SimpleData>
+<SimpleData name="LineName">109: Bedford St</SimpleData>
+<SimpleData name="LineBranch">Main;15267;3996.6</SimpleData>
+<SimpleData name="LineLength">3.82</SimpleData>
+<SimpleData name="LineEDI">2.71</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -821,9 +956,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>108: BCC / Durfee HS</name>
+		<name>108</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;9416;3191.86<br/>Agency: ma-srta<br/>EDI: 1.28</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">108</SimpleData>
+<SimpleData name="LineName">108: BCC / Durfee HS</SimpleData>
+<SimpleData name="LineBranch">Main;9416;3191.86</SimpleData>
+<SimpleData name="LineLength">2.95</SimpleData>
+<SimpleData name="LineEDI">1.28</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -849,9 +991,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>107: Bay St</name>
+		<name>107</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: Main;12085;2954.77<br/>Agency: ma-srta<br/>EDI: 1.63</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">107</SimpleData>
+<SimpleData name="LineName">107: Bay St</SimpleData>
+<SimpleData name="LineBranch">Main;12085;2954.77</SimpleData>
+<SimpleData name="LineLength">4.09</SimpleData>
+<SimpleData name="LineEDI">1.63</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -886,9 +1035,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>106: Pleasant St</name>
+		<name>106</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;7065;3969.1<br/>Agency: ma-srta<br/>EDI: 1.47</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">106</SimpleData>
+<SimpleData name="LineName">106: Pleasant St</SimpleData>
+<SimpleData name="LineBranch">Main;7065;3969.1</SimpleData>
+<SimpleData name="LineLength">1.78</SimpleData>
+<SimpleData name="LineEDI">1.47</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -906,9 +1062,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: Stafford Rd</name>
+		<name>105-A</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: A: via Atlantis Charter School;13638;4576.51<br/>Agency: ma-srta<br/>EDI: 1.48</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">105-A</SimpleData>
+<SimpleData name="LineName">105: Stafford Rd</SimpleData>
+<SimpleData name="LineBranch">A: via Atlantis Charter School;13638;4576.51</SimpleData>
+<SimpleData name="LineLength">2.98</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.144751,41.670164,0
@@ -936,9 +1099,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: Stafford Rd</name>
+		<name>105-T</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: T: via Tiverton Casino;13971;4208.13<br/>Agency: ma-srta<br/>EDI: 1.32</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">105-T</SimpleData>
+<SimpleData name="LineName">105: Stafford Rd</SimpleData>
+<SimpleData name="LineBranch">T: via Tiverton Casino;13971;4208.13</SimpleData>
+<SimpleData name="LineLength">3.32</SimpleData>
+<SimpleData name="LineEDI">1.32</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.157631,41.662117,0
@@ -970,9 +1140,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>105: Stafford Rd</name>
+		<name>105</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;13971;4565.69<br/>Agency: ma-srta<br/>EDI: 1.3</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">105</SimpleData>
+<SimpleData name="LineName">105: Stafford Rd</SimpleData>
+<SimpleData name="LineBranch">Main;13971;4565.69</SimpleData>
+<SimpleData name="LineLength">3.06</SimpleData>
+<SimpleData name="LineEDI">1.3</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15353,41.664296,0
@@ -1003,9 +1180,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>104: Robeson St</name>
+		<name>104</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;13397;3525.53<br/>Agency: ma-srta<br/>EDI: 1.33</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">104</SimpleData>
+<SimpleData name="LineName">104: Robeson St</SimpleData>
+<SimpleData name="LineBranch">Main;13397;3525.53</SimpleData>
+<SimpleData name="LineLength">3.8</SimpleData>
+<SimpleData name="LineEDI">1.33</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1045,9 +1229,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>103: Laurel St</name>
+		<name>103</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;13982;5924.58<br/>Agency: ma-srta<br/>EDI: 1.26</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">103</SimpleData>
+<SimpleData name="LineName">103: Laurel St</SimpleData>
+<SimpleData name="LineBranch">Main;13982;5924.58</SimpleData>
+<SimpleData name="LineLength">2.36</SimpleData>
+<SimpleData name="LineEDI">1.26</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1075,9 +1266,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: North Main</name>
+		<name>102-SS</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: SS: via Stop &amp; Shop;15733;1904.72<br/>Agency: ma-srta<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">102-SS</SimpleData>
+<SimpleData name="LineName">102: North Main</SimpleData>
+<SimpleData name="LineBranch">SS: via Stop &amp; Shop;15733;1904.72</SimpleData>
+<SimpleData name="LineLength">8.26</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1120,9 +1318,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: North Main</name>
+		<name>102-C</name>
 		<styleUrl>#1.5</styleUrl>
-		<description>Branch: C: via Commerce Dr;14958;1719.31<br/>Agency: ma-srta<br/>EDI: 1.65</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">102-C</SimpleData>
+<SimpleData name="LineName">102: North Main</SimpleData>
+<SimpleData name="LineBranch">C: via Commerce Dr;14958;1719.31</SimpleData>
+<SimpleData name="LineLength">8.7</SimpleData>
+<SimpleData name="LineEDI">1.65</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1168,9 +1373,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>102: North Main</name>
+		<name>102</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;14037;1952.29<br/>Agency: ma-srta<br/>EDI: 1.37</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">102</SimpleData>
+<SimpleData name="LineName">102: North Main</SimpleData>
+<SimpleData name="LineBranch">Main;14037;1952.29</SimpleData>
+<SimpleData name="LineLength">7.19</SimpleData>
+<SimpleData name="LineEDI">1.37</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.15438,41.698339,0
@@ -1214,9 +1426,16 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>101: South Main</name>
+		<name>101</name>
 		<styleUrl>#1.0</styleUrl>
-		<description>Branch: Main;16111;6712.92<br/>Agency: ma-srta<br/>EDI: 1.12</description>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-srta</SimpleData>
+<SimpleData name="LineCode">101</SimpleData>
+<SimpleData name="LineName">101: South Main</SimpleData>
+<SimpleData name="LineBranch">Main;16111;6712.92</SimpleData>
+<SimpleData name="LineLength">2.4</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
 			-71.180684,41.674219,0
