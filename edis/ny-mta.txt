@@ -1,4 +1,7 @@
 1;14.54;1.02;1: Broadway / 7 Ave;Main
+M;17.45;7.07;M: Queens Blvd / 6 Av;Main
+S Franklin;1.36;1.0;Franklin Av Shuttle;Main
+S Rockaway;2.67;1.23;Rockaway Park Shuttle;Main
 B1;6.61;1.19;B1: Bay Ridge - Manhattan Beach;Main
 B2;2.4;1.29;B2: Kings Hwy Station - Kings Plaza;Main
 B3;5.3;1.1;B3: Bensonhurst - Bergen Beach;Main
@@ -56,6 +59,11 @@ B84;1.91;1.48;B84: Spring Creek - New Lots;Main
 B100;4.02;1.84;B100: Mill Basin - Midwood;Main
 B103;10.57;1.75;B103: Canarsie - Downtown Brooklyn Ltd;Main
 B103-nostrand;4.55;1.43;B103: Canarsie - Downtown Brooklyn Ltd;to Flatbush Av / Nostrand Av
+BM1;16.95;1.56;BM1: Mill Basin - Downtown/Midtown;Main
+BM2;16.57;1.95;BM2: Canarsie / Spring Creek - Downtown / Midtown;Main
+BM3;17.44;1.42;BM3: Sheepshead Bay - Downtown / Midtown;Main
+BM4;16.12;1.32;BM4: Gerritsen Beach - Downtown / Midtown;Main
+BM5;15.42;1.66;BM5: Spring Creek - Midtown;Main
 Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
 Bx2;6.98;1.39;Bx2: Kingsbridge Heights - Mott Haven;Main
 Bx3;4.16;1.34;Bx3: Riverdale - George Washington Bridge;Main
@@ -102,10 +110,18 @@ Bx41;5.27;1.05;Bx41: Williamsbridge - The Hub;Main
 Bx42;7.98;1.43;Bx42: Throgs Neck - River Park Towers;Main
 Bx46;1.88;1.28;Bx46: Prospect Av - Westchester Av / Hunts Point Market;Main
 BxM1;13.41;1.1;BxM1: Riverdale - East Midtown;Main
+BxM2;13.72;1.15;BxM2: Riverdale - West Midtown;Main
+BxM3;14.34;1.04;BxM3: Yonkers - Midtown;Main
 BxM4;13.02;1.03;BxM4: Woodlawn - Midtown;Main
+BxM6;10.05;1.06;BxM6: Parkchester - Midtown;Main
+BxM7;14.17;1.14;BxM7: Co-Op City - Midtown;Main
+BxM8;12.69;1.11;BxM8: Pelham Bay / City Island - Midtown;Main
+BxM9;13.66;1.24;BxM9: Throgs Neck - Midtown;Main
+BxM10;12.76;1.07;BxM10: Williamsbridge / Morris Park - Midtown;Main
+BxM11;13.52;1.02;BxM11: Wakefield - Midtown;Main
+BxM18;16.24;1.06;BxM18: Riverdale - Downtown;Main
 hrl-l;2.33;3.47;Hudson Rail Link L;Main
 hrl-m;1.74;5.7;Hudson Rail Link M;Main
-M;17.45;7.07;M: Queens Blvd / 6 Av;Main
 M1;8.22;1.07;M1: Fifth / Madison Avs;Main
 M2;9.07;1.11;M2: Fifth / Madison Avs / AC Powell Blvd;Main
 M3;9.94;1.09;M3: Fifth / Madison / St Nicholas Avs;Main
@@ -239,9 +255,13 @@ Q111;6.33;1.17;Q111: Jamaica - Rosedale;Main
 Q112;3.9;1.41;Q112: Jamaica - Ozone Park;Main
 Q113;9.91;1.21;Q113: Jamaica - Far Rockaway Limited;Main
 Q114;10.96;1.34;Q114: Jamaica - Far Rockaway Limited;Main
+QM1;13.57;1.41;QM1: Fresh Meadows - Midtown via 6th Av;Main
+QM5;19.24;1.43;QM5: Glen Oaks - Midtown via 6th Av;Main
+QM6;18.06;1.36;QM6: Lake Success - Midtown via 6th Av;Main
 QM24;11.51;1.83;QM24: Glendale - Midtown;Main
-S Franklin;1.36;1.0;Franklin Av Shuttle;Main
-S Rockaway;2.67;1.23;Rockaway Park Shuttle;Main
+QM31;12.3;1.28;QM31: Fresh Meadows - Midtown via 3rd Av;Main
+QM35;17.29;1.29;QM35: Glen Oaks - Midtown via 3rd Av;Main
+QM36;16.78;1.26;QM36: Lake Success - Midtown via 3rd Av;Main
 S40;8.12;1.32;S40: St. George - Amazon;Main
 S42;2.5;2.63;S42: St Marks Pl / Bay St;Main
 S44;9.41;1.38;S44: St. George - Staten Island Mall;Main
