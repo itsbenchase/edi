@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ct-nectd routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>Purple</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-nectd</SimpleData>
+<SimpleData name="LineCode">Purple</SimpleData>
+<SimpleData name="LineName">Purple Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.75</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-71.900262,41.984616,0
+			-71.888278,41.923356,0
+			-71.907125,41.919294,0
+			-71.914543,41.907124,0
+			-71.883527,41.840534,0
+			-71.884279,41.804694,0
+			-71.912739,41.798447,0
+			-71.911337,41.745731,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Orange</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-nectd</SimpleData>
+<SimpleData name="LineCode">Orange</SimpleData>
+<SimpleData name="LineName">Orange Line (Plainfield)</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">13.9</SimpleData>
+<SimpleData name="LineEDI">1.18</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-71.989912,41.585371,0
+			-71.913307,41.662362,0
+			-71.917892,41.677583,0
+			-71.881277,41.712881,0
+			-71.906987,41.722871,0
+			-71.911337,41.745731,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Red</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-nectd</SimpleData>
+<SimpleData name="LineCode">Red</SimpleData>
+<SimpleData name="LineName">Red Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">17.72</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-71.911337,41.745731,0
+			-71.884254,41.792933,0
+			-71.884279,41.804694,0
+			-71.883527,41.840534,0
+			-71.907125,41.919294,0
+			-71.902312,41.920944,0
+			-71.888278,41.923356,0
+			-71.900262,41.984616,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
