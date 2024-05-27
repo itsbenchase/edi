@@ -63,7 +63,7 @@ public class StopList
         try
         {
           // port .txt list to webpage
-          Scanner s = new Scanner(new File("../stops/" + agencies.get(i) + ".txt"));
+          Scanner s = new Scanner(new File("../stops/list/" + agencies.get(i) + ".txt"));
           while (s.hasNextLine())
           {
             String data = s.nextLine();

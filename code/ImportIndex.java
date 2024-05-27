@@ -45,7 +45,7 @@ public class ImportIndex
     ArrayList<Stop> stops = new ArrayList<Stop>();
     try
     {
-      Scanner s = new Scanner(new File("../stops/" + agency + ".txt"));
+      Scanner s = new Scanner(new File("../stops/list/" + agency + ".txt"));
       //int z = 0; // debugging in case of issue
       while (s.hasNextLine())
       {

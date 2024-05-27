@@ -40,7 +40,7 @@ Line choice set, pulls line from old set, applicable agencies only, and asks for
 <br>
 <u>Line choice custom</u><br>
 Enter new line into database<br>
-Loads stop listing from agency (stops/agency.txt)<br>
+Loads stop listing from agency (stops/list/agency.txt)<br>
 Two separate ArrayLists, stops2 for EDI file, custom for ending display, stops2 has more data<br>
 Asks for line code, name, and branch name, if applicable, Main if not<br>
 Loop to ask for stop IDs along route<br>
@@ -113,7 +113,7 @@ Checks if valid agency within the US (zz- used internally for other purposes)<br
 Asks for agency and radius between 0.125 and 1.0 miles<br>
 <br>
 <u>Choice stop</u><br>
-Loads in agency stop file (stops/agency.txt)<br>
+Loads in agency stop file (stops/list/agency.txt)<br>
 Asks for stop<br>
 <br>
 <u>Choice line</u><br>
@@ -177,13 +177,13 @@ Shouldn't really be messed with</p>
 <p>Provides infomation about a stop, name, code, location<br>
 Not planned for public release as of March 2024<br>
 Asks for agency code<br>
-Loads stop file (stops/agency.txt)<br>
+Loads stop file (stops/list/agency.txt)<br>
 Pushes stop to PopulationData.java (see documenation above)</p>
 
 <h3 id="StopList">StopList.java</h3>
 <p>Generates stop listing pages on website (stops.html and stops/agency.html)<br>
 Automatically loops through all agencies<br>
-Loads stop files (stops/agency.txt)<br>
+Loads stop files (stops/list/agency.txt)<br>
 Counts total number of stops<br>
 Format for display on the website<br>
 Displays stop count in command line, both by agency and total</p>

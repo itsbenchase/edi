@@ -121,7 +121,7 @@ public class PopulationData
                 // load in only existing stops
                 try
                 {
-                    Scanner s = new Scanner(new File("../stops/" + agencyChoice + ".txt"));
+                    Scanner s = new Scanner(new File("../stops/list/" + agencyChoice + ".txt"));
                     while (s.hasNextLine())
                     {
                         String data = s.nextLine();

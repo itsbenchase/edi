@@ -22,7 +22,7 @@ public class AddStop
     // loads stop file
     try
     {
-      Scanner s = new Scanner(new File("../stops/" + agencyChoice + ".txt"));
+      Scanner s = new Scanner(new File("../stops/list/" + agencyChoice + ".txt"));
       while (s.hasNextLine())
       {
         String data = s.nextLine();
@@ -60,7 +60,7 @@ public class AddStop
       // writes to stop file, converted in list.java
       try
       {
-        File newFile1 = new File("../stops/" + agencyChoice + ".txt");
+        File newFile1 = new File("../stops/list/" + agencyChoice + ".txt");
         FileWriter fileWriter1 = new FileWriter(newFile1);
 
         fileWriter1.write(stops.get(0).getID() + ";" + stops.get(0).getName() + ";" + stops.get(0).getLat() + ";" + stops.get(0).getLon() + "\n");

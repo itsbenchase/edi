@@ -103,7 +103,7 @@ function getStops()
         }
     }
 
-    const stopFileUrl = ("https://dev.eliotindex.org/stops/" + agency + ".txt"); // provide file location
+    const stopFileUrl = ("https://dev.eliotindex.org/stops/list/" + agency + ".txt"); // provide file location
     fetch(stopFileUrl)
         .then(r => r.text())
         .then((text) => {

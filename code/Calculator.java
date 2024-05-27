@@ -123,7 +123,7 @@ public class Calculator
         // load in only existing stops
         try
         {
-          Scanner s = new Scanner(new File("../stops/" + agencyChoice + ".txt"));
+          Scanner s = new Scanner(new File("../stops/list/" + agencyChoice + ".txt"));
           //int z = 0; // debugging in case of issue
           while (s.hasNextLine())
           {
@@ -201,7 +201,7 @@ public class Calculator
             ArrayList<Stop> stopsExtra = new ArrayList<Stop>(); // not to confuse with stops
             try
             {
-              Scanner extra = new Scanner(new File("../stops/" + extraAgency + ".txt"));
+              Scanner extra = new Scanner(new File("../stops/list/" + extraAgency + ".txt"));
               while (extra.hasNextLine())
               {
                 String data = extra.nextLine();

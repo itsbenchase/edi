@@ -57,7 +57,7 @@ public class StopSearch
       {
         try
         {
-          Scanner s = new Scanner(new File("../stops/" + agencies.get(i) + ".txt"));
+          Scanner s = new Scanner(new File("../stops/list/" + agencies.get(i) + ".txt"));
           while (s.hasNextLine())
           {
             String data = s.nextLine();
@@ -85,7 +85,7 @@ public class StopSearch
     {
       try
       {
-        Scanner s = new Scanner(new File("../stops/" + agencyChoice + ".txt"));
+        Scanner s = new Scanner(new File("../stops/list/" + agencyChoice + ".txt"));
         while (s.hasNextLine())
         {
           String data = s.nextLine();
