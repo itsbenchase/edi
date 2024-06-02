@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-petaluma routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>24</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-petaluma</SimpleData>
+<SimpleData name="LineCode">24</SimpleData>
+<SimpleData name="LineName">24: SMART - Lakeville - Kaiser Hospital</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.35</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.636063,38.236376,0
+			-122.621981,38.235247,0
+			-122.615286,38.232795,0
+			-122.609992,38.23308,0
+			-122.604091,38.233558,0
+			-122.59944,38.233996,0
+			-122.588516,38.232307,0
+			-122.591319,38.228489,0
+			-122.58861,38.227435,0
+			-122.584855,38.229238,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>11</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-petaluma</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Petaluma Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">1.51</SimpleData>
+<SimpleData name="LineEDI">1.02</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.621782,38.248184,0
+			-122.631229,38.243596,0
+			-122.633814,38.240751,0
+			-122.636445,38.237856,0
+			-122.639153,38.236458,0
+			-122.642488,38.234024,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>10</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-petaluma</SimpleData>
+<SimpleData name="LineCode">10</SimpleData>
+<SimpleData name="LineName">10: Petaluma Blvd</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">2.29</SimpleData>
+<SimpleData name="LineEDI">1.35</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.653909,38.256428,0
+			-122.651263,38.25474,0
+			-122.645517,38.247052,0
+			-122.644763,38.244521,0
+			-122.643992,38.242056,0
+			-122.643232,38.239408,0
+			-122.641702,38.236378,0
+			-122.642488,38.234024,0
+			-122.638835,38.232343,0
+			-122.636063,38.236376,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>2</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-petaluma</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: N. Mcdowell</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.23</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.621782,38.248184,0
+			-122.630865,38.252203,0
+			-122.633131,38.25346,0
+			-122.638644,38.256534,0
+			-122.641487,38.258132,0
+			-122.644198,38.259681,0
+			-122.647846,38.261762,0
+			-122.64993,38.262875,0
+			-122.656442,38.266506,0
+			-122.658592,38.267789,0
+			-122.662628,38.271561,0
+			-122.664574,38.273051,0
+			-122.668971,38.276288,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
