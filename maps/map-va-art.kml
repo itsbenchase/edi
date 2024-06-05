@@ -365,14 +365,14 @@
 	</Placemark>
 	<Placemark> 
 		<name>72</name>
-		<styleUrl>#1.5</styleUrl>
+		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">va-art</SimpleData>
 <SimpleData name="LineCode">72</SimpleData>
 <SimpleData name="LineName">72: Rock Spring - Ballston - Shirlington</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">9.34</SimpleData>
-<SimpleData name="LineEDI">1.58</SimpleData>
+<SimpleData name="LineLength">6.48</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
@@ -389,7 +389,7 @@
 			-77.119806,38.893052,0
 			-77.11922,38.889797,0
 			-77.118854,38.888622,0
-			-77.086376,38.890387,0
+			-77.117052,38.884684,0
 			-77.114568,38.881977,0
 			-77.110751,38.882183,0
 			-77.109235,38.880609,0

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-soltrans routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>82</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">82</SimpleData>
+<SimpleData name="LineName">82: SF Express</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">38.18</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.395237,37.796127,0
+			-122.237619,38.09329,0
+			-122.251976,38.097178,0
+			-122.25919,38.100219,0
+			-122.068305,38.249206,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>8</name>
+		<styleUrl>#2.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">8</SimpleData>
+<SimpleData name="LineName">8: Glen Cove</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">8.02</SimpleData>
+<SimpleData name="LineEDI">2.73</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.25919,38.100219,0
+			-122.253542,38.099008,0
+			-122.251343,38.098989,0
+			-122.24962,38.098963,0
+			-122.247607,38.098928,0
+			-122.244393,38.098882,0
+			-122.242542,38.097902,0
+			-122.237966,38.096498,0
+			-122.235263,38.095846,0
+			-122.233226,38.095378,0
+			-122.225462,38.093673,0
+			-122.222624,38.093025,0
+			-122.219101,38.092203,0
+			-122.216093,38.091518,0
+			-122.209777,38.089641,0
+			-122.208101,38.090143,0
+			-122.208562,38.095295,0
+			-122.209271,38.09811,0
+			-122.211765,38.100246,0
+			-122.212837,38.100201,0
+			-122.215901,38.100298,0
+			-122.217734,38.104459,0
+			-122.215646,38.105918,0
+			-122.211179,38.105879,0
+			-122.209098,38.105211,0
+			-122.209335,38.102497,0
+			-122.209405,38.098526,0
+			-122.208708,38.09395,0
+			-122.208366,38.089714,0
+			-122.211924,38.084485,0
+			-122.211439,38.079184,0
+			-122.210977,38.077723,0
+			-122.206939,38.073827,0
+			-122.210362,38.070973,0
+			-122.213062,38.071395,0
+			-122.217685,38.071232,0
+			-122.218815,38.071671,0
+			-122.221764,38.071024,0
+			-122.221751,38.069663,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>6</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">6: Tennessee</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.71</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.25919,38.100219,0
+			-122.258191,38.101936,0
+			-122.258097,38.10536,0
+			-122.258018,38.108927,0
+			-122.256027,38.109932,0
+			-122.25197,38.10991,0
+			-122.249888,38.109842,0
+			-122.245932,38.10979,0
+			-122.243829,38.109757,0
+			-122.23761,38.109665,0
+			-122.234519,38.10962,0
+			-122.23154,38.109578,0
+			-122.229058,38.111706,0
+			-122.229147,38.117195,0
+			-122.223834,38.115113,0
+			-122.224755,38.111969,0
+			-122.221374,38.109586,0
+			-122.218216,38.109539,0
+			-122.215646,38.105918,0
+			-122.211179,38.105879,0
+			-122.207292,38.105849,0
+			-122.204344,38.108766,0
+			-122.203026,38.10899,0
+			-122.198932,38.111785,0
+			-122.196739,38.110462,0
+			-122.194297,38.108458,0
+			-122.1902,38.107763,0
+			-122.188593,38.106058,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>5</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Six Flags</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.92</SimpleData>
+<SimpleData name="LineEDI">1.69</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.25919,38.100219,0
+			-122.262277,38.100467,0
+			-122.265898,38.105441,0
+			-122.264556,38.110507,0
+			-122.268191,38.114527,0
+			-122.270644,38.118925,0
+			-122.267796,38.122037,0
+			-122.263849,38.123736,0
+			-122.261535,38.12236,0
+			-122.258767,38.123163,0
+			-122.255129,38.124496,0
+			-122.253429,38.127994,0
+			-122.248622,38.128161,0
+			-122.243448,38.128663,0
+			-122.239127,38.128705,0
+			-122.238509,38.126007,0
+			-122.235825,38.122219,0
+			-122.229269,38.12883,0
+			-122.229724,38.136889,0
+			-122.227523,38.141795,0
+			-122.22929,38.145187,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>4</name>
+		<styleUrl>#2.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Tuolumne</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.94</SimpleData>
+<SimpleData name="LineEDI">2.89</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.253429,38.127994,0
+			-122.251487,38.12809,0
+			-122.25226,38.131965,0
+			-122.252215,38.134053,0
+			-122.251602,38.13624,0
+			-122.247085,38.136578,0
+			-122.243819,38.135612,0
+			-122.242863,38.134205,0
+			-122.240896,38.131043,0
+			-122.239127,38.128705,0
+			-122.238509,38.126007,0
+			-122.238244,38.121398,0
+			-122.23837,38.118726,0
+			-122.238206,38.113659,0
+			-122.238256,38.110002,0
+			-122.238277,38.105834,0
+			-122.238312,38.10337,0
+			-122.241389,38.100991,0
+			-122.243708,38.101016,0
+			-122.246457,38.101056,0
+			-122.248116,38.101077,0
+			-122.250286,38.10111,0
+			-122.254778,38.104495,0
+			-122.259574,38.105174,0
+			-122.263328,38.104548,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>2</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Crest</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.64</SimpleData>
+<SimpleData name="LineEDI">1.67</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.25919,38.100219,0
+			-122.258191,38.101936,0
+			-122.258097,38.10536,0
+			-122.258018,38.108927,0
+			-122.257968,38.111262,0
+			-122.25787,38.115314,0
+			-122.258369,38.11808,0
+			-122.256651,38.119772,0
+			-122.254851,38.120782,0
+			-122.255129,38.124496,0
+			-122.253436,38.128112,0
+			-122.25546,38.128207,0
+			-122.255832,38.132719,0
+			-122.255984,38.136026,0
+			-122.254705,38.147368,0
+			-122.252052,38.15398,0
+			-122.248683,38.15285,0
+			-122.244735,38.151107,0
+			-122.239936,38.154463,0
+			-122.23547,38.153827,0
+			-122.234954,38.150784,0
+			-122.2342,38.148566,0
+			-122.234754,38.146697,0
+			-122.234636,38.144861,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>1</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Rancho Vallejo</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.85</SimpleData>
+<SimpleData name="LineEDI">1.75</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.268479,38.148105,0
+			-122.264534,38.14697,0
+			-122.263324,38.144711,0
+			-122.260658,38.144916,0
+			-122.257785,38.147627,0
+			-122.257604,38.150288,0
+			-122.254806,38.153861,0
+			-122.256314,38.135985,0
+			-122.256193,38.131976,0
+			-122.255877,38.12811,0
+			-122.253429,38.127994,0
+			-122.255558,38.124119,0
+			-122.255417,38.122447,0
+			-122.253988,38.119771,0
+			-122.251139,38.119734,0
+			-122.248596,38.117979,0
+			-122.248628,38.114195,0
+			-122.248705,38.110055,0
+			-122.248557,38.106544,0
+			-122.248374,38.101734,0
+			-122.250286,38.10111,0
+			-122.25919,38.100219,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Yellow</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">Yellow</SimpleData>
+<SimpleData name="LineName">Yellow Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.6</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.25919,38.100219,0
+			-122.237619,38.09329,0
+			-122.156456,38.05409,0
+			-122.062907,37.96747,0
+			-122.068892,37.905798,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Red</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">Red</SimpleData>
+<SimpleData name="LineName">Red Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">30.56</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.317128,37.924996,0
+			-122.237619,38.09329,0
+			-122.25919,38.100219,0
+			-122.25546,38.128207,0
+			-122.231553,38.140999,0
+			-122.128787,38.229228,0
+			-122.068305,38.249206,0
+			-122.041606,38.242765,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Green</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">Green</SimpleData>
+<SimpleData name="LineName">Green Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">28.13</SimpleData>
+<SimpleData name="LineEDI">1.07</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.317128,37.924996,0
+			-122.041606,38.242765,0
+			-122.068305,38.249206,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Blue</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-soltrans</SimpleData>
+<SimpleData name="LineCode">Blue</SimpleData>
+<SimpleData name="LineName">Blue Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">45.26</SimpleData>
+<SimpleData name="LineEDI">1.13</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.068892,37.905798,0
+			-122.12882,38.068452,0
+			-122.128787,38.229228,0
+			-122.068305,38.249206,0
+			-121.964686,38.358265,0
+			-121.842107,38.45553,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
