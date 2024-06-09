@@ -798,8 +798,8 @@
 <SimpleData name="LineCode">12</SimpleData>
 <SimpleData name="LineName">12: Grafton St / South Plaza / Southwest Commons</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">4.65</SimpleData>
-<SimpleData name="LineEDI">1.21</SimpleData>
+<SimpleData name="LineLength">4.42</SimpleData>
+<SimpleData name="LineEDI">1.16</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
@@ -831,7 +831,7 @@
 			-71.75083,42.24111,0
 			-71.74874,42.24086,0
 			-71.747282,42.240148,0
-			-71.72252,42.25157,0
+			-71.724471,42.247255,0
 			</coordinates> 
 		</LineString> 
 	</Placemark>

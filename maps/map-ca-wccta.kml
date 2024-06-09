@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-wccta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>JX</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">JX</SimpleData>
+<SimpleData name="LineName">JX: Hercules - El Cerrito del Norte BART</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.82</SimpleData>
+<SimpleData name="LineEDI">1.15</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.28522,38.0204,0
+			-122.2662,38.0128,0
+			-122.317193,37.925306,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>JR</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">JR</SimpleData>
+<SimpleData name="LineName">JR: Hercules - Pinole - Richmond - BART</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">10.35</SimpleData>
+<SimpleData name="LineEDI">1.55</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.2662,38.0128,0
+			-122.278401,38.012373,0
+			-122.283697,38.009941,0
+			-122.288169,38.007389,0
+			-122.292397,38.004572,0
+			-122.29545,38.00429,0
+			-122.297111,38.004326,0
+			-122.301585,38.004364,0
+			-122.305683,38.004968,0
+			-122.308115,38.005285,0
+			-122.31359,38.00396,0
+			-122.31631,38.00274,0
+			-122.323126,37.999458,0
+			-122.327693,37.995518,0
+			-122.329591,37.993785,0
+			-122.328931,37.989859,0
+			-122.322036,37.988776,0
+			-122.319033,37.984983,0
+			-122.322772,37.982633,0
+			-122.329499,37.979586,0
+			-122.322258,37.983049,0
+			-122.318988,37.984757,0
+			-122.317193,37.925306,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>JPX</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">JPX</SimpleData>
+<SimpleData name="LineName">JPX: Hercules - El Cerrito del Norte BART</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.27</SimpleData>
+<SimpleData name="LineEDI">1.09</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.2662,38.0128,0
+			-122.278401,38.012373,0
+			-122.283697,38.009941,0
+			-122.288169,38.007389,0
+			-122.289096,38.002917,0
+			-122.286879,37.999789,0
+			-122.317193,37.925306,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>JL</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">JL</SimpleData>
+<SimpleData name="LineName">JL: Hercules - Pinole - Richmond - BART</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">9.85</SimpleData>
+<SimpleData name="LineEDI">1.48</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.2662,38.0128,0
+			-122.278401,38.012373,0
+			-122.283697,38.009941,0
+			-122.288169,38.007389,0
+			-122.292397,38.004572,0
+			-122.29545,38.00429,0
+			-122.297111,38.004326,0
+			-122.301585,38.004364,0
+			-122.305683,38.004968,0
+			-122.308115,38.005285,0
+			-122.31359,38.00396,0
+			-122.31631,38.00274,0
+			-122.323126,37.999458,0
+			-122.327693,37.995518,0
+			-122.329591,37.993785,0
+			-122.328931,37.989859,0
+			-122.332427,37.98747,0
+			-122.332878,37.984769,0
+			-122.333004,37.982358,0
+			-122.329499,37.979586,0
+			-122.322258,37.983049,0
+			-122.318988,37.984757,0
+			-122.317193,37.925306,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>C3</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">C3</SimpleData>
+<SimpleData name="LineName">C3: Hercules - Pinole - Contra Costa College</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.6</SimpleData>
+<SimpleData name="LineEDI">1.12</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.2662,38.0128,0
+			-122.278401,38.012373,0
+			-122.283697,38.009941,0
+			-122.288169,38.007389,0
+			-122.292397,38.004572,0
+			-122.29545,38.00429,0
+			-122.297111,38.004326,0
+			-122.301585,38.004364,0
+			-122.305683,38.004968,0
+			-122.308115,38.005285,0
+			-122.31359,38.00396,0
+			-122.31631,38.00274,0
+			-122.323126,37.999458,0
+			-122.327693,37.995518,0
+			-122.329591,37.993785,0
+			-122.340578,37.970892,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>30Z</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">30Z</SimpleData>
+<SimpleData name="LineName">30Z: Hercules - Martinez</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.35</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.2662,38.0128,0
+			-122.118615,37.994621,0
+			-122.11445,37.99414,0
+			-122.118571,37.995028,0
+			-122.13058,37.99239,0
+			-122.13225,37.99584,0
+			-122.131817,37.999999,0
+			-122.13095,38.00497,0
+			-122.130575,38.007264,0
+			-122.13447,38.01266,0
+			-122.138009,38.016326,0
+			-122.135162,38.019431,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>19</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">19</SimpleData>
+<SimpleData name="LineName">19: Hercules - Pinole - Richmond Parkway - Hilltop Mall</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.58</SimpleData>
+<SimpleData name="LineEDI">1.11</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.2662,38.0128,0
+			-122.278401,38.012373,0
+			-122.283697,38.009941,0
+			-122.288169,38.007389,0
+			-122.289096,38.002917,0
+			-122.286879,37.999789,0
+			-122.30384,37.99175,0
+			-122.30622,37.99114,0
+			-122.311367,37.98817,0
+			-122.319033,37.984983,0
+			-122.322772,37.982633,0
+			-122.329499,37.979586,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>16</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">16</SimpleData>
+<SimpleData name="LineName">16: Pinole Valley - Old Town Pinole - Richmond Parkway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.68</SimpleData>
+<SimpleData name="LineEDI">1.59</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.251194,37.98357,0
+			-122.25318,37.98269,0
+			-122.25806,37.98358,0
+			-122.258408,37.983311,0
+			-122.260321,37.982143,0
+			-122.26396,37.980597,0
+			-122.266967,37.981404,0
+			-122.273195,37.981416,0
+			-122.280749,37.984976,0
+			-122.28441,37.98798,0
+			-122.285237,37.991934,0
+			-122.285592,37.995241,0
+			-122.286554,38.000184,0
+			-122.288931,38.002944,0
+			-122.292397,38.004572,0
+			-122.29545,38.00429,0
+			-122.299113,38.001705,0
+			-122.297086,38.001581,0
+			-122.295512,37.998995,0
+			-122.29561,37.99677,0
+			-122.297401,37.996441,0
+			-122.299279,37.996099,0
+			-122.301456,37.995502,0
+			-122.30384,37.99175,0
+			-122.30622,37.99114,0
+			-122.311367,37.98817,0
+			-122.31657,37.98634,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>15</name>
+		<styleUrl>#2.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">15</SimpleData>
+<SimpleData name="LineName">15: Rodeo - Hercules</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.23</SimpleData>
+<SimpleData name="LineEDI">2.32</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.246492,38.025608,0
+			-122.250134,38.026946,0
+			-122.254468,38.026008,0
+			-122.256964,38.023738,0
+			-122.2561,38.02132,0
+			-122.256154,38.01912,0
+			-122.258183,38.018692,0
+			-122.26294,38.023316,0
+			-122.269798,38.02305,0
+			-122.272487,38.022023,0
+			-122.276898,38.022432,0
+			-122.275827,38.020581,0
+			-122.273647,38.016358,0
+			-122.2662,38.0128,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>11</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">11</SimpleData>
+<SimpleData name="LineName">11: Crockett - Rodeo - Hercules</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.18</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.220746,38.052448,0
+			-122.22539,38.05245,0
+			-122.230685,38.055105,0
+			-122.248057,38.048685,0
+			-122.257881,38.046396,0
+			-122.263772,38.040036,0
+			-122.267688,38.034864,0
+			-122.267242,38.033127,0
+			-122.266485,38.029942,0
+			-122.269798,38.02305,0
+			-122.272487,38.022023,0
+			-122.275827,38.020581,0
+			-122.273647,38.016358,0
+			-122.2662,38.0128,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Lynx</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-wccta</SimpleData>
+<SimpleData name="LineCode">Lynx</SimpleData>
+<SimpleData name="LineName">Lynx: Rodeo - Hercules - San Francisco</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">18.9</SimpleData>
+<SimpleData name="LineEDI">1.06</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.26294,38.023316,0
+			-122.272344,38.028246,0
+			-122.269798,38.02305,0
+			-122.272487,38.022023,0
+			-122.27646,38.02303,0
+			-122.275827,38.020581,0
+			-122.397233,37.788966,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

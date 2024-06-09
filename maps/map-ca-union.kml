@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-union routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>5</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-union</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">5: Dyer</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.44</SimpleData>
+<SimpleData name="LineEDI">1.56</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.018471,37.591214,0
+			-122.017637,37.588988,0
+			-122.017099,37.58732,0
+			-122.02041,37.587013,0
+			-122.024488,37.588174,0
+			-122.028401,37.589253,0
+			-122.030508,37.589836,0
+			-122.035599,37.591248,0
+			-122.040036,37.592461,0
+			-122.04123,37.592788,0
+			-122.044286,37.593632,0
+			-122.047604,37.594573,0
+			-122.051953,37.595756,0
+			-122.054733,37.596495,0
+			-122.065902,37.598907,0
+			-122.070709,37.595833,0
+			-122.069045,37.593128,0
+			-122.070073,37.590096,0
+			-122.072411,37.591365,0
+			-122.075204,37.592586,0
+			-122.077453,37.591857,0
+			-122.081264,37.590974,0
+			-122.081208,37.586978,0
+			-122.080963,37.580767,0
+			-122.080065,37.577948,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>4</name>
+		<styleUrl>#2.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-union</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">4: Tamarack</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.44</SimpleData>
+<SimpleData name="LineEDI">2.8</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.018334,37.591104,0
+			-122.018919,37.5899,0
+			-122.020213,37.590919,0
+			-122.019025,37.594087,0
+			-122.01829,37.596256,0
+			-122.017868,37.5974,0
+			-122.015733,37.597461,0
+			-122.011969,37.594981,0
+			-122.008251,37.591679,0
+			-122.00566,37.590314,0
+			-122.003094,37.59163,0
+			-122.002855,37.59236,0
+			-122.004943,37.593902,0
+			-122.00985,37.597489,0
+			-122.018167,37.60352,0
+			-122.020327,37.605362,0
+			-122.020485,37.606785,0
+			-122.023466,37.608237,0
+			-122.024539,37.608053,0
+			-122.02754,37.607967,0
+			-122.031108,37.607551,0
+			-122.030482,37.605996,0
+			-122.038563,37.606019,0
+			-122.045787,37.606061,0
+			-122.052102,37.606114,0
+			-122.055286,37.606131,0
+			-122.061284,37.606559,0
+			-122.06515,37.608031,0
+			-122.068275,37.612142,0
+			-122.065932,37.608962,0
+			-122.069231,37.604528,0
+			-122.07095,37.598573,0
+			-122.065902,37.598907,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>3</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-union</SimpleData>
+<SimpleData name="LineCode">3</SimpleData>
+<SimpleData name="LineName">3: Almaden</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.86</SimpleData>
+<SimpleData name="LineEDI">1.45</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.018192,37.590998,0
+			-122.017637,37.588988,0
+			-122.017099,37.58732,0
+			-122.02041,37.587013,0
+			-122.024488,37.588174,0
+			-122.028401,37.589253,0
+			-122.030508,37.589836,0
+			-122.035599,37.591248,0
+			-122.040036,37.592461,0
+			-122.04123,37.592788,0
+			-122.044286,37.593632,0
+			-122.047604,37.594573,0
+			-122.052201,37.593956,0
+			-122.052718,37.591235,0
+			-122.0511,37.590344,0
+			-122.050751,37.58895,0
+			-122.051685,37.59072,0
+			-122.054487,37.59265,0
+			-122.055209,37.595866,0
+			-122.065902,37.598907,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>2</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-union</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">2: Whipple</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.17</SimpleData>
+<SimpleData name="LineEDI">1.4</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.018007,37.590884,0
+			-122.018919,37.5899,0
+			-122.020213,37.590919,0
+			-122.019025,37.594087,0
+			-122.021424,37.598962,0
+			-122.023609,37.600805,0
+			-122.021829,37.602244,0
+			-122.024182,37.604474,0
+			-122.027916,37.605985,0
+			-122.030482,37.605996,0
+			-122.038563,37.606019,0
+			-122.045787,37.606061,0
+			-122.052102,37.606114,0
+			-122.055286,37.606131,0
+			-122.061284,37.606559,0
+			-122.06515,37.608031,0
+			-122.068275,37.612142,0
+			-122.065932,37.608962,0
+			-122.069516,37.605833,0
+			-122.077082,37.605794,0
+			-122.079794,37.605772,0
+			-122.082412,37.606138,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>1</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-union</SimpleData>
+<SimpleData name="LineCode">1</SimpleData>
+<SimpleData name="LineName">1: Delores</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.78</SimpleData>
+<SimpleData name="LineEDI">1.7</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-122.017855,37.590777,0
+			-122.017637,37.588988,0
+			-122.017099,37.58732,0
+			-122.02041,37.587013,0
+			-122.024488,37.588174,0
+			-122.028401,37.589253,0
+			-122.030508,37.589836,0
+			-122.035599,37.591248,0
+			-122.040036,37.592461,0
+			-122.04123,37.592788,0
+			-122.044286,37.593632,0
+			-122.047604,37.594573,0
+			-122.051953,37.595756,0
+			-122.054733,37.596495,0
+			-122.065902,37.598907,0
+			-122.070709,37.595833,0
+			-122.069045,37.593128,0
+			-122.070053,37.589428,0
+			-122.071972,37.587184,0
+			-122.069696,37.585131,0
+			-122.066373,37.583385,0
+			-122.066757,37.581243,0
+			-122.068236,37.579586,0
+			-122.070272,37.577286,0
+			-122.072156,37.575732,0
+			-122.071726,37.574678,0
+			-122.070153,37.573857,0
+			-122.068707,37.573051,0
+			-122.069043,37.572393,0
+			-122.071627,37.570454,0
+			-122.072125,37.569036,0
+			-122.073124,37.568486,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>

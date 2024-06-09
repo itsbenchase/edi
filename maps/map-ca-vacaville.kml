@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ca-vacaville routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>6</name>
+		<styleUrl>#3.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-vacaville</SimpleData>
+<SimpleData name="LineCode">6</SimpleData>
+<SimpleData name="LineName">Route 6</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.89</SimpleData>
+<SimpleData name="LineEDI">3.65</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-121.984087,38.354957,0
+			-121.981617,38.36018,0
+			-121.981044,38.363153,0
+			-121.982737,38.366014,0
+			-121.980302,38.365994,0
+			-121.980135,38.367324,0
+			-121.980056,38.368764,0
+			-121.979541,38.370852,0
+			-121.977706,38.369949,0
+			-121.977925,38.366003,0
+			-121.978117,38.364248,0
+			-121.978173,38.363263,0
+			-121.97756,38.360674,0
+			-121.976247,38.360097,0
+			-121.971209,38.361929,0
+			-121.967811,38.363301,0
+			-121.963313,38.366895,0
+			-121.95874,38.366828,0
+			-121.963463,38.361226,0
+			-121.965001,38.358629,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>5</name>
+		<styleUrl>#4.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-vacaville</SimpleData>
+<SimpleData name="LineCode">5</SimpleData>
+<SimpleData name="LineName">Route 5</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.63</SimpleData>
+<SimpleData name="LineEDI">4.78</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-121.990566,38.358607,0
+			-121.991464,38.353597,0
+			-121.993477,38.351456,0
+			-121.996167,38.348919,0
+			-121.995582,38.343176,0
+			-121.993575,38.341797,0
+			-121.989679,38.338831,0
+			-121.9863,38.336198,0
+			-121.983777,38.335423,0
+			-121.980056,38.335394,0
+			-121.974955,38.335342,0
+			-121.97316,38.335319,0
+			-121.968739,38.335331,0
+			-121.963012,38.335333,0
+			-121.958744,38.335289,0
+			-121.954911,38.335296,0
+			-121.953186,38.336383,0
+			-121.953163,38.340216,0
+			-121.953144,38.342645,0
+			-121.953142,38.345744,0
+			-121.953123,38.348383,0
+			-121.952999,38.352271,0
+			-121.953043,38.354642,0
+			-121.949702,38.36188,0
+			-121.955308,38.364314,0
+			-121.957239,38.362791,0
+			-121.959823,38.364127,0
+			-121.963463,38.361226,0
+			-121.965001,38.358629,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>4</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-vacaville</SimpleData>
+<SimpleData name="LineCode">4</SimpleData>
+<SimpleData name="LineName">Route 4</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">3.65</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-121.965001,38.358629,0
+			-121.963234,38.361964,0
+			-121.959356,38.366406,0
+			-121.954967,38.36969,0
+			-121.951239,38.37094,0
+			-121.952375,38.371887,0
+			-121.946944,38.37365,0
+			-121.944982,38.37732,0
+			-121.942324,38.3796,0
+			-121.935171,38.38444,0
+			-121.933586,38.38509,0
+			-121.937491,38.387964,0
+			-121.941764,38.393652,0
+			-121.940116,38.396694,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>2</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ca-vacaville</SimpleData>
+<SimpleData name="LineCode">2</SimpleData>
+<SimpleData name="LineName">Route 2</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">4.47</SimpleData>
+<SimpleData name="LineEDI">1.8</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-121.977605,38.389524,0
+			-121.978074,38.386953,0
+			-121.981329,38.386868,0
+			-121.983353,38.387132,0
+			-121.983841,38.385734,0
+			-121.983612,38.383387,0
+			-121.983427,38.38216,0
+			-121.981391,38.378882,0
+			-121.978849,38.37751,0
+			-121.977576,38.37144,0
+			-121.980189,38.36883,0
+			-121.980263,38.36737,0
+			-121.980665,38.366098,0
+			-121.982868,38.365798,0
+			-121.981072,38.362854,0
+			-121.981934,38.35967,0
+			-121.990566,38.358607,0
+			-122.001244,38.357543,0
+			-122.00398,38.364575,0
+			-122.00789,38.362634,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
