@@ -49,6 +49,8 @@ public class RouteList
       fileWriter1.append("<li><a href=resources.html>Resources</a></li></ul> \n");
       fileWriter1.append("<h1>Route Listing</h1> \n");
 
+      fileWriter1.append("<p>Only want the worst of the bunch? <a href=deviatory.html>Here</a> is a list of all routes with an EDI over 3.0, our threshold for being too deviatory.</p> \n");
+
       // listing with links at top
       fileWriter1.append("<p id=agencies></p> \n");
       fileWriter1.append("<script src=list.js></script>");
