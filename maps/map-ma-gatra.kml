@@ -270,29 +270,6 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>middleborough-taunton</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">ma-gatra</SimpleData>
-<SimpleData name="LineCode">middleborough-taunton</SimpleData>
-<SimpleData name="LineName">Middleborough - Taunton Connection</SimpleData>
-<SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">12.63</SimpleData>
-<SimpleData name="LineEDI">1.04</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-70.864762,41.908706,0
-			-70.910653,41.891479,0
-			-71.033165,41.903635,0
-			-71.060635,41.905022,0
-			-71.094179,41.905669,0
-			-71.099164,41.901751,0
-			-71.10096,41.90106,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
 		<name>middleborough-shuttle</name>
 		<styleUrl>#1.5</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
