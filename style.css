@@ -1,6 +1,6 @@
 html
 {
-    background-color: #1f1f1f;
+    background-color: #d9ffde;
 }
 
 @font-face {
@@ -12,51 +12,57 @@ input[type="text"]
 {
     font-family: sourcesans;
     font-size: 16pt;
-    color: #ffffff;
-    background-color: #373737;
+    color: #000000;
+    background-color: #bcf5c4;
+    border: 1px solid #bcf5c4;
 }
 
 select
 {
     font-family: sourcesans;
     font-size: 16pt;
-    color: #ffffff;
-    background-color: #373737;
+    color: #000000;
+    background-color: #bcf5c4;
+    border: 1px solid #bcf5c4;
+    padding: 2px;
+    appearance: none;
 }
 
 option
 {
     font-family: sourcesans;
     font-size: 16pt;
-    color: #ffffff;
-    background-color: #373737;
+    color: #000000;
+    background-color: #bcf5c4;
 }
 
 button
 {
     font-family: sourcesans;
     font-size: 16pt;
+    background-color: #bcf5c4;
+    border: 1px solid #000000;
 }
 
 h1
 {
     font-family: sourcesans;
     font-size: 40pt;
-    color: #2ecc71;
+    color: #1aab2d;
 }
 
 h3
 {
     font-family: sourcesans;
     font-size: 20pt;
-    color: #2ecc71;
+    color: #1aab2d;
 }
 
 p
 {
     font-family: sourcesans;
     font-size: 16pt;
-    color: #ffffff;
+    color: #000000;
 }
 
 table
@@ -69,7 +75,7 @@ th, td
 {
     padding-left: 10px;
     padding-right: 10px;
-    color: #ffffff;
+    color: #000000;
 }
 
 a:link
@@ -93,7 +99,7 @@ ul
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2c2929;
+    background-color: #bcf5c4;
 }
   
 li 
@@ -108,7 +114,7 @@ li
     float: none;
     font-family: sourcesans;
     font-size: 16pt;
-    color: #ffffff;
+    color: #000000;
 }
   
 li a 
@@ -121,5 +127,5 @@ li a
 
 .active
 {
-    background-color: #373737;
+    background-color: #ace8b4;
 }

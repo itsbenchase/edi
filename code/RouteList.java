@@ -110,11 +110,11 @@ public class RouteList
         {
           if (routeOfficial.get(j).equals("y"))
           {
-            fileWriter1.append("<tr><td style=color:#2ecc71>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+            fileWriter1.append("<tr><td style=color:#ff0000>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
           }
           else
           {
-            fileWriter1.append("<tr><td style=color:#0097a7>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+            fileWriter1.append("<tr><td style=color:#0000ff>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
           }
         }
 
@@ -159,7 +159,7 @@ public class RouteList
 
             for (int k = currentSize; k < routeCode.size(); k++)
             {
-              fileWriter1.append("<tr><td style=color:#0097a7>" + routeCode.get(k) + "</td><td>" + routeDist.get(k) + " mi.</td><td>" + routeEdi.get(k) + "</td></tr> \n");
+              fileWriter1.append("<tr><td style=color:#0000ff>" + routeCode.get(k) + "</td><td>" + routeDist.get(k) + " mi.</td><td>" + routeEdi.get(k) + "</td></tr> \n");
             }
 
             fileWriter1.append("</table> \n");

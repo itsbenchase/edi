@@ -89,7 +89,7 @@ public class StopList
 
         for (int j = 0; j < stopID.size(); j++)
         {
-          fileWriter1.append("<tr><td style=color:#2ecc71>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
+          fileWriter1.append("<tr><td style=color:#ff0000>" + stopID.get(j) + "</td><td>" + stopName.get(j) + "</td><td>" + stopLat.get(j) + "</td><td>" + stopLon.get(j) + "</td></tr> \n");
           agencyStops++;
           stopCounter++;
         }

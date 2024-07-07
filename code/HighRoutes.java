@@ -98,7 +98,7 @@ public class HighRoutes
       // route table created
       for (int j = 0; j < routeCode.size(); j++)
       {
-        fileWriter1.append("<tr><td style=color:#30d1c6>" + routeAgency.get(j) + "</td><td style=color:#2ecc71>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
+        fileWriter1.append("<tr><td style=color:#c002ff>" + routeAgency.get(j) + "</td><td style=color:#ff0000>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
       }
 
       fileWriter1.append("</table> \n");

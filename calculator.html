@@ -27,11 +27,10 @@
 <p>Stop ID:
     <input id=stop-added type=text placeholder="e.g. 5322"></input>
     <button id="sumbit" type="button" onclick="findIndex()">Add</button>
-    <button id="remove" type="button" onclick="removeLast()">Remove</button>
     <button id="exportbtn" type="button" onclick="exportGen()">Export</button>
 </p>
 
-<h3 id="route" style="color:#ffffff">New Route</h3>
+<h3 id="route" style="color:#000000">New Route</h3>
 <p id="last"></p>
 <p id="agency"><b>Agency: </b>Not Available</p>
 <p id="code"><b>Code: </b>Not Available</p>
@@ -58,10 +57,10 @@ var stopNames = [];
 var stopLats = [];
 var stopLons = [];
 
-const lineStops = [];
-const lineIds = [];
-const lineLats = [];
-const lineLons = [];
+var lineStops = [];
+var lineIds = [];
+var lineLats = [];
+var lineLons = [];
 
 function getAgencies()
 {
@@ -239,6 +238,7 @@ function exportGen()
     document.getElementById("export").innerHTML += ("<br>Line: " + code);
     for (let i = 0; i < lineStops.length; i++)
     {
+        console.log("length " + lineStops.length);
         document.getElementById("export").innerHTML += ("<br>" + lineIds[i]);
     }
     document.getElementById("export").innerHTML += ("<br>-0");
@@ -247,23 +247,6 @@ function exportGen()
 function toRadians(degrees)
 {
     return degrees * (Math.PI / 180);
-}
-
-function removeLast()
-{
-    // remove from arrays
-    lineStops.pop();
-    lineLats.pop();
-    lineLons.pop();
-
-    // remove from stop list
-    document.getElementById("stops").innerHTML = "<b>Stop Listing:</b>";
-    for (let i = 0; i < lineStops.length; i++)
-    {
-        document.getElementById("stops").innerHTML += ("<br>" + lineStops[i]);
-    }
-
-    findIndex();
 }
 
 </script>
