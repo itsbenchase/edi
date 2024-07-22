@@ -53,6 +53,25 @@
 		</LineStyle> 
 		</Style>
 	<Placemark> 
+		<name>355</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ct-ct</SimpleData>
+<SimpleData name="LineCode">355</SimpleData>
+<SimpleData name="LineName">355: UConn Stamford Connector</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">0.57</SimpleData>
+<SimpleData name="LineEDI">1.01</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-73.542101,41.047766,0
+			-73.542187,41.052749,0
+			-73.541247,41.055872,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>52-R</name>
 		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
