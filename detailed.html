@@ -124,31 +124,6 @@ function getAgencies()
         })
 }
 
-function getRoutes()
-{
-    // create arrays
-    const lineCodes = [];
-    const lineLengths = [];
-    const lineEdis = [];
-    const lineNames = [];
-    const lineBranches = [];
-
-    listFile.pop(); // this fixed a bug
-    for (let i = 0; i < listFile.length; i++)
-    {
-        var data = listFile[i];
-        lineCodes.push(data.substring(0, data.indexOf(";")));
-        data = data.substr(data.indexOf(";") + 1);
-        lineLengths.push(data.substring(0, data.indexOf(";")));
-        data = data.substr(data.indexOf(";") + 1);
-        lineEdis.push(data.substring(0, data.indexOf(";")));
-        data = data.substr(data.indexOf(";") + 1);
-        lineNames.push(data.substring(0, data.indexOf(";")));
-        data = data.substr(data.indexOf(";") + 1);
-        lineBranches.push(data);
-    }
-}
-
 function getOption()
 {
     selectedAgency = document.querySelector('#agencyDrop');
