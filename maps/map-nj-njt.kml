@@ -53,6 +53,38 @@
 		</LineStyle> 
 		</Style>
 	<Placemark> 
+		<name>NEC</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">nj-njt</SimpleData>
+<SimpleData name="LineCode">NEC</SimpleData>
+<SimpleData name="LineName">Northeast Corridor Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">57.14</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-73.992358,40.750046,0
+			-74.075821,40.761188,0
+			-74.164554,40.734221,0
+			-74.190717,40.704415,0
+			-74.206165,40.680265,0
+			-74.215174,40.667857,0
+			-74.251772,40.629485,0
+			-74.276692,40.606338,0
+			-74.329394,40.56864,0
+			-74.360671,40.540736,0
+			-74.410972,40.519148,0
+			-74.445751,40.497278,0
+			-74.467363,40.476912,0
+			-74.623753,40.316316,0
+			-74.70412,40.255309,0
+			-74.753926,40.218515,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>748-wayne</name>
 		<styleUrl>#1.5</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
