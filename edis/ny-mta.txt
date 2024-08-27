@@ -163,7 +163,6 @@ M104;5.34;1.2;M104: West Harlem - Times Square;Main
 M106;2.3;1.24;M106: East Harlem - West Side;Main
 M116;2.65;1.37;M116: West Side - East Harlem;Main
 M125;3.12;1.37;M125: Manhattanville - The Hub via 125 St / Willis Av;Main
-New Haven;69.81;1.04;New Haven Line;Main
 Q1-bellerose;4.32;1.11;Q1: Queens Village / Bellerose - Jamaica;to Bellerose
 Q1-queens-village;4.23;1.31;Q1: Queens Village / Bellerose - Jamaica;to Queens Village
 Q2;4.26;1.2;Q2: Queens Village - Jamaica;Main
@@ -348,3 +347,7 @@ X63;21.36;1.53;X63: Rosedale - Midtown Manhattan Express;Main
 X64;19.22;1.42;X64: Cambria Heights - Midtown Manhattan Express;Main
 X68-23;19.27;1.33;X68: Floral Park - Midtown Manhattan Express;to 23 St / 1 Av
 X68-57;16.95;1.21;X68: Floral Park - Midtown Manhattan Express;to 57 St / 3 Av
+Harlem;51.52;1.05;Harlem Line;Main
+Hudson;68.66;1.04;Hudson Line;Main
+New Haven;69.81;1.04;New Haven Line;Main
+Wassaic;28.24;1.01;Wassaic Shuttle;Main
