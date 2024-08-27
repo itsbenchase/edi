@@ -1130,11 +1130,12 @@
 <SimpleData name="LineCode">river</SimpleData>
 <SimpleData name="LineName">River Line</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">32.77</SimpleData>
+<SimpleData name="LineLength">33.23</SimpleData>
 <SimpleData name="LineEDI">1.2</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
+			-74.753926,40.218515,0
 			-74.755882,40.211928,0
 			-74.754313,40.205409,0
 			-74.716271,40.14811,0
