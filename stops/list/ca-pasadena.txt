@@ -1,9 +1,9 @@
 ﻿18;Allen Ave & Colorado Blvd;34.145463;-118.113232
-69;Allen Ave & Colorado Blvd;34.146446;-118.113031
+69;Allen Ave & Colorado Blvd;34.146446;-118.11303
 637;Allen Ave & Corson St;34.151371;-118.113334
 102;Allen Ave & Del Mar Blvd;34.142433;-118.113075
 394;Allen Ave & Las Lunas St;34.156223;-118.113105
-582;Allen Ave & Maple St;34.15335;-118.113001
+582;Allen Ave & Maple St;34.15335;-118.113
 395;Allen Ave & Monte Vista St;34.155861;-118.113315
 371;Allen Ave & Orange Grove Blvd;34.1576;-118.113088
 372;Allen Ave & Orange Grove Blvd;34.157447;-118.113291
@@ -105,7 +105,7 @@
 95;Del Mar Blvd & Sierra Madre Blvd;34.142213;-118.102094
 114;Del Mar Blvd & Wilson Ave;34.141049;-118.127721
 115;Del Mar Blvd & Wilson Ave;34.14087;-118.127671
-717;East Orange Grove Boulevard & North Fair Oaks Aven;34.157706;-118.1501
+717;East Orange Grove Blvd & North Fair Oaks Ave;34.157706;-118.1501
 590;Fair Oaks Ave & Bellefontaine St;34.13184;-118.15023
 611;Fair Oaks Ave & Bellefontaine St;34.131295;-118.150484
 593;Fair Oaks Ave & Bellevue Dr;34.138707;-118.150268
@@ -157,7 +157,7 @@
 6;Foothill Blvd & Sierra Madre Villa Ave;34.150162;-118.083003
 319;Foothill Blvd & Sunny Slope Ave;34.150029;-118.090903
 320;Foothill Blvd & Sunny Slope Ave;34.149872;-118.090164
-251;Foothill Blvd Between Rosemead Blvd & Halstead St;34.150266;-118.075817
+251;Foothill Blvd btwn Rosemead Blvd & Halstead St;34.150266;-118.075817
 633;Glenarm St & Fair Oaks Ave;34.127464;-118.149878
 524;Green St & Arroyo Pkwy;34.144441;-118.14787
 520;Green St & Orange Grove Blvd;34.144625;-118.159556
@@ -246,7 +246,7 @@
 615;Los Robles Ave & Villa St;34.153966;-118.141631
 622;Los Robles Ave & Villa St;34.154022;-118.141329
 621;Los Robles Ave & Walnut St;34.149826;-118.141292
-584;Maple St & Allen Ave;34.15305;-118.114001
+584;Maple St & Allen Ave;34.15305;-118.114
 539;Marengo Ave & Corson St;34.151529;-118.145848
 540;Marengo Ave & Corson St;34.151461;-118.146148
 687;Marengo Ave & Green St;34.145105;-118.145854
@@ -296,7 +296,7 @@
 256;Rosemead Blvd & Greenhill Rd;34.155195;-118.078538
 255;Rosemead Blvd & Halstead St;34.154996;-118.078692
 258;Rosemead Blvd & Hastings Ranch Dr;34.151648;-118.074209
-257;Rosemead Blvd Between Hastings Ranch & Halstead St;34.15375;-118.077785
+257;Rosemead Blvd btwn Hastings Ranch & Halstead St;34.15375;-118.077785
 445;Seco St & Arroyo Blvd;34.156428;-118.167219
 446;Seco St & Arroyo Blvd;34.156318;-118.166234
 448;Seco St & Lincoln Ave;34.161981;-118.16045
@@ -305,7 +305,7 @@
 447;Seco St & Rosemont Ave;34.157512;-118.164642
 460;Seco St & Rosemont Ave;34.157434;-118.164267
 239;Sierra Madre Blvd & Hastings Ranch Dr;34.16153;-118.072398
-242;Sierra Madre Blvd & Michillinda Ave;34.162001;-118.068852
+242;Sierra Madre Blvd & Michillinda Ave;34.162;-118.068852
 229;Sierra Madre Villa Ave & Alameda St;34.153529;-118.082186
 3;Sierra Madre Villa Ave & Colorado Blvd;34.146606;-118.081494
 5;Sierra Madre Villa Ave & Foothill Blvd;34.150611;-118.082357
