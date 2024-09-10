@@ -59,7 +59,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">80</SimpleData>
 <SimpleData name="LineName">80: Southern Loop</SimpleData>
-<SimpleData name="LineBranch">Main;5163;518.37</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">9.96</SimpleData>
 <SimpleData name="LineEDI">1.65</SimpleData>
 </SchemaData></ExtendedData>
@@ -92,7 +92,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">51</SimpleData>
 <SimpleData name="LineName">51: Mahanoy City</SimpleData>
-<SimpleData name="LineBranch">Main;2200;472.1</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">4.66</SimpleData>
 <SimpleData name="LineEDI">1.19</SimpleData>
 </SchemaData></ExtendedData>
@@ -123,7 +123,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">46</SimpleData>
 <SimpleData name="LineName">46: Coaldale Loop</SimpleData>
-<SimpleData name="LineBranch">Main;2514;795.57</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">3.16</SimpleData>
 <SimpleData name="LineEDI">1.04</SimpleData>
 </SchemaData></ExtendedData>
@@ -149,7 +149,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">45</SimpleData>
 <SimpleData name="LineName">45: Mcadoo</SimpleData>
-<SimpleData name="LineBranch">Main;12250;500.0</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">24.5</SimpleData>
 <SimpleData name="LineEDI">1.33</SimpleData>
 </SchemaData></ExtendedData>
@@ -231,7 +231,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">40</SimpleData>
 <SimpleData name="LineName">40: Middleport</SimpleData>
-<SimpleData name="LineBranch">Main;4242;618.37</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">6.86</SimpleData>
 <SimpleData name="LineEDI">1.06</SimpleData>
 </SchemaData></ExtendedData>
@@ -270,7 +270,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">30</SimpleData>
 <SimpleData name="LineName">30: Schuylkill Haven</SimpleData>
-<SimpleData name="LineBranch">Main;3521;656.9</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">5.36</SimpleData>
 <SimpleData name="LineEDI">1.28</SimpleData>
 </SchemaData></ExtendedData>
@@ -306,7 +306,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">20</SimpleData>
 <SimpleData name="LineName">20: Minersville</SimpleData>
-<SimpleData name="LineBranch">Main;9818;1967.54</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">4.99</SimpleData>
 <SimpleData name="LineEDI">1.24</SimpleData>
 </SchemaData></ExtendedData>
@@ -352,7 +352,7 @@
 <SimpleData name="Agency">pa-sts</SimpleData>
 <SimpleData name="LineCode">10</SimpleData>
 <SimpleData name="LineName">10: Shenandoah</SimpleData>
-<SimpleData name="LineBranch">Main;6078;515.96</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">11.78</SimpleData>
 <SimpleData name="LineEDI">1.25</SimpleData>
 </SchemaData></ExtendedData>

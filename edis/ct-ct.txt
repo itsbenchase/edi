@@ -81,16 +81,49 @@
 101;9.4;1.09;101: Hartford / New Britain;Main
 102;18.77;1.22;102: Hartford / New Britain / Bristol;Main
 121;17.45;1.45;121: MCC / Hartford / UConn Health;Main
+125;12.83;1.52;125: Hartford / Berlin Tpke;Main
 128;10.74;1.24;128: Hartford / Westfarms - New Britain;Main
 144;11.53;2.37;144: Wethersfield / Westfarms;Main
 153;11.63;2.18;153: Flatbush / Copaco;Main
 161;2.53;1.38;161: St. Francis Hosptial / Hartford Hospital;Main
 201;20.62;1.21;201: Madison;Main
+204;6.24;1.21;204: New Haven / East Haven;Main
+206;6.66;1.52;206: East Chapel Street;Main
+212;2.3;1.25;212: Grand Avenue;Main
+212-F;4.9;1.19;212: Grand Avenue;F: Foxon Rd
+212-U;7.1;1.6;212: Grand Avenue;U: Universal Dr
+212-W;3.2;1.26;212: Grand Avenue;W: Walmart
+213;7.13;1.03;213: New Haven / North Branford;Main
+215-M;22.44;1.28;215: New Haven / Wallingford / Meriden;M: Meriden
+215-W;15.96;1.24;215: New Haven / Wallingford / Meriden;W: Wallingford
+215-X;9.1;1.04;215: New Haven / Wallingford / Meriden;X: Amazon via I-91
+223;3.64;1.43;223: Lombard Street;Main
+224-D;6.93;1.25;224: State Street;D: Devine St
+224-N;6.41;1.44;224: State Street;N: Northside
+228;8.74;2.02;228: Whitney Avenue;Main
+229;23.54;1.28;229: New Haven / Waterbury;Main
+234;4.48;1.57;234: Winchester Avenue;Main
+237-B;4.93;1.56;237: Shelton Avenue;B: Brookside
+237-P;3.42;1.26;237: Shelton Avenue;P: Putnam Place
+238;5.41;1.13;238: Dixwell Avenue;Main
+238-C;10.99;2.0;238: Dixwell Avenue;C: Centerville
+241;3.73;1.12;241: Goffe Street;Main
+243-A;6.61;1.89;243: Whalley Avenue;A: Amity Road
+243-B;4.81;1.5;243: Whalley Avenue;B: Brookside
+246;3.92;1.25;246: Edgewood Avenue;Main
+246-A;4.7;1.34;246: Edgewood Avenue;A: Amity Road
+254;1.45;1.04;254: West Chapel Street;Main
 255;18.27;1.89;255: New Haven / Ansonia / Seymour;Main
 261;8.94;1.2;261: Boston Post Rd;Main
+262;8.37;1.12;262: Orange Business District / Milford;Main
+265-B;6.02;1.6;265: Congress Avenue;B: Bull Hill Lane
+265-R;6.84;1.19;265: Congress Avenue;R: Bayshore via Jones Hill Rd
+265-S;5.6;1.63;265: Congress Avenue;S: Savin Rock
+268;5.16;1.67;268: Washington Avenue;Main
 271-M;15.38;2.06;271: Kimberly Ave;M: Milford - CT Post Mall
 271-R;6.45;1.12;271: Kimberly Ave;R: Bayshore via Jones Hill Rd
 271-S;4.71;1.31;271: Kimberly Ave;S: Savin Rock
+274;2.53;2.06;274: Sargent Drive;Main
 282;1.86;1.94;282: East Grand Ave;Main
 311;9.02;1.19;311: Port Chester;via W Putnam Ave
 311-B;8.61;1.18;311: Port Chester;B: via Hamilton Ave
@@ -111,5 +144,6 @@
 926;23.5;1.04;926: Winsted Express;Main
 927;24.96;1.07;927: Torrington Express;Main
 928;28.02;1.16;928: Southington - Cheshire - Waterbury Express;Main
+950;36.79;1.05;950: New Haven / Hartford Express;Main
 Hartford Line;59.03;1.01;Hartford Line;Main
 Shore Line East;44.68;1.03;Shore Line East;Main
