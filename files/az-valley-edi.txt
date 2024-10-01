@@ -1,118 +1,2679 @@
-18199;Van Buren St & Central Av;33.451297;-112.073147;1;1
-10213;Van Buren St & 3rd St;33.451288;-112.069235;1;2
-10214;Van Buren St & 5th St;33.451252;-112.066926;1;3
-10215;7th St & Van Buren St;33.450847;-112.065311;1;4
-10217;Jefferson St & 7th St;33.447052;-112.064595;1;5
-10218;Jefferson St & 9th St;33.447047;-112.061619;1;6
-10219;Jefferson St & 11th St;33.44705;-112.05855;1;7
-10220;Jefferson St & 12th St;33.447068;-112.055842;1;8
-10221;Jefferson St & 14th St;33.44709;-112.051681;1;9
-10222;Jefferson St & 16th St;33.447108;-112.048254;1;10
-10223;Jefferson St & 16th Pl;33.447113;-112.046803;1;11
-10224;Jefferson St & 18th St;33.44712;-112.042687;1;12
-10226;Jefferson St & 22nd St;33.447158;-112.034176;1;13
-10227;Jefferson St & 24th St;33.447034;-112.029396;1;14
-10228;Washington St & 27th St;33.448059;-112.023123;1;15
-10229;Washington St & 28th St;33.448078;-112.021083;1;16
-10230;Washington St & 30th St;33.448051;-112.01645;1;17
-10231;Washington St & 32nd St;33.448032;-112.012473;1;18
-10232;Washington St & 34th St;33.448009;-112.006712;1;19
-10233;Washington St & 36th St;33.448011;-112.003013;1;20
-10234;Washington St & 38th St;33.447916;-111.998452;1;21
-10235;Washington St & 40th St;33.447967;-111.994692;1;22
-18369;Washington St & 41st Pl;33.448007;-111.991217;1;23
-10237;Washington St & 44th St;33.447946;-111.986557;1;24
-10238;Washington St & 48th St;33.447172;-111.977939;1;25
-10239;Washington St & 5025 East;33.446615;-111.973355;1;26
-10240;Washington St & 54th Pl;33.445718;-111.96576;1;27
-10241;Washington St & 56th St;33.445022;-111.960418;1;28
-10242;Priest Dr & Washington St;33.442861;-111.955814;1;29
-18367;Van Buren St & Central Av;33.451514;-112.073504;0A-dobbins;1
-10163;1st Av & Lincoln St;33.441594;-112.075197;0A-dobbins;2
-10164;Central Av & Hadley St;33.438757;-112.073899;0A-dobbins;3
-10165;Central Av & Buckeye Rd;33.436306;-112.073898;0A-dobbins;4
-10166;Central Av & Papago St;33.433683;-112.073887;0A-dobbins;5
-10167;Central Av & Mohave St;33.430774;-112.073876;0A-dobbins;6
-10168;Central Av & Watkins St;33.42521;-112.073571;0A-dobbins;7
-10169;Central Av & Victory St;33.416778;-112.073737;0A-dobbins;8
-10170;Central Av & Elwood St;33.413537;-112.073562;0A-dobbins;9
-10171;Central Av & Southgate Av;33.409875;-112.073518;0A-dobbins;10
-10172;Central Av & Broadway Rd;33.407134;-112.073518;0A-dobbins;11
-10173;Central Av & 4400 South;33.406234;-112.073491;0A-dobbins;12
-10174;Central Av & Tamarisk St;33.403661;-112.073488;0A-dobbins;13
-10175;Central Av & Roeser Rd;33.399092;-112.073508;0A-dobbins;14
-10176;Central Av & Sunland Av;33.39553;-112.073468;0A-dobbins;15
-10177;Central Av & Southern Av;33.391388;-112.073482;0A-dobbins;16
-10178;Central Av & Lynne Av;33.390032;-112.073434;0A-dobbins;17
-10179;Central Av & Alta Vista Rd;33.388217;-112.073424;0A-dobbins;18
-10180;Central Av & Vineyard Rd;33.384543;-112.073434;0A-dobbins;19
-10181;Central Av & Fremont Rd;33.380564;-112.073385;0A-dobbins;20
-15625;Central Av & Baseline Rd;33.37722;-112.073395;0A-dobbins;21
-10183;Central Av & Olympic Dr;33.374402;-112.073381;0A-dobbins;22
-15627;Central Av & South Mountain Av;33.370128;-112.073349;0A-dobbins;23
-10185;Central Av & Euclid Av;33.366648;-112.07334;0A-dobbins;24
-10186;Dobbins Rd & Central Av;33.363354;-112.074452;0A-dobbins;25
-10187;Dobbins Rd & 3rd Av;33.36328;-112.07931;0A-dobbins;26
-10188;Dobbins Rd & 7th Av;33.363255;-112.083781;0A-dobbins;27
-10189;10th Av & Dobbins Rd;33.362665;-112.086453;0A-dobbins;28
-10190;10th Av & McNeil St;33.358403;-112.087649;0A-dobbins;29
-15628;Buist Av & 12th Av;33.359399;-112.090188;0A-dobbins;30
-18367;Van Buren St & Central Av;33.451514;-112.073504;0A-baseline;1
-10163;1st Av & Lincoln St;33.441594;-112.075197;0A-baseline;2
-10164;Central Av & Hadley St;33.438757;-112.073899;0A-baseline;3
-10165;Central Av & Buckeye Rd;33.436306;-112.073898;0A-baseline;4
-10166;Central Av & Papago St;33.433683;-112.073887;0A-baseline;5
-10167;Central Av & Mohave St;33.430774;-112.073876;0A-baseline;6
-10168;Central Av & Watkins St;33.42521;-112.073571;0A-baseline;7
-10169;Central Av & Victory St;33.416778;-112.073737;0A-baseline;8
-10170;Central Av & Elwood St;33.413537;-112.073562;0A-baseline;9
-10171;Central Av & Southgate Av;33.409875;-112.073518;0A-baseline;10
-10172;Central Av & Broadway Rd;33.407134;-112.073518;0A-baseline;11
-10173;Central Av & 4400 South;33.406234;-112.073491;0A-baseline;12
-10174;Central Av & Tamarisk St;33.403661;-112.073488;0A-baseline;13
-10175;Central Av & Roeser Rd;33.399092;-112.073508;0A-baseline;14
-10176;Central Av & Sunland Av;33.39553;-112.073468;0A-baseline;15
-10177;Central Av & Southern Av;33.391388;-112.073482;0A-baseline;16
-10178;Central Av & Lynne Av;33.390032;-112.073434;0A-baseline;17
-10179;Central Av & Alta Vista Rd;33.388217;-112.073424;0A-baseline;18
-10180;Central Av & Vineyard Rd;33.384543;-112.073434;0A-baseline;19
-10181;Central Av & Fremont Rd;33.380564;-112.073385;0A-baseline;20
-15625;Central Av & Baseline Rd;33.37722;-112.073395;0A-baseline;21
-17992;Central Av & ASU University Center;33.452902;-112.073736;0;1
-10077;Central Av & Fillmore St;33.455058;-112.073712;0;2
-10078;Central Av & McKinley St;33.456949;-112.073706;0;3
-10079;Central Av & Roosevelt St;33.459276;-112.073718;0;4
-18073;Central Av & Culver St;33.463191;-112.073665;0;5
-10081;Central Av & McDowell Rd;33.466156;-112.073643;0;6
-10082;Central Av & Palm Ln;33.469692;-112.073649;0;7
-10084;Central Av & Encanto Bl;33.473358;-112.073628;0;8
-18074;Central Av & Virginia Av;33.47739;-112.073627;0;9
-10088;Central Av & Thomas Rd;33.480886;-112.073557;0;10
-10090;Central Av & Earll Dr;33.484404;-112.073636;0;11
-10092;Central Av & Osborn Rd;33.488225;-112.073617;0;12
-10093;Central Av & Columbus Av;33.490169;-112.073633;0;13
-18098;Central Av & Indianola Av;33.492809;-112.073652;0;14
-10099;Central Av & Indian School Rd;33.495356;-112.073568;0;15
-10291;Central Av & Farrington Ln;33.49828;-112.073632;0;16
-10097;Central Av & Campbell Av;33.502628;-112.073572;0;17
-10098;Central Av & Highland Av;33.505365;-112.073593;0;18
-10100;Central Av & Camelback Rd;33.50975;-112.073561;0;19
-10101;Central Av & Orange Dr;33.512407;-112.073605;0;20
-10102;Central Av & Georgia Av;33.515042;-112.073599;0;21
-10103;Central Av & Missouri Av;33.517068;-112.073598;0;22
-10104;Central Av & Montebello Av;33.520477;-112.073572;0;23
-10105;Central Av & Bethany Home Rd;33.52433;-112.073591;0;24
-10106;Central Av & Rose Ln;33.528297;-112.073618;0;25
-10107;Central Av & Maryland Av;33.53139;-112.073621;0;26
-10108;Central Av & Ocotillo Rd;33.534508;-112.073636;0;27
-10109;Central Av & Glendale Av;33.538724;-112.073635;0;28
-10110;Central Av & Myrtle Av;33.542453;-112.073702;0;29
-10111;Central Av & Orangewood Av;33.545945;-112.07374;0;30
-10112;Central Av & Frier Dr;33.549125;-112.073777;0;31
-10113;Central Av & Northern Av;33.553185;-112.073796;0;32
-10114;Central Av & Griswold Rd;33.556851;-112.073806;0;33
-10115;Central Av & Butler Dr;33.560749;-112.073761;0;34
-10116;Central Av & Ruth Av;33.562643;-112.073741;0;35
-10117;Central Av & Alice Av;33.56469;-112.073762;0;36
-10118;Dunlap Av & Central Av;33.567645;-112.07331;0;37
-10119;Sunnyslope TC;33.567127;-112.069078;0;38
+7732;49th Av & Thunderbird Rd;33.610173;-112.164313;51-pecos;1
+1799;University Wy & 47th Av;33.609224;-112.160494;51-pecos;2
+7048;Thunderbird Rd & 49th Av;33.610894;-112.165238;51-pecos;3
+7954;51st Av & Thunderbird Rd;33.610286;-112.168626;51-pecos;4
+4138;51st Av & Eugie Av;33.607242;-112.16866;51-pecos;5
+4147;51st Av & Sweetwater Av;33.603288;-112.1687;51-pecos;6
+4150;51st Av & Columbine Dr;33.599489;-112.168764;51-pecos;7
+7923;51st Av & Cactus Rd;33.594782;-112.168854;51-pecos;8
+7922;51st Av & Cholla St;33.588845;-112.168888;51-pecos;9
+7921;51st Av & Mercer Ln;33.584558;-112.168943;51-pecos;10
+7920;51st Av & Peoria Av;33.58144;-112.169016;51-pecos;11
+7919;51st Av & Brown St;33.578094;-112.169019;51-pecos;12
+7918;51st Av & Purdue Av;33.573462;-112.16906;51-pecos;13
+7917;51st Av & Olive Av;33.567054;-112.169178;51-pecos;14
+7916;51st Av & Barbara Av;33.563476;-112.169094;51-pecos;15
+7915;51st Av & Echo Ln;33.559451;-112.169044;51-pecos;16
+7996;51st Av & Royal Palm Rd;33.556585;-112.169026;51-pecos;17
+7914;51st Av & Northern Av;33.552698;-112.169028;51-pecos;18
+7913;51st Av & Hayward Av;33.54847;-112.168818;51-pecos;19
+7912;51st Av & Orangewood Av;33.545151;-112.168698;51-pecos;20
+7911;51st Av & Myrtle Av;33.54146;-112.168722;51-pecos;21
+7910;51st Av & Glendale Av;33.538072;-112.168775;51-pecos;22
+7909;51st Av & Krall St;33.534343;-112.168761;51-pecos;23
+7908;51st Av & Maryland Av;33.530525;-112.16877;51-pecos;24
+8698;51st Av & Luke Av;33.519179;-112.168833;51-pecos;25
+7906;51st Av & Missouri Av;33.515833;-112.168882;51-pecos;26
+7905;51st Av & Colter St;33.513441;-112.168886;51-pecos;27
+4132;51st Av & Camelback Rd;33.508483;-112.168965;51-pecos;28
+4135;51st Av & Maryvale Pkwy;33.504972;-112.16893;51-pecos;29
+4133;51st Av & Campbell Av;33.501686;-112.168983;51-pecos;30
+4140;51st Av & Glenrosa Av;33.4981;-112.169009;51-pecos;31
+4142;51st Av & Indian School Rd;33.49429;-112.169071;51-pecos;32
+4149;51st Av & Whitton Av;33.489696;-112.169068;51-pecos;33
+4145;51st Av & Osborn Rd;33.486968;-112.169081;51-pecos;34
+4136;51st Av & Earll Dr;33.483742;-112.169035;51-pecos;35
+4148;51st Av & Thomas Rd;33.479881;-112.169112;51-pecos;36
+4129;51st Av & Virginia Av;33.476194;-112.169126;51-pecos;37
+4137;51st Av & Encanto Bl;33.472803;-112.169176;51-pecos;38
+4141;51st Av & Hubbell St;33.470169;-112.169186;51-pecos;39
+7873;51st Av & McDowell Rd;33.465223;-112.169313;51-pecos;40
+7874;51st Av & 1230 North;33.461658;-112.169316;51-pecos;41
+8443;51st Av & Roosevelt St;33.458186;-112.169296;51-pecos;42
+8444;51st Av & Fillmore St;33.454626;-112.169255;51-pecos;43
+1367;51st Av & Van Buren St;33.450682;-112.169275;51-pecos;44
+1368;51st Av & Madison St;33.445851;-112.169274;51-pecos;45
+1369;51st Av & Hadley St;33.439333;-112.169327;51-pecos;46
+1370;51st Av & Buckeye Rd;33.436054;-112.169406;51-pecos;47
+1371;51st Av & Mohave St;33.430682;-112.169395;51-pecos;48
+1372;51st Av & Watkins St;33.425493;-112.169432;51-pecos;49
+1374;51st Av & Lower Buckeye Rd;33.421827;-112.169509;51-pecos;50
+20031;51st Av & Miami St;33.417994;-112.169456;51-pecos;51
+20032;51st Av & Elwood St;33.41462;-112.169462;51-pecos;52
+20033;51st Av & Broadway Rd North;33.41112;-112.169318;51-pecos;53
+20034;51st Av & Broadway Rd South;33.402696;-112.168599;51-pecos;54
+20035;51st Av & Roeser Rd;33.398877;-112.168485;51-pecos;55
+20036;51st Av & Sunland Av;33.395633;-112.168472;51-pecos;56
+20037;51st Av & Southern Av;33.391377;-112.168496;51-pecos;57
+20038;51st Av & Burgess Ln;33.38883;-112.168452;51-pecos;58
+20039;51st Av & Vineyard Rd;33.384347;-112.168448;51-pecos;59
+20040;51st Av & Maldonado Rd;33.382024;-112.168427;51-pecos;60
+9056;51st Av & Baseline Rd;33.37694;-112.168522;51-pecos;61
+9057;51st Av & Beverly Rd;33.3738;-112.169104;51-pecos;62
+20052;51st Av & South Mountain Av;33.370005;-112.169197;51-pecos;63
+9058;51st Av & Dobbins Rd;33.362375;-112.169362;51-pecos;64
+9726;Komatke Rd & 51st Av;33.323396;-112.168368;51-pecos;65
+9096;Vee Quiva Casino;33.310957;-112.158047;51-pecos;66
+9336;51st Av & Judum Dr;33.31322;-112.169251;51-pecos;67
+9338;51st Av & Tashquinth Dr;33.295981;-112.16922;51-pecos;68
+9323;Pecos Rd & 51st Av;33.290372;-112.168414;51-pecos;69
+30073;Pecos Rd & 4809 West;33.290381;-112.163086;51-pecos;70
+9310;Komatke Health Ctr;33.287187;-112.15591;51-pecos;71
+9322;Pecos Rd & 51st Av;33.290564;-112.168646;51-pecos;72
+7732;49th Av & Thunderbird Rd;33.610173;-112.164313;51-baseline;1
+1799;University Wy & 47th Av;33.609224;-112.160494;51-baseline;2
+7048;Thunderbird Rd & 49th Av;33.610894;-112.165238;51-baseline;3
+7954;51st Av & Thunderbird Rd;33.610286;-112.168626;51-baseline;4
+4138;51st Av & Eugie Av;33.607242;-112.16866;51-baseline;5
+4147;51st Av & Sweetwater Av;33.603288;-112.1687;51-baseline;6
+4150;51st Av & Columbine Dr;33.599489;-112.168764;51-baseline;7
+7923;51st Av & Cactus Rd;33.594782;-112.168854;51-baseline;8
+7922;51st Av & Cholla St;33.588845;-112.168888;51-baseline;9
+7921;51st Av & Mercer Ln;33.584558;-112.168943;51-baseline;10
+7920;51st Av & Peoria Av;33.58144;-112.169016;51-baseline;11
+7919;51st Av & Brown St;33.578094;-112.169019;51-baseline;12
+7918;51st Av & Purdue Av;33.573462;-112.16906;51-baseline;13
+7917;51st Av & Olive Av;33.567054;-112.169178;51-baseline;14
+7916;51st Av & Barbara Av;33.563476;-112.169094;51-baseline;15
+7915;51st Av & Echo Ln;33.559451;-112.169044;51-baseline;16
+7996;51st Av & Royal Palm Rd;33.556585;-112.169026;51-baseline;17
+7914;51st Av & Northern Av;33.552698;-112.169028;51-baseline;18
+7913;51st Av & Hayward Av;33.54847;-112.168818;51-baseline;19
+7912;51st Av & Orangewood Av;33.545151;-112.168698;51-baseline;20
+7911;51st Av & Myrtle Av;33.54146;-112.168722;51-baseline;21
+7910;51st Av & Glendale Av;33.538072;-112.168775;51-baseline;22
+7909;51st Av & Krall St;33.534343;-112.168761;51-baseline;23
+7908;51st Av & Maryland Av;33.530525;-112.16877;51-baseline;24
+8698;51st Av & Luke Av;33.519179;-112.168833;51-baseline;25
+7906;51st Av & Missouri Av;33.515833;-112.168882;51-baseline;26
+7905;51st Av & Colter St;33.513441;-112.168886;51-baseline;27
+4132;51st Av & Camelback Rd;33.508483;-112.168965;51-baseline;28
+4135;51st Av & Maryvale Pkwy;33.504972;-112.16893;51-baseline;29
+4133;51st Av & Campbell Av;33.501686;-112.168983;51-baseline;30
+4140;51st Av & Glenrosa Av;33.4981;-112.169009;51-baseline;31
+4142;51st Av & Indian School Rd;33.49429;-112.169071;51-baseline;32
+4149;51st Av & Whitton Av;33.489696;-112.169068;51-baseline;33
+4145;51st Av & Osborn Rd;33.486968;-112.169081;51-baseline;34
+4136;51st Av & Earll Dr;33.483742;-112.169035;51-baseline;35
+4148;51st Av & Thomas Rd;33.479881;-112.169112;51-baseline;36
+4129;51st Av & Virginia Av;33.476194;-112.169126;51-baseline;37
+4137;51st Av & Encanto Bl;33.472803;-112.169176;51-baseline;38
+4141;51st Av & Hubbell St;33.470169;-112.169186;51-baseline;39
+7873;51st Av & McDowell Rd;33.465223;-112.169313;51-baseline;40
+7874;51st Av & 1230 North;33.461658;-112.169316;51-baseline;41
+8443;51st Av & Roosevelt St;33.458186;-112.169296;51-baseline;42
+8444;51st Av & Fillmore St;33.454626;-112.169255;51-baseline;43
+1367;51st Av & Van Buren St;33.450682;-112.169275;51-baseline;44
+1368;51st Av & Madison St;33.445851;-112.169274;51-baseline;45
+1369;51st Av & Hadley St;33.439333;-112.169327;51-baseline;46
+1370;51st Av & Buckeye Rd;33.436054;-112.169406;51-baseline;47
+1371;51st Av & Mohave St;33.430682;-112.169395;51-baseline;48
+1372;51st Av & Watkins St;33.425493;-112.169432;51-baseline;49
+1374;51st Av & Lower Buckeye Rd;33.421827;-112.169509;51-baseline;50
+20031;51st Av & Miami St;33.417994;-112.169456;51-baseline;51
+20032;51st Av & Elwood St;33.41462;-112.169462;51-baseline;52
+20033;51st Av & Broadway Rd North;33.41112;-112.169318;51-baseline;53
+20034;51st Av & Broadway Rd South;33.402696;-112.168599;51-baseline;54
+20035;51st Av & Roeser Rd;33.398877;-112.168485;51-baseline;55
+20036;51st Av & Sunland Av;33.395633;-112.168472;51-baseline;56
+20037;51st Av & Southern Av;33.391377;-112.168496;51-baseline;57
+20038;51st Av & Burgess Ln;33.38883;-112.168452;51-baseline;58
+20039;51st Av & Vineyard Rd;33.384347;-112.168448;51-baseline;59
+20040;51st Av & Maldonado Rd;33.382024;-112.168427;51-baseline;60
+9056;51st Av & Baseline Rd;33.37694;-112.168522;51-baseline;61
+8840;Camelback Rd & 107th Av;33.508034;-112.289398;50-scottsdale;1
+8841;Camelback Rd & 105th Av;33.508113;-112.285245;50-scottsdale;2
+8842;Camelback Rd & 103rd Av;33.508142;-112.280767;50-scottsdale;3
+8845;Camelback Rd & 101st Av;33.508174;-112.276364;50-scottsdale;4
+9154;Camelback Rd & 99th Av;33.508201;-112.271825;50-scottsdale;5
+9156;Camelback Rd & 95th Av;33.508456;-112.263353;50-scottsdale;6
+9157;Camelback Rd & 93rd Av;33.50856;-112.259708;50-scottsdale;7
+9158;Camelback Rd & 91st Av;33.508699;-112.254334;50-scottsdale;8
+9159;Camelback Rd & 89th Av;33.508688;-112.250406;50-scottsdale;9
+9160;Camelback Rd & 87th Av;33.508692;-112.245887;50-scottsdale;10
+9161;Camelback Rd & 85th Av;33.508689;-112.242079;50-scottsdale;11
+9162;Camelback Rd & 83rd Av;33.508671;-112.23715;50-scottsdale;12
+9163;Camelback Rd & 81st Dr;33.508727;-112.234316;50-scottsdale;13
+9164;Camelback Rd & 79th Av;33.508793;-112.228206;50-scottsdale;14
+9165;Camelback Rd & 76th Dr;33.508843;-112.224325;50-scottsdale;15
+9166;Camelback Rd & 75th Av;33.50889;-112.219142;50-scottsdale;16
+9167;Camelback Rd & 73rd Av;33.508982;-112.216134;50-scottsdale;17
+9168;Camelback Rd & 71st Av;33.509054;-112.212379;50-scottsdale;18
+9169;Camelback Rd & 69th Av;33.509167;-112.207307;50-scottsdale;19
+9170;Camelback Rd & 67th Av;33.509228;-112.202691;50-scottsdale;20
+1183;Camelback Rd & 63rd Av;33.509353;-112.194713;50-scottsdale;21
+1182;Camelback Rd & 61st Av;33.509404;-112.191161;50-scottsdale;22
+1181;Camelback Rd & 59th Av;33.509436;-112.185692;50-scottsdale;23
+1180;Camelback Rd & 57th Av;33.509446;-112.181639;50-scottsdale;24
+1179;Camelback Rd & 55th Av;33.509416;-112.17705;50-scottsdale;25
+1178;Camelback Rd & 53rd Av;33.509373;-112.172553;50-scottsdale;26
+1177;Camelback Rd & 51st Av;33.509309;-112.168181;50-scottsdale;27
+1162;Camelback Rd & 47th Av;33.509335;-112.159696;50-scottsdale;28
+1176;Camelback Rd & 45th Av;33.509331;-112.155016;50-scottsdale;29
+1186;Camelback Rd & 43rd Av;33.509299;-112.15088;50-scottsdale;30
+1187;Camelback Rd & 40th Av;33.509317;-112.144996;50-scottsdale;31
+1174;Camelback Rd & 39th Av;33.509307;-112.142123;50-scottsdale;32
+1173;Camelback Rd & 37th Av;33.509335;-112.137838;50-scottsdale;33
+1172;Camelback Rd & 35th Av;33.50931;-112.133713;50-scottsdale;34
+1171;Camelback Rd & 33rd Av;33.509352;-112.129323;50-scottsdale;35
+1170;Camelback Rd & 31st Av;33.509352;-112.125158;50-scottsdale;36
+1188;Camelback Rd & 29th Av;33.509357;-112.121573;50-scottsdale;37
+1169;Camelback Rd & 27th Av;33.509326;-112.116375;50-scottsdale;38
+1185;Camelback Rd & I-17 Fwy;33.509409;-112.110818;50-scottsdale;39
+1168;Camelback Rd & 23rd Av;33.509431;-112.108019;50-scottsdale;40
+1167;Camelback Rd & 21st Av;33.509469;-112.103808;50-scottsdale;41
+1166;Camelback Rd & 19th Av;33.50934;-112.099068;50-scottsdale;42
+1165;Camelback Rd & 17th Av;33.509387;-112.095094;50-scottsdale;43
+1164;Camelback Rd & 15th Av;33.509327;-112.090211;50-scottsdale;44
+1163;Camelback Rd & 11th Av;33.509235;-112.085456;50-scottsdale;45
+1184;Camelback Rd & 7th Av;33.509049;-112.081847;50-scottsdale;46
+1175;Camelback Rd & 3rd Av;33.509106;-112.077544;50-scottsdale;47
+275;Camelback Rd & Central Av;33.509137;-112.073017;50-scottsdale;48
+262;Camelback Rd & 3rd St;33.509163;-112.069005;50-scottsdale;49
+270;Camelback Rd & 7th St;33.509125;-112.064386;50-scottsdale;50
+249;Camelback Rd & 10th St;33.509119;-112.059992;50-scottsdale;51
+250;Camelback Rd & 12th St;33.509112;-112.055735;50-scottsdale;52
+251;Camelback Rd & 14th Pl;33.509115;-112.050491;50-scottsdale;53
+252;Camelback Rd & 16th St;33.509079;-112.046766;50-scottsdale;54
+253;Camelback Rd & 18th St;33.509095;-112.042628;50-scottsdale;55
+254;Camelback Rd & 20th St;33.509103;-112.038191;50-scottsdale;56
+255;Camelback Rd & 22nd St;33.509154;-112.033876;50-scottsdale;57
+256;Camelback Rd & 24th St;33.509153;-112.029471;50-scottsdale;58
+257;Camelback Rd & 26th St;33.509414;-112.024709;50-scottsdale;59
+258;Camelback Rd & 28th St;33.509556;-112.02074;50-scottsdale;60
+282;Camelback Rd & 31st St;33.50973;-112.016849;50-scottsdale;61
+283;Camelback Rd & 32nd Pl;33.509784;-112.011616;50-scottsdale;62
+259;Camelback Rd & 34th Pl;33.509847;-112.007763;50-scottsdale;63
+260;Camelback Rd & 36th St;33.509815;-112.00353;50-scottsdale;64
+261;Camelback Rd & 38th St;33.509744;-111.999338;50-scottsdale;65
+263;Camelback Rd & 40th St;33.509704;-111.994632;50-scottsdale;66
+264;Camelback Rd & 42nd St;33.509557;-111.991224;50-scottsdale;67
+265;Camelback Rd & 44th St;33.509349;-111.986183;50-scottsdale;68
+266;Camelback Rd & 46th St;33.509119;-111.979537;50-scottsdale;69
+248;Camelback Rd & Launfal Av;33.507929;-111.976084;50-scottsdale;70
+272;Camelback Rd & Arcadia Dr;33.505634;-111.97199;50-scottsdale;71
+279;Camelback Rd & Rubicon Av;33.503563;-111.968377;50-scottsdale;72
+7719;Camelback Rd & 54th St;33.501753;-111.964541;50-scottsdale;73
+267;Camelback Rd & 56th St;33.501776;-111.960085;50-scottsdale;74
+274;Camelback Rd & Camino Allenada;33.501791;-111.95695;50-scottsdale;75
+273;Camelback Rd & Arcadia Ln;33.501829;-111.954868;50-scottsdale;76
+276;Camelback Rd & Jokake Rd;33.50183;-111.951573;50-scottsdale;77
+268;Camelback Rd & 62nd St;33.501918;-111.947263;50-scottsdale;78
+284;Camelback Rd & 64th St;33.50189;-111.942661;50-scottsdale;79
+9368;Camelback Rd & 66th St;33.501946;-111.937961;50-scottsdale;80
+5567;Camelback Rd & 68th St;33.501956;-111.934011;50-scottsdale;81
+285;Camelback Rd & Marshall Wy;33.502068;-111.928926;50-scottsdale;82
+281;Camelback Rd & Scottsdale Rd;33.502154;-111.925375;50-scottsdale;83
+280;Camelback Rd & Saddlebag Trl;33.50213;-111.921974;50-scottsdale;84
+277;Camelback Rd & Miller Rd;33.502089;-111.917007;50-scottsdale;85
+278;Camelback Rd & Parkway Av;33.502026;-111.915026;50-scottsdale;86
+269;Camelback Rd & 78th St;33.502054;-111.912406;50-scottsdale;87
+287;Camelback Rd & Hayden Rd;33.502059;-111.90748;50-scottsdale;88
+271;Camelback Rd & 82nd St;33.502065;-111.904317;50-scottsdale;89
+2907;Granite Reef Rd & Camelback Rd;33.502457;-111.900166;50-scottsdale;90
+2910;Granite Reef Rd & Highland Av;33.506095;-111.900161;50-scottsdale;91
+307;Chaparral Rd & Granite Reef Rd;33.509253;-111.899649;50-scottsdale;92
+30326;Chaparral Rd & 86th St;33.509285;-111.89559;50-scottsdale;93
+308;Chaparral Rd & Pima Rd;33.509229;-111.890308;50-scottsdale;94
+3044;Scottsdale CC East;33.512251;-111.880353;50-scottsdale;95
+9170;Camelback Rd & 67th Av;33.509228;-112.202691;50-44th;1
+1183;Camelback Rd & 63rd Av;33.509353;-112.194713;50-44th;2
+1182;Camelback Rd & 61st Av;33.509404;-112.191161;50-44th;3
+1181;Camelback Rd & 59th Av;33.509436;-112.185692;50-44th;4
+1180;Camelback Rd & 57th Av;33.509446;-112.181639;50-44th;5
+1179;Camelback Rd & 55th Av;33.509416;-112.17705;50-44th;6
+1178;Camelback Rd & 53rd Av;33.509373;-112.172553;50-44th;7
+1177;Camelback Rd & 51st Av;33.509309;-112.168181;50-44th;8
+1162;Camelback Rd & 47th Av;33.509335;-112.159696;50-44th;9
+1176;Camelback Rd & 45th Av;33.509331;-112.155016;50-44th;10
+1186;Camelback Rd & 43rd Av;33.509299;-112.15088;50-44th;11
+1187;Camelback Rd & 40th Av;33.509317;-112.144996;50-44th;12
+1174;Camelback Rd & 39th Av;33.509307;-112.142123;50-44th;13
+1173;Camelback Rd & 37th Av;33.509335;-112.137838;50-44th;14
+1172;Camelback Rd & 35th Av;33.50931;-112.133713;50-44th;15
+1171;Camelback Rd & 33rd Av;33.509352;-112.129323;50-44th;16
+1170;Camelback Rd & 31st Av;33.509352;-112.125158;50-44th;17
+1188;Camelback Rd & 29th Av;33.509357;-112.121573;50-44th;18
+1169;Camelback Rd & 27th Av;33.509326;-112.116375;50-44th;19
+1185;Camelback Rd & I-17 Fwy;33.509409;-112.110818;50-44th;20
+1168;Camelback Rd & 23rd Av;33.509431;-112.108019;50-44th;21
+1167;Camelback Rd & 21st Av;33.509469;-112.103808;50-44th;22
+1166;Camelback Rd & 19th Av;33.50934;-112.099068;50-44th;23
+1165;Camelback Rd & 17th Av;33.509387;-112.095094;50-44th;24
+1164;Camelback Rd & 15th Av;33.509327;-112.090211;50-44th;25
+1163;Camelback Rd & 11th Av;33.509235;-112.085456;50-44th;26
+1184;Camelback Rd & 7th Av;33.509049;-112.081847;50-44th;27
+1175;Camelback Rd & 3rd Av;33.509106;-112.077544;50-44th;28
+275;Camelback Rd & Central Av;33.509137;-112.073017;50-44th;29
+262;Camelback Rd & 3rd St;33.509163;-112.069005;50-44th;30
+270;Camelback Rd & 7th St;33.509125;-112.064386;50-44th;31
+249;Camelback Rd & 10th St;33.509119;-112.059992;50-44th;32
+250;Camelback Rd & 12th St;33.509112;-112.055735;50-44th;33
+251;Camelback Rd & 14th Pl;33.509115;-112.050491;50-44th;34
+252;Camelback Rd & 16th St;33.509079;-112.046766;50-44th;35
+253;Camelback Rd & 18th St;33.509095;-112.042628;50-44th;36
+254;Camelback Rd & 20th St;33.509103;-112.038191;50-44th;37
+255;Camelback Rd & 22nd St;33.509154;-112.033876;50-44th;38
+256;Camelback Rd & 24th St;33.509153;-112.029471;50-44th;39
+257;Camelback Rd & 26th St;33.509414;-112.024709;50-44th;40
+258;Camelback Rd & 28th St;33.509556;-112.02074;50-44th;41
+282;Camelback Rd & 31st St;33.50973;-112.016849;50-44th;42
+283;Camelback Rd & 32nd Pl;33.509784;-112.011616;50-44th;43
+259;Camelback Rd & 34th Pl;33.509847;-112.007763;50-44th;44
+260;Camelback Rd & 36th St;33.509815;-112.00353;50-44th;45
+261;Camelback Rd & 38th St;33.509744;-111.999338;50-44th;46
+263;Camelback Rd & 40th St;33.509704;-111.994632;50-44th;47
+264;Camelback Rd & 42nd St;33.509557;-111.991224;50-44th;48
+265;Camelback Rd & 44th St;33.509349;-111.986183;50-44th;49
+6288;Baseline Rd & Priest Dr;33.378464;-111.963863;48;1
+6287;Baseline Rd & Arizona Grand Pkwy;33.378403;-111.972391;48;2
+7679;Baseline Rd & Calle Los Cerros;33.378371;-111.975619;48;3
+4936;48th St & Baseline Rd;33.378846;-111.978231;48;4
+5246;48th St & Minton Dr;33.382173;-111.978226;48;5
+3233;48th St & Vineyard Rd;33.38592;-111.978228;48;6
+3224;48th St & Alta Vista Rd;33.389354;-111.978234;48;7
+3237;48th St & Southern Av;33.393125;-111.978157;48;8
+3236;48th St & Fairmont Dr;33.396773;-111.97819;48;9
+3235;48th St & Alameda Dr;33.40034;-111.978123;48;10
+8909;48th St & Westcourt Wy;33.403379;-111.978123;48;11
+1088;Broadway Rd & 48th St;33.40719;-111.977504;48;12
+8914;52nd St & 16th St;33.411796;-111.969397;48;13
+7814;52nd St & 14th St;33.413833;-111.969391;48;14
+3247;52nd St & 10th Pl;33.417978;-111.969425;48;15
+9563;52nd St & University Dr;33.422371;-111.969444;48;16
+8913;52nd St & 4th St;33.426644;-111.969539;48;17
+8915;Rio Salado Pkwy & 2021 West;33.430336;-111.969391;48;18
+30016;Rio Salado Pkwy & 1721 West;33.431203;-111.966312;48;19
+30576;Rio Salado Pkwy & Priest Dr;33.429643;-111.960267;48;20
+8919;Rio Salado Pkwy & Hardy Dr;33.430897;-111.951616;48;21
+9566;Rio Salado Pkwy & Lakeside Dr;33.430851;-111.946808;48;22
+5020;Ash Av & 3rd St;33.428087;-111.942661;48;23
+996;5th St & Ash Av;33.425392;-111.942948;48;24
+997;5th St & Maple Av;33.425404;-111.940698;48;25
+11;5th St & Myrtle Av;33.42537;-111.938817;48;26
+30372;Tempe TC;33.42568;-111.935561;48;27
+30018;Packard Dr & 6th St;33.425216;-111.92915;48;28
+9739;Packard Dr & Lot 59 North;33.427606;-111.929094;48;29
+9735;Rio Salado Pkwy & Packard Dr;33.428688;-111.928678;48;30
+9736;Rio Salado Pkwy & Rural Rd;33.428689;-111.925653;48;31
+9423;Rio Salado Pkwy & McClintock Dr;33.429162;-111.908468;48;34
+30577;Tempe Marketplace;33.431256;-111.904634;48;33
+9423;Rio Salado Pkwy & McClintock Dr;33.429162;-111.908468;48;34
+30366;Rio Salado Pkwy & Perry Ln;33.429102;-111.904169;48;35
+30571;Rio Salado Pkwy & Smith Rd;33.42915;-111.899764;48;36
+30572;Rio Salado Pkwy & River Dr;33.429209;-111.894798;48;37
+30573;Rio Salado Pkwy & Price Rd;33.429229;-111.892457;48;38
+30574;Rio Salado Pkwy & 2325 East;33.429177;-111.888853;48;39
+30575;Rio Salado Pkwy & 2401 East;33.429186;-111.886967;48;40
+30562;Rio Salado Pkwy & Evergreen Rd;33.429273;-111.882463;48;41
+30563;Rio Salado Pkwy & May;33.429309;-111.87987;48;42
+30564;Rio Salado Pkwy & Santa Barbara;33.429337;-111.876364;48;43
+8996;Dobson Rd & Rio Salado Pkwy;33.430954;-111.874004;48;44
+8994;Mesa Riverview Dr & Home Depot;33.431125;-111.869208;48;45
+8997;Mesa Riverview Dr & Walmart;33.433573;-111.867124;48;46
+8935;Bass Pro Dr & Dobson Rd;33.434374;-111.868165;48;47
+8934;Dobson Rd & Rio Salado Pkwy;33.430721;-111.874449;48;48
+7563;Broadway Rd & 19th Av;33.406571;-112.098629;45-superstition;1
+7564;Broadway Rd & 17th Av;33.40664;-112.094662;45-superstition;2
+1087;Broadway Rd & 15th Av;33.406636;-112.090158;45-superstition;3
+1112;Broadway Rd & 9th Av;33.406617;-112.085198;45-superstition;4
+1089;Broadway Rd & 7th Av;33.406605;-112.081415;45-superstition;5
+156;Broadway Rd & Central Av;33.406549;-112.07265;45-superstition;6
+148;Broadway Rd & 4th St;33.406618;-112.068592;45-superstition;7
+150;Broadway Rd & 7th St;33.406571;-112.063877;45-superstition;8
+151;Broadway Rd & 9th St;33.406623;-112.059759;45-superstition;9
+127;Broadway Rd & 12th St;33.406639;-112.055173;45-superstition;10
+128;Broadway Rd & 14th St;33.406659;-112.051018;45-superstition;11
+129;Broadway Rd & 16th St;33.406643;-112.046476;45-superstition;12
+125;Broadway Rd & 18th St;33.406697;-112.042756;45-superstition;13
+130;Broadway Rd & 20th St;33.406725;-112.038645;45-superstition;14
+131;Broadway Rd & 22nd St;33.406769;-112.033701;45-superstition;15
+132;Broadway Rd & 24th St;33.406783;-112.028999;45-superstition;16
+134;Broadway Rd & 25th St;33.406831;-112.02665;45-superstition;17
+135;Broadway Rd & 27th St;33.406838;-112.023777;45-superstition;18
+136;Broadway Rd & 28th St;33.406829;-112.020524;45-superstition;19
+137;Broadway Rd & 30th St;33.406904;-112.016437;45-superstition;20
+139;Broadway Rd & 32nd St;33.406917;-112.011935;45-superstition;21
+141;Broadway Rd & 34th St;33.407013;-112.007787;45-superstition;22
+142;Broadway Rd & 36th St;33.407035;-112.003319;45-superstition;23
+143;Broadway Rd & 38th St;33.407134;-111.998983;45-superstition;24
+144;Broadway Rd & 40th St;33.407177;-111.994847;45-superstition;25
+123;Broadway Rd & 41st St;33.407185;-111.992485;45-superstition;26
+145;Broadway Rd & 43rd Pl;33.407198;-111.987207;45-superstition;27
+146;Broadway Rd & 44th Pl;33.407171;-111.985214;45-superstition;28
+147;Broadway Rd & 46th Pl;33.407214;-111.981323;45-superstition;29
+1088;Broadway Rd & 48th St;33.40719;-111.977504;45-superstition;30
+1091;Broadway Rd & 55th St;33.407347;-111.965345;45-superstition;31
+1103;Broadway Rd & Priest Dr;33.40732;-111.960292;45-superstition;32
+1093;Broadway Rd & Cutler Dr;33.407288;-111.958065;45-superstition;33
+1099;Broadway Rd & Industrial Park Av;33.407288;-111.954521;45-superstition;34
+1098;Broadway Rd & Hardy Dr;33.40726;-111.95175;45-superstition;35
+1105;Broadway Rd & Roosevelt St;33.407258;-111.947428;45-superstition;36
+1086;Broadway Rd & Farmer Av;33.407246;-111.944269;45-superstition;37
+173;Broadway Rd & Mill Av;33.4073;-111.939195;45-superstition;38
+7868;Broadway Rd & College Av;33.407342;-111.935112;45-superstition;39
+181;Broadway Rd & Sierra Vista Dr;33.407366;-111.930418;45-superstition;40
+180;Broadway Rd & Rural Rd;33.407376;-111.925562;45-superstition;41
+187;Broadway Rd & Terrace Rd;33.407375;-111.92215;45-superstition;42
+192;Broadway Rd & 1221 East;33.407376;-111.919842;45-superstition;43
+159;Broadway Rd & Dorsey Ln;33.407372;-111.91734;45-superstition;44
+161;Broadway Rd & Elm St;33.407371;-111.912703;45-superstition;45
+171;Broadway Rd & McClintock Dr;33.407342;-111.908317;45-superstition;46
+169;Broadway Rd & Los Feliz Dr;33.407353;-111.903879;45-superstition;47
+158;Broadway Rd & Country Club Wy;33.407365;-111.899867;45-superstition;48
+178;Broadway Rd & River Dr;33.407353;-111.897352;45-superstition;49
+193;Broadway Rd & Price Rd;33.407255;-111.892588;45-superstition;50
+157;Broadway Rd & Cottonwood Dr;33.407337;-111.888946;45-superstition;51
+1096;Broadway Rd & El Dorado;33.407379;-111.886773;45-superstition;52
+1106;Broadway Rd & Roosevelt Rd;33.407394;-111.882874;45-superstition;53
+1111;Broadway Rd & 2145 West;33.407433;-111.878313;45-superstition;54
+1095;Broadway Rd & Dobson Rd;33.407404;-111.873629;45-superstition;55
+1107;Broadway Rd & Saguaro;33.407486;-111.867658;45-superstition;56
+1100;Broadway Rd & Longmore;33.407483;-111.865186;45-superstition;57
+1108;Broadway Rd & Standage;33.407507;-111.860758;45-superstition;58
+1090;Broadway Rd & Alma School Rd;33.407476;-111.856107;45-superstition;59
+1114;Broadway Rd & Westwood;33.407571;-111.852828;45-superstition;60
+1097;Broadway Rd & Extension Rd;33.407626;-111.848003;45-superstition;61
+1094;Broadway Rd & Date;33.407679;-111.84406;45-superstition;62
+1092;Broadway Rd & Country Club Dr;33.407756;-111.839479;45-superstition;63
+1104;Broadway Rd & Robson;33.407769;-111.836447;45-superstition;64
+1101;Broadway Rd & MacDonald;33.407735;-111.83375;45-superstition;65
+155;Broadway Rd & Center St;33.407741;-111.831211;45-superstition;66
+167;Broadway Rd & Lewis;33.407735;-111.829481;45-superstition;67
+189;Broadway Rd & Wilbur;33.407718;-111.824749;45-superstition;68
+172;Broadway Rd & Mesa Dr;33.407687;-111.822049;45-superstition;69
+165;Broadway Rd & Olive;33.407721;-111.816569;45-superstition;70
+166;Broadway Rd & Horne;33.407753;-111.813766;45-superstition;71
+182;Broadway Rd & Solomon;33.407783;-111.809364;45-superstition;72
+184;Broadway Rd & Stapley Dr;33.407811;-111.804796;45-superstition;73
+153;Broadway Rd & Barkley;33.407869;-111.799028;45-superstition;74
+194;Broadway Rd & Williams;33.407931;-111.795179;45-superstition;75
+30561;Broadway Rd & 1859 East;33.407999;-111.790899;45-superstition;76
+3360;Gilbert Rd & Bayberry Av;33.411347;-111.788107;45-superstition;77
+30381;Gilbert Rd/Main St TC;33.414782;-111.790347;45-superstition;78
+5088;Gilbert Rd & 2nd Av;33.411448;-111.788463;45-superstition;79
+162;Broadway Rd & Gilbert Rd;33.407929;-111.78768;45-superstition;80
+124;Broadway Rd & Chestnut;33.408016;-111.783372;45-superstition;81
+133;Broadway Rd & 24th St;33.408017;-111.779443;45-superstition;82
+190;Broadway Rd & Windsor;33.40805;-111.775263;45-superstition;83
+168;Broadway Rd & Lindsay Rd;33.40797;-111.770327;45-superstition;84
+138;Broadway Rd & 31st St;33.408078;-111.764139;45-superstition;85
+152;Broadway Rd & Almar;33.408102;-111.759564;45-superstition;86
+188;Broadway Rd & Val Vista Dr;33.408059;-111.752991;45-superstition;87
+170;Broadway Rd & Maple;33.408152;-111.747744;45-superstition;88
+174;Broadway Rd & Norwalk;33.408149;-111.74259;45-superstition;89
+163;Broadway Rd & Greenfield Rd;33.408152;-111.735849;45-superstition;90
+176;Broadway Rd & Quinn;33.408202;-111.73174;45-superstition;91
+126;Broadway Rd & 48th St;33.408229;-111.727793;45-superstition;92
+177;Broadway Rd & Racine;33.408255;-111.724275;45-superstition;93
+164;Broadway Rd & Higley Rd;33.408202;-111.718343;45-superstition;94
+186;Broadway Rd & Sunnyvale;33.408302;-111.714396;45-superstition;95
+9680;Broadway Rd & 56th St;33.408236;-111.71069;45-superstition;96
+3513;Recker Rd & 303 South;33.410692;-111.701871;45-superstition;97
+38;Arbor Av & Recker Rd;33.413635;-111.701405;45-superstition;98
+39;Arbor Av & 6215 East;33.412658;-111.697097;45-superstition;99
+82;Baywood Av & Diego Cir;33.410334;-111.691391;45-superstition;100
+83;Baywood Av & 6644 East;33.410344;-111.689114;45-superstition;101
+5215;Power Rd & Baywood Av;33.409859;-111.684782;45-superstition;102
+5216;Power Rd & Broadway Rd;33.408116;-111.684761;45-superstition;103
+5218;Power Rd & Via Rossmoor;33.398627;-111.684834;45-superstition;104
+5220;Power Rd & Southern Av;33.393551;-111.684944;45-superstition;105
+8999;Power Rd & Hampton Av;33.389639;-111.685058;45-superstition;106
+30462;Superstition Springs TC;33.387675;-111.688684;45-superstition;107
+7563;Broadway Rd & 19th Av;33.406571;-112.098629;45-price;1
+7564;Broadway Rd & 17th Av;33.40664;-112.094662;45-price;2
+1087;Broadway Rd & 15th Av;33.406636;-112.090158;45-price;3
+1112;Broadway Rd & 9th Av;33.406617;-112.085198;45-price;4
+1089;Broadway Rd & 7th Av;33.406605;-112.081415;45-price;5
+156;Broadway Rd & Central Av;33.406549;-112.07265;45-price;6
+148;Broadway Rd & 4th St;33.406618;-112.068592;45-price;7
+150;Broadway Rd & 7th St;33.406571;-112.063877;45-price;8
+151;Broadway Rd & 9th St;33.406623;-112.059759;45-price;9
+127;Broadway Rd & 12th St;33.406639;-112.055173;45-price;10
+128;Broadway Rd & 14th St;33.406659;-112.051018;45-price;11
+129;Broadway Rd & 16th St;33.406643;-112.046476;45-price;12
+125;Broadway Rd & 18th St;33.406697;-112.042756;45-price;13
+130;Broadway Rd & 20th St;33.406725;-112.038645;45-price;14
+131;Broadway Rd & 22nd St;33.406769;-112.033701;45-price;15
+132;Broadway Rd & 24th St;33.406783;-112.028999;45-price;16
+134;Broadway Rd & 25th St;33.406831;-112.02665;45-price;17
+135;Broadway Rd & 27th St;33.406838;-112.023777;45-price;18
+136;Broadway Rd & 28th St;33.406829;-112.020524;45-price;19
+137;Broadway Rd & 30th St;33.406904;-112.016437;45-price;20
+139;Broadway Rd & 32nd St;33.406917;-112.011935;45-price;21
+141;Broadway Rd & 34th St;33.407013;-112.007787;45-price;22
+142;Broadway Rd & 36th St;33.407035;-112.003319;45-price;23
+143;Broadway Rd & 38th St;33.407134;-111.998983;45-price;24
+144;Broadway Rd & 40th St;33.407177;-111.994847;45-price;25
+123;Broadway Rd & 41st St;33.407185;-111.992485;45-price;26
+145;Broadway Rd & 43rd Pl;33.407198;-111.987207;45-price;27
+146;Broadway Rd & 44th Pl;33.407171;-111.985214;45-price;28
+147;Broadway Rd & 46th Pl;33.407214;-111.981323;45-price;29
+1088;Broadway Rd & 48th St;33.40719;-111.977504;45-price;30
+1091;Broadway Rd & 55th St;33.407347;-111.965345;45-price;31
+1103;Broadway Rd & Priest Dr;33.40732;-111.960292;45-price;32
+1093;Broadway Rd & Cutler Dr;33.407288;-111.958065;45-price;33
+1099;Broadway Rd & Industrial Park Av;33.407288;-111.954521;45-price;34
+1098;Broadway Rd & Hardy Dr;33.40726;-111.95175;45-price;35
+1105;Broadway Rd & Roosevelt St;33.407258;-111.947428;45-price;36
+1086;Broadway Rd & Farmer Av;33.407246;-111.944269;45-price;37
+173;Broadway Rd & Mill Av;33.4073;-111.939195;45-price;38
+7868;Broadway Rd & College Av;33.407342;-111.935112;45-price;39
+181;Broadway Rd & Sierra Vista Dr;33.407366;-111.930418;45-price;40
+180;Broadway Rd & Rural Rd;33.407376;-111.925562;45-price;41
+187;Broadway Rd & Terrace Rd;33.407375;-111.92215;45-price;42
+192;Broadway Rd & 1221 East;33.407376;-111.919842;45-price;43
+159;Broadway Rd & Dorsey Ln;33.407372;-111.91734;45-price;44
+161;Broadway Rd & Elm St;33.407371;-111.912703;45-price;45
+171;Broadway Rd & McClintock Dr;33.407342;-111.908317;45-price;46
+169;Broadway Rd & Los Feliz Dr;33.407353;-111.903879;45-price;47
+158;Broadway Rd & Country Club Wy;33.407365;-111.899867;45-price;48
+178;Broadway Rd & River Dr;33.407353;-111.897352;45-price;49
+3485;Price Rd & Broadway Rd;33.408009;-111.89025;45-price;50
+9290;44th St Sky Train Station;33.447193;-111.990026;44;1
+2388;44th St & Washington St;33.448733;-111.986978;44;2
+2387;44th St & Van Buren St;33.451575;-111.986907;44;3
+2392;44th St & McKinley St;33.454077;-111.986935;44;4
+2390;44th St & Cofco Center St;33.456092;-111.986988;44;5
+2371;44th St & Belleview St;33.46234;-111.986952;44;6
+2381;44th St & McDowell Rd;33.466249;-111.986938;44;7
+2384;44th St & Palm Ln;33.46959;-111.986909;44;8
+2382;44th St & Oak St;33.473338;-111.986892;44;9
+2389;44th St & Wilshire Dr;33.477088;-111.98684;44;10
+2386;44th St & Thomas Rd;33.480821;-111.986788;44;11
+2377;44th St & Earll Dr;33.484723;-111.986851;44;12
+2383;44th St & Osborn Rd;33.488009;-111.986827;44;13
+2380;44th St & Indianola Av;33.492488;-111.9868;44;14
+2379;44th St & Indian School Rd;33.495452;-111.986756;44;15
+2378;44th St & Glenrosa Av;33.498803;-111.986745;44;16
+2375;44th St & Campbell Av;33.50269;-111.9867;44;17
+2372;44th St & Calle Alegre;33.505656;-111.986658;44;18
+2373;44th St & Camelback Rd;33.510265;-111.986553;44;19
+2376;44th St & Colter St;33.512716;-111.986526;44;20
+2391;44th St & Stanford Dr;33.517267;-111.986444;44;21
+2385;44th St & Solana Dr;33.520643;-111.986364;44;22
+9556;McDonald Dr & 47th St;33.523689;-111.978824;44;23
+3127;Tatum Bl & Lincoln Dr;33.531458;-111.975448;44;24
+3133;Tatum Bl & Quartz Mountain Rd;33.54041;-111.975515;44;25
+3134;Tatum Bl & Roadrunner Rd;33.550154;-111.975522;44;26
+9280;Tatum Bl & Mockingbird Ln;33.557475;-111.974993;44;27
+3120;Tatum Bl & Doubletree Ranch Rd;33.568658;-111.977616;44;28
+3115;Tatum Bl & Berneil Rd;33.572215;-111.977669;44;29
+3129;Tatum Bl & Mountain View Rd;33.575866;-111.977696;44;30
+3121;Tatum Bl & Gold Dust Av;33.57939;-111.977691;44;31
+3137;Tatum Bl & Shea Bl;33.583172;-111.977677;44;32
+3119;Tatum Bl & Desert Cove Av;33.586663;-111.977712;44;33
+3117;Tatum Bl & Cholla St;33.591804;-111.978182;44;34
+3132;Tatum Bl & Paradise Village Pkwy S;33.596254;-111.980861;44;35
+3116;Tatum Bl & Cactus Rd;33.599267;-111.979949;44;36
+20066;Tatum Bl & Larkspur Dr;33.601429;-111.978936;44;37
+565;Paradise Valley TC;33.604758;-111.979094;44;38
+3131;Tatum Bl & Paradise Village Pkwy N;33.605423;-111.977714;44;39
+3112;Tatum Bl & Andora Dr;33.607683;-111.977715;44;40
+3138;Tatum Bl & Thunderbird Rd;33.611912;-111.977725;44;41
+3124;Tatum Bl & Hearn Rd;33.615493;-111.9777;44;42
+3110;Tatum Bl & Acoma Dr;33.61917;-111.977676;44;43
+3125;Tatum Bl & Hillery Dr;33.622235;-111.977659;44;44
+3122;Tatum Bl & Greenway Rd;33.62665;-111.977598;44;45
+3126;Tatum Bl & Kathleen Rd;33.630607;-111.977631;44;46
+3130;Tatum Bl & Paradise Ln;33.633704;-111.977575;44;47
+3111;Tatum Bl & Aire Libre Av;33.636971;-111.977599;44;48
+3114;Tatum Bl & Bell Rd;33.641016;-111.977256;44;49
+3113;Tatum Bl & Angela Dr;33.643894;-111.977207;44;50
+3123;Tatum Bl & Grovers Av;33.648309;-111.977182;44;51
+3135;Tatum Bl & Desert Cactus St;33.651937;-111.977187;44;52
+3109;Tatum Bl & Union Hills Dr;33.655643;-111.977221;44;53
+3128;Tatum Bl & Mayo Bl;33.669095;-111.977258;44;54
+3139;Tatum Bl & Rose Garden Ln;33.677329;-111.97717;44;55
+7645;Deer Valley Rd & Tatum Bl;33.680108;-111.976516;44;56
+20058;Marriott Dr & Deer Valley Rd;33.678899;-111.968506;44;57
+7785;Marriott Dr & Desert Ridge Marriott;33.683066;-111.970733;44;58
+20076;43rd Av & Lower Buckeye Rd;33.423047;-112.151688;43;1
+20075;43rd Av & Gibson St;33.427998;-112.151755;43;2
+20073;43rd Av & Mohave St;33.432032;-112.15176;43;3
+7635;43rd Av & Buckeye Rd;33.437602;-112.151711;43;4
+3219;43rd Av & Hadley St;33.439985;-112.151741;43;5
+3221;43rd Av & Washington St;33.448011;-112.151656;43;6
+2364;43rd Av & Van Buren St;33.452177;-112.151615;43;7
+2331;43rd Av & Fillmore St;33.455407;-112.15168;43;8
+2358;43rd Av & Roosevelt St;33.459;-112.151713;43;9
+2326;43rd Av & Culver St;33.46422;-112.151684;43;10
+2347;43rd Av & McDowell Rd;33.46671;-112.151617;43;11
+2341;43rd Av & Hubbell St;33.470383;-112.151639;43;12
+2330;43rd Av & Encanto Bl;33.473681;-112.15161;43;13
+2365;43rd Av & Virginia Av;33.477387;-112.151561;43;14
+2361;43rd Av & Thomas Rd;33.480936;-112.151521;43;15
+2329;43rd Av & Earll Dr;33.484493;-112.151536;43;16
+2354;43rd Av & Osborn Rd;33.488116;-112.151519;43;17
+2369;43rd Av & Clarendon Av;33.49174;-112.151529;43;18
+2366;43rd Av & Fairmount Av;33.493631;-112.151527;43;19
+2342;43rd Av & Indian School Rd;33.49569;-112.151536;43;20
+2335;43rd Av & Glenrosa Av;33.498975;-112.151494;43;21
+2367;43rd Av & 4507 North;33.501978;-112.151484;43;22
+2340;43rd Av & Highland Av;33.505748;-112.151452;43;23
+2322;43rd Av & Camelback Rd;33.510049;-112.151334;43;24
+2348;43rd Av & Medlock Dr;33.513422;-112.151408;43;25
+2368;43rd Av & Missouri Av;33.516172;-112.151402;43;26
+2359;43rd Av & San Miguel Av;33.520458;-112.151379;43;27
+2319;43rd Av & Bethany Home Rd;33.524677;-112.151312;43;28
+2315;43rd Av & Claremont St;33.528323;-112.151346;43;29
+2346;43rd Av & Maryland Av;33.53156;-112.151336;43;30
+2352;43rd Av & Ocotillo Rd;33.535126;-112.151328;43;31
+2334;43rd Av & Glendale Av;33.538944;-112.151314;43;32
+2350;43rd Av & Myrtle Av;33.542359;-112.151303;43;33
+2353;43rd Av & Orangewood Av;33.546063;-112.151306;43;34
+2333;43rd Av & Frier Dr;33.549732;-112.151369;43;35
+2351;43rd Av & Northern Av;33.553728;-112.15141;43;36
+2337;43rd Av & Harmont Dr;33.555171;-112.151498;43;37
+2313;43rd Av & Las Palmaritas Dr;33.558188;-112.151464;43;38
+7853;43rd Av & Butler Dr;33.560259;-112.151471;43;39
+2316;43rd Av & Alice Av;33.564243;-112.15148;43;40
+2328;43rd Av & Dunlap Av;33.568438;-112.151494;43;41
+2338;43rd Av & Hatcher Rd;33.571347;-112.151472;43;42
+2349;43rd Av & Mountain View Rd;33.575113;-112.151447;43;43
+2320;43rd Av & Brown St;33.577512;-112.15143;43;44
+2356;43rd Av & Peoria Av;33.583137;-112.151342;43;45
+2327;43rd Av & Desert Cove Av;33.585865;-112.151353;43;46
+2324;43rd Av & Cholla St;33.589644;-112.151258;43;47
+2357;43rd Av & Poinsettia Dr;33.59343;-112.151241;43;48
+2321;43rd Av & Cactus Rd;33.5969;-112.151123;43;49
+2345;43rd Av & Larkspur Dr;33.600372;-112.151166;43;50
+2360;43rd Av & Sweetwater Av;33.604085;-112.151095;43;51
+2343;43rd Av & Joan De Arc Av;33.607469;-112.151092;43;52
+2362;43rd Av & Thunderbird Rd;33.611463;-112.15097;43;53
+2339;43rd Av & Hearn Rd;33.615045;-112.151041;43;54
+2317;43rd Av & Acoma Dr;33.61848;-112.150988;43;55
+2325;43rd Av & Country Gables Dr;33.621946;-112.150996;43;56
+2336;43rd Av & Greenway Rd;33.625789;-112.150937;43;57
+2363;43rd Av & Tierra Buena Ln;33.629055;-112.150926;43;58
+2355;43rd Av & Paradise Ln;33.632823;-112.150907;43;59
+2344;43rd Av & Juniper Av;33.637841;-112.151465;43;60
+2318;43rd Av & Bell Rd;33.639939;-112.151601;43;61
+2323;43rd Av & Campo Bello Dr;33.643424;-112.1517;43;62
+9189;43rd Av & Grovers Av;33.64773;-112.151729;43;63
+9190;43rd Av & Michigan Av;33.650576;-112.151756;43;64
+7080;Union Hills Dr & 43rd Av;33.65476;-112.152626;43;65
+9715;Indian School Rd & Granite Reef Rd;33.494957;-111.90101;41-107th;1
+9374;Indian School Rd & 82nd St;33.494994;-111.905029;41-107th;2
+5701;Indian School Rd & Hayden Rd;33.495035;-111.909448;41-107th;3
+7704;Indian School Rd & 78th St;33.495029;-111.91341;41-107th;4
+5703;Indian School Rd & Miller Rd;33.495058;-111.918406;41-107th;5
+5699;Indian School Rd & Drinkwater Bl;33.495111;-111.922327;41-107th;6
+7594;Indian School Rd & Scottsdale Rd;33.495108;-111.926631;41-107th;7
+5700;Indian School Rd & Goldwater Bl;33.495005;-111.930898;41-107th;8
+5697;Indian School Rd & 68th St;33.494667;-111.934999;41-107th;9
+5707;Indian School Rd & 64th St;33.490568;-111.942837;41-107th;10
+5706;Indian School Rd & 60th St;33.490666;-111.952146;41-107th;11
+5695;Indian School Rd & 56th St;33.489039;-111.961408;41-107th;12
+5694;Indian School Rd & 52nd St;33.491931;-111.969429;41-107th;13
+5693;Indian School Rd & 50th St;33.493978;-111.973392;41-107th;14
+5698;Indian School Rd & Arcadia Dr;33.494757;-111.979039;41-107th;15
+5692;Indian School Rd & 45th Pl;33.494863;-111.983524;41-107th;16
+5691;Indian School Rd & 44th St;33.495025;-111.987503;41-107th;17
+5690;Indian School Rd & 42nd St;33.495108;-111.991628;41-107th;18
+5689;Indian School Rd & 40th St;33.495217;-111.995929;41-107th;19
+5688;Indian School Rd & 38th St;33.49524;-112.000341;41-107th;20
+5687;Indian School Rd & 36th St;33.495274;-112.004595;41-107th;21
+5686;Indian School Rd & 34th St;33.495298;-112.008982;41-107th;22
+5685;Indian School Rd & 32nd St;33.495353;-112.013714;41-107th;23
+7622;Indian School Rd & 30th St;33.495215;-112.01791;41-107th;24
+5684;Indian School Rd & 28th St;33.495115;-112.022434;41-107th;25
+5683;Indian School Rd & 26th St;33.495024;-112.026185;41-107th;26
+5682;Indian School Rd & 24th St;33.49497;-112.030824;41-107th;27
+5681;Indian School Rd & 22nd St;33.494895;-112.034937;41-107th;28
+5680;Indian School Rd & 20th St;33.494895;-112.039644;41-107th;29
+6718;Indian School Rd & 19th St;33.494886;-112.041596;41-107th;30
+6754;Indian School Rd & 17th St;33.494877;-112.045181;41-107th;31
+6715;Indian School Rd & 16th St;33.494868;-112.048274;41-107th;32
+6713;Indian School Rd & 14th St;33.494823;-112.052455;41-107th;33
+6712;Indian School Rd & 12th St;33.49483;-112.056645;41-107th;34
+6710;Indian School Rd & 10th St;33.494828;-112.06138;41-107th;35
+6746;Indian School Rd & 7th St;33.494877;-112.065918;41-107th;36
+6753;Indian School Rd & 4th St;33.494872;-112.067809;41-107th;37
+6726;Indian School Rd & 3rd St;33.49491;-112.070044;41-107th;38
+6748;Indian School Rd & Central Av;33.494966;-112.074829;41-107th;39
+6725;Indian School Rd & 3rd Av;33.494957;-112.078623;41-107th;40
+6735;Indian School Rd & 5th Av;33.494957;-112.080534;41-107th;41
+6745;Indian School Rd & 7th Av;33.495041;-112.08396;41-107th;42
+6711;Indian School Rd & 11th Av;33.495039;-112.087351;41-107th;43
+6714;Indian School Rd & 15th Av;33.495087;-112.091886;41-107th;44
+6716;Indian School Rd & 17th Av;33.495128;-112.095943;41-107th;45
+6717;Indian School Rd & 19th Av;33.495189;-112.100467;41-107th;46
+6750;Indian School Rd & 2130 West;33.495158;-112.105224;41-107th;47
+6720;Indian School Rd & 23rd Av;33.495157;-112.108981;41-107th;48
+6749;Indian School Rd & I-17 Fwy;33.49521;-112.113973;41-107th;49
+6721;Indian School Rd & 27th Av;33.495136;-112.11751;41-107th;50
+6722;Indian School Rd & 29th Av;33.49507;-112.12175;41-107th;51
+6723;Indian School Rd & 31st Av;33.495082;-112.126108;41-107th;52
+6756;Indian School Rd & 33rd Av;33.495086;-112.130474;41-107th;53
+6757;Indian School Rd & 39th Av;33.495085;-112.142124;41-107th;54
+6724;Indian School Rd & 3800 West;33.495084;-112.143351;41-107th;55
+6751;Indian School Rd & 4010 West;33.495064;-112.146705;41-107th;56
+6727;Indian School Rd & 43rd Av;33.495107;-112.152333;41-107th;57
+6728;Indian School Rd & 45th Av;33.495045;-112.156448;41-107th;58
+6729;Indian School Rd & 47th Av;33.495046;-112.160708;41-107th;59
+6730;Indian School Rd & 49th Av;33.495041;-112.164964;41-107th;60
+6731;Indian School Rd & 51st Av;33.495096;-112.169968;41-107th;61
+6732;Indian School Rd & 53rd Av;33.49512;-112.173677;41-107th;62
+6758;Indian School Rd & Monterosa St;33.495121;-112.179076;41-107th;63
+6733;Indian School Rd & 57th Av;33.495133;-112.182598;41-107th;64
+6734;Indian School Rd & 59th Av;33.495231;-112.186899;41-107th;65
+6736;Indian School Rd & 61st Av;33.495128;-112.191217;41-107th;66
+6737;Indian School Rd & 63rd Av;33.495038;-112.195762;41-107th;67
+6752;Indian School Rd & 64th Dr;33.494973;-112.199578;41-107th;68
+6738;Indian School Rd & 67th Av;33.49495;-112.204079;41-107th;69
+6739;Indian School Rd & 69th Dr;33.494871;-112.208597;41-107th;70
+6740;Indian School Rd & 71st Dr;33.494849;-112.212844;41-107th;71
+6741;Indian School Rd & 73rd Av;33.494812;-112.216472;41-107th;72
+6742;Indian School Rd & 75th Av;33.494813;-112.221156;41-107th;73
+6743;Indian School Rd & 77th Av;33.494659;-112.225893;41-107th;74
+6744;Indian School Rd & 79th Dr;33.494559;-112.230083;41-107th;75
+6747;Indian School Rd & 81st Av;33.494478;-112.234022;41-107th;76
+7858;Indian School Rd & 83rd Av;33.49439;-112.238372;41-107th;77
+7859;Indian School Rd & 85th Av;33.494392;-112.24274;41-107th;78
+7860;Indian School Rd & 87th Av;33.494372;-112.247021;41-107th;79
+7861;Indian School Rd & 89th Av;33.494362;-112.251222;41-107th;80
+7862;Indian School Rd & 91st Av;33.494395;-112.255739;41-107th;81
+7863;Indian School Rd & 99th Av;33.493921;-112.273272;41-107th;82
+7998;Indian School Rd & 103rd Av;33.493825;-112.2807;41-107th;83
+7855;Indian School Rd & 107th Av;33.493735;-112.29066;41-107th;84
+9715;Indian School Rd & Granite Reef Rd;33.494957;-111.90101;41-83rd;1
+9374;Indian School Rd & 82nd St;33.494994;-111.905029;41-83rd;2
+5701;Indian School Rd & Hayden Rd;33.495035;-111.909448;41-83rd;3
+7704;Indian School Rd & 78th St;33.495029;-111.91341;41-83rd;4
+5703;Indian School Rd & Miller Rd;33.495058;-111.918406;41-83rd;5
+5699;Indian School Rd & Drinkwater Bl;33.495111;-111.922327;41-83rd;6
+7594;Indian School Rd & Scottsdale Rd;33.495108;-111.926631;41-83rd;7
+5700;Indian School Rd & Goldwater Bl;33.495005;-111.930898;41-83rd;8
+5697;Indian School Rd & 68th St;33.494667;-111.934999;41-83rd;9
+5707;Indian School Rd & 64th St;33.490568;-111.942837;41-83rd;10
+5706;Indian School Rd & 60th St;33.490666;-111.952146;41-83rd;11
+5695;Indian School Rd & 56th St;33.489039;-111.961408;41-83rd;12
+5694;Indian School Rd & 52nd St;33.491931;-111.969429;41-83rd;13
+5693;Indian School Rd & 50th St;33.493978;-111.973392;41-83rd;14
+5698;Indian School Rd & Arcadia Dr;33.494757;-111.979039;41-83rd;15
+5692;Indian School Rd & 45th Pl;33.494863;-111.983524;41-83rd;16
+5691;Indian School Rd & 44th St;33.495025;-111.987503;41-83rd;17
+5690;Indian School Rd & 42nd St;33.495108;-111.991628;41-83rd;18
+5689;Indian School Rd & 40th St;33.495217;-111.995929;41-83rd;19
+5688;Indian School Rd & 38th St;33.49524;-112.000341;41-83rd;20
+5687;Indian School Rd & 36th St;33.495274;-112.004595;41-83rd;21
+5686;Indian School Rd & 34th St;33.495298;-112.008982;41-83rd;22
+5685;Indian School Rd & 32nd St;33.495353;-112.013714;41-83rd;23
+7622;Indian School Rd & 30th St;33.495215;-112.01791;41-83rd;24
+5684;Indian School Rd & 28th St;33.495115;-112.022434;41-83rd;25
+5683;Indian School Rd & 26th St;33.495024;-112.026185;41-83rd;26
+5682;Indian School Rd & 24th St;33.49497;-112.030824;41-83rd;27
+5681;Indian School Rd & 22nd St;33.494895;-112.034937;41-83rd;28
+5680;Indian School Rd & 20th St;33.494895;-112.039644;41-83rd;29
+6718;Indian School Rd & 19th St;33.494886;-112.041596;41-83rd;30
+6754;Indian School Rd & 17th St;33.494877;-112.045181;41-83rd;31
+6715;Indian School Rd & 16th St;33.494868;-112.048274;41-83rd;32
+6713;Indian School Rd & 14th St;33.494823;-112.052455;41-83rd;33
+6712;Indian School Rd & 12th St;33.49483;-112.056645;41-83rd;34
+6710;Indian School Rd & 10th St;33.494828;-112.06138;41-83rd;35
+6746;Indian School Rd & 7th St;33.494877;-112.065918;41-83rd;36
+6753;Indian School Rd & 4th St;33.494872;-112.067809;41-83rd;37
+6726;Indian School Rd & 3rd St;33.49491;-112.070044;41-83rd;38
+6748;Indian School Rd & Central Av;33.494966;-112.074829;41-83rd;39
+6725;Indian School Rd & 3rd Av;33.494957;-112.078623;41-83rd;40
+6735;Indian School Rd & 5th Av;33.494957;-112.080534;41-83rd;41
+6745;Indian School Rd & 7th Av;33.495041;-112.08396;41-83rd;42
+6711;Indian School Rd & 11th Av;33.495039;-112.087351;41-83rd;43
+6714;Indian School Rd & 15th Av;33.495087;-112.091886;41-83rd;44
+6716;Indian School Rd & 17th Av;33.495128;-112.095943;41-83rd;45
+6717;Indian School Rd & 19th Av;33.495189;-112.100467;41-83rd;46
+6750;Indian School Rd & 2130 West;33.495158;-112.105224;41-83rd;47
+6720;Indian School Rd & 23rd Av;33.495157;-112.108981;41-83rd;48
+6749;Indian School Rd & I-17 Fwy;33.49521;-112.113973;41-83rd;49
+6721;Indian School Rd & 27th Av;33.495136;-112.11751;41-83rd;50
+6722;Indian School Rd & 29th Av;33.49507;-112.12175;41-83rd;51
+6723;Indian School Rd & 31st Av;33.495082;-112.126108;41-83rd;52
+6756;Indian School Rd & 33rd Av;33.495086;-112.130474;41-83rd;53
+6757;Indian School Rd & 39th Av;33.495085;-112.142124;41-83rd;54
+6724;Indian School Rd & 3800 West;33.495084;-112.143351;41-83rd;55
+6751;Indian School Rd & 4010 West;33.495064;-112.146705;41-83rd;56
+6727;Indian School Rd & 43rd Av;33.495107;-112.152333;41-83rd;57
+6728;Indian School Rd & 45th Av;33.495045;-112.156448;41-83rd;58
+6729;Indian School Rd & 47th Av;33.495046;-112.160708;41-83rd;59
+6730;Indian School Rd & 49th Av;33.495041;-112.164964;41-83rd;60
+6731;Indian School Rd & 51st Av;33.495096;-112.169968;41-83rd;61
+6732;Indian School Rd & 53rd Av;33.49512;-112.173677;41-83rd;62
+6758;Indian School Rd & Monterosa St;33.495121;-112.179076;41-83rd;63
+6733;Indian School Rd & 57th Av;33.495133;-112.182598;41-83rd;64
+6734;Indian School Rd & 59th Av;33.495231;-112.186899;41-83rd;65
+6736;Indian School Rd & 61st Av;33.495128;-112.191217;41-83rd;66
+6737;Indian School Rd & 63rd Av;33.495038;-112.195762;41-83rd;67
+6752;Indian School Rd & 64th Dr;33.494973;-112.199578;41-83rd;68
+6738;Indian School Rd & 67th Av;33.49495;-112.204079;41-83rd;69
+6739;Indian School Rd & 69th Dr;33.494871;-112.208597;41-83rd;70
+6740;Indian School Rd & 71st Dr;33.494849;-112.212844;41-83rd;71
+6741;Indian School Rd & 73rd Av;33.494812;-112.216472;41-83rd;72
+6742;Indian School Rd & 75th Av;33.494813;-112.221156;41-83rd;73
+6743;Indian School Rd & 77th Av;33.494659;-112.225893;41-83rd;74
+6744;Indian School Rd & 79th Dr;33.494559;-112.230083;41-83rd;75
+6747;Indian School Rd & 81st Av;33.494478;-112.234022;41-83rd;76
+7858;Indian School Rd & 83rd Av;33.49439;-112.238372;41-83rd;77
+5685;Indian School Rd & 32nd St;33.495353;-112.013714;41-59th;1
+7622;Indian School Rd & 30th St;33.495215;-112.01791;41-59th;2
+5684;Indian School Rd & 28th St;33.495115;-112.022434;41-59th;3
+5683;Indian School Rd & 26th St;33.495024;-112.026185;41-59th;4
+5682;Indian School Rd & 24th St;33.49497;-112.030824;41-59th;5
+5681;Indian School Rd & 22nd St;33.494895;-112.034937;41-59th;6
+5680;Indian School Rd & 20th St;33.494895;-112.039644;41-59th;7
+6718;Indian School Rd & 19th St;33.494886;-112.041596;41-59th;8
+6754;Indian School Rd & 17th St;33.494877;-112.045181;41-59th;9
+6715;Indian School Rd & 16th St;33.494868;-112.048274;41-59th;10
+6713;Indian School Rd & 14th St;33.494823;-112.052455;41-59th;11
+6712;Indian School Rd & 12th St;33.49483;-112.056645;41-59th;12
+6710;Indian School Rd & 10th St;33.494828;-112.06138;41-59th;13
+6746;Indian School Rd & 7th St;33.494877;-112.065918;41-59th;14
+6753;Indian School Rd & 4th St;33.494872;-112.067809;41-59th;15
+6726;Indian School Rd & 3rd St;33.49491;-112.070044;41-59th;16
+6748;Indian School Rd & Central Av;33.494966;-112.074829;41-59th;17
+6725;Indian School Rd & 3rd Av;33.494957;-112.078623;41-59th;18
+6735;Indian School Rd & 5th Av;33.494957;-112.080534;41-59th;19
+6745;Indian School Rd & 7th Av;33.495041;-112.08396;41-59th;20
+6711;Indian School Rd & 11th Av;33.495039;-112.087351;41-59th;21
+6714;Indian School Rd & 15th Av;33.495087;-112.091886;41-59th;22
+6716;Indian School Rd & 17th Av;33.495128;-112.095943;41-59th;23
+6717;Indian School Rd & 19th Av;33.495189;-112.100467;41-59th;24
+6750;Indian School Rd & 2130 West;33.495158;-112.105224;41-59th;25
+6720;Indian School Rd & 23rd Av;33.495157;-112.108981;41-59th;26
+6749;Indian School Rd & I-17 Fwy;33.49521;-112.113973;41-59th;27
+6721;Indian School Rd & 27th Av;33.495136;-112.11751;41-59th;28
+6722;Indian School Rd & 29th Av;33.49507;-112.12175;41-59th;29
+6723;Indian School Rd & 31st Av;33.495082;-112.126108;41-59th;30
+6756;Indian School Rd & 33rd Av;33.495086;-112.130474;41-59th;31
+6757;Indian School Rd & 39th Av;33.495085;-112.142124;41-59th;32
+6724;Indian School Rd & 3800 West;33.495084;-112.143351;41-59th;33
+6751;Indian School Rd & 4010 West;33.495064;-112.146705;41-59th;34
+6727;Indian School Rd & 43rd Av;33.495107;-112.152333;41-59th;35
+6728;Indian School Rd & 45th Av;33.495045;-112.156448;41-59th;36
+6729;Indian School Rd & 47th Av;33.495046;-112.160708;41-59th;37
+6730;Indian School Rd & 49th Av;33.495041;-112.164964;41-59th;38
+6731;Indian School Rd & 51st Av;33.495096;-112.169968;41-59th;39
+6732;Indian School Rd & 53rd Av;33.49512;-112.173677;41-59th;40
+6758;Indian School Rd & Monterosa St;33.495121;-112.179076;41-59th;41
+6733;Indian School Rd & 57th Av;33.495133;-112.182598;41-59th;42
+6734;Indian School Rd & 59th Av;33.495231;-112.186899;41-59th;43
+30460;Superstition Springs TC;33.387673;-111.689271;40-sycamore;1
+3479;Power Rd & Hampton Av;33.391123;-111.6845;40-sycamore;2
+3481;Power Rd & Southern Av;33.394346;-111.684546;40-sycamore;3
+3474;Power Rd & Via Rossmoor;33.399405;-111.684502;40-sycamore;4
+3476;Power Rd & Baywood Av;33.410634;-111.684369;40-sycamore;5
+8754;Main St & Power Rd;33.415829;-111.685232;40-sycamore;6
+8977;Main St & 65th St;33.415817;-111.690294;40-sycamore;7
+8976;Main St & 63rd St;33.41578;-111.695715;40-sycamore;8
+8751;Main St & Recker Rd;33.415771;-111.702599;40-sycamore;9
+8973;Main St & 58th St;33.415748;-111.706595;40-sycamore;10
+8972;Main St & 56th St;33.415739;-111.710959;40-sycamore;11
+8969;Main St & 54th St;33.415713;-111.715183;40-sycamore;12
+8749;Main St & Higley Rd;33.415714;-111.718726;40-sycamore;13
+8968;Main St & 5026 East;33.4157;-111.722875;40-sycamore;14
+8965;Main St & 48th St;33.415682;-111.72814;40-sycamore;15
+8964;Main St & Quinn Dr;33.415667;-111.731524;40-sycamore;16
+8748;Main St & Greenfield Rd;33.415648;-111.736861;40-sycamore;17
+8961;Main St & Norfolk St;33.415635;-111.741942;40-sycamore;18
+8959;Main St & Sulleys Dr;33.415623;-111.746105;40-sycamore;19
+8957;Main St & 38th St;33.415664;-111.749758;40-sycamore;20
+8745;Main St & Val Vista Dr;33.415652;-111.754632;40-sycamore;21
+8956;Main St & 3400 East;33.415638;-111.758112;40-sycamore;22
+9501;Main St & 3130 East;33.415611;-111.762779;40-sycamore;23
+9500;Main St & 3020 East;33.415598;-111.766037;40-sycamore;24
+8744;Main St & Lindsay Rd;33.415581;-111.77063;40-sycamore;25
+8950;Main St & Windsor St;33.415554;-111.777929;40-sycamore;26
+8948;Main St & Chestnut St;33.415524;-111.785801;40-sycamore;27
+8741;Main St & Gilbert Rd;33.415534;-111.788846;40-sycamore;28
+5721;Main St & Hunt Dr;33.415374;-111.798537;40-sycamore;29
+8740;Main St & Stapley Dr;33.415361;-111.804251;40-sycamore;30
+5726;Main St & Matlock St;33.415247;-111.808565;40-sycamore;31
+5724;Main St & Horne;33.415262;-111.813258;40-sycamore;32
+5727;Main St & Mesa Dr;33.415214;-111.823278;40-sycamore;33
+5722;Main St & Hibbert;33.415226;-111.826844;40-sycamore;34
+6779;Main St & MacDonald;33.415237;-111.834637;40-sycamore;35
+6775;Main St & Country Club Dr;33.415308;-111.840659;40-sycamore;36
+6776;Main St & Date;33.415202;-111.844772;40-sycamore;37
+6777;Main St & Extension Rd;33.415185;-111.84894;40-sycamore;38
+6785;Main St & 1018 West;33.41508;-111.853095;40-sycamore;39
+6773;Main St & Alma School Rd;33.415098;-111.857555;40-sycamore;40
+6783;Main St & Standage;33.415011;-111.861412;40-sycamore;41
+6778;Main St & Longmore;33.414982;-111.865893;40-sycamore;42
+30455;Sycamore/Main St TC;33.415903;-111.870444;40-sycamore;43
+30460;Superstition Springs TC;33.387673;-111.689271;40-gilbert;1
+3479;Power Rd & Hampton Av;33.391123;-111.6845;40-gilbert;2
+3481;Power Rd & Southern Av;33.394346;-111.684546;40-gilbert;3
+3474;Power Rd & Via Rossmoor;33.399405;-111.684502;40-gilbert;4
+3476;Power Rd & Baywood Av;33.410634;-111.684369;40-gilbert;5
+8754;Main St & Power Rd;33.415829;-111.685232;40-gilbert;6
+8977;Main St & 65th St;33.415817;-111.690294;40-gilbert;7
+8976;Main St & 63rd St;33.41578;-111.695715;40-gilbert;8
+8751;Main St & Recker Rd;33.415771;-111.702599;40-gilbert;9
+8973;Main St & 58th St;33.415748;-111.706595;40-gilbert;10
+8972;Main St & 56th St;33.415739;-111.710959;40-gilbert;11
+8969;Main St & 54th St;33.415713;-111.715183;40-gilbert;12
+8749;Main St & Higley Rd;33.415714;-111.718726;40-gilbert;13
+8968;Main St & 5026 East;33.4157;-111.722875;40-gilbert;14
+8965;Main St & 48th St;33.415682;-111.72814;40-gilbert;15
+8964;Main St & Quinn Dr;33.415667;-111.731524;40-gilbert;16
+8748;Main St & Greenfield Rd;33.415648;-111.736861;40-gilbert;17
+8961;Main St & Norfolk St;33.415635;-111.741942;40-gilbert;18
+8959;Main St & Sulleys Dr;33.415623;-111.746105;40-gilbert;19
+8957;Main St & 38th St;33.415664;-111.749758;40-gilbert;20
+8745;Main St & Val Vista Dr;33.415652;-111.754632;40-gilbert;21
+8956;Main St & 3400 East;33.415638;-111.758112;40-gilbert;22
+9501;Main St & 3130 East;33.415611;-111.762779;40-gilbert;23
+9500;Main St & 3020 East;33.415598;-111.766037;40-gilbert;24
+8744;Main St & Lindsay Rd;33.415581;-111.77063;40-gilbert;25
+8950;Main St & Windsor St;33.415554;-111.777929;40-gilbert;26
+8948;Main St & Chestnut St;33.415524;-111.785801;40-gilbert;27
+30377;Gilbert Rd/Main St TC;33.414998;-111.790303;40-gilbert;28
+3572;Dreamy Draw PNR;33.581236;-112.011284;39;1
+633;Shea Bl & 35th St;33.582466;-112.007236;39;2
+634;Shea Bl & 36th St;33.582484;-112.003844;39;3
+9386;40th St & Shea Bl;33.58321;-111.995592;39;4
+9387;40th St & Desert Cove Av;33.58673;-111.995611;39;5
+9388;40th St & Cholla St;33.590442;-111.995644;39;6
+9389;40th St & Sunnyside Dr;33.594382;-111.995678;39;7
+9390;40th St & Cactus Rd;33.597868;-111.995701;39;8
+9391;40th St & Columbine Dr;33.600496;-111.99573;39;9
+9392;40th St & Sweetwater Av;33.604823;-111.995755;39;10
+9393;40th St & Willow Av;33.608398;-111.995781;39;11
+2311;40th St & Thunderbird Rd;33.612324;-111.99575;39;12
+2308;40th St & Hearn Rd;33.615798;-111.995837;39;13
+2301;40th St & Acoma Dr;33.619681;-111.995833;39;14
+2312;40th St & Blanche Dr;33.623135;-111.995896;39;15
+2306;40th St & Greenway Rd;33.626984;-111.995888;39;16
+2300;40th St & Tierra Buena Ln;33.630132;-111.995946;39;17
+2309;40th St & Paradise Ln;33.633828;-111.995982;39;18
+2299;40th St & Edna Av;33.6374;-111.996011;39;19
+2302;40th St & Bell Rd;33.641115;-111.996001;39;20
+2305;40th St & Danbury Rd;33.644594;-111.99606;39;21
+2307;40th St & Grovers Av;33.6483;-111.99609;39;22
+2310;40th St & Desert Cactus St;33.651823;-111.996113;39;23
+6041;Union Hills Dr & 40th St;33.655345;-111.996945;39;24
+6040;Union Hills Dr & 36th St;33.655289;-112.00554;39;25
+6039;Union Hills Dr & 34th St;33.655273;-112.009663;39;26
+3940;32nd St & Union Hills Dr;33.654719;-112.013811;39;27
+536;Paradise Valley CC;33.651665;-112.012682;39;28
+3217;35th Av & Lower Buckeye Rd;33.423107;-112.1344;35-thelda;1
+3214;35th Av & Gibson Ln;33.427119;-112.134417;35-thelda;2
+20101;35th Av & Durango St;33.430046;-112.134421;35-thelda;3
+3213;35th Av & Cocopah St;33.432484;-112.134454;35-thelda;4
+3212;35th Av & Buckeye Rd;33.437527;-112.13448;35-thelda;5
+3215;35th Av & Hadley St;33.439988;-112.134444;35-thelda;6
+3216;35th Av & Lincoln St;33.442684;-112.134411;35-thelda;7
+2265;35th Av & Washington St;33.44813;-112.134378;35-thelda;8
+2263;35th Av & Van Buren St;33.45207;-112.13434;35-thelda;9
+2238;35th Av & Fillmore St;33.455665;-112.13435;35-thelda;10
+2254;35th Av & Roosevelt St;33.459122;-112.134334;35-thelda;11
+2267;35th Av & Moreland St;33.461552;-112.134358;35-thelda;12
+2244;35th Av & McDowell Rd;33.466345;-112.13433;35-thelda;13
+2252;35th Av & Palm Ln;33.469679;-112.13432;35-thelda;14
+2236;35th Av & Encanto Bl;33.473633;-112.13428;35-thelda;15
+2264;35th Av & Virginia Av;33.477278;-112.134267;35-thelda;16
+2259;35th Av & Thomas Rd;33.480817;-112.134168;35-thelda;17
+2233;35th Av & Earll Dr;33.484428;-112.134212;35-thelda;18
+2251;35th Av & Osborn Rd;33.488074;-112.134187;35-thelda;19
+2230;35th Av & Clarendon Av;33.492474;-112.134155;35-thelda;20
+2214;35th Av & Monterosa Av;33.496901;-112.134058;35-thelda;21
+2240;35th Av & Glenrosa Av;33.498892;-112.134105;35-thelda;22
+2226;35th Av & Campbell Av;33.502655;-112.134084;35-thelda;23
+2235;35th Av & Elm St;33.506569;-112.134075;35-thelda;24
+2225;35th Av & Camelback Rd;33.510033;-112.134047;35-thelda;25
+2211;35th Av & Colter St;33.513467;-112.134077;35-thelda;26
+2245;35th Av & Missouri Av;33.517205;-112.1341;35-thelda;27
+2246;35th Av & Montebello Av;33.520644;-112.134119;35-thelda;28
+2220;35th Av & Bethany Home Rd;33.524845;-112.134103;35-thelda;29
+2255;35th Av & Rose Ln;33.528113;-112.134135;35-thelda;30
+2273;35th Av & Maryland Av;33.531714;-112.134104;35-thelda;31
+2249;35th Av & Ocotillo Rd;33.535022;-112.134168;35-thelda;32
+2239;35th Av & Glendale Av;33.539073;-112.134109;35-thelda;33
+2247;35th Av & Myrtle Av;33.542529;-112.13419;35-thelda;34
+2250;35th Av & Orangewood Av;33.546328;-112.134171;35-thelda;35
+2266;35th Av & Frier Dr;33.549473;-112.134165;35-thelda;36
+2248;35th Av & Northern Av;33.553682;-112.134038;35-thelda;37
+2234;35th Av & El Camino Dr;33.557449;-112.134126;35-thelda;38
+2223;35th Av & Butler Dr;33.560839;-112.134084;35-thelda;39
+2217;35th Av & Alice Av;33.564205;-112.134099;35-thelda;40
+2232;35th Av & Dunlap Av;33.568011;-112.134086;35-thelda;41
+2237;35th Av & Eva St;33.571138;-112.134076;35-thelda;42
+2243;35th Av & Malapai Dr;33.575653;-112.134002;35-thelda;43
+6511;Cheryl Dr & 35th Av;33.57804;-112.133429;35-thelda;44
+1223;Cheryl Dr & 33rd Av;33.578043;-112.129326;35-thelda;45
+1224;Cheryl Dr & 3161 West;33.576289;-112.127195;35-thelda;46
+3600;Metro Pkwy W & Cheryl Dr;33.575214;-112.124895;35-thelda;47
+20113;Metro Pkwy W & Mission Ln;33.571865;-112.123435;35-thelda;48
+20054;Metro Pkwy E & 9445 North;33.572988;-112.11879;35-thelda;49
+6671;Thelda Williams TC;33.57503;-112.119202;35-thelda;50
+1009;27th Av/Baseline PNR;33.377545;-112.118008;35-happy;1
+7760;Baseline Rd & 27th Av;33.377832;-112.116985;35-happy;2
+7763;Baseline Rd & 29th Dr;33.37782;-112.121646;35-happy;3
+7761;Baseline Rd & 31st Av;33.377809;-112.125633;35-happy;4
+2218;35th Av & Baseline Rd;33.378245;-112.133592;35-happy;5
+2212;35th Av & Minton Rd;33.380602;-112.133602;35-happy;6
+7927;35th Av & Vineyard Rd;33.385307;-112.133525;35-happy;7
+9282;35th Av & Lydia Ln;33.387666;-112.133509;35-happy;8
+2256;35th Av & Southern Av;33.392642;-112.133406;35-happy;9
+2268;35th Av & Sunland Av;33.39652;-112.133483;35-happy;10
+2213;35th Av & Roeser Rd;33.399825;-112.133446;35-happy;11
+3210;35th Av & Wier Av;33.402598;-112.133485;35-happy;12
+3211;35th Av & Broadway Rd;33.407228;-112.133529;35-happy;13
+3209;35th Av & Elwood St;33.415812;-112.13421;35-happy;14
+3217;35th Av & Lower Buckeye Rd;33.423107;-112.1344;35-happy;15
+3214;35th Av & Gibson Ln;33.427119;-112.134417;35-happy;16
+20101;35th Av & Durango St;33.430046;-112.134421;35-happy;17
+3213;35th Av & Cocopah St;33.432484;-112.134454;35-happy;18
+3212;35th Av & Buckeye Rd;33.437527;-112.13448;35-happy;19
+3215;35th Av & Hadley St;33.439988;-112.134444;35-happy;20
+3216;35th Av & Lincoln St;33.442684;-112.134411;35-happy;21
+2265;35th Av & Washington St;33.44813;-112.134378;35-happy;22
+2263;35th Av & Van Buren St;33.45207;-112.13434;35-happy;23
+2238;35th Av & Fillmore St;33.455665;-112.13435;35-happy;24
+2254;35th Av & Roosevelt St;33.459122;-112.134334;35-happy;25
+2267;35th Av & Moreland St;33.461552;-112.134358;35-happy;26
+2244;35th Av & McDowell Rd;33.466345;-112.13433;35-happy;27
+2252;35th Av & Palm Ln;33.469679;-112.13432;35-happy;28
+2236;35th Av & Encanto Bl;33.473633;-112.13428;35-happy;29
+2264;35th Av & Virginia Av;33.477278;-112.134267;35-happy;30
+2259;35th Av & Thomas Rd;33.480817;-112.134168;35-happy;31
+2233;35th Av & Earll Dr;33.484428;-112.134212;35-happy;32
+2251;35th Av & Osborn Rd;33.488074;-112.134187;35-happy;33
+2230;35th Av & Clarendon Av;33.492474;-112.134155;35-happy;34
+2214;35th Av & Monterosa Av;33.496901;-112.134058;35-happy;35
+2240;35th Av & Glenrosa Av;33.498892;-112.134105;35-happy;36
+2226;35th Av & Campbell Av;33.502655;-112.134084;35-happy;37
+2235;35th Av & Elm St;33.506569;-112.134075;35-happy;38
+2225;35th Av & Camelback Rd;33.510033;-112.134047;35-happy;39
+2211;35th Av & Colter St;33.513467;-112.134077;35-happy;40
+2245;35th Av & Missouri Av;33.517205;-112.1341;35-happy;41
+2246;35th Av & Montebello Av;33.520644;-112.134119;35-happy;42
+2220;35th Av & Bethany Home Rd;33.524845;-112.134103;35-happy;43
+2255;35th Av & Rose Ln;33.528113;-112.134135;35-happy;44
+2273;35th Av & Maryland Av;33.531714;-112.134104;35-happy;45
+2249;35th Av & Ocotillo Rd;33.535022;-112.134168;35-happy;46
+2239;35th Av & Glendale Av;33.539073;-112.134109;35-happy;47
+2247;35th Av & Myrtle Av;33.542529;-112.13419;35-happy;48
+2250;35th Av & Orangewood Av;33.546328;-112.134171;35-happy;49
+2266;35th Av & Frier Dr;33.549473;-112.134165;35-happy;50
+2248;35th Av & Northern Av;33.553682;-112.134038;35-happy;51
+2234;35th Av & El Camino Dr;33.557449;-112.134126;35-happy;52
+2223;35th Av & Butler Dr;33.560839;-112.134084;35-happy;53
+2217;35th Av & Alice Av;33.564205;-112.134099;35-happy;54
+2232;35th Av & Dunlap Av;33.568011;-112.134086;35-happy;55
+2237;35th Av & Eva St;33.571138;-112.134076;35-happy;56
+2243;35th Av & Malapai Dr;33.575653;-112.134002;35-happy;57
+6511;Cheryl Dr & 35th Av;33.57804;-112.133429;35-happy;58
+1223;Cheryl Dr & 33rd Av;33.578043;-112.129326;35-happy;59
+1224;Cheryl Dr & 3161 West;33.576289;-112.127195;35-happy;60
+3600;Metro Pkwy W & Cheryl Dr;33.575214;-112.124895;35-happy;61
+20113;Metro Pkwy W & Mission Ln;33.571865;-112.123435;35-happy;62
+20054;Metro Pkwy E & 9445 North;33.572988;-112.11879;35-happy;63
+6671;Thelda Williams TC;33.57503;-112.119202;35-happy;64
+2986;Metro Pkwy E & Cheryl Dr;33.576722;-112.118315;35-happy;65
+6219;Metro Pkwy E & 27th Av;33.579748;-112.119567;35-happy;66
+20114;Metro Pkwy W & 28th Dr;33.580265;-112.122497;35-happy;67
+3601;Metro Pkwy W & Cochise Dr;33.578499;-112.124534;35-happy;68
+6512;Cheryl Dr & Metro Pkwy;33.575967;-112.1254;35-happy;69
+6513;Cheryl Dr & 3161 West;33.57738;-112.127698;35-happy;70
+6510;Cheryl Dr & 32nd Ln;33.578199;-112.129486;35-happy;71
+2228;35th Av & Cheryl Dr;33.579009;-112.133985;35-happy;72
+2253;35th Av & Peoria Av;33.582387;-112.133941;35-happy;73
+2274;35th Av & Desert Cove Av;33.585028;-112.13395;35-happy;74
+2229;35th Av & Cholla St;33.589579;-112.133923;35-happy;75
+2257;35th Av & Sunnyside Av;33.593063;-112.133875;35-happy;76
+2224;35th Av & Cactus Rd;33.596974;-112.133783;35-happy;77
+2222;35th Av & Bloomfield Rd;33.598885;-112.133819;35-happy;78
+2258;35th Av & Sweetwater Av;33.604107;-112.133728;35-happy;79
+2215;35th Av & Willow Av;33.60693;-112.13373;35-happy;80
+2260;35th Av & Thunderbird Rd;33.611275;-112.133599;35-happy;81
+2242;35th Av & Hearn Rd;33.614821;-112.133656;35-happy;82
+2270;35th Av & Acoma Dr;33.618213;-112.133643;35-happy;83
+2231;35th Av & Country Gables Dr;33.622551;-112.133582;35-happy;84
+2241;35th Av & Greenway Rd;33.625912;-112.133465;35-happy;85
+2261;35th Av & Tierra Buena Ln;33.629255;-112.13352;35-happy;86
+2221;35th Av & Beverly Ln;33.633081;-112.133543;35-happy;87
+2216;35th Av & Aire Libre Av;33.636153;-112.133873;35-happy;88
+2219;35th Av & Bell Rd;33.640038;-112.13418;35-happy;89
+2227;35th Av & Campo Bello Dr;33.643382;-112.134279;35-happy;90
+2271;35th Av & Grovers Av;33.647827;-112.134311;35-happy;91
+2275;35th Av & Villa Rita Dr;33.650626;-112.134328;35-happy;92
+2262;35th Av & Union Hills Dr;33.655237;-112.134275;35-happy;93
+2272;35th Av & Kimberly Wy;33.658083;-112.13439;35-happy;94
+8140;35th Av & Yorkshire Dr;33.662596;-112.134439;35-happy;95
+8134;35th Av & Behrend Dr;33.666065;-112.134475;35-happy;96
+8133;35th Av & Beardsley Rd;33.670981;-112.134506;35-happy;97
+8136;35th Av & Irma Ln;33.675156;-112.134553;35-happy;98
+8138;35th Av & Rose Garden Ln;33.679267;-112.134586;35-happy;99
+8137;35th Av & Lone Cactus Dr;33.680823;-112.134591;35-happy;100
+8135;35th Av & Deer Valley Rd;33.684516;-112.134559;35-happy;101
+8139;35th Av & Williams Dr;33.691272;-112.134674;35-happy;102
+8141;35th Av & Parkside Ln;33.694289;-112.134707;35-happy;103
+8129;Pinnacle Peak Rd & 35th Av;33.698174;-112.13442;35-happy;104
+8130;Pinnacle Peak Rd & Hance Bl;33.698411;-112.130368;35-happy;105
+8142;29th Av & Pinnacle Peak Rd;33.701146;-112.121762;35-happy;106
+8131;29th Av & 24601 North;33.707747;-112.121824;35-happy;107
+8132;29th Av & Happy Valley Rd;33.710443;-112.121762;35-happy;108
+8127;Happy Valley Rd & 25th Av;33.712695;-112.11114;35-happy;109
+8128;Happy Valley Rd & 23rd Av;33.712667;-112.108092;35-happy;110
+20020;40th St & Baseline Rd;33.378705;-111.99544;32;1
+20021;40th St & Fremont Dr;33.381578;-111.995435;32;2
+20022;40th St & Vineyard Rd;33.385824;-111.995429;32;3
+20023;40th St & St Catherine Av;33.389104;-111.995416;32;4
+20024;40th St & Southern Av;33.392953;-111.995412;32;5
+20025;40th St & Sunland Av;33.396273;-111.995377;32;6
+20026;40th St & Roeser Rd;33.400287;-111.995315;32;7
+20027;40th St & Cotton Center Bl;33.404006;-111.995249;32;8
+20028;40th St & Broadway Rd;33.407877;-111.995243;32;9
+20029;40th St & Raymond St;33.413862;-111.995292;32;10
+20030;40th St & Miami Av;33.418642;-111.995311;32;11
+850;University Dr & 40th St;33.421784;-111.994295;32;12
+851;University Dr & 42nd St;33.421787;-111.990749;32;13
+6202;Washington St & 44th St;33.448426;-111.98793;32;14
+6186;Washington St & 41st Pl;33.448265;-111.992095;32;15
+6201;Washington St & 40th St;33.448264;-111.996102;32;16
+6199;Washington St & 38th St;33.448301;-111.999477;32;17
+6185;Washington St & 36th St;33.448294;-112.004418;32;18
+6184;Washington St & 34th St;33.448293;-112.00813;32;19
+8211;32nd St & Washington St;33.448756;-112.012776;32;20
+2203;32nd St & Van Buren St;33.451727;-112.01277;32;21
+2175;32nd St & Fillmore St;33.455038;-112.012787;32;22
+2197;32nd St & Roosevelt St;33.458872;-112.012741;32;23
+2173;32nd St & Belleview St;33.463003;-112.012788;32;24
+2190;32nd St & McDowell Rd;33.466248;-112.012752;32;25
+2195;32nd St & Palm Ln;33.469739;-112.012803;32;26
+2193;32nd St & Oak St;33.473455;-112.012802;32;27
+2204;32nd St & Yale St;33.476357;-112.012802;32;28
+2200;32nd St & Thomas Rd;33.480955;-112.012747;32;29
+2183;32nd St & Earll Dr;33.484671;-112.012808;32;30
+2194;32nd St & Osborn Rd;33.488154;-112.012832;32;31
+2182;32nd St & Clarendon Av;33.491982;-112.012858;32;32
+2189;32nd St & Indian School Rd;33.495554;-112.012867;32;33
+2185;32nd St & Glenrosa Av;33.499243;-112.012868;32;34
+8213;32nd St & Campbell Av;33.502884;-112.012867;32;35
+8214;32nd St & Highland Av;33.50677;-112.012878;32;36
+5556;Camelback Rd & 32nd St;33.510151;-112.013651;32;37
+5540;Camelback Rd & 2910 East;33.509983;-112.017868;32;38
+3878;28th St & Camelback Rd;33.509066;-112.021714;32;39
+8834;South Mountain CC North;33.383572;-112.033476;30;1
+8780;24th St & Fremont Rd;33.381304;-112.030389;30;2
+8063;Baseline Rd & 24th St;33.377587;-112.029734;30;3
+53;Baseline Rd & 27th St;33.377709;-112.02594;30;4
+8045;Baseline Rd & 28th St;33.377756;-112.022448;30;5
+7764;32nd St & Baseline Rd;33.378616;-112.012606;30;6
+7765;32nd St & Fremont Rd;33.382372;-112.012596;30;7
+7768;32nd St & Vineyard Rd;33.385053;-112.012544;30;8
+7767;32nd St & Southern Av;33.393085;-112.012471;30;9
+7766;32nd St & Roeser Rd;33.400247;-112.012555;30;10
+3204;32nd St & Wier Av;33.40381;-112.012504;30;11
+3205;32nd St & Broadway Rd;33.407728;-112.012453;30;12
+3207;32nd St & Wood St;33.409301;-112.012115;30;13
+3206;University Dr & Elwood St;33.415197;-112.008649;30;14
+865;University Dr & 3439 West;33.41742;-112.006086;30;15
+824;University Dr & 36th St;33.420848;-112.002835;30;16
+849;University Dr & 38th St;33.421858;-111.999142;30;17
+850;University Dr & 40th St;33.421784;-111.994295;30;18
+851;University Dr & 42nd St;33.421787;-111.990749;30;19
+852;University Dr & 44th St;33.421761;-111.986425;30;20
+853;University Dr & 48th St;33.421742;-111.98066;30;21
+1787;University Dr & 48th St;33.421771;-111.975727;30;22
+1788;University Dr & 52nd St;33.421812;-111.969109;30;23
+1791;University Dr & Edward Dr;33.421837;-111.965485;30;24
+1795;University Dr & Priest Dr;33.421837;-111.960113;30;25
+1790;University Dr & Beck Av;33.421811;-111.956166;30;26
+1793;University Dr & Hardy Dr;33.421782;-111.951519;30;27
+1794;University Dr & Mitchell Dr;33.421789;-111.94762;30;28
+1792;University Dr & Farmer Av;33.421757;-111.944605;30;29
+1789;University Dr & Maple Av;33.421813;-111.941515;30;30
+859;University Dr & Mill Av;33.421847;-111.939307;30;31
+860;University Dr & Myrtle Av;33.421847;-111.937421;30;32
+825;University Dr & College Av;33.421823;-111.934432;30;33
+867;University Dr & Palo Verde Dorms;33.421877;-111.93263;30;34
+863;University Dr & Rural Rd;33.421882;-111.925963;30;35
+864;University Dr & Athletes Pl;33.421906;-111.922113;30;36
+854;University Dr & Dorsey Ln;33.421899;-111.917305;30;37
+9418;University Dr & 1655 East;33.421843;-111.913035;30;38
+857;University Dr & McClintock Dr;33.421844;-111.908184;30;39
+858;University Dr & Perry Ln;33.421952;-111.903332;30;40
+871;University Dr & Smith Rd;33.421947;-111.899981;30;41
+862;University Dr & River Dr;33.421941;-111.895876;30;42
+870;University Dr & Price Rd;33.421812;-111.892335;30;43
+861;University Dr & 2300 East;33.421866;-111.889424;30;44
+872;University Dr & George Dr;33.421952;-111.887694;30;45
+855;University Dr & Evergreen Rd;33.421969;-111.882498;30;46
+869;University Dr & May;33.422002;-111.879955;30;47
+4582;Dobson Rd & University Dr;33.421578;-111.874562;30;48
+4574;Dobson Rd & 2nd St;33.418283;-111.87456;30;49
+30452;Sycamore/Main St TC;33.415724;-111.8703;30;50
+2875;Dobson Rd & Main St;33.415827;-111.874234;30;51
+8100;Dobson Rd & 2nd St;33.418552;-111.874202;30;52
+1778;University Dr & Dobson Rd;33.421998;-111.873973;30;53
+30527;University Dr & Sycamore;33.42207;-111.87044;30;54
+1781;University Dr & Longmore;33.422029;-111.864736;30;55
+1784;University Dr & Standage;33.422037;-111.860552;30;56
+1776;University Dr & Alma School Rd;33.421963;-111.855873;30;57
+1786;University Dr & Westwood;33.422104;-111.851779;30;58
+1797;University Dr & Extension Rd;33.422142;-111.8486;30;59
+1780;University Dr & Hosick;33.422202;-111.844878;30;60
+1777;University Dr & Country Club Dr;33.422232;-111.839421;30;61
+1783;University Dr & Robson;33.422223;-111.836207;30;62
+1782;University Dr & MacDonald;33.422242;-111.833612;30;63
+832;University Dr & Center St;33.422159;-111.830732;30;64
+836;University Dr & Hibbert;33.422189;-111.825832;30;65
+843;University Dr & Mesa Dr;33.422228;-111.822263;30;66
+820;University Dr & Olive;33.422259;-111.817883;30;67
+838;University Dr & Horne;33.422275;-111.813632;30;68
+844;University Dr & Miller St;33.422293;-111.809301;30;69
+846;University Dr & Stapley Dr;33.422305;-111.804966;30;70
+840;University Dr & Lazona Dr;33.422365;-111.800558;30;71
+839;University Dr & Hunt Dr;33.422411;-111.796867;30;72
+835;University Dr & Hall St;33.422474;-111.79303;30;73
+833;University Dr & Gilbert Rd;33.42246;-111.787297;30;74
+826;University Dr & 22nd Pl;33.422547;-111.782363;30;75
+827;University Dr & 25th St;33.422545;-111.77715;30;76
+848;University Dr & Yale;33.422564;-111.77328;30;77
+841;University Dr & Lindsay Rd;33.422531;-111.769815;30;78
+842;University Dr & Los Alamos;33.422579;-111.765738;30;79
+816;University Dr & Creston;33.422598;-111.761785;30;80
+866;University Dr & 3443 East;33.42263;-111.757011;30;81
+847;University Dr & Val Vista Dr;33.422623;-111.752846;30;82
+817;University Dr & Maple;33.422639;-111.747871;30;83
+818;University Dr & Nassau;33.422661;-111.744217;30;84
+819;University Dr & 4225 East;33.422655;-111.73992;30;85
+834;University Dr & Greenfield Rd;33.422651;-111.735908;30;86
+7620;University Dr & Quinn;33.422696;-111.732199;30;87
+821;University Dr & 4700 East;33.422707;-111.7288;30;88
+822;University Dr & Roanoke;33.422731;-111.726448;30;89
+823;University Dr & St Paul;33.422713;-111.721717;30;90
+837;University Dr & Higley Rd;33.422671;-111.718555;30;91
+828;University Dr & 54th St;33.422677;-111.715051;30;92
+829;University Dr & 56th St;33.422677;-111.710069;30;93
+830;University Dr & 58th St;33.422699;-111.705756;30;94
+845;University Dr & Recker Rd;33.422709;-111.701524;30;95
+831;University Dr & 64th St;33.422807;-111.692871;30;96
+9488;University Dr & Power Rd;33.422767;-111.683448;30;97
+8991;Pima Park;33.480599;-111.894517;29-desert;1
+5999;Thomas Rd & 86th St;33.48049;-111.896602;29-desert;2
+6014;Thomas Rd & 83rd Pl;33.480459;-111.90179;29-desert;3
+6001;Thomas Rd & Hayden Rd;33.480506;-111.90988;29-desert;4
+6002;Thomas Rd & Miller Rd;33.480494;-111.917939;29-desert;5
+6000;Thomas Rd & Civic Center Plz;33.48048;-111.92236;29-desert;6
+6003;Thomas Rd & Scottsdale Rd;33.480509;-111.927192;29-desert;7
+6008;Thomas Rd & 70th St;33.48042;-111.931636;29-desert;8
+5996;Thomas Rd & 68th St;33.480382;-111.935177;29-desert;9
+6007;Thomas Rd & 6504 East;33.480345;-111.939447;29-desert;10
+6006;Thomas Rd & 64th St;33.48031;-111.943562;29-desert;11
+6005;Thomas Rd & 61st Pl;33.480229;-111.950623;29-desert;12
+6013;Thomas Rd & Tangerine Dr;33.480181;-111.957056;29-desert;13
+5995;Thomas Rd & 56th St;33.480125;-111.961543;29-desert;14
+5994;Thomas Rd & 54th St;33.480141;-111.965638;29-desert;15
+5993;Thomas Rd & 52nd St;33.480158;-111.97034;29-desert;16
+5976;Thomas Rd & St Theresa;33.480172;-111.973047;29-desert;17
+6012;Thomas Rd & 47th Pl;33.480217;-111.979403;29-desert;18
+5992;Thomas Rd & 46th St;33.480306;-111.982985;29-desert;19
+5991;Thomas Rd & 44th St;33.480392;-111.987655;29-desert;20
+5990;Thomas Rd & 42nd St;33.480476;-111.991611;29-desert;21
+5989;Thomas Rd & 40th St;33.480523;-111.996393;29-desert;22
+5987;Thomas Rd & 39th St;33.480534;-111.999213;29-desert;23
+5986;Thomas Rd & 36th St;33.480583;-112.004668;29-desert;24
+5974;Thomas Rd & 34th St;33.480573;-112.009055;29-desert;25
+5985;Thomas Rd & 32nd St;33.480624;-112.013646;29-desert;26
+5973;Thomas Rd & 31st St;33.480565;-112.015592;29-desert;27
+5984;Thomas Rd & 30th St;33.48054;-112.017614;29-desert;28
+5983;Thomas Rd & 28th St;33.480491;-112.022089;29-desert;29
+5982;Thomas Rd & 26th St;33.480449;-112.026117;29-desert;30
+5981;Thomas Rd & 24th St;33.480448;-112.030757;29-desert;31
+6010;Thomas Rd & 22nd St;33.480381;-112.034868;29-desert;32
+6015;Thomas Rd & 21st St;33.480488;-112.037039;29-desert;33
+5980;Thomas Rd & 20th St;33.480477;-112.039774;29-desert;34
+5979;Thomas Rd & 18th St;33.480329;-112.044219;29-desert;35
+5978;Thomas Rd & 16th St;33.480346;-112.048025;29-desert;36
+5977;Thomas Rd & 14th St;33.480312;-112.051348;29-desert;37
+5972;Thomas Rd & 12th St;33.48032;-112.0569;29-desert;38
+5975;Thomas Rd & Dayton St;33.480307;-112.060002;29-desert;39
+5998;Thomas Rd & 7th St;33.480336;-112.06555;29-desert;40
+5988;Thomas Rd & 3rd St;33.480332;-112.070005;29-desert;41
+7020;Thomas Rd & Central Av;33.480415;-112.074385;29-desert;42
+6995;Thomas Rd & 1st Av;33.480395;-112.075565;29-desert;43
+7010;Thomas Rd & 5th Av;33.480452;-112.08095;29-desert;44
+7018;Thomas Rd & 7th Av;33.480493;-112.083433;29-desert;45
+6991;Thomas Rd & 11th Av;33.480515;-112.087513;29-desert;46
+6986;Thomas Rd & 13th Av;33.480596;-112.089653;29-desert;47
+6992;Thomas Rd & 15th Av;33.480626;-112.091759;29-desert;48
+6993;Thomas Rd & 17th Av;33.480622;-112.096199;29-desert;49
+6994;Thomas Rd & 19th Av;33.480755;-112.100438;29-desert;50
+6996;Thomas Rd & 21st Av;33.48077;-112.105467;29-desert;51
+6997;Thomas Rd & 23rd Av;33.480785;-112.108959;29-desert;52
+7031;Thomas Rd & 26th Av;33.480649;-112.114654;29-desert;53
+7021;Thomas Rd & 27th Av;33.480534;-112.118486;29-desert;54
+6998;Thomas Rd & 29th Dr;33.48053;-112.122362;29-desert;55
+6999;Thomas Rd & 31st Av;33.480536;-112.12617;29-desert;56
+7000;Thomas Rd & 33rd Av;33.480602;-112.1306;29-desert;57
+7001;Thomas Rd & 35th Av;33.480587;-112.135147;29-desert;58
+7025;Thomas Rd & 37th Av;33.480539;-112.138169;29-desert;59
+7026;Thomas Rd & 39th Av;33.480579;-112.142643;29-desert;60
+7027;Thomas Rd & 41st Av;33.480576;-112.147708;29-desert;61
+7002;Thomas Rd & 43rd Av;33.480623;-112.152341;29-desert;62
+7028;Thomas Rd & 44th Ln;33.480585;-112.15537;29-desert;63
+7003;Thomas Rd & 46th Dr;33.480594;-112.158583;29-desert;64
+7004;Thomas Rd & 48th Dr;33.480621;-112.162892;29-desert;65
+6987;Thomas Rd & 50th Dr;33.480606;-112.16632;29-desert;66
+7005;Thomas Rd & 51st Av;33.480621;-112.169752;29-desert;67
+7006;Thomas Rd & 53rd Av;33.480601;-112.174069;29-desert;68
+7007;Thomas Rd & 55th Av;33.480622;-112.178413;29-desert;69
+7008;Thomas Rd & 57th Av;33.480641;-112.182573;29-desert;70
+7009;Thomas Rd & 59th Av;33.480648;-112.186903;29-desert;71
+7011;Thomas Rd & 61st Av;33.480593;-112.191226;29-desert;72
+7029;Thomas Rd & 63rd Dr;33.480573;-112.195647;29-desert;73
+6988;Thomas Rd & 65th Av;33.480486;-112.199731;29-desert;74
+7012;Thomas Rd & 67th Av;33.480495;-112.203884;29-desert;75
+7013;Thomas Rd & 69th Av;33.480438;-112.208123;29-desert;76
+7014;Thomas Rd & 71st Av;33.480399;-112.212492;29-desert;77
+6989;Thomas Rd & 72nd Dr;33.480373;-112.215886;29-desert;78
+7015;Thomas Rd & 75th Av;33.480367;-112.221476;29-desert;79
+1775;Desert Sky TC;33.479007;-112.228812;29-desert;80
+8991;Pima Park;33.480599;-111.894517;29-93rd;1
+5999;Thomas Rd & 86th St;33.48049;-111.896602;29-93rd;2
+6014;Thomas Rd & 83rd Pl;33.480459;-111.90179;29-93rd;3
+6001;Thomas Rd & Hayden Rd;33.480506;-111.90988;29-93rd;4
+6002;Thomas Rd & Miller Rd;33.480494;-111.917939;29-93rd;5
+6000;Thomas Rd & Civic Center Plz;33.48048;-111.92236;29-93rd;6
+6003;Thomas Rd & Scottsdale Rd;33.480509;-111.927192;29-93rd;7
+6008;Thomas Rd & 70th St;33.48042;-111.931636;29-93rd;8
+5996;Thomas Rd & 68th St;33.480382;-111.935177;29-93rd;9
+6007;Thomas Rd & 6504 East;33.480345;-111.939447;29-93rd;10
+6006;Thomas Rd & 64th St;33.48031;-111.943562;29-93rd;11
+6005;Thomas Rd & 61st Pl;33.480229;-111.950623;29-93rd;12
+6013;Thomas Rd & Tangerine Dr;33.480181;-111.957056;29-93rd;13
+5995;Thomas Rd & 56th St;33.480125;-111.961543;29-93rd;14
+5994;Thomas Rd & 54th St;33.480141;-111.965638;29-93rd;15
+5993;Thomas Rd & 52nd St;33.480158;-111.97034;29-93rd;16
+5976;Thomas Rd & St Theresa;33.480172;-111.973047;29-93rd;17
+6012;Thomas Rd & 47th Pl;33.480217;-111.979403;29-93rd;18
+5992;Thomas Rd & 46th St;33.480306;-111.982985;29-93rd;19
+5991;Thomas Rd & 44th St;33.480392;-111.987655;29-93rd;20
+5990;Thomas Rd & 42nd St;33.480476;-111.991611;29-93rd;21
+5989;Thomas Rd & 40th St;33.480523;-111.996393;29-93rd;22
+5987;Thomas Rd & 39th St;33.480534;-111.999213;29-93rd;23
+5986;Thomas Rd & 36th St;33.480583;-112.004668;29-93rd;24
+5974;Thomas Rd & 34th St;33.480573;-112.009055;29-93rd;25
+5985;Thomas Rd & 32nd St;33.480624;-112.013646;29-93rd;26
+5973;Thomas Rd & 31st St;33.480565;-112.015592;29-93rd;27
+5984;Thomas Rd & 30th St;33.48054;-112.017614;29-93rd;28
+5983;Thomas Rd & 28th St;33.480491;-112.022089;29-93rd;29
+5982;Thomas Rd & 26th St;33.480449;-112.026117;29-93rd;30
+5981;Thomas Rd & 24th St;33.480448;-112.030757;29-93rd;31
+6010;Thomas Rd & 22nd St;33.480381;-112.034868;29-93rd;32
+6015;Thomas Rd & 21st St;33.480488;-112.037039;29-93rd;33
+5980;Thomas Rd & 20th St;33.480477;-112.039774;29-93rd;34
+5979;Thomas Rd & 18th St;33.480329;-112.044219;29-93rd;35
+5978;Thomas Rd & 16th St;33.480346;-112.048025;29-93rd;36
+5977;Thomas Rd & 14th St;33.480312;-112.051348;29-93rd;37
+5972;Thomas Rd & 12th St;33.48032;-112.0569;29-93rd;38
+5975;Thomas Rd & Dayton St;33.480307;-112.060002;29-93rd;39
+5998;Thomas Rd & 7th St;33.480336;-112.06555;29-93rd;40
+5988;Thomas Rd & 3rd St;33.480332;-112.070005;29-93rd;41
+7020;Thomas Rd & Central Av;33.480415;-112.074385;29-93rd;42
+6995;Thomas Rd & 1st Av;33.480395;-112.075565;29-93rd;43
+7010;Thomas Rd & 5th Av;33.480452;-112.08095;29-93rd;44
+7018;Thomas Rd & 7th Av;33.480493;-112.083433;29-93rd;45
+6991;Thomas Rd & 11th Av;33.480515;-112.087513;29-93rd;46
+6986;Thomas Rd & 13th Av;33.480596;-112.089653;29-93rd;47
+6992;Thomas Rd & 15th Av;33.480626;-112.091759;29-93rd;48
+6993;Thomas Rd & 17th Av;33.480622;-112.096199;29-93rd;49
+6994;Thomas Rd & 19th Av;33.480755;-112.100438;29-93rd;50
+6996;Thomas Rd & 21st Av;33.48077;-112.105467;29-93rd;51
+6997;Thomas Rd & 23rd Av;33.480785;-112.108959;29-93rd;52
+7031;Thomas Rd & 26th Av;33.480649;-112.114654;29-93rd;53
+7021;Thomas Rd & 27th Av;33.480534;-112.118486;29-93rd;54
+6998;Thomas Rd & 29th Dr;33.48053;-112.122362;29-93rd;55
+6999;Thomas Rd & 31st Av;33.480536;-112.12617;29-93rd;56
+7000;Thomas Rd & 33rd Av;33.480602;-112.1306;29-93rd;57
+7001;Thomas Rd & 35th Av;33.480587;-112.135147;29-93rd;58
+7025;Thomas Rd & 37th Av;33.480539;-112.138169;29-93rd;59
+7026;Thomas Rd & 39th Av;33.480579;-112.142643;29-93rd;60
+7027;Thomas Rd & 41st Av;33.480576;-112.147708;29-93rd;61
+7002;Thomas Rd & 43rd Av;33.480623;-112.152341;29-93rd;62
+7028;Thomas Rd & 44th Ln;33.480585;-112.15537;29-93rd;63
+7003;Thomas Rd & 46th Dr;33.480594;-112.158583;29-93rd;64
+7004;Thomas Rd & 48th Dr;33.480621;-112.162892;29-93rd;65
+6987;Thomas Rd & 50th Dr;33.480606;-112.16632;29-93rd;66
+7005;Thomas Rd & 51st Av;33.480621;-112.169752;29-93rd;67
+7006;Thomas Rd & 53rd Av;33.480601;-112.174069;29-93rd;68
+7007;Thomas Rd & 55th Av;33.480622;-112.178413;29-93rd;69
+7008;Thomas Rd & 57th Av;33.480641;-112.182573;29-93rd;70
+7009;Thomas Rd & 59th Av;33.480648;-112.186903;29-93rd;71
+7011;Thomas Rd & 61st Av;33.480593;-112.191226;29-93rd;72
+7029;Thomas Rd & 63rd Dr;33.480573;-112.195647;29-93rd;73
+6988;Thomas Rd & 65th Av;33.480486;-112.199731;29-93rd;74
+7012;Thomas Rd & 67th Av;33.480495;-112.203884;29-93rd;75
+7013;Thomas Rd & 69th Av;33.480438;-112.208123;29-93rd;76
+7014;Thomas Rd & 71st Av;33.480399;-112.212492;29-93rd;77
+6989;Thomas Rd & 72nd Dr;33.480373;-112.215886;29-93rd;78
+7015;Thomas Rd & 75th Av;33.480367;-112.221476;29-93rd;79
+1775;Desert Sky TC;33.479007;-112.228812;29-93rd;80
+7019;Thomas Rd & 81st Av;33.480036;-112.232575;29-93rd;81
+7805;Thomas Rd & 83rd Av;33.479972;-112.238513;29-93rd;82
+7806;Thomas Rd & 86th Dr;33.479875;-112.244546;29-93rd;83
+7807;Thomas Rd & 87th Av;33.479862;-112.246965;29-93rd;84
+7808;Thomas Rd & 89th Av;33.479837;-112.251285;29-93rd;85
+20064;Thomas Rd & 91st Av;33.479866;-112.255838;29-93rd;86
+20065;Thomas Rd & 93rd Av;33.479745;-112.26014;29-93rd;87
+5991;Thomas Rd & 44th St;33.480392;-111.987655;29-51st;1
+5990;Thomas Rd & 42nd St;33.480476;-111.991611;29-51st;2
+5989;Thomas Rd & 40th St;33.480523;-111.996393;29-51st;3
+5987;Thomas Rd & 39th St;33.480534;-111.999213;29-51st;4
+5986;Thomas Rd & 36th St;33.480583;-112.004668;29-51st;5
+5974;Thomas Rd & 34th St;33.480573;-112.009055;29-51st;6
+5985;Thomas Rd & 32nd St;33.480624;-112.013646;29-51st;7
+5973;Thomas Rd & 31st St;33.480565;-112.015592;29-51st;8
+5984;Thomas Rd & 30th St;33.48054;-112.017614;29-51st;9
+5983;Thomas Rd & 28th St;33.480491;-112.022089;29-51st;10
+5982;Thomas Rd & 26th St;33.480449;-112.026117;29-51st;11
+5981;Thomas Rd & 24th St;33.480448;-112.030757;29-51st;12
+6010;Thomas Rd & 22nd St;33.480381;-112.034868;29-51st;13
+6015;Thomas Rd & 21st St;33.480488;-112.037039;29-51st;14
+5980;Thomas Rd & 20th St;33.480477;-112.039774;29-51st;15
+5979;Thomas Rd & 18th St;33.480329;-112.044219;29-51st;16
+5978;Thomas Rd & 16th St;33.480346;-112.048025;29-51st;17
+5977;Thomas Rd & 14th St;33.480312;-112.051348;29-51st;18
+5972;Thomas Rd & 12th St;33.48032;-112.0569;29-51st;19
+5975;Thomas Rd & Dayton St;33.480307;-112.060002;29-51st;20
+5998;Thomas Rd & 7th St;33.480336;-112.06555;29-51st;21
+5988;Thomas Rd & 3rd St;33.480332;-112.070005;29-51st;22
+7020;Thomas Rd & Central Av;33.480415;-112.074385;29-51st;23
+6995;Thomas Rd & 1st Av;33.480395;-112.075565;29-51st;24
+7010;Thomas Rd & 5th Av;33.480452;-112.08095;29-51st;25
+7018;Thomas Rd & 7th Av;33.480493;-112.083433;29-51st;26
+6991;Thomas Rd & 11th Av;33.480515;-112.087513;29-51st;27
+6986;Thomas Rd & 13th Av;33.480596;-112.089653;29-51st;28
+6992;Thomas Rd & 15th Av;33.480626;-112.091759;29-51st;29
+6993;Thomas Rd & 17th Av;33.480622;-112.096199;29-51st;30
+6994;Thomas Rd & 19th Av;33.480755;-112.100438;29-51st;31
+6996;Thomas Rd & 21st Av;33.48077;-112.105467;29-51st;32
+6997;Thomas Rd & 23rd Av;33.480785;-112.108959;29-51st;33
+7031;Thomas Rd & 26th Av;33.480649;-112.114654;29-51st;34
+7021;Thomas Rd & 27th Av;33.480534;-112.118486;29-51st;35
+6998;Thomas Rd & 29th Dr;33.48053;-112.122362;29-51st;36
+6999;Thomas Rd & 31st Av;33.480536;-112.12617;29-51st;37
+7000;Thomas Rd & 33rd Av;33.480602;-112.1306;29-51st;38
+7001;Thomas Rd & 35th Av;33.480587;-112.135147;29-51st;39
+7025;Thomas Rd & 37th Av;33.480539;-112.138169;29-51st;40
+7026;Thomas Rd & 39th Av;33.480579;-112.142643;29-51st;41
+7027;Thomas Rd & 41st Av;33.480576;-112.147708;29-51st;42
+7002;Thomas Rd & 43rd Av;33.480623;-112.152341;29-51st;43
+7028;Thomas Rd & 44th Ln;33.480585;-112.15537;29-51st;44
+7003;Thomas Rd & 46th Dr;33.480594;-112.158583;29-51st;45
+7004;Thomas Rd & 48th Dr;33.480621;-112.162892;29-51st;46
+6987;Thomas Rd & 50th Dr;33.480606;-112.16632;29-51st;47
+7005;Thomas Rd & 51st Av;33.480621;-112.169752;29-51st;48
+20085;Lower Buckeye Rd & 99th Av;33.420957;-112.271598;28;1
+20086;Lower Buckeye Rd & 97th Av;33.421015;-112.267815;28;2
+20087;Lower Buckeye Rd & 95th Av;33.421044;-112.263579;28;3
+20088;Lower Buckeye Rd & 93rd Ln;33.42105;-112.260209;28;4
+20089;Lower Buckeye Rd & 91st Av;33.421084;-112.255082;28;5
+20090;Lower Buckeye Rd & 90th Av;33.421437;-112.251831;28;6
+20091;Lower Buckeye Rd & 87th Ln;33.421671;-112.249457;28;7
+20092;Lower Buckeye Rd & 87th Av;33.421993;-112.2466;28;8
+20093;Lower Buckeye Rd & 85th Av;33.422427;-112.242467;28;9
+20094;Lower Buckeye Rd & 81st Av;33.422849;-112.233006;28;10
+20095;Lower Buckeye Rd & 79th Av;33.422835;-112.229123;28;11
+20096;Lower Buckeye Rd & 7650 West;33.42282;-112.224919;28;12
+8785;Lower Buckeye Rd & 75th Av;33.422812;-112.220603;28;13
+7989;Lower Buckeye Rd & 73rd Dr;33.422816;-112.217441;28;14
+20119;Lower Buckeye Rd & 71st Av;33.422793;-112.212829;28;15
+20120;Lower Buckeye Rd & 69th Av;33.422792;-112.207855;28;16
+20109;Lower Buckeye Rd & 67th Av;33.422708;-112.20355;28;17
+9405;Lower Buckeye Rd & 65th Dr;33.422647;-112.199618;28;18
+9407;Lower Buckeye Rd & 57th Av;33.422328;-112.181516;28;19
+9408;Lower Buckeye Rd & 55th Av;33.422222;-112.177232;28;20
+9409;Lower Buckeye Rd & 53rd Av;33.422193;-112.173555;28;21
+9410;Lower Buckeye Rd & 51st Av;33.422109;-112.168505;28;22
+9411;Lower Buckeye Rd & 49th Av;33.422199;-112.165465;28;23
+9583;Lower Buckeye Rd & 43rd Av;33.422392;-112.151169;28;24
+9412;Lower Buckeye Rd & 39th Av;33.422489;-112.142735;28;25
+9413;Lower Buckeye Rd & 37th Av;33.422424;-112.139012;28;26
+9181;Lower Buckeye Rd & 35th Av;33.422305;-112.133675;28;27
+8071;Lower Buckeye Rd & 32nd Av;33.422303;-112.130581;28;28
+8072;Lower Buckeye Rd & 31st Av;33.422271;-112.128066;28;29
+9184;Lower Buckeye Rd & 27th Av;33.422262;-112.116651;28;30
+7602;22nd Av & Lower Buckeye Rd;33.423149;-112.106145;28;31
+9183;Lower Buckeye Rd & 27th Av;33.422463;-112.116788;27-rose;1
+8053;27th Av & Durango St;33.430139;-112.117125;27-rose;2
+8054;27th Av & Pima St;33.433472;-112.117147;27-rose;3
+8055;27th Av & Buckeye Rd;33.437251;-112.117191;27-rose;4
+8056;27th Av & Lincoln St;33.442624;-112.117349;27-rose;5
+8788;27th Av & Jefferson St;33.447596;-112.117392;27-rose;6
+2124;27th Av & Adams St;33.449618;-112.117401;27-rose;7
+2121;27th Av & Van Buren St;33.451702;-112.117385;27-rose;8
+2126;27th Av & Fillmore St;33.455101;-112.117314;27-rose;9
+2128;27th Av & Roosevelt St;33.459065;-112.117191;27-rose;10
+2123;27th Av & I-10 Fwy;33.462864;-112.117078;27-rose;11
+2112;27th Av & McDowell Rd;33.466346;-112.116985;27-rose;12
+2119;27th Av & Palm Ln;33.469905;-112.116997;27-rose;13
+2106;27th Av & Encanto Bl;33.473875;-112.11698;27-rose;14
+2122;27th Av & Virginia Av;33.477392;-112.116957;27-rose;15
+2120;27th Av & Thomas Rd;33.481006;-112.116875;27-rose;16
+2105;27th Av & Earll Dr;33.484267;-112.11693;27-rose;17
+2118;27th Av & Osborn Rd;33.488301;-112.11694;27-rose;18
+2099;27th Av & Weldon Av;33.490979;-112.116934;27-rose;19
+2110;27th Av & Indian School Rd;33.495406;-112.116885;27-rose;20
+2108;27th Av & Glenrosa Av;33.498889;-112.116905;27-rose;21
+2102;27th Av & Campbell Av;33.502816;-112.116887;27-rose;22
+2109;27th Av & Highland Av;33.506303;-112.11687;27-rose;23
+2101;27th Av & Camelback Rd;33.50977;-112.11684;27-rose;24
+2104;27th Av & Colter St;33.513618;-112.116843;27-rose;25
+2113;27th Av & Missouri Av;33.517221;-112.116822;27-rose;26
+2114;27th Av & Montebello Av;33.520729;-112.1168;27-rose;27
+2100;27th Av & Bethany Home Rd;33.524565;-112.116732;27-rose;28
+2103;27th Av & Claremont St;33.529022;-112.116787;27-rose;29
+2111;27th Av & Maryland Av;33.531932;-112.116788;27-rose;30
+2129;27th Av & Ocotillo Rd;33.53463;-112.116783;27-rose;31
+2107;27th Av & Glendale Av;33.538977;-112.116743;27-rose;32
+2115;27th Av & Myrtle Av;33.542463;-112.116828;27-rose;33
+2117;27th Av & Orangewood Av;33.546295;-112.116837;27-rose;34
+2125;27th Av & Belmont Av;33.549522;-112.116845;27-rose;35
+2116;27th Av & Northern Av;33.553752;-112.116792;27-rose;36
+2127;27th Av & Griswold Rd;33.557142;-112.116858;27-rose;37
+6421;Butler Dr & 27th Av;33.56041;-112.117522;27-rose;38
+7710;Butler Dr & 29th Av;33.560411;-112.121559;27-rose;39
+7699;Butler Dr & 31st Av;33.560412;-112.125074;27-rose;40
+7700;31st Av & Diana Av;33.561458;-112.125475;27-rose;41
+7701;31st Av & 8727 North;33.564808;-112.125463;27-rose;42
+1240;Dunlap Av & 31st Av;33.567455;-112.125184;27-rose;43
+2154;29th Av & Dunlap Av;33.568719;-112.120743;27-rose;44
+20054;Metro Pkwy E & 9445 North;33.572988;-112.11879;27-rose;45
+6670;Thelda Williams TC;33.575026;-112.118906;27-rose;46
+2986;Metro Pkwy E & Cheryl Dr;33.576722;-112.118315;27-rose;47
+6219;Metro Pkwy E & 27th Av;33.579748;-112.119567;27-rose;48
+2136;28th Dr & Peoria Av;33.582478;-112.121927;27-rose;49
+2139;28th Dr & Mercer Ln;33.585507;-112.12193;27-rose;50
+7615;28th Dr & 11221 North;33.588276;-112.121213;27-rose;51
+2137;28th Dr & 11459 North;33.590885;-112.119068;27-rose;52
+2135;28th Dr & Laurel Ln;33.594471;-112.119954;27-rose;53
+2133;28th Dr & Cactus Rd;33.596866;-112.120001;27-rose;54
+2134;28th Dr & Larkspur Dr;33.600387;-112.119667;27-rose;55
+2138;28th Dr & Windrose Dr;33.602307;-112.119642;27-rose;56
+6985;Sweetwater Av & 29th Av;33.603698;-112.121931;27-rose;57
+2169;31st Av & Sweetwater Av;33.603982;-112.125163;27-rose;58
+2160;31st Av & Willow Av;33.607009;-112.125127;27-rose;59
+2171;31st Av & Calavar Rd;33.61168;-112.125072;27-rose;60
+2166;31st Av & Hearn Rd;33.614814;-112.125052;27-rose;61
+2161;31st Av & Acoma Dr;33.617929;-112.125033;27-rose;62
+1226;Country Gables Dr & 31st Av;33.620994;-112.124124;27-rose;63
+2153;29th Av & Country Gables Dr;33.619437;-112.12062;27-rose;64
+2152;29th Av & Banff Ln;33.621006;-112.120264;27-rose;65
+2157;29th Av & Greenway Rd;33.625681;-112.120196;27-rose;66
+2131;28th Av & 28th Dr;33.627565;-112.118154;27-rose;67
+2130;28th Av & Kathleen Rd;33.630749;-112.118016;27-rose;68
+7617;28th Av & 16215 North;33.633241;-112.118962;27-rose;69
+2132;28th Av & Kelton Ln;33.635513;-112.118592;27-rose;70
+2151;29th Av & Phelps Rd;33.637878;-112.121164;27-rose;71
+2954;Holmes Bl & Bell Rd;33.640423;-112.121119;27-rose;72
+2952;Holmes Bl & Anderson Dr;33.643638;-112.119691;27-rose;73
+2953;Holmes Bl & Angela Dr;33.645088;-112.11797;27-rose;74
+8157;27th Av & Grovers Av;33.647941;-112.117014;27-rose;75
+8158;27th Av & Villa Maria Dr;33.652337;-112.117024;27-rose;76
+7071;Union Hills Dr & 27th Av;33.654826;-112.117819;27-rose;77
+7072;Union Hills Dr & 29th Av;33.65477;-112.122107;27-rose;78
+7074;Union Hills Dr & 31st Av;33.65478;-112.12639;27-rose;79
+7075;Union Hills Dr & 33rd Av;33.654769;-112.129804;27-rose;80
+2262;35th Av & Union Hills Dr;33.655237;-112.134275;27-rose;81
+2272;35th Av & Kimberly Wy;33.658083;-112.13439;27-rose;82
+1851;Yorkshire Dr & 35th Av;33.661918;-112.13379;27-rose;83
+1850;Yorkshire Dr & 33rd Av;33.661987;-112.130557;27-rose;84
+1849;Yorkshire Dr & 31st Av;33.662684;-112.125088;27-rose;85
+1853;Yorkshire Dr & 27th Av;33.662601;-112.117548;27-rose;86
+1852;Utopia Rd & 2355 West;33.661855;-112.110554;27-rose;87
+2064;23rd Av & Marco Polo Rd;33.666763;-112.108515;27-rose;88
+2062;23rd Av & Beardsley Rd;33.669864;-112.108457;27-rose;89
+8030;23rd Av & Rose Garden Ln;33.676876;-112.108516;27-rose;90
+9183;Lower Buckeye Rd & 27th Av;33.422463;-112.116788;27-deer;1
+8053;27th Av & Durango St;33.430139;-112.117125;27-deer;2
+8054;27th Av & Pima St;33.433472;-112.117147;27-deer;3
+8055;27th Av & Buckeye Rd;33.437251;-112.117191;27-deer;4
+8056;27th Av & Lincoln St;33.442624;-112.117349;27-deer;5
+8788;27th Av & Jefferson St;33.447596;-112.117392;27-deer;6
+2124;27th Av & Adams St;33.449618;-112.117401;27-deer;7
+2121;27th Av & Van Buren St;33.451702;-112.117385;27-deer;8
+2126;27th Av & Fillmore St;33.455101;-112.117314;27-deer;9
+2128;27th Av & Roosevelt St;33.459065;-112.117191;27-deer;10
+2123;27th Av & I-10 Fwy;33.462864;-112.117078;27-deer;11
+2112;27th Av & McDowell Rd;33.466346;-112.116985;27-deer;12
+2119;27th Av & Palm Ln;33.469905;-112.116997;27-deer;13
+2106;27th Av & Encanto Bl;33.473875;-112.11698;27-deer;14
+2122;27th Av & Virginia Av;33.477392;-112.116957;27-deer;15
+2120;27th Av & Thomas Rd;33.481006;-112.116875;27-deer;16
+2105;27th Av & Earll Dr;33.484267;-112.11693;27-deer;17
+2118;27th Av & Osborn Rd;33.488301;-112.11694;27-deer;18
+2099;27th Av & Weldon Av;33.490979;-112.116934;27-deer;19
+2110;27th Av & Indian School Rd;33.495406;-112.116885;27-deer;20
+2108;27th Av & Glenrosa Av;33.498889;-112.116905;27-deer;21
+2102;27th Av & Campbell Av;33.502816;-112.116887;27-deer;22
+2109;27th Av & Highland Av;33.506303;-112.11687;27-deer;23
+2101;27th Av & Camelback Rd;33.50977;-112.11684;27-deer;24
+2104;27th Av & Colter St;33.513618;-112.116843;27-deer;25
+2113;27th Av & Missouri Av;33.517221;-112.116822;27-deer;26
+2114;27th Av & Montebello Av;33.520729;-112.1168;27-deer;27
+2100;27th Av & Bethany Home Rd;33.524565;-112.116732;27-deer;28
+2103;27th Av & Claremont St;33.529022;-112.116787;27-deer;29
+2111;27th Av & Maryland Av;33.531932;-112.116788;27-deer;30
+2129;27th Av & Ocotillo Rd;33.53463;-112.116783;27-deer;31
+2107;27th Av & Glendale Av;33.538977;-112.116743;27-deer;32
+2115;27th Av & Myrtle Av;33.542463;-112.116828;27-deer;33
+2117;27th Av & Orangewood Av;33.546295;-112.116837;27-deer;34
+2125;27th Av & Belmont Av;33.549522;-112.116845;27-deer;35
+2116;27th Av & Northern Av;33.553752;-112.116792;27-deer;36
+2127;27th Av & Griswold Rd;33.557142;-112.116858;27-deer;37
+6421;Butler Dr & 27th Av;33.56041;-112.117522;27-deer;38
+7710;Butler Dr & 29th Av;33.560411;-112.121559;27-deer;39
+7699;Butler Dr & 31st Av;33.560412;-112.125074;27-deer;40
+7700;31st Av & Diana Av;33.561458;-112.125475;27-deer;41
+7701;31st Av & 8727 North;33.564808;-112.125463;27-deer;42
+1240;Dunlap Av & 31st Av;33.567455;-112.125184;27-deer;43
+2154;29th Av & Dunlap Av;33.568719;-112.120743;27-deer;44
+20054;Metro Pkwy E & 9445 North;33.572988;-112.11879;27-deer;45
+6670;Thelda Williams TC;33.575026;-112.118906;27-deer;46
+2986;Metro Pkwy E & Cheryl Dr;33.576722;-112.118315;27-deer;47
+6219;Metro Pkwy E & 27th Av;33.579748;-112.119567;27-deer;48
+2136;28th Dr & Peoria Av;33.582478;-112.121927;27-deer;49
+2139;28th Dr & Mercer Ln;33.585507;-112.12193;27-deer;50
+7615;28th Dr & 11221 North;33.588276;-112.121213;27-deer;51
+2137;28th Dr & 11459 North;33.590885;-112.119068;27-deer;52
+2135;28th Dr & Laurel Ln;33.594471;-112.119954;27-deer;53
+2133;28th Dr & Cactus Rd;33.596866;-112.120001;27-deer;54
+2134;28th Dr & Larkspur Dr;33.600387;-112.119667;27-deer;55
+2138;28th Dr & Windrose Dr;33.602307;-112.119642;27-deer;56
+6985;Sweetwater Av & 29th Av;33.603698;-112.121931;27-deer;57
+2169;31st Av & Sweetwater Av;33.603982;-112.125163;27-deer;58
+2160;31st Av & Willow Av;33.607009;-112.125127;27-deer;59
+2171;31st Av & Calavar Rd;33.61168;-112.125072;27-deer;60
+2166;31st Av & Hearn Rd;33.614814;-112.125052;27-deer;61
+2161;31st Av & Acoma Dr;33.617929;-112.125033;27-deer;62
+1226;Country Gables Dr & 31st Av;33.620994;-112.124124;27-deer;63
+2153;29th Av & Country Gables Dr;33.619437;-112.12062;27-deer;64
+2152;29th Av & Banff Ln;33.621006;-112.120264;27-deer;65
+2157;29th Av & Greenway Rd;33.625681;-112.120196;27-deer;66
+2131;28th Av & 28th Dr;33.627565;-112.118154;27-deer;67
+2130;28th Av & Kathleen Rd;33.630749;-112.118016;27-deer;68
+7617;28th Av & 16215 North;33.633241;-112.118962;27-deer;69
+2132;28th Av & Kelton Ln;33.635513;-112.118592;27-deer;70
+2151;29th Av & Phelps Rd;33.637878;-112.121164;27-deer;71
+2954;Holmes Bl & Bell Rd;33.640423;-112.121119;27-deer;72
+2952;Holmes Bl & Anderson Dr;33.643638;-112.119691;27-deer;73
+2953;Holmes Bl & Angela Dr;33.645088;-112.11797;27-deer;74
+8157;27th Av & Grovers Av;33.647941;-112.117014;27-deer;75
+8158;27th Av & Villa Maria Dr;33.652337;-112.117024;27-deer;76
+7071;Union Hills Dr & 27th Av;33.654826;-112.117819;27-deer;77
+7072;Union Hills Dr & 29th Av;33.65477;-112.122107;27-deer;78
+7074;Union Hills Dr & 31st Av;33.65478;-112.12639;27-deer;79
+7075;Union Hills Dr & 33rd Av;33.654769;-112.129804;27-deer;80
+2262;35th Av & Union Hills Dr;33.655237;-112.134275;27-deer;81
+2272;35th Av & Kimberly Wy;33.658083;-112.13439;27-deer;82
+1851;Yorkshire Dr & 35th Av;33.661918;-112.13379;27-deer;83
+1850;Yorkshire Dr & 33rd Av;33.661987;-112.130557;27-deer;84
+1849;Yorkshire Dr & 31st Av;33.662684;-112.125088;27-deer;85
+9193;27th Av & Yorkshire Dr;33.663004;-112.117023;27-deer;86
+9194;27th Av & Behrend Dr;33.666212;-112.117046;27-deer;87
+8504;27th Av & 26th Av;33.670846;-112.117106;27-deer;88
+8505;27th Av & Runion Dr;33.673263;-112.117109;27-deer;89
+8035;27th Av & Rose Garden Ln;33.676936;-112.117247;27-deer;90
+8036;27th Av & Lone Cactus Dr;33.680218;-112.117239;27-deer;91
+8037;Deer Valley Rd & 27th Av;33.683661;-112.116944;27-deer;92
+9115;27th Av/Baseline PNR;33.377348;-112.117372;19;1
+7788;Baseline Rd & 24th Av;33.377601;-112.109649;19;2
+8061;Baseline Rd & 21st Dr;33.377627;-112.104021;19;3
+7474;19th Av & Baseline Rd;33.378343;-112.098954;19;4
+7473;19th Av & Fremont Rd;33.381776;-112.099043;19;5
+7472;19th Av & Vineyard Rd;33.385496;-112.099038;19;6
+3174;19th Av & Alta Vista Rd;33.389326;-112.099033;19;7
+7471;19th Av & Southern Av;33.392891;-112.098993;19;8
+7484;19th Av & Sunland Av;33.396234;-112.0991;19;9
+7485;19th Av & Roeser Rd;33.400019;-112.099178;19;10
+7486;19th Av & Chipman Rd;33.402288;-112.099222;19;11
+7487;19th Av & Broadway Rd;33.407436;-112.099259;19;12
+7602;22nd Av & Lower Buckeye Rd;33.423149;-112.106145;19;13
+3181;22nd Av & 2441 South;33.425014;-112.106195;19;14
+3180;22nd Av & Hilton Av;33.428475;-112.106271;19;15
+3177;19th Av & Cocopah St;33.432407;-112.099803;19;16
+7488;19th Av & Buckeye Rd;33.437219;-112.099844;19;17
+7489;19th Av & Grant St;33.441825;-112.099924;19;18
+3176;19th Av & Buchanan St;33.443504;-112.09997;19;19
+1378;19th Av & Jefferson St;33.447569;-112.099993;19;20
+1993;19th Av & Adams St;33.449638;-112.099989;19;21
+2044;19th Av & Van Buren St;33.451792;-112.099923;19;22
+2055;19th Av & Fillmore St;33.454521;-112.099971;19;23
+2021;19th Av & Linden Rd;33.459815;-112.099931;19;24
+2006;19th Av & Culver St;33.463577;-112.09986;19;25
+2023;19th Av & McDowell Rd;33.466719;-112.09981;19;26
+1988;19th Av & Granada Rd;33.468652;-112.099835;19;27
+2027;19th Av & Monte Vista Rd;33.471363;-112.099828;19;28
+2011;19th Av & Encanto Bl;33.473756;-112.09985;19;29
+1991;19th Av & Virginia Av;33.477282;-112.099853;19;30
+2038;19th Av & Thomas Rd;33.480983;-112.099801;19;31
+1992;19th Av & Earll Dr;33.484634;-112.099831;19;32
+2032;19th Av & Osborn Rd;33.488147;-112.099772;19;33
+2004;19th Av & Clarendon Av;33.491566;-112.099803;19;34
+2020;19th Av & Indian School Rd;33.495592;-112.099742;19;35
+2019;19th Av & Heatherbrae Dr;33.498725;-112.099779;19;36
+2001;19th Av & Campbell Av;33.50307;-112.09977;19;37
+2010;19th Av & Elm St;33.507228;-112.099764;19;38
+2000;19th Av & Camelback Rd;33.510016;-112.099661;19;39
+2005;19th Av & Colter St;33.513712;-112.099632;19;40
+2025;19th Av & Missouri Av;33.517762;-112.099582;19;41
+2028;19th Av & Montebello Av;33.520333;-112.099513;19;42
+1998;19th Av & Bethany Home Rd;33.52476;-112.099548;19;43
+2036;19th Av & Rose Ln;33.528043;-112.099542;19;44
+2022;19th Av & Maryland Av;33.532095;-112.099517;19;45
+2041;19th Av & Tuckey Ln;33.53494;-112.099477;19;46
+2015;19th Av & Glendale Av;33.539234;-112.099396;19;47
+2029;19th Av & Myrtle Av;33.542685;-112.099408;19;48
+2031;19th Av & Orangewood Av;33.546259;-112.099433;19;49
+2013;19th Av & Frier Dr;33.549992;-112.099413;19;50
+2030;19th Av & Northern Av;33.553602;-112.099382;19;51
+2009;19th Av & El Caminito Dr;33.558671;-112.099482;19;52
+1999;19th Av & Butler Dr;33.560928;-112.0994;19;53
+2049;19th Av & Alice Av;33.564262;-112.099427;19;54
+2008;19th Av & Dunlap Av;33.568183;-112.099383;19;55
+2052;19th Av & Sunnyslope Ln;33.569644;-112.099495;19;56
+2018;19th Av & Hatcher Rd;33.572822;-112.099513;19;57
+2045;19th Av & Mountain View Rd;33.575491;-112.099455;19;58
+2002;19th Av & Cheryl Dr;33.579344;-112.099447;19;59
+2033;19th Av & Peoria Av;33.582652;-112.099473;19;60
+2007;19th Av & Desert Cove Av;33.586355;-112.099541;19;61
+2003;19th Av & Cholla St;33.589886;-112.099493;19;62
+2037;19th Av & Sunnyside Dr;33.593362;-112.099482;19;63
+1987;19th Av & Cactus Rd;33.597179;-112.099436;19;64
+2056;19th Av & Sweetwater Av;33.604085;-112.099495;19;65
+1989;19th Av & Joan De Arc Av;33.607821;-112.099509;19;66
+2039;19th Av & Thunderbird Rd;33.611798;-112.09951;19;67
+2048;19th Av & 14203 North;33.615381;-112.099525;19;68
+2012;19th Av & Evans Dr;33.6184;-112.09953;19;69
+2016;19th Av & Greenway Pkwy;33.626248;-112.099539;19;70
+2040;19th Av & Tierra Buena Ln;33.629767;-112.099553;19;71
+2034;19th Av & Phelps Rd;33.63822;-112.099534;19;72
+1997;19th Av & Bell Rd;33.640741;-112.099488;19;73
+2047;19th Av & 17425 North;33.64414;-112.099587;19;74
+1994;19th Av & Angela Dr;33.645969;-112.099574;19;75
+2017;19th Av & Grovers Av;33.647869;-112.099566;19;76
+2024;19th Av & Michigan Av;33.651523;-112.099572;19;77
+2042;19th Av & Union Hills Dr;33.655158;-112.09955;19;78
+2046;19th Av & Wescott Dr;33.658739;-112.099643;19;79
+2043;19th Av & Utopia Rd;33.662382;-112.099656;19;80
+1996;19th Av & Behrend Dr;33.66599;-112.099681;19;81
+1995;19th Av & Beardsley Rd;33.670593;-112.099641;19;82
+2026;19th Av & Mohawk Ln;33.673231;-112.099712;19;83
+2035;19th Av & Rose Garden Ln;33.676997;-112.099708;19;84
+7507;19th Av & Lone Cactus Dr;33.680535;-112.099722;19;85
+8363;19th Av & Deer Valley Rd;33.684422;-112.099645;19;86
+8364;19th Av & Adobe Dr;33.687866;-112.099753;19;87
+8365;19th Av & Williams Dr;33.691519;-112.099762;19;88
+8366;19th Av & Parkside Ln;33.695196;-112.09977;19;89
+8367;Pinnacle Peak Rd & 19th Av;33.698459;-112.100401;19;90
+20004;23rd Av & Pinnacle Peak Rd;33.701174;-112.108648;19;91
+20005;23rd Av & Farmers Wy;33.70799;-112.10863;19;92
+8128;Happy Valley Rd & 23rd Av;33.712667;-112.108092;19;93
+9568;McDowell Rd & Pima Rd;33.466025;-111.892576;17-pebble;1
+30256;McDowell Rd & 87th St;33.466;-111.895423;17-pebble;2
+5767;McDowell Rd & Granite Reef Rd;33.465978;-111.901663;17-pebble;3
+9372;McDowell Rd & 82nd Pl;33.465976;-111.905115;17-pebble;4
+5768;McDowell Rd & Hayden Rd;33.465998;-111.909747;17-pebble;5
+5770;McDowell Rd & Miller Rd;33.465927;-111.918165;17-pebble;6
+5764;McDowell Rd & 74th St;33.465897;-111.922398;17-pebble;7
+5771;McDowell Rd & Scottsdale Rd;33.465916;-111.926763;17-pebble;8
+9373;McDowell Rd & 70th St;33.465821;-111.930288;17-pebble;9
+5762;McDowell Rd & 68th St;33.4658;-111.935666;17-pebble;10
+5761;McDowell Rd & 64th St;33.466119;-111.944283;17-pebble;11
+5766;McDowell Rd & Bushmaster Bl;33.465665;-111.962023;17-pebble;12
+5759;McDowell Rd & 52nd St;33.46572;-111.970398;17-pebble;13
+5758;McDowell Rd & 50th St;33.465783;-111.97478;17-pebble;14
+5757;McDowell Rd & 48th St;33.465811;-111.979144;17-pebble;15
+5756;McDowell Rd & 46th St;33.465787;-111.982592;17-pebble;16
+5755;McDowell Rd & 44th St;33.465883;-111.987648;17-pebble;17
+5754;McDowell Rd & 41st Pl;33.465768;-111.992824;17-pebble;18
+5753;McDowell Rd & 40th St;33.465815;-111.996045;17-pebble;19
+5751;McDowell Rd & 38th St;33.465821;-112.000428;17-pebble;20
+5750;McDowell Rd & 36th St;33.465816;-112.004831;17-pebble;21
+5749;McDowell Rd & 34th St;33.465826;-112.009018;17-pebble;22
+5748;McDowell Rd & 32nd St;33.465882;-112.013481;17-pebble;23
+5737;McDowell Rd & 30th St;33.465855;-112.017786;17-pebble;24
+5747;McDowell Rd & 27th Pl;33.465868;-112.023582;17-pebble;25
+5746;McDowell Rd & 24th St;33.465948;-112.030595;17-pebble;26
+5745;McDowell Rd & 22nd Pl;33.465867;-112.033846;17-pebble;27
+5744;McDowell Rd & 21st Pl;33.465934;-112.036075;17-pebble;28
+5743;McDowell Rd & 19th St;33.465869;-112.04186;17-pebble;29
+5742;McDowell Rd & 18th St;33.465869;-112.043925;17-pebble;30
+5741;McDowell Rd & 16th St;33.4659;-112.04805;17-pebble;31
+5740;McDowell Rd & 14th St;33.465858;-112.052383;17-pebble;32
+5739;McDowell Rd & 12th St;33.465828;-112.057132;17-pebble;33
+5738;McDowell Rd & 10th St;33.465831;-112.061198;17-pebble;34
+5765;McDowell Rd & 7th St;33.465885;-112.065809;17-pebble;35
+5760;McDowell Rd & 5th St;33.465824;-112.067678;17-pebble;36
+5752;McDowell Rd & 3rd St;33.465842;-112.070061;17-pebble;37
+6822;McDowell Rd & Central Av;33.465894;-112.074522;17-pebble;38
+6800;McDowell Rd & 3rd Av;33.465892;-112.078727;17-pebble;39
+8793;McDowell Rd & 5th Av;33.465915;-112.080758;17-pebble;40
+6818;McDowell Rd & 7th Av;33.465931;-112.083434;17-pebble;41
+6790;McDowell Rd & 11th Av;33.465937;-112.087419;17-pebble;42
+6791;McDowell Rd & 15th Av;33.465944;-112.092021;17-pebble;43
+6792;McDowell Rd & 17th Av;33.465955;-112.096224;17-pebble;44
+6827;McDowell Rd & 18th Av;33.465985;-112.098262;17-pebble;45
+6825;McDowell Rd & Grand Av;33.465983;-112.101353;17-pebble;46
+6788;McDowell Rd & 21st Av;33.465985;-112.104722;17-pebble;47
+6828;McDowell Rd & 23rd Av;33.466008;-112.107989;17-pebble;48
+6789;McDowell Rd & 25th Av;33.46603;-112.113098;17-pebble;49
+6794;McDowell Rd & 27th Av;33.466058;-112.117617;17-pebble;50
+6795;McDowell Rd & 29th Av;33.46605;-112.122238;17-pebble;51
+6796;McDowell Rd & 31st Av;33.466051;-112.126278;17-pebble;52
+6826;McDowell Rd & 32nd Av;33.466054;-112.128549;17-pebble;53
+6798;McDowell Rd & 35th Av;33.466099;-112.134919;17-pebble;54
+6829;McDowell Rd & 37th Av;33.466061;-112.139355;17-pebble;55
+6799;McDowell Rd & 39th Av;33.466096;-112.143861;17-pebble;56
+6801;McDowell Rd & 41st Av;33.46607;-112.147829;17-pebble;57
+6802;McDowell Rd & 43rd Av;33.466114;-112.152439;17-pebble;58
+6831;McDowell Rd & 45th Av;33.466064;-112.156513;17-pebble;59
+6832;McDowell Rd & 47th Av;33.466079;-112.160665;17-pebble;60
+6803;McDowell Rd & 48th Ln;33.466082;-112.166034;17-pebble;61
+6804;McDowell Rd & 51st Av;33.466127;-112.169643;17-pebble;62
+6805;McDowell Rd & 53rd Av;33.466082;-112.174309;17-pebble;63
+6806;McDowell Rd & 55th Av;33.466089;-112.178158;17-pebble;64
+6807;McDowell Rd & 57th Av;33.466079;-112.182751;17-pebble;65
+6808;McDowell Rd & 59th Av;33.466109;-112.187114;17-pebble;66
+6809;McDowell Rd & 61st Av;33.466046;-112.191265;17-pebble;67
+6810;McDowell Rd & 63rd Av;33.466056;-112.19573;17-pebble;68
+6811;McDowell Rd & 65th Av;33.465983;-112.200024;17-pebble;69
+6812;McDowell Rd & 67th Av;33.466;-112.203807;17-pebble;70
+6813;McDowell Rd & 69th Av;33.465917;-112.208713;17-pebble;71
+6814;McDowell Rd & 71st Av;33.465879;-112.212341;17-pebble;72
+6815;McDowell Rd & 73rd Av;33.465828;-112.21673;17-pebble;73
+6816;McDowell Rd & 75th Av;33.465844;-112.221265;17-pebble;74
+9093;McDowell Rd & Center Rd;33.465713;-112.225356;17-pebble;75
+6817;McDowell Rd & 79th Av;33.465622;-112.229796;17-pebble;76
+9094;McDowell Rd & 81st Av;33.465536;-112.234168;17-pebble;77
+6819;McDowell Rd & 83rd Av;33.465485;-112.238526;17-pebble;78
+9095;McDowell Rd & 85th Av;33.46538;-112.243043;17-pebble;79
+6821;McDowell Rd & 86th Dr;33.465288;-112.24716;17-pebble;80
+9326;McDowell Rd & 89th Av;33.465231;-112.251464;17-pebble;81
+8636;McDowell Rd & 91st Av;33.465153;-112.255844;17-pebble;82
+8638;McDowell Rd & 92nd Av;33.465088;-112.258402;17-pebble;83
+8637;McDowell Rd & 93rd Ln;33.46502;-112.261673;17-pebble;84
+8635;McDowell Rd & 95th Av;33.464976;-112.264326;17-pebble;85
+8639;McDowell Rd & 99th Av;33.464895;-112.274478;17-pebble;86
+8641;McDowell Rd & 103rd Av;33.46476;-112.28195;17-pebble;87
+30163;McDowell Rd & 107th Av;33.464616;-112.288939;17-pebble;88
+8643;McDowell Rd & 107th Av;33.464573;-112.291243;17-pebble;89
+8645;McDowell Rd & 112th Av;33.464363;-112.300501;17-pebble;90
+8647;McDowell Rd & Avondale Rd;33.464228;-112.30734;17-pebble;91
+8649;McDowell Rd & 119th Av;33.464111;-112.315912;17-pebble;92
+46;McDowell Rd & Friendship Park;33.462493;-112.323096;17-pebble;93
+8651;McDowell Rd & Rancho Santa Fe;33.464361;-112.335829;17-pebble;94
+6823;McDowell Rd & Dysart Rd;33.464462;-112.341545;17-pebble;95
+6824;McDowell Rd & Palm Valley Bl;33.464525;-112.350424;17-pebble;96
+9576;McDowell Rd & Litchfield Rd;33.464603;-112.358749;17-pebble;97
+9470;McDowell Rd & 145th Av;33.46463;-112.371004;17-pebble;98
+9471;McDowell Rd & Bullard Av;33.464643;-112.376438;17-pebble;99
+9472;McDowell Rd & 150th Dr;33.464694;-112.383533;17-pebble;100
+9473;McDowell Rd & Pebble Creek Pkwy;33.46491;-112.393181;17-pebble;101
+9568;McDowell Rd & Pima Rd;33.466025;-111.892576;17-83rd;1
+30256;McDowell Rd & 87th St;33.466;-111.895423;17-83rd;2
+5767;McDowell Rd & Granite Reef Rd;33.465978;-111.901663;17-83rd;3
+9372;McDowell Rd & 82nd Pl;33.465976;-111.905115;17-83rd;4
+5768;McDowell Rd & Hayden Rd;33.465998;-111.909747;17-83rd;5
+5770;McDowell Rd & Miller Rd;33.465927;-111.918165;17-83rd;6
+5764;McDowell Rd & 74th St;33.465897;-111.922398;17-83rd;7
+5771;McDowell Rd & Scottsdale Rd;33.465916;-111.926763;17-83rd;8
+9373;McDowell Rd & 70th St;33.465821;-111.930288;17-83rd;9
+5762;McDowell Rd & 68th St;33.4658;-111.935666;17-83rd;10
+5761;McDowell Rd & 64th St;33.466119;-111.944283;17-83rd;11
+5766;McDowell Rd & Bushmaster Bl;33.465665;-111.962023;17-83rd;12
+5759;McDowell Rd & 52nd St;33.46572;-111.970398;17-83rd;13
+5758;McDowell Rd & 50th St;33.465783;-111.97478;17-83rd;14
+5757;McDowell Rd & 48th St;33.465811;-111.979144;17-83rd;15
+5756;McDowell Rd & 46th St;33.465787;-111.982592;17-83rd;16
+5755;McDowell Rd & 44th St;33.465883;-111.987648;17-83rd;17
+5754;McDowell Rd & 41st Pl;33.465768;-111.992824;17-83rd;18
+5753;McDowell Rd & 40th St;33.465815;-111.996045;17-83rd;19
+5751;McDowell Rd & 38th St;33.465821;-112.000428;17-83rd;20
+5750;McDowell Rd & 36th St;33.465816;-112.004831;17-83rd;21
+5749;McDowell Rd & 34th St;33.465826;-112.009018;17-83rd;22
+5748;McDowell Rd & 32nd St;33.465882;-112.013481;17-83rd;23
+5737;McDowell Rd & 30th St;33.465855;-112.017786;17-83rd;24
+5747;McDowell Rd & 27th Pl;33.465868;-112.023582;17-83rd;25
+5746;McDowell Rd & 24th St;33.465948;-112.030595;17-83rd;26
+5745;McDowell Rd & 22nd Pl;33.465867;-112.033846;17-83rd;27
+5744;McDowell Rd & 21st Pl;33.465934;-112.036075;17-83rd;28
+5743;McDowell Rd & 19th St;33.465869;-112.04186;17-83rd;29
+5742;McDowell Rd & 18th St;33.465869;-112.043925;17-83rd;30
+5741;McDowell Rd & 16th St;33.4659;-112.04805;17-83rd;31
+5740;McDowell Rd & 14th St;33.465858;-112.052383;17-83rd;32
+5739;McDowell Rd & 12th St;33.465828;-112.057132;17-83rd;33
+5738;McDowell Rd & 10th St;33.465831;-112.061198;17-83rd;34
+5765;McDowell Rd & 7th St;33.465885;-112.065809;17-83rd;35
+5760;McDowell Rd & 5th St;33.465824;-112.067678;17-83rd;36
+5752;McDowell Rd & 3rd St;33.465842;-112.070061;17-83rd;37
+6822;McDowell Rd & Central Av;33.465894;-112.074522;17-83rd;38
+6800;McDowell Rd & 3rd Av;33.465892;-112.078727;17-83rd;39
+8793;McDowell Rd & 5th Av;33.465915;-112.080758;17-83rd;40
+6818;McDowell Rd & 7th Av;33.465931;-112.083434;17-83rd;41
+6790;McDowell Rd & 11th Av;33.465937;-112.087419;17-83rd;42
+6791;McDowell Rd & 15th Av;33.465944;-112.092021;17-83rd;43
+6792;McDowell Rd & 17th Av;33.465955;-112.096224;17-83rd;44
+6827;McDowell Rd & 18th Av;33.465985;-112.098262;17-83rd;45
+6825;McDowell Rd & Grand Av;33.465983;-112.101353;17-83rd;46
+6788;McDowell Rd & 21st Av;33.465985;-112.104722;17-83rd;47
+6828;McDowell Rd & 23rd Av;33.466008;-112.107989;17-83rd;48
+6789;McDowell Rd & 25th Av;33.46603;-112.113098;17-83rd;49
+6794;McDowell Rd & 27th Av;33.466058;-112.117617;17-83rd;50
+6795;McDowell Rd & 29th Av;33.46605;-112.122238;17-83rd;51
+6796;McDowell Rd & 31st Av;33.466051;-112.126278;17-83rd;52
+6826;McDowell Rd & 32nd Av;33.466054;-112.128549;17-83rd;53
+6798;McDowell Rd & 35th Av;33.466099;-112.134919;17-83rd;54
+6829;McDowell Rd & 37th Av;33.466061;-112.139355;17-83rd;55
+6799;McDowell Rd & 39th Av;33.466096;-112.143861;17-83rd;56
+6801;McDowell Rd & 41st Av;33.46607;-112.147829;17-83rd;57
+6802;McDowell Rd & 43rd Av;33.466114;-112.152439;17-83rd;58
+6831;McDowell Rd & 45th Av;33.466064;-112.156513;17-83rd;59
+6832;McDowell Rd & 47th Av;33.466079;-112.160665;17-83rd;60
+6803;McDowell Rd & 48th Ln;33.466082;-112.166034;17-83rd;61
+6804;McDowell Rd & 51st Av;33.466127;-112.169643;17-83rd;62
+6805;McDowell Rd & 53rd Av;33.466082;-112.174309;17-83rd;63
+6806;McDowell Rd & 55th Av;33.466089;-112.178158;17-83rd;64
+6807;McDowell Rd & 57th Av;33.466079;-112.182751;17-83rd;65
+6808;McDowell Rd & 59th Av;33.466109;-112.187114;17-83rd;66
+6809;McDowell Rd & 61st Av;33.466046;-112.191265;17-83rd;67
+6810;McDowell Rd & 63rd Av;33.466056;-112.19573;17-83rd;68
+6811;McDowell Rd & 65th Av;33.465983;-112.200024;17-83rd;69
+6812;McDowell Rd & 67th Av;33.466;-112.203807;17-83rd;70
+6813;McDowell Rd & 69th Av;33.465917;-112.208713;17-83rd;71
+6814;McDowell Rd & 71st Av;33.465879;-112.212341;17-83rd;72
+6815;McDowell Rd & 73rd Av;33.465828;-112.21673;17-83rd;73
+6816;McDowell Rd & 75th Av;33.465844;-112.221265;17-83rd;74
+9093;McDowell Rd & Center Rd;33.465713;-112.225356;17-83rd;75
+6817;McDowell Rd & 79th Av;33.465622;-112.229796;17-83rd;76
+9094;McDowell Rd & 81st Av;33.465536;-112.234168;17-83rd;77
+6819;McDowell Rd & 83rd Av;33.465485;-112.238526;17-83rd;78
+5755;McDowell Rd & 44th St;33.465883;-111.987648;17-43rd;1
+5754;McDowell Rd & 41st Pl;33.465768;-111.992824;17-43rd;2
+5753;McDowell Rd & 40th St;33.465815;-111.996045;17-43rd;3
+5751;McDowell Rd & 38th St;33.465821;-112.000428;17-43rd;4
+5750;McDowell Rd & 36th St;33.465816;-112.004831;17-43rd;5
+5749;McDowell Rd & 34th St;33.465826;-112.009018;17-43rd;6
+5748;McDowell Rd & 32nd St;33.465882;-112.013481;17-43rd;7
+5737;McDowell Rd & 30th St;33.465855;-112.017786;17-43rd;8
+5747;McDowell Rd & 27th Pl;33.465868;-112.023582;17-43rd;9
+5746;McDowell Rd & 24th St;33.465948;-112.030595;17-43rd;10
+5745;McDowell Rd & 22nd Pl;33.465867;-112.033846;17-43rd;11
+5744;McDowell Rd & 21st Pl;33.465934;-112.036075;17-43rd;12
+5743;McDowell Rd & 19th St;33.465869;-112.04186;17-43rd;13
+5742;McDowell Rd & 18th St;33.465869;-112.043925;17-43rd;14
+5741;McDowell Rd & 16th St;33.4659;-112.04805;17-43rd;15
+5740;McDowell Rd & 14th St;33.465858;-112.052383;17-43rd;16
+5739;McDowell Rd & 12th St;33.465828;-112.057132;17-43rd;17
+5738;McDowell Rd & 10th St;33.465831;-112.061198;17-43rd;18
+5765;McDowell Rd & 7th St;33.465885;-112.065809;17-43rd;19
+5760;McDowell Rd & 5th St;33.465824;-112.067678;17-43rd;20
+5752;McDowell Rd & 3rd St;33.465842;-112.070061;17-43rd;21
+6822;McDowell Rd & Central Av;33.465894;-112.074522;17-43rd;22
+6800;McDowell Rd & 3rd Av;33.465892;-112.078727;17-43rd;23
+8793;McDowell Rd & 5th Av;33.465915;-112.080758;17-43rd;24
+6818;McDowell Rd & 7th Av;33.465931;-112.083434;17-43rd;25
+6790;McDowell Rd & 11th Av;33.465937;-112.087419;17-43rd;26
+6791;McDowell Rd & 15th Av;33.465944;-112.092021;17-43rd;27
+6792;McDowell Rd & 17th Av;33.465955;-112.096224;17-43rd;28
+6827;McDowell Rd & 18th Av;33.465985;-112.098262;17-43rd;29
+6825;McDowell Rd & Grand Av;33.465983;-112.101353;17-43rd;30
+6788;McDowell Rd & 21st Av;33.465985;-112.104722;17-43rd;31
+6828;McDowell Rd & 23rd Av;33.466008;-112.107989;17-43rd;32
+6789;McDowell Rd & 25th Av;33.46603;-112.113098;17-43rd;33
+6794;McDowell Rd & 27th Av;33.466058;-112.117617;17-43rd;34
+6795;McDowell Rd & 29th Av;33.46605;-112.122238;17-43rd;35
+6796;McDowell Rd & 31st Av;33.466051;-112.126278;17-43rd;36
+6826;McDowell Rd & 32nd Av;33.466054;-112.128549;17-43rd;37
+6798;McDowell Rd & 35th Av;33.466099;-112.134919;17-43rd;38
+6829;McDowell Rd & 37th Av;33.466061;-112.139355;17-43rd;39
+6799;McDowell Rd & 39th Av;33.466096;-112.143861;17-43rd;40
+6801;McDowell Rd & 41st Av;33.46607;-112.147829;17-43rd;41
+6802;McDowell Rd & 43rd Av;33.466114;-112.152439;17-43rd;42
+7827;Dobbins Rd & Central Av;33.363184;-112.072698;16-paradise;1
+7999;Dobbins Rd & 7th St;33.363235;-112.065573;16-paradise;2
+8000;Dobbins Rd & 10th Wy;33.363237;-112.059172;16-paradise;3
+8001;Dobbins Rd & 12th Wy;33.363211;-112.055192;16-paradise;4
+8002;Dobbins Rd & 14th St;33.363203;-112.052495;16-paradise;5
+8003;16th St & Dobbins Rd;33.363601;-112.048715;16-paradise;6
+8004;16th St & Euclid Av;33.367352;-112.048713;16-paradise;7
+8005;16th St & South Mountain Av;33.371022;-112.048639;16-paradise;8
+8006;16th St & Beverly Rd;33.374547;-112.048669;16-paradise;9
+3157;16th St & Baseline Rd;33.378301;-112.047219;16-paradise;10
+3172;16th St & Fremont Rd;33.38168;-112.047179;16-paradise;11
+3169;16th St & Vineyard Rd;33.385324;-112.047153;16-paradise;12
+3156;16th St & Alta Vista Rd;33.389091;-112.047171;16-paradise;13
+3166;16th St & Southern Av;33.393226;-112.047217;16-paradise;14
+3167;16th St & Sunland Av;33.396164;-112.047178;16-paradise;15
+3165;16th St & Roeser Rd;33.400147;-112.047066;16-paradise;16
+3170;16th St & Wier Av;33.403788;-112.047049;16-paradise;17
+3158;16th St & Broadway Rd;33.407223;-112.046984;16-paradise;18
+3163;16th St & Jones Av;33.410944;-112.046946;16-paradise;19
+3160;16th St & Elwood St;33.414526;-112.046952;16-paradise;20
+20115;16th St & Riverview Dr;33.420615;-112.047584;16-paradise;21
+3168;16th St & University Dr;33.42403;-112.047689;16-paradise;22
+3173;16th St & Watkins St;33.426288;-112.047679;16-paradise;23
+3164;16th St & Mohave St;33.431727;-112.047563;16-paradise;24
+9111;16th St & Pima St;33.433382;-112.047611;16-paradise;25
+3159;16th St & Buckeye Rd;33.437246;-112.047539;16-paradise;26
+3161;16th St & Grant St;33.441815;-112.047568;16-paradise;27
+3162;16th St & Jefferson St;33.447666;-112.047612;16-paradise;28
+1979;16th St & Van Buren St;33.451935;-112.047526;16-paradise;29
+1959;16th St & Villa St;33.455408;-112.047543;16-paradise;30
+1966;16th St & McKinley St;33.457072;-112.047528;16-paradise;31
+1976;16th St & Roosevelt St;33.45931;-112.047454;16-paradise;32
+1982;16th St & Willetta St;33.4641;-112.047559;16-paradise;33
+1965;16th St & McDowell Rd;33.466445;-112.047513;16-paradise;34
+1975;16th St & Palm Ln;33.469688;-112.047553;16-paradise;35
+1971;16th St & Oak St;33.473272;-112.047538;16-paradise;36
+1954;16th St & Cambridge Av;33.477866;-112.047529;16-paradise;37
+1978;16th St & Thomas Rd;33.480564;-112.047461;16-paradise;38
+1958;16th St & Earll Dr;33.484182;-112.047529;16-paradise;39
+1974;16th St & Osborn Rd;33.487842;-112.04753;16-paradise;40
+1981;16th St & Whitton Av;33.489908;-112.047529;16-paradise;41
+1963;16th St & Indian School Rd;33.495169;-112.047486;16-paradise;42
+1984;16th St & Devonshire Av;33.496853;-112.047476;16-paradise;43
+1961;16th St & Glenrosa Av;33.498798;-112.047468;16-paradise;44
+1956;16th St & Campbell Av;33.502671;-112.047435;16-paradise;45
+1962;16th St & Highland Av;33.506195;-112.047401;16-paradise;46
+1955;16th St & Camelback Rd;33.509767;-112.047329;16-paradise;47
+1957;16th St & Colter St;33.513427;-112.047397;16-paradise;48
+1968;16th St & Missouri Av;33.517008;-112.047353;16-paradise;49
+1985;16th St & Montebello Av;33.51977;-112.04739;16-paradise;50
+1953;16th St & Bethany Home Rd;33.524188;-112.047362;16-paradise;51
+1977;16th St & Rose Ln;33.527689;-112.047374;16-paradise;52
+1964;16th St & Maryland Av;33.531293;-112.047387;16-paradise;53
+1972;16th St & Ocotillo Rd;33.53502;-112.04737;16-paradise;54
+1960;16th St & Glendale Av;33.538629;-112.047355;16-paradise;55
+1970;16th St & Myrtle Av;33.542433;-112.04737;16-paradise;56
+1973;16th St & Orangewood Av;33.545712;-112.047418;16-paradise;57
+1969;16th St & Morten Av;33.547895;-112.047542;16-paradise;58
+1983;16th St & 7743 North;33.550743;-112.047735;16-paradise;59
+9281;16th St & Winter Dr;33.552768;-112.047801;16-paradise;60
+9458;Northern Av & 17th St;33.55503;-112.045092;16-paradise;61
+2174;32nd St & Cheryl Dr;33.57931;-112.012901;16-paradise;62
+2208;32nd St & 10433 North;33.581485;-112.012921;16-paradise;63
+7733;32nd St & Shea Bl;33.583186;-112.01294;16-paradise;64
+7734;32nd St & Desert Cove Av;33.586338;-112.013004;16-paradise;65
+2181;32nd St & Cholla St;33.590214;-112.013009;16-paradise;66
+2179;32nd St & Cactus Rd;33.597414;-112.012975;16-paradise;67
+2207;32nd St & Larkspur Dr;33.600778;-112.013055;16-paradise;68
+2199;32nd St & Sweetwater Av;33.604754;-112.013054;16-paradise;69
+2184;32nd St & Emile Zola Av;33.608233;-112.013111;16-paradise;70
+2201;32nd St & Thunderbird Rd;33.612101;-112.013066;16-paradise;71
+2188;32nd St & Hearn Rd;33.61586;-112.013175;16-paradise;72
+2176;32nd St & Acoma Dr;33.619449;-112.013162;16-paradise;73
+2192;32nd St & Nisbet Rd;33.623086;-112.013208;16-paradise;74
+2186;32nd St & Greenway Rd;33.626922;-112.013152;16-paradise;75
+2202;32nd St & Tierra Buena Ln;33.630258;-112.01329;16-paradise;76
+2196;32nd St & Paradise Ln;33.634059;-112.013307;16-paradise;77
+2177;32nd St & Aire Libre Av;33.637574;-112.01336;16-paradise;78
+2178;32nd St & Bell Rd;33.641017;-112.013287;16-paradise;79
+2180;32nd St & Campo Bello Dr;33.644542;-112.013369;16-paradise;80
+2187;32nd St & Grovers Av;33.648644;-112.013361;16-paradise;81
+536;Paradise Valley CC;33.651665;-112.012682;16-paradise;82
+3157;16th St & Baseline Rd;33.378301;-112.047219;16-northern;1
+3172;16th St & Fremont Rd;33.38168;-112.047179;16-northern;2
+3169;16th St & Vineyard Rd;33.385324;-112.047153;16-northern;3
+3156;16th St & Alta Vista Rd;33.389091;-112.047171;16-northern;4
+3166;16th St & Southern Av;33.393226;-112.047217;16-northern;5
+3167;16th St & Sunland Av;33.396164;-112.047178;16-northern;6
+3165;16th St & Roeser Rd;33.400147;-112.047066;16-northern;7
+3170;16th St & Wier Av;33.403788;-112.047049;16-northern;8
+3158;16th St & Broadway Rd;33.407223;-112.046984;16-northern;9
+3163;16th St & Jones Av;33.410944;-112.046946;16-northern;10
+3160;16th St & Elwood St;33.414526;-112.046952;16-northern;11
+20115;16th St & Riverview Dr;33.420615;-112.047584;16-northern;12
+3168;16th St & University Dr;33.42403;-112.047689;16-northern;13
+3173;16th St & Watkins St;33.426288;-112.047679;16-northern;14
+3164;16th St & Mohave St;33.431727;-112.047563;16-northern;15
+9111;16th St & Pima St;33.433382;-112.047611;16-northern;16
+3159;16th St & Buckeye Rd;33.437246;-112.047539;16-northern;17
+3161;16th St & Grant St;33.441815;-112.047568;16-northern;18
+3162;16th St & Jefferson St;33.447666;-112.047612;16-northern;19
+1979;16th St & Van Buren St;33.451935;-112.047526;16-northern;20
+1959;16th St & Villa St;33.455408;-112.047543;16-northern;21
+1966;16th St & McKinley St;33.457072;-112.047528;16-northern;22
+1976;16th St & Roosevelt St;33.45931;-112.047454;16-northern;23
+1982;16th St & Willetta St;33.4641;-112.047559;16-northern;24
+1965;16th St & McDowell Rd;33.466445;-112.047513;16-northern;25
+1975;16th St & Palm Ln;33.469688;-112.047553;16-northern;26
+1971;16th St & Oak St;33.473272;-112.047538;16-northern;27
+1954;16th St & Cambridge Av;33.477866;-112.047529;16-northern;28
+1978;16th St & Thomas Rd;33.480564;-112.047461;16-northern;29
+1958;16th St & Earll Dr;33.484182;-112.047529;16-northern;30
+1974;16th St & Osborn Rd;33.487842;-112.04753;16-northern;31
+1981;16th St & Whitton Av;33.489908;-112.047529;16-northern;32
+1963;16th St & Indian School Rd;33.495169;-112.047486;16-northern;33
+1984;16th St & Devonshire Av;33.496853;-112.047476;16-northern;34
+1961;16th St & Glenrosa Av;33.498798;-112.047468;16-northern;35
+1956;16th St & Campbell Av;33.502671;-112.047435;16-northern;36
+1962;16th St & Highland Av;33.506195;-112.047401;16-northern;37
+1955;16th St & Camelback Rd;33.509767;-112.047329;16-northern;38
+1957;16th St & Colter St;33.513427;-112.047397;16-northern;39
+1968;16th St & Missouri Av;33.517008;-112.047353;16-northern;40
+1985;16th St & Montebello Av;33.51977;-112.04739;16-northern;41
+1953;16th St & Bethany Home Rd;33.524188;-112.047362;16-northern;42
+1977;16th St & Rose Ln;33.527689;-112.047374;16-northern;43
+1964;16th St & Maryland Av;33.531293;-112.047387;16-northern;44
+1972;16th St & Ocotillo Rd;33.53502;-112.04737;16-northern;45
+1960;16th St & Glendale Av;33.538629;-112.047355;16-northern;46
+1970;16th St & Myrtle Av;33.542433;-112.04737;16-northern;47
+1973;16th St & Orangewood Av;33.545712;-112.047418;16-northern;48
+1969;16th St & Morten Av;33.547895;-112.047542;16-northern;49
+1983;16th St & 7743 North;33.550743;-112.047735;16-northern;50
+9281;16th St & Winter Dr;33.552768;-112.047801;16-northern;51
+3154;15th Av & Pima St;33.433371;-112.091128;15;1
+3152;15th Av & Buckeye Rd;33.437315;-112.091172;15;2
+1875;15th Av & Grant St;33.441371;-112.09122;15;3
+1876;15th Av & Jefferson St;33.44746;-112.091329;15;4
+1949;15th Av & Washington St;33.448533;-112.091341;15;5
+1948;15th Av & Van Buren St;33.451717;-112.091177;15;6
+1936;15th Av & Pierce St;33.456134;-112.091158;15;7
+1946;15th Av & Roosevelt St;33.459472;-112.09117;15;8
+1934;15th Av & Culver St;33.462992;-112.091188;15;9
+1941;15th Av & McDowell Rd;33.466168;-112.091217;15;10
+1945;15th Av & Palm Ln;33.469601;-112.091293;15;11
+1935;15th Av & Encanto Bl;33.473524;-112.091286;15;12
+1951;15th Av & Virginia Av;33.476957;-112.09128;15;13
+1947;15th Av & Thomas Rd;33.481096;-112.091257;15;14
+1950;15th Av & Earll Dr;33.483924;-112.091248;15;15
+1944;15th Av & Osborn Rd;33.488218;-112.091235;15;16
+1931;15th Av & Clarendon Av;33.491723;-112.091226;15;17
+1940;15th Av & Indian School Rd;33.495328;-112.091142;15;18
+1937;15th Av & Glenrosa Av;33.498983;-112.091193;15;19
+1930;15th Av & Campbell Av;33.50263;-112.091164;15;20
+1939;15th Av & Highland Av;33.506038;-112.091154;15;21
+1929;15th Av & Camelback Rd;33.510041;-112.091152;15;22
+1933;15th Av & Colter St;33.513417;-112.091129;15;23
+9365;Missouri Av & 15th Av;33.51684;-112.091684;15;24
+2025;19th Av & Missouri Av;33.517762;-112.099582;15;25
+8759;Montebello/19th Av TC;33.519478;-112.098633;15;26
+9196;Buckeye Rd & 75th Av;33.437006;-112.220379;13;1
+20002;Buckeye Rd & 71st Av;33.437049;-112.216048;13;2
+9195;Buckeye Rd & 69th Av;33.43709;-112.207401;13;3
+1139;Buckeye Rd & 67th Av;33.437044;-112.202473;13;4
+1116;Buckeye Rd & 65th Av;33.437073;-112.197785;13;5
+1138;Buckeye Rd & 63rd Av;33.437032;-112.194857;13;6
+1137;Buckeye Rd & 59th Av;33.436832;-112.184583;13;7
+1136;Buckeye Rd & 56th Av;33.436827;-112.180323;13;8
+1135;Buckeye Rd & 54th Av;33.436745;-112.174793;13;9
+1134;Buckeye Rd & 51st Av;33.436635;-112.16877;13;10
+1132;Buckeye Rd & 47th Av;33.436727;-112.159948;13;11
+1131;Buckeye Rd & 43rd Av;33.436792;-112.151305;13;12
+1130;Buckeye Rd & 41st Av;33.436789;-112.146671;13;13
+1129;Buckeye Rd & 39th Av;33.436803;-112.142631;13;14
+1128;Buckeye Rd & 37th Av;33.436793;-112.138373;13;15
+1127;Buckeye Rd & 35th Av;33.436784;-112.134136;13;16
+1126;Buckeye Rd & 33rd Av;33.436825;-112.129924;13;17
+1115;Buckeye Rd & 31st Av;33.436827;-112.125468;13;18
+1123;Buckeye Rd & 29th Av;33.436775;-112.121354;13;19
+1122;Buckeye Rd & 27th Av;33.436678;-112.116659;13;20
+1120;Buckeye Rd & 25th Av;33.436715;-112.112605;13;21
+1141;Buckeye Rd & 22nd Av;33.436682;-112.107174;13;22
+1143;Buckeye Rd & 21st Av;33.436668;-112.10393;13;23
+1119;Buckeye Rd & 19th Av;33.436643;-112.099485;13;24
+1118;Buckeye Rd & 17th Av;33.436651;-112.095323;13;25
+1117;Buckeye Rd & 15th Av;33.436656;-112.090771;13;26
+1144;Buckeye Rd & 10th Av;33.436678;-112.086449;13;27
+1140;Buckeye Rd & 7th Av;33.436779;-112.08192;13;28
+1133;Buckeye Rd & 4th Av;33.436991;-112.078858;13;29
+1142;Buckeye Rd & Central Av;33.436736;-112.073209;13;30
+226;Buckeye Rd & 4th St;33.436731;-112.068101;13;31
+227;Buckeye Rd & 7th St;33.436734;-112.064444;13;32
+219;Buckeye Rd & 9th St;33.436733;-112.061093;13;33
+220;Buckeye Rd & 11th St;33.436719;-112.058363;13;34
+229;Buckeye Rd & 12th St;33.436717;-112.054744;13;35
+221;Buckeye Rd & 14th St;33.436717;-112.051489;13;36
+222;Buckeye Rd & 16th St;33.436613;-112.047235;13;37
+228;Buckeye Rd & Sky Harbor Cir;33.436626;-112.042858;13;38
+230;Buckeye Rd & 1900 East;33.436659;-112.040491;13;39
+223;Buckeye Rd & 24th St;33.436613;-112.034158;13;40
+224;Buckeye Rd & Copperhead Dr;33.436644;-112.029613;13;41
+225;Buckeye Rd & 25th Pl;33.4367;-112.02657;13;42
+660;Sky Harbor West;33.43649;-112.013864;13;43
+1360;12th St & Jefferson St;33.446784;-112.056331;12;1
+6188;Washington St & 12th St;33.448387;-112.056764;12;2
+1895;11th St & Van Buren St;33.451765;-112.058876;12;3
+1893;11th St & Fillmore St;33.455085;-112.05887;12;4
+1894;11th St & Roosevelt St;33.459056;-112.058847;12;5
+549;Moreland St & 11th St;33.46117;-112.058499;12;6
+1923;12th St & Willetta St;33.464103;-112.056281;12;7
+1912;12th St & McDowell Rd;33.466344;-112.056258;12;8
+1920;12th St & Palm Ln;33.468962;-112.056294;12;9
+1917;12th St & Oak St;33.473342;-112.056279;12;10
+1922;12th St & Virginia Av;33.476942;-112.056277;12;11
+1924;12th St & Thomas Rd;33.479615;-112.056267;12;12
+744;Thomas Rd & 14th St;33.48011;-112.051603;12;13
+1978;16th St & Thomas Rd;33.480564;-112.047461;12;14
+1958;16th St & Earll Dr;33.484182;-112.047529;12;15
+5812;Osborn Rd & 16th St;33.487509;-112.048255;12;16
+5811;Osborn Rd & 14th St;33.487498;-112.052505;12;17
+1919;12th St & Osborn Rd;33.487894;-112.056277;12;18
+1904;12th St & Clarendon Av;33.491479;-112.056258;12;19
+1910;12th St & Indian School Rd;33.495236;-112.056228;12;20
+1896;12th St & Devonshire Av;33.497106;-112.056233;12;21
+1897;12th St & Turney Av;33.500593;-112.056219;12;22
+1903;12th St & Campbell Av;33.502304;-112.056205;12;23
+1909;12th St & Highland Av;33.505954;-112.056183;12;24
+1902;12th St & Camelback Rd;33.509944;-112.056134;12;25
+1905;12th St & Colter St;33.513232;-112.056175;12;26
+1913;12th St & Missouri Av;33.517143;-112.056137;12;27
+1914;12th St & Montebello Av;33.520366;-112.056146;12;28
+1900;12th St & Bethany Home Rd;33.524164;-112.056129;12;29
+1921;12th St & Rose Ln;33.527587;-112.056165;12;30
+1911;12th St & Maryland Av;33.531267;-112.056173;12;31
+1918;12th St & Ocotillo Rd;33.534901;-112.056182;12;32
+1907;12th St & Glendale Av;33.538704;-112.056189;12;33
+1915;12th St & Myrtle Av;33.542251;-112.056267;12;34
+1926;12th St & State Av;33.544405;-112.056314;12;35
+1925;12th St & Wagon Wheel Dr;33.546253;-112.056352;12;36
+1899;12th St & Belmont Av;33.549616;-112.056436;12;37
+1916;12th St & Northern Av;33.553348;-112.056479;12;38
+1908;12th St & Griswold Rd;33.55749;-112.056579;12;39
+1901;12th St & Butler Dr;33.561145;-112.056627;12;40
+1898;12th St & Alice Av;33.564496;-112.056585;12;41
+1906;12th St & Dunlap Av;33.568086;-112.056718;12;42
+5676;Hatcher Rd & 12th St;33.571403;-112.057352;12;43
+397;Hatcher Rd & Cave Creek Rd;33.57147;-112.061041;12;44
+396;Hatcher Rd & 7th St;33.571481;-112.065895;12;45
+4030;3rd St & Hatcher Rd;33.570786;-112.069637;12;46
+4033;3rd St & Eva St;33.569263;-112.069644;12;47
+3;Sunnyslope TC;33.567024;-112.068692;12;48
+8984;Central Av & Polk St;33.452201;-112.07373;10;1
+2805;Central Av & Fillmore St;33.455058;-112.073712;10;2
+2814;Central Av & McKinley St;33.456949;-112.073706;10;3
+614;Roosevelt St & Central Av;33.458581;-112.073345;10;4
+619;Roosevelt St & 3rd St;33.458606;-112.07005;10;5
+611;Roosevelt St & 7th St;33.45862;-112.064553;10;6
+613;Roosevelt St & 9th St;33.458614;-112.061763;10;7
+599;Roosevelt St & 11th St;33.458612;-112.058338;10;8
+600;Roosevelt St & 12th St;33.458631;-112.05614;10;9
+601;Roosevelt St & 14th St;33.458627;-112.051801;10;10
+602;Roosevelt St & 16th St;33.458615;-112.046899;10;11
+603;Roosevelt St & 18th St;33.458603;-112.042744;10;12
+604;Roosevelt St & 20th St;33.45858;-112.038487;10;13
+605;Roosevelt St & 22nd Pl;33.458547;-112.033154;10;14
+606;Roosevelt St & 24th St;33.458472;-112.029694;10;15
+598;Roosevelt St & 25th Pl;33.458399;-112.02714;10;16
+618;Roosevelt St & 27th Pl;33.458431;-112.023321;10;17
+607;Roosevelt St & 28th St;33.458466;-112.021098;10;18
+608;Roosevelt St & 30th St;33.458444;-112.016899;10;19
+609;Roosevelt St & 31st St;33.458447;-112.01464;10;20
+3934;32nd St & Roosevelt St;33.458111;-112.013025;10;21
+6276;Baseline Rd & Central Av;33.377876;-112.073736;8;1
+6273;Baseline Rd & 4th Av;33.377855;-112.079805;8;2
+7824;7th Av & Baseline Rd;33.378412;-112.081733;8;3
+7825;7th Av & Minton St;33.381079;-112.081787;8;4
+7826;7th Av & Vineyard Rd;33.385537;-112.081812;8;5
+7823;7th Av & Alta Vista Rd;33.388836;-112.081837;8;6
+2603;7th Av & Southern Av;33.392719;-112.081811;8;7
+2604;7th Av & Sunland Av;33.396069;-112.081834;8;8
+2600;7th Av & Roeser Rd;33.399665;-112.081843;8;9
+2609;7th Av & Tamarisk St;33.404289;-112.081862;8;10
+2575;7th Av & Broadway Rd;33.407205;-112.081871;8;11
+2590;7th Av & Jones Av;33.411141;-112.081883;8;12
+2582;7th Av & Elwood St;33.414359;-112.081907;8;13
+2591;7th Av & Lower Buckeye Rd;33.422433;-112.082281;8;14
+2607;7th Av & Watkins St;33.426291;-112.082311;8;15
+2573;7th Av & Apache St;33.430353;-112.082349;8;16
+2599;7th Av & Pima St;33.433529;-112.082375;8;17
+2614;7th Av & 1201 South;33.435951;-112.082393;8;18
+2576;7th Av & Buckeye Rd;33.437286;-112.082388;8;19
+2611;7th Av & Hadley St;33.439688;-112.082436;8;20
+48;7th Av & Jefferson St;33.447641;-112.082423;8;21
+1822;Van Buren St & 7th Av;33.451302;-112.082078;8;22
+1821;Van Buren St & 5th Av;33.45131;-112.079745;8;23
+4979;Central Av & ASU University Center;33.452902;-112.073736;8;24
+6595;Fillmore St & 1st Av;33.454781;-112.07454;8;25
+6592;Fillmore St & 3rd Av;33.45481;-112.078071;8;26
+2584;7th Av & Fillmore St;33.455335;-112.082441;8;27
+2601;7th Av & Roosevelt St;33.4591;-112.082436;8;28
+2615;7th Av & Culver St;33.462437;-112.082494;8;29
+2618;7th Av & McDowell Rd;33.466438;-112.082488;8;30
+2598;7th Av & Palm Ln;33.469781;-112.082638;8;31
+2583;7th Av & Encanto Bl;33.473437;-112.082728;8;32
+2606;7th Av & Virginia Av;33.476965;-112.082819;8;33
+2605;7th Av & Thomas Rd;33.480685;-112.082865;8;34
+2580;7th Av & Earll Dr;33.483996;-112.082988;8;35
+2597;7th Av & Osborn Rd;33.488034;-112.0831;8;36
+2589;7th Av & Indianola Av;33.492377;-112.083248;8;37
+2588;7th Av & Indian School Rd;33.495344;-112.083355;8;38
+2587;7th Av & Glenrosa Av;33.499019;-112.082825;8;39
+2579;7th Av & Campbell Av;33.502453;-112.08231;8;40
+2612;7th Av & Highland Av;33.506197;-112.082344;8;41
+2578;7th Av & Camelback Rd;33.50992;-112.08237;8;42
+2610;7th Av & Colter St;33.513409;-112.082355;8;43
+2593;7th Av & Missouri Av;33.516921;-112.08233;8;44
+2617;7th Av & Luke Av;33.518285;-112.082321;8;45
+2594;7th Av & Montebello Av;33.520962;-112.082317;8;46
+2574;7th Av & Bethany Home Rd;33.52439;-112.082295;8;47
+2602;7th Av & Rose Ln;33.52781;-112.082305;8;48
+2592;7th Av & Maryland Av;33.531444;-112.082307;8;49
+2619;7th Av & Ocotillo Rd;33.534788;-112.082313;8;50
+2586;7th Av & Glendale Av;33.538812;-112.082323;8;51
+2613;7th Av & Myrtle Av;33.542201;-112.082356;8;52
+2596;7th Av & Orangewood Av;33.545441;-112.082397;8;53
+2585;7th Av & Frier Dr;33.549537;-112.082434;8;54
+2595;7th Av & Northern Av;33.553308;-112.082465;8;55
+2581;7th Av & El Camino Dr;33.557592;-112.082443;8;56
+2577;7th Av & Butler Dr;33.560658;-112.082426;8;57
+2608;7th Av & Why Worry Ln;33.563925;-112.08242;8;58
+1246;Dunlap Av & 7th Av;33.567463;-112.081649;8;59
+1232;Dunlap Av & 2nd Dr;33.567578;-112.076566;8;60
+320;Dunlap Av & Central Av;33.567645;-112.07331;8;61
+9;Sunnyslope TC;33.567123;-112.068585;8;62
+3255;7th St & Baseline Rd;33.37811;-112.064505;7-dunlap;1
+3257;7th St & Carter Rd;33.382776;-112.06451;7-dunlap;2
+3269;7th St & Vineyard Rd;33.385563;-112.064523;7-dunlap;3
+3254;7th St & Alta Vista Rd;33.38893;-112.064561;7-dunlap;4
+3267;7th St & Southern Av;33.392648;-112.064538;7-dunlap;5
+3273;7th St & Sunland Av;33.397288;-112.064468;7-dunlap;6
+3263;7th St & Roeser Rd;33.399901;-112.064489;7-dunlap;7
+3271;7th St & Wier Av;33.403444;-112.06446;7-dunlap;8
+3256;7th St & Broadway Rd;33.407035;-112.064439;7-dunlap;9
+3260;7th St & Jones Av;33.410961;-112.064475;7-dunlap;10
+3259;7th St & Elwood St;33.414228;-112.06451;7-dunlap;11
+3253;7th St & Victory St;33.416734;-112.064592;7-dunlap;12
+3268;7th St & University Dr;33.423828;-112.064827;7-dunlap;13
+3270;7th St & Watkins St;33.426157;-112.064971;7-dunlap;14
+3261;7th St & Mohave St;33.431738;-112.064936;7-dunlap;15
+3262;7th St & Pima St;33.433475;-112.0649;7-dunlap;16
+3274;7th St & Buckeye Rd;33.437641;-112.064919;7-dunlap;17
+3265;7th St & Sherman St;33.440366;-112.065003;7-dunlap;18
+3275;7th St & Lincoln St;33.441815;-112.06514;7-dunlap;19
+2666;7th St & Washington St;33.448658;-112.064901;7-dunlap;20
+6126;Van Buren St & 7th St;33.451518;-112.065736;7-dunlap;21
+6125;Van Buren St & 5th St;33.451517;-112.067952;7-dunlap;22
+8984;Central Av & Polk St;33.452201;-112.07373;7-dunlap;23
+350;Fillmore St & Central Av;33.454405;-112.073435;7-dunlap;24
+347;Fillmore St & 3rd St;33.454378;-112.069467;7-dunlap;25
+349;Fillmore St & 5th St;33.454352;-112.067462;7-dunlap;26
+2636;7th St & Fillmore St;33.455035;-112.065067;7-dunlap;27
+2659;7th St & Roosevelt St;33.459145;-112.065058;7-dunlap;28
+2647;7th St & McDowell Rd;33.466142;-112.064914;7-dunlap;29
+2638;7th St & Granada Rd;33.468639;-112.064989;7-dunlap;30
+2653;7th St & Oak St;33.473482;-112.064976;7-dunlap;31
+2676;7th St & Virginia Av;33.476294;-112.064963;7-dunlap;32
+2661;7th St & Thomas Rd;33.480552;-112.06492;7-dunlap;33
+2620;7th St & Earll Dr;33.484367;-112.064947;7-dunlap;34
+2674;7th St & Osborn Rd;33.488011;-112.064929;7-dunlap;35
+2667;7th St & Weldon Av;33.49061;-112.064926;7-dunlap;36
+2644;7th St & Indian School Rd;33.495152;-112.064867;7-dunlap;37
+2671;7th St & Montecito Av;33.498528;-112.064909;7-dunlap;38
+2675;7th St & Grand Canal;33.50225;-112.064902;7-dunlap;39
+2643;7th St & Highland Av;33.505883;-112.064888;7-dunlap;40
+2630;7th St & Camelback Rd;33.509847;-112.064885;7-dunlap;41
+2631;7th St & Colter St;33.513296;-112.06489;7-dunlap;42
+2649;7th St & Missouri Av;33.517081;-112.06487;7-dunlap;43
+2650;7th St & Montebello Av;33.521274;-112.064864;7-dunlap;44
+2628;7th St & Bethany Home Rd;33.524142;-112.064851;7-dunlap;45
+2660;7th St & Rose Ln;33.527735;-112.064864;7-dunlap;46
+2646;7th St & Maryland Av;33.531304;-112.064896;7-dunlap;47
+2654;7th St & Ocotillo Rd;33.535016;-112.064918;7-dunlap;48
+2637;7th St & Glendale Av;33.538627;-112.064924;7-dunlap;49
+2622;7th St & Nicolet Av;33.542666;-112.064983;7-dunlap;50
+2655;7th St & Orangewood Av;33.545883;-112.065018;7-dunlap;51
+2627;7th St & Belmont Av;33.549032;-112.065059;7-dunlap;52
+2652;7th St & Northern Av;33.553301;-112.065052;7-dunlap;53
+2633;7th St & Corte Oro;33.556954;-112.065132;7-dunlap;54
+2645;7th St & Las Palmaritas Dr;33.558877;-112.065142;7-dunlap;55
+2629;7th St & Butler Dr;33.560874;-112.065153;7-dunlap;56
+2625;7th St & Alice Av;33.564473;-112.065114;7-dunlap;57
+2664;7th St & Townley Av;33.566518;-112.065114;7-dunlap;58
+2635;7th St & Dunlap Av;33.568669;-112.065063;7-dunlap;59
+3258;7th St & Dobbins Rd;33.363766;-112.065869;7-deer;1
+3272;7th St & 8825 South;33.365978;-112.065887;7-deer;2
+3266;7th St & South Mountain Av;33.370862;-112.065892;7-deer;3
+20060;7th St & Jesse Owens Pkwy;33.374562;-112.065856;7-deer;4
+3255;7th St & Baseline Rd;33.37811;-112.064505;7-deer;5
+3257;7th St & Carter Rd;33.382776;-112.06451;7-deer;6
+3269;7th St & Vineyard Rd;33.385563;-112.064523;7-deer;7
+3254;7th St & Alta Vista Rd;33.38893;-112.064561;7-deer;8
+3267;7th St & Southern Av;33.392648;-112.064538;7-deer;9
+3273;7th St & Sunland Av;33.397288;-112.064468;7-deer;10
+3263;7th St & Roeser Rd;33.399901;-112.064489;7-deer;11
+3271;7th St & Wier Av;33.403444;-112.06446;7-deer;12
+3256;7th St & Broadway Rd;33.407035;-112.064439;7-deer;13
+3260;7th St & Jones Av;33.410961;-112.064475;7-deer;14
+3259;7th St & Elwood St;33.414228;-112.06451;7-deer;15
+3253;7th St & Victory St;33.416734;-112.064592;7-deer;16
+3268;7th St & University Dr;33.423828;-112.064827;7-deer;17
+3270;7th St & Watkins St;33.426157;-112.064971;7-deer;18
+3261;7th St & Mohave St;33.431738;-112.064936;7-deer;19
+3262;7th St & Pima St;33.433475;-112.0649;7-deer;20
+3274;7th St & Buckeye Rd;33.437641;-112.064919;7-deer;21
+3265;7th St & Sherman St;33.440366;-112.065003;7-deer;22
+3275;7th St & Lincoln St;33.441815;-112.06514;7-deer;23
+2666;7th St & Washington St;33.448658;-112.064901;7-deer;24
+6126;Van Buren St & 7th St;33.451518;-112.065736;7-deer;25
+6125;Van Buren St & 5th St;33.451517;-112.067952;7-deer;26
+8984;Central Av & Polk St;33.452201;-112.07373;7-deer;27
+350;Fillmore St & Central Av;33.454405;-112.073435;7-deer;28
+347;Fillmore St & 3rd St;33.454378;-112.069467;7-deer;29
+349;Fillmore St & 5th St;33.454352;-112.067462;7-deer;30
+2636;7th St & Fillmore St;33.455035;-112.065067;7-deer;31
+2659;7th St & Roosevelt St;33.459145;-112.065058;7-deer;32
+2647;7th St & McDowell Rd;33.466142;-112.064914;7-deer;33
+2638;7th St & Granada Rd;33.468639;-112.064989;7-deer;34
+2653;7th St & Oak St;33.473482;-112.064976;7-deer;35
+2676;7th St & Virginia Av;33.476294;-112.064963;7-deer;36
+2661;7th St & Thomas Rd;33.480552;-112.06492;7-deer;37
+2620;7th St & Earll Dr;33.484367;-112.064947;7-deer;38
+2674;7th St & Osborn Rd;33.488011;-112.064929;7-deer;39
+2667;7th St & Weldon Av;33.49061;-112.064926;7-deer;40
+2644;7th St & Indian School Rd;33.495152;-112.064867;7-deer;41
+2671;7th St & Montecito Av;33.498528;-112.064909;7-deer;42
+2675;7th St & Grand Canal;33.50225;-112.064902;7-deer;43
+2643;7th St & Highland Av;33.505883;-112.064888;7-deer;44
+2630;7th St & Camelback Rd;33.509847;-112.064885;7-deer;45
+2631;7th St & Colter St;33.513296;-112.06489;7-deer;46
+2649;7th St & Missouri Av;33.517081;-112.06487;7-deer;47
+2650;7th St & Montebello Av;33.521274;-112.064864;7-deer;48
+2628;7th St & Bethany Home Rd;33.524142;-112.064851;7-deer;49
+2660;7th St & Rose Ln;33.527735;-112.064864;7-deer;50
+2646;7th St & Maryland Av;33.531304;-112.064896;7-deer;51
+2654;7th St & Ocotillo Rd;33.535016;-112.064918;7-deer;52
+2637;7th St & Glendale Av;33.538627;-112.064924;7-deer;53
+2622;7th St & Nicolet Av;33.542666;-112.064983;7-deer;54
+2655;7th St & Orangewood Av;33.545883;-112.065018;7-deer;55
+2627;7th St & Belmont Av;33.549032;-112.065059;7-deer;56
+2652;7th St & Northern Av;33.553301;-112.065052;7-deer;57
+2633;7th St & Corte Oro;33.556954;-112.065132;7-deer;58
+2645;7th St & Las Palmaritas Dr;33.558877;-112.065142;7-deer;59
+2629;7th St & Butler Dr;33.560874;-112.065153;7-deer;60
+2625;7th St & Alice Av;33.564473;-112.065114;7-deer;61
+2664;7th St & Townley Av;33.566518;-112.065114;7-deer;62
+2635;7th St & Dunlap Av;33.568669;-112.065063;7-deer;63
+2641;7th St & Hatcher Rd;33.571664;-112.065059;7-deer;64
+2651;7th St & Mountain View Rd;33.575539;-112.065036;7-deer;65
+2669;7th St & Cheryl Dr;33.578426;-112.065004;7-deer;66
+2670;7th St & Peoria Av;33.582346;-112.064841;7-deer;67
+7614;7th St & Tapatio Cliffs Dr;33.594956;-112.065662;7-deer;68
+2663;7th St & Thunderbird Rd;33.60822;-112.064964;7-deer;69
+2658;7th St & Roberts Rd;33.611752;-112.065285;7-deer;70
+2642;7th St & Hearn Rd;33.615314;-112.065245;7-deer;71
+2624;7th St & Acoma Dr;33.618843;-112.065256;7-deer;72
+2634;7th St & Country Gables Dr;33.622968;-112.06531;7-deer;73
+2632;7th St & Coral Gables Dr;33.626234;-112.065312;7-deer;74
+2623;7th St & Tierra Buena Ln;33.629787;-112.06533;7-deer;75
+2656;7th St & Paradise Ln;33.633515;-112.065362;7-deer;76
+2672;7th St & Aire Libre Av;33.635841;-112.065329;7-deer;77
+2639;7th St & Greenway Pkwy;33.638232;-112.065293;7-deer;78
+2626;7th St & Bell Rd;33.64078;-112.065346;7-deer;79
+2621;7th St & Helena Dr;33.644576;-112.065394;7-deer;80
+2640;7th St & Grovers Av;33.647952;-112.065421;7-deer;81
+2648;7th St & Michelle Dr;33.651013;-112.065414;7-deer;82
+1015;7th St & Union Hills Dr;33.655258;-112.065362;7-deer;83
+1019;7th St & Westcott Dr;33.65909;-112.065462;7-deer;84
+1022;7th St & Utopia Dr;33.66256;-112.065473;7-deer;85
+1023;7th St & Behrend Dr;33.666252;-112.065443;7-deer;86
+1102;7th St & Beardsley Rd;33.670172;-112.065359;7-deer;87
+1109;7th St & Irma Ln;33.673782;-112.065465;7-deer;88
+1110;7th St & Rose Garden Ln;33.677152;-112.065418;7-deer;89
+1121;7th St & Lone Cactus Dr;33.680626;-112.065472;7-deer;90
+1124;Deer Valley Rd & 7th St;33.684022;-112.066387;7-deer;91
+1125;Deer Valley Rd & Central Av;33.683893;-112.074676;7-deer;92
+1155;Deer Valley Rd & 3rd Av;33.683887;-112.078276;7-deer;93
+7503;Deer Valley Rd & 7th Av;33.683932;-112.083614;7-deer;94
+7504;Deer Valley Rd & 9th Av;33.683892;-112.085618;7-deer;95
+7505;Deer Valley Rd & 12th Av;33.683899;-112.088895;7-deer;96
+7506;Deer Valley Rd & 15th Ln;33.683912;-112.093635;7-deer;97
+7878;Deer Valley Rd & 18th Av;33.683905;-112.097362;7-deer;98
+1375;Deer Valley Rd & 19th Av;33.683942;-112.100694;7-deer;99
+6122;Van Buren St & 44th St;33.451335;-111.987967;3-35th;1
+6121;Van Buren St & 41st Pl;33.451315;-111.99257;3-35th;2
+6131;Van Buren St & 3838 East;33.451357;-111.998159;3-35th;3
+6119;Van Buren St & 38th St;33.451357;-111.999884;3-35th;4
+6118;Van Buren St & 36th St;33.451366;-112.00453;3-35th;5
+6130;Van Buren St & 3330 East;33.451379;-112.009267;3-35th;6
+6117;Van Buren St & 32nd St;33.45141;-112.013368;3-35th;7
+6116;Van Buren St & 30th St;33.451403;-112.01762;3-35th;8
+6115;Van Buren St & 28th St;33.451411;-112.022084;3-35th;9
+6129;Van Buren St & 2500 East;33.451425;-112.026283;3-35th;10
+6114;Van Buren St & 24th St;33.451476;-112.030761;3-35th;11
+6107;Van Buren St & 22nd St;33.45148;-112.035035;3-35th;12
+6113;Van Buren St & 20th St;33.451512;-112.03935;3-35th;13
+6112;Van Buren St & 19th St;33.451521;-112.04162;3-35th;14
+6111;Van Buren St & 18th St;33.451517;-112.043744;3-35th;15
+6110;Van Buren St & 16th St;33.451517;-112.048234;3-35th;16
+6109;Van Buren St & 14th St;33.451485;-112.052547;3-35th;17
+6133;Van Buren St & 11th Wy;33.451451;-112.056789;3-35th;18
+6108;Van Buren St & 11th St;33.45145;-112.059739;3-35th;19
+6127;Van Buren St & 9th St;33.451448;-112.062609;3-35th;20
+6126;Van Buren St & 7th St;33.451518;-112.065736;3-35th;21
+6125;Van Buren St & 5th St;33.451517;-112.067952;3-35th;22
+50;Van Buren St & 2nd Av;33.4515;-112.076163;3-35th;23
+7148;Van Buren St & 4th Av;33.451508;-112.078648;3-35th;24
+7139;Van Buren St & 5th Av;33.451509;-112.080484;3-35th;25
+7140;Van Buren St & 7th Av;33.451483;-112.083446;3-35th;26
+7120;Van Buren St & 10th Av;33.45147;-112.086744;3-35th;27
+7121;Van Buren St & 12th Av;33.451465;-112.088912;3-35th;28
+7122;Van Buren St & 15th Av;33.451449;-112.091804;3-35th;29
+7123;Van Buren St & 17th Av;33.451401;-112.096289;3-35th;30
+7124;Van Buren St & 19th Av;33.451355;-112.10072;3-35th;31
+7125;Van Buren St & 21st Av;33.451319;-112.105049;3-35th;32
+7142;Van Buren St & 24th Av;33.451304;-112.110271;3-35th;33
+7126;Van Buren St & 25th Av;33.451246;-112.113582;3-35th;34
+7127;Van Buren St & 27th Av;33.451212;-112.118192;3-35th;35
+7128;Van Buren St & 29th Av;33.451337;-112.122422;3-35th;36
+7129;Van Buren St & 31st Av;33.451453;-112.126774;3-35th;37
+7130;Van Buren St & 33rd Av;33.45154;-112.130742;3-35th;38
+7131;Van Buren St & 35th Av;33.451524;-112.135316;3-35th;39
+3567;Phoenix Zoo;33.453345;-111.948022;3-4th;1
+6128;Van Buren St & Priest Dr;33.451064;-111.956554;3-4th;2
+6106;Van Buren St & 56th St;33.451104;-111.961503;3-4th;3
+6135;Van Buren St & 53rd St;33.451031;-111.966904;3-4th;4
+6124;Van Buren St & 52nd St;33.451057;-111.970465;3-4th;5
+6132;Van Buren St & 50th St;33.45113;-111.974996;3-4th;6
+6123;Van Buren St & 48th St;33.451239;-111.978826;3-4th;7
+6122;Van Buren St & 44th St;33.451335;-111.987967;3-4th;8
+6121;Van Buren St & 41st Pl;33.451315;-111.99257;3-4th;9
+6131;Van Buren St & 3838 East;33.451357;-111.998159;3-4th;10
+6119;Van Buren St & 38th St;33.451357;-111.999884;3-4th;11
+6118;Van Buren St & 36th St;33.451366;-112.00453;3-4th;12
+6130;Van Buren St & 3330 East;33.451379;-112.009267;3-4th;13
+6117;Van Buren St & 32nd St;33.45141;-112.013368;3-4th;14
+6116;Van Buren St & 30th St;33.451403;-112.01762;3-4th;15
+6115;Van Buren St & 28th St;33.451411;-112.022084;3-4th;16
+6129;Van Buren St & 2500 East;33.451425;-112.026283;3-4th;17
+6114;Van Buren St & 24th St;33.451476;-112.030761;3-4th;18
+6107;Van Buren St & 22nd St;33.45148;-112.035035;3-4th;19
+6113;Van Buren St & 20th St;33.451512;-112.03935;3-4th;20
+6112;Van Buren St & 19th St;33.451521;-112.04162;3-4th;21
+6111;Van Buren St & 18th St;33.451517;-112.043744;3-4th;22
+6110;Van Buren St & 16th St;33.451517;-112.048234;3-4th;23
+6109;Van Buren St & 14th St;33.451485;-112.052547;3-4th;24
+6133;Van Buren St & 11th Wy;33.451451;-112.056789;3-4th;25
+6108;Van Buren St & 11th St;33.45145;-112.059739;3-4th;26
+6127;Van Buren St & 9th St;33.451448;-112.062609;3-4th;27
+6126;Van Buren St & 7th St;33.451518;-112.065736;3-4th;28
+6125;Van Buren St & 5th St;33.451517;-112.067952;3-4th;29
+50;Van Buren St & 2nd Av;33.4515;-112.076163;3-4th;30
+7148;Van Buren St & 4th Av;33.451508;-112.078648;3-4th;31
+7139;Van Buren St & 5th Av;33.451509;-112.080484;3-4th;32
+7140;Van Buren St & 7th Av;33.451483;-112.083446;3-4th;33
+7120;Van Buren St & 10th Av;33.45147;-112.086744;3-4th;34
+7121;Van Buren St & 12th Av;33.451465;-112.088912;3-4th;35
+7122;Van Buren St & 15th Av;33.451449;-112.091804;3-4th;36
+7123;Van Buren St & 17th Av;33.451401;-112.096289;3-4th;37
+7124;Van Buren St & 19th Av;33.451355;-112.10072;3-4th;38
+7125;Van Buren St & 21st Av;33.451319;-112.105049;3-4th;39
+7142;Van Buren St & 24th Av;33.451304;-112.110271;3-4th;40
+7126;Van Buren St & 25th Av;33.451246;-112.113582;3-4th;41
+7127;Van Buren St & 27th Av;33.451212;-112.118192;3-4th;42
+7128;Van Buren St & 29th Av;33.451337;-112.122422;3-4th;43
+7129;Van Buren St & 31st Av;33.451453;-112.126774;3-4th;44
+7130;Van Buren St & 33rd Av;33.45154;-112.130742;3-4th;45
+7131;Van Buren St & 35th Av;33.451524;-112.135316;3-4th;46
+7132;Van Buren St & 37th Av;33.451507;-112.139304;3-4th;47
+7133;Van Buren St & 39th Av;33.451525;-112.143754;3-4th;48
+7118;Van Buren St & 41st Av;33.451489;-112.147873;3-4th;49
+7134;Van Buren St & 43rd Av;33.451502;-112.152399;3-4th;50
+7135;Van Buren St & 45th Av;33.451439;-112.156445;3-4th;51
+7136;Van Buren St & 47th Av;33.451433;-112.160976;3-4th;52
+7137;Van Buren St & 49th Av;33.451367;-112.166295;3-4th;53
+7138;Van Buren St & 51st Av;33.451374;-112.16973;3-4th;54
+7508;Van Buren St & 52nd Av;33.451351;-112.172762;3-4th;55
+7509;Van Buren St & 55th Av;33.451377;-112.178383;3-4th;56
+7510;Van Buren St & 57th Dr;33.451573;-112.182481;3-4th;57
+7511;Van Buren St & 59th Av;33.45181;-112.18741;3-4th;58
+7528;Van Buren St & 61st Av;33.451637;-112.191434;3-4th;59
+7513;Van Buren St & 63rd Av;33.45165;-112.195686;3-4th;60
+7499;Van Buren St & 64th Dr;33.451659;-112.198738;3-4th;61
+8083;Van Buren St & 67th Av;33.451719;-112.203891;3-4th;62
+8084;Van Buren St & 69th Av;33.451715;-112.207288;3-4th;63
+8085;Van Buren St & 71st Av;33.451775;-112.213016;3-4th;64
+8086;Van Buren St & 73rd Av;33.45182;-112.217684;3-4th;65
+8087;Van Buren St & 75th Av;33.451838;-112.22191;3-4th;66
+8088;Van Buren St & 7680 West;33.451871;-112.227016;3-4th;67
+8089;Van Buren St & 79th Av;33.451862;-112.230069;3-4th;68
+8090;Van Buren St & 8062 West;33.451885;-112.234042;3-4th;69
+8105;Van Buren St & 83rd Av;33.451893;-112.238976;3-4th;70
+8717;Van Buren St & 87th Av;33.451169;-112.247194;3-4th;71
+9331;Van Buren St & 91st Av;33.450551;-112.254093;3-4th;72
+7150;Van Buren St & 93rd Av;33.450451;-112.25923;3-4th;73
+7141;Van Buren St & 94th Av;33.450434;-112.262864;3-4th;74
+7151;Van Buren St & 96th Av;33.450421;-112.266624;3-4th;75
+9287;Van Buren St & 99th Av;33.450414;-112.273167;3-4th;76
+9258;Van Buren St & 104th Av;33.450203;-112.28453;3-4th;77
+8692;Van Buren St & 111th Av;33.449963;-112.298862;3-4th;78
+9703;Avondale Bl & Van Buren St;33.449054;-112.306788;3-4th;79
+7974;Civic Center Dr & 114th Av;33.445121;-112.30397;3-4th;80
+8355;Van Buren St & Links Dr;33.449757;-112.315864;3-4th;81
+8694;Van Buren St & Fairway Dr;33.449684;-112.324776;3-4th;82
+7144;Van Buren St & Eliseo Felix Jr Wy;33.449934;-112.337388;3-4th;83
+8696;Van Buren St & Dysart Rd;33.450024;-112.341935;3-4th;84
+8099;La Canada Bl & 4th St;33.446296;-112.347993;3-4th;85
+898;Van Buren St & Central Av;33.451297;-112.073147;1;1
+890;Van Buren St & 3rd St;33.451288;-112.069235;1;2
+895;Van Buren St & 5th St;33.451252;-112.066926;1;3
+4376;7th St & Van Buren St;33.450847;-112.065311;1;4
+449;Jefferson St & 7th St;33.447052;-112.064595;1;5
+450;Jefferson St & 9th St;33.447047;-112.061619;1;6
+440;Jefferson St & 11th St;33.44705;-112.05855;1;7
+441;Jefferson St & 12th St;33.447068;-112.055842;1;8
+442;Jefferson St & 14th St;33.44709;-112.051681;1;9
+452;Jefferson St & 16th St;33.447108;-112.048254;1;10
+444;Jefferson St & 18th St;33.44712;-112.042687;1;11
+445;Jefferson St & 22nd St;33.447158;-112.034176;1;12
+446;Jefferson St & 24th St;33.447034;-112.029396;1;13
+952;Washington St & 27th St;33.448059;-112.023123;1;14
+953;Washington St & 28th St;33.448078;-112.021083;1;15
+954;Washington St & 30th St;33.448051;-112.01645;1;16
+955;Washington St & 32nd St;33.448032;-112.012473;1;17
+956;Washington St & 34th St;33.448009;-112.006712;1;18
+964;Washington St & 36th St;33.448011;-112.003013;1;19
+957;Washington St & 38th St;33.447916;-111.998452;1;20
+958;Washington St & 40th St;33.447967;-111.994692;1;21
+959;Washington St & 41st Pl;33.448007;-111.991217;1;22
+960;Washington St & 44th St;33.447946;-111.986557;1;23
+961;Washington St & 48th St;33.447172;-111.977939;1;24
+962;Washington St & 5025 East;33.446615;-111.973355;1;25
+963;Washington St & 54th Pl;33.445718;-111.96576;1;26
+1845;Washington St & 56th St;33.445022;-111.960418;1;27
+3033;Priest Dr & Washington St;33.442861;-111.955814;1;28
+6134;Van Buren St & Central Av;33.451514;-112.073504;0A-dobbins;1
+5042;1st Av & Lincoln St;33.441594;-112.075197;0A-dobbins;2
+5041;Central Av & Hadley St;33.438757;-112.073899;0A-dobbins;3
+5037;Central Av & Buckeye Rd;33.435805;-112.073914;0A-dobbins;4
+5045;Central Av & Papago St;33.433683;-112.073887;0A-dobbins;5
+5044;Central Av & Mohave St;33.430774;-112.073876;0A-dobbins;6
+5052;Central Av & Watkins St;33.42521;-112.073571;0A-dobbins;7
+5033;Central Av & Victory St;33.416778;-112.073737;0A-dobbins;8
+5038;Central Av & Elwood St;33.413537;-112.073562;0A-dobbins;9
+5054;Central Av & Jones Av;33.410316;-112.073517;0A-dobbins;10
+7783;Central Av & Broadway Rd;33.407134;-112.073518;0A-dobbins;11
+5036;Central Av & 4400 South;33.406234;-112.073491;0A-dobbins;12
+5050;Central Av & Tamarisk St;33.403661;-112.073488;0A-dobbins;13
+5046;Central Av & Roeser Rd;33.399092;-112.073508;0A-dobbins;14
+5049;Central Av & Sunland Av;33.39553;-112.073468;0A-dobbins;15
+5048;Central Av & Southern Av;33.391388;-112.073482;0A-dobbins;16
+5043;Central Av & Lynne Av;33.390032;-112.073434;0A-dobbins;17
+5034;Central Av & Alta Vista Rd;33.388217;-112.073424;0A-dobbins;18
+5051;Central Av & Vineyard Rd;33.384543;-112.073434;0A-dobbins;19
+5040;Central Av & Fremont Rd;33.380564;-112.073385;0A-dobbins;20
+5035;Central Av & Baseline Rd;33.37722;-112.073395;0A-dobbins;21
+5032;Central Av & Olympic Dr;33.374402;-112.073381;0A-dobbins;22
+5047;Central Av & South Mountain Av;33.370128;-112.073349;0A-dobbins;23
+5039;Central Av & Euclid Av;33.366648;-112.07334;0A-dobbins;24
+6518;Dobbins Rd & Central Av;33.363354;-112.074452;0A-dobbins;25
+6516;Dobbins Rd & 3rd Av;33.36328;-112.07931;0A-dobbins;26
+6519;Dobbins Rd & 7th Av;33.363255;-112.083781;0A-dobbins;27
+4841;10th Av & Dobbins Rd;33.362665;-112.086453;0A-dobbins;28
+4842;10th Av & McNeil St;33.358403;-112.087649;0A-dobbins;29
+6420;Buist Av & 12th Av;33.359399;-112.090188;0A-dobbins;30
+3153;15th Av & Estes Wy;33.361327;-112.091847;0A-dobbins;31
+6134;Van Buren St & Central Av;33.451514;-112.073504;0A-baseline;1
+5042;1st Av & Lincoln St;33.441594;-112.075197;0A-baseline;2
+5041;Central Av & Hadley St;33.438757;-112.073899;0A-baseline;3
+5037;Central Av & Buckeye Rd;33.435805;-112.073914;0A-baseline;4
+5045;Central Av & Papago St;33.433683;-112.073887;0A-baseline;5
+5044;Central Av & Mohave St;33.430774;-112.073876;0A-baseline;6
+5052;Central Av & Watkins St;33.42521;-112.073571;0A-baseline;7
+5033;Central Av & Victory St;33.416778;-112.073737;0A-baseline;8
+5038;Central Av & Elwood St;33.413537;-112.073562;0A-baseline;9
+5054;Central Av & Jones Av;33.410316;-112.073517;0A-baseline;10
+7783;Central Av & Broadway Rd;33.407134;-112.073518;0A-baseline;11
+5036;Central Av & 4400 South;33.406234;-112.073491;0A-baseline;12
+5050;Central Av & Tamarisk St;33.403661;-112.073488;0A-baseline;13
+5046;Central Av & Roeser Rd;33.399092;-112.073508;0A-baseline;14
+5049;Central Av & Sunland Av;33.39553;-112.073468;0A-baseline;15
+5048;Central Av & Southern Av;33.391388;-112.073482;0A-baseline;16
+5043;Central Av & Lynne Av;33.390032;-112.073434;0A-baseline;17
+5034;Central Av & Alta Vista Rd;33.388217;-112.073424;0A-baseline;18
+5051;Central Av & Vineyard Rd;33.384543;-112.073434;0A-baseline;19
+5040;Central Av & Fremont Rd;33.380564;-112.073385;0A-baseline;20
+5035;Central Av & Baseline Rd;33.37722;-112.073395;0A-baseline;21
+4979;Central Av & ASU University Center;33.452902;-112.073736;0;1
+2805;Central Av & Fillmore St;33.455058;-112.073712;0;2
+2814;Central Av & McKinley St;33.456949;-112.073706;0;3
+2825;Central Av & Roosevelt St;33.459276;-112.073718;0;4
+2789;Central Av & Culver St;33.463191;-112.073665;0;5
+2813;Central Av & McDowell Rd;33.466156;-112.073643;0;6
+2823;Central Av & Palm Ln;33.469692;-112.073649;0;7
+2844;Central Av & Encanto Bl;33.473358;-112.073628;0;8
+2827;Central Av & Virginia Av;33.47739;-112.073627;0;9
+2826;Central Av & Thomas Rd;33.480886;-112.073557;0;10
+2804;Central Av & Earll Dr;33.484404;-112.073636;0;11
+2822;Central Av & Osborn Rd;33.488225;-112.073617;0;12
+2802;Central Av & Columbus Av;33.490169;-112.073633;0;13
+2810;Central Av & Indianola Av;33.492809;-112.073652;0;14
+2809;Central Av & Indian School Rd;33.495356;-112.073568;0;15
+2792;Central Av & Farrington Ln;33.49828;-112.073632;0;16
+2788;Central Av & Campbell Av;33.502628;-112.073572;0;17
+2841;Central Av & Highland Av;33.505365;-112.073593;0;18
+2798;Central Av & Camelback Rd;33.50975;-112.073561;0;19
+2820;Central Av & Orange Dr;33.512407;-112.073605;0;20
+2791;Central Av & Georgia Av;33.515042;-112.073599;0;21
+2815;Central Av & Missouri Av;33.517068;-112.073598;0;22
+2816;Central Av & Montebello Av;33.520477;-112.073572;0;23
+2795;Central Av & Bethany Home Rd;33.52433;-112.073591;0;24
+2793;Central Av & Rose Ln;33.528297;-112.073618;0;25
+2812;Central Av & Maryland Av;33.53139;-112.073621;0;26
+2819;Central Av & Ocotillo Rd;33.534508;-112.073636;0;27
+2806;Central Av & Glendale Av;33.538724;-112.073635;0;28
+2824;Central Av & Myrtle Av;33.542453;-112.073702;0;29
+2821;Central Av & Orangewood Av;33.545945;-112.07374;0;30
+2790;Central Av & Frier Dr;33.549125;-112.073777;0;31
+2818;Central Av & Northern Av;33.553185;-112.073796;0;32
+2808;Central Av & Griswold Rd;33.556851;-112.073806;0;33
+2787;Central Av & Butler Dr;33.560749;-112.073761;0;34
+2847;Central Av & Ruth Av;33.562643;-112.073741;0;35
+2794;Central Av & Alice Av;33.56469;-112.073762;0;36
+320;Dunlap Av & Central Av;33.567645;-112.07331;0;37
+983;Sunnyslope TC;33.567127;-112.069078;0;38
