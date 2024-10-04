@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -39,29 +40,25 @@ public class RouteList
 
       fileWriter1.write("<title>Route Listing - Eliot Deviation Index</title> \n");
       fileWriter1.append("<link rel=stylesheet href=style.css> \n");
+      fileWriter1.append("<script src=routes.js></script> \n");
       fileWriter1.append("<body onload=getAgencies()> \n");
-      fileWriter1.append("<ul><li><a href=index.html>Home</a></li>");
+      fileWriter1.append("<ul><li><a href=index.html>Home</a></li> \n");
       fileWriter1.append("<li><a href=stops.html>Stop Listing</a></li> \n");
       fileWriter1.append("<li><a href=routes.html class=active>Route Listing</a></li> \n");
       fileWriter1.append("<li><a href=detailed.html>Route Detail</a></li> \n");
-      fileWriter1.append("<li><a href=stats.html>Statistics</a></li> \n");
       fileWriter1.append("<li><a href=calculator.html>Calculator</a></li> \n");
       fileWriter1.append("<li><a href=resources.html>Resources</a></li></ul> \n");
       fileWriter1.append("<h1>Route Listing</h1> \n");
 
       fileWriter1.append("<p>Only want the worst of the bunch? <a href=deviatory.html>Here</a> is a list of all routes with an EDI over 3.0, our threshold for being too deviatory.</p> \n");
 
-      // listing with links at top
-      fileWriter1.append("<p id=agencies></p> \n");
-      fileWriter1.append("<script src=list.js></script>");
+      fileWriter1.append("<p>Agency: <select id=\"agencyDrop\"><option value=\"none\">Select an agency</option></select> <button onClick=\"getRoutes()\">Enter</button></p>> \n");
       
       int routeCount = 0;
 
       // loop to list routes
       for (int i = 0; i < agencies.size(); i++)
       {
-        fileWriter1.append("<h3 id=" + agencies.get(i) + ">" + fullAgencies.get(i) + " (" + agencies.get(i) + ")</h3> \n");
-
         ArrayList<String> routeCode = new ArrayList<String>();
         ArrayList<String> routeDist = new ArrayList<String>();
         ArrayList<String> routeEdi = new ArrayList<String>();
@@ -102,23 +99,6 @@ public class RouteList
         {
           // System.out.println("Error, no EDI file (" + agencies.get(i) + ")"); // expected error if no routes in database.
         }
-
-        fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n");
-
-        // route table created
-        for (int j = 0; j < routeCode.size(); j++)
-        {
-          if (routeOfficial.get(j).equals("y"))
-          {
-            fileWriter1.append("<tr><td style=color:#ff0000>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
-          }
-          else
-          {
-            fileWriter1.append("<tr><td style=color:#0000ff>" + routeCode.get(j) + "</td><td>" + routeDist.get(j) + " mi.</td><td>" + routeEdi.get(j) + "</td></tr> \n");
-          }
-        }
-
-        fileWriter1.append("</table> \n");
         System.out.println("Agency Routes (" + agencies.get(i) + "): " + agencyCount);
         int currentSize = agencyCount;
         
@@ -153,16 +133,6 @@ public class RouteList
               routeCount++;
               agencyCount++;
             }
-
-            fileWriter1.append("<p><b>" + agencySets.get(j) + " Set</b></p>\n");
-            fileWriter1.append("<table><tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n");
-
-            for (int k = currentSize; k < routeCode.size(); k++)
-            {
-              fileWriter1.append("<tr><td style=color:#0000ff>" + routeCode.get(k) + "</td><td>" + routeDist.get(k) + " mi.</td><td>" + routeEdi.get(k) + "</td></tr> \n");
-            }
-
-            fileWriter1.append("</table> \n");
             currentSize = agencyCount; // set things for the next set if applicable
           }
         }
@@ -172,7 +142,133 @@ public class RouteList
         }
       }
 
-      fileWriter1.append("<p><b>Route Count: </b> " + routeCount + "</p>");   
+      // stats side of everything - literally just copied from Stats.java
+      ArrayList<Double> lengths = new ArrayList<Double>();
+      ArrayList<Double> edis = new ArrayList<Double>();
+      double totals = 0.00;
+      double medianEdi = 0.0;
+      double medianLength = 0.0;
+      for (int a = 0; a < agencies.size(); a++)
+      {
+        try
+        {
+          Scanner s = new Scanner(new File("../edis/" + agencies.get(a) + ".txt"));
+          while (s.hasNextLine())
+          {
+            String data = s.nextLine();
+            data = data.substring(data.indexOf(";") + 1);
+            double miles = Double.parseDouble(data.substring(0, data.indexOf(";")));
+            data = data.substring(data.indexOf(";") + 1);
+            double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
+
+            lengths.add(miles);
+            edis.add(edi);
+            totals += miles;
+          }
+        }
+        catch (Exception e)
+        {
+          continue; // skip because agency not in database
+        }
+
+        // check for sets - yes, sets are being counted with global stats list
+        try
+        {
+          // load in the sets
+          ArrayList<String> agencySets = new ArrayList<String>();
+          Scanner t = new Scanner(new File("../sets/" + agencies.get(a) + ".txt"));
+          while (t.hasNextLine())
+          {
+            String data = t.nextLine();
+            agencySets.add(data);
+          }
+
+          // load in from the set
+          for (int j = 0; j < agencySets.size(); j++) // loop through all sets
+          {
+            Scanner s = new Scanner(new File("../edis/sets/" + agencies.get(a) + "-" + agencySets.get(j) + ".txt"));
+            while (s.hasNextLine())
+            {
+              String data = s.nextLine();
+              data = data.substring(data.indexOf(";") + 1);
+              double miles = Double.parseDouble(data.substring(0, data.indexOf(";")));
+              data = data.substring(data.indexOf(";") + 1);
+              double edi = Double.parseDouble(data);
+  
+              lengths.add(miles);
+              edis.add(edi);
+              totals += miles;
+            }
+          }
+        }
+        catch (Exception e)
+        {
+          // skip, agency has no sets
+        }
+      }
+
+      Collections.sort(lengths);
+      Collections.sort(edis);
+
+      // median EDI
+      if (edis.size() % 2 == 1) // odd amount of EDIs
+      {
+        if (edis.size() == 1)
+        {
+          medianEdi = edis.get(0);
+        }
+        else
+        {
+          medianEdi = edis.get(edis.size() / 2);
+        }
+      }
+      else // even amount of EDIs
+      {
+        if (edis.size() == 2)
+        {
+          medianEdi = (edis.get(0) + edis.get(1)) / 2.0;
+        }
+        else
+        {
+          medianEdi = (edis.get((edis.size() / 2) - 1) + edis.get(edis.size() / 2)) / 2.0;
+        }
+        medianEdi = Math.round(medianEdi * 100.0) / 100.0;
+      }
+
+      // median length
+      if (lengths.size() % 2 == 1) // odd amount of lengths
+      {
+        if (lengths.size() == 1)
+        {
+          medianLength = lengths.get(0);
+        }
+        else
+        {
+          medianLength = lengths.get(lengths.size() / 2);
+        }
+      }
+      else // even amount of lengths
+      {
+        if (lengths.size() == 2)
+        {
+          medianLength = (lengths.get(0) + lengths.get(1)) / 2.0;
+        }
+        else
+        {
+          medianLength = (lengths.get((lengths.size() / 2) - 1) + lengths.get(lengths.size() / 2)) / 2.0;
+        }
+        medianLength = Math.round(medianLength * 100.0) / 100.0;
+      }
+
+      // round total miles
+      totals = Math.round(totals * 100.0) / 100.0;
+
+      fileWriter1.append("<table><tr><th></th><th>Entire Database</th><th>Selected Agency</th></tr> \n");
+      fileWriter1.append("<tr><td><b>Route Count</b></td><td>" + routeCount + "</td><td id=\"agencyRoutes\"></td></tr> \n");
+      fileWriter1.append("<tr><td><b>Total Miles</b></td><td>" + totals + " mi.</td><td id=\"agencyMiles\"></td></tr> \n");
+      fileWriter1.append("<tr><td><b>Median Length</b></td><td>" + medianLength + " mi.</td><td id=\"medianLength\"></td></tr> \n");
+      fileWriter1.append("<tr><td><b>Median EDI</b></td><td>" + medianEdi + "</td><td id=\"medianEdi\"></td></tr></table> \n");
+      fileWriter1.append("<p><table id=\"listing\"></p>");
       fileWriter1.close();
       System.out.println("Route Count: " + routeCount);
     }

@@ -16,7 +16,6 @@ public class Update
     HighRoutes h = new HighRoutes();
     FullMap c = new FullMap();
     AgencyMap d = new AgencyMap();
-    StatsList f = new StatsList();
     Stats g = new Stats("global");
 
     //a.main(args);
@@ -24,7 +23,6 @@ public class Update
     h.main(args);
     c.main(args);
     d.main(args);
-    f.main(args);
     g.main(args);
 
     // update home page with date
