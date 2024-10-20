@@ -53,84 +53,83 @@
 		</LineStyle> 
 		</Style>
 	<Placemark> 
-		<name>X90-south-B</name>
-		<styleUrl>#1.0</styleUrl>
+		<name>R22</name>
+		<styleUrl>#2.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-pvta</SimpleData>
-<SimpleData name="LineCode">X90-south-B</SimpleData>
-<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
-<SimpleData name="LineBranch">South B: via Grove St</SimpleData>
-<SimpleData name="LineLength">8.83</SimpleData>
-<SimpleData name="LineEDI">1.25</SimpleData>
+<SimpleData name="LineCode">R22</SimpleData>
+<SimpleData name="LineName">R22: Holyoke - Chicopee via Grattan</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">5.65</SimpleData>
+<SimpleData name="LineEDI">2.03</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
-			-72.527422,42.079806,0
-			-72.531855,42.07944,0
-			-72.537978,42.080559,0
-			-72.540697,42.0818,0
-			-72.541702,42.082262,0
-			-72.544121,42.083967,0
-			-72.546376,42.085609,0
-			-72.547282,42.086244,0
-			-72.548777,42.087332,0
-			-72.550843,42.088843,0
-			-72.552589,42.090113,0
-			-72.554003,42.091145,0
-			-72.555054,42.09191,0
-			-72.556314,42.092846,0
-			-72.557433,42.093669,0
-			-72.558825,42.094668,0
-			-72.560806,42.096099,0
-			-72.56203,42.096627,0
-			-72.564017,42.098261,0
-			-72.56508,42.099891,0
-			-72.566722,42.101005,0
-			-72.567722,42.101678,0
-			-72.56911,42.102611,0
-			-72.570437,42.103541,0
-			-72.572362,42.104794,0
-			-72.573761,42.105747,0
-			-72.574826,42.106461,0
-			-72.576105,42.107329,0
-			-72.578158,42.110426,0
-			-72.576098,42.111571,0
-			-72.580437,42.114319,0
-			-72.58244,42.116759,0
-			-72.584176,42.121743,0
-			-72.584258,42.123617,0
-			-72.58435,42.12576,0
-			-72.584494,42.129231,0
-			-72.584597,42.132199,0
-			-72.584672,42.133654,0
-			-72.582694,42.138501,0
-			-72.582059,42.137644,0
-			-72.579037,42.137931,0
-			-72.581465,42.140946,0
-			-72.580962,42.142161,0
-			-72.580372,42.143667,0
-			-72.579649,42.146984,0
-			-72.579841,42.149181,0
-			-72.584603,42.153967,0
-			-72.584223,42.15714,0
-			-72.584627,42.158465,0
+			-72.607355,42.208442,0
+			-72.609392,42.206524,0
+			-72.611548,42.204349,0
+			-72.61231,42.202793,0
+			-72.61073,42.201881,0
+			-72.605863,42.199144,0
+			-72.605143,42.198549,0
+			-72.603783,42.197382,0
+			-72.601393,42.19153,0
+			-72.602781,42.190288,0
+			-72.604477,42.189032,0
+			-72.607618,42.187224,0
+			-72.610519,42.183728,0
+			-72.610257,42.182703,0
+			-72.600487,42.17579,0
+			-72.599503,42.174187,0
+			-72.596805,42.170658,0
+			-72.592593,42.167534,0
+			-72.590873,42.16589,0
+			-72.58891,42.163954,0
+			-72.58615,42.161932,0
+			-72.582729,42.160856,0
 			-72.581796,42.161133,0
-			-72.578304,42.167659,0
-			-72.577228,42.170689,0
-			-72.574825,42.172971,0
-			-72.575336,42.174401,0
+			-72.583975,42.165378,0
+			-72.586485,42.172241,0
 			-72.57859,42.17426,0
 			</coordinates> 
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>X90-south-A</name>
+		<name>G19</name>
+		<styleUrl>#2.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-pvta</SimpleData>
+<SimpleData name="LineCode">G19</SimpleData>
+<SimpleData name="LineName">G19: Holyoke - Chicopee via Montcalm - S Hadley</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.04</SimpleData>
+<SimpleData name="LineEDI">2.17</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-72.57859,42.17426,0
+			-72.574825,42.172971,0
+			-72.575336,42.174401,0
+			-72.577337,42.186764,0
+			-72.575922,42.192694,0
+			-72.573675,42.197751,0
+			-72.573676,42.208507,0
+			-72.572127,42.212152,0
+			-72.571633,42.203093,0
+			-72.593274,42.214563,0
+			-72.604964,42.205757,0
+			-72.607355,42.208442,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>X90</name>
 		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-pvta</SimpleData>
-<SimpleData name="LineCode">X90-south-A</SimpleData>
+<SimpleData name="LineCode">X90</SimpleData>
 <SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
-<SimpleData name="LineBranch">South A: via Broadway</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">8.72</SimpleData>
 <SimpleData name="LineEDI">1.24</SimpleData>
 </SchemaData></ExtendedData>
@@ -192,82 +191,6 @@
 			-72.577228,42.170689,0
 			-72.574825,42.172971,0
 			-72.575336,42.174401,0
-			-72.57859,42.17426,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>X90-north-A</name>
-		<styleUrl>#2.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">ma-pvta</SimpleData>
-<SimpleData name="LineCode">X90-north-A</SimpleData>
-<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
-<SimpleData name="LineBranch">North A: via Memorial Dr</SimpleData>
-<SimpleData name="LineLength">6.41</SimpleData>
-<SimpleData name="LineEDI">2.3</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-72.607355,42.208442,0
-			-72.605817,42.20609,0
-			-72.602985,42.20455,0
-			-72.598335,42.206788,0
-			-72.595888,42.207033,0
-			-72.594181,42.214706,0
-			-72.571633,42.203093,0
-			-72.572127,42.212152,0
-			-72.573676,42.208507,0
-			-72.571633,42.203093,0
-			-72.574274,42.197137,0
-			-72.576223,42.192771,0
-			-72.577578,42.189292,0
-			-72.577656,42.187037,0
-			-72.577627,42.185643,0
-			-72.574825,42.172971,0
-			-72.575336,42.174401,0
-			-72.57859,42.17426,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>X90-north-B</name>
-		<styleUrl>#2.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">ma-pvta</SimpleData>
-<SimpleData name="LineCode">X90-north-B</SimpleData>
-<SimpleData name="LineName">X90: Inner Crosstown</SimpleData>
-<SimpleData name="LineBranch">North B: via Buckley Blvd</SimpleData>
-<SimpleData name="LineLength">5.65</SimpleData>
-<SimpleData name="LineEDI">2.03</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-72.607355,42.208442,0
-			-72.609392,42.206524,0
-			-72.611548,42.204349,0
-			-72.61231,42.202793,0
-			-72.61073,42.201881,0
-			-72.605863,42.199144,0
-			-72.605143,42.198549,0
-			-72.603783,42.197382,0
-			-72.601393,42.19153,0
-			-72.602781,42.190288,0
-			-72.604477,42.189032,0
-			-72.607618,42.187224,0
-			-72.610519,42.183728,0
-			-72.610257,42.182703,0
-			-72.600487,42.17579,0
-			-72.599503,42.174187,0
-			-72.596805,42.170658,0
-			-72.592593,42.167534,0
-			-72.590873,42.16589,0
-			-72.58891,42.163954,0
-			-72.58615,42.161932,0
-			-72.582729,42.160856,0
-			-72.581796,42.161133,0
-			-72.583975,42.165378,0
-			-72.586485,42.172241,0
 			-72.57859,42.17426,0
 			</coordinates> 
 		</LineString> 

@@ -22,6 +22,7 @@ G2-dwight;9.86;1.69;G2: E. Springfield via Carew / Belmont - Dwight;via Dwight R
 G3;5.77;2.2;G3: Springfield Plaza via Liberty / King - Westford;Main
 G5-enfield;8.91;1.47;G5: Springfield / Dickinson / Jewish Home / Longmeadow;to Enfield
 G5-jewish;4.24;1.16;G5: Springfield / Dickinson / Jewish Home / Longmeadow;to Jewish Home
+G19;6.04;2.17;G19: Holyoke - Chicopee via Montcalm - S Hadley;Main
 G73E;15.4;1.04;G73E: Springfield - Northampton via Holyoke Mall;Main
 P11;8.11;1.09;P11: Holyoke Community College Express;Main
 P20;10.7;1.51;P20: Holyoke / Springfield via Riverdale St;Main
@@ -35,12 +36,10 @@ R14-C;7.35;1.48;R14: Feeding Hills / Springfield;C: via Country View Estates
 R14-ind;6.53;1.39;R14: Feeding Hills / Springfield;via Agawam Industrial Park
 R14-M;7.89;1.34;R14: Feeding Hills / Springfield;M: via Maple St
 R14-sun;2.84;1.29;R14: Feeding Hills / Springfield;to Rocky's
+R22;5.65;2.03;R22: Holyoke - Chicopee via Grattan;Main
 R29;24.69;1.25;R29: Amherst / Holyoke Mall via Rt 116;Main
 R41;11.66;1.13;R41: Northampton / Easthampton / HCC / Holyoke Mall;Main
 R42;7.9;1.05;R42: Northampton / Williamsburg / VA Hospital;Main
 WSU;2.92;1.17;WSU: WSU Shuttle;Main
-X90-north-A;6.41;2.3;X90: Inner Crosstown;North A: via Memorial Dr
-X90-north-B;5.65;2.03;X90: Inner Crosstown;North B: via Buckley Blvd
-X90-south-A;8.72;1.24;X90: Inner Crosstown;South A: via Broadway
-X90-south-B;8.83;1.25;X90: Inner Crosstown;South B: via Grove St
+X90;8.72;1.24;X90: Inner Crosstown;Main
 X92;7.25;1.98;X92: Mid-City Crosstown;Main
