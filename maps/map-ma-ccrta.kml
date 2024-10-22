@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>ma-ccrta routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>Sealine</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">Sealine</SimpleData>
+<SimpleData name="LineName">Sealine</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">26.46</SimpleData>
+<SimpleData name="LineEDI">1.19</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.669797,41.52303,0
+			-70.623239,41.556834,0
+			-70.621415,41.563949,0
+			-70.615238,41.553127,0
+			-70.594186,41.561321,0
+			-70.5991,41.561143,0
+			-70.586674,41.571979,0
+			-70.560741,41.578656,0
+			-70.533946,41.580442,0
+			-70.48999,41.607559,0
+			-70.488287,41.611493,0
+			-70.489449,41.619243,0
+			-70.426437,41.647959,0
+			-70.383099,41.627971,0
+			-70.348551,41.64973,0
+			-70.332487,41.657707,0
+			-70.294989,41.664885,0
+			-70.280176,41.656589,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Sandwich</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">Sandwich</SimpleData>
+<SimpleData name="LineName">Sandwich Line</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">25.54</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.615218,41.744823,0
+			-70.60485,41.746976,0
+			-70.601963,41.747893,0
+			-70.590949,41.751672,0
+			-70.542438,41.780954,0
+			-70.545953,41.771161,0
+			-70.539887,41.773428,0
+			-70.509442,41.766387,0
+			-70.500533,41.75825,0
+			-70.467868,41.733048,0
+			-70.458191,41.735482,0
+			-70.489098,41.710793,0
+			-70.489844,41.708343,0
+			-70.488464,41.708328,0
+			-70.485471,41.7014,0
+			-70.481658,41.696464,0
+			-70.444168,41.690338,0
+			-70.387141,41.677082,0
+			-70.345399,41.657134,0
+			-70.332487,41.657707,0
+			-70.317918,41.652074,0
+			-70.280176,41.656589,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>H20</name>
+		<styleUrl>#2.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">H20</SimpleData>
+<SimpleData name="LineName">H20: Hyannis - Orleans</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">39.03</SimpleData>
+<SimpleData name="LineEDI">2.17</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.280176,41.656589,0
+			-70.272117,41.652859,0
+			-70.242088,41.650629,0
+			-70.212144,41.653042,0
+			-70.207195,41.658091,0
+			-70.2022,41.662202,0
+			-70.19749,41.664041,0
+			-70.185688,41.666857,0
+			-70.148149,41.66979,0
+			-70.15047,41.695061,0
+			-70.123136,41.668344,0
+			-70.092812,41.672995,0
+			-70.080082,41.668043,0
+			-70.048881,41.675239,0
+			-70.026646,41.678759,0
+			-69.965894,41.691424,0
+			-69.961949,41.682656,0
+			-69.965306,41.70034,0
+			-69.985665,41.796182,0
+			-70.004592,41.733166,0
+			-69.990938,41.752914,0
+			-69.991832,41.787854,0
+			-70.002528,41.78023,0
+			-69.997352,41.785393,0
+			-69.99142,41.78824,0
+			-69.985665,41.796182,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Hyannis</name>
+		<styleUrl>#4.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">Hyannis</SimpleData>
+<SimpleData name="LineName">Hyannis Crosstown</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">7.7</SimpleData>
+<SimpleData name="LineEDI">4.19</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.280176,41.656589,0
+			-70.285388,41.652118,0
+			-70.289257,41.652135,0
+			-70.292781,41.654563,0
+			-70.294861,41.649374,0
+			-70.300628,41.647759,0
+			-70.317918,41.652074,0
+			-70.332487,41.657707,0
+			-70.299033,41.667836,0
+			-70.295209,41.670189,0
+			-70.297801,41.675454,0
+			-70.301842,41.675083,0
+			-70.303996,41.675976,0
+			-70.307469,41.6759,0
+			-70.283486,41.683023,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Flex</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">Flex</SimpleData>
+<SimpleData name="LineName">Flex</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">42.28</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.092812,41.672995,0
+			-70.080082,41.668043,0
+			-70.069797,41.692133,0
+			-70.018943,41.706445,0
+			-70.024666,41.711394,0
+			-70.066313,41.756593,0
+			-70.090138,41.756823,0
+			-70.002528,41.78023,0
+			-69.99142,41.78824,0
+			-69.985665,41.796182,0
+			-69.973642,41.829763,0
+			-69.971966,41.838034,0
+			-69.985569,41.846504,0
+			-69.986945,41.856591,0
+			-69.988004,41.879427,0
+			-69.983429,41.904744,0
+			-69.994566,41.917199,0
+			-70.017518,41.92921,0
+			-70.030784,41.937534,0
+			-70.050964,41.994787,0
+			-70.070568,42.013719,0
+			-70.079091,42.029779,0
+			-70.082229,42.035359,0
+			-70.143566,42.061075,0
+			-70.18624,42.050958,0
+			-70.195276,42.050534,0
+			-70.195977,42.053727,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Bourne</name>
+		<styleUrl>#2.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">Bourne</SimpleData>
+<SimpleData name="LineName">Bourne Run</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">22.74</SimpleData>
+<SimpleData name="LineEDI">2.1</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.489449,41.619243,0
+			-70.505788,41.621614,0
+			-70.514603,41.616256,0
+			-70.549733,41.62477,0
+			-70.612639,41.646696,0
+			-70.60299,41.666721,0
+			-70.585079,41.713514,0
+			-70.608946,41.718044,0
+			-70.598003,41.740819,0
+			-70.5922,41.743531,0
+			-70.588969,41.742638,0
+			-70.545953,41.771161,0
+			-70.595584,41.7574,0
+			-70.598541,41.753072,0
+			-70.604325,41.749455,0
+			-70.60485,41.746976,0
+			-70.601963,41.747893,0
+			-70.615218,41.744823,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Barnstable</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">ma-ccrta</SimpleData>
+<SimpleData name="LineCode">Barnstable</SimpleData>
+<SimpleData name="LineName">Barnstable Villager</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.46</SimpleData>
+<SimpleData name="LineEDI">1.99</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-70.280176,41.656589,0
+			-70.287181,41.667022,0
+			-70.294989,41.664885,0
+			-70.299033,41.667836,0
+			-70.295209,41.670189,0
+			-70.297801,41.675454,0
+			-70.303996,41.675976,0
+			-70.307469,41.6759,0
+			-70.319389,41.679393,0
+			-70.321142,41.68019,0
+			-70.337526,41.690621,0
+			-70.303038,41.70032,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
