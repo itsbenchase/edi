@@ -125,11 +125,11 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>H20</name>
+		<name>H2O</name>
 		<styleUrl>#2.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-ccrta</SimpleData>
-<SimpleData name="LineCode">H20</SimpleData>
+<SimpleData name="LineCode">H2O</SimpleData>
 <SimpleData name="LineName">H20: Hyannis - Orleans</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
 <SimpleData name="LineLength">39.03</SimpleData>
