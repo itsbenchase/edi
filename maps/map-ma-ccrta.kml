@@ -126,14 +126,14 @@
 	</Placemark>
 	<Placemark> 
 		<name>H2O</name>
-		<styleUrl>#2.0</styleUrl>
+		<styleUrl>#1.5</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-ccrta</SimpleData>
 <SimpleData name="LineCode">H2O</SimpleData>
 <SimpleData name="LineName">H20: Hyannis - Orleans</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">39.03</SimpleData>
-<SimpleData name="LineEDI">2.17</SimpleData>
+<SimpleData name="LineLength">32.65</SimpleData>
+<SimpleData name="LineEDI">1.81</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
@@ -155,7 +155,7 @@
 			-69.965894,41.691424,0
 			-69.961949,41.682656,0
 			-69.965306,41.70034,0
-			-69.985665,41.796182,0
+			-70.018943,41.706445,0
 			-70.004592,41.733166,0
 			-69.990938,41.752914,0
 			-69.991832,41.787854,0

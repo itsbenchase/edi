@@ -49,7 +49,7 @@
 546;2075 Walkers;43.380788;-79.808646
 647;2080 Appleby;43.396737;-79.794732
 6;2082 James;43.328072;-79.795459
-646;2101 Appleby;43.395838;-79.793057
+646;2101 Appleby;43.395309;-79.792309
 89;2200 Fairview;43.341222;-79.805202
 221;2211 Brant;43.357526;-79.844301
 27;2228 New;43.332303;-79.791782
@@ -158,7 +158,11 @@
 923;Appleby at Upper Middle;43.393026;-79.788921
 257;Augustine at Fisher;43.360078;-79.825663
 682;Bay at Vine;43.260591;-79.872694
-619;Berton  at Walkers;43.390890;-79.821934
+933;Berton at Addison;43.391908;-79.820790
+1010;Berton at Darien;43.392956;-79.819301
+932;Berton at Darien;43.393019;-79.819458
+619;Berton at Walkers;43.390890;-79.821934
+931;Berwick at Sarazen;43.391833;-79.814656
 149;Brant at Amherst Heights;43.349637;-79.833497
 154;Brant at Amherst Heights;43.350131;-79.833890
 17;Brant at Baldwin;43.329949;-79.804238
@@ -306,6 +310,7 @@
 211;Fisher at St. Mary's;43.356130;-79.820595
 750;Francis at Cedar;43.320082;-79.822029
 752;Francis at Cedar;43.320387;-79.822241
+771;Francis at Glen View;43.322572;-79.825662
 818;Francis at Glenview;43.322683;-79.825621
 741;Francis at Greenwood;43.318000;-79.818834
 743;Francis at Greenwood;43.318117;-79.819246
@@ -313,7 +318,6 @@
 758;Francis at Marley;43.321126;-79.823533
 731;Francis at North Shore;43.314441;-79.813828
 734;Francis at North Shore;43.314690;-79.813881
-771;Francit at Glen View;43.322572;-79.825662
 476;Frontenac Public School;43.374302;-79.753689
 615;Go 407 Carpool;43.388859;-79.828670
 130;Guelph Line at Fairview;43.346852;-79.797082
@@ -508,6 +512,17 @@
 745;Maplehurst Public School;43.318794;-79.836900
 787;Mapleview Mall South Entrance;43.325002;-79.817595
 789;Mapleview Mall South Entrance;43.325643;-79.818033
+927;Millcroft at Clubview;43.398359;-79.804761
+938;Millcroft at Clubview;43.397936;-79.804231
+924;Millcroft at Country Club;43.390840;-79.800143
+941;Millcroft at Country Club;43.389852;-79.800325
+925;Millcroft at Parklane;43.393297;-79.799781
+940;Millcroft at Parklane;43.392642;-79.800016
+936;Millcroft at Sarazen;43.399545;-79.811281
+928;Millcroft at Taywood;43.399359;-79.809626
+937;Millcroft at Taywood;43.398826;-79.808468
+926;Millcroft at Turnberry;43.395959;-79.801324
+939;Millcroft at Turnberry;43.396162;-79.801823
 127;Mount Forest at Brant;43.347044;-79.827902
 195;Mount Forest at Fisher;43.354316;-79.819338
 197;Mount Forest at Fisher;43.354512;-79.818819
@@ -604,10 +619,10 @@
 65;Plains at Brant;43.338227;-79.816624
 959;Plains at Brant;43.337941;-79.816823
 756;Plains at Cedarwood;43.320715;-79.834332
-1073;Plains at Cooke;43.307877;-79.851296
 717;Plains at Daryl;43.301583;-79.859284
 733;Plains at Downsview;43.314871;-79.841848
 719;Plains at Emery;43.305334;-79.854369
+721;Plains at Emery;43.305450;-79.854580
 738;Plains at Falcon;43.317018;-79.838941
 781;Plains at Francis;43.323808;-79.829775
 785;Plains at Francis;43.324759;-79.829006
@@ -624,8 +639,7 @@
 727;Plains at Shadeland;43.312783;-79.844938
 728;Plains at Shadeland;43.312695;-79.844699
 830;Plains at St. Matthew's;43.309710;-79.848638
-713;Plains at Unsworth;43.298135;-79.864071
-721;Plains at Waterdown;43.306420;-79.853292
+1073;Plains at Waterdown;43.306937;-79.852637
 722;Plains at Waterdown;43.306959;-79.852180
 739;Plains at Willowbrook;43.317136;-79.839227
 706;Plains at York;43.293348;-79.889325
@@ -646,6 +660,10 @@
 212;Rexway at Walkers;43.355712;-79.773756
 178;Rexway at Woodview;43.351916;-79.779047
 180;Rexway at Woodview;43.352217;-79.778849
+934;Sarazen at Berwick;43.391762;-79.814420
+929;Sarazen at Millcroft;43.399518;-79.811477
+930;Sarazen at Snead;43.394702;-79.813363
+935;Sarazen at Snead;43.394617;-79.813278
 382;Sir Ernest Macmillan;43.369324;-79.806578
 978;South Service at Wyecroft;43.394851;-79.749603
 1092;Surrey at King;43.319520;-79.828791
@@ -682,6 +700,8 @@
 886;Thomas Alton at Hopkins;43.405230;-79.821211
 889;Thomas Alton at Munson;43.395406;-79.826672
 887;Thomas Alton at Nixon;43.398355;-79.823648
+877;Thomas Alton at Rossini;43.398726;-79.823316
+876;Thomas Alton at Rotary Way;43.396208;-79.824730
 888;Thomas Alton at Settlement;43.396441;-79.824679
 873;Thomas Alton at Tim Dobbie;43.400352;-79.822865
 874;Thomas Alton at Tim Dobbie;43.400293;-79.822710
@@ -746,6 +766,7 @@
 365;Walkers at North Service;43.368574;-79.790835
 368;Walkers at North Service;43.368310;-79.790897
 484;Walkers at Palmer;43.375023;-79.800373
+875;Walkers at Thomas Alton;43.394734;-79.827137
 506;Walkers at Toffee;43.377699;-79.804022
 521;Walkers at Upper Middle;43.378856;-79.805262
 491;Walkers at Wedgewood;43.376328;-79.802121
