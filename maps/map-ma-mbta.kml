@@ -2304,52 +2304,6 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>117</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">ma-mbta</SimpleData>
-<SimpleData name="LineCode">117</SimpleData>
-<SimpleData name="LineName">117: Wonderland - Maverick via Beach Street</SimpleData>
-<SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">4.64</SimpleData>
-<SimpleData name="LineEDI">1.18</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-71.03953,42.369119,0
-			-71.038958,42.372502,0
-			-71.039031,42.375709,0
-			-71.039108,42.378763,0
-			-71.039186,42.380445,0
-			-71.039184,42.382078,0
-			-71.038557,42.388074,0
-			-71.037624,42.389439,0
-			-71.035677,42.390253,0
-			-71.03413,42.392517,0
-			-71.03296,42.393347,0
-			-71.03111,42.394393,0
-			-71.029701,42.395197,0
-			-71.028178,42.396041,0
-			-71.026979,42.396747,0
-			-71.02537,42.397643,0
-			-71.023637,42.398643,0
-			-71.022394,42.399557,0
-			-71.021093,42.400699,0
-			-71.019773,42.401857,0
-			-71.016173,42.404978,0
-			-71.014559,42.406365,0
-			-71.013389,42.408222,0
-			-71.010465,42.409605,0
-			-71.006776,42.40923,0
-			-71.003578,42.408994,0
-			-70.999563,42.409734,0
-			-70.99676,42.409189,0
-			-70.993879,42.408555,0
-			-70.991648,42.41342,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
 		<name>116</name>
 		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
@@ -2645,21 +2599,40 @@
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-mbta</SimpleData>
 <SimpleData name="LineCode">104</SimpleData>
-<SimpleData name="LineName">104: Malden Center - Sullivan Square via Ferry Street</SimpleData>
+<SimpleData name="LineName">104: Malden Center - Airport</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">4.6</SimpleData>
-<SimpleData name="LineEDI">1.56</SimpleData>
+<SimpleData name="LineLength">7.02</SimpleData>
+<SimpleData name="LineEDI">1.76</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
-			-71.076994,42.383975,0
-			-71.072459,42.38602,0
-			-71.068781,42.392328,0
-			-71.067205,42.394293,0
-			-71.064982,42.396817,0
-			-71.06301,42.398888,0
-			-71.061599,42.400396,0
-			-71.058383,42.403864,0
+			-71.025506,42.381404,0
+			-71.022681,42.383997,0
+			-71.024561,42.38782,0
+			-71.026812,42.388264,0
+			-71.030247,42.388932,0
+			-71.032109,42.389433,0
+			-71.033679,42.389857,0
+			-71.035677,42.390253,0
+			-71.03815,42.39055,0
+			-71.035912,42.391797,0
+			-71.034136,42.392841,0
+			-71.034252,42.395012,0
+			-71.036276,42.394716,0
+			-71.039363,42.394289,0
+			-71.042218,42.393645,0
+			-71.044534,42.39232,0
+			-71.047391,42.391829,0
+			-71.046142,42.389814,0
+			-71.046016,42.388457,0
+			-71.045684,42.390859,0
+			-71.047492,42.391747,0
+			-71.044421,42.392509,0
+			-71.042282,42.393744,0
+			-71.047164,42.397481,0
+			-71.050082,42.400391,0
+			-71.053864,42.403126,0
+			-71.055644,42.404503,0
 			-71.05641,42.405955,0
 			-71.054757,42.407768,0
 			-71.052194,42.410533,0
@@ -5064,13 +5037,28 @@
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-mbta</SimpleData>
 <SimpleData name="LineCode">109</SimpleData>
-<SimpleData name="LineName">109: Linden Square - Sullivan Square</SimpleData>
+<SimpleData name="LineName">109: Linden Square - Harvard Square</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">4.63</SimpleData>
-<SimpleData name="LineEDI">1.07</SimpleData>
+<SimpleData name="LineLength">6.91</SimpleData>
+<SimpleData name="LineEDI">1.1</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
+			-71.119237,42.375302,0
+			-71.112872,42.376924,0
+			-71.109341,42.377677,0
+			-71.10628,42.378339,0
+			-71.103918,42.378899,0
+			-71.100178,42.3794,0
+			-71.096874,42.37961,0
+			-71.095164,42.379547,0
+			-71.092273,42.37951,0
+			-71.090824,42.379859,0
+			-71.089759,42.38033,0
+			-71.087483,42.381038,0
+			-71.084052,42.381697,0
+			-71.082176,42.381986,0
+			-71.078386,42.38258,0
 			-71.076994,42.383975,0
 			-71.072459,42.38602,0
 			-71.068781,42.392328,0
@@ -6188,28 +6176,13 @@
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">ma-mbta</SimpleData>
 <SimpleData name="LineCode">86</SimpleData>
-<SimpleData name="LineName">86: Sullivan Square - Reservoir</SimpleData>
+<SimpleData name="LineName">86: Harvard Square - Reservoir</SimpleData>
 <SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">6.18</SimpleData>
-<SimpleData name="LineEDI">1.24</SimpleData>
+<SimpleData name="LineLength">3.89</SimpleData>
+<SimpleData name="LineEDI">1.23</SimpleData>
 </SchemaData></ExtendedData>
 		<LineString> 
 			<coordinates>
-			-71.076994,42.383975,0
-			-71.078386,42.38258,0
-			-71.082176,42.381986,0
-			-71.084052,42.381697,0
-			-71.087483,42.381038,0
-			-71.089759,42.38033,0
-			-71.090824,42.379859,0
-			-71.092273,42.37951,0
-			-71.095164,42.379547,0
-			-71.096874,42.37961,0
-			-71.100178,42.3794,0
-			-71.103918,42.378899,0
-			-71.10628,42.378339,0
-			-71.109341,42.377677,0
-			-71.112872,42.376924,0
 			-71.119237,42.375302,0
 			-71.121784,42.372535,0
 			-71.12127,42.371324,0

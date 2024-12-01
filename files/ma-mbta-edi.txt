@@ -1625,36 +1625,6 @@ orhte;Orient Heights;42.386867;-71.004736;120;23
 5812;Crescent Ave @ Webster St;42.394069;-70.986688;119;32
 5813;Crescent Ave @ Summer St;42.393545;-70.98499;119;33
 5814;Crescent Ave @ Winthrop Pkwy;42.393352;-70.982159;119;34
-mvbcl;Maverick;42.369119;-71.03953;117;1
-5742;Meridian St @ Havre St;42.372502;-71.038958;117;2
-5743;Meridian St @ Saratoga St;42.375709;-71.039031;117;3
-5745;Meridian St @ Eutaw St;42.378763;-71.039108;117;4
-5746;Meridian St @ White St;42.380445;-71.039186;117;5
-5747;Meridian St @ Falcon St;42.382078;-71.039184;117;6
-5748;Pearl St @ Marginal St;42.388074;-71.038557;117;7
-5749;Pearl St @ Essex St;42.389439;-71.037624;117;8
-5614;Park St @ Hawthorne St;42.390253;-71.035677;117;9
-5615;Hawthorne St @ Broadway;42.392517;-71.03413;117;10
-5617;Broadway @ Shurtleff St;42.393347;-71.03296;117;11
-5750;Broadway @ Gerrish Ave;42.394393;-71.03111;117;12
-5751;Broadway @ Crescent Ave;42.395197;-71.029701;117;13
-35751;Broadway @ Cary Ave;42.396041;-71.028178;117;14
-5752;Broadway @ Parker St;42.396747;-71.026979;117;15
-5753;Broadway @ Eleanor St;42.397643;-71.02537;117;16
-5754;Broadway @ Green St;42.398643;-71.023637;117;17
-5755;Broadway @ Webster Ave;42.399557;-71.022394;117;18
-5756;Broadway @ Stockton St;42.400699;-71.021093;117;19
-5757;Broadway @ Cabot St;42.401857;-71.019773;117;20
-5759;Broadway @ Taft St;42.404978;-71.016173;117;21
-5760;Broadway @ Beach St;42.406365;-71.014559;117;22
-5761;Broadway @ Pleasant St;42.408222;-71.013389;117;23
-5790;49 Central Ave;42.409605;-71.010465;117;24
-5792;Beach St @ Eustis St;42.40923;-71.006776;117;25
-5794;Beach St @ Harris St - Bell Circle;42.408994;-71.003578;117;26
-4717;Beach St @ Shirley Ave - Bell Circle;42.409734;-70.999563;117;27
-5797;Beach St @ Walnut Ave;42.409189;-70.99676;117;28
-5798;Beach St @ N Shore Rd;42.408555;-70.993879;117;29
-wondl;Wonderland;42.41342;-70.991648;117;30
 mvbcl;Maverick;42.369119;-71.03953;116;1
 5742;Meridian St @ Havre St;42.372502;-71.038958;116;2
 5743;Meridian St @ Saratoga St;42.375709;-71.039031;116;3
@@ -1849,36 +1819,55 @@ sull;Sullivan Square;42.383975;-71.076994;105;1
 19215;Florence St @ Ramsdell Rd;42.428682;-71.067966;105;41
 5369;Florence St @ Washington St;42.42865;-71.071159;105;42
 mlmnl;Malden Center;42.426632;-71.07411;105;43
-sull;Sullivan Square;42.383975;-71.076994;104;1
-5504;Alford St @ Main St;42.38602;-71.072459;104;2
-5505;173 Alford St;42.392328;-71.068781;104;3
-5506;Broadway @ Dexter St;42.394293;-71.067205;104;4
-5507;Broadway @ Thorndike St;42.396817;-71.064982;104;5
-5508;Broadway @ Langdon St;42.398888;-71.06301;104;6
-5509;Broadway St @ Bartlett St;42.400396;-71.061599;104;7
-5565;Broadway @ Gladstone St;42.403864;-71.058383;104;8
-5695;Broadway @ Everett Sq;42.405955;-71.05641;104;9
-5510;Broadway @ Mansfield St;42.407768;-71.054757;104;10
-5513;Broadway @ High St;42.410533;-71.052194;104;11
-5514;Broadway @ Lexington St;42.411919;-71.050917;104;12
-5517;Broadway @ Reed Ave;42.413414;-71.049529;104;13
-5355;381 Ferry St opp Walnut St - Glendale Towers;42.416285;-71.048935;104;14
-5356;Ferry St @ Shute St;42.417225;-71.049383;104;15
-5357;Ferry St @ Rock Valley Ave;42.418169;-71.050716;104;16
-5358;Ferry St @ Coolidge St;42.419093;-71.052711;104;17
-5359;Ferry St @ Rich St;42.420035;-71.054503;104;18
-5360;Ferry St @ Harvard St;42.420885;-71.056916;104;19
-5361;Ferry St @ Cross St;42.421684;-71.058585;104;20
-5362;Ferry St @ Magnolia St;42.42259;-71.060815;104;21
-5363;Ferry St @ Holyoke St;42.423331;-71.063036;104;22
-5364;Ferry St @ Eastern Ave;42.424179;-71.064342;104;23
-5365;Eastern Ave @ Main St;42.423385;-71.067214;104;24
-5366;Main St @ Centre St;42.425097;-71.06768;104;25
-5342;Main St opp Pleasant St;42.426166;-71.067354;104;26
-9215;Main St @ Salem St;42.427577;-71.066963;104;27
-19215;Florence St @ Ramsdell Rd;42.428682;-71.067966;104;28
-5369;Florence St @ Washington St;42.42865;-71.071159;104;29
-mlmnl;Malden Center;42.426632;-71.07411;104;30
+5679;Chelsea St @ Eagle Sq;42.381404;-71.025506;104;1
+5670;Chelsea St opp Curtis St;42.383997;-71.022681;104;2
+5659;245 Central Ave;42.38782;-71.024561;104;3
+5658;Central Ave @ Willow St;42.388264;-71.026812;104;4
+5657;Central Ave @ Highland Ave;42.388932;-71.030247;104;5
+5656;89 Central Ave;42.389433;-71.032109;104;6
+5654;Central Ave @ Shawmut St;42.389857;-71.033679;104;7
+5614;Park St @ Hawthorne St;42.390253;-71.035677;104;8
+5653;Broadway opp Cross St;42.39055;-71.03815;104;9
+5606;Broadway @ Fourth St;42.391797;-71.035912;104;10
+5605;Washington Ave @ Broadway;42.392841;-71.034136;104;11
+5651;Sixth St @ Walnut St;42.395012;-71.034252;104;12
+5650;Arlington St @ Fifth St;42.394716;-71.036276;104;13
+15054;100 Everett Ave;42.394289;-71.039363;104;14
+15053;45 Spruce St;42.393645;-71.042218;104;15
+15052;Commandants Way @ Williams St;42.39232;-71.044534;104;16
+25051;Captains Row @ Commandants Way;42.391829;-71.047391;104;17
+15050;5 Admiral's Way;42.389814;-71.046142;104;18
+15049;Captains Row @ Boatswains Way;42.388457;-71.046016;104;19
+15048;150 Captains Row;42.390859;-71.045684;104;20
+15047;Captains Row @ Commandants Way;42.391747;-71.047492;104;21
+15046;Spruce St @ Williams St;42.392509;-71.044421;104;22
+15045;Spruce St @ Second St;42.393744;-71.042282;104;23
+104004;2nd St @ Market St;42.397481;-71.047164;104;24
+104003;2nd St @ Garden St;42.400391;-71.050082;104;25
+104002;2nd St @ Revere Beach Pkwy;42.403126;-71.053864;104;26
+104001;2nd St @ Wolcott St;42.404503;-71.055644;104;27
+5695;Broadway @ Everett Sq;42.405955;-71.05641;104;28
+5510;Broadway @ Mansfield St;42.407768;-71.054757;104;29
+5513;Broadway @ High St;42.410533;-71.052194;104;30
+5514;Broadway @ Lexington St;42.411919;-71.050917;104;31
+5517;Broadway @ Reed Ave;42.413414;-71.049529;104;32
+5355;381 Ferry St opp Walnut St - Glendale Towers;42.416285;-71.048935;104;33
+5356;Ferry St @ Shute St;42.417225;-71.049383;104;34
+5357;Ferry St @ Rock Valley Ave;42.418169;-71.050716;104;35
+5358;Ferry St @ Coolidge St;42.419093;-71.052711;104;36
+5359;Ferry St @ Rich St;42.420035;-71.054503;104;37
+5360;Ferry St @ Harvard St;42.420885;-71.056916;104;38
+5361;Ferry St @ Cross St;42.421684;-71.058585;104;39
+5362;Ferry St @ Magnolia St;42.42259;-71.060815;104;40
+5363;Ferry St @ Holyoke St;42.423331;-71.063036;104;41
+5364;Ferry St @ Eastern Ave;42.424179;-71.064342;104;42
+5365;Eastern Ave @ Main St;42.423385;-71.067214;104;43
+5366;Main St @ Centre St;42.425097;-71.06768;104;44
+5342;Main St opp Pleasant St;42.426166;-71.067354;104;45
+9215;Main St @ Salem St;42.427577;-71.066963;104;46
+19215;Florence St @ Ramsdell Rd;42.428682;-71.067966;104;47
+5369;Florence St @ Washington St;42.42865;-71.071159;104;48
+mlmnl;Malden Center;42.426632;-71.07411;104;49
 sull;Sullivan Square;42.383975;-71.076994;101;1
 2718;Broadway @ Austin St;42.38686;-71.080685;101;2
 2719;Broadway @ Indiana Ave;42.387399;-71.0825;101;3
@@ -3468,33 +3457,48 @@ harsq;Harvard;42.373362;-71.118956;71;1
 2044;Mt Auburn St @ Summer St;42.366608;-71.181318;71;20
 2046;Mt Auburn St @ Main St;42.36552;-71.184058;71;21
 8178;Watertown Sq Terminal;42.365436;-71.185502;71;22
-sull;Sullivan Square;42.383975;-71.076994;109;1
-5504;Alford St @ Main St;42.38602;-71.072459;109;2
-5505;173 Alford St;42.392328;-71.068781;109;3
-5506;Broadway @ Dexter St;42.394293;-71.067205;109;4
-5507;Broadway @ Thorndike St;42.396817;-71.064982;109;5
-5508;Broadway @ Langdon St;42.398888;-71.06301;109;6
-5509;Broadway St @ Bartlett St;42.400396;-71.061599;109;7
-5565;Broadway @ Gladstone St;42.403864;-71.058383;109;8
-5695;Broadway @ Everett Sq;42.405955;-71.05641;109;9
-5510;Broadway @ Mansfield St;42.407768;-71.054757;109;10
-5513;Broadway @ High St;42.410533;-71.052194;109;11
-5514;Broadway @ Lexington St;42.411919;-71.050917;109;12
-5517;Broadway @ Reed Ave;42.413414;-71.049529;109;13
-5519;Broadway @ Coburn Terr;42.416054;-71.047355;109;14
-5515;Broadway @ Gledhill St;42.416817;-71.046701;109;15
-5520;Broadway @ Summit Ave;42.418193;-71.045566;109;16
-5521;Broadway @ Lynn St;42.419691;-71.044255;109;17
-5522;Broadway @ Shute St;42.42182;-71.043299;109;18
-5523;Broadway @ Estes St;42.423102;-71.042819;109;19
-5524;53 Broadway;42.424677;-71.04223;109;20
-5525;Broadway opp Sheafe St;42.427609;-71.041124;109;21
-5527;Eastern Ave @ Broadway;42.430214;-71.040002;109;22
-5529;Eastern Ave @ Prentiss St;42.430941;-71.032539;109;23
-5530;Eastern Ave @ Bellvale St;42.431047;-71.030897;109;24
-5531;Eastern Ave @ Cleveland St;42.4312;-71.028744;109;25
-5532;Eastern Ave @ Lynn St;42.431512;-71.026548;109;26
-7417;Wesley St @ Lynn St;42.432858;-71.024087;109;27
+22549;Harvard Sq @ Garden St - Dawes Island;42.375302;-71.119237;109;1
+2548;Kirkland St @ Kirkland Place;42.376924;-71.112872;109;2
+2547;Kirkland St opp Trowbridge St;42.377677;-71.109341;109;3
+2546;Washington St @ Beacon St;42.378339;-71.10628;109;4
+2545;Washington St @ Dane St;42.378899;-71.103918;109;5
+2615;Washington St opp Parker St;42.3794;-71.100178;109;6
+2613;Washington St @ Webster Ave;42.37961;-71.096874;109;7
+2612;Somerville Ave @ Stone Ave;42.379547;-71.095164;109;8
+2610;Washington St @ Washington Terr;42.37951;-71.092273;109;9
+2763;Washington St @ Boston St;42.379859;-71.090824;109;10
+2762;Washington St @ McGrath Hwy;42.38033;-71.089759;109;11
+2761;Washington St @ Tufts St;42.381038;-71.087483;109;12
+12759;Washington St @ Myrtle St - Cobble Hill Apt;42.381697;-71.084052;109;13
+2759;Washington St @ Mt Vernon St;42.381986;-71.082176;109;14
+2757;Cambridge St @ Brighton St;42.38258;-71.078386;109;15
+sull;Sullivan Square;42.383975;-71.076994;109;16
+5504;Alford St @ Main St;42.38602;-71.072459;109;17
+5505;173 Alford St;42.392328;-71.068781;109;18
+5506;Broadway @ Dexter St;42.394293;-71.067205;109;19
+5507;Broadway @ Thorndike St;42.396817;-71.064982;109;20
+5508;Broadway @ Langdon St;42.398888;-71.06301;109;21
+5509;Broadway St @ Bartlett St;42.400396;-71.061599;109;22
+5565;Broadway @ Gladstone St;42.403864;-71.058383;109;23
+5695;Broadway @ Everett Sq;42.405955;-71.05641;109;24
+5510;Broadway @ Mansfield St;42.407768;-71.054757;109;25
+5513;Broadway @ High St;42.410533;-71.052194;109;26
+5514;Broadway @ Lexington St;42.411919;-71.050917;109;27
+5517;Broadway @ Reed Ave;42.413414;-71.049529;109;28
+5519;Broadway @ Coburn Terr;42.416054;-71.047355;109;29
+5515;Broadway @ Gledhill St;42.416817;-71.046701;109;30
+5520;Broadway @ Summit Ave;42.418193;-71.045566;109;31
+5521;Broadway @ Lynn St;42.419691;-71.044255;109;32
+5522;Broadway @ Shute St;42.42182;-71.043299;109;33
+5523;Broadway @ Estes St;42.423102;-71.042819;109;34
+5524;53 Broadway;42.424677;-71.04223;109;35
+5525;Broadway opp Sheafe St;42.427609;-71.041124;109;36
+5527;Eastern Ave @ Broadway;42.430214;-71.040002;109;37
+5529;Eastern Ave @ Prentiss St;42.430941;-71.032539;109;38
+5530;Eastern Ave @ Bellvale St;42.431047;-71.030897;109;39
+5531;Eastern Ave @ Cleveland St;42.4312;-71.028744;109;40
+5532;Eastern Ave @ Lynn St;42.431512;-71.026548;109;41
+7417;Wesley St @ Lynn St;42.432858;-71.024087;109;42
 davis;Davis;42.39674;-71.121815;94;1
 5019;College Ave @ Francesca Ave;42.399088;-71.11951;94;2
 5021;College Ave @ Broadway - Powder House Sq;42.400548;-71.117175;94;3
@@ -4192,44 +4196,29 @@ lech;Lechmere;42.370772;-71.076536;69;1
 2166;Quincy St @ Broadway opp Fogg Museum;42.374685;-71.11457;69;15
 2167;Quincy St @ Harvard St;42.372401;-71.115202;69;16
 110;Massachusetts Ave @ Holyoke St;42.373259;-71.118124;69;17
-sull;Sullivan Square;42.383975;-71.076994;86;1
-2757;Cambridge St @ Brighton St;42.38258;-71.078386;86;2
-2759;Washington St @ Mt Vernon St;42.381986;-71.082176;86;3
-12759;Washington St @ Myrtle St - Cobble Hill Apt;42.381697;-71.084052;86;4
-2761;Washington St @ Tufts St;42.381038;-71.087483;86;5
-2762;Washington St @ McGrath Hwy;42.38033;-71.089759;86;6
-2763;Washington St @ Boston St;42.379859;-71.090824;86;7
-2610;Washington St @ Washington Terr;42.37951;-71.092273;86;8
-2612;Somerville Ave @ Stone Ave;42.379547;-71.095164;86;9
-2613;Washington St @ Webster Ave;42.37961;-71.096874;86;10
-2615;Washington St opp Parker St;42.3794;-71.100178;86;11
-2545;Washington St @ Dane St;42.378899;-71.103918;86;12
-2546;Washington St @ Beacon St;42.378339;-71.10628;86;13
-2547;Kirkland St opp Trowbridge St;42.377677;-71.109341;86;14
-2548;Kirkland St @ Kirkland Place;42.376924;-71.112872;86;15
-22549;Harvard Sq @ Garden St - Dawes Island;42.375302;-71.119237;86;16
-32549;Eliot St @ Bennett St;42.372535;-71.121784;86;17
-2550;JFK St @ Eliot St;42.371324;-71.12127;86;18
-2551;N Harvard St @ Gate 2 Harvard Stadium;42.366948;-71.125108;86;19
-2553;N Harvard St @ Western Ave;42.363657;-71.129248;86;20
-1071;Western Ave opp Riverdale St;42.363253;-71.132079;86;21
-1072;Western Ave @ Everett St;42.363179;-71.135542;86;22
-1074;367 Western Ave opp Brighton Mills Mall;42.362807;-71.138519;86;23
-1075;Western Ave opp Litchfield St;42.362662;-71.139575;86;24
-1076;445 Western Ave;42.362341;-71.14136;86;25
-1077;495 Western Ave;42.361858;-71.144012;86;26
-1079;Market St @ Vineland St;42.357084;-71.148576;86;27
-1080;Market St @ N Beacon St;42.355813;-71.14937;86;28
-1081;Market St @ Keenan Rd;42.353716;-71.150702;86;29
-1083;Market St @ Arlington St;42.35151;-71.152061;86;30
-1084;Chestnut Hill Ave @ Washington St;42.349027;-71.153531;86;31
-1085;Chestnut Hill Ave @ Academy Hill Rd;42.347089;-71.15375;86;32
-1086;Chestnut Hill Ave @ Jackson Ave;42.344534;-71.153418;86;33
-1088;Chestnut Hill Ave @ Embassy Rd;42.341436;-71.154691;86;34
-1089;Chestnut Hill Ave @ South St;42.340595;-71.155272;86;35
-1090;Chestnut Hill Ave @ Commonwealth Ave;42.33833;-71.153702;86;36
-1092;Chestnut Hill Ave @ Beacon St;42.336386;-71.151428;86;37
-rsmnl;Reservoir;42.335088;-71.148758;86;38
+22549;Harvard Sq @ Garden St - Dawes Island;42.375302;-71.119237;86;1
+32549;Eliot St @ Bennett St;42.372535;-71.121784;86;2
+2550;JFK St @ Eliot St;42.371324;-71.12127;86;3
+2551;N Harvard St @ Gate 2 Harvard Stadium;42.366948;-71.125108;86;4
+2553;N Harvard St @ Western Ave;42.363657;-71.129248;86;5
+1071;Western Ave opp Riverdale St;42.363253;-71.132079;86;6
+1072;Western Ave @ Everett St;42.363179;-71.135542;86;7
+1074;367 Western Ave opp Brighton Mills Mall;42.362807;-71.138519;86;8
+1075;Western Ave opp Litchfield St;42.362662;-71.139575;86;9
+1076;445 Western Ave;42.362341;-71.14136;86;10
+1077;495 Western Ave;42.361858;-71.144012;86;11
+1079;Market St @ Vineland St;42.357084;-71.148576;86;12
+1080;Market St @ N Beacon St;42.355813;-71.14937;86;13
+1081;Market St @ Keenan Rd;42.353716;-71.150702;86;14
+1083;Market St @ Arlington St;42.35151;-71.152061;86;15
+1084;Chestnut Hill Ave @ Washington St;42.349027;-71.153531;86;16
+1085;Chestnut Hill Ave @ Academy Hill Rd;42.347089;-71.15375;86;17
+1086;Chestnut Hill Ave @ Jackson Ave;42.344534;-71.153418;86;18
+1088;Chestnut Hill Ave @ Embassy Rd;42.341436;-71.154691;86;19
+1089;Chestnut Hill Ave @ South St;42.340595;-71.155272;86;20
+1090;Chestnut Hill Ave @ Commonwealth Ave;42.33833;-71.153702;86;21
+1092;Chestnut Hill Ave @ Beacon St;42.336386;-71.151428;86;22
+rsmnl;Reservoir;42.335088;-71.148758;86;23
 5271;Wellington Station Busway;42.402581;-71.076089;97;1
 55631;Gateway Center opp Texas Roadhouse;42.399817;-71.070616;97;2
 55632;Gateway Center @ Target;42.398945;-71.070054;97;3
