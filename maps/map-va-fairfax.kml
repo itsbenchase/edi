@@ -53,6 +53,26 @@
 		</LineStyle> 
 		</Style>
 	<Placemark> 
+		<name>494</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-fairfax</SimpleData>
+<SimpleData name="LineCode">494</SimpleData>
+<SimpleData name="LineName">494: Springfield - Tysons</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">11.55</SimpleData>
+<SimpleData name="LineEDI">1.05</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-77.167578,38.767081,0
+			-77.186516,38.778354,0
+			-77.220517,38.922465,0
+			-77.222135,38.921043,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>937</name>
 		<styleUrl>#4.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
