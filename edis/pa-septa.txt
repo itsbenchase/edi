@@ -20,14 +20,20 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 13-yeadon;5.71;1.13;Route 13;to Yeadon
 14-neshaminy;12.22;1.19;14: FTC - Nesh/Oxford Valley Malls;to Neshaminy Malls
 14-sesame-place;19.87;1.28;14: FTC - Nesh/Oxford Valley Malls;to Sesame Place
+15-nolibs;6.29;1.07;Route 15 Trolley;to Northern Liberties Loop
+15-richmond;8.17;1.05;Route 15 Trolley;to Richmond-Westmoreland Loop
 16;9.09;1.08;16: City Hall - Cheltenham / Ogontz;Main
+17;4.22;1.38;17: Front-Market - 20-Johnston;Main
+17-navy;7.38;1.72;17: Front-Market - 20-Johnston;to Navy Yard
 18;11.17;2.61;18: Fox Chase - Cedarbrook Plaza;Main
 19;11.57;2.14;19: Torresdale - Frankford TC;Main
+21;6.36;1.02;21: Columbus-Dock - 69th St TC;Main
 22;37.88;3.55;22: Warminster - Olney TC;Main
 26-frankford;10.03;1.82;26: Chelten Av - Frankford TC;via Frankford Av
 26-torresdale;11.04;2.01;26: Chelten Av - Frankford TC;via Torresdale Av
 28;12.1;2.24;28: Torresdale / Cottman - Fern Rock TC;Main
 30;7.1;1.76;30: 30th St - 69th St TC;Main
+31;8.52;1.45;31: City Hall - 76th-City;Main
 34;4.65;1.04;34: 13th / Market - 61st / Baltimore;Main
 36;5.65;1.13;Route 36;Main
 53-broad;4.91;1.48;53: Wayne / Carpenter - Broad or G / Hunting Park;to Broad / Hunting Park
@@ -61,6 +67,9 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 101;8.5;1.1;Route 101;Main
 102;5.17;1.3;Route 102;Main
 107;16.49;3.25;107: Lawrence Park - 69th St TC;Main
+108;9.33;1.6;108: UPS or Airport - 69th St TC;Main
+108-airport;11.44;1.85;108: UPS or Airport - 69th St TC;to Airport Business Center
+108-ups;12.44;1.74;108: UPS or Airport - 69th St TC;to UPS
 115;20.99;2.08;115: Delaware County Community College - Airport;to DCCC
 115-darby;9.65;3.13;115: Delaware County Community College - Airport;to Darby TC
 117;15.86;2.64;117: Penn State - I-95 Industrial Park;Main
@@ -70,8 +79,11 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 129;24.48;2.52;129: Frankford / Knights - Oxford Valley Mall;Main
 132;14.48;1.79;132: Telford - Montgomery Mall;Main
 133;4.97;1.71;133: Frankford / Knights - Bensalem;Main
+135;18.25;1.53;135: West Chester - Coatesville;Main
 150;18.31;1.05;150: Park Casino - Plymouth Meeting Mall;Main
 201;2.88;1.42;201: Fort Washington Office Ctr - Fort Washington Station;Main
+204;29.06;2.77;204: Eagleview - Paoli Station;Main
+206;6.53;1.77;206: Commons at Great Valley - Paoli;Main
 L-chestnut-hill;5.21;1.2;L: Erdenheim / Plymouth Meeting Mall - Olney TC;to Chestnut Hill Loop
 L-E;7.46;1.72;L: Erdenheim / Plymouth Meeting Mall - Olney TC;E: to Erdenheim
 L-plymouth;10.64;1.16;L: Erdenheim / Plymouth Meeting Mall - Olney TC;to Plymouth Meeting Mall
