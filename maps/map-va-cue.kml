@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document> 
+	<name>va-cue routes</name>
+<Schema name="RouteData" id="RouteData">
+<SimpleField type="string" name="Agency"><displayName>Agency</displayName></SimpleField>
+<SimpleField type="string" name="LineCode"><displayName>Line Code</displayName></SimpleField>
+<SimpleField type="string" name="LineName"><displayName>Line Name</displayName></SimpleField>
+<SimpleField type="string" name="LineBranch"><displayName>Branch</displayName></SimpleField>
+<SimpleField type="double" name="LineLength"><displayName>Length</displayName></SimpleField>
+<SimpleField type="double" name="LineEDI"><displayName>EDI</displayName></SimpleField>
+</Schema>
+	<Style id="1.0"> 
+		<LineStyle> 
+			<color>ff00701e</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="1.5"> 
+		<LineStyle> 
+			<color>ff00a054</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.0"> 
+		<LineStyle> 
+			<color>ff00cfa4</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="2.5"> 
+		<LineStyle> 
+			<color>ff00f2ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.0"> 
+		<LineStyle> 
+			<color>ff00a1ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="3.5"> 
+		<LineStyle> 
+			<color>ff0051ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Style id="4.0"> 
+		<LineStyle> 
+			<color>ff0000ff</color> 
+			<width>4.0</width> 
+		</LineStyle> 
+		</Style>
+	<Placemark> 
+		<name>Gold-1</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-cue</SimpleData>
+<SimpleData name="LineCode">Gold-1</SimpleData>
+<SimpleData name="LineName">Gold</SimpleData>
+<SimpleData name="LineBranch">1: Clockwise</SimpleData>
+<SimpleData name="LineLength">5.14</SimpleData>
+<SimpleData name="LineEDI">1.39</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-77.271463,38.878447,0
+			-77.278375,38.878272,0
+			-77.281803,38.873474,0
+			-77.279089,38.870949,0
+			-77.277684,38.869214,0
+			-77.274857,38.867685,0
+			-77.271155,38.866299,0
+			-77.270992,38.865036,0
+			-77.276563,38.862958,0
+			-77.277944,38.861375,0
+			-77.281372,38.859974,0
+			-77.286302,38.858133,0
+			-77.2894,38.8565,0
+			-77.291,38.8556,0
+			-77.292349,38.854861,0
+			-77.296257,38.85275,0
+			-77.2992,38.8502,0
+			-77.302598,38.850896,0
+			-77.3046,38.848813,0
+			-77.305026,38.847026,0
+			-77.305322,38.846065,0
+			-77.305759,38.844896,0
+			-77.306291,38.843497,0
+			-77.3072,38.841,0
+			-77.3091,38.8375,0
+			-77.30696,38.834623,0
+			-77.3115,38.8351,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Green</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-cue</SimpleData>
+<SimpleData name="LineCode">Green</SimpleData>
+<SimpleData name="LineName">Green</SimpleData>
+<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineLength">6.31</SimpleData>
+<SimpleData name="LineEDI">1.72</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-77.271848,38.878403,0
+			-77.26406,38.874033,0
+			-77.263224,38.870808,0
+			-77.2624,38.867,0
+			-77.264987,38.865148,0
+			-77.270992,38.865036,0
+			-77.274742,38.863079,0
+			-77.272927,38.862757,0
+			-77.270675,38.860499,0
+			-77.271,38.8568,0
+			-77.272176,38.852188,0
+			-77.272576,38.850969,0
+			-77.273251,38.84843,0
+			-77.27195,38.844674,0
+			-77.271801,38.842828,0
+			-77.2728,38.8414,0
+			-77.27557,38.84184,0
+			-77.278267,38.842119,0
+			-77.281461,38.84253,0
+			-77.2847,38.842975,0
+			-77.289308,38.843541,0
+			-77.292498,38.843889,0
+			-77.294911,38.844255,0
+			-77.297173,38.844542,0
+			-77.299711,38.84487,0
+			-77.3026,38.845479,0
+			-77.305322,38.846065,0
+			-77.305759,38.844896,0
+			-77.306291,38.843497,0
+			-77.3072,38.841,0
+			-77.3091,38.8375,0
+			-77.30696,38.834623,0
+			-77.3115,38.8351,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>Gold-2</name>
+		<styleUrl>#2.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-cue</SimpleData>
+<SimpleData name="LineCode">Gold-2</SimpleData>
+<SimpleData name="LineName">Gold</SimpleData>
+<SimpleData name="LineBranch">2: Counterclockwise</SimpleData>
+<SimpleData name="LineLength">7.52</SimpleData>
+<SimpleData name="LineEDI">2.08</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-77.271345,38.878837,0
+			-77.278375,38.878272,0
+			-77.281803,38.873474,0
+			-77.279089,38.870949,0
+			-77.277684,38.869214,0
+			-77.279937,38.868359,0
+			-77.28136,38.866785,0
+			-77.281412,38.864497,0
+			-77.2875,38.863299,0
+			-77.2905,38.8628,0
+			-77.294349,38.8621,0
+			-77.2971,38.8616,0
+			-77.301827,38.860354,0
+			-77.303967,38.859608,0
+			-77.307284,38.858432,0
+			-77.311677,38.856849,0
+			-77.3149,38.857,0
+			-77.317272,38.857297,0
+			-77.322085,38.85827,0
+			-77.326144,38.859306,0
+			-77.325159,38.861712,0
+			-77.327061,38.861683,0
+			-77.329167,38.85953,0
+			-77.330624,38.858075,0
+			-77.332706,38.855449,0
+			-77.332805,38.853919,0
+			-77.3325,38.8524,0
+			-77.331583,38.851703,0
+			-77.328772,38.852011,0
+			-77.326158,38.852319,0
+			-77.323012,38.852263,0
+			-77.320745,38.851299,0
+			-77.318256,38.850277,0
+			-77.315325,38.849051,0
+			-77.314017,38.848142,0
+			-77.314766,38.846137,0
+			-77.314584,38.844421,0
+			-77.311344,38.843556,0
+			-77.309324,38.842099,0
+			-77.310391,38.840527,0
+			-77.311762,38.838643,0
+			-77.31219,38.837241,0
+			-77.310075,38.835073,0
+			-77.30696,38.834623,0
+			</coordinates> 
+		</LineString> 
+	</Placemark> 
+</Document> 
+</kml>
