@@ -53,6 +53,50 @@
 		</LineStyle> 
 		</Style>
 	<Placemark> 
+		<name>Green-2</name>
+		<styleUrl>#1.5</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">va-cue</SimpleData>
+<SimpleData name="LineCode">Green-2</SimpleData>
+<SimpleData name="LineName">Green</SimpleData>
+<SimpleData name="LineBranch">2: Counterclockwise</SimpleData>
+<SimpleData name="LineLength">5.6</SimpleData>
+<SimpleData name="LineEDI">1.57</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-77.272216,38.878595,0
+			-77.26406,38.874033,0
+			-77.263224,38.870808,0
+			-77.2624,38.867,0
+			-77.264987,38.865148,0
+			-77.270992,38.865036,0
+			-77.277729,38.864443,0
+			-77.279455,38.864251,0
+			-77.281121,38.864113,0
+			-77.2875,38.863299,0
+			-77.2905,38.8628,0
+			-77.294349,38.8621,0
+			-77.2971,38.8616,0
+			-77.30168,38.86098,0
+			-77.303778,38.861148,0
+			-77.306534,38.861217,0
+			-77.307544,38.859964,0
+			-77.307481,38.857587,0
+			-77.307482,38.854704,0
+			-77.3078,38.8517,0
+			-77.306582,38.846489,0
+			-77.308,38.8441,0
+			-77.309324,38.842099,0
+			-77.310391,38.840527,0
+			-77.311762,38.838643,0
+			-77.31219,38.837241,0
+			-77.310075,38.835073,0
+			-77.30696,38.834623,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>Gold-1</name>
 		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
@@ -96,13 +140,13 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>Green</name>
+		<name>Green-1</name>
 		<styleUrl>#1.5</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
 <SimpleData name="Agency">va-cue</SimpleData>
-<SimpleData name="LineCode">Green</SimpleData>
+<SimpleData name="LineCode">Green-1</SimpleData>
 <SimpleData name="LineName">Green</SimpleData>
-<SimpleData name="LineBranch">Main</SimpleData>
+<SimpleData name="LineBranch">1: Clockwise</SimpleData>
 <SimpleData name="LineLength">6.31</SimpleData>
 <SimpleData name="LineEDI">1.72</SimpleData>
 </SchemaData></ExtendedData>

@@ -426,45 +426,6 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>203</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">de-dart</SimpleData>
-<SimpleData name="LineCode">203</SimpleData>
-<SimpleData name="LineName">203: Dewey Beach</SimpleData>
-<SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">6.91</SimpleData>
-<SimpleData name="LineEDI">1.05</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-75.169855,38.748176,0
-			-75.155299,38.74581,0
-			-75.150528,38.742638,0
-			-75.142396,38.737309,0
-			-75.140081,38.735685,0
-			-75.135209,38.732509,0
-			-75.130793,38.729107,0
-			-75.126074,38.725397,0
-			-75.122297,38.722408,0
-			-75.118082,38.719996,0
-			-75.114637,38.718296,0
-			-75.112705,38.71737,0
-			-75.109029,38.715493,0
-			-75.107908,38.713733,0
-			-75.10727,38.712003,0
-			-75.098788,38.710981,0
-			-75.089691,38.707001,0
-			-75.087117,38.705381,0
-			-75.081957,38.701812,0
-			-75.076466,38.698006,0
-			-75.075319,38.69529,0
-			-75.074898,38.691993,0
-			-75.07459,38.689424,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
 		<name>201</name>
 		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
@@ -497,35 +458,6 @@
 			-75.088534,38.714959,0
 			-75.083567,38.71576,0
 			-75.077004,38.716627,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>120</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">de-dart</SimpleData>
-<SimpleData name="LineCode">120</SimpleData>
-<SimpleData name="LineName">120: Scarborough Rd - Cheswold - Smyrna</SimpleData>
-<SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">9.49</SimpleData>
-<SimpleData name="LineEDI">1.02</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-75.559359,39.196973,0
-			-75.559439,39.202894,0
-			-75.5663,39.207785,0
-			-75.572733,39.215987,0
-			-75.576605,39.224372,0
-			-75.587013,39.249755,0
-			-75.588428,39.269347,0
-			-75.590223,39.273755,0
-			-75.592098,39.279081,0
-			-75.596751,39.292143,0
-			-75.601162,39.299361,0
-			-75.605365,39.304597,0
-			-75.618173,39.323605,0
 			</coordinates> 
 		</LineString> 
 	</Placemark>
@@ -1003,56 +935,6 @@
 		</LineString> 
 	</Placemark>
 	<Placemark> 
-		<name>52</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">de-dart</SimpleData>
-<SimpleData name="LineCode">52</SimpleData>
-<SimpleData name="LineName">52: Centerville / Greenville / Kennett Park</SimpleData>
-<SimpleData name="LineBranch">Main</SimpleData>
-<SimpleData name="LineLength">7.29</SimpleData>
-<SimpleData name="LineEDI">1.07</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-75.549397,39.737157,0
-			-75.548167,39.739863,0
-			-75.548233,39.743057,0
-			-75.5496,39.743609,0
-			-75.550161,39.746874,0
-			-75.549999,39.747847,0
-			-75.550896,39.749131,0
-			-75.558759,39.753221,0
-			-75.561092,39.753889,0
-			-75.563151,39.754377,0
-			-75.564549,39.754762,0
-			-75.566949,39.75572,0
-			-75.568827,39.756781,0
-			-75.571179,39.75805,0
-			-75.574551,39.760067,0
-			-75.577037,39.761532,0
-			-75.57949,39.76311,0
-			-75.583301,39.766019,0
-			-75.584564,39.767027,0
-			-75.58637,39.768378,0
-			-75.589082,39.770563,0
-			-75.594616,39.774799,0
-			-75.597423,39.777967,0
-			-75.600078,39.781415,0
-			-75.602133,39.785146,0
-			-75.603996,39.789285,0
-			-75.607093,39.795505,0
-			-75.608608,39.798699,0
-			-75.611994,39.805582,0
-			-75.613348,39.809321,0
-			-75.614313,39.813278,0
-			-75.615062,39.816301,0
-			-75.615661,39.818876,0
-			-75.616416,39.821226,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
 		<name>51</name>
 		<styleUrl>#1.5</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">
@@ -1380,62 +1262,6 @@
 			-75.730481,39.607065,0
 			-75.746062,39.605656,0
 			-75.74603,39.602733,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>37-north-middletown</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">de-dart</SimpleData>
-<SimpleData name="LineCode">37-north-middletown</SimpleData>
-<SimpleData name="LineName">37: Wilmington / Christiana Mall / Middletown</SimpleData>
-<SimpleData name="LineBranch">via North Middletown</SimpleData>
-<SimpleData name="LineLength">25.03</SimpleData>
-<SimpleData name="LineEDI">1.06</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-75.554576,39.750532,0
-			-75.547718,39.744138,0
-			-75.553401,39.737402,0
-			-75.657404,39.576003,0
-			-75.72256,39.485978,0
-			-75.719022,39.456603,0
-			-75.718106,39.453831,0
-			-75.717238,39.451245,0
-			-75.714728,39.44861,0
-			-75.712494,39.449758,0
-			-75.723149,39.448793,0
-			-75.736722,39.440056,0
-			</coordinates> 
-		</LineString> 
-	</Placemark>
-	<Placemark> 
-		<name>37-christiana</name>
-		<styleUrl>#1.0</styleUrl>
-<ExtendedData><SchemaData schemaUrl="#RouteData">
-<SimpleData name="Agency">de-dart</SimpleData>
-<SimpleData name="LineCode">37-christiana</SimpleData>
-<SimpleData name="LineName">37: Wilmington / Christiana Mall / Middletown</SimpleData>
-<SimpleData name="LineBranch">via Christiana Mall</SimpleData>
-<SimpleData name="LineLength">26.22</SimpleData>
-<SimpleData name="LineEDI">1.11</SimpleData>
-</SchemaData></ExtendedData>
-		<LineString> 
-			<coordinates>
-			-75.554576,39.750532,0
-			-75.547718,39.744138,0
-			-75.553401,39.737402,0
-			-75.655795,39.679932,0
-			-75.657404,39.576003,0
-			-75.719022,39.456603,0
-			-75.718106,39.453831,0
-			-75.717238,39.451245,0
-			-75.714728,39.44861,0
-			-75.712494,39.449758,0
-			-75.723149,39.448793,0
-			-75.736722,39.440056,0
 			</coordinates> 
 		</LineString> 
 	</Placemark>
