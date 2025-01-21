@@ -362,7 +362,7 @@ s7004;BWI Business District;39.191429;-76.673210
 695;Bais Yaakov Elem;39.427868;-76.725551
 724;Bais Yaakov High;39.373742;-76.662337
 2864;Balt Anna & Sun Valley Shop Nb;39.135561;-76.585276
-8727;Balt Anna Blvd& Faywood Dr Nb;39.140902;-76.588475
+8727;Balt Anna Blvd & Faywood Dr Nb;39.140902;-76.588475
 64;Baltimore & Howard Mid Eb;39.289286;-76.618866
 3918;Baltimore & Pulaskiwb;39.288089;-76.649954
 12594;Baltimore Annapolis Blvd & Alameda Ave Sb;39.065362;-76.539809
@@ -682,7 +682,7 @@ s7008;Baltimore Highlands;39.235123;-76.632927
 11478;Brierhill Dr & Chambers Cir S Sb;39.532853;-76.322987
 11498;Brierhill Dr & Todd Rd Nb;39.540019;-76.324909
 11476;Brierhill Dr & Todd Rd Sb;39.540065;-76.325291
-11613;Bristol P&R MD 4 & MD 258;38.791853;-76.670125
+11613;Bristol P & R MD 4 & MD 258;38.791853;-76.670125
 13340;Broadway & Ashland Sb;39.300812;-76.594569
 14160;Broadway & Baltimore St Sb Ns;39.291653;-76.594051
 3196;Broadway & Biddle St Fs Sb;39.304054;-76.594813
@@ -1275,7 +1275,7 @@ s7018;Cultural Center / State Center;39.303680;-76.620453
 1926;Dundalk Ave & Youngstown Ave;39.277581;-76.533632
 2015;Dundalk Ave & Youngstown Ave;39.277549;-76.533173
 3787;Dundalk Marine Terminal;39.256637;-76.532124
-11574;Dunkirk P&r MD 525 Near Md4;38.727375;-76.656347
+11574;Dunkirk P & r MD 525 Near Md4;38.727375;-76.656347
 10256;Dunmanway & Dunran Rd Eb;39.257144;-76.519633
 11465;Dunmanway & Dunran Rd Wb;39.257372;-76.519096
 8925;Dunmanway & Liberty Pkwy Eb;39.257850;-76.517115
@@ -1899,7 +1899,7 @@ s7002;Ferndale;39.183651;-76.640160
 37;Fulton Ave & Presbury St;39.308182;-76.646467
 152;Fulton Ave & Presbury St;39.307833;-76.646170
 8554;Fulton Ave & Reisterstown Rd Fs Nb;39.313774;-76.645595
-8577;Fulton Ave &reisterstown Rd Wb;39.313393;-76.646236
+8577;Fulton Ave & reisterstown Rd Wb;39.313393;-76.646236
 11758;G St & 14th St NW Fs Eb;38.898037;-77.031878
 11952;Gaithersburg MARC Eb;39.141424;-77.193339
 11964;Gaithersburg MARC Wb;39.141532;-77.193339
@@ -2140,7 +2140,7 @@ s7001;Glen Burnie (Cromwell);39.172092;-76.633080
 4290;Gwynns Falls Pkwy & Tioga Pkwy;39.315900;-76.658395
 14200;Gwynns Falls Pkwy & Tioga Pkwy Eb Fs;39.315592;-76.658313
 161;Gwynns Falls Pkwy & Warwick Ave;39.316088;-76.656887
-11912;Hagerstown & Mva P&r;39.601879;-77.732109
+11912;Hagerstown & Mva P & r;39.601879;-77.732109
 10897;Haines St & Warner St Eb;39.272182;-76.628467
 13686;Haines St & Warner St Wb;39.272303;-76.628424
 2245;Halethorpe Farms Rd & Washington Blvd Fs;39.233552;-76.687186
@@ -2286,7 +2286,7 @@ s7012;Hamburg Street;39.278946;-76.619904
 3566;Hillsway Ave & Wentworth Rd Sb;39.375997;-76.568383
 7052;Hilltop Cir & Administration Building Nb;39.252938;-76.714604
 10964;Hilltop Cir & Commons Dr (UMBC) Sb;39.252489;-76.708928
-10963;Hilltop Cir& Center Rd Sb;39.258470;-76.708062
+10963;Hilltop Cir & Center Rd Sb;39.258470;-76.708062
 6501;Hilton Rd & Barrington Rd Nb;39.327866;-76.669487
 6379;Hilton Rd & Barrington Rd Sb;39.328322;-76.669488
 6500;Hilton Rd & Dorchester Rd Nb;39.325564;-76.670638
@@ -2401,7 +2401,7 @@ s7033;Hunt Valley;39.496288;-76.654289
 11601;Independence Ave & 4th & 3rd St SW Eb;38.887598;-77.016219
 11576;Independence Ave & 4th St SW Wb;38.887654;-77.017313
 11634;Independence Ave & 6th St SW (Air & Space Museum);38.887655;-77.019425
-11650;Independence Ave & 7&6 St SW Mid Eb;38.887573;-77.020725
+11650;Independence Ave & 7 & 6 St SW Mid Eb;38.887573;-77.020725
 13634;Independence Ave & 9th St SW Eb;38.887453;-77.024513
 11648;Independence Ave & 12th St Eb;38.887461;-77.028443
 11636;Independence Ave & 12th St SW Wb;38.887605;-77.027722
@@ -2549,7 +2549,7 @@ e0014s;Johns Hopkins Metro South Entrance;39.296889;-76.594177
 14182;Knecht Ave & John Ave Wb Ns;39.258037;-76.681944
 11673;L St & 21st St NW Eb;38.903686;-77.047015
 11671;L St & 25th St NW Fs Eb;38.903705;-77.052655
-11684;La Plata P&r & Charles Co;38.549977;-76.977922
+11684;La Plata P & r & Charles Co;38.549977;-76.977922
 4000;Lafayette Ave & Arlington Ave Eb;39.299066;-76.636251
 3998;Lafayette Ave & Carey St Ns Eb;39.298968;-76.639032
 4086;Lafayette Ave & Carey St Wb;39.299112;-76.638335
@@ -2809,7 +2809,7 @@ s7005;Linthicum;39.202332;-76.655357
 5421;Lombard St & Stricker St Fs Wb;39.286464;-76.641136
 1328;Lombard St & Washington St;39.290649;-76.588906
 1329;Lombard St & Wolfe St Wb;39.290576;-76.590587
-7531;Long Gate P&R;39.246810;-76.820027
+7531;Long Gate P & R;39.246810;-76.820027
 11771;Lotte Plaza US 40 & US 29;39.276458;-76.816911
 11563;Louisiana Ave & D St NW (Ibt Headquarters) Sb;38.894946;-77.009471
 13749;Louisiana Ave & D St NW (Union Station Plaza) Nb;38.894699;-77.009554
@@ -2885,9 +2885,9 @@ s7026;Lutherville;39.428959;-76.627144
 6342;Mannasota Ave & Lake Ave Eb;39.321020;-76.569630
 6347;Mannasota Ave & Ramona Ave Eb;39.323624;-76.564418
 6350;Mannasota Ave & Sheldon Ave;39.325611;-76.561019
-12490;Marley Station & B&a Blvd Fs Wb;39.147488;-76.594452
+12490;Marley Station & B & a Blvd Fs Wb;39.147488;-76.594452
 12281;Marley Station & Ritchie Hwy;39.141180;-76.602159
-2803;Marley Station &b&a Sb;39.147606;-76.593782
+2803;Marley Station & b & a Sb;39.147606;-76.593782
 6514;Marlyn Ave & Foxwood Ln Fs Eb;39.294010;-76.454306
 12003;Martin Airport MARC Nb;39.338324;-76.419307
 11979;Martin Airport MARC Sb;39.338324;-76.419307
@@ -2914,7 +2914,7 @@ s7026;Lutherville;39.428959;-76.627144
 13757;Massachusetts Ave & New Jersey Ave NW Wb;38.899232;-77.013051
 14173;Mathison Way;39.170162;-76.676812
 14220;Mathison Way;39.170574;-76.683717
-11549;Mattawoman-beantown P&r Nb;38.624597;-76.873549
+11549;Mattawoman-beantown P & r Nb;38.624597;-76.873549
 s7031;McCormick Road;39.489548;-76.658943
 7660;McCormick Road (Northbound);39.489628;-76.658493
 7665;McCormick Road (Southbound);39.489510;-76.659500
@@ -3334,8 +3334,8 @@ e0002;Old Court Metro Entrance;39.372343;-76.743214
 6586;Osler Dr & Sheppard Pratt Hospital;39.391005;-76.613527
 12069;Osler Dr & Sister Pierre Dr Nb;39.387926;-76.613161
 6575;Osler Dr & Sister Pierre Dr Sb;39.387895;-76.613345
-11544;Otsego St & Juniata St P&r Eb;39.552695;-76.097413
-11520;Otsego St & Juniata St P&r Wb;39.552786;-76.097587
+11544;Otsego St & Juniata St P & r Eb;39.552695;-76.097413
+11520;Otsego St & Juniata St P & r Wb;39.552786;-76.097587
 11736;Overlook Ave & Laboratory Rd Nb;38.822912;-77.017263
 11680;Overlook Ave & Laboratory Rd Sb;38.823285;-77.017480
 11604;Owings Dash-in MD 2 & MD 260;38.717439;-76.601221
@@ -3563,7 +3563,7 @@ s7032;Pepper Road;39.492107;-76.656273
 11156;Philadelphia Rd & Sellier Ave Eb;39.323267;-76.510813
 4844;Pimlico Rd & Ken Oak Rd Fs Sb;39.357321;-76.670862
 12665;Pimlico Rd & Rogers Ave Sb;39.357321;-76.671000
-11614;Pindell P&r MD 4 & Lower Pindell Rd;38.771982;-76.659374
+11614;Pindell P & r MD 4 & Lower Pindell Rd;38.771982;-76.659374
 6282;Pioneer & Fleetwood (Lewis);39.366646;-76.572505
 6281;Plymouth & Pinewood;39.366257;-76.568793
 11946;Point Of Rocks MARC Eb;39.273403;-77.533416
@@ -3633,7 +3633,7 @@ s7032;Pepper Road;39.492107;-76.656273
 977;Preston St & Montford Ave Wb Ns;39.305841;-76.584021
 4064;Preston St & Saint Paul St Wb;39.304634;-76.614389
 4060;Preston St & Valley St Wb;39.305022;-76.604842
-11572;Prince Frederick P&r (Fairground & Armory Rd);38.548248;-76.581118
+11572;Prince Frederick P & r (Fairground & Armory Rd);38.548248;-76.581118
 14029;Progress Dr & Digital Dr Eb Fs;39.216922;-76.673409
 14030;Progress Dr & Digital Dr Wb;39.216936;-76.673632
 12422;Pulaski Hwy & 62nd St Wb;39.309698;-76.530867
@@ -3834,7 +3834,7 @@ e0004w;Reisterstown Plaza Metro West Entrance;39.351008;-76.704802
 4887;Remington Ave & Wyman Park Dr Sb;39.325986;-76.625272
 14056;Richie Hwy & 1875 Richie Hwy Nb Mid;39.002365;-76.481958
 3324;Ridge Rd & Mellon Rd;39.161136;-76.712461
-3329;Ridge Rd& Mellon Rd Nb;39.160887;-76.712376
+3329;Ridge Rd & Mellon Rd Nb;39.160887;-76.712376
 1697;Ridgely Rd & Kurtz Ave Wb;39.429504;-76.623399
 1826;Ridgland Rd & Cranbrook Rd Fs Nb;39.471919;-76.620166
 1734;Ridgland Rd & Cranbrook Rd Sb;39.471961;-76.620416
@@ -4265,7 +4265,7 @@ e0010;State Center Metro Entrance;39.301862;-76.622780
 4414;Stokes Dr & Wildwood Pkwy;39.302668;-76.685269
 11550;Suitland Federal Ctr At Gate 7;38.846023;-76.930713
 11551;Suitland Metro Station;38.845251;-76.932590
-11573;Sunderland P&R (MD 2 near MD 4 & MD 262);38.664203;-76.604428
+11573;Sunderland P & R (MD 2 near MD 4 & MD 262);38.664203;-76.604428
 13339;Swan Creek & Cabot Dr Nb;39.194864;-76.551343
 13517;Swan Creek Dr & Kembo Rd Fs;39.192834;-76.551285
 10584;Talmudical Academy;39.369253;-76.747113

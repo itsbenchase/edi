@@ -53,6 +53,52 @@
 		</LineStyle> 
 		</Style>
 	<Placemark> 
+		<name>C25-out</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C25-out</SimpleData>
+<SimpleData name="LineName">C25: Anacostia - Stanton Rd</SimpleData>
+<SimpleData name="LineBranch">Outbound</SimpleData>
+<SimpleData name="LineLength">0.64</SimpleData>
+<SimpleData name="LineEDI">1.17</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-76.995067,38.861893,0
+			-76.993746,38.860918,0
+			-76.993465,38.859153,0
+			-76.99314,38.857878,0
+			-76.993445,38.856387,0
+			-76.992576,38.855572,0
+			-76.991022,38.855476,0
+			-76.98989,38.855161,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
+		<name>C25-in</name>
+		<styleUrl>#1.0</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#RouteData">
+<SimpleData name="Agency">dc-wmata</SimpleData>
+<SimpleData name="LineCode">C25-in</SimpleData>
+<SimpleData name="LineName">C25: Anacostia - Stanton Rd</SimpleData>
+<SimpleData name="LineBranch">Inbound</SimpleData>
+<SimpleData name="LineLength">0.76</SimpleData>
+<SimpleData name="LineEDI">1.41</SimpleData>
+</SchemaData></ExtendedData>
+		<LineString> 
+			<coordinates>
+			-76.98989,38.855161,0
+			-76.988159,38.85825,0
+			-76.990128,38.858528,0
+			-76.993292,38.858856,0
+			-76.993654,38.861112,0
+			-76.995067,38.861893,0
+			</coordinates> 
+		</LineString> 
+	</Placemark>
+	<Placemark> 
 		<name>S9</name>
 		<styleUrl>#1.0</styleUrl>
 <ExtendedData><SchemaData schemaUrl="#RouteData">

@@ -193,7 +193,7 @@ public class RouteList
               data = data.substring(data.indexOf(";") + 1);
               double miles = Double.parseDouble(data.substring(0, data.indexOf(";")));
               data = data.substring(data.indexOf(";") + 1);
-              double edi = Double.parseDouble(data);
+              double edi = Double.parseDouble(data.substring(0, data.indexOf(";")));
   
               lengths.add(miles);
               edis.add(edi);
