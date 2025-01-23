@@ -1,0 +1,37 @@
+<link rel=stylesheet href=style.css>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+<div id="map" style="height: 100%"></div>
+<script>
+  var map = L.map('map').setView([42.262550, -71.801793], 13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© <a href = "https://www.openstreetmap.org/copyright"> OpenStreetMap </a> contributors'}).addTo(map);
+
+  var marker = L.marker([42.262550, -71.801793]).addTo(map);
+  marker.bindPopup("<b>Hello world!</b><br>I am a popup.")
+
+  const mapFileUrl = ("https://dev.eliotindex.org/maps/leaflet-all.txt"); // provide file location
+  fetch(mapFileUrl)
+    .then(r => r.text())
+    .then((text) => {
+      const mapFile = text.split("\n");
+      mapFile.pop();
+
+      for (let i = 0; i < mapFile.length; i++)
+      {
+          var data = mapFile[i];
+          var agency = data.substring(0, data.indexOf(";"));
+          data = data.substr(data.indexOf(";") + 1);
+          var routeCode = data.substring(0, data.indexOf(";"));
+          data = data.substr(data.indexOf(";") + 1);
+          var routeName = data.substring(0, data.indexOf(";"));
+          data = data.substr(data.indexOf(";") + 1);
+          var routeLength = data.substring(0, data.indexOf(";"));
+          data = data.substr(data.indexOf(";") + 1);
+          var routeEdi = data.substring(0, data.indexOf(";"));
+          data = data.substr(data.indexOf(";") + 1);
+          
+          var points = data.split(";");
+          L.polyline(points, {color: 'black'}).addTo(map);
+      }
+      })
+</script>
