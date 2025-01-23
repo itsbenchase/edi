@@ -14,15 +14,17 @@ public class Update
     //StopList a = new StopList();
     RouteList b = new RouteList();
     HighRoutes h = new HighRoutes();
-    FullMap c = new FullMap();
-    AgencyMap d = new AgencyMap();
+    //FullMap c = new FullMap();
+    //AgencyMap d = new AgencyMap();
+    LeafletMap e = new LeafletMap();
     Stats g = new Stats("global");
 
     //a.main(args);
     b.main(args);
     h.main(args);
-    c.main(args);
-    d.main(args);
+    //c.main(args);
+    //d.main(args);
+    e.main(args);
     g.main(args);
 
     // update home page with date
