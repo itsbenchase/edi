@@ -1,9 +1,10 @@
+<title>Route Map - Eliot Deviation Index</title>
 <link rel=stylesheet href=style.css>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
 <div id="map" style="height: 100%"></div>
 <script>
-  var map = L.map('map').setView([42.262550, -71.801793], 13);
+  var map = L.map('map').setView([42.262550, -71.801793], 8);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© <a href = "https://www.openstreetmap.org/copyright"> OpenStreetMap </a> contributors'}).addTo(map);
 
   const mapFileUrl = ("https://dev.eliotindex.org/maps/leaflet-all.txt"); // provide file location
@@ -38,8 +39,43 @@
             points.push([pointsOg[j], pointsOg[j + 1]]);
           }
           
-          console.log(points.length);
-          L.polyline(points, {color: 'black'}).addTo(map);
+          var edi = Number(routeEdi);
+          var lineCol = '#000000';
+          if (edi >= 1.0 && edi < 1.5)
+          {
+            lineCol = '#10c283';
+          }
+          if (edi >= 1.5 && edi < 2.0)
+          {
+            lineCol = '#195c03';
+          }
+          if (edi >= 2.0 && edi < 2.5)
+          {
+            lineCol = '#a0ad10';
+          }
+          if (edi >= 2.5 && edi < 3.0)
+          {
+            lineCol = '#ad4902';
+          }
+          if (edi >= 3.0 && edi < 3.5)
+          {
+            lineCol = '#bf1d73';
+          }
+          if (edi >= 3.5 && edi < 4.0)
+          {
+            lineCol = '#6e0cb0';
+          }
+          if (edi >= 4.0 && edi < 10)
+          {
+            lineCol = '#190177';
+          }
+          if (edi >= 10)
+          {
+            lineCol = '#000000';
+          }
+
+          var line = L.polyline(points, {color: lineCol}).addTo(map);
+          line.bindPopup(routeName + " (" + routeBranch + ")<br>Agency: " + agency + "<br>Length: " + routeLength + " mi.<br>EDI: " + routeEdi);
 
           pointsOg.length = 0;
           points.length = 0;
