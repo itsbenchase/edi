@@ -6,8 +6,6 @@
   var map = L.map('map').setView([42.262550, -71.801793], 13);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© <a href = "https://www.openstreetmap.org/copyright"> OpenStreetMap </a> contributors'}).addTo(map);
 
-  var marker = L.marker([42.262550, -71.801793]).addTo(map);
-
   const mapFileUrl = ("https://dev.eliotindex.org/maps/leaflet-all.txt"); // provide file location
   fetch(mapFileUrl)
     .then(r => r.text())
@@ -39,8 +37,12 @@
           {
             points.push([pointsOg[j], pointsOg[j + 1]]);
           }
-          console.log(points);
+          
+          console.log(points.length);
           L.polyline(points, {color: 'black'}).addTo(map);
+
+          pointsOg.length = 0;
+          points.length = 0;
       }
       })
 </script>

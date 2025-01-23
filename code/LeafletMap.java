@@ -99,7 +99,7 @@ public class LeafletMap
           {
             if (load.get(i).getLineEDI().equals(routes.get(j).getLineEDI()))
             {
-              maps.add(agencies.get(a) + ";" + routes.get(j).getLineEDI() + ";" + routes.get(j).getLineName() + ";" + routes.get(j).getBranch() + ";" + routes.get(j).getLength() + ";" + routes.get(j).getEdi() + ";" + load.get(0).getLat() + "," + load.get(0).getLon() + "");
+              maps.add(agencies.get(a) + ";" + routes.get(j).getLineEDI() + ";" + routes.get(j).getLineName() + ";" + routes.get(j).getBranch() + ";" + routes.get(j).getLength() + ";" + routes.get(j).getEdi() + ";" + load.get(i).getLat() + "," + load.get(i).getLon() + "");
             }
           }
         }
