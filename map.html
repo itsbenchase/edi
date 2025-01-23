@@ -32,9 +32,15 @@
           var routeEdi = data.substring(0, data.indexOf(";"));
           data = data.substr(data.indexOf(";") + 1);
           
-          var points = data.split(";");
+          var pointsOg = data.split(",").map(Number);
+
+          const points = [];
+          for (let j = 0; j < pointsOg.length; j += 2)
+          {
+            points.push([pointsOg[j], pointsOg[j + 1]]);
+          }
           console.log(points);
-          //L.polyline(points, {color: 'black'}).addTo(map);
+          L.polyline(points, {color: 'black'}).addTo(map);
       }
       })
 </script>

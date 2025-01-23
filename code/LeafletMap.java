@@ -71,9 +71,6 @@ public class LeafletMap
           data = data.substring(data.indexOf(";") + 1);
           String branch = data;
 
-          name = name.replace("&", "&amp;");
-          branch = branch.replace("&", "&amp;");
-
           routes.add(new Stop(line2, edi, length, name, branch));
         }
       }
