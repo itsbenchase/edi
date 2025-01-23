@@ -94,7 +94,7 @@ public class LeafletMap
       {
         if (load.get(i).getLineEDI().equals(load.get(i - 1).getLineEDI()))
         {
-          maps.set(maps.size() - 1, maps.get(maps.size() - 1) + ";" + load.get(i).getLat() + "," + load.get(i).getLon() + "");
+          maps.set(maps.size() - 1, maps.get(maps.size() - 1) + "," + load.get(i).getLat() + "," + load.get(i).getLon() + "");
         }
         else
         {

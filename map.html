@@ -7,7 +7,6 @@
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© <a href = "https://www.openstreetmap.org/copyright"> OpenStreetMap </a> contributors'}).addTo(map);
 
   var marker = L.marker([42.262550, -71.801793]).addTo(map);
-  marker.bindPopup("<b>Hello world!</b><br>I am a popup.")
 
   const mapFileUrl = ("https://dev.eliotindex.org/maps/leaflet-all.txt"); // provide file location
   fetch(mapFileUrl)
@@ -15,7 +14,8 @@
     .then((text) => {
       const mapFile = text.split("\n");
       mapFile.pop();
-
+      
+      console.log(mapFile.length);
       for (let i = 0; i < mapFile.length; i++)
       {
           var data = mapFile[i];
@@ -25,13 +25,16 @@
           data = data.substr(data.indexOf(";") + 1);
           var routeName = data.substring(0, data.indexOf(";"));
           data = data.substr(data.indexOf(";") + 1);
+          var routeBranch = data.substring(0, data.indexOf(";"));
+          data = data.substr(data.indexOf(";") + 1);
           var routeLength = data.substring(0, data.indexOf(";"));
           data = data.substr(data.indexOf(";") + 1);
           var routeEdi = data.substring(0, data.indexOf(";"));
           data = data.substr(data.indexOf(";") + 1);
           
           var points = data.split(";");
-          L.polyline(points, {color: 'black'}).addTo(map);
+          console.log(points);
+          //L.polyline(points, {color: 'black'}).addTo(map);
       }
       })
 </script>
