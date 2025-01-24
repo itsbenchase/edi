@@ -52,6 +52,8 @@ public class RouteList
 
       fileWriter1.append("<p>Only want the worst of the bunch? <a href=deviatory.html>Here</a> is a list of all routes with an EDI over 3.0, our threshold for being too deviatory.</p> \n");
 
+      fileWriter1.append("<p>View all of our routes on a map <a href=map.html>here</a>.</p> \n");
+
       fileWriter1.append("<p>Agency: <select id=\"agencyDrop\"><option value=\"none\">Select an agency</option></select> <button onClick=\"getRoutes()\">Enter</button></p> \n");
       
       int routeCount = 0;
