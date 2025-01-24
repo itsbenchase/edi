@@ -16,7 +16,7 @@ public class Update
     HighRoutes h = new HighRoutes();
     //FullMap c = new FullMap();
     //AgencyMap d = new AgencyMap();
-    LeafletMap e = new LeafletMap();
+    LeafletMap j = new LeafletMap();
     Stats g = new Stats("global");
 
     //a.main(args);
@@ -24,7 +24,7 @@ public class Update
     h.main(args);
     //c.main(args);
     //d.main(args);
-    e.main(args);
+    j.main(args);
     g.main(args);
 
     // update home page with date
