@@ -31,7 +31,8 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 19;11.57;2.14;19: Torresdale - Frankford TC;Main
 20;11.13;1.51;20: Philadelphia Mills to FTC;Main
 21;6.36;1.02;21: Columbus-Dock - 69th St TC;Main
-22;37.88;3.55;22: Warminster - Olney TC;Main
+22-warminster;16.22;1.52;22: Warminster - Olney TC;to Warminster
+22-willow-grove;9.19;1.27;22: Warminster - Olney TC;to Willow Grove
 23;10.5;1.15;23: 11th Market to Chestnut Hill;Main
 25-columbus;12.12;1.49;25: FTC to Columbus Commons;to Columbus Commons
 25-spring-garden;7.62;1.38;25: FTC to Columbus Commons;to Spring Garden
@@ -50,16 +51,35 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 37;16.28;1.43;37: Chester TC to Broad-Snyder;Main
 38;9.08;1.67;38: 5th-Market to Wissahickon TC;Main
 39;4.93;1.3;39: Richmond-Cumberland to 33rd-Dauphin;Main
+40;9.46;1.73;40: 2nd-Lombard to Conshohocken-Monument;Main
+42-61st;6.14;1.14;42: 2nd-Spruce to Wycombe or 61st-Pine;to 61st-Pine
+42-wycombe;7.44;1.13;42: 2nd-Spruce to Wycombe or 61st-Pine;to Wycombe
+43;6.73;1.25;43: Richmond-Cumberland to 50th-Parkside;Main
+44;11.9;1.38;44: Front-Market to Ardmore;Main
+45;3.26;1.11;45: Broad & Oregon to Noble & 12th;Main
+46;3.14;1.2;46: 58th-Baltimore to 63rd-Malvern;Main
 47;9.85;1.05;47: Whitman Plaza to 5th-Godfrey;Main
+47M;3.76;1.14;47M: Whitman Plaza to 7th-Spring Garden via 9th St;Main
+48;5.94;1.44;48: Front-Market to 27th-Allegheny;Main
+49;6.56;1.47;49: 33rd-Dauphin to 29th-Snyder;Main
+50;12.96;1.4;50: Parx Casino via Phila Mills to FTC;Main
+52-50th;4.17;1.57;52: 49th-Woodland to 54th-City/50th-Parkside;to 50th-Parkside
+52-54th;5.52;1.37;52: 49th-Woodland to 54th-City/50th-Parkside;to 54th-City
 53-broad;4.91;1.48;53: Wayne / Carpenter - Broad or G / Hunting Park;to Broad / Hunting Park
 53-g;6.27;1.21;53: Wayne / Carpenter - Broad or G / Hunting Park;to G / Hunting Park
 54;4.94;1.18;54: Richmond / Cambria - 33rd / Dauphin;Main
 55;24.94;1.22;55: Doylestown - Olney TC;Main
+56-23rd;7.46;1.06;56: 23rd-Venango to Torresdale-Cottman;to 23rd-Venango
+56-bakers;8.09;1.06;56: 23rd-Venango to Torresdale-Cottman;to Bakers Center
 57;13.24;1.48;57: Whitman Plaza - Fern Rock TC;Main
 57-rising-sun;9.44;1.1;57: Whitman Plaza - Fern Rock TC;to Rising Sun / Olney
 57-T;15.1;1.69;57: Whitman Plaza - Fern Rock TC;T: to Marine Terminal
 59;3.98;1.04;59: Castor / Bustleton - Arrott TC;Main
 60;5.51;1.11;60: 35th / Allegheny - Richmond / Westmoreland;Main
+61;8.02;1.21;61: 9th-Market to Manayunk;Main
+62;11.32;1.26;62: 9th-Market to Andorra;Main
+64;8.36;1.51;64: 50th-Parkside to Pier 70;Main
+65;8.62;1.28;65: Germantown-Chelten to 69th St TC;Main
 66-cottman;2.19;1.02;66: Frankford / Knights - Frankford TC;to Cottman Av
 66-gregg;4.44;1.02;66: Frankford / Knights - Frankford TC;to Gregg St
 66-knights;5.95;1.02;66: Frankford / Knights - Frankford TC;to Knights Rd
