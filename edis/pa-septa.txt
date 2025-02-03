@@ -3,21 +3,21 @@ BSL;9.84;1.02;Broad Street Line;Main
 BRS;6.71;1.06;Broad - Ridge Spur;Main
 MFL;12.66;1.21;Market-Frankford Line;Main
 NHSL;12.96;1.14;Norristown High-Speed Line;Main
-1-decatur;18.06;1.31;1: Parx Casino to 54th / City;to Decatur Rd
-1-decatur-parx;23.54;1.38;1: Parx Casino to 54th / City;to Park Casino via Decatur Rd
-1-parx;19.47;1.14;1: Parx Casino to 54th / City;to Parx Casino
+1-decatur;18.06;1.31;1: Parx Casino - 54th / City;to Decatur Rd
+1-decatur-parx;23.54;1.38;1: Parx Casino - 54th / City;to Park Casino via Decatur Rd
+1-parx;19.47;1.14;1: Parx Casino - 54th / City;to Parx Casino
 2-hunting-park;7.84;1.15;2: 20th / Johnston - Pulaski / Hunting Park or Wayne Jct;to Pulaski / Hunting Park
 2-wayne-junction;8.22;1.12;2: 20th / Johnston - Pulaski / Hunting Park or Wayne Jct;to Wayne Jct
 3;7.62;1.16;3: 33rd / Cecil B Moore - Frankford TC;Main
 4;10.18;1.06;4: Broad / Pattison - Fern Rock TC;Main
 5;6.61;1.09;5: Front / Market - Frankford TC;Main
 6;2.89;1.1;6: Cheltenham / Ogontz - Olney TC;Main
-7;10.74;2.07;7: Pier 70 to 33rd-Dauphin;Main
+7;10.74;2.07;7: Pier 70 - 33rd-Dauphin;Main
 8;4.21;1.07;8: Olney TC - Frankford TC;Main
 9;10.58;1.13;9: 4th / Walnut - Andorra;Main
 10;5.71;1.16;10: 13th / Market - 63rd / Malvern;Main
 11;6.4;1.11;Route 11;Main
-12;4.45;1.2;12: Columbus-Dock to 50th-Woodland;Main
+12;4.45;1.2;12: Columbus-Dock - 50th-Woodland;Main
 13-darby;6.59;1.14;Route 13;to Darby
 13-yeadon;5.71;1.13;Route 13;to Yeadon
 14-neshaminy;12.22;1.19;14: FTC - Nesh/Oxford Valley Malls;to Neshaminy Malls
@@ -29,57 +29,68 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 17-navy;7.38;1.72;17: Front-Market - 20-Johnston;to Navy Yard
 18;11.17;2.61;18: Fox Chase - Cedarbrook Plaza;Main
 19;11.57;2.14;19: Torresdale - Frankford TC;Main
-20;11.13;1.51;20: Philadelphia Mills to FTC;Main
+20;11.13;1.51;20: Philadelphia Mills - FTC;Main
 21;6.36;1.02;21: Columbus-Dock - 69th St TC;Main
 22-warminster;16.22;1.52;22: Warminster - Olney TC;to Warminster
 22-willow-grove;9.19;1.27;22: Warminster - Olney TC;to Willow Grove
-23;10.5;1.15;23: 11th Market to Chestnut Hill;Main
-25-columbus;12.12;1.49;25: FTC to Columbus Commons;to Columbus Commons
-25-spring-garden;7.62;1.38;25: FTC to Columbus Commons;to Spring Garden
+23;10.5;1.15;23: 11th Market - Chestnut Hill;Main
+24-rockledge;5.48;1.21;24: Southampton & Rockledge to FTC;to Rockledge
+24-southampton;13.71;1.31;24: Southampton & Rockledge to FTC;to Southampton
+25-columbus;12.12;1.49;25: FTC - Columbus Commons;to Columbus Commons
+25-spring-garden;7.62;1.38;25: FTC - Columbus Commons;to Spring Garden
 26-frankford;10.03;1.82;26: Chelten Av - Frankford TC;via Frankford Av
 26-torresdale;11.04;2.01;26: Chelten Av - Frankford TC;via Torresdale Av
-27-barren;12.36;1.12;27: Broad-Carpenter to Plymouth Meeting Mall;to Barren Hill
-27-plymouth;16.5;1.2;27: Broad-Carpenter to Plymouth Meeting Mall;to Plymouth Meeting Mall
+27-barren;12.36;1.12;27: Broad-Carpenter - Plymouth Meeting Mall;to Barren Hill
+27-plymouth;16.5;1.2;27: Broad-Carpenter - Plymouth Meeting Mall;to Plymouth Meeting Mall
 28;12.1;2.24;28: Torresdale / Cottman - Fern Rock TC;Main
-29;3.46;1.11;29: Pier 70 to 33rd-Dickinson;Main
+29;3.46;1.11;29: Pier 70 - 33rd-Dickinson;Main
 30;7.1;1.76;30: 30th St - 69th St TC;Main
 31;8.52;1.45;31: City Hall - 76th-City;Main
-32;9.88;1.42;32: Broad-Carpenter to Ridge-Lyceum;Main
-33;5.46;1.31;33: 5th-Market to 23rd-Venango;Main
+32;9.88;1.42;32: Broad-Carpenter - Ridge-Lyceum;Main
+33;5.46;1.31;33: 5th-Market - 23rd-Venango;Main
 34;4.65;1.04;34: 13th / Market - 61st / Baltimore;Main
 36;5.65;1.13;Route 36;Main
-37;16.28;1.43;37: Chester TC to Broad-Snyder;Main
-38;9.08;1.67;38: 5th-Market to Wissahickon TC;Main
-39;4.93;1.3;39: Richmond-Cumberland to 33rd-Dauphin;Main
-40;9.46;1.73;40: 2nd-Lombard to Conshohocken-Monument;Main
-42-61st;6.14;1.14;42: 2nd-Spruce to Wycombe or 61st-Pine;to 61st-Pine
-42-wycombe;7.44;1.13;42: 2nd-Spruce to Wycombe or 61st-Pine;to Wycombe
-43;6.73;1.25;43: Richmond-Cumberland to 50th-Parkside;Main
-44;11.9;1.38;44: Front-Market to Ardmore;Main
-45;3.26;1.11;45: Broad & Oregon to Noble & 12th;Main
-46;3.14;1.2;46: 58th-Baltimore to 63rd-Malvern;Main
-47;9.85;1.05;47: Whitman Plaza to 5th-Godfrey;Main
-47M;3.76;1.14;47M: Whitman Plaza to 7th-Spring Garden via 9th St;Main
-48;5.94;1.44;48: Front-Market to 27th-Allegheny;Main
-49;6.56;1.47;49: 33rd-Dauphin to 29th-Snyder;Main
-50;12.96;1.4;50: Parx Casino via Phila Mills to FTC;Main
-52-50th;4.17;1.57;52: 49th-Woodland to 54th-City/50th-Parkside;to 50th-Parkside
-52-54th;5.52;1.37;52: 49th-Woodland to 54th-City/50th-Parkside;to 54th-City
+37;16.28;1.43;37: Chester TC - Broad-Snyder;Main
+38;9.08;1.67;38: 5th-Market - Wissahickon TC;Main
+39;4.93;1.3;39: Richmond-Cumberland - 33rd-Dauphin;Main
+40;9.46;1.73;40: 2nd-Lombard - Conshohocken-Monument;Main
+41;8.37;1.36;41: Chelten-Wissahickon - Richmond-Orthodox;Main
+42-61st;6.14;1.14;42: 2nd-Spruce - Wycombe or 61st-Pine;to 61st-Pine
+42-wycombe;7.44;1.13;42: 2nd-Spruce - Wycombe or 61st-Pine;to Wycombe
+43;6.73;1.25;43: Richmond-Cumberland - 50th-Parkside;Main
+44;11.9;1.38;44: Front-Market - Ardmore;Main
+45;3.26;1.11;45: Broad & Oregon - Noble & 12th;Main
+46;3.14;1.2;46: 58th-Baltimore - 63rd-Malvern;Main
+47;9.85;1.05;47: Whitman Plaza - 5th-Godfrey;Main
+47M;3.76;1.14;47M: Whitman Plaza - 7th-Spring Garden via 9th St;Main
+48;5.94;1.44;48: Front-Market - 27th-Allegheny;Main
+49;6.56;1.47;49: 33rd-Dauphin - 29th-Snyder;Main
+50;12.96;1.4;50: Parx Casino via Phila Mills - FTC;Main
+51-chestnut;7.46;1.72;51: Erdenheim / Plymouth Meeting Mall - Olney TC;to Chestnut Hill
+51-plymouth;10.65;1.16;51: Erdenheim / Plymouth Meeting Mall - Olney TC;to Plymouth Meeting Mall
+52-50th;4.17;1.57;52: 49th-Woodland - 54th-City/50th-Parkside;to 50th-Parkside
+52-54th;5.52;1.37;52: 49th-Woodland - 54th-City/50th-Parkside;to 54th-City
 53-broad;4.91;1.48;53: Wayne / Carpenter - Broad or G / Hunting Park;to Broad / Hunting Park
 53-g;6.27;1.21;53: Wayne / Carpenter - Broad or G / Hunting Park;to G / Hunting Park
 54;4.94;1.18;54: Richmond / Cambria - 33rd / Dauphin;Main
 55;24.94;1.22;55: Doylestown - Olney TC;Main
-56-23rd;7.46;1.06;56: 23rd-Venango to Torresdale-Cottman;to 23rd-Venango
-56-bakers;8.09;1.06;56: 23rd-Venango to Torresdale-Cottman;to Bakers Center
+56-23rd;7.46;1.06;56: 23rd-Venango - Torresdale-Cottman;to 23rd-Venango
+56-bakers;8.09;1.06;56: 23rd-Venango - Torresdale-Cottman;to Bakers Center
 57;13.24;1.48;57: Whitman Plaza - Fern Rock TC;Main
 57-rising-sun;9.44;1.1;57: Whitman Plaza - Fern Rock TC;to Rising Sun / Olney
 57-T;15.1;1.69;57: Whitman Plaza - Fern Rock TC;T: to Marine Terminal
+58-county-line;8.73;1.02;58: Neshaminy Mall & Somerton to FTC;to County Line Rd
+58-neshaminy;14.53;1.4;58: Neshaminy Mall & Somerton to FTC;to Neshaminy Mall
+58-tomlinson;7.83;1.14;58: Neshaminy Mall & Somerton to FTC;to Tomlinson Rd
 59;3.98;1.04;59: Castor / Bustleton - Arrott TC;Main
 60;5.51;1.11;60: 35th / Allegheny - Richmond / Westmoreland;Main
-61;8.02;1.21;61: 9th-Market to Manayunk;Main
-62;11.32;1.26;62: 9th-Market to Andorra;Main
-64;8.36;1.51;64: 50th-Parkside to Pier 70;Main
-65;8.62;1.28;65: Germantown-Chelten to 69th St TC;Main
+61;8.02;1.21;61: 9th-Market - Manayunk;Main
+62;11.32;1.26;62: 9th-Market - Andorra;Main
+63;11.1;1.47;63: Overbrook/Lankenau Medical Ctr - Columbus Commons/Food Dist Ctr;Main
+63-columbus;12.15;1.61;63: Overbrook/Lankenau Medical Ctr - Columbus Commons;to Columbus Commons
+63-lankenau;11.79;1.48;63: Overbrook/Lankenau Medical Ctr - Columbus Commons;to Lankenau Medical Ctr
+64;8.36;1.51;64: 50th-Parkside - Pier 70;Main
+65;8.62;1.28;65: Germantown-Chelten - 69th St TC;Main
 66-cottman;2.19;1.02;66: Frankford / Knights - Frankford TC;to Cottman Av
 66-gregg;4.44;1.02;66: Frankford / Knights - Frankford TC;to Gregg St
 66-knights;5.95;1.02;66: Frankford / Knights - Frankford TC;to Knights Rd
@@ -87,69 +98,75 @@ NHSL;12.96;1.14;Norristown High-Speed Line;Main
 68;20.75;3.73;68: Broad / Oregon - UPS or 69th St TC;Main
 70-gregg;11.19;1.59;70: Gregg or Torresdale - Fern Rock TC;to Frankford / Gregg
 70-torresdale;7.36;1.36;70: Gregg or Torresdale - Fern Rock TC;to Torresdale / Cottman
+71;8.57;1.89;71: Broad-Erie - Cheltenham-Ogontz;Main
 73;6.17;1.95;73: Richmond / Westmoreland - Frankford TC;Main
 75;4.71;1.16;75: Wayne Junction - Arrott TC;Main
-77;12.93;1.53;77: Roosevelt-St Vincent to Chestnut Hill;Main
+77;12.93;1.53;77: Roosevelt-St Vincent - Chestnut Hill;Main
 78;15.81;1.2;78: Cornwells Heights - Center City;Main
 79;2.97;1.06;79: Columbus Commons - 29th / Snyder;Main
 80;12.7;1.52;80: Horsham - Olney TC;Main
+81;7.53;1.66;81: Broad-Erie - Cheltenham-Ogontz;Main
+82-henry;7.22;1.23;82: Henry-Midvale or Wissahickon TC - Frankford TC;to Henry-Midvale
+82-wissahickon;7.73;1.12;82: Henry-Midvale or Wissahickon TC - Frankford TC;to Wissahickon TC
 84;18.25;2.16;84: Bustleton / County Line - Frankford TC;Main
 88-gregg;6.59;1.51;88: Bethayres or Frankford / Gregg - Frankford TC;to Frankford / Gregg
 88-bethayres;11.55;1.97;88: Bethayres or Frankford / Gregg - Frankford TC;to Bethayres
 89;9.98;2.95;89: Front / Dauphin - Arrott TC;Main
 90;11.88;3.68;90: Plymouth Meeting Mall - Norristown TC;Main
-92;19.0;1.31;92: West Chester to King of Prussia;Main
+92;19.0;1.31;92: West Chester - King of Prussia;Main
 93;22.46;1.2;93: Pottstown - Norristown TC;Main
-94;16.33;1.48;94: Montgomery Mall to Chestnut Hill;Main
-95;22.71;1.8;95: Gulph Mills to Willow Grove Mall;Main
-96;14.82;1.58;96: Lansdale to Norristown TC;Main
-97;12.38;1.62;97: Chestnut Hill to Norristown TC;Main
+94;16.33;1.48;94: Montgomery Mall - Chestnut Hill;Main
+95;22.71;1.8;95: Gulph Mills - Willow Grove Mall;Main
+96;14.82;1.58;96: Lansdale - Norristown TC;Main
+97;12.38;1.62;97: Chestnut Hill - Norristown TC;Main
 98;7.52;1.79;98: Blue Bell - Norristown TC;Main
-99-kop;4.47;1.47;99: Phoenixville to Norristown TC;to King of Prussia
-99-phoenixville;19.99;2.19;99: Phoenixville to Norristown TC;to Phoenixville
+99-kop;4.47;1.47;99: Phoenixville - Norristown TC;to King of Prussia
+99-phoenixville;19.99;2.19;99: Phoenixville - Norristown TC;to Phoenixville
 101;8.5;1.1;Route 101;Main
 102;5.17;1.3;Route 102;Main
-103;7.62;2.18;103: Ardmore to 69th St TC;Main
-104;20.22;1.12;104: West Chester U to 69th St TC;Main
-104-newtown;8.67;1.05;104: West Chester U to 69th St TC;to Newtown Center
-105;8.01;1.39;105: Rosemont to 69th St TC;Main
-106;16.15;1.16;106: Paoli to 69th St TC;Main
+103;7.62;2.18;103: Ardmore - 69th St TC;Main
+104;20.22;1.12;104: West Chester U - 69th St TC;Main
+104-newtown;8.67;1.05;104: West Chester U - 69th St TC;to Newtown Center
+105;8.01;1.39;105: Rosemont - 69th St TC;Main
+106;16.15;1.16;106: Paoli - 69th St TC;Main
 107;16.49;3.25;107: Lawrence Park - 69th St TC;Main
 108;9.33;1.6;108: UPS or Airport - 69th St TC;Main
 108-airport;11.44;1.85;108: UPS or Airport - 69th St TC;to Airport Business Center
 108-ups;12.44;1.74;108: UPS or Airport - 69th St TC;to UPS
-109;11.16;1.18;109: Chester TC to 69th St TC;Main
-110-penn;14.22;1.39;110: Penn State U to 69th St TC;to Penn State U
-110-springfield;8.26;1.41;110: Penn State U to 69th St TC;to Springfield Mall
-111-chadds;20.16;1.24;111: Chadds Ford to 69th St TC;to Chadds Ford
-111-penn;11.66;1.14;111: Chadds Ford to 69th St TC;to Penn State U
-112;7.97;1.12;112: DCCC to 69th St TC;Main
-114;20.67;1.97;114: Wawa Railroad Station to Darby TC;Main
+109;11.16;1.18;109: Chester TC - 69th St TC;Main
+110-penn;14.22;1.39;110: Penn State U - 69th St TC;to Penn State U
+110-springfield;8.26;1.41;110: Penn State U - 69th St TC;to Springfield Mall
+111-chadds;20.16;1.24;111: Chadds Ford - 69th St TC;to Chadds Ford
+111-penn;11.66;1.14;111: Chadds Ford - 69th St TC;to Penn State U
+112;7.97;1.12;112: DCCC - 69th St TC;Main
+113-chester;12.18;1.28;113: Claymont TC to 69th St TC;to Chester
+113-claymont;18.33;1.23;113: Claymont TC to 69th St TC;to Claymont
+113-darby;3.88;1.3;113: Claymont TC to 69th St TC;to Darby
+114;20.67;1.97;114: Wawa Railroad Station - Darby TC;Main
 115;20.99;2.08;115: Delaware County Community College - Airport;to DCCC
 115-darby;9.65;3.13;115: Delaware County Community College - Airport;to Darby TC
 117;15.86;2.64;117: Penn State - I-95 Industrial Park;Main
-118;11.69;1.2;118: Newtown Square to Chester TC;Main
-119;17.46;1.62;119: Cheyney U to Chester TC;Main
-120;16.45;1.14;120: Cheyney U to 69th St TC;Main
-123;12.74;1.13;123: King of Prussia to 69th St TC;Main
-124;22.39;1.24;124: Chesterbrook to 13th & Market;Main
-125;21.04;1.25;125: Valley Forge to 13th-Market;Main
+118;11.69;1.2;118: Newtown Square - Chester TC;Main
+119;17.46;1.62;119: Cheyney U - Chester TC;Main
+120;16.45;1.14;120: Cheyney U - 69th St TC;Main
+123;12.74;1.13;123: King of Prussia - 69th St TC;Main
+124;22.39;1.24;124: Chesterbrook - 13th & Market;Main
+125;21.04;1.25;125: Valley Forge - 13th-Market;Main
 126-abbott;7.22;1.44;126: Lawrence Park - 69th St TC;via Abbott Dr
 126-central;7.59;1.52;126: Lawrence Park - 69th St TC;via South Central Blvd
-127;16.33;2.3;127: Trenton TC to Oxford Valley Mall;Main
+127;16.33;2.3;127: Trenton TC - Oxford Valley Mall;Main
 128;22.63;4.62;128: Neshaminy Mall - Oxford Valley Mall;Main
 129;24.48;2.52;129: Frankford / Knights - Oxford Valley Mall;Main
-130;20.46;1.69;130: BCCC to Frankford & Knights;Main
-131;6.74;1.63;131: Audubon to Norristown TC;Main
+130;20.46;1.69;130: BCCC - Frankford & Knights;Main
+131;6.74;1.63;131: Audubon - Norristown TC;Main
 132;14.48;1.79;132: Telford - Montgomery Mall;Main
 133;4.97;1.71;133: Frankford / Knights - Bensalem;Main
 135;18.25;1.53;135: West Chester - Coatesville;Main
-139;18.07;1.75;139: Limerick to King of Prussia;Main
+139;18.07;1.75;139: Limerick - King of Prussia;Main
 150;18.31;1.05;150: Park Casino - Plymouth Meeting Mall;Main
 201;2.88;1.42;201: Fort Washington Office Ctr - Fort Washington Station;Main
-204;13.93;1.33;204: Eagleview to Paoli Train Station;Main
-206;6.53;1.77;206: Commons at Great Valley to Paoli Station;Main
-L-chestnut-hill;5.21;1.2;L: Erdenheim / Plymouth Meeting Mall - Olney TC;to Chestnut Hill Loop
-L-E;7.46;1.72;L: Erdenheim / Plymouth Meeting Mall - Olney TC;E: to Erdenheim
-L-plymouth;10.64;1.16;L: Erdenheim / Plymouth Meeting Mall - Olney TC;to Plymouth Meeting Mall
-L-R;3.58;1.23;L: Erdenheim / Plymouth Meeting Mall - Olney TC;R: to Mt Airy / Rodney
+204;13.93;1.33;204: Eagleview - Paoli Train Station;Main
+206;6.53;1.77;206: Commons at Great Valley - Paoli Station;Main
+310;3.41;1.48;310: Horsham Breeze Red;Main
+311;3.22;1.38;311: Horsham Breeze Blue;Main
+K;9.65;1.65;K: Ridge-Midvale - Arrott TC;Main
