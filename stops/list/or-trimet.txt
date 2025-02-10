@@ -391,7 +391,7 @@
 10205;10500 Block SE Mather;45.419728;-122.555165
 9002;10500 Block SE Mather;45.419838;-122.55519
 9703;10500 Block SW Allen;45.476709;-122.784726
-11026;10500 Block SE Cherry Blossom ;45.515418;-122.555472
+11026;10500 Block SE Cherry Blossom;45.515418;-122.555472
 8915;10500 Block SE Cherry Blossom;45.515661;-122.55559
 4725;10600 Block NE Prescott;45.555329;-122.552746
 2899;10700 Block Hwy 212;45.407973;-122.551883
@@ -479,7 +479,7 @@
 4136;14100 Block SE Oatfield;45.420564;-122.629588
 4823;14100 Block SE River Rd;45.42069;-122.64557
 9465;14100 Block SW Millikan;45.493404;-122.822349
-1166;14100 Block NW Cornell ;45.530311;-122.823048
+1166;14100 Block NW Cornell;45.530311;-122.823048
 1167;14100 Block NW Cornell;45.530563;-122.823054
 13881;14200 Block SE Division;45.504032;-122.516459
 10789;14300 Block NE Sandy;45.552788;-122.513004
@@ -488,7 +488,7 @@
 11964;14400 Block SE Johnson;45.41834;-122.580127
 9434;14500 Block N Columbia (Lombard);45.630388;-122.77174
 9460;14500 Block N Columbia (Lombard);45.630915;-122.771994
-10146;14600 Block SE 147th ;45.423586;-122.512438
+10146;14600 Block SE 147th;45.423586;-122.512438
 1189;14600 Block NW Cornell;45.531499;-122.828952
 1190;14600 Block NW Cornell;45.531795;-122.829352
 4993;14600 Block NE Sacramento;45.539904;-122.512559
@@ -630,7 +630,7 @@ station-89;Albina/Mississippi MAX Station;45.539555;-122.675497
 147;B Ave & Second St;45.420841;-122.665113
 13346;Barbur Transit Center;45.454403;-122.717907
 212;Barbur Transit Center;45.454552;-122.71739
-8213;Barbur Transit Center ;45.454468;-122.717673
+8213;Barbur Transit Center;45.454468;-122.717673
 297;Baseline & NW 338th;45.51981;-123.024527
 296;Baseline & NW 338th;45.520104;-123.024875
 277;Baseline & S 20th;45.520061;-123.047219
@@ -780,7 +780,7 @@ station-126;E 181st Ave MAX Station;45.521998;-122.477108
 13155;E Burnside & 63rd;45.52286;-122.59812
 14151;E Burnside & 187th/188th;45.520676;-122.470697
 730;E Burnside & NE 18th;45.52297;-122.647367
-8512;E Burnside & NE 20th ;45.522967;-122.6458
+8512;E Burnside & NE 20th;45.522967;-122.6458
 760;E Burnside & NE 24th;45.52295;-122.641749
 764;E Burnside & NE 28th;45.522957;-122.638026
 768;E Burnside & NE 32nd;45.522949;-122.631984
@@ -872,7 +872,7 @@ station-126;E 181st Ave MAX Station;45.521998;-122.477108
 3716;E Main & SE 24th;45.521081;-122.957843
 3718;E Main & SE 26th;45.520923;-122.955499
 3719;E Main & SE 28th;45.520702;-122.954745
-13548;E Main & SE 33rd ;45.519857;-122.949101
+13548;E Main & SE 33rd;45.519857;-122.949101
 302;E Main & SE 37th;45.51987;-122.944727
 10049;E Main & SE 58th Ct;45.519785;-122.921965
 10045;E Main & SE 58th Ct;45.520017;-122.921603
@@ -898,7 +898,7 @@ station-100;Elmonica/SW 170th Ave MAX Station;45.509955;-122.851463
 8384;Galleria/SW 10th Ave MAX Station;45.51991;-122.681919
 14250;Gateway North MAX Station;45.532194;-122.563742
 8194;Gateway TC (drop off only stop);45.530568;-122.563773
-10864;Gateway Transit Center ;45.5299;-122.563177
+10864;Gateway Transit Center;45.5299;-122.563177
 8370;Gateway/NE 99th Ave TC MAX Station;45.530839;-122.563627
 8347;Gateway/NE 99th Ave TC MAX Station;45.530269;-122.563578
 station-135;Gateway/NE 99th Ave TC MAX Station;45.530554;-122.563602
@@ -917,8 +917,8 @@ station-130;Gresham Central TC MAX Station;45.502589;-122.426996
 10857;Gresham Central Transit Center;45.502718;-122.427108
 8199;Gresham Central Transit Center;45.502862;-122.426918
 14233;Gresham Central Transit Center;45.503543;-122.426109
-10858;Gresham Central Transit Center ;45.50287;-122.42659
-10859;Gresham Central Transit Center ;45.503008;-122.42684
+10858;Gresham Central Transit Center;45.50287;-122.42659
+10859;Gresham Central Transit Center;45.503008;-122.42684
 8356;Gresham City Hall MAX Station;45.505687;-122.435826
 station-129;Gresham City Hall MAX Station;45.505834;-122.436056
 8361;Gresham City Hall MAX Station;45.505981;-122.436285
@@ -946,10 +946,10 @@ station-108;Hillsboro Central/SE 3rd TC MAX Station;45.521371;-122.985261
 station-107;Hillsboro Health District MAX Station;45.521301;-122.978373
 9844;Hillsboro Health District MAX Station;45.521315;-122.978728
 2672;Hillsboro Transit Center;45.521461;-122.984683
-9954;Hillsboro Transit Center ;45.521496;-122.984845
-8181;Hillsboro Transit Center ;45.521497;-122.985064
-9956;Hillsboro Transit Center ;45.521501;-122.985742
-9955;Hillsboro Transit Center ;45.521505;-122.98544
+9954;Hillsboro Transit Center;45.521496;-122.984845
+8181;Hillsboro Transit Center;45.521497;-122.985064
+9956;Hillsboro Transit Center;45.521501;-122.985742
+9955;Hillsboro Transit Center;45.521505;-122.98544
 2674;Holcomb & Apperson;45.36445;-122.583288
 2675;Holcomb & Apperson;45.364675;-122.583151
 8310;Holcomb & Front Ave;45.366128;-122.579727
@@ -976,8 +976,8 @@ station-122;Hollywood/NE 42nd Ave MAX Station;45.532864;-122.621038
 2908;Hwy 212/224 & SE 142nd;45.409981;-122.518166
 2910;Hwy 212/224 & SE 152nd;45.409575;-122.508663
 2911;Hwy 212/224 & SE 152nd;45.409831;-122.507575
-13632;Hwy 224  & SE Paul Bunyan Ln;45.372943;-122.377125
 13631;Hwy 224 & Paul Bunyan Ln;45.372874;-122.377309
+13632;Hwy 224 & SE Paul Bunyan Ln;45.372943;-122.377125
 8956;I-5 Off Ramp & SW Lower Boones Ferry;45.397158;-122.747711
 14593;Intel Ronler Acres & Ra1 Main Lobby;45.546363;-122.911792
 14595;Intel Ronler Acres RA3 Main Lobby/The Moore Ctr;45.541277;-122.915344
@@ -1021,8 +1021,8 @@ station-84;Kenton/N Denver Ave MAX Station;45.58386;-122.685925
 3300;Kruse Way & Westlake Dr;45.419069;-122.732388
 3363;Lake Oswego Transit Center;45.42004;-122.668009
 9545;Lake Oswego Transit Center;45.421057;-122.668105
-8207;Lake Oswego Transit Center ;45.420174;-122.667983
-8208;Lake Oswego Transit Center ;45.420627;-122.66788
+8207;Lake Oswego Transit Center;45.420174;-122.667983
+8208;Lake Oswego Transit Center;45.420627;-122.66788
 station-1518;Lents Town Center/SE Foster Rd MAX Station;45.480437;-122.566808
 13135;Lents/SE Foster Rd MAX Station;45.480686;-122.566745
 13128;Lents/SE Foster Rd MAX Station;45.480188;-122.566871
@@ -1056,7 +1056,7 @@ station-121;Lloyd Center/NE 11th Ave MAX Station;45.530107;-122.653986
 3693;Main & 15th;45.362872;-122.600928
 14511;Main & 18th;45.365054;-122.598593
 14512;Main & 18th;45.365068;-122.598361
-14510;Main & Agnes ;45.369266;-122.596244
+14510;Main & Agnes;45.369266;-122.596244
 14513;Main & Clackamas River Trailhead;45.369735;-122.596908
 12844;Marquam Hill Upper Tram Terminal;45.499497;-122.683919
 3831;McLoughlin & Clackamette Dr;45.368444;-122.601337
@@ -3128,11 +3128,11 @@ station-138;Oak/SW 1st Ave MAX Station;45.520074;-122.672346
 8378;Old Town/Chinatown MAX Station;45.524695;-122.671467
 station-110;Old Town/Chinatown MAX Station;45.524937;-122.67141
 8759;Oregon City Transit Center;45.360143;-122.604394
-8762;Oregon City Transit Center ;45.35979;-122.604629
-8761;Oregon City Transit Center ;45.360003;-122.604519
-10447;Oregon City Transit Center ;45.360143;-122.604285
-8760;Oregon City Transit Center ;45.360169;-122.604689
-8758;Oregon City Transit Center ;45.360269;-122.604529
+8762;Oregon City Transit Center;45.35979;-122.604629
+8761;Oregon City Transit Center;45.360003;-122.604519
+10447;Oregon City Transit Center;45.360143;-122.604285
+8760;Oregon City Transit Center;45.360169;-122.604689
+8758;Oregon City Transit Center;45.360269;-122.604529
 9835;Orenco MAX Station;45.530257;-122.915467
 station-103;Orenco MAX Station;45.530278;-122.915833
 9836;Orenco MAX Station;45.530298;-122.916198
@@ -3181,7 +3181,7 @@ station-87;Overlook Park MAX Station;45.548709;-122.681011
 6311;Pacific Hwy (Hwy 43) & Cherry Ln;45.404016;-122.659829
 10853;Parkrose/ Sumner Transit Center;45.558368;-122.564954
 10856;Parkrose/ Sumner Transit Center;45.558736;-122.564507
-10850;Parkrose/ Sumner Transit Center ;45.558282;-122.565304
+10850;Parkrose/ Sumner Transit Center;45.558282;-122.565304
 10572;Parkrose/Sumner TC MAX Station;45.559201;-122.56538
 10573;Parkrose/Sumner TC MAX Station;45.558829;-122.565861
 station-144;Parkrose/Sumner TC MAX Station;45.559015;-122.56562
@@ -3520,7 +3520,7 @@ station-2555;SE 17th Ave & Rhine St MAX Station;45.497803;-122.648153
 7995;SE 82nd & Lindy;45.458778;-122.578956
 8004;SE 82nd & Main;45.513668;-122.578883
 8005;SE 82nd & McBride;45.435764;-122.578916
-8006;SE 82nd & McBride ;45.435937;-122.579251
+8006;SE 82nd & McBride;45.435937;-122.579251
 8008;SE 82nd & Mill;45.509802;-122.578803
 8007;SE 82nd & Mill;45.509963;-122.578536
 8009;SE 82nd & Mitchell;45.484917;-122.579076
@@ -3764,7 +3764,7 @@ station-2555;SE 17th Ave & Rhine St MAX Station;45.497803;-122.648153
 station-2557;SE Bybee Blvd MAX Station;45.474888;-122.640029
 13723;SE Bybee Blvd MAX Station;45.475104;-122.640055
 989;SE Causey & 82nd;45.441362;-122.5786
-7469;SE Cesar Chavez Blvd  & Lincoln;45.508158;-122.622817
+7469;SE Cesar Chavez Blvd & Lincoln;45.508158;-122.622817
 7434;SE Cesar Chavez Blvd & Alder;45.51795;-122.623089
 7435;SE Cesar Chavez Blvd & Ash;45.521538;-122.622944
 7436;SE Cesar Chavez Blvd & Ash;45.521804;-122.623153
@@ -4446,7 +4446,7 @@ station-1522;SE Main St MAX Station;45.514256;-122.56444
 3797;SE Ochoco & McLoughlin;45.458805;-122.639338
 10219;SE Oregon Trail Dr & 152nd;45.422957;-122.507258
 10148;SE Oregon Trail Dr & Hines;45.422645;-122.512318
-4231;SE Orient Dr & 14th ;45.485929;-122.397177
+4231;SE Orient Dr & 14th;45.485929;-122.397177
 14413;SE Orient Dr & Anderson;45.478172;-122.388369
 13558;SE Orient Dr & Chase;45.478815;-122.388771
 13650;SE Orient Dr & Elsa St;45.471538;-122.375957
@@ -4643,7 +4643,7 @@ station-1520;SE Powell Blvd MAX Station;45.495747;-122.566184
 5432;SE Stark & 133rd;45.518991;-122.526302
 5433;SE Stark & 133rd;45.519182;-122.526452
 5436;SE Stark & 139th;45.519;-122.520597
-5395;SE Stark & 139th ;45.519195;-122.521405
+5395;SE Stark & 139th;45.519195;-122.521405
 12949;SE Stark & 142nd;45.519217;-122.517414
 5439;SE Stark & 143rd;45.519018;-122.51622
 5442;SE Stark & 146th;45.519221;-122.5136
@@ -6291,8 +6291,8 @@ station-143;Sunset TC MAX Station;45.510241;-122.781028
 9624;Sunset TC MAX Station;45.510383;-122.781299
 9625;Sunset Transit Center;45.510149;-122.781938
 11939;Sunset Transit Center;45.510221;-122.782164
-9971;Sunset Transit Center ;45.509903;-122.781084
-9970;Sunset Transit Center ;45.510073;-122.781743
+9971;Sunset Transit Center;45.509903;-122.781084
+9970;Sunset Transit Center;45.510073;-122.781743
 13068;Tigard TC WES Station;45.429936;-122.769527
 station-2563;Tigard TC WES Station;45.430084;-122.769663
 13073;Tigard TC WES Station;45.430229;-122.769834
@@ -6300,10 +6300,10 @@ station-2563;Tigard TC WES Station;45.430084;-122.769663
 8209;Tigard Transit Center;45.430182;-122.769513
 10180;Tigard Transit Center;45.430253;-122.76894
 8212;Tigard Transit Center;45.430458;-122.769278
-8210;Tigard Transit Center ;45.430098;-122.769089
-8211;Tigard Transit Center ;45.43029;-122.76936
+8210;Tigard Transit Center;45.430098;-122.769089
+8211;Tigard Transit Center;45.43029;-122.76936
 7880;Tualatin Park & Ride;45.394763;-122.748759
-7879;Tualatin Park & Ride ;45.394692;-122.748821
+7879;Tualatin Park & Ride;45.394692;-122.748821
 13069;Tualatin WES Station;45.383621;-122.764504
 7601;Union Station/NW 5th & Glisan MAX Stn;45.526732;-122.675604
 7763;Union Station/NW 6th & Hoyt MAX Stn;45.527222;-122.676517
@@ -6350,8 +6350,8 @@ station-2563;Tigard TC WES Station;45.430084;-122.769663
 723;W Burnside & SW 13th;45.522857;-122.684296
 725;W Burnside & SW 15th;45.522812;-122.686675
 9860;W Burnside & SW 18th;45.522923;-122.689692
-8511;W Burnside & SW 20th ;45.523058;-122.692569
-749;W Burnside & SW 21st ;45.523145;-122.694489
+8511;W Burnside & SW 20th;45.523058;-122.692569
+749;W Burnside & SW 21st;45.523145;-122.694489
 781;W Burnside & SW 48th Dr;45.519703;-122.726997
 8799;W Burnside & SW Barnes;45.515771;-122.746193
 685;W Burnside & SW Fischer Ln;45.519156;-122.722144
@@ -6393,7 +6393,7 @@ station-2563;Tigard TC WES Station;45.430084;-122.769663
 station-113;Washington Park MAX Station;45.510657;-122.716792
 10121;Washington Park MAX Station;45.510661;-122.717244
 9652;Washington Square Transit Center;45.452445;-122.778785
-9650;Washington Square Transit Center ;45.4527;-122.77881
+9650;Washington Square Transit Center;45.4527;-122.77881
 9841;Washington/SE 12th Ave MAX Station;45.521102;-122.969152
 9842;Washington/SE 12th Ave MAX Station;45.521231;-122.969867
 station-106;Washington/SE 12th Ave MAX Station;45.521166;-122.96951
@@ -6448,9 +6448,9 @@ station-106;Washington/SE 12th Ave MAX Station;45.521166;-122.96951
 11763;Willamette Falls Dr & West A;45.360551;-122.612662
 9869;Willow Creek Transit Center;45.517258;-122.869868
 9621;Willow Creek Transit Center;45.5174;-122.8703
-9610;Willow Creek Transit Center ;45.517309;-122.870018
-9871;Willow Creek Transit Center ;45.517356;-122.869793
-9870;Willow Creek Transit Center ;45.51743;-122.870457
+9610;Willow Creek Transit Center;45.517309;-122.870018
+9871;Willow Creek Transit Center;45.517356;-122.869793
+9870;Willow Creek Transit Center;45.51743;-122.870457
 9831;Willow Creek/SW 185th Ave TC MAX Station;45.517117;-122.869874
 9832;Willow Creek/SW 185th Ave TC MAX Station;45.517375;-122.870518
 station-101;Willow Creek/SW 185th Ave TC MAX Station;45.517246;-122.870196
