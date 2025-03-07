@@ -480,7 +480,7 @@ function cumulative(pos, cumCount)
     dist = Math.round(dist * 100.0) / 100.0;
 
     // display
-    document.getElementById("stops").innerHTML += ("<br>" + stopNames[pos] + " (" + stopIds[pos] + ") (" + dist + " mi., " + edi + ")");
+    document.getElementById("stops").innerHTML += ("<br>" + cumCount + " | " + stopNames[pos] + " (" + stopIds[pos] + ") (" + dist + " mi., " + edi + ")");
     if (isSegment)
     {
         document.getElementById("length").innerHTML = ("<b>Length: </b>" + dist + " miles / ");
