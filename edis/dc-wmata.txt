@@ -1,190 +1,130 @@
-1A;11.41;1.32;1A: Wilson Blvd - Vienna;Main
-1B;8.9;1.39;1B: Wilson Blvd - Vienna;Main
-1C;11.28;1.57;1C: Fair Oaks - Fairfax Blvd;Main
-2A;7.2;1.13;2A: Washingtom Blvd - Dunn Loring;Main
-2B;10.05;1.41;2B: Fair Oaks - Jermantown;Main
-3F;7.37;1.07;3F: Langston Blvd - McPherson Sq;Main
-3Y;7.96;1.17;3Y: Langston Blvd - McPherson Sq;Main
-4B;6.0;1.28;4B: Pershing Dr - Arlington Blvd;Main
-7A;8.73;1.39;7A: Landmark - North Fairlington;Main
-7M;4.48;1.04;7M: Mark Center - Pentagon;Main
-10A;8.62;1.64;10A: Alexandria - Pentagon;Main
-10B;9.44;1.35;10B: Hunting Point - Ballston;Main
-11Y;19.34;1.45;11Y: Mt Vernon Express;Main
-16A;10.07;1.07;16A: Columbia Pike;Main
-16C;5.26;1.08;16C: Columbia Pike;Main
-16E;8.79;1.28;16E: Columbia Pike;Main
-16M;4.84;1.26;16M: Columbia Pike - National Landing;Main
-16Y;6.73;1.31;16Y: Columbia Pike - Farragut Sq;Main
-17B;20.54;1.46;17B: Kings Park - North Smithfield;Main
-17G;17.86;1.29;17G: Kings Park Express;Main
-17K;20.21;1.62;17K: Kings Park Express;Main
-17M;14.42;1.88;17M: Kings Park - North Smithfield;Main
-18G;16.48;1.18;18G: Orange Hunt;Main
-18J;14.81;1.14;18J: Orange Hunt;Main
-18P;18.6;1.2;18P: Burke Centre;Main
-21C;7.93;1.33;21C: Landmark - Holmes Run Parkway;Main
-22A;9.68;3.04;22A: Barcroft - South Fairlington;Main
-22F;7.48;1.92;22F: Barcroft - South Fairlington;Main
-23A;15.89;1.57;23A: McLean - Crystal City;Main
-23B;7.29;2.02;23B: McLean - Crystal City;Main
-23T;12.16;1.34;23T: McLean - Crystal City;Main
-25B;5.43;1.56;25B: Carlin Springs Rd;Main
-26A;11.39;2.04;26A: Annandale - East Falls Church;Main
-28A;15.23;1.3;28A: Leesburg Pike;Main
-28F;4.84;1.24;28F: Skyline City;Main
-29G;11.26;1.27;29G: Annandale;Main
-29K;14.96;1.1;29K: Alexandria - Fairfax;Main
-29N;14.99;1.22;29N: Alexandria - Fairfax;Main
-31;5.31;1.07;31: Wisconsin Avenue;Main
-32;8.16;1.5;32: Pennsylvania Ave;Main
-33;7.26;1.18;33: Wisconsin Ave;Main
-36;8.0;1.37;36: Pennsylvania Ave;Main
-38B;5.29;1.27;38B: Ballston - Farragut Square;Main
-42;3.57;1.38;42: Mount Pleasant;Main
-43;3.57;1.38;43: Mount Pleasant;Main
-52;5.96;1.2;52: 14th Street;Main
-54;6.44;1.18;54: 14th Street;Main
-59;6.52;1.14;59: 14th Street Limited;Main
-60;2.44;1.54;60: Fort Totten - Petworth;Main
-62;2.86;1.07;62: Takoma - Petworth;Main
-63;6.14;1.07;63: Takoma - Petworth;Main
-64;5.25;1.22;64: Fort Totten - Federal Triangle;Main
-70;7.29;1.05;70: Georgia Ave - 7th St;Main
-74;3.05;1.17;74: Convention Ctr - SW Waterfront;Main
-79;7.06;1.02;79: Georgia Avenue MetroExtra;Main
-80;6.28;1.61;80: North Capitol Street;Main
-83;11.93;1.52;83: College Park;Main
-86;14.97;1.6;86: College Park;Main
-89M;13.72;2.4;89M: Laurel;Main
-8W;8.05;1.85;8W: Foxchase - Seminary Valley;Main
-90;6.53;1.28;90: U Street - Garfield;Main
-92;7.55;1.39;92: U Street - Garfield;Main
-96;11.9;1.22;96: East Capitol Street - Cardozo;Main
-A2;4.66;2.55;A2: Anacostia - Washington Highlands;Main
-A4;5.6;1.67;A4: Anacostia - Fort Drum;Main
-A6;3.76;1.45;A6: Anacostia - Livingston;Main
-A7;3.47;1.25;A7: Anacostia - Livingston;Main
-A8;3.17;1.23;A8: Anacostia - Livingston;Main
-A12;13.82;3.7;A12: Martin Luther King Jr Hwy;Main
-A31;3.08;1.12;A31: Minnesota Ave - Anacostia;Main
-A32;2.71;1.33;A32: Minnesota Ave - Anacostia;Main
-A33;1.89;2.14;A33: Minnesota Ave - Anacostia;Main
-B2;7.62;1.38;B2: Blandensburg Rd - Anacostia;Main
-B21;12.81;1.67;B21: Bowie State University;Main
-B22;15.83;2.07;B22: Bowie State University;Main
-B24;13.56;1.85;B24: Bowie - Belair;Main
-B27;8.65;1.15;B27: Bowie - New Carrollton;Main
-C2;11.52;1.48;C2: Greenbelt - Twinbrook;Main
-C4;13.31;1.2;C4: Greenbelt - Twinbrook;Main
-C8;16.71;1.52;C8: College Park - North Bethesda;Main
-C12;6.46;2.22;C12: Hillcrest Heights;Main
-C13;4.77;1.07;C13: Clinton;Main
-C14;4.75;1.63;C14: Hillcrest Heights;Main
-C21;15.23;1.68;C21: Central Ave;Main
-C22;14.29;1.61;C22: Central Ave;Main
-C25-in;0.76;1.41;C25: Anacostia - Stanton Rd;Inbound
-C25-out;0.64;1.17;C25: Anacostia - Stanton Rd;Outbound
-C26;16.09;2.35;C26: Central Ave;Main
-C29;27.23;2.35;C29: Central Ave;Main
-D2;2.73;1.29;D2: Glover Park - Dupont Circle;Main
-D4;3.22;1.17;D4: Ivy City - Franklin Square;Main
-D6;10.17;1.32;D6: Sibley Hosp Stadium - Armory;Main
-D8;5.78;2.53;D8: Hospital Center;Main
-D12;11.61;4.9;D12: Southern Ave - Suitland;Main
-D14;18.61;7.8;D14: Oxon Hill - Suitland;Main
-D31;6.69;1.96;D31: 16th St - Tenleytown;Main
-D33;4.08;1.87;D33: 16th St - Tenleytown;Main
-D51;9.79;1.53;D51: Congress Heights - Georgetown;Main
-E2;3.55;1.29;E2: Ivy City - Fort Totten;Main
-E4;5.21;1.15;E4: Military Road - Crosstown;Main
-E4-riggs;6.54;1.29;E4: Military Road - Crosstown;to to Riggs Park
-F1;11.13;1.63;F1: Chillum Road;Main
-F2;11.58;1.7;F2: Chillum Rd;Main
-F4;10.71;1.19;F4: New Carrollton - Silver Spring;Main
-F6;13.41;1.94;F6: New Carrollton - Fort Totten;Main
-F8;11.67;1.82;F8: Langley Park - Cheverly;Main
-F12;6.72;1.86;F12: Ardwick Industrial Park Shuttle;Main
-F13;12.17;2.36;F13: Cheverly - Washington Business Park;Main
-F14;14.45;1.79;F14: Sheriff Rd - Capitol Heights;Main
-G2;4.1;1.31;G2: P Street - Ledroit Park;Main
-G8;6.58;1.46;G8: Rhode Island Ave;Main
-G12;10.36;2.15;G12: Greenbelt - New Carrollton;Main
-G14;12.3;2.56;G14: Greenbelt Rd - Good Luck Rd;Main
-H2;6.1;1.31;H2: Crosstown;Main
-H4;6.27;1.35;H4: Crosstown;Main
-H6;5.01;2.3;H6: Brookland - Fort Lincoln;Main
-H8;5.24;2.15;H8: Park Rd - Brookland;Main
-H12;5.6;1.96;H12: Marlow Heights - Temple Hills;Main
-J1;9.05;1.41;J1: Bethesda - Silver Spring;Main
-J2;8.46;1.32;J2: Bethesda - Silver Spring;Main
-J12;6.44;1.58;J12: Marlboro Pike;Main
-K2;2.33;1.27;K2: Takoma - Fort Totten;Main
-K6;7.52;1.21;K6: New Hampshire Ave - Maryland;Main
-K9;6.17;1.07;K9: New Hampshire Ave - Md Limited Ln;Main
-K12;8.58;5.28;K12: Forestville;Main
-L2;5.33;1.08;L2: Connecticut Ave;Main
-L8;9.92;1.09;L8: Connecticut Ave - Maryland;Main
-L12;8.78;2.04;L12: Landover Rd;Main
-M4;7.24;1.87;M4: Nebraska Ave;Main
-M6;2.81;1.15;M6: Fairfax Village;Main
-MW1;3.93;1.16;MW1: Metroway - Potomac Yard;Main
-N2;5.88;1.21;N2: Massachusetts Ave;Main
-N4;6.01;1.24;N4: Massachusetts Ave;Main
-N6;7.55;1.57;N6: Massachusetts Ave;Main
-NH1;7.79;1.72;NH1: National Harbor - Southern Ave;Main
-NH2;5.62;1.87;NH2: National Harbor - King Street;Main
-P6;7.5;1.86;P6: Anacostia - Eckington;Main
-P12;12.66;1.72;P12: Eastover - Addison Rd;Main
-P18;12.4;1.53;P18: Oxon Hill - Fort Washington;Main
-Q2;12.85;1.14;Q2: Veirs Mill Rd;Main
-Q4;9.74;1.09;Q4: Veirs Mill Rd;Main
-Q6;9.37;1.12;Q6: Veirs Mill Rd;Main
-R1;5.3;1.25;R1: Riggs Road;Main
-R2;10.01;1.28;R2: Riggs Road;Main
-R4;5.0;1.48;R4: Queens Chapel Road;Main
-R12;10.94;1.5;R12: Kenilworth Ave;Main
-REX;12.04;1.6;REX: Richmond Highway Express;Main
-S2;8.0;1.15;S2: 16th St;Main
-S9;6.83;1.09;S9: 16th Street MetroExtra;Main
-S35-n;3.94;6.3;S35: Fort Dupount Shuttle;Northbound
-S35-s;4.17;9.67;S35: Fort Dupount Shuttle;Southbound
-S41;3.05;1.57;S41: Rhode Island Ave - Carver Terr;Main
-T2;14.04;1.53;T2: River Rd;Main
-T14;10.52;1.51;T14: Rhode Island Ave - New Carrollton;Main
-T18;8.87;1.26;T18: Annapolis Road;Main
-U4-river;1.07;1.35;U4: Sheriff Road - River Terrace;to River Terrace
-U4-sheriff;1.45;1.08;U4: Sheriff Road - River Terrace;to Sheriff Road
-U5;4.62;4.43;U5: Marshall Heights;Main
-U6;4.75;4.56;U6: Marshall Heights;Main
-U7;4.38;2.72;U7: Deanwood - Minnesota Ave;Main
-V2;6.48;1.34;V2: Capitol Hts - Minnesota Ave;Main
-V4;6.88;1.38;V4: Capitol Hts - Minnesota Ave;Main
-V7;6.09;1.45;V7: Benning Heights - Alabama Avenue;Main
-V8;1.94;1.34;V8: Benning Heights - Alabama Avenue;Main
-V12;7.94;2.29;V12: District Heights - Suitland;Main
-V14;10.51;2.05;V14: District Heights - Seat Pleasant;Main
-W1;5.23;2.37;W1: Shipley Terr - Fort Drum;Main
-W2;9.77;7.43;W2: United Medical Center - Anacostia;Main
-W3;9.54;8.82;W3: United Medical Center - Anacostia;Main
-W4;9.99;2.19;W4: Deanwood - Alabama Ave;Main
-W5;4.01;1.19;W5: Anacostia - Blue Plains;Main
-W14-friendly;9.09;1.48;W14: Bock Rd;to Friendly
-W14-ft-washington;13.15;1.48;W14: Bock Rd;to Fort Washington
-W45;4.51;1.92;W45: Mt. Pleasant - Tenleytown;Main
-X2;4.82;1.01;X2: Benning Rd - H St;Main
-X8;2.27;1.15;X8: Maryland Ave;Main
-X9;6.65;1.11;X9: Benning Road - H Street Limited;Main
-Y2;13.08;1.18;Y2: Georgia Ave - Maryland;Main
-Y7;10.03;1.13;Y7: Georgia Ave - Maryland;Main
-Y8;13.41;1.21;Y8: Georgia Ave - Maryland;Main
-Z2;16.54;1.51;Z2: Colesville - Ashton;Main
-Z6;13.33;1.35;Z6: Silver Spring - Fairland;Main
-Z7;17.03;1.49;Z7: Laurel - Burtonsville Express;Main
-Z8;11.83;1.38;Z8: Silver Spring - Fairland;Main
 Blue;27.38;1.39;Blue Line;Main
 Green;21.12;1.66;Green Line;Main
 Orange;24.98;1.13;Orange Line;Main
 Red;30.89;4.29;Red Line;Main
 Silver;40.19;1.13;Silver Line;Main
 Yellow;20.76;1.19;Yellow Line;Main
+A11;8.62;1.66;A11: Huntington - Pentagon;Main
+A12;9.68;1.38;A12: Ballston - Hunting Point;Main
+A1X;3.93;1.16;A1X: Pentagon City - Braddock Rd;Main
+A25;7.49;1.38;A25: Brookville - S Fairlington;Main
+A27;8.65;1.39;A27: Landmark - N Fairlington;Main
+A28;8.44;1.55;A28: Landmark - Holmes Run;Main
+A40;4.85;1.27;A40: Columbia Pike - National Landing;Main
+A49;9.28;1.36;A49: Columbia Pike - Metro Center;Main
+A58;8.74;1.34;A58: Wilson Blvd - Farragut Sq;Main
+A66;6.74;1.38;A66: Culmore - Shirlington;Main
+A70;13.73;1.26;A70: Glebe Rd;Main
+A71;7.47;1.27;A71: Ballston - King St;Main
+A76;8.32;1.63;A76: Carlin Springs Rd;Main
+C11;9.46;1.33;C11: L'Enfant Plaza - National Harbor;Main
+C13;4.5;1.48;C13: Anacostia - Eastover;Main
+C15;7.19;2.55;C15: Potomac Avenue - Southern Avenue;Main
+C17;5.34;1.75;C17: Anacostia - Eastover;Main
+C21;8.72;2.41;C21: Anacostia - Minnesota Avenue;Main
+C23;7.27;1.59;C23: Anacostia - Deanwood;Main
+C25;4.11;2.71;C25: Anacostia - Skyland;Main
+C26;4.01;2.65;C26: Anacostia - Skyland;Main
+C27;8.81;2.25;C27: Bellevue - Naylor Road;Main
+C29;5.79;3.15;C29: Anacostia - Southern Avenue;Main
+C31;7.66;1.5;C31: Navy Yard - Capitol Heights;Main
+C33;2.71;1.27;C33: River Terrace - Sheriff Road;Main
+C35;8.04;1.96;C35: Deanwood - Naylor Road;Main
+C37;8.54;3.57;C37: Potomac Avenue - Minnesota Avenue;Main
+C41;8.7;1.31;C41: West Hyattsville - Anacostia;Main
+C43;2.13;1.09;C43: Carver Terrace - Union Station;Main
+C51;10.29;1.37;C51: Anacostia - Tenleytown;Main
+C53;9.28;1.43;C53: Congress Heights - Duke Ellington;Main
+C55;5.18;4.58;C55: Union Station - L'Enfant Plaza;Main
+C57;6.47;1.02;C57: U Street - Capitol Heights;Main
+C61;5.72;1.23;C61: Tenleytown - Brookland/cua;Main
+C63;6.64;1.51;C63: Washington Hospital Ctr - Deanwood;Main
+C71;7.23;1.88;C71: Fort Totten - Union Station;Main
+C75;3.04;1.13;C75: Takoma - Petworth;Main
+C77;2.3;1.25;C77: Fort Totten - Takoma;Main
+C81;5.22;1.33;C81: Fort Totten - Sibley Hospital;Main
+C83;3.39;1.47;C83: Barnaby Woods - Friendship Heights;Main
+C85;9.12;1.75;C85: Chevy Chase -  Foggy Bottom;Main
+C87;5.96;1.54;C87: Silver Spring - Van Ness;Main
+C91;4.31;1.38;C91: Georgetown - Ledroit Park;Main
+D10;8.19;1.44;D10: Kennedy Center - Southern Avenue;Main
+D1X;5.77;1.24;D1X: National Archives - Naylor Road;Main
+D20;5.1;1.04;D20: Farragut Square - Minnesota Avenue;Main
+D24;7.95;1.47;D24: Mcpherson Square - Deanwood;Main
+D2X;6.11;1.02;D2X: Capitol Heights - Chinatown Ltd;Main
+D30;5.99;1.38;D30: Fort Totten - Federal Triangle;Main
+D32;5.41;1.39;D32: Chinatown - Fort Lincoln;Main
+D34;7.72;1.49;D34: West Hyattsville - Metro Center;Main
+D36;6.35;2.92;D36: Washington Hosp Ctr - Franklin Sq;Main
+D40;7.36;1.06;D40: Silver Spring - National Archives;Main
+D44;5.22;1.21;D44: Fort Totten - Federal Triangle;Main
+D4X;7.06;1.01;D4X: Silver Spring - National Archives;Main
+D50;5.89;1.06;D50: 14th St;Main
+D5X;6.21;1.14;D5X: Takoma - Metro Center;Main
+D60;7.21;1.15;D60: Silver Spring - Franklin Square;Main
+D6X;7.39;1.07;D6X: Silver Spring - Federal Triangle;Main
+D70;4.96;1.0;D70: Chevy Chase - Farragut Square;Main
+D72;4.47;1.3;D72: Van Ness/UDC - Lafayette Square;Main
+D74;7.88;2.42;D74: Potomac Park - Rhode Island Avenue;Main
+D80;7.2;1.18;D80: Friendship Heights - Union Station;Main
+D82;5.31;1.07;D82: Friendship Heights - Foggy Bottom;Main
+D90;5.54;1.23;D90: Tenleytown - Mount Vernon Square;Main
+D94;7.02;1.37;D94: Sibley Hospital - Chinatown;Main
+D96;10.07;1.52;D96: Bethesda - Lincoln Memorial;Main
+F1X;10.36;1.26;F1X: Richmond Hwy Express;Main
+F19;19.39;1.46;F19: Mt Vernon - Interior Dept;Main
+F20;15.26;1.3;F20: Leesburg Pike;Main
+F23;14.9;1.1;F23: Little River Tpk - George Mason;Main
+F24;15.24;1.24;F24: Little River Tpk - Vienna;Main
+F26;11.5;2.06;F26: Annandale - Seven Corners;Main
+F28;20.53;1.65;F28: Kings Park West;Main
+F29;17.22;1.23;F29: Braddock Rd;Main
+F44;10.42;1.11;F44: Columbia Pike - Pentagon;Main
+F50;13.99;1.26;F50: Washington Blvd;Main
+F60;16.29;1.21;F60: Arlington Blvd - Fair Oaks;Main
+F61;17.55;1.3;F61: Arlington Blvd - Fair Oaks;Main
+F62;11.51;1.34;F62: Pershing Dr - Arlington Bl;Main
+F81;19.33;1.29;F81: Burke Centre;Main
+F83;16.5;1.18;F83: Cardinal Forest;Main
+F85;11.26;1.27;F85: Little River Tpk - Pentagon;Main
+M12;13.3;1.2;M12: University Blvd;Main
+M20;9.69;1.1;M20: Georgia Av - Silver Spring;Main
+M22;15.2;1.28;M22: Bethesda - Olney;Main
+M42;20.58;1.86;M42: Randolph Rd - College Park;Main
+M44;21.61;2.12;M44: Randolph Rd - Hyattsville Crossing;Main
+M52;13.23;1.34;M52: Colesville Rd - Burtonsville;Main
+M54;10.46;1.22;M54: Colesville Rd - Greencastle;Main
+M60;10.6;1.46;M60: New Hampshire Av;Main
+M6X;6.09;1.06;M6X: New Hampshire Av Express;Main
+M70;8.49;1.32;M70: East West Hwy - Old Georgetown;Main
+M82;14.04;1.53;M82: River Rd - Falls Rd;Main
+P10;8.83;1.62;P10: Baltimore Av;Main
+P12;12.52;2.2;P12: Laurel - Greenbelt;Main
+P14;10.67;1.46;P14: Kenilworth Av;Main
+P15;6.21;1.46;P15: Riggs Rd - Adelphi;Main
+P16;11.07;1.53;P16: Riggs Rd - White Oak;Main
+P1X;8.9;1.12;P1X: Baltimore Ave Express;Main
+P20;12.01;2.51;P20: Greenbelt Rd - New Carrollton;Main
+P21;10.8;2.25;P21: Greenbelt - New Carrollton;Main
+P24;9.1;1.21;P24: Good Luck Rd;Main
+P30;10.66;1.17;P30: New Carrollton - Silver Spring;Main
+P31;9.36;1.36;P31: New Carrolton - Langley Park;Main
+P32;10.36;1.63;P32: Greenbelt - Fort Totten;Main
+P33;4.97;1.48;P33: Queens Chapel Rd;Main
+P35;9.88;1.41;P35: New Carrollton - Fort Totten;Main
+P40;8.84;1.26;P40: Annapolis Rd;Main
+P41;9.63;2.24;P41: Landover Rd;Main
+P42;14.4;1.79;P42: Chillum Rd - New Carrollton;Main
+P60;10.19;1.29;P60: MLK Hwy - Suitland;Main
+P61;12.82;1.62;P61: Glenarden - Suitland;Main
+P62;14.76;2.58;P62: Branch Av - Deanwood;Main
+P63;9.5;1.38;P63: Central Av - Naylor Rd;Main
+P66;5.8;1.5;P66: Forestville - Suitland;Main
+P72;16.87;2.47;P72: Central Av - Bowie;Main
+P73;10.2;1.51;P73: Central Av - Trade Zone Av;Main
+P87;10.78;2.22;P87: Brinkley Rd;Main
+P90;10.71;1.44;P90: St Barnabas Rd;Main
+P93;9.2;2.67;P93: Suitland - Eastover;Main
+P94;11.37;1.84;P94: Suitland - National Harbor;Main
+P96;10.9;2.24;P96: Suitland - Oxon Hill;Main
+P97;12.35;1.53;P97: Ft Washington;Main
