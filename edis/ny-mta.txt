@@ -80,11 +80,6 @@ B84;1.91;1.48;B84: Spring Creek - New Lots;Main
 B100;4.02;1.84;B100: Mill Basin - Midwood;Main
 B103;10.57;1.75;B103: Canarsie - Downtown Brooklyn Ltd;Main
 B103-nostrand;4.55;1.43;B103: Canarsie - Downtown Brooklyn Ltd;to Flatbush Av / Nostrand Av
-BM1;16.95;1.56;BM1: Mill Basin - Downtown/Midtown;Main
-BM2;16.57;1.95;BM2: Canarsie / Spring Creek - Downtown / Midtown;Main
-BM3;17.44;1.42;BM3: Sheepshead Bay - Downtown / Midtown;Main
-BM4;16.12;1.32;BM4: Gerritsen Beach - Downtown / Midtown;Main
-BM5;15.42;1.66;BM5: Spring Creek - Midtown;Main
 Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
 Bx2;6.98;1.39;Bx2: Kingsbridge Heights - Mott Haven;Main
 Bx3;4.16;1.34;Bx3: Riverdale - George Washington Bridge;Main
@@ -130,17 +125,6 @@ Bx40;7.87;1.14;Bx40: Throgs Neck - River Park Towers;Main
 Bx41;5.27;1.05;Bx41: Williamsbridge - The Hub;Main
 Bx42;7.98;1.43;Bx42: Throgs Neck - River Park Towers;Main
 Bx46;1.88;1.28;Bx46: Prospect Av - Westchester Av / Hunts Point Market;Main
-BxM1;13.41;1.1;BxM1: Riverdale - East Midtown;Main
-BxM2;13.72;1.15;BxM2: Riverdale - West Midtown;Main
-BxM3;14.34;1.04;BxM3: Yonkers - Midtown;Main
-BxM4;13.02;1.03;BxM4: Woodlawn - Midtown;Main
-BxM6;10.05;1.06;BxM6: Parkchester - Midtown;Main
-BxM7;14.17;1.14;BxM7: Co-Op City - Midtown;Main
-BxM8;12.69;1.11;BxM8: Pelham Bay / City Island - Midtown;Main
-BxM9;13.66;1.24;BxM9: Throgs Neck - Midtown;Main
-BxM10;12.76;1.07;BxM10: Williamsbridge / Morris Park - Midtown;Main
-BxM11;13.52;1.02;BxM11: Wakefield - Midtown;Main
-BxM18;16.24;1.06;BxM18: Riverdale - Downtown;Main
 hrl-l;2.33;3.47;Hudson Rail Link L;Main
 hrl-m;1.74;5.7;Hudson Rail Link M;Main
 M1;8.22;1.07;M1: Fifth / Madison Avs;Main
@@ -275,33 +259,6 @@ Q111;6.33;1.17;Q111: Jamaica - Rosedale;Main
 Q112;3.9;1.41;Q112: Jamaica - Ozone Park;Main
 Q113;9.91;1.21;Q113: Jamaica - Far Rockaway Limited;Main
 Q114;10.96;1.34;Q114: Jamaica - Far Rockaway Limited;Main
-QM1;13.57;1.41;QM1: Fresh Meadows - Midtown via 6th Av;Main
-QM2;15.0;1.48;QM2: Bay Terrace - Midtown via 6th Av;Main
-QM3;15.95;1.25;QM3: Little Neck - Midtown;Main
-QM4;11.81;1.36;QM4: Electchester - Midtown via 6th Av;Main
-QM5;19.24;1.43;QM5: Glen Oaks - Midtown via 6th Av;Main
-QM6;18.06;1.36;QM6: Lake Success - Midtown via 6th Av;Main
-QM7;13.23;1.09;QM7: Fresh Meadows - Downtown;Main
-QM8;18.33;1.14;QM8: Glen Oaks - Downtown;Main
-QM10;9.74;1.6;QM10: Lefrak City - Midtown via 6th Av;Main
-QM11;11.38;1.24;QM11: Forest Hills - Downtown;Main
-QM12;11.54;1.63;QM12: Forest Hills - Midtown via 6th Av;Main
-QM15;13.41;1.41;QM15: Lindenwood - Midtown Express;Main
-QM16;19.99;1.39;QM16: Neponsit - Midtown Express;Main
-QM17;20.79;1.33;QM17: Far Rockaway - Midtown Express;Main
-QM18;14.31;1.37;QM18: South Ozone Park - Midtown Express;Main
-QM20;13.7;1.4;QM20: Bay Terrace - Midtown;Main
-QM21;14.64;1.17;QM21: Rochdale Village - Midtown;Main
-QM24;11.51;1.83;QM24: Glendale - Midtown;Main
-QM25;11.41;1.58;QM25: Glendale - Downtown;Main
-QM31;12.3;1.28;QM31: Fresh Meadows - Midtown via 3rd Av;Main
-QM32;13.52;1.33;QM32: Bay Terrace - Midtown via 3rd Av;Main
-QM34;10.14;1.63;QM34: Glendale - Midtown via 3rd Av;Main
-QM35;17.29;1.29;QM35: Glen Oaks - Midtown via 3rd Av;Main
-QM36;16.78;1.26;QM36: Lake Success - Midtown via 3rd Av;Main
-QM40;8.36;1.38;QM40: Lefrak City - Midtown via 3rd Av;Main
-QM42;10.16;1.44;QM42: Forest Hills - Midtown via 3rd Av;Main
-QM44;10.42;1.2;QM44: Electchester - Midtown via 3rd Av;Main
 S40;8.12;1.32;S40: St. George - Amazon;Main
 S42;2.5;2.63;S42: St Marks Pl / Bay St;Main
 S44;9.41;1.38;S44: St. George - Staten Island Mall;Main
@@ -334,40 +291,6 @@ S93;7.44;1.13;S93: College of Staten Island - Bay Ridge LTD;Main
 S94;8.77;1.28;S94: St. George - Staten Island Mall LTD;Main
 S96;8.65;1.26;S96: St. George - West Shore Plaza LTD;Main
 S98;6.62;1.28;S98: St. George - Mariners Harbor LTD;Main
-SIM1;19.3;1.32;SIM1: Eltingville - Lower Manhattan Express;Main
-SIM1C;22.04;1.26;SIM1C: Eltingville - Manhattan Express;Main
-SIM2;27.68;1.41;SIM2: Tottenville - Lower Manhattan Express;Main
-SIM3;20.32;1.67;SIM3: Pt. Richmond - Midtown Manhattan Express;Main
-SIM3C;19.93;1.64;SIM3C: Pt. Richmond - Manhattan Express;Main
-SIM4;19.59;1.38;SIM4: Eltingville - Lower Manhattan Express;Main
-SIM4C;26.3;1.37;SIM4C: Huguenot - Manhattan Express;Main
-SIM4X;17.6;1.39;SIM4X: S.I. Mall - Lower Manhattan Express;Main
-SIM5;18.35;1.35;SIM5: Eltingville - Lower Manhattan Express;Main
-SIM6;22.72;1.31;SIM6: Eltingville - Midtown Manhattan Express;Main
-SIM7;19.93;1.3;SIM7: Eltingville - Greenwich Village Express;Main
-SIM8;25.1;1.31;SIM8: Huguenot - Midtown Manhattan Express;Main
-SIM8X;21.2;1.34;SIM8X: S.I. Mall - Midtown Manhattan Express;Main
-SIM9;18.27;1.12;SIM9: Eltingville - Greenwich Village Express;Main
-SIM10;23.47;1.34;SIM10: Eltingville - Midtown Manhattan Express;Main
-SIM11;17.91;1.16;SIM11: New Dorp - Midtown Manhattan Express;Main
-SIM15;18.59;1.43;SIM15: Eltingville - Lower Manhattan Express;Main
-SIM22;23.7;1.26;SIM22: Eltingville - Midtown via Richmond Av;Main
-SIM23;26.03;1.33;SIM23: Annadale - Midtown Manhattan Express;Main
-SIM24;23.64;1.17;SIM24: Prince's Bay - Midtown Manhattan Express;Main
-SIM25;27.81;1.2;SIM25: Tottenville - Midtown Manhattan Express;Main
-SIM26;28.06;1.26;SIM26: Tottenville - Midtown Manhattan Express;Main
-SIM30-rosebank;23.07;1.95;SIM30: Sunnyside - Midtown Manhattan Express;to Rosebank
-SIM30-sunnyside;22.43;1.83;SIM30: Sunnyside - Midtown Manhattan Express;to Sunnyside
-SIM31;22.31;1.28;SIM31: Eltingville - Midtown Manhattan Express;Main
-SIM32;16.15;1.19;SIM32: Travis - Lower Manhattan Express;Main
-SIM33;19.27;1.73;SIM33: Mariners Harbor - Manhattan Express;Main
-SIM33C;21.82;1.65;SIM33C: Mariners Harbor - Greenwich Village Express;Main
-SIM34;18.61;1.77;SIM34: Mariners Harbor - Lower Manhattan Express;Main
-SIM35;15.63;1.84;SIM35: Port Richmond - Lower Manhattan Express;Main
-X63;21.36;1.53;X63: Rosedale - Midtown Manhattan Express;Main
-X64;19.22;1.42;X64: Cambria Heights - Midtown Manhattan Express;Main
-X68-23;19.27;1.33;X68: Floral Park - Midtown Manhattan Express;to 23 St / 1 Av
-X68-57;16.95;1.21;X68: Floral Park - Midtown Manhattan Express;to 57 St / 3 Av
 Harlem;51.52;1.05;Harlem Line;Main
 Hudson;68.66;1.04;Hudson Line;Main
 New Haven;69.81;1.04;New Haven Line;Main
