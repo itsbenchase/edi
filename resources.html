@@ -1,6 +1,5 @@
 <title>Resources - Eliot Deviation Index</title> 
 <link rel=stylesheet href=style.css>
-<body onload="getAgencies()">
 <ul><li><a href=index.html>Home</a></li>
 <li><a href=stops.html>Stop Listing</a></li> 
 <li><a href=routes.html>Route Listing</a></li>
@@ -11,39 +10,8 @@
 
 <p>Here are a number of other resources that are relevant to the Eliot Deviation Index.</p>
 
-<p><a href="#map">Mapping Data</a><br>
-<a href="#code">Source Code</a><br>
+<p><a href="#code">Source Code</a><br>
 <a href="#reports">Advocacy Reports</a></p>
-
-<h3 id="map">Mapping Data</h3>
-<p>As of February 2023, KML data is provided for all lines stored in the database <a href=maps/map-all.kml>here</a>. Individual agency maps are available below. A 404 should be expected for agencies with no routes in the database.</p>
-
-<p id="agencies"></p>
-
-<script>
-function getAgencies()
-{
-  const agencyFileUrl = ("https://dev.eliotindex.org/agencies.txt");
-  const agencyCodes = [];
-  const agencyNames = [];
-
-  fetch(agencyFileUrl)
-    .then(r => r.text())
-    .then((text) => {
-      const agencyFile = text.split("\n");
-      agencyFile.pop();
-
-      for (let i = 0; i < agencyFile.length; i++)
-      {
-        var data = agencyFile[i];
-        agencyCodes.push(data.substring(0, data.indexOf(";")));
-        data = data.substr(data.indexOf(";") + 1);
-        agencyNames.push(data);
-        document.getElementById("agencies").innerHTML += ("<a href=maps/map-" + agencyCodes[i] + ".kml>" + agencyNames[i] + "</a> (" + agencyCodes[i] + ")<br>");
-      }
-    })
-}
-</script>
 
 <h3 id="code">Source Code</h3>
 <p>Did you know that the Eliot Deviation Index is 100% open-source? The source code is <a href="https://github.com/itsbenchase/edi">available on GitHub</a>. Documentation for all of the code in the repository is available <a href=documentation.html>here</a> as of March 2024.</p>
