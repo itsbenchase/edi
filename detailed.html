@@ -324,9 +324,12 @@ function intoArray(ediFile)
             {
                 if (stopLines[i] == code)
                 {
-                    segStrings.push(stopOrders[i] + " - " + stopNames[i] + " (" + stopIds[i] + ")");
-                    document.getElementById("startDrop").innerHTML += ("<option value=\"" + stopOrders[i] + "\">" + segStrings[segStrings.length - 1] + "</option>");
-                    document.getElementById("endDrop").innerHTML += ("<option value=\"" + stopOrders[i] + "\">" + segStrings[segStrings.length - 1] + "</option>");
+                    if (stopIds[i].charAt(0) != "*")
+                    {
+                        segStrings.push(stopOrders[i] + " - " + stopNames[i] + " (" + stopIds[i] + ")");
+                        document.getElementById("startDrop").innerHTML += ("<option value=\"" + stopOrders[i] + "\">" + segStrings[segStrings.length - 1] + "</option>");
+                        document.getElementById("endDrop").innerHTML += ("<option value=\"" + stopOrders[i] + "\">" + segStrings[segStrings.length - 1] + "</option>");
+                    }
                 }
             }
         }
