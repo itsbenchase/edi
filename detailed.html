@@ -357,7 +357,7 @@ function getStops(ediFile)
         if (stopLines[i] == code)
         {
             // waypoints along line not counting in stop lists
-            if (stopIds[i].substring(0, 1) == "*")
+            if (stopIds[i].charAt(0) == "*")
             {
                 if (isSegment)
                 {
