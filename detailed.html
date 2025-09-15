@@ -301,6 +301,7 @@ function intoArray(ediFile)
     for (let i = 0; i < ediFile.length; i++)
     {
         var data = ediFile[i];
+        
         stopIds.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
         stopNames.push(data.substring(0, data.indexOf(";")));
@@ -355,23 +356,46 @@ function getStops(ediFile)
     {
         if (stopLines[i] == code)
         {
-            if (isSegment)
+            // waypoints along line not counting in stop lists
+            if (stopIds[i].substring(0, 1) == "*")
             {
-                if (order >= segStartOrder && order <= segEndOrder)
+                if (isSegment)
+                {
+                    if (order >= segStartOrder && order <= segEndOrder)
+                    {
+                        cumLats.push(stopLats[i]);
+                        cumLons.push(stopLons[i]);
+                        cumulativeWaypoint();
+                    }
+                }
+                else // not segment, entire line
+                {
+                    cumLats.push(stopLats[i]);
+                    cumLons.push(stopLons[i]);
+                    cumulativeWaypoint();
+                }
+            }
+
+            else 
+            {
+                if (isSegment)
+                {
+                    if (order >= segStartOrder && order <= segEndOrder)
+                    {
+                        cumLats.push(stopLats[i]);
+                        cumLons.push(stopLons[i]);
+                        cumulative(i, cumCount);
+                        cumCount++;
+                    }
+                    order++;
+                }
+                else // not segment, entire line
                 {
                     cumLats.push(stopLats[i]);
                     cumLons.push(stopLons[i]);
                     cumulative(i, cumCount);
                     cumCount++;
                 }
-                order++;
-            }
-            else // not segment, entire line
-            {
-                cumLats.push(stopLats[i]);
-                cumLons.push(stopLons[i]);
-                cumulative(i, cumCount);
-                cumCount++;
             }
         }
     }
@@ -390,6 +414,29 @@ function setEnd()
     document.getElementById("segend").innerHTML = ("<b>Segment End: </b>" + segStrings[segEndOrder - 1]);
     secondRun = true;
     findIndex();
+}
+
+// distance calc (not rolling edi) for waypoints
+function cumulativeWaypoint()
+{
+    // haversine formula loop
+    // spherical trig cause this is the globe
+    // cumLats.length will increase by 1 each run
+    var dist = 0;
+    for (let i = 1; i < cumLats.length; i++)
+    {
+        var lon1 = toRadians(Math.abs(cumLons[i - 1]));
+        var lon2 = toRadians(Math.abs(cumLons[i]));
+        var lat1 = toRadians(Math.abs(cumLats[i - 1]));
+        var lat2 = toRadians(Math.abs(cumLats[i]));
+        var dlon = lon2 - lon1;
+        var dlat = lat2 - lat1;
+        var a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);      
+        var c = 2 * Math.asin(Math.sqrt(a));
+        var r = 3963;
+
+        dist += c * r;
+    }
 }
 
 // rolling edi port
