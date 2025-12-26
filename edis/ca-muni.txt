@@ -1,56 +1,56 @@
-F;4.97;1.54;F: Market & Wharves;Main
-J;6.43;1.13;J: Church;Main
-K;7.61;1.34;K: Ingleside;Main
-L;8.29;1.15;L: Taraval;Main
-M;8.82;1.53;M: Ocean View;Main
-N;8.41;1.33;N: Judah;Main
-T;6.51;1.1;T: Third Street;Main
-1;5.62;1.05;1: California;Main
-2;3.25;1.12;2: Sutter;Main
-5;7.25;1.14;5: Fulton;Main
-6;6.11;1.17;6: Haight / Parnassus;Main
-7;7.81;1.17;7: Haight / Noriega;Main
-8;10.58;1.68;8: Bayshore;Main
-8AX;6.97;1.1;8AX: Bayshore A Express;Main
-8BX;10.48;1.67;8BX: Bayshore B Express;Main
-9;8.51;1.47;9: San Bruno;Main
-12;5.76;1.82;12: Folsom / Pacific;Main
-14;7.54;1.07;14: Mission;Main
-15;6.28;1.59;15: Bayview Hunters Point Express;Main
-18;6.6;1.53;18: 46th Avenue;Main
-19;7.77;1.26;19: Polk;Main
-21;3.06;1.1;21: Hayes;Main
-22;5.26;1.57;22: Fillmore;Main
-23;8.5;1.36;23: Monterey;Main
-24;8.4;1.86;24: Divisadero;Main
-25;3.5;1.19;25: Treasure Island;Main
-27;5.06;1.75;27: Bryant;Main
-28;11.06;1.43;28: 19th Avenue;Main
-29;12.68;1.74;29: Sunset;Main
-30;5.94;1.5;30: Stockton;Main
-31;5.78;1.03;31: Balboa;Main
-33;6.12;1.67;33: Ashbury / 18th Street;Main
-35;3.01;1.5;35: Eureka;Main
-36;6.89;3.47;36: Teresita;Main
-37;4.82;3.53;37: Corbett;Main
-38-33rd;5.79;1.06;38: Geary;to 33rd Ave
-38-48th;6.69;1.06;38: Geary;to 48th Ave
-38-va;6.24;1.04;38: Geary;to VA Hosptial
-39;1.78;3.83;39: Coit;Main
-43;11.46;1.8;43: Masonic;Main
-44;9.27;1.81;44: O'Shuaghnessy;Main
-45;4.24;1.32;45: Union / Stockton;Main
-48;8.54;1.29;48: Qunitara / 24th Street;Main
-49;6.81;1.18;49: Van Ness / Mission;Main
-52;4.0;1.48;52: Excelsior;Main
-54;9.65;1.76;54: Felton;Main
-55;2.26;1.31;55: Dogpatch;Main
-56-in;3.09;3.12;56: Rutland;Inbound
-56-out;2.45;2.45;56: Rutland;Outbound
-57;3.93;1.61;57: Parkmerced;Main
-58;6.11;3.87;58: Lake Merced;Main
-66;2.84;1.44;66: Quintara;Main
-67;2.33;1.71;67: Bernal Heights;Main
-90;6.88;1.05;90: San Bruno Owl;Main
-91;21.33;14.58;91: 3rd Street / 19th Avenue Owl;Main
-714;7.39;1.04;714: BART Early Bird;Main
+F;4.97;1.54;;F: Market & Wharves;Main
+J;6.43;1.13;;J: Church;Main
+K;7.61;1.34;;K: Ingleside;Main
+L;8.29;1.15;;L: Taraval;Main
+M;8.82;1.53;;M: Ocean View;Main
+N;8.41;1.33;;N: Judah;Main
+T;6.51;1.1;;T: Third Street;Main
+1;5.62;1.05;;1: California;Main
+2;3.25;1.12;;2: Sutter;Main
+5;7.25;1.14;;5: Fulton;Main
+6;6.11;1.17;;6: Haight / Parnassus;Main
+7;7.81;1.17;;7: Haight / Noriega;Main
+8;10.58;1.68;;8: Bayshore;Main
+8AX;6.97;1.1;;8AX: Bayshore A Express;Main
+8BX;10.48;1.67;;8BX: Bayshore B Express;Main
+9;8.51;1.47;;9: San Bruno;Main
+12;5.76;1.82;;12: Folsom / Pacific;Main
+14;7.54;1.07;;14: Mission;Main
+15;6.28;1.59;;15: Bayview Hunters Point Express;Main
+18;6.6;1.53;;18: 46th Avenue;Main
+19;7.77;1.26;;19: Polk;Main
+21;3.06;1.1;;21: Hayes;Main
+22;5.26;1.57;;22: Fillmore;Main
+23;8.5;1.36;;23: Monterey;Main
+24;8.4;1.86;;24: Divisadero;Main
+25;3.5;1.19;;25: Treasure Island;Main
+27;5.06;1.75;;27: Bryant;Main
+28;11.06;1.43;;28: 19th Avenue;Main
+29;12.68;1.74;;29: Sunset;Main
+30;5.94;1.5;;30: Stockton;Main
+31;5.78;1.03;;31: Balboa;Main
+33;6.12;1.67;;33: Ashbury / 18th Street;Main
+35;3.01;1.5;;35: Eureka;Main
+36;6.89;3.47;;36: Teresita;Main
+37;4.82;3.53;;37: Corbett;Main
+38-33rd;5.79;1.06;;38: Geary;to 33rd Ave
+38-48th;6.69;1.06;;38: Geary;to 48th Ave
+38-va;6.24;1.04;;38: Geary;to VA Hosptial
+39;1.78;3.83;;39: Coit;Main
+43;11.46;1.8;;43: Masonic;Main
+44;9.27;1.81;;44: O'Shuaghnessy;Main
+45;4.24;1.32;;45: Union / Stockton;Main
+48;8.54;1.29;;48: Qunitara / 24th Street;Main
+49;6.81;1.18;;49: Van Ness / Mission;Main
+52;4.0;1.48;;52: Excelsior;Main
+54;9.65;1.76;;54: Felton;Main
+55;2.26;1.31;;55: Dogpatch;Main
+56-in;3.09;3.12;;56: Rutland;Inbound
+56-out;2.45;2.45;;56: Rutland;Outbound
+57;3.93;1.61;;57: Parkmerced;Main
+58;6.11;3.87;;58: Lake Merced;Main
+66;2.84;1.44;;66: Quintara;Main
+67;2.33;1.71;;67: Bernal Heights;Main
+90;6.88;1.05;;90: San Bruno Owl;Main
+91;21.33;14.58;;91: 3rd Street / 19th Avenue Owl;Main
+714;7.39;1.04;;714: BART Early Bird;Main

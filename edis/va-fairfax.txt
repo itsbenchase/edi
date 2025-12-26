@@ -1,68 +1,68 @@
-101;8.72;1.5;101: Fort Hunt - Mount Vernon;Main
-109;5.74;1.97;109: Rose Hill;Main
-151;11.01;1.96;151: Engleside - Mt Vernon;Main
-152;11.22;1.99;152: Groveton - Mt Vernon;Main
-159;7.51;1.34;159: Engleside Limited-Stop;Main
-161;5.02;1.39;161: Hybla Valley Counter-Clockwise;Main
-162;5.16;1.43;162: Hybla Valley Clockwise;Main
-171;13.14;1.4;171: Richmond Hwy;Main
-301;10.33;1.93;301: Telegraph Rd;Main
-305;11.92;2.7;305: Newington Forest - Silverbrook Road;Main
-306;18.95;1.37;306: GMU - Pentagon;Main
-308;9.44;1.79;308: Franconia - Mt. Vernon Hosp.;Main
-310;13.08;1.28;310: Franconia - Rolling Valley Line;Main
-334;5.83;1.83;334: DLA - Newington;Main
-335;8.13;1.42;335: Fort Belvoir Express;Main
-371;8.02;1.53;371: Lorton - Springfield;Main
-393;12.09;1.01;393: Saratoga - Pentagon - Mark Center;Main
-394;13.11;1.03;394: Saratoga - Pentagon Express;Main
-396;10.38;1.08;396: Backlick - Pentagon Express;Main
-401;15.43;1.29;401: Backlick - Gallows Rd Northbound;Main
-427;2.73;1.29;427: Spring Hill Metro - Farm Credit;Main
-462;6.14;2.34;462: Dunn Loring - Navy Federal - Tysons;Main
-463;5.18;1.32;463: Maple Avenue - Tysons;Main
-467;6.59;2.51;467: Dunn Loring - Tysons;Main
-494;11.55;1.05;494: Springfield - Tysons;Main
-495;12.29;1.29;495: Burke Center VRE - Tysons;Main
-552;9.58;2.27;552: Innovation Center - Wiehle Reston E;Main
-553;10.82;4.31;553: Kingstream - Herndon - Fox MIll;Main
-557;3.94;1.64;557: Reston South - Soapstone;Main
-558;2.88;1.09;558: Center Harbor - Wiehle;Main
-559;2.21;1.73;559: Reston TC - Wiehle;Main
-574;9.44;1.34;574: Reston Town Center - Tysons;Main
-598;20.25;1.12;598: Reston S - Pentagon;Main
-599;17.73;1.05;599: Reston North- Pentagon Express;Main
-605;8.81;1.34;605: Reston - Monument - Fair Oaks Hosp;Main
-610;4.27;1.33;610: GMU - Centreville;Main
-615;8.06;3.81;615: Monument - Fair Oaks Hosp;Main
-622;2.01;3.62;622: Penderbrook- Monument Dr;Main
-625;2.26;1.4;625: Random Hills - Pender Dr;Main
-630;9.93;1.86;630: Centreville - Monument -;Main
-642;8.14;1.93;642: Aubrey Patent - Westfields;Main
-651;10.43;1.85;651: Chantilly - Monument Dt.;Main
-660;14.58;1.05;660: Centreville PnR - Tysons Exp;Main
-662;10.27;1.0;662: Centreville PnR - Vienna;Main
-663;7.31;1.0;663: Stringfellow Rd. - Vienna;Main
-671;16.24;1.31;671: Chantilly - Dunn Loring Limited Stop;Main
-672;13.87;1.12;672: Chantilly - Vienna Limited Stop;Main
-697;21.0;1.02;697: Stringfellow Rd - D St SW DC;Main
-698;19.05;1.01;698: Stringfellow Rd. - Pentagon;Main
-699;17.71;1.02;699: Monument Dr - Downtown D.C.;Main
-703;5.29;2.63;703: Pimmit Hills;Main
-715;5.99;1.42;715: East Falls Church - Langley;Main
-721;2.96;1.08;721: Chain Bridge Road - Mclean;Main
-798;13.4;1.65;798: Tysons - Bethesda;Main
-803;6.92;1.29;803: Annandale Road;Main
-834;11.02;1.11;834: Pentagon - Annandale;Main
-835;12.75;1.11;835: Braeburn Dr - Pentagon;Main
-901;13.37;1.45;901: Herndon Metro - Centreville;Main
-924;12.67;1.64;924: Dranesville Rd - Franklin Farm;Main
-937;7.15;4.54;937: Coppermine - Elden - Herndon Metro;Main
-950;5.88;4.22;950: Herndon Metro - Reston Town Center;Main
-951;10.4;2.42;951: Wiehle Reston E - Innovation Center;Main
-952;6.93;1.19;952: Sunset Hills;Main
-954;4.75;1.41;954: Sterling - Herndon Metro;Main
-983;7.75;2.61;983: Dulles Airport - Udvar Hazy;Main
-RIBS 2;6.86;5.16;RIBS 2: Reston - South Lakes - Herndon Metro;Main
-RIBS 4;3.11;1.66;RIBS 4: Reston Town Center - North Point;Main
-RIBS 5;4.05;1.91;RIBS 5: Herndon - Reston Town Center;Main
+101;8.72;1.5;;101: Fort Hunt - Mount Vernon;Main
+109;5.74;1.97;;109: Rose Hill;Main
+151;11.01;1.96;;151: Engleside - Mt Vernon;Main
+152;11.22;1.99;;152: Groveton - Mt Vernon;Main
+159;7.51;1.34;;159: Engleside Limited-Stop;Main
+161;5.02;1.39;;161: Hybla Valley Counter-Clockwise;Main
+162;5.16;1.43;;162: Hybla Valley Clockwise;Main
+171;13.14;1.4;;171: Richmond Hwy;Main
+301;10.33;1.93;;301: Telegraph Rd;Main
+305;11.92;2.7;;305: Newington Forest - Silverbrook Road;Main
+306;18.95;1.37;;306: GMU - Pentagon;Main
+308;9.44;1.79;;308: Franconia - Mt. Vernon Hosp.;Main
+310;13.08;1.28;;310: Franconia - Rolling Valley Line;Main
+334;5.83;1.83;;334: DLA - Newington;Main
+335;8.13;1.42;;335: Fort Belvoir Express;Main
+371;8.02;1.53;;371: Lorton - Springfield;Main
+393;12.09;1.01;;393: Saratoga - Pentagon - Mark Center;Main
+394;13.11;1.03;;394: Saratoga - Pentagon Express;Main
+396;10.38;1.08;;396: Backlick - Pentagon Express;Main
+401;15.43;1.29;;401: Backlick - Gallows Rd Northbound;Main
+427;2.73;1.29;;427: Spring Hill Metro - Farm Credit;Main
+462;6.14;2.34;;462: Dunn Loring - Navy Federal - Tysons;Main
+463;5.18;1.32;;463: Maple Avenue - Tysons;Main
+467;6.59;2.51;;467: Dunn Loring - Tysons;Main
+494;11.55;1.05;;494: Springfield - Tysons;Main
+495;12.29;1.29;;495: Burke Center VRE - Tysons;Main
+552;9.58;2.27;;552: Innovation Center - Wiehle Reston E;Main
+553;10.82;4.31;;553: Kingstream - Herndon - Fox MIll;Main
+557;3.94;1.64;;557: Reston South - Soapstone;Main
+558;2.88;1.09;;558: Center Harbor - Wiehle;Main
+559;2.21;1.73;;559: Reston TC - Wiehle;Main
+574;9.44;1.34;;574: Reston Town Center - Tysons;Main
+598;20.25;1.12;;598: Reston S - Pentagon;Main
+599;17.73;1.05;;599: Reston North- Pentagon Express;Main
+605;8.81;1.34;;605: Reston - Monument - Fair Oaks Hosp;Main
+610;4.27;1.33;;610: GMU - Centreville;Main
+615;8.06;3.81;;615: Monument - Fair Oaks Hosp;Main
+622;2.01;3.62;;622: Penderbrook- Monument Dr;Main
+625;2.26;1.4;;625: Random Hills - Pender Dr;Main
+630;9.93;1.86;;630: Centreville - Monument -;Main
+642;8.14;1.93;;642: Aubrey Patent - Westfields;Main
+651;10.43;1.85;;651: Chantilly - Monument Dt.;Main
+660;14.58;1.05;;660: Centreville PnR - Tysons Exp;Main
+662;10.27;1.0;;662: Centreville PnR - Vienna;Main
+663;7.31;1.0;;663: Stringfellow Rd. - Vienna;Main
+671;16.24;1.31;;671: Chantilly - Dunn Loring Limited Stop;Main
+672;13.87;1.12;;672: Chantilly - Vienna Limited Stop;Main
+697;21.0;1.02;;697: Stringfellow Rd - D St SW DC;Main
+698;19.05;1.01;;698: Stringfellow Rd. - Pentagon;Main
+699;17.71;1.02;;699: Monument Dr - Downtown D.C.;Main
+703;5.29;2.63;;703: Pimmit Hills;Main
+715;5.99;1.42;;715: East Falls Church - Langley;Main
+721;2.96;1.08;;721: Chain Bridge Road - Mclean;Main
+798;13.4;1.65;;798: Tysons - Bethesda;Main
+803;6.92;1.29;;803: Annandale Road;Main
+834;11.02;1.11;;834: Pentagon - Annandale;Main
+835;12.75;1.11;;835: Braeburn Dr - Pentagon;Main
+901;13.37;1.45;;901: Herndon Metro - Centreville;Main
+924;12.67;1.64;;924: Dranesville Rd - Franklin Farm;Main
+937;7.15;4.54;;937: Coppermine - Elden - Herndon Metro;Main
+950;5.88;4.22;;950: Herndon Metro - Reston Town Center;Main
+951;10.4;2.42;;951: Wiehle Reston E - Innovation Center;Main
+952;6.93;1.19;;952: Sunset Hills;Main
+954;4.75;1.41;;954: Sterling - Herndon Metro;Main
+983;7.75;2.61;;983: Dulles Airport - Udvar Hazy;Main
+RIBS 2;6.86;5.16;;RIBS 2: Reston - South Lakes - Herndon Metro;Main
+RIBS 4;3.11;1.66;;RIBS 4: Reston Town Center - North Point;Main
+RIBS 5;4.05;1.91;;RIBS 5: Herndon - Reston Town Center;Main

@@ -33,6 +33,7 @@
 <p id="segend"></p>
 <p id="length"><b>Length: </b>Not Available</p>
 <p id="index"><b>EDI: </b>Not Available</p>
+<p id="spacing"><b>Stop Spacing: </b>Not Available</p>
 <p id="stops"></p>
 
 <script>
@@ -43,6 +44,7 @@ var code = "Not Available";
 var branch = "Not Available";
 var length = "Not Available";
 var index = "Not Available";
+var spacing = "Not Available";
 var rand = false;
 var isSegment = false;
 var secondRun = false;
@@ -95,6 +97,7 @@ function clearAll()
     document.getElementById("branch").innerHTML = ("<b>Branch: </b>Not Available");
     document.getElementById("length").innerHTML = ("<b>Length: </b>Not Available");
     document.getElementById("index").innerHTML = ("<b>EDI: </b>Not Available");
+    document.getElementById("spacing").innerHTML = ("<b>Stop Spacing: </b>Not Available");
     document.getElementById("segstart").innerHTML = ("");
     document.getElementById("segend").innerHTML = ("");
     document.getElementById("startDrop2").innerHTML = ("");
@@ -529,6 +532,10 @@ function cumulative(pos, cumCount)
     // dist rounded for display
     dist = Math.round(dist * 100.0) / 100.0;
 
+    // calculate average spacing
+    spacing = dist / cumCount;
+    spacing = Math.round(spacing * 100.0) / 100.0;
+
     // display
     document.getElementById("stops").innerHTML += ("<br>" + cumCount + " | " + stopNames[pos] + " (" + stopIds[pos] + ") (" + dist + " mi., " + edi + ")");
     if (isSegment)
@@ -570,6 +577,7 @@ function getStats(listFile)
     const lineEdis = [];
     const lineNames = [];
     const lineBranches = [];
+    const lineSpacing = [];
 
     listFile.pop(); // this fixed a bug
     for (let i = 0; i < listFile.length; i++)
@@ -580,6 +588,8 @@ function getStats(listFile)
         lineLengths.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
         lineEdis.push(data.substring(0, data.indexOf(";")));
+        data = data.substr(data.indexOf(";") + 1);
+        lineSpacing.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
         lineNames.push(data.substring(0, data.indexOf(";")));
         data = data.substr(data.indexOf(";") + 1);
@@ -667,6 +677,7 @@ function getStats(listFile)
             document.getElementById("branch").innerHTML = ("<b>Branch: </b>" + lineBranches[i]);
             document.getElementById("length").innerHTML += (lineLengths[i] + " miles (" + percentMLength + "% of median)");
             document.getElementById("index").innerHTML += (lineEdis[i] + " (" + percentMEdi + "% of median)");
+            document.getElementById("spacing").innerHTML += (spacing);
         }
     }
 }

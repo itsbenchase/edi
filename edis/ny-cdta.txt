@@ -1,38 +1,38 @@
-1;6.5;1.15;1: Central Ave;Main
-10;7.06;1.24;10: Western Ave;Main
-11;3.45;1.06;11: SUNY Shuttle;Main
-12;6.69;1.17;12: Washington Ave;Main
-13;7.15;1.33;13: New Scotland Ave;Main
-18;8.23;1.53;18: Delaware Ave;Main
-22;8.05;1.17;22: Albany - Troy via Watervilet;Main
-85-all;9.55;1.38;85: Fifth Ave;All Stops
-85-cottage;7.21;1.13;85: Fifth Ave;via Cottage St
-85-cottage-manor;8.09;1.17;85: Fifth Ave;via Cottage to Rensselaer Manor
-85-diamond;8.33;1.3;85: Fifth Ave;via Diamond Hill
-85-lasalle;7.59;1.16;85: Fifth Ave;via La Salle Institute
-85-manor;8.01;1.16;85: Fifth Ave;to Rensselaer Manor
-85-none;7.12;1.11;85: Fifth Ave;via Mill St to Hudson Valley
-87;5.41;1.92;87: Hoosick St - RPI;Main
-107;4.53;1.09;107: Albany - Glenmont;Main
-114-rail;8.27;1.28;114: Madison Ave - Washington Ave;to Rensselaer Rail Station
-114-ualbany;10.04;1.44;114: Madison Ave - Washington Ave;to UAlbany
-117;7.52;1.58;117: Colonie Crosstown;Main
-125;7.0;1.28;125: Clinton Ave - Sand Creek Rd;Main
-182;18.39;2.71;182: Troy - Albany via Cohoes and Latham;Main
-190;9.18;1.42;190: Fuller Rd - Wolf Rd;Main
-214;6.56;2.1;214: Rennsselaer 3rd St;Main
-224;9.47;1.4;224: Albany - Troy via I-90;Main
-233-amazon;9.89;1.16;233: Albany - Schodack;to Amazon
-233-park;9.12;1.12;233: Albany - Schodack;to Schodack Park and Ride
-233-pearl;8.74;1.06;233: Albany - Schodack;to S Pearl St
-286-rpi;4.43;3.03;286: Tory / Wyantskill;to RPI
-286-vanderheyden;5.78;1.24;286: Tory / Wyantskill;to Vanderheyden Hall
-289;4.54;1.94;289: Griswold Heights - St. Mary's Hospital;Main
-289-delaware;4.93;2.15;289: Griswold Heights - St. Mary's Hospital;to Delaware Ave
-351;8.51;1.51;351: Van Vranken Ave - Broadway;Main
-352;5.04;1.33;352: McClellan St - Altamont Ave;Main
-353;7.01;1.66;353: Scotia - Mt. Pleasant;Main
-354;5.74;1.14;354: Rotterdam Square Mall - Nott St;Main
-355;9.94;1.0;355: Schenectady Wolf Rd;Main
-370;16.39;1.17;370: Troy / Schenectady;Main
-830;11.92;8.21;830: Schenectady Shopping Bus;Main
+1;6.5;1.15;;1: Central Ave;Main
+10;7.06;1.24;;10: Western Ave;Main
+11;3.45;1.06;;11: SUNY Shuttle;Main
+12;6.69;1.17;;12: Washington Ave;Main
+13;7.15;1.33;;13: New Scotland Ave;Main
+18;8.23;1.53;;18: Delaware Ave;Main
+22;8.05;1.17;;22: Albany - Troy via Watervilet;Main
+85-all;9.55;1.38;;85: Fifth Ave;All Stops
+85-cottage;7.21;1.13;;85: Fifth Ave;via Cottage St
+85-cottage-manor;8.09;1.17;;85: Fifth Ave;via Cottage to Rensselaer Manor
+85-diamond;8.33;1.3;;85: Fifth Ave;via Diamond Hill
+85-lasalle;7.59;1.16;;85: Fifth Ave;via La Salle Institute
+85-manor;8.01;1.16;;85: Fifth Ave;to Rensselaer Manor
+85-none;7.12;1.11;;85: Fifth Ave;via Mill St to Hudson Valley
+87;5.41;1.92;;87: Hoosick St - RPI;Main
+107;4.53;1.09;;107: Albany - Glenmont;Main
+114-rail;8.27;1.28;;114: Madison Ave - Washington Ave;to Rensselaer Rail Station
+114-ualbany;10.04;1.44;;114: Madison Ave - Washington Ave;to UAlbany
+117;7.52;1.58;;117: Colonie Crosstown;Main
+125;7.0;1.28;;125: Clinton Ave - Sand Creek Rd;Main
+182;18.39;2.71;;182: Troy - Albany via Cohoes and Latham;Main
+190;9.18;1.42;;190: Fuller Rd - Wolf Rd;Main
+214;6.56;2.1;;214: Rennsselaer 3rd St;Main
+224;9.47;1.4;;224: Albany - Troy via I-90;Main
+233-amazon;9.89;1.16;;233: Albany - Schodack;to Amazon
+233-park;9.12;1.12;;233: Albany - Schodack;to Schodack Park and Ride
+233-pearl;8.74;1.06;;233: Albany - Schodack;to S Pearl St
+286-rpi;4.43;3.03;;286: Tory / Wyantskill;to RPI
+286-vanderheyden;5.78;1.24;;286: Tory / Wyantskill;to Vanderheyden Hall
+289;4.54;1.94;;289: Griswold Heights - St. Mary's Hospital;Main
+289-delaware;4.93;2.15;;289: Griswold Heights - St. Mary's Hospital;to Delaware Ave
+351;8.51;1.51;;351: Van Vranken Ave - Broadway;Main
+352;5.04;1.33;;352: McClellan St - Altamont Ave;Main
+353;7.01;1.66;;353: Scotia - Mt. Pleasant;Main
+354;5.74;1.14;;354: Rotterdam Square Mall - Nott St;Main
+355;9.94;1.0;;355: Schenectady Wolf Rd;Main
+370;16.39;1.17;;370: Troy / Schenectady;Main
+830;11.92;8.21;;830: Schenectady Shopping Bus;Main

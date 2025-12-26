@@ -1,38 +1,38 @@
-1-exchange;12.34;1.11;1: Newark;to Exchange Place
-1-journal;11.4;1.19;1: Newark;to Journal Square
-1-newark;7.15;1.21;1: Newark;to Newark Penn
-2;9.29;4.34;2: Jersey City - Journal Sq - Secaucus;Main
-89;6.43;1.23;89: North Bergen - Hoboken;Main
-153;10.86;2.4;153: Fairview - Fort Lee - New York;Main
-160;18.26;1.54;160: Elmwood Park - Wallington - New York;Main
-317;82.23;1.31;317: Asbury Park - Fort Dix - Philadelphia;Main
-319;146.07;1.12;319: New York - Atlantic City - Wildwood - Cape May;Main
-402;42.73;1.46;402: Woodbury - Philadelphia;Main
-403;26.43;1.69;403: Camden - Lindenwold - Turnersville;Main
-409;46.13;1.63;409: Trenton - Willingboro - Philadelphia;Main
-452;9.39;7.44;452: Camden - 36th Street;Main
-508;27.37;2.06;508: Atlantic City - Richard Stockton - Hamilton Mall;Main
-610;4.68;4.03;610: Princeton Seasonal;Main
-613;17.88;2.48;613: Mercer Mall - Hamilton Sq - Yardville;Main
-702-dayton;10.72;4.4;702: Paterson - Elmwood Park;via Dayton Ave
-702-wessington;11.37;4.67;702: Paterson - Elmwood Park;via Wessington Ave
-748-pompton;9.6;1.07;748: Paterson - Wayne - Willowbrook Mall;to Pompton Lakes
-748-wayne;13.2;1.93;748: Paterson - Wayne - Willowbrook Mall;to Wayne
-753-cresskill;12.0;2.1;753: New Milford - Paramus;to Cresskill
-753-new-milford;11.44;4.11;753: New Milford - Paramus;to New Milford
-756;17.94;2.14;756: Englewood Cliffs - Fort Lee - Paramus;Main
-811;12.16;2.19;811: New Brunswick - South River;Main
-813;12.8;2.3;813: Perth Amboy - Middlesex County College;Main
-819-metuchen;11.92;2.05;819: Piscataway - Plainfield - Metuchen;to Metuchen
-819-south-plainfield;7.32;1.51;819: Piscataway - Plainfield - Metuchen;to South Plainfield
-871;23.47;1.8;871: Morristown - Boonton - Wayne;Main
-890;6.79;1.92;890: South Main Street;Main
-891;10.18;2.88;891: Heckman;Main
-8th-hoboken;8.39;1.1;HBLR: 8th St - Hoboken;Main
-broad-newark;0.97;1.02;NLR: Broad St;Main
-grove-newark;4.48;1.32;NLR: Grove St;Main
-NEC;57.14;1.05;Northeast Corridor Line;Main
-Port Jervis;85.16;1.51;Port Jervis Line;Main
-river;33.23;1.2;River Line;Main
-tonelle-hoboken;4.99;1.35;HBLR: Tonelle Ave - Hoboken;Main
-west-tonelle;9.12;1.56;HBLR: Tonelle Ave - West Side Ave;Main
+1-exchange;12.34;1.11;;1: Newark;to Exchange Place
+1-journal;11.4;1.19;;1: Newark;to Journal Square
+1-newark;7.15;1.21;;1: Newark;to Newark Penn
+2;9.29;4.34;;2: Jersey City - Journal Sq - Secaucus;Main
+89;6.43;1.23;;89: North Bergen - Hoboken;Main
+153;10.86;2.4;;153: Fairview - Fort Lee - New York;Main
+160;18.26;1.54;;160: Elmwood Park - Wallington - New York;Main
+317;82.23;1.31;;317: Asbury Park - Fort Dix - Philadelphia;Main
+319;146.07;1.12;;319: New York - Atlantic City - Wildwood - Cape May;Main
+402;42.73;1.46;;402: Woodbury - Philadelphia;Main
+403;26.43;1.69;;403: Camden - Lindenwold - Turnersville;Main
+409;46.13;1.63;;409: Trenton - Willingboro - Philadelphia;Main
+452;9.39;7.44;;452: Camden - 36th Street;Main
+508;27.37;2.06;;508: Atlantic City - Richard Stockton - Hamilton Mall;Main
+610;4.68;4.03;;610: Princeton Seasonal;Main
+613;17.88;2.48;;613: Mercer Mall - Hamilton Sq - Yardville;Main
+702-dayton;10.72;4.4;;702: Paterson - Elmwood Park;via Dayton Ave
+702-wessington;11.37;4.67;;702: Paterson - Elmwood Park;via Wessington Ave
+748-pompton;9.6;1.07;;748: Paterson - Wayne - Willowbrook Mall;to Pompton Lakes
+748-wayne;13.2;1.93;;748: Paterson - Wayne - Willowbrook Mall;to Wayne
+753-cresskill;12.0;2.1;;753: New Milford - Paramus;to Cresskill
+753-new-milford;11.44;4.11;;753: New Milford - Paramus;to New Milford
+756;17.94;2.14;;756: Englewood Cliffs - Fort Lee - Paramus;Main
+811;12.16;2.19;;811: New Brunswick - South River;Main
+813;12.8;2.3;;813: Perth Amboy - Middlesex County College;Main
+819-metuchen;11.92;2.05;;819: Piscataway - Plainfield - Metuchen;to Metuchen
+819-south-plainfield;7.32;1.51;;819: Piscataway - Plainfield - Metuchen;to South Plainfield
+871;23.47;1.8;;871: Morristown - Boonton - Wayne;Main
+890;6.79;1.92;;890: South Main Street;Main
+891;10.18;2.88;;891: Heckman;Main
+8th-hoboken;8.39;1.1;;HBLR: 8th St - Hoboken;Main
+broad-newark;0.97;1.02;;NLR: Broad St;Main
+grove-newark;4.48;1.32;;NLR: Grove St;Main
+NEC;57.14;1.05;;Northeast Corridor Line;Main
+Port Jervis;85.16;1.51;;Port Jervis Line;Main
+river;33.23;1.2;;River Line;Main
+tonelle-hoboken;4.99;1.35;;HBLR: Tonelle Ave - Hoboken;Main
+west-tonelle;9.12;1.56;;HBLR: Tonelle Ave - West Side Ave;Main

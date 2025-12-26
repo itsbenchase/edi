@@ -1,82 +1,82 @@
-Blue;30.85;1.11;MAX Blue Line;Main
-Green;13.54;1.78;MAX Green Line;Main
-Orange;6.98;1.17;MAX Orange Line;Main
-Red;18.1;1.5;MAX Red Line;Main
-Yellow;7.14;1.08;MAX Yellow Line;Main
-WES;12.71;1.02;WES Commuter Rail;Main
-1;8.35;2.03;1: Vermont;Main
-FX2;14.35;1.14;FX2: Division;Main
-4;10.49;1.71;4: Fessenden;Main
-6;10.59;1.63;6: Martin Luther King Jr Blvd;Main
-8;7.88;1.4;8: Jackson Park/NE 15th;Main
-9;14.54;1.2;9: Powell Blvd;Main
-10;11.84;1.97;10: Harold St;Main
-11;12.33;2.98;11: Rivergate/Marine Dr;Main
-12;6.3;1.03;12: Barbur/Sandy Blvd;Main
-14;6.88;1.13;14: Hawthorne/Foster;Main
-15-27th;10.15;1.46;15: Belmont/NW 23rd;to Vaughn / 27th
-15-44th;12.29;1.49;15: Belmont/NW 23rd;to Yeon / 44th
-16;12.37;1.23;16: Front Ave/St Helens Rd;Main
-17-alder;10.14;1.28;17: Holgate/Broadway;to 6th / Alder
-17-saratoga;16.14;2.12;17: Holgate/Broadway;to 27th / Saratoga
-19;17.25;4.0;19: Woodstock/Glisan;Main
-20;24.44;1.35;20: Burnside/Stark;Main
-21;10.91;1.42;21: Sandy Blvd/223rd;Main
-22;4.7;1.88;22: Parkrose;Main
-23;4.96;1.66;23: San Rafael;Main
-24;10.17;1.61;24: Fremont/NW 18th;Main
-25;10.68;1.32;25: Glisan/Troutdale Rd;Main
-26;2.43;1.32;26: Thurman/NW 18th;Main
-29;7.88;2.23;29: Lake/Webster Rd;Main
-30;20.7;1.34;30: Estacada;Main
-31;7.1;1.29;31: Webster Rd;Main
-32;13.43;1.48;32: Oatfield;Main
-33;15.0;1.91;33: McLoughlin/King Rd;Main
-34;1.91;1.04;34: Linwood/River Rd;Main
-35R;6.95;1.49;35: Macadam/Greeley;R: via Riverside
-35T;20.49;1.27;35: Macadam/Greeley;T: via Taylor's Ferry
-37;4.91;1.14;37: Lake Grove;Main
-38;13.13;1.47;38: Boones Ferry Rd;Main
-39;6.34;2.74;39: Arnold Creek/Hillsdale;Main
-40;11.53;1.35;40: Tacoma/Swan Island;Main
-43;10.41;1.66;43: Taylors Ferry/Marquam Hill;Main
-44;16.41;1.43;44: Capitol Hwy/Mocks Crest;Main
-45;12.56;1.77;45: Garden Home;Main
-46;8.53;2.62;46: North Hillsboro;Main
-47;13.06;1.9;47: Main/Evergreen;Main
-47-orenco;8.71;2.34;47: Main/Evergreen;to Orenco Station
-48;11.51;1.17;48: Cornell;Main
-51;5.63;1.75;51: Vista/Sunset Blvd;Main
-52;10.22;1.73;52: Farmington/185th;Main
-54;9.19;1.44;54: Beaverton-Hillsdale Hwy;Main
-55;8.11;1.97;55: Hamilton;Main
-56;8.09;1.46;56: Scholls Ferry/Marquam Hill;Main
-57;16.42;1.07;57: TV Hwy/Forest Grove;Main
-58;6.53;1.07;58: Canyon Rd;Main
-59;5.41;1.26;59: Walker/Park Way;Main
-62;12.37;3.11;62: Murray Blvd;Main
-63;1.72;1.3;63: Washington Park/SW 6th;Main
-67;5.65;1.32;67: Bethany/158th;Main
-70;13.49;1.34;70: 12th/NE 33rd Ave;Main
-71;12.44;1.47;71: 60th Ave;Main
-72;15.82;1.49;72: Killingsworth/82nd Ave;Main
-73;8.61;1.58;73: 122nd Ave;Main
-74;5.84;1.19;74: 162nd Ave;Main
-75;18.78;1.52;75: Cesar Chavez/Lombard;Main
-76-meridian;11.33;1.36;76: Hall/Greenburg;to Meridian Park Hospital
-76-oregon;18.93;1.44;76: Hall/Greenburg;to Oregon City TC
-77;17.44;1.15;77: Broadway/Halsey;Main
-78;13.01;1.61;78: Denney/Kerr Pkwy;Main
-79;6.48;1.18;79: Clackamas/Oregon City;Main
-81;6.7;1.74;81: Kane/257th;Main
-82;6.71;2.04;82: South Gresham;Main
-84;3.95;1.23;84: Powell Valley/Orient Dr;Main
-87;11.02;2.13;87: Airport Way/181st;Main
-88;10.53;2.77;88: Hart/198th;Main
-94;6.96;1.13;94: Tigard/Sherwood;Main
-96;14.2;1.07;96: Tualatin/I-5;Main
-97;4.14;1.03;97: Tualatin-Sherwood Rd;Main
-152;4.16;1.17;152: Milwaukie;Main
-153;8.41;1.6;153: Stafford/Salamo;Main
-155;4.93;1.21;155: Sunnyside;Main
-156;6.93;2.43;156: Mather Rd;Main
+Blue;30.85;1.11;;MAX Blue Line;Main
+Green;13.54;1.78;;MAX Green Line;Main
+Orange;6.98;1.17;;MAX Orange Line;Main
+Red;18.1;1.5;;MAX Red Line;Main
+Yellow;7.14;1.08;;MAX Yellow Line;Main
+WES;12.71;1.02;;WES Commuter Rail;Main
+1;8.35;2.03;;1: Vermont;Main
+FX2;14.35;1.14;;FX2: Division;Main
+4;10.49;1.71;;4: Fessenden;Main
+6;10.59;1.63;;6: Martin Luther King Jr Blvd;Main
+8;7.88;1.4;;8: Jackson Park/NE 15th;Main
+9;14.54;1.2;;9: Powell Blvd;Main
+10;11.84;1.97;;10: Harold St;Main
+11;12.33;2.98;;11: Rivergate/Marine Dr;Main
+12;6.3;1.03;;12: Barbur/Sandy Blvd;Main
+14;6.88;1.13;;14: Hawthorne/Foster;Main
+15-27th;10.15;1.46;;15: Belmont/NW 23rd;to Vaughn / 27th
+15-44th;12.29;1.49;;15: Belmont/NW 23rd;to Yeon / 44th
+16;12.37;1.23;;16: Front Ave/St Helens Rd;Main
+17-alder;10.14;1.28;;17: Holgate/Broadway;to 6th / Alder
+17-saratoga;16.14;2.12;;17: Holgate/Broadway;to 27th / Saratoga
+19;17.25;4.0;;19: Woodstock/Glisan;Main
+20;24.44;1.35;;20: Burnside/Stark;Main
+21;10.91;1.42;;21: Sandy Blvd/223rd;Main
+22;4.7;1.88;;22: Parkrose;Main
+23;4.96;1.66;;23: San Rafael;Main
+24;10.17;1.61;;24: Fremont/NW 18th;Main
+25;10.68;1.32;;25: Glisan/Troutdale Rd;Main
+26;2.43;1.32;;26: Thurman/NW 18th;Main
+29;7.88;2.23;;29: Lake/Webster Rd;Main
+30;20.7;1.34;;30: Estacada;Main
+31;7.1;1.29;;31: Webster Rd;Main
+32;13.43;1.48;;32: Oatfield;Main
+33;15.0;1.91;;33: McLoughlin/King Rd;Main
+34;1.91;1.04;;34: Linwood/River Rd;Main
+35R;6.95;1.49;;35: Macadam/Greeley;R: via Riverside
+35T;20.49;1.27;;35: Macadam/Greeley;T: via Taylor's Ferry
+37;4.91;1.14;;37: Lake Grove;Main
+38;13.13;1.47;;38: Boones Ferry Rd;Main
+39;6.34;2.74;;39: Arnold Creek/Hillsdale;Main
+40;11.53;1.35;;40: Tacoma/Swan Island;Main
+43;10.41;1.66;;43: Taylors Ferry/Marquam Hill;Main
+44;16.41;1.43;;44: Capitol Hwy/Mocks Crest;Main
+45;12.56;1.77;;45: Garden Home;Main
+46;8.53;2.62;;46: North Hillsboro;Main
+47;13.06;1.9;;47: Main/Evergreen;Main
+47-orenco;8.71;2.34;;47: Main/Evergreen;to Orenco Station
+48;11.51;1.17;;48: Cornell;Main
+51;5.63;1.75;;51: Vista/Sunset Blvd;Main
+52;10.22;1.73;;52: Farmington/185th;Main
+54;9.19;1.44;;54: Beaverton-Hillsdale Hwy;Main
+55;8.11;1.97;;55: Hamilton;Main
+56;8.09;1.46;;56: Scholls Ferry/Marquam Hill;Main
+57;16.42;1.07;;57: TV Hwy/Forest Grove;Main
+58;6.53;1.07;;58: Canyon Rd;Main
+59;5.41;1.26;;59: Walker/Park Way;Main
+62;12.37;3.11;;62: Murray Blvd;Main
+63;1.72;1.3;;63: Washington Park/SW 6th;Main
+67;5.65;1.32;;67: Bethany/158th;Main
+70;13.49;1.34;;70: 12th/NE 33rd Ave;Main
+71;12.44;1.47;;71: 60th Ave;Main
+72;15.82;1.49;;72: Killingsworth/82nd Ave;Main
+73;8.61;1.58;;73: 122nd Ave;Main
+74;5.84;1.19;;74: 162nd Ave;Main
+75;18.78;1.52;;75: Cesar Chavez/Lombard;Main
+76-meridian;11.33;1.36;;76: Hall/Greenburg;to Meridian Park Hospital
+76-oregon;18.93;1.44;;76: Hall/Greenburg;to Oregon City TC
+77;17.44;1.15;;77: Broadway/Halsey;Main
+78;13.01;1.61;;78: Denney/Kerr Pkwy;Main
+79;6.48;1.18;;79: Clackamas/Oregon City;Main
+81;6.7;1.74;;81: Kane/257th;Main
+82;6.71;2.04;;82: South Gresham;Main
+84;3.95;1.23;;84: Powell Valley/Orient Dr;Main
+87;11.02;2.13;;87: Airport Way/181st;Main
+88;10.53;2.77;;88: Hart/198th;Main
+94;6.96;1.13;;94: Tigard/Sherwood;Main
+96;14.2;1.07;;96: Tualatin/I-5;Main
+97;4.14;1.03;;97: Tualatin-Sherwood Rd;Main
+152;4.16;1.17;;152: Milwaukie;Main
+153;8.41;1.6;;153: Stafford/Salamo;Main
+155;4.93;1.21;;155: Sunnyside;Main
+156;6.93;2.43;;156: Mather Rd;Main

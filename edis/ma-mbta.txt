@@ -1,190 +1,190 @@
-1;4.35;1.25;1: Harvard Square - Nubian;Main
-4-e;2.92;1.43;4: North Station - Tide Street;via Commerical St and Summer St
-4-w;2.24;1.09;4: North Station - Tide Street;via Pearl St and Seaport Blvd
-7;2.87;1.65;7: City Point - Otis Street & Summer Street;Main
-8;7.0;1.96;8: Harbor Point - Kenmore;Main
-9;3.63;1.48;9: City Point - Copley;Main
-10;4.94;2.04;10: City Point - Copley Square;Main
-11-in;4.03;2.26;11: City Point - Chauncy Street & Summer Street;Inbound
-11-out;4.14;2.32;11: City Point - Chauncy Street & Summer Street;Outbound
-14;7.92;2.58;14: Roslindale Square - Heath Street;Main
-15;2.69;1.22;15: Fields Corner or Kane Square - Ruggles;Main
-16;4.26;1.21;16: Forest Hills - Andrew or Harbor Point;Main
-16-harbor;5.79;1.47;16: Forest Hills - Andrew or Harbor Point;to Harbor Point
-17;2.78;1.33;17: Fields Corner - Andrew;Main
-18;3.64;1.15;18: Ashmont - Andrew;Main
-19;5.49;1.45;19: Fields Corner - Kenmore or Ruggles;Main
-21;3.58;1.29;21: Ashmont - Forest Hills;Main
-22;4.76;1.25;22: Ashmont - Ruggles via Talbot Ave;Main
-23;4.41;1.16;23: Ashmont - Ruggles via Washington Street;Main
-24;5.64;1.5;24: Wakefield Avenue & Truman Parkway - Ashmont;Main
-28;5.43;1.14;28: Mattapan - Ruggles;Main
-29;4.28;1.11;29: Mattapan - Jackson Square;Main
-30;3.66;1.45;30: Mattapan - Forest Hills via Cummins Highway and Roslindale Square;Main
-31;3.1;1.23;31: Mattapan - Forest Hills via Morton Street;Main
-32;4.51;1.01;32: Wolcott or Cleary Square - Forest Hills;Main
-33;5.16;1.57;33: River Street & Milton Street - Mattapan;Main
-34;4.8;1.19;34: Dedham Mall or Dedham Line - Forest Hills;Main
-34E;13.69;1.06;34E: Walpole Center - Forest Hills;Main
-35;5.8;1.44;35: Dedham Mall or Stimson Street - Forest Hills;Main
-36-millennium;4.72;1.34;36: Millennium Park or VA Hospital - Forest Hills;to Millennium Park
-36-rivermoor;4.86;1.28;36: Millennium Park or VA Hospital - Forest Hills;via Rivermoor Industrial Park
-36-va;4.08;1.18;36: Millennium Park or VA Hospital - Forest Hills;to VA Hospital
-37;3.86;1.25;37: Baker Street & Vermont Street - Forest Hills;Main
-38;3.75;1.62;38: Wren Street - Forest Hills;Main
-39;4.74;1.26;39: Forest Hills - Back Bay;Main
-40;4.25;1.22;40: Georgetowne - Forest Hills;Main
-41;4.6;1.39;41: Centre Street & Eliot Street - JFK/UMass;Main
-42;2.55;1.01;42: Forest Hills - Nubian;Main
-43;2.29;1.24;43: Ruggles - Park Street;Main
-44;3.37;3.17;44: Jackson Square - Ruggles;Main
-45;3.16;1.34;45: Franklin Park - Ruggles;Main
-47;5.59;1.99;47: Central Square Cambridge - Broadway;Main
-50;3.94;1.25;50: Cleary Square - Forest Hills;Main
-51;7.3;2.44;51: Reservoir - Forest Hills;Main
-52;10.01;1.36;52: Dedham Mall - Watertown Yard;Main
-55;1.51;1.22;55: Jersey Street & Queensberry Street - Copley;Main
-57;5.31;1.12;57: Watertown Yard - Kenmore;Main
-59;8.69;1.26;59: Needham Junction - Watertown Square;Main
-60;5.29;1.15;60: Chestnut Hill - Kenmore;Main
-61;6.07;2.96;61: North Waltham - Waltham Center;Main
-62;11.78;1.16;62: Bedford VA Hospital - Alewife;Main
-62/76;18.96;1.87;62/76: Bedford VA Hospital - Alewife via Hanscom Airport;Main
-64;5.06;1.19;64: Oak Square - University Park or Kendall/MIT;Main
-65;4.0;1.36;65: Brighton Center - Kenmore;Main
-66;5.78;1.59;66: Harvard Square - Nubian;Main
-67;4.3;1.35;67: Turkey Hill - Alewife;Main
-68;2.02;1.12;68: Harvard Square - Kendall/MIT;Main
-69;2.29;1.08;69: Harvard Square - Lechmere;Main
-70;9.34;1.12;70: Market Place Drive or Waltham Center - University Park;Main
-71;3.59;1.04;71: Watertown Square - Harvard;Main
-73;3.92;1.04;73: Waverley Square - Harvard;Main
-74;3.31;1.03;74: Belmont Center - Harvard via Concord Avenue;Main
-75;3.74;1.16;75: Belmont Center - Harvard via Huron Avenue;Main
-76;14.12;1.84;76: Lincoln Lab - Alewife;Main
-77;5.41;1.1;77: Arlington Heights - Harvard;Main
-78;6.93;1.37;78: Arlmont Village - Harvard;Main
-80;5.97;1.23;80: Arlington Center - Lechmere;Main
-83;3.3;1.25;83: Rindge Avenue - Central Square Cambridge;Main
-85;2.1;1.1;85: Spring Hill - Kendall/MIT;Main
-86;3.89;1.23;86: Harvard Square - Reservoir;Main
-87;4.99;1.05;87: Clarendon Hill or Arlington Center - Lechmere;Main
-88;3.87;1.04;88: Clarendon Hill - Lechmere;Main
-89-clarendon;3.27;1.02;89: Clarendon Hill or Davis - Sullivan Square;to Clarendon Hill
-89-davis;2.77;1.13;89: Clarendon Hill or Davis - Sullivan Square;to Davis
-90;3.72;1.78;90: Davis - Assembly Row;Main
-91;2.05;1.07;91: Sullivan Square - Central Square Cambridge;Main
-92;2.4;1.13;92: Sullivan Square - Downtown via Main Street;Main
-93;2.73;1.28;93: Sullivan Square - Downtown via Bunker Hill Street;Main
-94;3.99;2.41;94: Medford Square - Davis;Main
-95-arlington;5.75;1.33;95: West Medford or Arlington Center - Sullivan Square;to Arlington Center
-95-playstead;5.44;1.26;95: West Medford or Arlington Center - Sullivan Square;to Playstead Rd
-96;4.29;1.37;96: Medford Square - Harvard;Main
-97;3.81;2.29;97: Malden Center - Wellington;Main
-99;5.82;1.68;99: Woodland Road - Wellington;Main
-100;3.2;1.2;100: Elm Street - Wellington;Main
-101;5.19;1.76;101: Malden Center - Sullivan Square via Winter Hill;Main
-104;7.02;1.76;104: Malden Center - Airport;Main
-105;5.89;1.99;105: Malden Center - Sullivan Square via Newland Street Housing;Main
-106;4.86;1.57;106: Lebanon Loop - Wellington;Main
-108;5.49;1.5;108: Linden Square - Wellington;Main
-109;6.91;1.1;109: Linden Square - Harvard Square;Main
-110;5.43;1.23;110: Wonderland - Wellington;Main
-111;4.59;1.18;111: Woodlawn - Haymarket;Main
-112;7.27;2.28;112: Wellington - Wood Island;Main
-114;2.54;1.35;114: Market Basket - Maverick;Main
-116;5.03;1.28;116: Wonderland - Maverick via Revere Street;Main
-119;5.28;1.87;119: Northgate Shopping Center - Beachmont;Main
-120;4.28;1.91;120: Orient Heights - Jeffries Point;Main
-121;1.43;1.26;121: Wood Island - Maverick;Main
-131;7.0;2.38;131: Melrose Highlands - Oak Grove or Malden Center;Main
-132;5.86;1.18;132: Redstone Shopping Center - Malden Center;Main
-134;11.12;1.2;134: North Woburn - Wellington;Main
-137;10.65;1.57;137: Reading Depot - Malden Center;Main
-171;6.31;1.53;171: Logan Airport Terminals - Nubian;Main
-201;2.36;1.5;201: Fields Corner Loop via Neponset Ave;Main
-202;2.42;1.54;202: Fields Corner Loop via Adams Street;Main
-210;4.83;1.1;210: Quincy Center - Fields Corner;Main
-211;5.55;1.7;211: Quincy Center - Squantum;Main
-215;6.29;1.68;215: Quincy Center - Ashmont via West Quincy;Main
-216;5.92;1.9;216: Houghs Neck - Quincy Center via Germantown;Main
-217;8.98;2.4;217: Quincy Center - Ashmont via Wollaston;Main
-220;7.31;1.17;220: Hingham Depot - Quincy Center;Main
-222-east-weymouth;5.98;1.22;222: East Weymouth - Quincy Center;to East Weymouth
-222-pleasant;7.04;1.28;222: East Weymouth - Quincy Center;to Lovell Corners
-225-quincy;4.26;1.12;225: Weymouth Landing - Quincy Center;via Quincy Ave
-225-south;4.53;1.19;225: Weymouth Landing - Quincy Center;via South St
-226;6.02;1.76;226: Columbian Square - Braintree;Main
-230;10.86;1.08;230: Montello - Quincy Center;Main
-236;6.67;2.83;236: South Shore Plaza - Quincy Center;Main
-238;10.71;1.6;238: Holbrook/Randolph - Quincy Center;Main
-240-avon;11.47;1.08;240: Avon Square - Ashmont;to Avon
-240-holbrook;10.15;1.12;240: Avon Square - Ashmont;to Holbrook/Randolph
-245;7.56;1.65;245: Quincy Center - Mattapan;Main
-350;13.78;1.48;350: North Burlington - Alewife;Main
-351-emd;2.91;1.12;351: Bedford Woods Drive - Third Avenue;via EMD
-351-oak-park;3.1;1.19;351: Bedford Woods Drive - Third Avenue;via Oak Park Dr
-354;17.3;1.27;354: North Burlington - State Street Boston;Main
-354-cummings;18.33;1.35;354: North Burlington - State Street Boston;via West Cummings
-411;9.4;2.06;411: Kennedy Drive or Jack Satter House - Malden Center;Main
-424;7.6;1.43;424: Eastern Avenue & Essex Street - Wonderland;Main
-426;10.86;1.22;426: Central Square Lynn - Haymarket or Wonderland;to Haymarket
-426W;8.16;2.01;426: Central Square Lynn - Haymarket or Wonderland;to Wonderland
-428;11.91;1.54;428: Oaklandvale - Haymarket;Main
-429;11.31;2.76;429: Northgate Shopping Center - Central Square Lynn;Main
-430;7.62;1.76;430: Saugus Center - Malden Center;Main
-435;13.52;2.53;435: Liberty Tree Mall - Central Square Lynn via Peabody Square;Main
-436;9.63;1.56;436: Liberty Tree Mall - Central Square Lynn via Goodwin Circle;Main
-439;8.05;1.98;439: Nahant - Wonderland;Main
-441;11.25;1.14;441: Marblehead - Wonderland via Paradise Road;Main
-442;10.86;1.1;442: Marblehead - Wonderland via Humphrey Street;Main
-450;14.7;1.05;450: Salem Depot - Wonderland or Haymarket;to Haymarket
-450W;10.8;1.18;450: Salem Depot - Wonderland or Haymarket;to Wonderland
-451-cabot;7.07;1.69;451: North Beverly - Salem Depot;via Cabot St
-451-tozer;6.76;1.62;451: North Beverly - Salem Depot;via Tozer Rd
-455;13.01;2.59;455: Salem Depot - Wonderland;Main
-456;6.23;1.25;456: Salem Depot - Central Square Lynn;Main
-501;9.07;1.83;501: Brighton Center - Federal Street & Franklin Street;Main
-504;7.59;1.14;504: Watertown Yard - Federal Street & Franklin Street;Main
-505;12.94;1.4;505: Waltham Center - Federal Street & Franklin Street;Main
-553;6.77;1.73;553: Roberts - Newton Corner;Main
-554;8.02;3.8;554: Waverley Square - Newton Corner;Main
-556;5.38;1.45;556: Waltham Highlands - Newton Corner;Main
-558;6.79;1.82;558: Riverside - Newton Corner;Main
-712;4.04;1.41;712: Point Shirley - Orient Heights via Revere Street;Main
-713;4.02;1.4;713: Point Shirley - Orient Heights via Winthrop Center;Main
-714;8.03;1.78;714: Pemberton Point Hull - Street;Main
-714-A;7.11;1.58;714: Pemberton Point Hull - Street;A: via Washington Blvd
-714-B;8.86;1.96;714: Pemberton Point Hull - Street;B: via Park Ave and Rockland House Rd
-716;10.52;1.13;716: Cobbs Corner - Mattapan;Main
-Ashmont;11.28;1.3;Red Line;Ashmont
-Blue;5.77;1.13;Blue Line;Main
-Braintree;17.07;1.15;Red Line;Braintree
-CT2;5.52;1.65;CT2: Sullivan Square - Ruggles;Main
-CT3;2.96;1.26;CT3: Beth Israel Deaconess Hospital - Andrew;Main
-Fairmount;9.05;1.02;Fairmount Line;Main
-Fitchburg;49.71;1.18;Fitchburg Line;Main
-Foxboro;21.83;1.05;Foxboro Line;Main
-Franklin;29.41;1.1;Franklin Line;Main
-Green B;6.29;1.11;Green Line;B: Boston College
-Green C;5.08;1.04;Green Line;C: Cleveland Circle
-Green D;13.99;1.64;Green Line;D: Riverside - Union Sq
-Green E;8.38;1.52;Green Line;E: Heath St - Medford / Tufts
-Greenbush;24.29;1.22;Greenbush Line;Main
-Haverhill;31.27;1.11;Haverhill Line;Main
-Kingston;34.71;1.09;Kingston Line;Main
-Lowell;24.31;1.07;Lowell Line;Main
-Mattapan;2.48;1.32;Mattapan Line;Main
-Middleborough;34.56;1.03;Middleborough/Lakeville Line;Main
-Needham;13.09;1.3;Needham Line;Main
-Newburyport;33.83;1.08;Newburyport/Rockport Line;Newburyport
-Orange;10.88;1.13;Orange Line;Main
-Providence;59.7;1.03;Providence/Stoughton Line;Providence
-Rockport;32.0;1.07;Newburyport/Rockport Line;Rockport
-SL1;3.59;1.68;SL1: Logan Airport Terminals - South Station;Main
-SL2;1.63;1.06;SL2: Drydock Avenue - South Station;Main
-SL3;5.17;1.63;SL3: Chelsea - South Station;Main
-SL4;2.3;1.11;SL4: Nubian - South Station;Main
-SL5;2.35;1.23;SL5: Nubian - Temple Place;Main
-Stoughton;18.34;1.15;Providence/Stoughton Line;Stoughton
-Worcester;40.98;1.07;Worcester Line;Main
+1;4.35;1.25;0.19;1: Harvard Square - Nubian;Main
+4-e;2.92;1.43;0.21;4: North Station - Tide Street;via Commerical St and Summer St
+4-w;2.24;1.09;0.25;4: North Station - Tide Street;via Pearl St and Seaport Blvd
+7;2.87;1.65;0.17;7: City Point - Otis Street & Summer Street;Main
+8;7.0;1.96;0.16;8: Harbor Point - Kenmore;Main
+9;3.63;1.48;0.15;9: City Point - Copley;Main
+10;4.94;2.04;0.13;10: City Point - Copley Square;Main
+11-in;4.03;2.26;0.14;11: City Point - Chauncy Street & Summer Street;Inbound
+11-out;4.14;2.32;0.14;11: City Point - Chauncy Street & Summer Street;Outbound
+14;7.92;2.58;0.17;14: Roslindale Square - Heath Street;Main
+15;2.69;1.22;0.15;15: Fields Corner or Kane Square - Ruggles;Main
+16;4.26;1.21;0.20;16: Forest Hills - Andrew or Harbor Point;Main
+16-harbor;5.79;1.47;0.20;16: Forest Hills - Andrew or Harbor Point;to Harbor Point
+17;2.78;1.33;0.12;17: Fields Corner - Andrew;Main
+18;3.64;1.15;0.11;18: Ashmont - Andrew;Main
+19;5.49;1.45;0.15;19: Fields Corner - Kenmore or Ruggles;Main
+21;3.58;1.29;0.19;21: Ashmont - Forest Hills;Main
+22;4.76;1.25;0.18;22: Ashmont - Ruggles via Talbot Ave;Main
+23;4.41;1.16;0.16;23: Ashmont - Ruggles via Washington Street;Main
+24;5.64;1.5;0.13;24: Wakefield Avenue & Truman Parkway - Ashmont;Main
+28;5.43;1.14;0.16;28: Mattapan - Ruggles;Main
+29;4.28;1.11;0.17;29: Mattapan - Jackson Square;Main
+30;3.66;1.45;0.15;30: Mattapan - Forest Hills via Cummins Highway and Roslindale Square;Main
+31;3.1;1.23;0.19;31: Mattapan - Forest Hills via Morton Street;Main
+32;4.51;1.01;0.19;32: Wolcott or Cleary Square - Forest Hills;Main
+33;5.16;1.57;0.16;33: River Street & Milton Street - Mattapan;Main
+34;4.8;1.19;0.18;34: Dedham Mall or Dedham Line - Forest Hills;Main
+34E;13.69;1.06;0.17;34E: Walpole Center - Forest Hills;Main
+35;5.8;1.44;0.16;35: Dedham Mall or Stimson Street - Forest Hills;Main
+36-millennium;4.72;1.34;0.14;36: Millennium Park or VA Hospital - Forest Hills;to Millennium Park
+36-rivermoor;4.86;1.28;0.15;36: Millennium Park or VA Hospital - Forest Hills;via Rivermoor Industrial Park
+36-va;4.08;1.18;0.14;36: Millennium Park or VA Hospital - Forest Hills;to VA Hospital
+37;3.86;1.25;0.13;37: Baker Street & Vermont Street - Forest Hills;Main
+38;3.75;1.62;0.13;38: Wren Street - Forest Hills;Main
+39;4.74;1.26;0.19;39: Forest Hills - Back Bay;Main
+40;4.25;1.22;0.15;40: Georgetowne - Forest Hills;Main
+41;4.6;1.39;0.15;41: Centre Street & Eliot Street - JFK/UMass;Main
+42;2.55;1.01;0.14;42: Forest Hills - Nubian;Main
+43;2.29;1.24;0.16;43: Ruggles - Park Street;Main
+44;3.37;3.17;0.15;44: Jackson Square - Ruggles;Main
+45;3.16;1.34;0.14;45: Franklin Park - Ruggles;Main
+47;5.59;1.99;0.17;47: Central Square Cambridge - Broadway;Main
+50;3.94;1.25;0.14;50: Cleary Square - Forest Hills;Main
+51;7.3;2.44;0.16;51: Reservoir - Forest Hills;Main
+52;10.01;1.36;0.18;52: Dedham Mall - Watertown Yard;Main
+55;1.51;1.22;0.17;55: Jersey Street & Queensberry Street - Copley;Main
+57;5.31;1.12;0.17;57: Watertown Yard - Kenmore;Main
+59;8.69;1.26;0.17;59: Needham Junction - Watertown Square;Main
+60;5.29;1.15;0.20;60: Chestnut Hill - Kenmore;Main
+61;6.07;2.96;0.30;61: North Waltham - Waltham Center;Main
+62;11.78;1.16;0.18;62: Bedford VA Hospital - Alewife;Main
+62/76;18.96;1.87;;62/76: Bedford VA Hospital - Alewife via Hanscom Airport;Main
+64;5.06;1.19;0.17;64: Oak Square - University Park or Kendall/MIT;Main
+65;4.0;1.36;0.15;65: Brighton Center - Kenmore;Main
+66;5.78;1.59;0.17;66: Harvard Square - Nubian;Main
+67;4.3;1.35;0.24;67: Turkey Hill - Alewife;Main
+68;2.02;1.12;0.14;68: Harvard Square - Kendall/MIT;Main
+69;2.29;1.08;0.14;69: Harvard Square - Lechmere;Main
+70;9.34;1.12;0.16;70: Market Place Drive or Waltham Center - University Park;Main
+71;3.59;1.04;0.17;71: Watertown Square - Harvard;Main
+73;3.92;1.04;0.17;73: Waverley Square - Harvard;Main
+74;3.31;1.03;0.16;74: Belmont Center - Harvard via Concord Avenue;Main
+75;3.74;1.16;0.19;75: Belmont Center - Harvard via Huron Avenue;Main
+76;14.12;1.84;0.29;76: Lincoln Lab - Alewife;Main
+77;5.41;1.1;0.17;77: Arlington Heights - Harvard;Main
+78;6.93;1.37;0.15;78: Arlmont Village - Harvard;Main
+80;5.97;1.23;0.15;80: Arlington Center - Lechmere;Main
+83;3.3;1.25;0.14;83: Rindge Avenue - Central Square Cambridge;Main
+85;2.1;1.1;0.16;85: Spring Hill - Kendall/MIT;Main
+86;3.89;1.23;0.18;86: Harvard Square - Reservoir;Main
+87;4.99;1.05;0.14;87: Clarendon Hill or Arlington Center - Lechmere;Main
+88;3.87;1.04;0.15;88: Clarendon Hill - Lechmere;Main
+89-clarendon;3.27;1.02;0.15;89: Clarendon Hill or Davis - Sullivan Square;to Clarendon Hill
+89-davis;2.77;1.13;0.15;89: Clarendon Hill or Davis - Sullivan Square;to Davis
+90;3.72;1.78;0.14;90: Davis - Assembly Row;Main
+91;2.05;1.07;0.15;91: Sullivan Square - Central Square Cambridge;Main
+92;2.4;1.13;0.17;92: Sullivan Square - Downtown via Main Street;Main
+93;2.73;1.28;0.14;93: Sullivan Square - Downtown via Bunker Hill Street;Main
+94;3.99;2.41;0.15;94: Medford Square - Davis;Main
+95-arlington;5.75;1.33;0.17;95: West Medford or Arlington Center - Sullivan Square;to Arlington Center
+95-playstead;5.44;1.26;0.17;95: West Medford or Arlington Center - Sullivan Square;to Playstead Rd
+96;4.29;1.37;0.17;96: Medford Square - Harvard;Main
+97;3.81;2.29;0.20;97: Malden Center - Wellington;Main
+99;5.82;1.68;0.16;99: Woodland Road - Wellington;Main
+100;3.2;1.2;0.18;100: Elm Street - Wellington;Main
+101;5.19;1.76;0.14;101: Malden Center - Sullivan Square via Winter Hill;Main
+104;7.02;1.76;0.15;104: Malden Center - Airport;Main
+105;5.89;1.99;0.14;105: Malden Center - Sullivan Square via Newland Street Housing;Main
+106;4.86;1.57;0.15;106: Lebanon Loop - Wellington;Main
+108;5.49;1.5;0.13;108: Linden Square - Wellington;Main
+109;6.91;1.1;0.17;109: Linden Square - Harvard Square;Main
+110;5.43;1.23;0.16;110: Wonderland - Wellington;Main
+111;4.59;1.18;0.19;111: Woodlawn - Haymarket;Main
+112;7.27;2.28;0.17;112: Wellington - Wood Island;Main
+114;2.54;1.35;0.15;114: Market Basket - Maverick;Main
+116;5.03;1.28;0.16;116: Wonderland - Maverick via Revere Street;Main
+119;5.28;1.87;0.16;119: Northgate Shopping Center - Beachmont;Main
+120;4.28;1.91;0.13;120: Orient Heights - Jeffries Point;Main
+121;1.43;1.26;0.14;121: Wood Island - Maverick;Main
+131;7.0;2.38;0.15;131: Melrose Highlands - Oak Grove or Malden Center;Main
+132;5.86;1.18;0.20;132: Redstone Shopping Center - Malden Center;Main
+134;11.12;1.2;0.17;134: North Woburn - Wellington;Main
+137;10.65;1.57;0.20;137: Reading Depot - Malden Center;Main
+171;6.31;1.53;0.42;171: Logan Airport Terminals - Nubian;Main
+201;2.36;1.5;0.20;201: Fields Corner Loop via Neponset Ave;Main
+202;2.42;1.54;0.12;202: Fields Corner Loop via Adams Street;Main
+210;4.83;1.1;0.16;210: Quincy Center - Fields Corner;Main
+211;5.55;1.7;0.14;211: Quincy Center - Squantum;Main
+215;6.29;1.68;0.14;215: Quincy Center - Ashmont via West Quincy;Main
+216;5.92;1.9;0.11;216: Houghs Neck - Quincy Center via Germantown;Main
+217;8.98;2.4;0.12;217: Quincy Center - Ashmont via Wollaston;Main
+220;7.31;1.17;0.16;220: Hingham Depot - Quincy Center;Main
+222-east-weymouth;5.98;1.22;0.12;222: East Weymouth - Quincy Center;to East Weymouth
+222-pleasant;7.04;1.28;0.13;222: East Weymouth - Quincy Center;to Lovell Corners
+225-quincy;4.26;1.12;0.15;225: Weymouth Landing - Quincy Center;via Quincy Ave
+225-south;4.53;1.19;0.14;225: Weymouth Landing - Quincy Center;via South St
+226;6.02;1.76;0.25;226: Columbian Square - Braintree;Main
+230;10.86;1.08;0.16;230: Montello - Quincy Center;Main
+236;6.67;2.83;0.17;236: South Shore Plaza - Quincy Center;Main
+238;10.71;1.6;0.17;238: Holbrook/Randolph - Quincy Center;Main
+240-avon;11.47;1.08;0.15;240: Avon Square - Ashmont;to Avon
+240-holbrook;10.15;1.12;0.16;240: Avon Square - Ashmont;to Holbrook/Randolph
+245;7.56;1.65;0.15;245: Quincy Center - Mattapan;Main
+350;13.78;1.48;0.21;350: North Burlington - Alewife;Main
+351-emd;2.91;1.12;;351: Bedford Woods Drive - Third Avenue;via EMD
+351-oak-park;3.1;1.19;0.31;351: Bedford Woods Drive - Third Avenue;via Oak Park Dr
+354;17.3;1.27;0.38;354: North Burlington - State Street Boston;Main
+354-cummings;18.33;1.35;0.42;354: North Burlington - State Street Boston;via West Cummings
+411;9.4;2.06;0.16;411: Kennedy Drive or Jack Satter House - Malden Center;Main
+424;7.6;1.43;0.19;424: Eastern Avenue & Essex Street - Wonderland;Main
+426;10.86;1.22;0.25;426: Central Square Lynn - Haymarket or Wonderland;to Haymarket
+426W;8.16;2.01;0.17;426: Central Square Lynn - Haymarket or Wonderland;to Wonderland
+428;11.91;1.54;0.25;428: Oaklandvale - Haymarket;Main
+429;11.31;2.76;0.19;429: Northgate Shopping Center - Central Square Lynn;Main
+430;7.62;1.76;0.18;430: Saugus Center - Malden Center;Main
+435;13.52;2.53;0.20;435: Liberty Tree Mall - Central Square Lynn via Peabody Square;Main
+436;9.63;1.56;0.19;436: Liberty Tree Mall - Central Square Lynn via Goodwin Circle;Main
+439;8.05;1.98;0.28;439: Nahant - Wonderland;Main
+441;11.25;1.14;0.18;441: Marblehead - Wonderland via Paradise Road;Main
+442;10.86;1.1;0.18;442: Marblehead - Wonderland via Humphrey Street;Main
+450;14.7;1.05;0.26;450: Salem Depot - Wonderland or Haymarket;to Haymarket
+450W;10.8;1.18;0.20;450: Salem Depot - Wonderland or Haymarket;to Wonderland
+451-cabot;7.07;1.69;0.17;451: North Beverly - Salem Depot;via Cabot St
+451-tozer;6.76;1.62;0.23;451: North Beverly - Salem Depot;via Tozer Rd
+455;13.01;2.59;0.21;455: Salem Depot - Wonderland;Main
+456;6.23;1.25;0.15;456: Salem Depot - Central Square Lynn;Main
+501;9.07;1.83;0.39;501: Brighton Center - Federal Street & Franklin Street;Main
+504;7.59;1.14;0.69;504: Watertown Yard - Federal Street & Franklin Street;Main
+505;12.94;1.4;0.48;505: Waltham Center - Federal Street & Franklin Street;Main
+553;6.77;1.73;0.15;553: Roberts - Newton Corner;Main
+554;8.02;3.8;0.17;554: Waverley Square - Newton Corner;Main
+556;5.38;1.45;0.15;556: Waltham Highlands - Newton Corner;Main
+558;6.79;1.82;0.17;558: Riverside - Newton Corner;Main
+712;4.04;1.41;0.16;712: Point Shirley - Orient Heights via Revere Street;Main
+713;4.02;1.4;0.17;713: Point Shirley - Orient Heights via Winthrop Center;Main
+714;8.03;1.78;0.62;714: Pemberton Point Hull - Street;Main
+714-A;7.11;1.58;0.65;714: Pemberton Point Hull - Street;A: via Washington Blvd
+714-B;8.86;1.96;0.59;714: Pemberton Point Hull - Street;B: via Park Ave and Rockland House Rd
+716;10.52;1.13;0.53;716: Cobbs Corner - Mattapan;Main
+Ashmont;11.28;1.3;;Red Line;Ashmont
+Blue;5.77;1.13;;Blue Line;Main
+Braintree;17.07;1.15;;Red Line;Braintree
+CT2;5.52;1.65;0.28;CT2: Sullivan Square - Ruggles;Main
+CT3;2.96;1.26;0.37;CT3: Beth Israel Deaconess Hospital - Andrew;Main
+Fairmount;9.05;1.02;;Fairmount Line;Main
+Fitchburg;49.71;1.18;;Fitchburg Line;Main
+Foxboro;21.83;1.05;;Foxboro Line;Main
+Franklin;29.41;1.1;;Franklin Line;Main
+Green B;6.29;1.11;;Green Line;B: Boston College
+Green C;5.08;1.04;;Green Line;C: Cleveland Circle
+Green D;13.99;1.64;;Green Line;D: Riverside - Union Sq
+Green E;8.38;1.52;;Green Line;E: Heath St - Medford / Tufts
+Greenbush;24.29;1.22;;Greenbush Line;Main
+Haverhill;31.27;1.11;;Haverhill Line;Main
+Kingston;34.71;1.09;;Kingston Line;Main
+Lowell;24.31;1.07;;Lowell Line;Main
+Mattapan;2.48;1.32;;Mattapan Line;Main
+Middleborough;34.56;1.03;;Middleborough/Lakeville Line;Main
+Needham;13.09;1.3;;Needham Line;Main
+Newburyport;33.83;1.08;;Newburyport/Rockport Line;Newburyport
+Orange;10.88;1.13;;Orange Line;Main
+Providence;59.7;1.03;;Providence/Stoughton Line;Providence
+Rockport;32.0;1.07;;Newburyport/Rockport Line;Rockport
+SL1;3.59;1.68;;SL1: Logan Airport Terminals - South Station;Main
+SL2;1.63;1.06;;SL2: Drydock Avenue - South Station;Main
+SL3;5.17;1.63;;SL3: Chelsea - South Station;Main
+SL4;2.3;1.11;0.21;SL4: Nubian - South Station;Main
+SL5;2.35;1.23;0.20;SL5: Nubian - Temple Place;Main
+Stoughton;18.34;1.15;;Providence/Stoughton Line;Stoughton
+Worcester;40.98;1.07;;Worcester Line;Main

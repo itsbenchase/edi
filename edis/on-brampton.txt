@@ -1,60 +1,60 @@
-1;15.28;1.39;1: Queen;Main
-1A;9.39;1.4;1A: Queen;Main
-2;8.59;1.11;2: Main;Main
-3;9.11;1.69;3: McLaughlin;Main
-4;10.44;2.36;4: Chinguacousy;Main
-4A;10.99;2.49;4A: Chinguacousy;Main
-5;14.67;1.51;5: Bovaird;Main
-5A;14.29;1.48;5A: Bovaird;Main
-6;9.12;1.58;6: James Potter;Main
-7;11.28;1.22;7: Kennedy;Main
-7A;8.97;1.11;7A: Kennedy;Main
-8;8.35;2.2;8: Centre;Main
-9;11.52;1.35;9: Vodden;Main
-10;4.56;1.44;10: South Industrial;Main
-11;16.08;1.22;11: Steeles;Main
-11A;9.65;1.24;11A: Steeles;Main
-12;6.86;1.71;12: Grenoble;Main
-13;3.15;1.68;13: Avondale;Main
-14;10.44;1.47;14: Torbram;Main
-15;9.72;1.17;15: Bramalea;Main
-15A;7.02;1.24;15A: Bramalea;Main
-16;3.37;1.8;16: Southgate;Main
-17;3.11;1.33;17: Howden;Main
-18;12.87;1.29;18: Dixie;Main
-19;5.15;1.37;19: Fernforest;Main
-20;3.9;1.7;20: East Industrial;Main
-20A;5.8;2.09;20A: East Industrial;Main
-23;17.17;1.61;23: Sandalwood;Main
-24;7.12;1.56;24: Van Kirk;Main
-25;5.86;1.22;25: Edenbrook;Main
-26;4.34;1.48;26: Mount Pleasant;Main
-27;3.07;1.16;27: Robert Parkinson;Main
-28;5.36;1.68;28: Remembrance;Main
-29;10.38;1.19;29: Williams;Main
-29A;12.65;1.34;29A: Williams;Main
-30;9.01;1.2;30: Airport Road;Main
-31;6.21;1.52;31: McVean;Main
-35;9.07;2.29;35: Clarkway;Main
-36;6.37;1.45;36: Gardenbrooke;Main
-41;13.66;1.37;41: Bolton;Main
-50;8.18;1.28;50: Gore Road;Main
-50A;9.76;1.15;50A: Gore Road;Main
-51;4.84;1.24;51: Hereford;Main
-52;3.01;1.51;52: McMurchy;Main
-53;2.84;1.6;53: Ray Lawson;Main
-55;5.21;1.97;55: Elbern Markell;Main
-57;5.35;2.11;57: Charolais;Main
-58;5.1;1.46;58: Financial;Main
-60;7.61;1.27;60: Mississauga Road;Main
-81;3.87;1.5;81: Mayfield West;Main
-104;6.4;1.31;104: Chinguacousy Express;Main
-115;7.73;1.3;115: Pearson Airport Express;Main
-501;14.74;1.05;501: Zum Queen;Main
-502;12.06;1.01;502: Zum Main;Main
-505;13.85;1.46;505: Zum Bovaird;Main
-505A;10.45;1.31;505A: Zum Bovaird;Main
-511;15.73;1.19;511: Zum Steeles;Main
-511A;9.38;1.21;511A: Zum Steeles;Main
-511C;10.16;1.2;511C: Zum Steeles;Main
-561;5.81;1.87;561: Zum Queen West;Main
+1;15.28;1.39;;1: Queen;Main
+1A;9.39;1.4;;1A: Queen;Main
+2;8.59;1.11;;2: Main;Main
+3;9.11;1.69;;3: McLaughlin;Main
+4;10.44;2.36;;4: Chinguacousy;Main
+4A;10.99;2.49;;4A: Chinguacousy;Main
+5;14.67;1.51;;5: Bovaird;Main
+5A;14.29;1.48;;5A: Bovaird;Main
+6;9.12;1.58;;6: James Potter;Main
+7;11.28;1.22;;7: Kennedy;Main
+7A;8.97;1.11;;7A: Kennedy;Main
+8;8.35;2.2;;8: Centre;Main
+9;11.52;1.35;;9: Vodden;Main
+10;4.56;1.44;;10: South Industrial;Main
+11;16.08;1.22;;11: Steeles;Main
+11A;9.65;1.24;;11A: Steeles;Main
+12;6.86;1.71;;12: Grenoble;Main
+13;3.15;1.68;;13: Avondale;Main
+14;10.44;1.47;;14: Torbram;Main
+15;9.72;1.17;;15: Bramalea;Main
+15A;7.02;1.24;;15A: Bramalea;Main
+16;3.37;1.8;;16: Southgate;Main
+17;3.11;1.33;;17: Howden;Main
+18;12.87;1.29;;18: Dixie;Main
+19;5.15;1.37;;19: Fernforest;Main
+20;3.9;1.7;;20: East Industrial;Main
+20A;5.8;2.09;;20A: East Industrial;Main
+23;17.17;1.61;;23: Sandalwood;Main
+24;7.12;1.56;;24: Van Kirk;Main
+25;5.86;1.22;;25: Edenbrook;Main
+26;4.34;1.48;;26: Mount Pleasant;Main
+27;3.07;1.16;;27: Robert Parkinson;Main
+28;5.36;1.68;;28: Remembrance;Main
+29;10.38;1.19;;29: Williams;Main
+29A;12.65;1.34;;29A: Williams;Main
+30;9.01;1.2;;30: Airport Road;Main
+31;6.21;1.52;;31: McVean;Main
+35;9.07;2.29;;35: Clarkway;Main
+36;6.37;1.45;;36: Gardenbrooke;Main
+41;13.66;1.37;;41: Bolton;Main
+50;8.18;1.28;;50: Gore Road;Main
+50A;9.76;1.15;;50A: Gore Road;Main
+51;4.84;1.24;;51: Hereford;Main
+52;3.01;1.51;;52: McMurchy;Main
+53;2.84;1.6;;53: Ray Lawson;Main
+55;5.21;1.97;;55: Elbern Markell;Main
+57;5.35;2.11;;57: Charolais;Main
+58;5.1;1.46;;58: Financial;Main
+60;7.61;1.27;;60: Mississauga Road;Main
+81;3.87;1.5;;81: Mayfield West;Main
+104;6.4;1.31;;104: Chinguacousy Express;Main
+115;7.73;1.3;;115: Pearson Airport Express;Main
+501;14.74;1.05;;501: Zum Queen;Main
+502;12.06;1.01;;502: Zum Main;Main
+505;13.85;1.46;;505: Zum Bovaird;Main
+505A;10.45;1.31;;505A: Zum Bovaird;Main
+511;15.73;1.19;;511: Zum Steeles;Main
+511A;9.38;1.21;;511A: Zum Steeles;Main
+511C;10.16;1.2;;511C: Zum Steeles;Main
+561;5.81;1.87;;561: Zum Queen West;Main

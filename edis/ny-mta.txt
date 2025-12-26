@@ -1,297 +1,297 @@
-1;14.54;1.02;1: Broadway / 7 Ave;Main
-2;24.47;1.26;2: 7 Avenue Express;Main
-3;17.39;1.55;3: 7 Avenue Express;Main
-4;19.65;1.29;4: Lexington Avenue Express;Main
-5;23.45;1.25;5: Lexington Avenue Express;Main
-6;14.47;1.08;6: Lexington Avenue Local;Main
-7;9.84;1.09;7: Flushing Local;Main
-A-ozone;22.76;1.68;A: 8 Avenue Express;to Ozone Park-Lefferts Blvd
-A-rockaway;30.99;1.53;A: 8 Avenue Express;to Far Rockaway-Mott Av
-B;23.32;1.12;B: 6 Avenue Express;Main
-C;17.99;1.5;C: 8 Avenue Local;Main
-D;24.37;1.15;D: 6 Avenue Express;Main
-E;14.84;1.35;E: 8 Avenue Local;Main
-F;25.95;1.86;F: Queens Blvd Express/ 6 Av Local;Main
-G;9.79;1.33;G: Brooklyn-Queens Crosstown;Main
-J;12.95;1.18;J: Nassau St Local;Main
-L;9.76;1.17;L: 14 St-Canarsie Local;Main
-M;17.45;7.07;M: Queens Blvd / 6 Av;Main
-N;19.54;1.38;N: Broadway Local;Main
-Q;17.32;1.2;Q: Broadway Express;Main
-R;20.87;1.71;R: Broadway Local;Main
-S Franklin;1.36;1.0;Franklin Av Shuttle;Main
-S Rockaway;2.67;1.23;Rockaway Park Shuttle;Main
-W;9.4;1.29;W: Broadway Local;Main
-SIR;14.21;1.09;SIR: Staten Island Railway;Main
-B1;6.61;1.19;B1: Bay Ridge - Manhattan Beach;Main
-B2;2.4;1.29;B2: Kings Hwy Station - Kings Plaza;Main
-B3;5.3;1.1;B3: Bensonhurst - Bergen Beach;Main
-B4;8.84;1.4;B4: Bay Ridge - Sheepshead Bay;Main
-B6;9.72;1.26;B6: Bath Beach - East New York;Main
-B7;6.68;1.14;B7: Midwood - Bedford-Stuyvesant;Main
-B8;9.64;1.37;B8: Dyker Heights - East Flatbush;Main
-B9;7.74;1.21;B9: Bay Ridge - Kings Plaza;Main
-B11;5.8;1.4;B11: Sunset Park - Midwood;Main
-B12;4.06;1.14;B12: Lefferts Gardens - East New York;Main
-B13;7.7;1.83;B13: Spring Creek - Wyckoff Hospital;Main
-B14;4.89;1.35;B14: Spring Creek - Crown Heights;Main
-B15;9.25;1.39;B15: Bedford Stuyvesant - JFK Airport;Main
-B16;7.39;1.42;B16: Fort Hamilton Pkwy / 13 & 14 Avs;Main
-B17;4.26;1.29;B17: Canarsie - Crown Heights;Main
-B20;6.93;2.02;B20: Ridgewood - Spring Creek;Main
-B24;6.13;4.26;B24: Greenpoint / Kingsland Avs;Main
-B25;5.66;1.1;B25: Downtown Brooklyn & DUMBO - Broadway Junction;Main
-B26;5.67;1.34;B26: Downtown Brooklyn - Ridgewood;Main
-B31;2.75;1.1;B31: Gerritsen Beach - Kings Hwy Station;Main
-B32;3.46;1.26;B32: Williamsburg - Long Island City;Main
-B35;6.42;1.13;B35: Brownsville - Sunset Park;Main
-B36;4.62;1.26;B36: Sheepshead Bay - Coney Island;Main
-B37;5.93;1.03;B37: Downtown Brooklyn - Bay Ridge;Main
-B38-seneca;5.74;1.27;B38: Ridgewood - Downtown Brooklyn;to Seneca / Cornelia
-B38-starr;5.51;1.33;B38: Ridgewood - Downtown Brooklyn;to Starr / Metropolitan
-B39;1.76;1.0;B39: Williamsburg Bridge Plaza / Brooklyn Lower East;Main
-B41-bergen;7.59;1.12;B41: Flatbush Av;to E 70 / Veterans
-B41-kings;7.2;1.03;B41: Flatbush Av;to Kings Plaza
-B42;1.28;1.01;B42: Rockaway Pkwy;Main
-B43;6.52;1.23;B43: Greenpoint - Lefferts Gardens;Main
-B44;8.8;1.1;B44: Sheepshead Bay - Williamsburg;Main
-B45;4.29;1.11;B45: Downtown Brooklyn - Crown Heights;Main
-B46;7.82;1.09;B46: Kings Plaza - Williamsburg;Main
-B47;7.28;1.17;B47: Kings Plaza - Bedford-Stuyvesant;Main
-B48;5.79;1.21;B48: Lefferts Gardens - Greenpoint;Main
-B49;8.4;1.18;B49: Manhattan Beach - Bedford-Stuyvesant;Main
-B52;5.02;1.18;B52: Downtown Brooklyn - Ridgewood;Main
-B54;4.16;1.03;B54: Downtown Brooklyn - Ridgewood;Main
-B57;7.78;1.19;B57: Gowanus - Maspeth;Main
-B60;7.88;1.45;B60: Williamsburg - Canarsie;Main
-B61;5.33;2.32;B61: Park Slope - Downtown Brooklyn;Main
-B62;7.14;1.47;B62: Downtown Brooklyn - Long Island City;Main
-B63;7.31;1.24;B63: Bay Ridge - Cobble Hill;Main
-B64;6.37;1.26;B64: Bay Ridge - Coney Island;Main
-B65;4.22;1.16;B65: Downtown Brooklyn - Crown Heights;Main
-B67;6.33;1.32;B67: Brooklyn Navy Yard - Kensington;Main
-B68;7.47;1.29;B68: Coney Island - Windsor Terrace;Main
-B69;5.91;1.38;B69: 7 & Vanderbilt Avs;Main
-B70;4.77;1.44;B70: Dyker Heights - Sunset Park;Main
-B74;1.54;1.27;B74: Sea Gate - Stillwell Av;Main
-B82;10.05;1.42;B82: Coney Island - Spring Creek Towers;Main
-B83;4.69;2.1;B83: Spring Creek - Broadway Junction;Main
-B84;1.91;1.48;B84: Spring Creek - New Lots;Main
-B100;4.02;1.84;B100: Mill Basin - Midwood;Main
-B103;10.57;1.75;B103: Canarsie - Downtown Brooklyn Ltd;Main
-B103-nostrand;4.55;1.43;B103: Canarsie - Downtown Brooklyn Ltd;to Flatbush Av / Nostrand Av
-Bx1;7.08;1.41;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
-Bx2;6.98;1.39;Bx2: Kingsbridge Heights - Mott Haven;Main
-Bx3;4.16;1.34;Bx3: Riverdale - George Washington Bridge;Main
-Bx4;4.32;1.03;Bx4: Westchester Sq - The Hub;Main
-Bx4A;3.16;1.15;Bx4A: Westchester Sq - Gladstone Sq;Main
-Bx5;5.37;1.36;Bx5: Pelham Bay - Gladstone Sq;Main
-Bx5-mall;6.56;1.5;Bx5: Pelham Bay - Gladstone Sq;to Bay Plaza Mall
-Bx5-turnbull;2.04;1.08;Bx5: Pelham Bay - Gladstone Sq;to Turnbull / Pugsley
-Bx6;4.59;1.1;Bx6: Hunts Point - Riverside Dr;Main
-Bx7;5.82;1.1;Bx7: Riverdale - Washington Heights;Main
-Bx8;7.99;1.34;Bx8: Williamsbridge - Locust Point;Main
-Bx9;6.15;1.24;Bx9: Riverdale - West Farms Sq;Main
-Bx10;6.85;2.41;Bx10: Riverdale - Norwood;Main
-Bx11;4.58;1.12;Bx11: George Washington Bridge - Parkchester;Main
-Bx12;4.53;1.04;Bx12: Pelham Bay - Inwood;Main
-Bx12-SBS;7.01;1.43;Bx12: Pelham Bay - Inwood;Select Bus Service
-Bx13;2.71;1.36;Bx13: George Washington Bridge - Bronx Terminal Market;Main
-Bx15;3.45;1.02;Bx15: Fordham Plaza - The Hub via 3 Av;Main
-Bx16;6.75;2.02;Bx16: Pelham - Norwood via E 233 / Nereid Av;Main
-Bx17;5.1;1.25;Bx17: Fordham Plaza - Port Morris;Main
-Bx18A;1.65;2.07;Bx18: Morris Heights / High Bridge;A: Undercliff Loop
-Bx18B;1.54;1.83;Bx18: Morris Heights / High Bridge;B: Sedgwick Loop
-Bx19;6.71;1.46;Bx19: NY Botanical Garden - Riverbank Park;Main
-Bx20;3.28;1.73;Bx20: Riverdale - Inwood;Main
-Bx21;6.45;1.33;Bx21: Westchester Sq - Mott Haven;Main
-Bx22;6.16;1.23;Bx22: Bedford Park - Castle Hill;Main
-Bx24;3.99;3.06;Bx24: Country Club - Hutchinson Metro Center;Main
-Bx25;6.02;1.73;Bx25: Co-op City Bay Plaza - Bedford Park;Main
-Bx26;5.09;1.38;Bx26: Co-op City Section 5 - Bedford Park;Main
-Bx27;3.38;1.3;Bx27: Clasons Pt - Gladstone Sq;Main
-Bx28;8.07;2.14;Bx28: Co-op City Section 5 - Fordham Center;Main
-Bx29;3.61;1.47;Bx29: City Island - Pelham Bay;Main
-Bx30;6.06;2.56;Bx30: Co-op City Section 5 - Pelham Parkway;Main
-Bx31;5.65;1.26;Bx31: Woodlawn - Westchester Sq;Main
-Bx32;4.9;1.2;Bx32: Kingsbridge VA Hospital - Mott Haven;Main
-Bx33;2.81;1.25;Bx33: Port Morris - Harlem;Main
-Bx34;3.78;1.2;Bx34: Woodlawn - Fordham Center;Main
-Bx35;3.76;1.24;Bx35: George Washington Bridge-West Farms Road;Main
-Bx36;6.04;1.23;Bx36: Soundview - George Washington Bridge;Main
-Bx38;5.29;1.81;Bx38: Co-op City Bay Plaza - Norwood;Main
-Bx39;7.33;1.11;Bx39: Wakefield - Clasons Pt;Main
-Bx40;7.87;1.14;Bx40: Throgs Neck - River Park Towers;Main
-Bx41;5.27;1.05;Bx41: Williamsbridge - The Hub;Main
-Bx42;7.98;1.43;Bx42: Throgs Neck - River Park Towers;Main
-Bx46;1.88;1.28;Bx46: Prospect Av - Westchester Av / Hunts Point Market;Main
-hrl-l;2.33;3.47;Hudson Rail Link L;Main
-hrl-m;1.74;5.7;Hudson Rail Link M;Main
-M1;8.22;1.07;M1: Fifth / Madison Avs;Main
-M2;9.07;1.11;M2: Fifth / Madison Avs / AC Powell Blvd;Main
-M3;9.94;1.09;M3: Fifth / Madison / St Nicholas Avs;Main
-M4;9.73;1.12;M4: Fifth / Madison Avs / Broadway;Main
-M5;8.08;1.09;M5: George Washington Bridge - 31 St & 6 Av;Main
-M7;7.73;1.17;M7: Columbus / Amsterdam / 6 & 7 Avs;Main
-M8;2.11;1.08;M8: West Village - East Village;Main
-M9;4.34;1.41;M9: Bellevue Hospital Center / Battery Park City;Main
-M10;5.17;1.02;M10: Central Park W / Frederick Douglass Blvd;Main
-M11;4.27;1.0;M11: Riverbank Park & Harlem - West Village;Main
-M12;3.3;1.41;M12: Midtown West - West Village;Main
-M14A;3.4;1.53;M14A: Lower East Side - Abingdon Sq;Main
-M14D;3.04;1.26;M14D: Lower East Side - Chelsea Piers;Main
-M15;8.48;1.04;M15: East Harlem - South Ferry;Main
-M20;5.76;1.15;M20: Lincoln Center - South Ferry;Main
-M21;2.33;1.21;M21: Lower East Side - West Village;Main
-M22;2.42;1.23;M22: Lower East Side - Battery Park City;Main
-M23;2.28;1.1;M23: Chelsea Piers - East Side;Main
-M31;3.79;1.46;M31: 57 St / York Av;Main
-M34;1.91;1.0;M34: East Side - Javits Center;Main
-M34A;2.62;1.49;M34A: Waterside - Port Authority Terminal;Main
-M35;2.34;1.68;M35: Randall's / Ward's Islands;Main
-M42;1.95;1.01;M42: 42 St Crosstown;Main
-M50;2.23;1.16;M50: 49 / 50 Sts Crosstown;Main
-M55;4.18;1.07;M55: W 44 St - South Ferry;Main
-M57;1.35;1.59;M57: East Side - West Side;Main
-M60;8.08;1.4;M60: West Side - LaGuardia Airport;Main
-M66;1.8;1.0;M66: East Side - Lincoln Center;Main
-M72;2.67;1.39;M72: East Side - West Side;Main
-M79;2.09;1.02;M79: Yorkville - West Side;Main
-M86;2.25;1.31;M86: Yorkville - West Side;Main
-M96;1.66;1.01;M96: East Side - West Side;Main
-M98;6.96;1.07;M98: Washington Heights - Upper East Side LTD;Main
-M100;5.69;1.2;M100: Amsterdam Av / Broadway / 125 St;Main
-M101;10.31;1.12;M101: East Village - Fort George;Main
-M102;7.78;1.12;M102: Harlem - East Village;Main
-M103;7.57;1.02;M103: East Harlem - City Hall;Main
-M104;5.34;1.2;M104: West Harlem - Times Square;Main
-M106;2.3;1.24;M106: East Harlem - West Side;Main
-M116;2.65;1.37;M116: West Side - East Harlem;Main
-M125;3.12;1.37;M125: Manhattanville - The Hub via 125 St / Willis Av;Main
-Q1-bellerose;4.32;1.11;Q1: Queens Village / Bellerose - Jamaica;to Bellerose
-Q1-queens-village;4.23;1.31;Q1: Queens Village / Bellerose - Jamaica;to Queens Village
-Q2;4.26;1.2;Q2: Queens Village - Jamaica;Main
-Q3;10.14;2.89;Q3: Jamaica - JFK Airport;Main
-Q4;4.62;1.14;Q4: Cambria Heights - Jamaica;Main
-Q5-green-acres;6.74;1.32;Q5: Rosedale or Green Acres Mall - Jamaica;to Green Acres Mall
-Q5-rosedale;5.69;1.3;Q5: Rosedale or Green Acres Mall - Jamaica;to Rosedale
-Q6;4.97;1.22;Q6: Jamaica - Sutphin Blvd - JFK Cargo Area;Main
-Q7;6.23;1.44;Q7: East NY - Rockaway Blvd - JFK Cargo Area;Main
-Q8;7.28;1.29;Q8: Gateway Mall / East NY - Jamaica;Main
-Q9;2.86;1.25;Q9: South Ozone Park - Jamaica;Main
-Q10;5.28;1.47;Q10: Kew Gardens - JFK Airport;Main
-Q11-96;6.62;1.09;Q11: Elmhurst / Queens Ctr - Old Howard Bch;to 96 St / 165 Av
-Q11-104;6.45;1.05;Q11: Elmhurst / Queens Ctr - Old Howard Bch;to 104 St / 165 Av
-Q12;5.15;1.06;Q12: Little Neck - Flushing;Main
-Q13;5.4;1.8;Q13: Fort Totten - Flushing;Main
-Q15;3.76;1.33;Q15: Flushing - Beechhurst;Main
-Q15A;4.07;1.44;Q15A: Flushing - Beechhurst / Whitestone;Main
-Q16;4.64;1.44;Q16: Fort Totten - Flushing;Main
-Q16-U;4.37;1.36;Q16: Fort Totten - Flushing;U: via Utopia Blvd
-Q17;6.75;1.57;Q17: Flushing - Jamaica;Main
-Q18;5.21;1.34;Q18: Astoria - Maspeth;Main
-Q19;6.08;1.09;Q19: Astoria - Flushing;Main
-Q20A;8.49;1.39;Q20A: College Point - Jamaica;Main
-Q20B;8.86;1.45;Q20B: College Point - Jamaica;Main
-Q21;6.73;1.13;Q21: Elmhurst / Queens Ctr - Howard Beach;Main
-Q22-116;5.41;1.14;Q22: Roxbury - Rockaway Pk - Far Rockaway;to Beach 116 St
-Q22-169;7.88;1.09;Q22: Roxbury - Rockaway Pk - Far Rockaway;to Beach 169 St
-Q23;6.52;1.5;Q23: 108 St;Main
-Q24;7.88;1.1;Q24: Broadway Junction - Jamaica;Main
-Q25;7.93;1.16;Q25: Jamaica - Flushing - College Point;Main
-Q26;3.04;1.07;Q26: Fresh Meadows - Flushing;Main
-Q27;9.21;1.42;Q27: Cambria Heights - Flushing;Main
-Q28;4.51;1.5;Q28: Bayside - Flushing;Main
-Q29;3.57;1.12;Q29: Jackson Heights - Glendale;Main
-Q30-little-neck;7.48;1.22;Q30: Little Neck or Queensborough College - Jamaica;to Little Neck
-Q30-queensborough;5.87;1.29;Q30: Little Neck or Queensborough College - Jamaica;to Queensborough College
-Q31;8.16;1.62;Q31: Bayside - Jamaica;Main
-Q32;7.19;1.32;Q32: Jackson Heights - Penn Station;Main
-Q33;2.32;1.28;Q33: 82 / 83 Sts;Main
-Q34;6.66;1.24;Q34: Jamaica - Flushing - Whitestone;Main
-Q35;8.19;1.23;Q35: Rockaway Park - Brooklyn College;Main
-Q36-floral-park;5.7;1.19;Q36: Floral Park or Little Neck - Jamaica;to Floral Park
-Q36-little-neck;9.26;1.74;Q36: Floral Park or Little Neck - Jamaica;to Little Neck
-Q37;4.64;1.36;Q37: Kew Gardens - South Ozone Park;Main
-Q38;7.1;24.34;Q38: Eliot Av - Penelope Av;Main
-Q39;6.58;1.52;Q39: Long Island City - Ridgewood;Main
-Q40;2.93;1.12;Q40: South Ozone Park - Jamaica;Main
-Q41;6.73;1.49;Q41: Jamaica - Howard Beach;Main
-Q42;2.23;1.54;Q42: Addeslieigh Park - Jamaica;Main
-Q43;6.61;1.07;Q43: Floral Park - Jamaica;Main
-Q44;12.82;1.22;Q44: Bronx Zoo - Jamaica;Main
-Q46-260;7.32;1.15;Q46: Glen Oaks - Kew Gardens;to 260 St / Little Neck Pkwy
-Q46-lij;7.69;1.08;Q46: Glen Oaks - Kew Gardens;to LIJ Medical Center
-Q47;5.69;1.27;Q47: LaGuardia Marine Air Terminal - Glendale;Main
-Q48;3.09;1.53;Q48: Flushing - LaGuardia Airport;Main
-Q49;2.44;1.52;Q49: 35 Av;Main
-Q50-coop;10.96;1.55;Q50: Co-Op City / Pelham Bay - Flushing;to Co-Op City
-Q50-pelham;6.7;1.05;Q50: Co-Op City / Pelham Bay - Flushing;to Pelham Bay
-Q52;12.46;1.18;Q52: Elmhurst - Arverne;Main
-Q53;13.87;1.16;Q53: Woodside - Rockaway Park;Main
-Q54;9.41;1.06;Q54: Williamsburg - Jamaica;Main
-Q55;4.14;1.02;Q55: Ridgewood - Richmond Hill;Main
-Q56;6.51;1.03;Q56: Broadway Junction - Jamaica;Main
-Q58;7.81;1.35;Q58: Ridgewood - Flushing;Main
-Q59;6.83;1.28;Q59: Williamsburg - Rego Park;Main
-Q60;10.51;1.05;Q60: Queens Blvd. - East Midtown;Main
-Q64;2.54;1.18;Q64: Forest Hills - Pomonok;Main
-Q65;8.66;1.33;Q65: Jamaica - Flushing - College Point;Main
-Q66;6.9;1.2;Q66: Flushing - Long Island City;Main
-Q67;6.36;1.97;Q67: Middle Village - Long Island City;Main
-Q69;5.01;1.58;Q69: 21 St - Ditmars Blvd;Main
-Q70;2.83;1.38;Q70: LaGuardia Link;Main
-Q72;3.58;1.26;Q72: LaGuardia Airport - Rego Park;Main
-Q76;9.78;1.76;Q76: College Point - Jamaica;Main
-Q77;6.24;1.76;Q77: Laurelton - Jamaica;Main
-Q83;4.6;1.18;Q83: Cambria Heights - Jamaica;Main
-Q84;5.23;1.29;Q84: Laurelton - Jamaica;Main
-Q85-green-acres;7.13;1.4;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Green Acres Mall
-Q85-rosedale;6.16;1.39;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Rosedale
-Q88;8.77;1.24;Q88: Elmhurst - Queens Village;Main
-Q100;5.19;1.32;Q100: Rikers Island Limited;Main
-Q101;5.1;1.37;Q101: Astoria - East Midtown;Main
-Q102;6.09;3.6;Q102: 31 St - Roosevelt Island;Main
-Q103;3.34;1.3;Q103: Astoria - Hunters Point;Main
-Q104;2.85;1.55;Q104: Broadway / 48th St;Main
-Q110;4.17;1.08;Q110: Floral Park - Jamaica;Main
-Q111;6.33;1.17;Q111: Jamaica - Rosedale;Main
-Q112;3.9;1.41;Q112: Jamaica - Ozone Park;Main
-Q113;9.91;1.21;Q113: Jamaica - Far Rockaway Limited;Main
-Q114;10.96;1.34;Q114: Jamaica - Far Rockaway Limited;Main
-S40;8.12;1.32;S40: St. George - Amazon;Main
-S42;2.5;2.63;S42: St Marks Pl / Bay St;Main
-S44;9.41;1.38;S44: St. George - Staten Island Mall;Main
-S46;8.47;1.23;S46: St. George - West Shore Plaza;Main
-S48;6.74;1.31;S48: St. George - Mariners Harbor;Main
-S51;7.4;1.55;S51: St. George - Grant City;Main
-S52;8.05;1.98;S52: St. George - Staten Island Univ. Hospital;Main
-S53;8.47;1.54;S53: Port Richmond - Bay Ridge;Main
-S54;10.62;1.4;S54: West New Brighton - Eltingville;Main
-S55;9.08;2.29;S55: Annadale Rd / Richmond Av;Main
-S56;7.87;1.86;S56: Huguenot - Staten Island Mall;Main
-S57;9.21;1.71;S57: Rockland / Brielle / Bradley Avs;Main
-S59-eltingville;8.48;1.14;S59: Port Richmond - Tottenville;to Eltingville
-S59-tottenville;14.76;1.35;S59: Port Richmond - Tottenville;to Tottenville
-S61;8.79;1.29;S61: St. George - Staten Island Mall;Main
-S62;8.19;1.07;S62: Victory Blvd;Main
-S66;7.4;2.43;S66: St. George - Port Richmond;Main
-S74;15.8;1.38;S74: Richmond / Arthur Kill Rds;Main
-S76;8.95;1.35;S76: St. George - Oakwood;Main
-S78;17.8;1.55;S78: St. George - Bricktown Mall;Main
-S79;13.75;1.84;S79: Staten Island Mall - Bay Ridge;Main
-S81;7.31;1.55;S81: St. George - Grant City LTD;Main
-S84;15.13;1.33;S84: St. George - Bricktown Mall LTD;Main
-S86;8.77;1.32;S86: St. George - Oakwood LTD;Main
-S89;10.97;1.12;S89: Richmond Av / Bayonne;Main
-S90;7.75;1.28;S90: St. George - Amazon;Main
-S91;8.7;1.28;S91: St. George - Staten Island Mall LTD;Main
-S92;8.1;1.05;S92: Victory Blvd;Main
-S93;7.44;1.13;S93: College of Staten Island - Bay Ridge LTD;Main
-S94;8.77;1.28;S94: St. George - Staten Island Mall LTD;Main
-S96;8.65;1.26;S96: St. George - West Shore Plaza LTD;Main
-S98;6.62;1.28;S98: St. George - Mariners Harbor LTD;Main
-Harlem;51.52;1.05;Harlem Line;Main
-Hudson;68.66;1.04;Hudson Line;Main
-New Haven;69.81;1.04;New Haven Line;Main
-Wassaic;28.24;1.01;Wassaic Shuttle;Main
+1;14.54;1.02;;1: Broadway / 7 Ave;Main
+2;24.47;1.26;;2: 7 Avenue Express;Main
+3;17.39;1.55;;3: 7 Avenue Express;Main
+4;19.65;1.29;;4: Lexington Avenue Express;Main
+5;23.45;1.25;;5: Lexington Avenue Express;Main
+6;14.47;1.08;;6: Lexington Avenue Local;Main
+7;9.84;1.09;;7: Flushing Local;Main
+A-ozone;22.76;1.68;;A: 8 Avenue Express;to Ozone Park-Lefferts Blvd
+A-rockaway;30.99;1.53;;A: 8 Avenue Express;to Far Rockaway-Mott Av
+B;23.32;1.12;;B: 6 Avenue Express;Main
+C;17.99;1.5;;C: 8 Avenue Local;Main
+D;24.37;1.15;;D: 6 Avenue Express;Main
+E;14.84;1.35;;E: 8 Avenue Local;Main
+F;25.95;1.86;;F: Queens Blvd Express/ 6 Av Local;Main
+G;9.79;1.33;;G: Brooklyn-Queens Crosstown;Main
+J;12.95;1.18;;J: Nassau St Local;Main
+L;9.76;1.17;;L: 14 St-Canarsie Local;Main
+M;17.45;7.07;;M: Queens Blvd / 6 Av;Main
+N;19.54;1.38;;N: Broadway Local;Main
+Q;17.32;1.2;;Q: Broadway Express;Main
+R;20.87;1.71;;R: Broadway Local;Main
+S Franklin;1.36;1.0;;Franklin Av Shuttle;Main
+S Rockaway;2.67;1.23;;Rockaway Park Shuttle;Main
+W;9.4;1.29;;W: Broadway Local;Main
+SIR;14.21;1.09;;SIR: Staten Island Railway;Main
+B1;6.61;1.19;;B1: Bay Ridge - Manhattan Beach;Main
+B2;2.4;1.29;;B2: Kings Hwy Station - Kings Plaza;Main
+B3;5.3;1.1;;B3: Bensonhurst - Bergen Beach;Main
+B4;8.84;1.4;;B4: Bay Ridge - Sheepshead Bay;Main
+B6;9.72;1.26;;B6: Bath Beach - East New York;Main
+B7;6.68;1.14;;B7: Midwood - Bedford-Stuyvesant;Main
+B8;9.64;1.37;;B8: Dyker Heights - East Flatbush;Main
+B9;7.74;1.21;;B9: Bay Ridge - Kings Plaza;Main
+B11;5.8;1.4;;B11: Sunset Park - Midwood;Main
+B12;4.06;1.14;;B12: Lefferts Gardens - East New York;Main
+B13;7.7;1.83;;B13: Spring Creek - Wyckoff Hospital;Main
+B14;4.89;1.35;;B14: Spring Creek - Crown Heights;Main
+B15;9.25;1.39;;B15: Bedford Stuyvesant - JFK Airport;Main
+B16;7.39;1.42;;B16: Fort Hamilton Pkwy / 13 & 14 Avs;Main
+B17;4.26;1.29;;B17: Canarsie - Crown Heights;Main
+B20;6.93;2.02;;B20: Ridgewood - Spring Creek;Main
+B24;6.13;4.26;;B24: Greenpoint / Kingsland Avs;Main
+B25;5.66;1.1;;B25: Downtown Brooklyn & DUMBO - Broadway Junction;Main
+B26;5.67;1.34;;B26: Downtown Brooklyn - Ridgewood;Main
+B31;2.75;1.1;;B31: Gerritsen Beach - Kings Hwy Station;Main
+B32;3.46;1.26;;B32: Williamsburg - Long Island City;Main
+B35;6.42;1.13;;B35: Brownsville - Sunset Park;Main
+B36;4.62;1.26;;B36: Sheepshead Bay - Coney Island;Main
+B37;5.93;1.03;;B37: Downtown Brooklyn - Bay Ridge;Main
+B38-seneca;5.74;1.27;;B38: Ridgewood - Downtown Brooklyn;to Seneca / Cornelia
+B38-starr;5.51;1.33;;B38: Ridgewood - Downtown Brooklyn;to Starr / Metropolitan
+B39;1.76;1.0;;B39: Williamsburg Bridge Plaza / Brooklyn Lower East;Main
+B41-bergen;7.59;1.12;;B41: Flatbush Av;to E 70 / Veterans
+B41-kings;7.2;1.03;;B41: Flatbush Av;to Kings Plaza
+B42;1.28;1.01;;B42: Rockaway Pkwy;Main
+B43;6.52;1.23;;B43: Greenpoint - Lefferts Gardens;Main
+B44;8.8;1.1;;B44: Sheepshead Bay - Williamsburg;Main
+B45;4.29;1.11;;B45: Downtown Brooklyn - Crown Heights;Main
+B46;7.82;1.09;;B46: Kings Plaza - Williamsburg;Main
+B47;7.28;1.17;;B47: Kings Plaza - Bedford-Stuyvesant;Main
+B48;5.79;1.21;;B48: Lefferts Gardens - Greenpoint;Main
+B49;8.4;1.18;;B49: Manhattan Beach - Bedford-Stuyvesant;Main
+B52;5.02;1.18;;B52: Downtown Brooklyn - Ridgewood;Main
+B54;4.16;1.03;;B54: Downtown Brooklyn - Ridgewood;Main
+B57;7.78;1.19;;B57: Gowanus - Maspeth;Main
+B60;7.88;1.45;;B60: Williamsburg - Canarsie;Main
+B61;5.33;2.32;;B61: Park Slope - Downtown Brooklyn;Main
+B62;7.14;1.47;;B62: Downtown Brooklyn - Long Island City;Main
+B63;7.31;1.24;;B63: Bay Ridge - Cobble Hill;Main
+B64;6.37;1.26;;B64: Bay Ridge - Coney Island;Main
+B65;4.22;1.16;;B65: Downtown Brooklyn - Crown Heights;Main
+B67;6.33;1.32;;B67: Brooklyn Navy Yard - Kensington;Main
+B68;7.47;1.29;;B68: Coney Island - Windsor Terrace;Main
+B69;5.91;1.38;;B69: 7 & Vanderbilt Avs;Main
+B70;4.77;1.44;;B70: Dyker Heights - Sunset Park;Main
+B74;1.54;1.27;;B74: Sea Gate - Stillwell Av;Main
+B82;10.05;1.42;;B82: Coney Island - Spring Creek Towers;Main
+B83;4.69;2.1;;B83: Spring Creek - Broadway Junction;Main
+B84;1.91;1.48;;B84: Spring Creek - New Lots;Main
+B100;4.02;1.84;;B100: Mill Basin - Midwood;Main
+B103;10.57;1.75;;B103: Canarsie - Downtown Brooklyn Ltd;Main
+B103-nostrand;4.55;1.43;;B103: Canarsie - Downtown Brooklyn Ltd;to Flatbush Av / Nostrand Av
+Bx1;7.08;1.41;;Bx1: Riverdale / Kingsbridge Heights - Mott Haven;Main
+Bx2;6.98;1.39;;Bx2: Kingsbridge Heights - Mott Haven;Main
+Bx3;4.16;1.34;;Bx3: Riverdale - George Washington Bridge;Main
+Bx4;4.32;1.03;;Bx4: Westchester Sq - The Hub;Main
+Bx4A;3.16;1.15;;Bx4A: Westchester Sq - Gladstone Sq;Main
+Bx5;5.37;1.36;;Bx5: Pelham Bay - Gladstone Sq;Main
+Bx5-mall;6.56;1.5;;Bx5: Pelham Bay - Gladstone Sq;to Bay Plaza Mall
+Bx5-turnbull;2.04;1.08;;Bx5: Pelham Bay - Gladstone Sq;to Turnbull / Pugsley
+Bx6;4.59;1.1;;Bx6: Hunts Point - Riverside Dr;Main
+Bx7;5.82;1.1;;Bx7: Riverdale - Washington Heights;Main
+Bx8;7.99;1.34;;Bx8: Williamsbridge - Locust Point;Main
+Bx9;6.15;1.24;;Bx9: Riverdale - West Farms Sq;Main
+Bx10;6.85;2.41;;Bx10: Riverdale - Norwood;Main
+Bx11;4.58;1.12;;Bx11: George Washington Bridge - Parkchester;Main
+Bx12;4.53;1.04;;Bx12: Pelham Bay - Inwood;Main
+Bx12-SBS;7.01;1.43;;Bx12: Pelham Bay - Inwood;Select Bus Service
+Bx13;2.71;1.36;;Bx13: George Washington Bridge - Bronx Terminal Market;Main
+Bx15;3.45;1.02;;Bx15: Fordham Plaza - The Hub via 3 Av;Main
+Bx16;6.75;2.02;;Bx16: Pelham - Norwood via E 233 / Nereid Av;Main
+Bx17;5.1;1.25;;Bx17: Fordham Plaza - Port Morris;Main
+Bx18A;1.65;2.07;;Bx18: Morris Heights / High Bridge;A: Undercliff Loop
+Bx18B;1.54;1.83;;Bx18: Morris Heights / High Bridge;B: Sedgwick Loop
+Bx19;6.71;1.46;;Bx19: NY Botanical Garden - Riverbank Park;Main
+Bx20;3.28;1.73;;Bx20: Riverdale - Inwood;Main
+Bx21;6.45;1.33;;Bx21: Westchester Sq - Mott Haven;Main
+Bx22;6.16;1.23;;Bx22: Bedford Park - Castle Hill;Main
+Bx24;3.99;3.06;;Bx24: Country Club - Hutchinson Metro Center;Main
+Bx25;6.02;1.73;;Bx25: Co-op City Bay Plaza - Bedford Park;Main
+Bx26;5.09;1.38;;Bx26: Co-op City Section 5 - Bedford Park;Main
+Bx27;3.38;1.3;;Bx27: Clasons Pt - Gladstone Sq;Main
+Bx28;8.07;2.14;;Bx28: Co-op City Section 5 - Fordham Center;Main
+Bx29;3.61;1.47;;Bx29: City Island - Pelham Bay;Main
+Bx30;6.06;2.56;;Bx30: Co-op City Section 5 - Pelham Parkway;Main
+Bx31;5.65;1.26;;Bx31: Woodlawn - Westchester Sq;Main
+Bx32;4.9;1.2;;Bx32: Kingsbridge VA Hospital - Mott Haven;Main
+Bx33;2.81;1.25;;Bx33: Port Morris - Harlem;Main
+Bx34;3.78;1.2;;Bx34: Woodlawn - Fordham Center;Main
+Bx35;3.76;1.24;;Bx35: George Washington Bridge-West Farms Road;Main
+Bx36;6.04;1.23;;Bx36: Soundview - George Washington Bridge;Main
+Bx38;5.29;1.81;;Bx38: Co-op City Bay Plaza - Norwood;Main
+Bx39;7.33;1.11;;Bx39: Wakefield - Clasons Pt;Main
+Bx40;7.87;1.14;;Bx40: Throgs Neck - River Park Towers;Main
+Bx41;5.27;1.05;;Bx41: Williamsbridge - The Hub;Main
+Bx42;7.98;1.43;;Bx42: Throgs Neck - River Park Towers;Main
+Bx46;1.88;1.28;;Bx46: Prospect Av - Westchester Av / Hunts Point Market;Main
+hrl-l;2.33;3.47;;Hudson Rail Link L;Main
+hrl-m;1.74;5.7;;Hudson Rail Link M;Main
+M1;8.22;1.07;;M1: Fifth / Madison Avs;Main
+M2;9.07;1.11;;M2: Fifth / Madison Avs / AC Powell Blvd;Main
+M3;9.94;1.09;;M3: Fifth / Madison / St Nicholas Avs;Main
+M4;9.73;1.12;;M4: Fifth / Madison Avs / Broadway;Main
+M5;8.08;1.09;;M5: George Washington Bridge - 31 St & 6 Av;Main
+M7;7.73;1.17;;M7: Columbus / Amsterdam / 6 & 7 Avs;Main
+M8;2.11;1.08;;M8: West Village - East Village;Main
+M9;4.34;1.41;;M9: Bellevue Hospital Center / Battery Park City;Main
+M10;5.17;1.02;;M10: Central Park W / Frederick Douglass Blvd;Main
+M11;4.27;1.0;;M11: Riverbank Park & Harlem - West Village;Main
+M12;3.3;1.41;;M12: Midtown West - West Village;Main
+M14A;3.4;1.53;;M14A: Lower East Side - Abingdon Sq;Main
+M14D;3.04;1.26;;M14D: Lower East Side - Chelsea Piers;Main
+M15;8.48;1.04;;M15: East Harlem - South Ferry;Main
+M20;5.76;1.15;;M20: Lincoln Center - South Ferry;Main
+M21;2.33;1.21;;M21: Lower East Side - West Village;Main
+M22;2.42;1.23;;M22: Lower East Side - Battery Park City;Main
+M23;2.28;1.1;;M23: Chelsea Piers - East Side;Main
+M31;3.79;1.46;;M31: 57 St / York Av;Main
+M34;1.91;1.0;;M34: East Side - Javits Center;Main
+M34A;2.62;1.49;;M34A: Waterside - Port Authority Terminal;Main
+M35;2.34;1.68;;M35: Randall's / Ward's Islands;Main
+M42;1.95;1.01;;M42: 42 St Crosstown;Main
+M50;2.23;1.16;;M50: 49 / 50 Sts Crosstown;Main
+M55;4.18;1.07;;M55: W 44 St - South Ferry;Main
+M57;1.35;1.59;;M57: East Side - West Side;Main
+M60;8.08;1.4;;M60: West Side - LaGuardia Airport;Main
+M66;1.8;1.0;;M66: East Side - Lincoln Center;Main
+M72;2.67;1.39;;M72: East Side - West Side;Main
+M79;2.09;1.02;;M79: Yorkville - West Side;Main
+M86;2.25;1.31;;M86: Yorkville - West Side;Main
+M96;1.66;1.01;;M96: East Side - West Side;Main
+M98;6.96;1.07;;M98: Washington Heights - Upper East Side LTD;Main
+M100;5.69;1.2;;M100: Amsterdam Av / Broadway / 125 St;Main
+M101;10.31;1.12;;M101: East Village - Fort George;Main
+M102;7.78;1.12;;M102: Harlem - East Village;Main
+M103;7.57;1.02;;M103: East Harlem - City Hall;Main
+M104;5.34;1.2;;M104: West Harlem - Times Square;Main
+M106;2.3;1.24;;M106: East Harlem - West Side;Main
+M116;2.65;1.37;;M116: West Side - East Harlem;Main
+M125;3.12;1.37;;M125: Manhattanville - The Hub via 125 St / Willis Av;Main
+Q1-bellerose;4.32;1.11;;Q1: Queens Village / Bellerose - Jamaica;to Bellerose
+Q1-queens-village;4.23;1.31;;Q1: Queens Village / Bellerose - Jamaica;to Queens Village
+Q2;4.26;1.2;;Q2: Queens Village - Jamaica;Main
+Q3;10.14;2.89;;Q3: Jamaica - JFK Airport;Main
+Q4;4.62;1.14;;Q4: Cambria Heights - Jamaica;Main
+Q5-green-acres;6.74;1.32;;Q5: Rosedale or Green Acres Mall - Jamaica;to Green Acres Mall
+Q5-rosedale;5.69;1.3;;Q5: Rosedale or Green Acres Mall - Jamaica;to Rosedale
+Q6;4.97;1.22;;Q6: Jamaica - Sutphin Blvd - JFK Cargo Area;Main
+Q7;6.23;1.44;;Q7: East NY - Rockaway Blvd - JFK Cargo Area;Main
+Q8;7.28;1.29;;Q8: Gateway Mall / East NY - Jamaica;Main
+Q9;2.86;1.25;;Q9: South Ozone Park - Jamaica;Main
+Q10;5.28;1.47;;Q10: Kew Gardens - JFK Airport;Main
+Q11-96;6.62;1.09;;Q11: Elmhurst / Queens Ctr - Old Howard Bch;to 96 St / 165 Av
+Q11-104;6.45;1.05;;Q11: Elmhurst / Queens Ctr - Old Howard Bch;to 104 St / 165 Av
+Q12;5.15;1.06;;Q12: Little Neck - Flushing;Main
+Q13;5.4;1.8;;Q13: Fort Totten - Flushing;Main
+Q15;3.76;1.33;;Q15: Flushing - Beechhurst;Main
+Q15A;4.07;1.44;;Q15A: Flushing - Beechhurst / Whitestone;Main
+Q16;4.64;1.44;;Q16: Fort Totten - Flushing;Main
+Q16-U;4.37;1.36;;Q16: Fort Totten - Flushing;U: via Utopia Blvd
+Q17;6.75;1.57;;Q17: Flushing - Jamaica;Main
+Q18;5.21;1.34;;Q18: Astoria - Maspeth;Main
+Q19;6.08;1.09;;Q19: Astoria - Flushing;Main
+Q20A;8.49;1.39;;Q20A: College Point - Jamaica;Main
+Q20B;8.86;1.45;;Q20B: College Point - Jamaica;Main
+Q21;6.73;1.13;;Q21: Elmhurst / Queens Ctr - Howard Beach;Main
+Q22-116;5.41;1.14;;Q22: Roxbury - Rockaway Pk - Far Rockaway;to Beach 116 St
+Q22-169;7.88;1.09;;Q22: Roxbury - Rockaway Pk - Far Rockaway;to Beach 169 St
+Q23;6.52;1.5;;Q23: 108 St;Main
+Q24;7.88;1.1;;Q24: Broadway Junction - Jamaica;Main
+Q25;7.93;1.16;;Q25: Jamaica - Flushing - College Point;Main
+Q26;3.04;1.07;;Q26: Fresh Meadows - Flushing;Main
+Q27;9.21;1.42;;Q27: Cambria Heights - Flushing;Main
+Q28;4.51;1.5;;Q28: Bayside - Flushing;Main
+Q29;3.57;1.12;;Q29: Jackson Heights - Glendale;Main
+Q30-little-neck;7.48;1.22;;Q30: Little Neck or Queensborough College - Jamaica;to Little Neck
+Q30-queensborough;5.87;1.29;;Q30: Little Neck or Queensborough College - Jamaica;to Queensborough College
+Q31;8.16;1.62;;Q31: Bayside - Jamaica;Main
+Q32;7.19;1.32;;Q32: Jackson Heights - Penn Station;Main
+Q33;2.32;1.28;;Q33: 82 / 83 Sts;Main
+Q34;6.66;1.24;;Q34: Jamaica - Flushing - Whitestone;Main
+Q35;8.19;1.23;;Q35: Rockaway Park - Brooklyn College;Main
+Q36-floral-park;5.7;1.19;;Q36: Floral Park or Little Neck - Jamaica;to Floral Park
+Q36-little-neck;9.26;1.74;;Q36: Floral Park or Little Neck - Jamaica;to Little Neck
+Q37;4.64;1.36;;Q37: Kew Gardens - South Ozone Park;Main
+Q38;7.1;24.34;;Q38: Eliot Av - Penelope Av;Main
+Q39;6.58;1.52;;Q39: Long Island City - Ridgewood;Main
+Q40;2.93;1.12;;Q40: South Ozone Park - Jamaica;Main
+Q41;6.73;1.49;;Q41: Jamaica - Howard Beach;Main
+Q42;2.23;1.54;;Q42: Addeslieigh Park - Jamaica;Main
+Q43;6.61;1.07;;Q43: Floral Park - Jamaica;Main
+Q44;12.82;1.22;;Q44: Bronx Zoo - Jamaica;Main
+Q46-260;7.32;1.15;;Q46: Glen Oaks - Kew Gardens;to 260 St / Little Neck Pkwy
+Q46-lij;7.69;1.08;;Q46: Glen Oaks - Kew Gardens;to LIJ Medical Center
+Q47;5.69;1.27;;Q47: LaGuardia Marine Air Terminal - Glendale;Main
+Q48;3.09;1.53;;Q48: Flushing - LaGuardia Airport;Main
+Q49;2.44;1.52;;Q49: 35 Av;Main
+Q50-coop;10.96;1.55;;Q50: Co-Op City / Pelham Bay - Flushing;to Co-Op City
+Q50-pelham;6.7;1.05;;Q50: Co-Op City / Pelham Bay - Flushing;to Pelham Bay
+Q52;12.46;1.18;;Q52: Elmhurst - Arverne;Main
+Q53;13.87;1.16;;Q53: Woodside - Rockaway Park;Main
+Q54;9.41;1.06;;Q54: Williamsburg - Jamaica;Main
+Q55;4.14;1.02;;Q55: Ridgewood - Richmond Hill;Main
+Q56;6.51;1.03;;Q56: Broadway Junction - Jamaica;Main
+Q58;7.81;1.35;;Q58: Ridgewood - Flushing;Main
+Q59;6.83;1.28;;Q59: Williamsburg - Rego Park;Main
+Q60;10.51;1.05;;Q60: Queens Blvd. - East Midtown;Main
+Q64;2.54;1.18;;Q64: Forest Hills - Pomonok;Main
+Q65;8.66;1.33;;Q65: Jamaica - Flushing - College Point;Main
+Q66;6.9;1.2;;Q66: Flushing - Long Island City;Main
+Q67;6.36;1.97;;Q67: Middle Village - Long Island City;Main
+Q69;5.01;1.58;;Q69: 21 St - Ditmars Blvd;Main
+Q70;2.83;1.38;;Q70: LaGuardia Link;Main
+Q72;3.58;1.26;;Q72: LaGuardia Airport - Rego Park;Main
+Q76;9.78;1.76;;Q76: College Point - Jamaica;Main
+Q77;6.24;1.76;;Q77: Laurelton - Jamaica;Main
+Q83;4.6;1.18;;Q83: Cambria Heights - Jamaica;Main
+Q84;5.23;1.29;;Q84: Laurelton - Jamaica;Main
+Q85-green-acres;7.13;1.4;;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Green Acres Mall
+Q85-rosedale;6.16;1.39;;Q85: Rosedale or Green Acres Shopping Mall - Jamaica;to Rosedale
+Q88;8.77;1.24;;Q88: Elmhurst - Queens Village;Main
+Q100;5.19;1.32;;Q100: Rikers Island Limited;Main
+Q101;5.1;1.37;;Q101: Astoria - East Midtown;Main
+Q102;6.09;3.6;;Q102: 31 St - Roosevelt Island;Main
+Q103;3.34;1.3;;Q103: Astoria - Hunters Point;Main
+Q104;2.85;1.55;;Q104: Broadway / 48th St;Main
+Q110;4.17;1.08;;Q110: Floral Park - Jamaica;Main
+Q111;6.33;1.17;;Q111: Jamaica - Rosedale;Main
+Q112;3.9;1.41;;Q112: Jamaica - Ozone Park;Main
+Q113;9.91;1.21;;Q113: Jamaica - Far Rockaway Limited;Main
+Q114;10.96;1.34;;Q114: Jamaica - Far Rockaway Limited;Main
+S40;8.12;1.32;;S40: St. George - Amazon;Main
+S42;2.5;2.63;;S42: St Marks Pl / Bay St;Main
+S44;9.41;1.38;;S44: St. George - Staten Island Mall;Main
+S46;8.47;1.23;;S46: St. George - West Shore Plaza;Main
+S48;6.74;1.31;;S48: St. George - Mariners Harbor;Main
+S51;7.4;1.55;;S51: St. George - Grant City;Main
+S52;8.05;1.98;;S52: St. George - Staten Island Univ. Hospital;Main
+S53;8.47;1.54;;S53: Port Richmond - Bay Ridge;Main
+S54;10.62;1.4;;S54: West New Brighton - Eltingville;Main
+S55;9.08;2.29;;S55: Annadale Rd / Richmond Av;Main
+S56;7.87;1.86;;S56: Huguenot - Staten Island Mall;Main
+S57;9.21;1.71;;S57: Rockland / Brielle / Bradley Avs;Main
+S59-eltingville;8.48;1.14;;S59: Port Richmond - Tottenville;to Eltingville
+S59-tottenville;14.76;1.35;;S59: Port Richmond - Tottenville;to Tottenville
+S61;8.79;1.29;;S61: St. George - Staten Island Mall;Main
+S62;8.19;1.07;;S62: Victory Blvd;Main
+S66;7.4;2.43;;S66: St. George - Port Richmond;Main
+S74;15.8;1.38;;S74: Richmond / Arthur Kill Rds;Main
+S76;8.95;1.35;;S76: St. George - Oakwood;Main
+S78;17.8;1.55;;S78: St. George - Bricktown Mall;Main
+S79;13.75;1.84;;S79: Staten Island Mall - Bay Ridge;Main
+S81;7.31;1.55;;S81: St. George - Grant City LTD;Main
+S84;15.13;1.33;;S84: St. George - Bricktown Mall LTD;Main
+S86;8.77;1.32;;S86: St. George - Oakwood LTD;Main
+S89;10.97;1.12;;S89: Richmond Av / Bayonne;Main
+S90;7.75;1.28;;S90: St. George - Amazon;Main
+S91;8.7;1.28;;S91: St. George - Staten Island Mall LTD;Main
+S92;8.1;1.05;;S92: Victory Blvd;Main
+S93;7.44;1.13;;S93: College of Staten Island - Bay Ridge LTD;Main
+S94;8.77;1.28;;S94: St. George - Staten Island Mall LTD;Main
+S96;8.65;1.26;;S96: St. George - West Shore Plaza LTD;Main
+S98;6.62;1.28;;S98: St. George - Mariners Harbor LTD;Main
+Harlem;51.52;1.05;;Harlem Line;Main
+Hudson;68.66;1.04;;Hudson Line;Main
+New Haven;69.81;1.04;;New Haven Line;Main
+Wassaic;28.24;1.01;;Wassaic Shuttle;Main
