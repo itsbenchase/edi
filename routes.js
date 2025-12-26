@@ -5,6 +5,7 @@ const agencyLines = [];
 const routeCodes = [];
 const routeLengths = [];
 const routeEdis = [];
+const routeSpacings = [];
 
 function getAgencies()
 {
@@ -34,6 +35,7 @@ function getRoutes()
   routeCodes.length = 0;
   routeLengths.length = 0;
   routeEdis.length = 0;
+  routeSpacings.length = 0;
 
   var selectedAgency = document.querySelector('#agencyDrop');
   var agency = selectedAgency.value;
@@ -53,6 +55,8 @@ function getRoutes()
           routeLengths.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
           routeEdis.push(data.substring(0, data.indexOf(";")));
+          data = data.substr(data.indexOf(";") + 1);
+          routeSpacings.push(data.substring(0, data.indexOf(";")));
         }
 
         fillTable();
@@ -61,11 +65,11 @@ function getRoutes()
 
 function fillTable()
 {
-  document.getElementById("listing").innerHTML += ("<tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th></tr> \n")
+  document.getElementById("listing").innerHTML += ("<tr><th>Route Code</th><th>Line Length</th><th>Eliot Deviation Index</th><th>Stop Spacing</th></tr> \n")
 
   for (let i = 0; i < routeCodes.length; i++)
   {
-    document.getElementById("listing").innerHTML += ("<tr><td style=color:#ff0000>" + routeCodes[i] + "</td><td>" + routeLengths[i] + " mi.</td><td>" + routeEdis[i] + "</td></tr> \n") 
+    document.getElementById("listing").innerHTML += ("<tr><td style=color:#ff0000>" + routeCodes[i] + "</td><td>" + routeLengths[i] + " mi.</td><td>" + routeEdis[i] + "</td><td>" + routeSpacings[i] + " mi.</td></tr> \n") 
   }
 
   getStats();
@@ -77,14 +81,17 @@ function getStats()
   // apparently this fixes the number sorting issues
   var medianEdi = 0.00;
   var medianLength = 0.00;
+  var medianSpacings = 0.00;
   var totalMiles = 0.00;
 
   // we need copies
   const lineEdis2 = [...routeEdis];
   const lineLengths2 = [...routeLengths];
+  const lineSpacings2 = [...routeSpacings];
 
   lineEdis2.sort(function(a, b){return a - b;});
   lineLengths2.sort(function(a, b){return a - b;});
+  lineSpacings2.sort(function(a, b){return a - b;});
 
   // total miles
   for (let i = 0; i < lineLengths2.length; i++)
@@ -123,6 +130,37 @@ function getStats()
     }
     medianEdi = Math.round(medianEdi * 100) / 100;
     document.getElementById("medianEdi").innerHTML = (medianEdi);
+  }
+
+  // median spacing
+  if (lineSpacings2.length % 2 == 1) // odd amount of spacings
+  {
+    if (lineSpacings2.length == 1)
+    {
+      medianSpacings = lineSpacings2[0];
+    }
+    else
+    {
+      medianSpacings = lineSpacings2[Math.round(lineSpacings2.length / 2) - 1];
+    }
+    document.getElementById("medianSpacing").innerHTML = (medianSpacings);
+  }
+  else // even amount of spacings
+  {
+    if (lineEdis2.length == 2)
+    {
+      var val1 = parseFloat(lineSpacings2[0]);
+      var val2 = parseFloat(lineSpacings2[1]);
+      medianSpacings = (val1 + val2) / 2;
+    }
+    else
+    {
+      var val1 = parseFloat(lineSpacings2[(lineSpacings2.length / 2) - 1]);
+      var val2 = parseFloat(lineSpacings2[(lineSpacings2.length / 2)]);
+      medianSpacings = (val1 + val2) / 2;
+    }
+    medianSpacings = Math.round(medianSpacings * 100) / 100;
+    document.getElementById("medianSpacing").innerHTML = (medianSpacings + " mi.");
   }
 
   // median length
