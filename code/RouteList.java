@@ -269,7 +269,8 @@ public class RouteList
       fileWriter1.append("<tr><td><b>Route Count</b></td><td>" + routeCount + "</td><td id=\"agencyRoutes\"></td></tr> \n");
       fileWriter1.append("<tr><td><b>Total Miles</b></td><td>" + totals + " mi.</td><td id=\"agencyMiles\"></td></tr> \n");
       fileWriter1.append("<tr><td><b>Median Length</b></td><td>" + medianLength + " mi.</td><td id=\"medianLength\"></td></tr> \n");
-      fileWriter1.append("<tr><td><b>Median EDI</b></td><td>" + medianEdi + "</td><td id=\"medianEdi\"></td></tr></table> \n");
+      fileWriter1.append("<tr><td><b>Median EDI</b></td><td>" + medianEdi + "</td><td id=\"medianEdi\"></td></tr>< \n");
+      fileWriter1.append("<tr><td><b>Median Spacing</b></td><td></td><td id=\"medianSpacing\"></td></tr></table> \n");
       fileWriter1.append("<p><table id=\"listing\"></p>");
       fileWriter1.close();
       System.out.println("Route Count: " + routeCount);
