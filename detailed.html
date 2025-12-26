@@ -154,6 +154,7 @@ function getOption()
             const lineEdis = [];
             const lineNames = [];
             const lineBranches = [];
+            const lineSpacing = [];
             const fullLineOption = [];
 
             for (let i = 0; i < routeFile.length; i++)
@@ -164,6 +165,8 @@ function getOption()
                 lineLengths.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
                 lineEdis.push(data.substring(0, data.indexOf(";")));
+                data = data.substr(data.indexOf(";") + 1);
+                lineSpacing.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
                 lineNames.push(data.substring(0, data.indexOf(";")));
                 data = data.substr(data.indexOf(";") + 1);
@@ -533,7 +536,7 @@ function cumulative(pos, cumCount)
     dist = Math.round(dist * 100.0) / 100.0;
 
     // calculate average spacing
-    spacing = dist / cumCount;
+    spacing = dist / (cumCount - 1);
     spacing = Math.round(spacing * 100.0) / 100.0;
 
     // display
@@ -547,6 +550,7 @@ function cumulative(pos, cumCount)
     {
         document.getElementById("length").innerHTML = ("<b>Length: </b>");
         document.getElementById("index").innerHTML = ("<b>EDI: </b>");
+        document.getElementById("spacing").innerHTML = ("<b>Stop Spacing: </b>");
     }
 }
 
@@ -677,7 +681,7 @@ function getStats(listFile)
             document.getElementById("branch").innerHTML = ("<b>Branch: </b>" + lineBranches[i]);
             document.getElementById("length").innerHTML += (lineLengths[i] + " miles (" + percentMLength + "% of median)");
             document.getElementById("index").innerHTML += (lineEdis[i] + " (" + percentMEdi + "% of median)");
-            document.getElementById("spacing").innerHTML += (spacing);
+            document.getElementById("spacing").innerHTML += (spacing + " mi.");
         }
     }
 }
