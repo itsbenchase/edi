@@ -46,7 +46,7 @@ public class ImportIndex
     try
     {
       Scanner s = new Scanner(new File("../stops/list/" + agency + ".txt"));
-      //int z = 0; // debugging in case of issue
+      int z = 0; // debugging in case of issue
       while (s.hasNextLine())
       {
         String data = s.nextLine();
@@ -57,8 +57,8 @@ public class ImportIndex
         double lat = Double.parseDouble(data.substring(0, data.indexOf(";")));
         data = data.substring(data.indexOf(";") + 1);
         double lon = Double.parseDouble(data);
-        //z++;
-        //System.out.println(z);
+        z++;
+        System.out.println(z);
         stops.add(new Stop(id, name, lat, lon));
       }
     }
