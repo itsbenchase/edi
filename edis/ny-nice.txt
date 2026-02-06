@@ -1,34 +1,34 @@
-n1;7.89;1.83;;n1: Jamaica / Elmont - Hewlett;to Elmont
-n1-jamaica;13.05;1.88;;n1: Jamaica / Elmont - Hewlett;to Jamaica
-n4;12.88;1.09;;n4: Jamaica - Freeport;Main
-n6;9.8;1.09;;n6: Jamaica - Hempstead;Main
-n15;12.3;1.17;;n15: Mineola / Garden City - Long Beach;Main
-n15-M;12.63;1.21;;n15: Mineola / Garden City - Long Beach;to Mineola
-n16;8.64;1.48;;n16: Garden City - Rockville Centre;Main
-n19;8.94;1.12;;n19: Freeport - Massapequa;Main
-n20g;7.27;1.26;;n20G: Great Neck - Flushing;Main
-n20h;12.8;1.23;;n20H: Great Neck - Hicksville;Main
-n21;10.03;1.4;;n21: Great Neck - Glen Cove;Main
-n22;17.63;1.2;;n22: Jamaica - Mineola / Hicksville;Main
-n23;10.8;1.37;;n23: Mineola - Manorhaven;Main
-n24;17.01;1.16;;n24: Jamaica - Garden City / Hicksville;Main
-n25;13.34;1.41;;n25: Lynbrook - Great Neck;Main
-n26;11.57;1.75;;n26: Jamaica - Great Neck;Main
-n27;14.9;1.42;;n27: Hempstead - Glen Cove;Main
-n31;11.52;1.1;;n31: Hempstead - Far Rockaway via W Broadway;Main
-n32;11.15;1.07;;n32: Hempstead - Far Rockaway via Broadway;Main
-n33;5.58;1.18;;n33: Far Rockaway - Long Beach;Main
-n35;10.64;1.23;;n35: Baldwin - Westbury;Main
-n40/41;7.02;1.07;;n40/41: Mineola - Freeport;Main
-n43;8.74;1.57;;n43: Garden City - Freeport;Main
-n48;8.68;1.3;;n48: Hempstead - Hicksville via Carman;Main
-n49;8.67;1.29;;n49: Hempstead - Hicksville via Newman;Main
-n54;12.56;1.15;;n54: Hempstead - Amityville via Washington;Main
-n55;13.43;1.22;;n55: Hempstead - Amityville via Broadway;Main
-n58;5.87;2.44;;n58: Great Neck - Kings Point;Main
-n70;12.23;1.13;;n70: Hempstead - Farmington State College;Main
-n71;13.09;1.27;;n71: Hempstead - Sunrise Mall / Amityville;Main
-n72;10.93;1.02;;n72: Hempstead - Farmingdale;Main
-n78;4.81;1.14;;n78: Hicksville - Plainview;Main
-n79;10.23;1.43;;n79: Hicksville - South Huntington;Main
-n80;9.42;1.23;;n80: Hicksville - Massapequa;Main
+n1;7.89;1.83;0.18;n1: Jamaica / Elmont - Hewlett;to Elmont
+n1-jamaica;13.05;1.88;0.21;n1: Jamaica / Elmont - Hewlett;to Jamaica
+n4;12.88;1.09;0.27;n4: Jamaica - Freeport;Main
+n6;9.8;1.09;0.25;n6: Jamaica - Hempstead;Main
+n15;12.3;1.17;0.21;n15: Mineola / Garden City - Long Beach;Main
+n15-M;12.63;1.21;0.22;n15: Mineola / Garden City - Long Beach;to Mineola
+n16;8.64;1.48;0.18;n16: Garden City - Rockville Centre;Main
+n19;8.94;1.12;0.21;n19: Freeport - Massapequa;Main
+n20g;7.27;1.26;0.21;n20G: Great Neck - Flushing;Main
+n20h;12.8;1.23;0.38;n20H: Great Neck - Hicksville;Main
+n21;10.03;1.4;0.19;n21: Great Neck - Glen Cove;Main
+n22;17.63;1.2;0.23;n22: Jamaica - Mineola / Hicksville;Main
+n23;10.8;1.37;0.2;n23: Mineola - Manorhaven;Main
+n24;17.01;1.16;0.24;n24: Jamaica - Garden City / Hicksville;Main
+n25;13.34;1.41;0.19;n25: Lynbrook - Great Neck;Main
+n26;11.57;1.75;0.26;n26: Jamaica - Great Neck;Main
+n27;14.9;1.42;0.22;n27: Hempstead - Glen Cove;Main
+n31;11.52;1.1;0.17;n31: Hempstead - Far Rockaway via W Broadway;Main
+n32;11.15;1.07;0.18;n32: Hempstead - Far Rockaway via Broadway;Main
+n33;5.58;1.18;0.17;n33: Far Rockaway - Long Beach;Main
+n35;10.64;1.23;0.18;n35: Baldwin - Westbury;Main
+n40/41;7.02;1.07;0.21;n40/41: Mineola - Freeport;Main
+n43;8.74;1.57;0.22;n43: Garden City - Freeport;Main
+n48;8.68;1.3;0.18;n48: Hempstead - Hicksville via Carman;Main
+n49;8.67;1.29;0.19;n49: Hempstead - Hicksville via Newman;Main
+n54;12.56;1.15;0.21;n54: Hempstead - Amityville via Washington;Main
+n55;13.43;1.22;0.21;n55: Hempstead - Amityville via Broadway;Main
+n58;5.87;2.44;0.19;n58: Great Neck - Kings Point;Main
+n70;12.23;1.13;0.24;n70: Hempstead - Farmington State College;Main
+n71;13.09;1.27;0.21;n71: Hempstead - Sunrise Mall / Amityville;Main
+n72;10.93;1.02;0.23;n72: Hempstead - Farmingdale;Main
+n78;4.81;1.14;0.19;n78: Hicksville - Plainview;Main
+n79;10.23;1.43;0.22;n79: Hicksville - South Huntington;Main
+n80;9.42;1.23;0.21;n80: Hicksville - Massapequa;Main

@@ -1,48 +1,48 @@
-1;6.22;1.03;;1: Bronx and Yonkers - White Plains;Main
-1C;19.45;1.36;;1: Bronx and Yonkers - White Plains;C: to Westchester Medical Ctr
-1T;14.24;1.1;;1: Bronx and Yonkers - White Plains;T: to Tarrytown
-1W;18.32;1.51;;1: Bronx and Yonkers - White Plains;W: to White Plains
-1X;17.03;1.19;;1: Bronx and Yonkers - White Plains;X: to Westchester Medical Ctr
-2;5.77;1.1;;2: Bronx - Tudor Woods;Main
-3;18.12;1.37;;3: Bronx - White Plains;Main
-4;5.2;1.26;;4: Bronx - Yonkers;Main
-5;20.45;1.98;;5: Yonkers - White Plains - Harrison;Main
-6;22.1;1.48;;6: Yonkers - White Plains - Pleasantville;Main
-7;8.8;1.38;;7: Yonkers - Mount Vernon - New Rochelle;Main
-8;6.3;1.36;;8: Mount St. Vincent - Yonkers - Tuckahoe;Main
-10;16.04;1.91;;10: Croton Commuter;Main
-11;16.27;1.31;;11: Croton Express;Main
-12;16.59;2.36;;12: Armonk - Westchester Airport - Purchase - White Plains;Main
-13;19.66;1.3;;13: Ossining - Tarrytown - Port Chester;Main
-14;34.62;1.74;;14: White Plains - Ossining - Peekskill;Main
-15;36.65;1.87;;15: Peekskill - Yorktown - White Plains;Main
-16;14.85;1.82;;16: Peekskill - Jefferson Valley;Main
-17;24.17;1.21;;17: White Plains - Peekskill Express;Main
-19;17.07;1.43;;19: Ossining - Mount Kisco - Katonah;Main
-20;13.91;1.08;;20: Bronx - White Plains;Main
-21;13.84;1.08;;21: Bronx - White Plains Express;Main
-25;6.23;1.79;;25: Bronx - Yonkers;Main
-26;4.63;1.47;;26: Bronx - Yonkers - Bronxville;Main
-27;7.48;1.55;;27: Skyline Dr - Eastview - White Plains;Main
-30;9.69;1.55;;30: Yonkers - Bronxville - New Rochelle;Main
-34;2.66;1.03;;34: Orchard Hill - Hartsdale;Main
-38;4.09;1.69;;38: Secor Rd - Hartsdale;Main
-39;4.2;1.62;;39: Ardsley - Hartsdale;Main
-40;15.95;1.29;;40: Mount Vernon - White Plains - Westchester Medical Ctr;Main
-41;16.8;1.29;;41: Mount Vernon - White Plains - Westchester Medical Ctr;Main
-42;5.98;1.48;;42: Bronx - Mount Vernon - New Rochelle;Main
-43;16.39;1.41;;43: Mount Vernon - White Plains - Westchester Medical Ctr;Main
-45;10.18;1.42;;45: Eastchester - New Rochelle - Pelham Bay;Main
-45Q;6.62;1.38;;45Q: Top of the Ridge - New Rochelle;Main
-52;4.39;1.06;;52: Bronx - Mount Vernon - Bronxville;Main
-53;3.91;2.31;;53: Mount Vernon - Chester Heights;Main
-54;2.12;2.37;;54: Mount Vernon Local;Main
-55;5.38;1.73;;55: Bronx - Mount Vernon - Yonkers;Main
-60;18.08;1.35;;60: Bronx - New Rochelle - White Plains;Main
-61;18.26;1.14;;61: Bronx - New Rochelle - White Plains;Main
-62;19.31;1.43;;62: Bronx - New Rochelle - White Plains;Main
-63;7.86;2.2;;63: Scarsdale - White Plains;Main
-66;13.28;1.49;;66: Dobbs Ferry - Scarsdale - New Rochelle;Main
-77;33.04;1.23;;77: Taconic Express;Main
-78;6.4;2.0;;78: Getty Sq - Stew Leonard's Dr;Main
-BxM4C;23.28;1.01;;BxM4C: Westchester - Manhattan;Main
+1;6.22;1.03;0.16;1: Bronx and Yonkers - White Plains;Main
+1C;19.45;1.36;0.2;1: Bronx and Yonkers - White Plains;C: to Westchester Medical Ctr
+1T;14.24;1.1;0.19;1: Bronx and Yonkers - White Plains;T: to Tarrytown
+1W;18.32;1.51;0.2;1: Bronx and Yonkers - White Plains;W: to White Plains
+1X;17.03;1.19;0.52;1: Bronx and Yonkers - White Plains;X: to Westchester Medical Ctr
+2;5.77;1.1;0.14;2: Bronx - Tudor Woods;Main
+3;18.12;1.37;0.58;3: Bronx - White Plains;Main
+4;5.2;1.26;0.19;4: Bronx - Yonkers;Main
+5;20.45;1.98;0.25;5: Yonkers - White Plains - Harrison;Main
+6;22.1;1.48;0.21;6: Yonkers - White Plains - Pleasantville;Main
+7;8.8;1.38;0.17;7: Yonkers - Mount Vernon - New Rochelle;Main
+8;6.3;1.36;0.15;8: Mount St. Vincent - Yonkers - Tuckahoe;Main
+10;16.04;1.91;0.55;10: Croton Commuter;Main
+11;16.27;1.31;0.51;11: Croton Express;Main
+12;16.59;2.36;0.37;12: Armonk - Westchester Airport - Purchase - White Plains;Main
+13;19.66;1.3;0.29;13: Ossining - Tarrytown - Port Chester;Main
+14;34.62;1.74;0.29;14: White Plains - Ossining - Peekskill;Main
+15;36.65;1.87;0.38;15: Peekskill - Yorktown - White Plains;Main
+16;14.85;1.82;0.3;16: Peekskill - Jefferson Valley;Main
+17;24.17;1.21;1.51;17: White Plains - Peekskill Express;Main
+19;17.07;1.43;0.28;19: Ossining - Mount Kisco - Katonah;Main
+20;13.91;1.08;0.22;20: Bronx - White Plains;Main
+21;13.84;1.08;0.53;21: Bronx - White Plains Express;Main
+25;6.23;1.79;0.16;25: Bronx - Yonkers;Main
+26;4.63;1.47;0.19;26: Bronx - Yonkers - Bronxville;Main
+27;7.48;1.55;0.34;27: Skyline Dr - Eastview - White Plains;Main
+30;9.69;1.55;0.14;30: Yonkers - Bronxville - New Rochelle;Main
+34;2.66;1.03;0.3;34: Orchard Hill - Hartsdale;Main
+38;4.09;1.69;0.31;38: Secor Rd - Hartsdale;Main
+39;4.2;1.62;0.28;39: Ardsley - Hartsdale;Main
+40;15.95;1.29;0.22;40: Mount Vernon - White Plains - Westchester Medical Ctr;Main
+41;16.8;1.29;0.43;41: Mount Vernon - White Plains - Westchester Medical Ctr;Main
+42;5.98;1.48;0.16;42: Bronx - Mount Vernon - New Rochelle;Main
+43;16.39;1.41;0.66;43: Mount Vernon - White Plains - Westchester Medical Ctr;Main
+45;10.18;1.42;0.2;45: Eastchester - New Rochelle - Pelham Bay;Main
+45Q;6.62;1.38;0.18;45Q: Top of the Ridge - New Rochelle;Main
+52;4.39;1.06;0.18;52: Bronx - Mount Vernon - Bronxville;Main
+53;3.91;2.31;0.16;53: Mount Vernon - Chester Heights;Main
+54;2.12;2.37;0.14;54: Mount Vernon Local;Main
+55;5.38;1.73;0.16;55: Bronx - Mount Vernon - Yonkers;Main
+60;18.08;1.35;0.21;60: Bronx - New Rochelle - White Plains;Main
+61;18.26;1.14;0.21;61: Bronx - New Rochelle - White Plains;Main
+62;19.31;1.43;0.39;62: Bronx - New Rochelle - White Plains;Main
+63;7.86;2.2;0.17;63: Scarsdale - White Plains;Main
+66;13.28;1.49;0.2;66: Dobbs Ferry - Scarsdale - New Rochelle;Main
+77;33.04;1.23;1.44;77: Taconic Express;Main
+78;6.4;2.0;0.27;78: Getty Sq - Stew Leonard's Dr;Main
+BxM4C;23.28;1.01;0.8;BxM4C: Westchester - Manhattan;Main

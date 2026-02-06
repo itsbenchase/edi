@@ -1,39 +1,39 @@
-Blue Line;26.09;1.17;;Blue Line: Easton - Bethlehem - Allentown - Trexlertown;Main
-Green Line;13.07;1.74;;Green Line: S Bethlehem - Allentown - Whitehall;Main
-102;14.12;1.49;;102: Lehigh Valley Hospital Cedar Crest - Allentown - Bethlehem;Main
-103;19.22;1.95;;103: South Bethlehem - Allentown - Northampton;Main
-104;10.87;2.77;;104: Emmaus - Allentown TC;Main
-105;10.98;1.4;;105: Hellertown - LV Airport via BTC;Main
-106;8.97;2.05;;106: Easton - Northampton Crossings & Palmer;Main
-107;9.1;1.17;;107: Village West - Hanover Ave;Main
-108;7.2;1.32;;108: Fountain Hill - Bethlehem Square;Main
-209;13.2;1.31;;209: LCCC - Allentown TC - Cumberland Gardens;Main
-210;7.69;1.45;;210: South Mall - Lehigh Valley Mall via Allentown TC;Main
-211;9.02;1.97;;211: Lehigh Parkway - Allentown TC - Whitehall;Main
-214;6.47;1.61;;214: Easton Intermodal Transit Center - Chrin Commerce Centre;Main
-215;11.16;1.51;;215: Majestic Bethlehem Center - LV Airport via BTC;Main
-216-nazareth;13.03;1.73;;216: Easton - Nazareth Plaza;to Nazareth Plaza
-216-northampton;8.07;1.98;;216: Easton - Nazareth Plaza;to Northampton Crossing
-217-northampton;19.2;1.58;;217: Slatebelt;to Northampton Crossing
-217-wind-gap;7.42;1.41;;217: Slatebelt;to Wind Gap Plaza
-218;11.59;1.37;;218: Fogelsville - Allentown TC;Main
-220;13.34;1.32;;220: Bethlehem - Easton;Main
-312-nazareth;15.67;1.88;;312: Bethlehem - Nazareth Plaza;to Nazareth
-312-ncc;8.39;1.87;;312: Bethlehem - Nazareth Plaza;to NCC
-319;12.1;1.56;;319: Lehigh Valley Mall - Bethlehem Sq via Airport;Main
-322;11.07;1.31;;322: Allentown TC - Amazon / Breinigsville;Main
-323;6.13;1.23;;323: Penn State LV - Bethlehem Southside;Main
-324;6.25;1.53;;324: Allentown - Lehigh Valley Airport;Main
-325;23.98;1.75;;325: Lehigh Valley Mall - Palmerton via LCCC;Main
-327;10.05;1.93;;327: Fountain Hill to Bethlehem Square;Main
-402;2.71;1.28;;402: Tilghman Street - Allen HS;Main
-403;5.27;2.2;;403: Emaus Ave - Allen HS;Main
-410;5.04;1.5;;410: Emaus Ave - Dieruff HS;Main
-413;4.4;1.41;;413: Dixon & South 5th - Dieruff HS;Main
-422;2.11;1.51;;422: 4th & Gordon - Allen HS;Main
-423;7.05;3.38;;423: Allentown ATC - South Mountain MS;Main
-431;2.16;1.29;;431: Gilmore & Susquehanna - South Mountain MS;Main
-440;2.85;1.23;;440: Pennsylvania St - Harrison Morton MS;Main
-441;2.47;1.19;;441: Hanover Ave - Harrison Morton MS;Main
-603;5.47;1.52;;603: 17th St - Crosstown;Main
-605;6.25;1.65;;605: Commerce Center Blvd - Bethlehem TC;Main
+Blue Line;26.09;1.17;0.26;Blue Line: Easton - Bethlehem - Allentown - Trexlertown;Main
+Green Line;13.07;1.74;0.45;Green Line: S Bethlehem - Allentown - Whitehall;Main
+102;14.12;1.49;0.19;102: Lehigh Valley Hospital Cedar Crest - Allentown - Bethlehem;Main
+103;19.22;1.95;0.17;103: South Bethlehem - Allentown - Northampton;Main
+104;10.87;2.77;0.23;104: Emmaus - Allentown TC;Main
+105;10.98;1.4;0.2;105: Hellertown - LV Airport via BTC;Main
+106;8.97;2.05;0.21;106: Easton - Northampton Crossings & Palmer;Main
+107;9.1;1.17;0.14;107: Village West - Hanover Ave;Main
+108;7.2;1.32;0.14;108: Fountain Hill - Bethlehem Square;Main
+209;13.2;1.31;0.17;209: LCCC - Allentown TC - Cumberland Gardens;Main
+210;7.69;1.45;0.19;210: South Mall - Lehigh Valley Mall via Allentown TC;Main
+211;9.02;1.97;0.15;211: Lehigh Parkway - Allentown TC - Whitehall;Main
+214;6.47;1.61;0.26;214: Easton Intermodal Transit Center - Chrin Commerce Centre;Main
+215;11.16;1.51;0.22;215: Majestic Bethlehem Center - LV Airport via BTC;Main
+216-nazareth;13.03;1.73;0.2;216: Easton - Nazareth Plaza;to Nazareth Plaza
+216-northampton;8.07;1.98;0.16;216: Easton - Nazareth Plaza;to Northampton Crossing
+217-northampton;19.2;1.58;0.38;217: Slatebelt;to Northampton Crossing
+217-wind-gap;7.42;1.41;0.35;217: Slatebelt;to Wind Gap Plaza
+218;11.59;1.37;0.22;218: Fogelsville - Allentown TC;Main
+220;13.34;1.32;0.17;220: Bethlehem - Easton;Main
+312-nazareth;15.67;1.88;0.27;312: Bethlehem - Nazareth Plaza;to Nazareth
+312-ncc;8.39;1.87;0.21;312: Bethlehem - Nazareth Plaza;to NCC
+319;12.1;1.56;0.3;319: Lehigh Valley Mall - Bethlehem Sq via Airport;Main
+322;11.07;1.31;0.24;322: Allentown TC - Amazon / Breinigsville;Main
+323;6.13;1.23;0.44;323: Penn State LV - Bethlehem Southside;Main
+324;6.25;1.53;0.2;324: Allentown - Lehigh Valley Airport;Main
+325;23.98;1.75;0.3;325: Lehigh Valley Mall - Palmerton via LCCC;Main
+327;10.05;1.93;0.21;327: Fountain Hill to Bethlehem Square;Main
+402;2.71;1.28;0.16;402: Tilghman Street - Allen HS;Main
+403;5.27;2.2;0.21;403: Emaus Ave - Allen HS;Main
+410;5.04;1.5;0.23;410: Emaus Ave - Dieruff HS;Main
+413;4.4;1.41;0.18;413: Dixon & South 5th - Dieruff HS;Main
+422;2.11;1.51;0.13;422: 4th & Gordon - Allen HS;Main
+423;7.05;3.38;0.21;423: Allentown ATC - South Mountain MS;Main
+431;2.16;1.29;0.22;431: Gilmore & Susquehanna - South Mountain MS;Main
+440;2.85;1.23;0.2;440: Pennsylvania St - Harrison Morton MS;Main
+441;2.47;1.19;0.19;441: Hanover Ave - Harrison Morton MS;Main
+603;5.47;1.52;0.15;603: 17th St - Crosstown;Main
+605;6.25;1.65;0.28;605: Commerce Center Blvd - Bethlehem TC;Main
